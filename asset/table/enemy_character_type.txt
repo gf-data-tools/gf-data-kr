@@ -1816,6 +1816,9 @@ enemy_character_type-30900351,
 enemy_character_type-20900352,케르베로스
 enemy_character_type-10900352,엘리트//c케르베로스//c장갑
 enemy_character_type-30900352,
+enemy_character_type-20900355,알리나-파도용기사
+enemy_character_type-10900355,엘리트//c"니토"//c장갑//c역장
+enemy_character_type-30900355,
 enemy_character_type-20080001,막는 애
 enemy_character_type-10080001,
 enemy_character_type-30080001,

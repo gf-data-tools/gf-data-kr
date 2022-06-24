@@ -1,0 +1,866 @@
+[
+    {
+        "id": 2101,
+        "name": "들 고양이(황색)",
+        "spine_code": "pet_cat4",
+        "scale": 68,
+        "ai": 2100,
+        "explore_tag": "1001"
+    },
+    {
+        "id": 2102,
+        "name": "들 고양이(흑색)",
+        "spine_code": "pet_cat5",
+        "scale": 68,
+        "ai": 2100,
+        "explore_tag": "1001"
+    },
+    {
+        "id": 2103,
+        "name": "아메리칸 숏 헤어",
+        "spine_code": "pet_cat1",
+        "scale": 68,
+        "ai": 2100,
+        "explore_tag": "1001"
+    },
+    {
+        "id": 2104,
+        "name": "샴 고양이",
+        "spine_code": "pet_cat3",
+        "scale": 68,
+        "ai": 2100,
+        "explore_tag": "1001"
+    },
+    {
+        "id": 2105,
+        "name": "서벌 캣",
+        "spine_code": "pet_cat2",
+        "scale": 68,
+        "ai": 2100,
+        "explore_tag": "1001"
+    },
+    {
+        "id": 2107,
+        "name": "유유자적 고양이",
+        "spine_code": "pet_cat6",
+        "scale": 68,
+        "ai": 2100,
+        "explore_tag": "1001"
+    },
+    {
+        "id": 2201,
+        "name": "시바견",
+        "spine_code": "pet_dog1",
+        "scale": 68,
+        "ai": 2201,
+        "explore_tag": "1002"
+    },
+    {
+        "id": 2202,
+        "name": "퍼그",
+        "spine_code": "pet_dog6",
+        "scale": 68,
+        "ai": 2206,
+        "explore_tag": "1002"
+    },
+    {
+        "id": 2203,
+        "name": "도베르만",
+        "spine_code": "pet_dog3",
+        "scale": 68,
+        "ai": 2200,
+        "explore_tag": "1002"
+    },
+    {
+        "id": 2204,
+        "name": "허스키",
+        "spine_code": "pet_dog5",
+        "scale": 68,
+        "ai": 2205,
+        "explore_tag": "1002"
+    },
+    {
+        "id": 2205,
+        "name": "올드 잉글리시 쉽독",
+        "spine_code": "pet_dog4",
+        "scale": 68,
+        "ai": 2200,
+        "explore_tag": "1002"
+    },
+    {
+        "id": 2206,
+        "name": "성탄절 퍼그",
+        "spine_code": "pet_dog7",
+        "scale": 68,
+        "ai": 2206,
+        "explore_tag": "1002"
+    },
+    {
+        "id": 3000,
+        "name": "16년 할로윈 유령",
+        "spine_code": "ws2016_deco",
+        "scale": 100,
+        "ai": 3000,
+        "explore_tag": ""
+    },
+    {
+        "id": 3001,
+        "name": "지휘실 카리나",
+        "spine_code": "Kalina",
+        "scale": 100,
+        "ai": 3001,
+        "explore_tag": ""
+    },
+    {
+        "id": 3002,
+        "name": "철혈 멍멍이",
+        "spine_code": "R_Dinergate",
+        "scale": 100,
+        "ai": 3002,
+        "explore_tag": ""
+    },
+    {
+        "id": 3003,
+        "name": "성탄절 철혈 멍멍이",
+        "spine_code": "RDinergate_chm2",
+        "scale": 100,
+        "ai": 3003,
+        "explore_tag": ""
+    },
+    {
+        "id": 3004,
+        "name": "설날 사자춤",
+        "spine_code": "liondance",
+        "scale": 100,
+        "ai": 3004,
+        "explore_tag": ""
+    },
+    {
+        "id": 3005,
+        "name": "성야환상 카리나",
+        "spine_code": "Kalina_angel",
+        "scale": 100,
+        "ai": 3005,
+        "explore_tag": ""
+    },
+    {
+        "id": 3006,
+        "name": "만물박사가 되는 길 카리나",
+        "spine_code": "Kalina_president",
+        "scale": 100,
+        "ai": 3006,
+        "explore_tag": ""
+    },
+    {
+        "id": 3007,
+        "name": "지하철 광고판",
+        "spine_code": "CMboard",
+        "scale": 100,
+        "ai": 3007,
+        "explore_tag": ""
+    },
+    {
+        "id": 3008,
+        "name": "달빛 무도회 카리나",
+        "spine_code": "Kalina_DLS",
+        "scale": 100,
+        "ai": 3001,
+        "explore_tag": ""
+    },
+    {
+        "id": 3009,
+        "name": "과자마을 비행선",
+        "spine_code": "flyboat",
+        "scale": 100,
+        "ai": 3008,
+        "explore_tag": ""
+    },
+    {
+        "id": 3010,
+        "name": "황금빛 백사장 카리나",
+        "spine_code": "Kalina_beach",
+        "scale": 100,
+        "ai": 3009,
+        "explore_tag": ""
+    },
+    {
+        "id": 3011,
+        "name": "온천을 즐기다 너구리",
+        "spine_code": "tanuki",
+        "scale": 100,
+        "ai": 3010,
+        "explore_tag": ""
+    },
+    {
+        "id": 3012,
+        "name": "대도서관 마법책",
+        "spine_code": "MagicBook",
+        "scale": 100,
+        "ai": 3010,
+        "explore_tag": ""
+    },
+    {
+        "id": 3013,
+        "name": "핼러윈 타운 철혈 멍멍이",
+        "spine_code": "Frankenstein",
+        "scale": 100,
+        "ai": 3011,
+        "explore_tag": ""
+    },
+    {
+        "id": 3014,
+        "name": "탑 건 비행기",
+        "spine_code": "restroom_effect",
+        "scale": 100,
+        "ai": 3012,
+        "explore_tag": ""
+    },
+    {
+        "id": 3015,
+        "name": "크리스마스의 작은 방 썰매",
+        "spine_code": "Sled",
+        "scale": 100,
+        "ai": 3008,
+        "explore_tag": ""
+    },
+    {
+        "id": 3016,
+        "name": "404RPG",
+        "spine_code": "404RPG",
+        "scale": 100,
+        "ai": 3013,
+        "explore_tag": ""
+    },
+    {
+        "id": 3017,
+        "name": "설날 철혈 멍멍이",
+        "spine_code": "RDinergate_cracker",
+        "scale": 100,
+        "ai": 3014,
+        "explore_tag": ""
+    },
+    {
+        "id": 3018,
+        "name": "꽃 뿌리기",
+        "spine_code": "strewflowers",
+        "scale": 100,
+        "ai": 3008,
+        "explore_tag": ""
+    },
+    {
+        "id": 3019,
+        "name": "정원의 디너게이트",
+        "spine_code": "RDinergate_korea",
+        "scale": 100,
+        "ai": 3008,
+        "explore_tag": ""
+    },
+    {
+        "id": 3020,
+        "name": "글로벌 2주년",
+        "spine_code": "2years",
+        "scale": 100,
+        "ai": 2206,
+        "explore_tag": ""
+    },
+    {
+        "id": 3021,
+        "name": "어린이날",
+        "spine_code": "Puppet",
+        "scale": 75,
+        "ai": 3011,
+        "explore_tag": ""
+    },
+    {
+        "id": 3022,
+        "name": "찹쌀 고양이",
+        "spine_code": "unclecat",
+        "scale": 68,
+        "ai": 2207,
+        "explore_tag": "1001"
+    },
+    {
+        "id": 3023,
+        "name": "트로피컬 카리나",
+        "spine_code": "Kalina_Maid",
+        "scale": 100,
+        "ai": 3015,
+        "explore_tag": ""
+    },
+    {
+        "id": 3024,
+        "name": "불꽃축제 시바견",
+        "spine_code": "pet_dog8",
+        "scale": 68,
+        "ai": 2201,
+        "explore_tag": "1002"
+    },
+    {
+        "id": 3025,
+        "name": "상어",
+        "spine_code": "Shark",
+        "scale": 100,
+        "ai": 3016,
+        "explore_tag": ""
+    },
+    {
+        "id": 3026,
+        "name": "헤비메탈블러드 독",
+        "spine_code": "RDinergate_RockRoll",
+        "scale": 100,
+        "ai": 3017,
+        "explore_tag": ""
+    },
+    {
+        "id": 3027,
+        "name": "핼러윈 좀비 캣",
+        "spine_code": "cat_halloween",
+        "scale": 68,
+        "ai": 2100,
+        "explore_tag": "1001"
+    },
+    {
+        "id": 3028,
+        "name": "핼러윈 갑옷",
+        "spine_code": "armor_Halloween",
+        "scale": 75,
+        "ai": 3018,
+        "explore_tag": ""
+    },
+    {
+        "id": 3029,
+        "name": "프로듀서",
+        "spine_code": "Kalina_Producer",
+        "scale": 100,
+        "ai": 3019,
+        "explore_tag": ""
+    },
+    {
+        "id": 3030,
+        "name": "전술 순록",
+        "spine_code": "Elk",
+        "scale": 100,
+        "ai": 3015,
+        "explore_tag": ""
+    },
+    {
+        "id": 3031,
+        "name": "루돌냥",
+        "spine_code": "cat1Xmas",
+        "scale": 68,
+        "ai": 2100,
+        "explore_tag": "1001"
+    },
+    {
+        "id": 3032,
+        "name": "무녀 카리나",
+        "spine_code": "Kalina_miko",
+        "scale": 100,
+        "ai": 3020,
+        "explore_tag": ""
+    },
+    {
+        "id": 3033,
+        "name": "비둘기",
+        "spine_code": "pet_bird2",
+        "scale": 90,
+        "ai": 3021,
+        "explore_tag": "1003"
+    },
+    {
+        "id": 3034,
+        "name": "뱁새",
+        "spine_code": "pet_bird4",
+        "scale": 90,
+        "ai": 3022,
+        "explore_tag": "1003"
+    },
+    {
+        "id": 3035,
+        "name": "칡부엉이",
+        "spine_code": "pet_bird5",
+        "scale": 90,
+        "ai": 3023,
+        "explore_tag": "1003"
+    },
+    {
+        "id": 3036,
+        "name": "금강앵무",
+        "spine_code": "pet_bird3",
+        "scale": 90,
+        "ai": 3024,
+        "explore_tag": "1003"
+    },
+    {
+        "id": 3037,
+        "name": "흰머리수리",
+        "spine_code": "pet_bird1",
+        "scale": 90,
+        "ai": 3025,
+        "explore_tag": "1003"
+    },
+    {
+        "id": 3038,
+        "name": "치파오 카리나",
+        "spine_code": "Kalina_PigYear",
+        "scale": 100,
+        "ai": 3026,
+        "explore_tag": ""
+    },
+    {
+        "id": 3039,
+        "name": "러브레터 비둘기",
+        "spine_code": "bird_V",
+        "scale": 90,
+        "ai": 3021,
+        "explore_tag": "1003"
+    },
+    {
+        "id": 3040,
+        "name": "초코 고양이",
+        "spine_code": "ChocolateCat",
+        "scale": 100,
+        "ai": 3027,
+        "explore_tag": ""
+    },
+    {
+        "id": 3041,
+        "name": "미믹",
+        "spine_code": "box_monster",
+        "scale": 120,
+        "ai": 3028,
+        "explore_tag": ""
+    },
+    {
+        "id": 3042,
+        "name": "UMP40 홀로그램",
+        "spine_code": "FPHD_UMP40",
+        "scale": 100,
+        "ai": 3029,
+        "explore_tag": ""
+    },
+    {
+        "id": 3043,
+        "name": "유령 안나",
+        "spine_code": "Anna",
+        "scale": 100,
+        "ai": 3030,
+        "explore_tag": ""
+    },
+    {
+        "id": 3044,
+        "name": "점박이 햄스터",
+        "spine_code": "pet_sp6",
+        "scale": 100,
+        "ai": 3035,
+        "explore_tag": "1004"
+    },
+    {
+        "id": 3045,
+        "name": "악어거북",
+        "spine_code": "pet_sp1",
+        "scale": 100,
+        "ai": 3031,
+        "explore_tag": "1004"
+    },
+    {
+        "id": 3046,
+        "name": "흰족제비",
+        "spine_code": "pet_sp7",
+        "scale": 100,
+        "ai": 3036,
+        "explore_tag": "1004"
+    },
+    {
+        "id": 3047,
+        "name": "카멜레온",
+        "spine_code": "pet_sp3",
+        "scale": 100,
+        "ai": 3033,
+        "explore_tag": "1004"
+    },
+    {
+        "id": 3048,
+        "name": "억울한 물범",
+        "spine_code": "pet_sp2",
+        "scale": 100,
+        "ai": 3032,
+        "explore_tag": "1004"
+    },
+    {
+        "id": 3049,
+        "name": "바셋하운드",
+        "spine_code": "pet_sp4",
+        "scale": 68,
+        "ai": 3034,
+        "explore_tag": "1002"
+    },
+    {
+        "id": 3050,
+        "name": "고양이 포어",
+        "spine_code": "Fore",
+        "scale": 68,
+        "ai": 3037,
+        "explore_tag": "1001"
+    },
+    {
+        "id": 3051,
+        "name": "개멋진 시바",
+        "spine_code": "Rad_Shiba",
+        "scale": 68,
+        "ai": 3038,
+        "explore_tag": "1002"
+    },
+    {
+        "id": 3052,
+        "name": "블록 카리나",
+        "spine_code": "Kalina_toy",
+        "scale": 100,
+        "ai": 3039,
+        "explore_tag": ""
+    },
+    {
+        "id": 3053,
+        "name": "구조견 퍼그",
+        "spine_code": "pet_dogdrive",
+        "scale": 68,
+        "ai": 2208,
+        "explore_tag": "1002"
+    },
+    {
+        "id": 3054,
+        "name": "인어 카리나",
+        "spine_code": "kalina_mermaid",
+        "scale": 100,
+        "ai": 3040,
+        "explore_tag": ""
+    },
+    {
+        "id": 3055,
+        "name": "귀신 쫓는 아키쟝",
+        "spine_code": "Onmyoji",
+        "scale": 80,
+        "ai": 3041,
+        "explore_tag": ""
+    },
+    {
+        "id": 3056,
+        "name": "학교짱 아키쟝",
+        "spine_code": "zhiba_arch",
+        "scale": 83,
+        "ai": 3042,
+        "explore_tag": ""
+    },
+    {
+        "id": 3057,
+        "name": "특수 구조 고양이",
+        "spine_code": "pet_cat7",
+        "scale": 68,
+        "ai": 2100,
+        "explore_tag": "1001"
+    },
+    {
+        "id": 3058,
+        "name": "복음전도사",
+        "spine_code": "dog_Hallowmas",
+        "scale": 68,
+        "ai": 2200,
+        "explore_tag": "1002"
+    },
+    {
+        "id": 3059,
+        "name": "M4 도플갱어",
+        "spine_code": "hallo2019_06",
+        "scale": 100,
+        "ai": 3015,
+        "explore_tag": ""
+    },
+    {
+        "id": 3060,
+        "name": "우주신사견",
+        "spine_code": "pet_dog9",
+        "scale": 68,
+        "ai": 2201,
+        "explore_tag": "1002"
+    },
+    {
+        "id": 3061,
+        "name": "레이싱퀸 카리나",
+        "spine_code": "NPC_kalina_racing",
+        "scale": 100,
+        "ai": 3001,
+        "explore_tag": ""
+    },
+    {
+        "id": 3062,
+        "name": "산타 쉽독",
+        "spine_code": "pet_dog10",
+        "scale": 68,
+        "ai": 2200,
+        "explore_tag": "1002"
+    },
+    {
+        "id": 3063,
+        "name": "선물뿌리개",
+        "spine_code": "Xmas19_04",
+        "scale": 68,
+        "ai": 3043,
+        "explore_tag": ""
+    },
+    {
+        "id": 3064,
+        "name": "카리나 형님",
+        "spine_code": "Kalina_zy2020",
+        "scale": 100,
+        "ai": 3001,
+        "explore_tag": ""
+    },
+    {
+        "id": 3065,
+        "name": "고전미인 카리나*",
+        "spine_code": "Kalina_newyear2020",
+        "scale": 100,
+        "ai": 3001,
+        "explore_tag": ""
+    },
+    {
+        "id": 3066,
+        "name": "주례 신부 꼬마 니토*",
+        "spine_code": "nietuo_2020WhiteV",
+        "scale": 100,
+        "ai": 3044,
+        "explore_tag": ""
+    },
+    {
+        "id": 3067,
+        "name": "순백 금강앵무",
+        "spine_code": "bird_2020V",
+        "scale": 100,
+        "ai": 3024,
+        "explore_tag": "1003"
+    },
+    {
+        "id": 3068,
+        "name": "아기 공룡 아키쟝*",
+        "spine_code": "Architect_shuiyi",
+        "scale": 100,
+        "ai": 3046,
+        "explore_tag": ""
+    },
+    {
+        "id": 3069,
+        "name": "주년회 촬영 헬기*",
+        "spine_code": "helicopter_2020_Anni",
+        "scale": 100,
+        "ai": 3047,
+        "explore_tag": ""
+    },
+    {
+        "id": 3070,
+        "name": "시노키오",
+        "spine_code": "CarcanoM91_Pinocchio",
+        "scale": 100,
+        "ai": 3048,
+        "explore_tag": ""
+    },
+    {
+        "id": 3071,
+        "name": "해변 순찰견",
+        "spine_code": "dog_beach",
+        "scale": 68,
+        "ai": 2209,
+        "explore_tag": "1002"
+    },
+    {
+        "id": 3072,
+        "name": "낚시 철댕이*",
+        "spine_code": "dog_fishman",
+        "scale": 100,
+        "ai": 3049,
+        "explore_tag": ""
+    },
+    {
+        "id": 3073,
+        "name": "풀아머 카리나*",
+        "spine_code": "armor_Kalina",
+        "scale": 100,
+        "ai": 3050,
+        "explore_tag": ""
+    },
+    {
+        "id": 3074,
+        "name": "에도 아키쟝*",
+        "spine_code": "Architect_Edo",
+        "scale": 100,
+        "ai": 3051,
+        "explore_tag": ""
+    },
+    {
+        "id": 3075,
+        "name": "삐에로 태엽견",
+        "spine_code": "halloween2020_dog",
+        "scale": 68,
+        "ai": 2210,
+        "explore_tag": "1002"
+    },
+    {
+        "id": 3076,
+        "name": "핼러윈 좀비*",
+        "spine_code": "Halloween2020_Zombie1",
+        "scale": 100,
+        "ai": 3052,
+        "explore_tag": ""
+    },
+    {
+        "id": 3077,
+        "name": "핼러윈 좀비*",
+        "spine_code": "Halloween2020_Zombie2",
+        "scale": 100,
+        "ai": 3052,
+        "explore_tag": ""
+    },
+    {
+        "id": 3078,
+        "name": "요원 boss*",
+        "spine_code": "Agent2020_BossKing",
+        "scale": 100,
+        "ai": 3053,
+        "explore_tag": ""
+    },
+    {
+        "id": 3079,
+        "name": "성탄절 조각상*",
+        "spine_code": "Christmas2020_deco_statue",
+        "scale": 100,
+        "ai": 3008,
+        "explore_tag": ""
+    },
+    {
+        "id": 3080,
+        "name": "새해 사자*",
+        "spine_code": "NewYear2021_Lion",
+        "scale": 68,
+        "ai": 3006,
+        "explore_tag": ""
+    },
+    {
+        "id": 3081,
+        "name": "사자탈춤*",
+        "spine_code": "2021SpringFes_Lion",
+        "scale": 100,
+        "ai": 3054,
+        "explore_tag": ""
+    },
+    {
+        "id": 3082,
+        "name": "신부 아키쟝*",
+        "spine_code": "2021WhiteV_Architect",
+        "scale": 100,
+        "ai": 3001,
+        "explore_tag": ""
+    },
+    {
+        "id": 3083,
+        "name": "시상식 드론*",
+        "spine_code": "Raverbury_medalDrone",
+        "scale": 100,
+        "ai": 3008,
+        "explore_tag": ""
+    },
+    {
+        "id": 3084,
+        "name": "주년 연회 열기구*",
+        "spine_code": "Anniversary2021_balloon",
+        "scale": 100,
+        "ai": 3008,
+        "explore_tag": ""
+    },
+    {
+        "id": 3085,
+        "name": "검은 꼬리 신사",
+        "spine_code": "2021Summer_SeaMew",
+        "scale": 100,
+        "ai": 3024,
+        "explore_tag": "1003"
+    },
+    {
+        "id": 3086,
+        "name": "외눈짱",
+        "spine_code": "Dropkick_CyclopsChanPet",
+        "scale": 68,
+        "ai": 3055,
+        "explore_tag": "1004"
+    },
+    {
+        "id": 3087,
+        "name": "콩콩이",
+        "spine_code": "Dropkick_BeansEmissaryPet",
+        "scale": 68,
+        "ai": 3056,
+        "explore_tag": "1004"
+    },
+    {
+        "id": 3088,
+        "name": "베트",
+        "spine_code": "Dropkick_BethPet",
+        "scale": 68,
+        "ai": 3001,
+        "explore_tag": "1004"
+    },
+    {
+        "id": 3089,
+        "name": "수영복 철댕이*",
+        "spine_code": "Summer2021_deco_DinergateSP",
+        "scale": 100,
+        "ai": 3057,
+        "explore_tag": ""
+    },
+    {
+        "id": 3090,
+        "name": "불도그 펠레",
+        "spine_code": "2021SummerActivity_dogPet",
+        "scale": 68,
+        "ai": 3019,
+        "explore_tag": "1002"
+    },
+    {
+        "id": 3091,
+        "name": "이발사 카리나*",
+        "spine_code": "2021Halloween_Kalina",
+        "scale": 100,
+        "ai": 3058,
+        "explore_tag": ""
+    },
+    {
+        "id": 3092,
+        "name": "성탄절 사슴",
+        "spine_code": "Christmas2021_DeerPet",
+        "scale": 120,
+        "ai": 3001,
+        "explore_tag": "1004"
+    },
+    {
+        "id": 3093,
+        "name": "기수 철댕이*",
+        "spine_code": "WhiteV2022_ant",
+        "scale": 68,
+        "ai": 3059,
+        "explore_tag": ""
+    },
+    {
+        "id": 3094,
+        "name": "서빙 철댕이*",
+        "spine_code": "Anniversary2022_waiterAnt",
+        "scale": 55,
+        "ai": 3000,
+        "explore_tag": ""
+    },
+    {
+        "id": 3095,
+        "name": "테니스 카리나*",
+        "spine_code": "Children2022_tennisKalina",
+        "scale": 100,
+        "ai": 3060,
+        "explore_tag": ""
+    }
+]

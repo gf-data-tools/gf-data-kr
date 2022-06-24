@@ -1,0 +1,354 @@
+[
+    {
+        "id": 201,
+        "class_id": 2,
+        "title": "전술인형 레벨",
+        "desc": "",
+        "weight": 0.01,
+        "page_to_go": 0
+    },
+    {
+        "id": 202,
+        "class_id": 2,
+        "title": "전술인형 개조",
+        "desc": "",
+        "weight": 0.5,
+        "page_to_go": 0
+    },
+    {
+        "id": 203,
+        "class_id": 2,
+        "title": "전술인형 스킬 레벨",
+        "desc": "",
+        "weight": 0.05,
+        "page_to_go": 0
+    },
+    {
+        "id": 204,
+        "class_id": 2,
+        "title": "전술인형 강화",
+        "desc": "",
+        "weight": 0.02,
+        "page_to_go": 0
+    },
+    {
+        "id": 205,
+        "class_id": 2,
+        "title": "전술인형 편제확장",
+        "desc": "",
+        "weight": 0.04,
+        "page_to_go": 0
+    },
+    {
+        "id": 301,
+        "class_id": 3,
+        "title": "5성 인형 장비 보유",
+        "desc": "",
+        "weight": 1.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 302,
+        "class_id": 3,
+        "title": "전용 인형 장비 보유",
+        "desc": "",
+        "weight": 1.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 303,
+        "class_id": 3,
+        "title": "인형 장비 교정",
+        "desc": "",
+        "weight": 0.5,
+        "page_to_go": 0
+    },
+    {
+        "id": 304,
+        "class_id": 3,
+        "title": "인형 장비 강화",
+        "desc": "",
+        "weight": 0.08,
+        "page_to_go": 0
+    },
+    {
+        "id": 401,
+        "class_id": 4,
+        "title": "전술요정 레벨",
+        "desc": "",
+        "weight": 0.01,
+        "page_to_go": 0
+    },
+    {
+        "id": 402,
+        "class_id": 4,
+        "title": "전술요정 성급",
+        "desc": "",
+        "weight": 0.05,
+        "page_to_go": 0
+    },
+    {
+        "id": 403,
+        "class_id": 4,
+        "title": "전술요정 특성",
+        "desc": "",
+        "weight": 0.3,
+        "page_to_go": 0
+    },
+    {
+        "id": 404,
+        "class_id": 4,
+        "title": "전술요정 스킬 레벨",
+        "desc": "",
+        "weight": 0.02,
+        "page_to_go": 0
+    },
+    {
+        "id": 501,
+        "class_id": 5,
+        "title": "중장비 부대 레벨",
+        "desc": "",
+        "weight": 0.3,
+        "page_to_go": 0
+    },
+    {
+        "id": 502,
+        "class_id": 5,
+        "title": "중장비 부대 승진",
+        "desc": "",
+        "weight": 1.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 503,
+        "class_id": 5,
+        "title": "중장비 부대 버전업",
+        "desc": "",
+        "weight": 2.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 504,
+        "class_id": 5,
+        "title": "중장비 부대 스킬 레벨",
+        "desc": "",
+        "weight": 0.9,
+        "page_to_go": 0
+    },
+    {
+        "id": 505,
+        "class_id": 5,
+        "title": "중장비 부대 칩셋",
+        "desc": "",
+        "weight": 0.6,
+        "page_to_go": 0
+    },
+    {
+        "id": 601,
+        "class_id": 6,
+        "title": "혼합세력 레벨",
+        "desc": "",
+        "weight": 0.01,
+        "page_to_go": 0
+    },
+    {
+        "id": 602,
+        "class_id": 6,
+        "title": "혼합세력 개발",
+        "desc": "",
+        "weight": 0.4,
+        "page_to_go": 0
+    },
+    {
+        "id": 603,
+        "class_id": 6,
+        "title": "혼합세력 해석도",
+        "desc": "",
+        "weight": 0.2,
+        "page_to_go": 0
+    },
+    {
+        "id": 604,
+        "class_id": 6,
+        "title": "혼합세력 스킬",
+        "desc": "",
+        "weight": 0.2,
+        "page_to_go": 0
+    },
+    {
+        "id": 605,
+        "class_id": 6,
+        "title": "전술칩 개발",
+        "desc": "",
+        "weight": 2.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 801,
+        "class_id": 8,
+        "title": "메인 전역",
+        "desc": "",
+        "weight": 1.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 802,
+        "class_id": 8,
+        "title": "대형 이벤트 전역",
+        "desc": "",
+        "weight": 1.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 803,
+        "class_id": 8,
+        "title": "포인트 이벤트 참여",
+        "desc": "",
+        "weight": 1.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 804,
+        "class_id": 8,
+        "title": "도감 수집",
+        "desc": "",
+        "weight": 1.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 901,
+        "class_id": 9,
+        "title": "군수지원",
+        "desc": "",
+        "weight": 1.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 902,
+        "class_id": 9,
+        "title": "전진기지 탐색",
+        "desc": "",
+        "weight": 1.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 903,
+        "class_id": 9,
+        "title": "자율작전",
+        "desc": "",
+        "weight": 1.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 904,
+        "class_id": 9,
+        "title": "시설 건설",
+        "desc": "",
+        "weight": 1.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 1001,
+        "class_id": 10,
+        "title": "친구 수",
+        "desc": "",
+        "weight": 1.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 1002,
+        "class_id": 10,
+        "title": "숙소 칭찬 수",
+        "desc": "",
+        "weight": 0.01,
+        "page_to_go": 0
+    },
+    {
+        "id": 1003,
+        "class_id": 10,
+        "title": "숙소 공유 전지",
+        "desc": "",
+        "weight": 0.01,
+        "page_to_go": 0
+    },
+    {
+        "id": 1004,
+        "class_id": 10,
+        "title": "지원제대 사용",
+        "desc": "",
+        "weight": 0.05,
+        "page_to_go": 0
+    },
+    {
+        "id": 1005,
+        "class_id": 10,
+        "title": "러프베리체스 플레이",
+        "desc": "",
+        "weight": 0.1,
+        "page_to_go": 0
+    },
+    {
+        "id": 1101,
+        "class_id": 11,
+        "title": "가구 획득 수량",
+        "desc": "",
+        "weight": 0.3,
+        "page_to_go": 0
+    },
+    {
+        "id": 1102,
+        "class_id": 11,
+        "title": "가구 세트 획득",
+        "desc": "",
+        "weight": 4.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 1103,
+        "class_id": 11,
+        "title": "인형 코스튬 수집",
+        "desc": "",
+        "weight": 1.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 1104,
+        "class_id": 11,
+        "title": "카페 만화 수집",
+        "desc": "",
+        "weight": 5.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 1105,
+        "class_id": 11,
+        "title": "인형의 추억",
+        "desc": "",
+        "weight": 3.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 1106,
+        "class_id": 11,
+        "title": "그리폰 회상",
+        "desc": "",
+        "weight": 5.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 1107,
+        "class_id": 11,
+        "title": "인형 서약",
+        "desc": "",
+        "weight": 1.0,
+        "page_to_go": 0
+    },
+    {
+        "id": 1108,
+        "class_id": 11,
+        "title": "인형 호감도",
+        "desc": "",
+        "weight": 1.0,
+        "page_to_go": 0
+    }
+]

@@ -1,0 +1,371 @@
+[
+    {
+        "id": 101,
+        "fetter_id": 1,
+        "actor": "g:9",
+        "milestone": 0,
+        "reward": 22006,
+        "name": "소박한 마녀",
+        "description": "\"진주는 모래 속에서도 빛을 발하는 법.\""
+    },
+    {
+        "id": 102,
+        "fetter_id": 1,
+        "actor": "g:9;g:167",
+        "milestone": 1,
+        "reward": 22003,
+        "name": "뒤쫓는 유령",
+        "description": "\"유령이 꼭 그늘에 숨지는 않는다.\""
+    },
+    {
+        "id": 103,
+        "fetter_id": 1,
+        "actor": "g:9;g:167;g:92",
+        "milestone": 1,
+        "reward": 22001,
+        "name": "정석적인 계획",
+        "description": "\"계획을 갖고 있으면, 적어도 실패했을 때 이유라도 알 수 있다.\""
+    },
+    {
+        "id": 104,
+        "fetter_id": 1,
+        "actor": "",
+        "milestone": 2,
+        "reward": 22002,
+        "name": "맛있는 잡음",
+        "description": "\"들키지 않으려면...\""
+    },
+    {
+        "id": 105,
+        "fetter_id": 1,
+        "actor": "g:167;g:92;g:7",
+        "milestone": 2,
+        "reward": 22004,
+        "name": "실패한 첫걸음",
+        "description": "\"삶이란 성공과 실패, 그리고 실패로 이루어진다.\""
+    },
+    {
+        "id": 106,
+        "fetter_id": 1,
+        "actor": "g:9;g:167;g:92;g:7",
+        "milestone": 2,
+        "reward": 22006,
+        "name": "대가 있는 도움",
+        "description": "\"뭐든지 부탁해, 돈만 낸다면.\""
+    },
+    {
+        "id": 107,
+        "fetter_id": 1,
+        "actor": "g:9;g:167;g:92;g:7",
+        "milestone": 3,
+        "reward": 22022,
+        "name": "어린 새의 날갯짓",
+        "description": "\"노력은 아쉬움을 되도록 줄이려고 하는 거야.\""
+    },
+    {
+        "id": 108,
+        "fetter_id": 1,
+        "actor": "g:9;g:167;g:92;g:272",
+        "milestone": 3,
+        "reward": 22023,
+        "name": "대가 없는 진심",
+        "description": "\"기억에 대해서 인형이나 인간이나 똑같아.\""
+    },
+    {
+        "id": 109,
+        "fetter_id": 1,
+        "actor": "g:9;g:167;g:92;g:272",
+        "milestone": 4,
+        "reward": 22024,
+        "name": "마녀의 밤",
+        "description": "\"쉿, 이 밤의 음악을 들어봐...\""
+    },
+    {
+        "id": 110,
+        "fetter_id": 1,
+        "actor": "g:9;g:167;g:92;g:7;g:272",
+        "milestone": 5,
+        "reward": 22005,
+        "name": "눈부신 전망",
+        "description": "\"과외비라 치라고, 내가 진작에 말했지?\""
+    },
+    {
+        "id": 111,
+        "fetter_id": 1,
+        "actor": "g:9;g:167",
+        "milestone": 6,
+        "reward": 22041,
+        "name": "꿈의 간주",
+        "description": "\"아름다운 것은 어떻게든 묘사해야 해, 이름이라도 지어줘.\""
+    },
+    {
+        "id": 201,
+        "fetter_id": 2,
+        "actor": "g:36;g:50",
+        "milestone": 1,
+        "reward": 22001,
+        "name": "Dealer",
+        "description": "\"어느 날 리엔필드가 임무를 마치고 그녀의 안식처에 돌아왔을 때 예상치 못한 일을 만났다...\""
+    },
+    {
+        "id": 202,
+        "fetter_id": 2,
+        "actor": "g:36;g:50;g:48",
+        "milestone": 1,
+        "reward": 22004,
+        "name": "Player",
+        "description": "\"리엔필드는 자신이 이런 무리에 낄 줄은 상상한 적 없다, 게다가 자신보다 더 어색해 보이는 인물까지 있었다...\""
+    },
+    {
+        "id": 203,
+        "fetter_id": 2,
+        "actor": "g:36;g:50;g:48",
+        "milestone": 2,
+        "reward": 22005,
+        "name": "Wager",
+        "description": "\"무슨 일이든 실전이 어려운 법, 리엔필드는 머리로는 알고 있어도 지고 싶진 않았다.\""
+    },
+    {
+        "id": 204,
+        "fetter_id": 2,
+        "actor": "g:36;g:50;g:48",
+        "milestone": 2,
+        "reward": 22006,
+        "name": "Hit",
+        "description": "\"세상은 참 신기하지, 특히 자신이 남보다 잘났다고 생각할 때 말이야.\""
+    },
+    {
+        "id": 205,
+        "fetter_id": 2,
+        "actor": "g:36;g:50;g:48",
+        "milestone": 3,
+        "reward": 22022,
+        "name": "Odds",
+        "description": "\"실패를 달게 받고, 교훈을 얻어 다음에 성공하기 위해 준비하라... 입에 발린 말쯤이야 누구나 한다, 하지만 그녀는 절대 실패하지 않는다.\""
+    },
+    {
+        "id": 206,
+        "fetter_id": 2,
+        "actor": "g:36;g:50;g:48;g:46;g:39",
+        "milestone": 3,
+        "reward": 22005,
+        "name": "Split",
+        "description": "\"배우가 모였으니 막을 올리자.\""
+    },
+    {
+        "id": 207,
+        "fetter_id": 2,
+        "actor": "g:36;g:50;g:48;g:46;g:39",
+        "milestone": 3,
+        "reward": 22006,
+        "name": "LadyLuck",
+        "description": "\"이 세상에 꺾을 수 없는 건 없다, 난 그렇게 믿기에 지금까지 이겨왔다.\""
+    },
+    {
+        "id": 208,
+        "fetter_id": 2,
+        "actor": "g:36;g:50;g:48;g:46;g:39",
+        "milestone": 4,
+        "reward": 22003,
+        "name": "Blinds",
+        "description": "\"사자는 토끼를 상대로도 전력을 다한다, 토끼는 교활하기 때문에.\""
+    },
+    {
+        "id": 209,
+        "fetter_id": 2,
+        "actor": "g:36;g:50;g:48;g:46;g:39",
+        "milestone": 4,
+        "reward": 22042,
+        "name": "Heads-up",
+        "description": "\"네가 심연을 주시할 때, 심연도 널 주시한다.\""
+    },
+    {
+        "id": 210,
+        "fetter_id": 2,
+        "actor": "g:36;g:50",
+        "milestone": 5,
+        "reward": 22047,
+        "name": "Fold",
+        "description": "\"삶은 이야기가 아니면서도 이야기다. 삶이라는 이야기 속에서 모두가 주인공이다.\""
+    },
+    {
+        "id": 301,
+        "fetter_id": 3,
+        "actor": "g:96;g:297;g:155",
+        "milestone": 1,
+        "reward": 22025,
+        "name": "오리온자리",
+        "description": "\"친구가 갑자기 이상한 모습을 보일 때, 마음의 준비를 하는 것이 좋다...\""
+    },
+    {
+        "id": 302,
+        "fetter_id": 3,
+        "actor": "g:96;g:297;g:155",
+        "milestone": 1,
+        "reward": 22003,
+        "name": "평면 반사",
+        "description": "\"나야 평소대로 하는 게 최선인 걸 알지, 그런데 평소대로 하는 게 마냥 쉬운 줄 알아?\""
+    },
+    {
+        "id": 303,
+        "fetter_id": 3,
+        "actor": "g:96;g:297;g:155",
+        "milestone": 1,
+        "reward": 22004,
+        "name": "안내서",
+        "description": "\"내게 인생의 안내서가 있다면, 그걸로 매일 저녁 메뉴를 정할 거야.\""
+    },
+    {
+        "id": 304,
+        "fetter_id": 3,
+        "actor": "g:96;g:180;g:297;g:306;g:155",
+        "milestone": 2,
+        "reward": 22006,
+        "name": "만유인력",
+        "description": "\"운명으로 이끌리는 것들이 있어.\""
+    },
+    {
+        "id": 305,
+        "fetter_id": 3,
+        "actor": "g:96;g:180;g:297;g:306;g:155",
+        "milestone": 2,
+        "reward": 22005,
+        "name": "점성술",
+        "description": "\"이 세상 모든 일에 의미가 있다면, 난 분명 미쳐버릴 거야.\""
+    },
+    {
+        "id": 306,
+        "fetter_id": 3,
+        "actor": "g:96;g:180;g:297;g:306;g:155",
+        "milestone": 3,
+        "reward": 22001,
+        "name": "천문도",
+        "description": "\"무한한 공간 저 너머로!\""
+    },
+    {
+        "id": 307,
+        "fetter_id": 3,
+        "actor": "g:96;g:180;g:297;g:306;g:155",
+        "milestone": 3,
+        "reward": 22003,
+        "name": "은하",
+        "description": "\"자신이 이해할 수 없는 것에 경외심을 가져라.\""
+    },
+    {
+        "id": 308,
+        "fetter_id": 3,
+        "actor": "g:96;g:180;g:297;g:306;g:155",
+        "milestone": 4,
+        "reward": 22002,
+        "name": "샛별",
+        "description": "\"네 모든 선택이 네 운명을 정한다.\""
+    },
+    {
+        "id": 309,
+        "fetter_id": 3,
+        "actor": "g:96;g:180;g:297;g:306;g:155",
+        "milestone": 4,
+        "reward": 22022,
+        "name": "레다와 백조",
+        "description": "\"잃고 나서야 소중함을 깨달지 마.\""
+    },
+    {
+        "id": 310,
+        "fetter_id": 3,
+        "actor": "g:96;g:180;g:297;g:306;g:155",
+        "milestone": 5,
+        "reward": 22042,
+        "name": "별들의 기억",
+        "description": "\"형체를 지닌 건 필멸하지만, 형체 없는 의지는 불멸하다.\""
+    },
+    {
+        "id": 401,
+        "fetter_id": 4,
+        "actor": "g:64;g:36",
+        "milestone": 1,
+        "reward": 22006,
+        "name": "로즈마리",
+        "description": "\"저 두 사람은 그리폰 종합근무팀의 자랑. 가끔 욕심쟁이가 둘이 합치면 더 강해지지 않을까 생각합니다.\""
+    },
+    {
+        "id": 402,
+        "fetter_id": 4,
+        "actor": "g:64;g:36",
+        "milestone": 1,
+        "reward": 22003,
+        "name": "후추",
+        "description": "\"일상을 깨부술 수 있는 건 오직 돌발상황뿐, 그리고 여태껏 없었던 변화도 가져오죠.\""
+    },
+    {
+        "id": 403,
+        "fetter_id": 4,
+        "actor": "g:64;g:36;g:216",
+        "milestone": 2,
+        "reward": 22005,
+        "name": "딸기잼",
+        "description": "\"약간 불똥만 있으면 초원을 불태울 수 있습니다, 바람 방향만 맞다면요.\""
+    },
+    {
+        "id": 404,
+        "fetter_id": 4,
+        "actor": "g:64;g:36;g:216",
+        "milestone": 2,
+        "reward": 22024,
+        "name": "소금과 설탕",
+        "description": "\"뭐든지 마냥 마음대로 되지는 않는 법이죠, 맛있는 조미료를 무작정 섞으면 오히려 이상한 맛이 나는 것처럼요.\""
+    },
+    {
+        "id": 405,
+        "fetter_id": 4,
+        "actor": "g:36;g:104",
+        "milestone": 3,
+        "reward": 22003,
+        "name": "핫밀크",
+        "description": "\"스프링필드 씨는 항상 친절합니다.\""
+    },
+    {
+        "id": 406,
+        "fetter_id": 4,
+        "actor": "g:64;g:216",
+        "milestone": 3,
+        "reward": 22002,
+        "name": "아이스 커피",
+        "description": "\"G36 씨는 항상 꼼꼼하죠.\""
+    },
+    {
+        "id": 407,
+        "fetter_id": 4,
+        "actor": "g:36;g:104",
+        "milestone": 3,
+        "reward": 22022,
+        "name": "단백질 과다",
+        "description": "\"가끔, 너무 친절할 때가 있습니다.\""
+    },
+    {
+        "id": 408,
+        "fetter_id": 4,
+        "actor": "g:64;g:216",
+        "milestone": 4,
+        "reward": 22023,
+        "name": "카페인 중독",
+        "description": "\"가끔, 너무 꼼꼼할 때가 있죠.\""
+    },
+    {
+        "id": 409,
+        "fetter_id": 4,
+        "actor": "g:64;g:36",
+        "milestone": 4,
+        "reward": 22026,
+        "name": "간치기",
+        "description": "\"수박에 소금을 뿌려 먹은 적 있나요?\""
+    },
+    {
+        "id": 410,
+        "fetter_id": 4,
+        "actor": "g:64;g:36;g:104;g:216",
+        "milestone": 5,
+        "reward": 22042,
+        "name": "짠 수박",
+        "description": "\"두 배로 맛있답니다.\""
+    }
+]

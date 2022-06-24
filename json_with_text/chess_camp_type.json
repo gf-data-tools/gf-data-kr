@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "I.O.P",
+        "des": "3차대전 기간 창립한 공업 제조회사, 전쟁 중 90wish 출신 페르시카의 기술 지원을 얻어 전술인형을 생산하고 있다.",
+        "camp_skill": "303",
+        "passive_skill": "30320,30321",
+        "color": "#C7E001FF",
+        "code": "MiniGameFlightChessCamp1"
+    },
+    {
+        "id": 2,
+        "name": "스바로그",
+        "des": "스바로그는 방대한 규모를 가진 장수 중공업 기업이다. 주업무는 군수공업, 에너지 산업 및 인프라 건설 등으로, 스마트 도시 및 신생 에너지 분야에서 주목할만한 성과를 얻었다.",
+        "camp_skill": "302",
+        "passive_skill": "",
+        "color": "#00D9C1FF",
+        "code": "MiniGameFlightChessCamp2"
+    },
+    {
+        "id": 3,
+        "name": "16LAB",
+        "des": "IOP의 자금 지원으로 설립한 연구단체, 주요 연구과제는 90wish의 유물인 \"지나 네트워크\".",
+        "camp_skill": "305",
+        "passive_skill": "31002,31102,31202",
+        "color": "#DFB801FF",
+        "code": "MiniGameFlightChessCamp3"
+    },
+    {
+        "id": 4,
+        "name": "철혈공조",
+        "des": "전칭 \"철혈 공업제조회사(SANGVIS FERRI)\", 장수 공업제조회사로, 3차대전 종료 후, 인공지능을 이용해 새로운 전술인형을 개발하였다.",
+        "camp_skill": "304",
+        "passive_skill": "",
+        "color": "#E04900FF",
+        "code": "MiniGameFlightChessCamp4"
+    }
+]
