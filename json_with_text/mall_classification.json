@@ -17,21 +17,21 @@
         "id": 1002,
         "parent_id": 1000,
         "sort": 2,
-        "name": "훈장 교환",
+        "name": "라이칸의 성역\n훈장 교환",
         "description": ""
     },
     {
         "id": 1003,
         "parent_id": 1000,
         "sort": 3,
-        "name": "훈장 교환",
+        "name": "웨이브 랭글러\n훈장 교환",
         "description": ""
     },
     {
         "id": 1004,
         "parent_id": 1000,
         "sort": 4,
-        "name": "재화 교환",
+        "name": "웨이브 랭글러\n재화 교환",
         "description": ""
     },
     {
@@ -45,7 +45,7 @@
         "id": 1006,
         "parent_id": 1000,
         "sort": 6,
-        "name": "a",
+        "name": "라이칸의 성역\n재화 교환",
         "description": ""
     },
     {

@@ -761,3 +761,43 @@ mission_win_type_config-11108609,P22에게 그녀가 좋아할 초콜릿을 선�
 mission_win_type_config-11108610,T77에게 그녀가 좋아할 초콜릿을 선물하기
 mission_win_type_config-11108611,또 누가 있지...
 mission_win_type_config-11108701,
+mission_win_type_config-11110301,모든 여름 표식을 서핑 보드 면으로 뒤집기
+mission_win_type_config-11110401,모든 여름 표식을 서핑 보드 면으로 뒤집기
+mission_win_type_config-11110501,4턴까지 버티기.//n주의: 대형 헬리포트에서 역장을 지닌 적이 출현하니 조심하세요.
+mission_win_type_config-11110601,6턴까지 버티기//n주의: 대형 헬리포트에서 역장을 지닌 적이 출현하니 조심하세요.
+mission_win_type_config-19521001,<color=#CE8200FF>토끼굴</color>에 도착해 다음층으로 이동하기.//n·<color=#CE8200FF>토끼굴</color>의 위치까지 이동하면 됩니다.
+mission_win_type_config-19521301,8층 <color=#CE8200FF>토끼굴①</color>에 도착해 다음층으로 이동하기.//n·<color=#CE8200FF>토끼굴①</color>의 위치까지 이동하면 됩니다.
+mission_win_type_config-19521401,최종 보스를 처치
+mission_win_type_config-11109901,폭죽으로 맵 전체를 밝히기
+mission_win_type_config-11110001,폭죽으로 맵 전체를 밝히기
+mission_win_type_config-11110101,
+mission_win_type_config-11110102,
+mission_win_type_config-11110103,
+mission_win_type_config-11110104,
+mission_win_type_config-11110105,
+mission_win_type_config-11110201,
+mission_win_type_config-11110202,
+mission_win_type_config-11110203,
+mission_win_type_config-11110204,
+mission_win_type_config-11110205,
+mission_win_type_config-11111301,
+mission_win_type_config-11111302,
+mission_win_type_config-11111303,
+mission_win_type_config-11111304,
+mission_win_type_config-11111305,
+mission_win_type_config-11111306,
+mission_win_type_config-11111307,
+mission_win_type_config-11111308,
+mission_win_type_config-11111309,
+mission_win_type_config-11111310,
+mission_win_type_config-11111401,
+mission_win_type_config-11111402,
+mission_win_type_config-11111403,
+mission_win_type_config-11111404,
+mission_win_type_config-11111405,
+mission_win_type_config-11111406,
+mission_win_type_config-11111407,
+mission_win_type_config-11111408,
+mission_win_type_config-11111409,
+mission_win_type_config-11111410,
+mission_win_type_config-11111501,
