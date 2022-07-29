@@ -1724,8 +1724,8 @@
         "type": 1407,
         "arguments": "6440064:1",
         "extra_language": "댄들라이 생존",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 490101,
@@ -2180,8 +2180,8 @@
         "type": 1407,
         "arguments": "410302:1",
         "extra_language": "[유령자매II] 맵 끝자락의 디너게이트에게 접근",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1051220,
@@ -2340,8 +2340,8 @@
         "type": 1101,
         "arguments": "91984",
         "extra_language": "다른 구역을 탐사(턴 종료 시 판정)\n<color=#FF4646>·아직 진행할 수 없으며, 먼저 첫번째 목표를 달성하세오.</color>",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1051602,
@@ -2660,8 +2660,8 @@
         "type": 1407,
         "arguments": "9411871:1",
         "extra_language": "[정글 체스] 우로보로스에 관한 자료를 더 찾기\n<color=#FFFF00>·얼떨결에 찾은 방 안에 단서가 있을지도?</color>\n<color=#FFFF00>·자료를 가진 제대를 지휘부에서 2턴간 대기시키면 임무 완료.</color>",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1051813,
@@ -2924,8 +2924,8 @@
         "type": 1407,
         "arguments": "440302:1",
         "extra_language": "마흐리안에게 접근",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1063402,
@@ -2948,32 +2948,32 @@
         "type": 1407,
         "arguments": "440511:16",
         "extra_language": "모든 마크를 G면으로 뒤집기(조작 시 자신 주변 4칸의 마크를 뒤집는다. 자신 위치의 마크는 뒤집히지 않음)",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1063701,
         "type": 1407,
         "arguments": "440611:1",
         "extra_language": "남동쪽에 술집으로 보이는 곳을 수색(레이더)",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1063702,
         "type": 1407,
         "arguments": "440612:1",
         "extra_language": "북동쪽에 술집으로 보이는 곳을 수색(레이더)",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1063703,
         "type": 1407,
         "arguments": "440613:1",
         "extra_language": "서북쪽에 술집으로 보이는 곳을 수색(레이더)",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1063704,
@@ -2981,23 +2981,23 @@
         "arguments": "440614:1",
         "extra_language": "알 수 없는 승리 조건",
         "is_hidden": 1,
-        "is_show_count": "1"
+        "is_show_count": "0"
     },
     {
         "id": 1063901,
         "type": 1406,
         "arguments": "440800:0",
         "extra_language": "기억조각을 4개 읽기",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1064001,
         "type": 1407,
         "arguments": "440900:1",
         "extra_language": "마흐리안의 파노라마를 탐색하여 더 깊은 곳에 들어가 마지막 기억조각을 읽기.",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1064101,
@@ -3124,8 +3124,8 @@
         "type": 1407,
         "arguments": "440511:36",
         "extra_language": "모든 마크를 G면으로 뒤집기(조작 시 자신 주변 4칸의 마크를 뒤집는다. 자신 위치의 마크는 뒤집히지 않음)",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1065701,
@@ -3172,8 +3172,8 @@
         "type": 1406,
         "arguments": "6440052:0",
         "extra_language": "격리벽 안의 적들을 청소.\n(이 칸이 <color=#FF0818>·X</color>로 표시되면 남은 적이 있음.)",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1065903,
@@ -3428,8 +3428,8 @@
         "type": 1407,
         "arguments": "44540003:1",
         "extra_language": "폭발물을 찾아 창고를 폭파.\n·버려진 골리앗을 찾아내 제어콘솔에 설치하여 다음 턴에 폭파.",
-        "is_hidden": 1,
-        "is_show_count": "1"
+        "is_hidden": 0,
+        "is_show_count": "0"
     },
     {
         "id": 1076501,
