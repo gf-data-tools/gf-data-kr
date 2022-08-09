@@ -1,0 +1,54 @@
+[
+  {
+    id: 1
+    name: 유니크
+  }
+  {
+    id: 2
+    name: 살상계
+  }
+  {
+    id: 3
+    name: 정밀계
+  }
+  {
+    id: 4
+    name: 회피계
+  }
+  {
+    id: 5
+    name: 장갑계
+  }
+  {
+    id: 6
+    name: 필살계
+  }
+  {
+    id: 7
+    name: 격양계
+  }
+  {
+    id: 8
+    name: 선봉계
+  }
+  {
+    id: 9
+    name: 돌격계
+  }
+  {
+    id: 10
+    name: 조준계
+  }
+  {
+    id: 11
+    name: 완강계
+  }
+  {
+    id: 12
+    name: 진압계
+  }
+  {
+    id: 13
+    name: 예민계
+  }
+]
