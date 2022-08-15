@@ -1,0 +1,46 @@
+[
+  {
+    id: 1
+    name: 지정배치
+    type: 1
+    parameter: "60301"
+    init_time: "1,2"
+    cd: 3
+    code: AirdropIcon_1
+    description: 배치 도구카드 <color=#ffb400ff>파병소</color> 1장 획득
+    probability: 10000
+  }
+  {
+    id: 2
+    name: 재물확보
+    type: 2
+    parameter: "5"
+    init_time: "1,2"
+    cd: 3
+    code: AirdropIcon_2
+    description: <color=#ffb400ff>러프베리 코인</color> 5개 획득
+    probability: 10000
+  }
+  {
+    id: 3
+    name: chess_choice_stage-10000003
+    type: 0
+    parameter: ""
+    init_time: ""
+    cd: 0
+    code: ""
+    description: chess_choice_stage-20000003
+    probability: 0
+  }
+  {
+    id: 4
+    name: chess_choice_stage-10000004
+    type: 0
+    parameter: ""
+    init_time: ""
+    cd: 0
+    code: ""
+    description: chess_choice_stage-20000004
+    probability: 0
+  }
+]

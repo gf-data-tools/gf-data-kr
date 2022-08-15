@@ -1,0 +1,2657 @@
+[
+  {
+    id: 101
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+1
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 102
+    name: 화력 상승
+    code: FlightChessBuff_1
+    description: 화력+1
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 103
+    name: 쿨타임 감소【*】
+    code: ""
+    description: 현재 쿨타임-1【*】
+    max_tier: 10
+    type: 121
+    duration_type: 1
+    duration: 1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 104
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+1
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 105
+    name: 공격횟수【*】
+    code: ""
+    description: 공격횟수+1【*】
+    max_tier: 1
+    type: 117
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 106
+    name: 쿨타임 단축
+    code: FlightChessBuff_17
+    description: 쿨타임 단축-1
+    max_tier: 1
+    type: 122
+    duration_type: 1
+    duration: -1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 107
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+4
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "4"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 108
+    name: 보호막【*】
+    code: ""
+    description: 보호막+1【*】
+    max_tier: 99
+    type: 104
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 109
+    name: 화력 상승
+    code: FlightChessBuff_1
+    description: 화력+1
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 110
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+1
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 111
+    name: 최대체력
+    code: FlightChessBuff_8
+    description: 최대체력+1
+    max_tier: 99
+    type: 107
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 6
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 112
+    name: 사거리
+    code: FlightChessBuff_5
+    description: 사거리+1
+    max_tier: 99
+    type: 103
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 9
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 113
+    name: 보호막【*】
+    code: ""
+    description: 보호막+1【*】
+    max_tier: 99
+    type: 104
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 114
+    name: 성장횟수【*】
+    code: ""
+    description: 성장횟수+1【*】
+    max_tier: 99
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 115
+    name: 스킬 피해
+    code: FlightChessBuff_19
+    description: 공격력+1
+    max_tier: 99
+    type: 124
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 116
+    name: 최대체력
+    code: FlightChessBuff_8
+    description: 최대체력-1
+    max_tier: 99
+    type: 107
+    duration_type: 1
+    duration: -1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 13
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 117
+    name: 일반 피해 조절
+    code: FlightChessBuff_28
+    description: 일반 피해 조절
+    max_tier: 1
+    type: 120
+    duration_type: 1
+    duration: -1
+    parameter: *500101
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 118
+    name: 쿨타임 단축
+    code: FlightChessBuff_17
+    description: 쿨타임 단축-1
+    max_tier: 5
+    type: 122
+    duration_type: 1
+    duration: -1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 119
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+1
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 120
+    name: 회복 효율【*】
+    code: ""
+    description: 회복 효율+1【*】
+    max_tier: 99
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 121
+    name: 도약 거리
+    code: FlightChessBuff_27
+    description: 기동 거리+1
+    max_tier: 99
+    type: 125
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 122
+    name: 도약 거리
+    code: FlightChessBuff_27
+    description: 기동 거리+2
+    max_tier: 99
+    type: 125
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 123
+    name: 보호막【*】
+    code: ""
+    description: 보호막+2【*】
+    max_tier: 1
+    type: 104
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 124
+    name: 배치 상한
+    code: FlightChessBuff_15
+    description: 배치 가능+1
+    max_tier: 1
+    type: 118
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 125
+    name: 피해 조절
+    code: FlightChessBuff_1
+    description: 최대 10점
+    max_tier: 1
+    type: 108
+    duration_type: 1
+    duration: -1
+    parameter: *500102
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 126
+    name: 화력 상승
+    code: FlightChessBuff_1
+    description: 화력+1
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 127
+    name: 일반 피해 조절
+    code: FlightChessBuff_28
+    description: 일반 피해 조절
+    max_tier: 1
+    type: 120
+    duration_type: 1
+    duration: -1
+    parameter: *500103
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 128
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+2
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 129
+    name: 물음표 사거리
+    code: FlightChessBuff_5
+    description: 사거리+3
+    max_tier: 1
+    type: 103
+    duration_type: 1
+    duration: 1
+    parameter: "3"
+    trigger_creation_id: 0
+    creation_id: 9
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 130
+    name: 화력 상승
+    code: FlightChessBuff_1
+    description: 화력+5
+    max_tier: 1
+    type: 101
+    duration_type: 1
+    duration: -1
+    parameter: "5"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 131
+    name: 최대체력
+    code: FlightChessBuff_8
+    description: 최대체력-5
+    max_tier: 1
+    type: 107
+    duration_type: 1
+    duration: -1
+    parameter: "-5"
+    trigger_creation_id: 0
+    creation_id: 6
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 132
+    name: 표식【*】
+    code: ""
+    description: 표식용【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 133
+    name: 표식 차단【*】
+    code: ""
+    description: 표식용【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 134
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+2
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 135
+    name: 행동 주사위
+    code: FlightChessBuff_22
+    description: 행동 주사위+1
+    max_tier: 5
+    type: 130
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 136
+    name: 주사위 눈
+    code: FlightChessBuff_24
+    description: 최대 이동 5
+    max_tier: 1
+    type: 132
+    duration_type: 2
+    duration: 1
+    parameter: "5"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 137
+    name: 전투 주사위
+    code: FlightChessBuff_23
+    description: 전투 주사위+1
+    max_tier: 1
+    type: 131
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 138
+    name: 주사위 눈
+    code: FlightChessBuff_24
+    description: 최소 이동 3
+    max_tier: 1
+    type: 133
+    duration_type: 1
+    duration: 1
+    parameter: "3"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 139
+    name: 주사위 눈
+    code: FlightChessBuff_25
+    description: 최소 피해 3
+    max_tier: 1
+    type: 135
+    duration_type: 1
+    duration: 1
+    parameter: "3"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 140
+    name: 차단용buff【*】
+    code: ""
+    description: buff무한 순환 방지【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 141
+    name: 스킬 피해【*】
+    code: ""
+    description: 스킬 피해 집계【*】
+    max_tier: 99
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 142
+    name: 화력 상승
+    code: FlightChessBuff_1
+    description: 화력+1
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 143
+    name: 차단용buff【*】
+    code: ""
+    description: buff무한 순환 방지【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 144
+    name: 차단용buff【*】
+    code: ""
+    description: buff무한 순환 방지【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 145
+    name: 주사위 눈
+    code: FlightChessBuff_24
+    description: 최소 이동4
+    max_tier: 1
+    type: 133
+    duration_type: 1
+    duration: 1
+    parameter: "4"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 146
+    name: 주사위 눈
+    code: FlightChessBuff_25
+    description: 최소 피해 4
+    max_tier: 1
+    type: 135
+    duration_type: 1
+    duration: 1
+    parameter: "4"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 147
+    name: 행동 주사위
+    code: FlightChessBuff_22
+    description: 행동 주사위+1
+    max_tier: 1
+    type: 130
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 148
+    name: 표식용buff【*】
+    code: ""
+    description: 표식【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 149
+    name: 차단용buff【*】
+    code: ""
+    description: 차단【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 150
+    name: 일반 피해 조절
+    code: FlightChessBuff_28
+    description: 일반 피해 조절
+    max_tier: 1
+    type: 120
+    duration_type: 1
+    duration: -1
+    parameter: *500104
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 151
+    name: 일반 피해 조절
+    code: FlightChessBuff_28
+    description: 일반 피해 조절
+    max_tier: 1
+    type: 120
+    duration_type: 1
+    duration: -1
+    parameter: *500105
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 152
+    name: 표식용buff【*】
+    code: ""
+    description: hg스킬 목표표식【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 153
+    name: 보호막【*】
+    code: ""
+    description: 보호막+1【*】
+    max_tier: 99
+    type: 104
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 154
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+1
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 155
+    name: 보호막【*】
+    code: ""
+    description: 보호막+1【*】
+    max_tier: 99
+    type: 104
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 156
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+1
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 157
+    name: 표식용buff【*】
+    code: ""
+    description: 유언【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 158
+    name: 표식용buff【*】
+    code: ""
+    description: 유언2【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 159
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+1
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 160
+    name: 최대체력
+    code: FlightChessBuff_8
+    description: 최대체력+1
+    max_tier: 99
+    type: 107
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 161
+    name: 일반 피해 조절
+    code: FlightChessBuff_28
+    description: 일반 피해 조절
+    max_tier: 1
+    type: 120
+    duration_type: 1
+    duration: -1
+    parameter: *500101
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 162
+    name: 사거리
+    code: FlightChessBuff_5
+    description: 사거리+2
+    max_tier: 99
+    type: 103
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 9
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 163
+    name: 화력 상승
+    code: FlightChessBuff_1
+    description: 화력+2
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 164
+    name: 표식용buff【*】
+    code: ""
+    description: 부상 상태【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 165
+    name: 일반 피해 조절
+    code: FlightChessBuff_28
+    description: 일반 피해 조절
+    max_tier: 1
+    type: 120
+    duration_type: 1
+    duration: -1
+    parameter: *500107
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 166
+    name: 표식용buff【*】
+    code: ""
+    description: 트리거141【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 167
+    name: 차단표식【*】
+    code: ""
+    description: 표식용【*】
+    max_tier: 2
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 168
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력-1
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 13
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 169
+    name: 화력 상승
+    code: FlightChessBuff_1
+    description: 화력-1
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: -1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 13
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 170
+    name: 사거리
+    code: FlightChessBuff_5
+    description: 사거리-1
+    max_tier: 99
+    type: 103
+    duration_type: 1
+    duration: -1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 13
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 171
+    name: 화력 상승
+    code: FlightChessBuff_1
+    description: 화력+2
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 172
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+2
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 173
+    name: 최대체력
+    code: FlightChessBuff_8
+    description: 최대체력-1
+    max_tier: 99
+    type: 107
+    duration_type: 1
+    duration: -1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 13
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 174
+    name: 카운트buff【*】
+    code: ""
+    description: 생존 턴수【*】
+    max_tier: 6
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 175
+    name: 카운트buff【*】
+    code: ""
+    description: 증폭 트리거【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 176
+    name: 카운트buff【*】
+    code: ""
+    description: 배치 카운트【*】
+    max_tier: 8
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 177
+    name: 카운트buff【*】
+    code: ""
+    description: 트리거62301【*】
+    max_tier: 10
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 178
+    name: 카운트buff【*】
+    code: ""
+    description: chess_buff-20000178
+    max_tier: 5
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 2
+  }
+  {
+    id: 179
+    name: 쿨타임 단축
+    code: FlightChessBuff_17
+    description: 쿨타임 단축-1
+    max_tier: 1
+    type: 122
+    duration_type: 1
+    duration: -1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 180
+    name: 쿨타임 단축
+    code: FlightChessBuff_17
+    description: 쿨타임 단축-1
+    max_tier: 1
+    type: 122
+    duration_type: 1
+    duration: -1
+    parameter: "-2"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 181
+    name: 카운트buff【*】
+    code: ""
+    description: 아이템 사용【*】
+    max_tier: 6
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 182
+    name: 배치 상한
+    code: FlightChessBuff_15
+    description: 배치 가능+2
+    max_tier: 1
+    type: 118
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 183
+    name: 피해 조절
+    code: FlightChessBuff_28
+    description: 최대 8점
+    max_tier: 1
+    type: 108
+    duration_type: 1
+    duration: -1
+    parameter: *500108
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 194
+    name: 카운트buff【*】
+    code: ""
+    description: chess_buff-20000194
+    max_tier: 4
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 3
+  }
+  {
+    id: 195
+    name: 카운트buff【*】
+    code: ""
+    description: 163카운트【*】
+    max_tier: 10
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 196
+    name: 표식용buff【*】
+    code: ""
+    description: 턴내【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 197
+    name: 카운트buff【*】
+    code: ""
+    description: 164카운트【*】
+    max_tier: 99
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 198
+    name: 표식용buff【*】
+    code: ""
+    description: 최대체력 감소 면역【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 199
+    name: 사거리
+    code: FlightChessBuff_5
+    description: 사거리+1
+    max_tier: 99
+    type: 103
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 9
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 200
+    name: 표식용buff【*】
+    code: ""
+    description: 차단17001【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 201
+    name: 표식용buff【*】
+    code: ""
+    description: 차단17101【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 202
+    name: 도약 거리
+    code: FlightChessBuff_27
+    description: 기동 거리+1
+    max_tier: 99
+    type: 125
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 203
+    name: 표식용buff【*】
+    code: ""
+    description: 차단12503【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 204
+    name: 표식용buff【*】
+    code: ""
+    description: 차단12603【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 205
+    name: 표식용buff【*】
+    code: ""
+    description: 차단12303【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 206
+    name: 표식용buff【*】
+    code: ""
+    description: 차단15501【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 207
+    name: 행동 주사위
+    code: FlightChessBuff_22
+    description: 행동 주사위+1
+    max_tier: 1
+    type: 130
+    duration_type: 2
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 208
+    name: 피해 조절【*】
+    code: ""
+    description: 600용【*】
+    max_tier: 1
+    type: 108
+    duration_type: 2
+    duration: 1
+    parameter: *500109
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 209
+    name: 피격 표식【*】
+    code: ""
+    description: 600용【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 210
+    name: 피해 조절【*】
+    code: ""
+    description: 600용【*】
+    max_tier: 1
+    type: 108
+    duration_type: 2
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 211
+    name: 보호막【*】
+    code: ""
+    description: 보호막+2【*】
+    max_tier: 1
+    type: 104
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 212
+    name: 보호막【*】
+    code: ""
+    description: 보호막+2【*】
+    max_tier: 99
+    type: 104
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 213
+    name: 이동 조절【*】
+    code: ""
+    description: 60201용【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 214
+    name: 이동 조절【*】
+    code: ""
+    description: 60202용【*】
+    max_tier: 1
+    type: 102
+    duration_type: 2
+    duration: 1
+    parameter: *500110
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 215
+    name: 최대 체력
+    code: FlightChessBuff_8
+    description: 최대 체력-2
+    max_tier: 99
+    type: 107
+    duration_type: 1
+    duration: -1
+    parameter: "-2"
+    trigger_creation_id: 0
+    creation_id: 13
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 216
+    name: 피해 상승
+    code: FlightChessBuff_1
+    description: 피해+2
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: 1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 217
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+2
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 218
+    name: 사거리
+    code: FlightChessBuff_5
+    description: 사거리+1
+    max_tier: 99
+    type: 103
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 9
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 219
+    name: 스킬피해
+    code: FlightChessBuff_19
+    description: 파괴력+1
+    max_tier: 99
+    type: 124
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 220
+    name: 이동 조절【*】
+    code: ""
+    description: 60204용【*】
+    max_tier: 1
+    type: 102
+    duration_type: 2
+    duration: 1
+    parameter: *500111
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 221
+    name: 표식용buff【*】
+    code: ""
+    description: 차단12801【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 222
+    name: 기절
+    code: FlightChessBuff_10
+    description: 기절
+    max_tier: 1
+    type: 110
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 223
+    name: 최대 체력
+    code: FlightChessBuff_8
+    description: 최대 체력+2
+    max_tier: 99
+    type: 107
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 6
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 224
+    name: 사거리
+    code: FlightChessBuff_5
+    description: 사거리+2
+    max_tier: 99
+    type: 103
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 9
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 225
+    name: 보호막【*】
+    code: ""
+    description: 보호막+2【*】
+    max_tier: 99
+    type: 104
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 226
+    name: 도약 거리
+    code: FlightChessBuff_27
+    description: 기동 거리+2
+    max_tier: 99
+    type: 125
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 227
+    name: 표식용buff【*】
+    code: ""
+    description: 차단12901【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 228
+    name: 행동 주사위
+    code: FlightChessBuff_22
+    description: 행동 주사위+1
+    max_tier: 1
+    type: 130
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 229
+    name: 표식용buff【*】
+    code: ""
+    description: 발동: 희생smg효과【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 230
+    name: 표식용buff【*】
+    code: ""
+    description: 발동: 희생RF효과【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 231
+    name: 표식용buff【*】
+    code: ""
+    description: 발동: 희생AR효과【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 232
+    name: 주사위 눈
+    code: FlightChessBuff_24
+    description: 행동 최소3
+    max_tier: 1
+    type: 132
+    duration_type: 2
+    duration: 1
+    parameter: "3"
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 233
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+4
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "4"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 234
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+1
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 235
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+2
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 236
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+2
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 237
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+4
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "4"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 238
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+8
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "8"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 239
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+16
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "16"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 240
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+32
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "32"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 241
+    name: 표식용buff【*】
+    code: ""
+    description: 배수 행동력【*】
+    max_tier: 4
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 242
+    name: 주사위 눈
+    code: FlightChessBuff_25
+    description: 전투 주사위 하한
+    max_tier: 1
+    type: 135
+    duration_type: 2
+    duration: 1
+    parameter: *500112
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 243
+    name: 주사위 눈
+    code: FlightChessBuff_25
+    description: 전투 주사위 하한
+    max_tier: 1
+    type: 135
+    duration_type: 2
+    duration: 1
+    parameter: *500113
+    trigger_creation_id: 0
+    creation_id: 4
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 244
+    name: 표식용buff【*】
+    code: ""
+    description: 증폭 사용함【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 246
+    name: 피해 조절
+    code: FlightChessBuff_30
+    description: 1회 피해 면역
+    max_tier: 1
+    type: 108
+    duration_type: 2
+    duration: 1
+    parameter: *500114
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 247
+    name: 일반 피해 조절
+    code: FlightChessBuff_29
+    description: 필살
+    max_tier: 1
+    type: 120
+    duration_type: 2
+    duration: 1
+    parameter: *500115
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 248
+    name: 표식용buff【*】
+    code: ""
+    description: 61001【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 249
+    name: 표식용buff【*】
+    code: ""
+    description: 61002【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 250
+    name: 표식용buff【*】
+    code: ""
+    description: 61101【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 251
+    name: 표식용buff【*】
+    code: ""
+    description: 61102【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 252
+    name: 표식용buff【*】
+    code: ""
+    description: 코인 차감【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 253
+    name: 표식용buff【*】
+    code: ""
+    description: 14001차단【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 254
+    name: 도약 거리【*】
+    code: FlightChessBuff_27
+    description: 기동 거리+4
+    max_tier: 1
+    type: 125
+    duration_type: 1
+    duration: -1
+    parameter: "4"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 255
+    name: 최대 체력
+    code: FlightChessBuff_8
+    description: 최대 체력+2
+    max_tier: 99
+    type: 107
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 6
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 256
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력-1
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 13
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 257
+    name: 최대 체력
+    code: FlightChessBuff_8
+    description: 최대 체력+4
+    max_tier: 99
+    type: 107
+    duration_type: 1
+    duration: -1
+    parameter: "4"
+    trigger_creation_id: 0
+    creation_id: 6
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 258
+    name: 피해 상승
+    code: FlightChessBuff_1
+    description: 피해+1
+    max_tier: 6
+    type: 101
+    duration_type: 2
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 259
+    name: 표식용buff【*】
+    code: ""
+    description: 61701용【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 260
+    name: 표식용buff【*】
+    code: ""
+    description: 17701용【*】
+    max_tier: 99
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 261
+    name: 쿨타임 감소【*】
+    code: ""
+    description: 현재 쿨타임-1【*】
+    max_tier: 1
+    type: 121
+    duration_type: 2
+    duration: 1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 262
+    name: 쿨타임 감소【*】
+    code: ""
+    description: 현재 쿨타임-2【*】
+    max_tier: 1
+    type: 121
+    duration_type: 2
+    duration: 1
+    parameter: "-2"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 263
+    name: 피해 상승
+    code: FlightChessBuff_1
+    description: 피해+4
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: -1
+    parameter: "3"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 264
+    name: 표식용buff【*】
+    code: ""
+    description: 62001용【*】
+    max_tier: 99
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 265
+    name: 사거리
+    code: FlightChessBuff_5
+    description: 사거리+1
+    max_tier: 99
+    type: 103
+    duration_type: 2
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 9
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 266
+    name: 표식용buff【*】
+    code: ""
+    description: 61901용【*】
+    max_tier: 99
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 267
+    name: 쿨타임 감소【*】
+    code: ""
+    description: 현재 쿨타임-1【*】
+    max_tier: 1
+    type: 121
+    duration_type: 2
+    duration: 1
+    parameter: "-1"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 268
+    name: 일반 피해 조절
+    code: FlightChessBuff_28
+    description: 피해+5
+    max_tier: 1
+    type: 120
+    duration_type: 1
+    duration: -1
+    parameter: *500116
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 269
+    name: 피해 조절
+    code: FlightChessBuff_28
+    description: 1회 피해 면역
+    max_tier: 1
+    type: 108
+    duration_type: 1
+    duration: -1
+    parameter: *500117
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 270
+    name: 도약 거리
+    code: FlightChessBuff_27
+    description: 기동 거리+2
+    max_tier: 1
+    type: 125
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 271
+    name: 표식용buff【*】
+    code: ""
+    description: 차단17501【*】
+    max_tier: 99
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 272
+    name: 피해 상승
+    code: FlightChessBuff_1
+    description: 피해+1
+    max_tier: 99
+    type: 101
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 7
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 273
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+1
+    max_tier: 99
+    type: 102
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 274
+    name: 최대 체력
+    code: FlightChessBuff_8
+    description: 최대 체력+1
+    max_tier: 99
+    type: 107
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 6
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 275
+    name: 사거리
+    code: FlightChessBuff_5
+    description: 사거리+1
+    max_tier: 99
+    type: 103
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 9
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 276
+    name: 보호막【*】
+    code: ""
+    description: 보호막+1【*】
+    max_tier: 99
+    type: 104
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 277
+    name: 도약 거리
+    code: FlightChessBuff_27
+    description: 기동 거리+1
+    max_tier: 99
+    type: 125
+    duration_type: 1
+    duration: 1
+    parameter: "1"
+    trigger_creation_id: 0
+    creation_id: 5
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 278
+    name: 범위 표식【*】
+    code: ""
+    description: chess_buff-20000278
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 279
+    name: 발동 표식【*】
+    code: ""
+    description: 2020101용【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 280
+    name: 범위 표식【*】
+    code: ""
+    description: chess_buff-20000280
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 281
+    name: 발동 표식【*】
+    code: ""
+    description: 2040101용【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 282
+    name: 차단표식【*】
+    code: ""
+    description: 표식용【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 283
+    name: 보호막【*】
+    code: ""
+    description: 보호막+4【*】
+    max_tier: 1
+    type: 104
+    duration_type: 1
+    duration: -1
+    parameter: "4"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 284
+    name: 표식용buff【*】
+    code: ""
+    description: 17701용【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: -1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 285
+    name: 표식용buff【*】
+    code: ""
+    description: 17701용【*】
+    max_tier: 1
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 286
+    name: 쿨타임 감소【*】
+    code: ""
+    description: 현재 쿨타임-2【*】
+    max_tier: 1
+    type: 121
+    duration_type: 2
+    duration: 1
+    parameter: "-2"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 287
+    name: 행동력 상승
+    code: FlightChessBuff_3
+    description: 행동력+2
+    max_tier: 1
+    type: 102
+    duration_type: 1
+    duration: -1
+    parameter: "2"
+    trigger_creation_id: 0
+    creation_id: 8
+    available_gun_type: "0"
+    ui_control: 0
+  }
+  {
+    id: 288
+    name: 카운터buff【*】
+    code: ""
+    description: 발동62501【*】
+    max_tier: 10
+    type: 400
+    duration_type: 1
+    duration: 1
+    parameter: "0"
+    trigger_creation_id: 0
+    creation_id: 0
+    available_gun_type: "0"
+    ui_control: 0
+  }
+]
