@@ -518,6 +518,20 @@
         "source_description": "글로벌 6주년 출석 보상"
     },
     {
+        "id": 47,
+        "name": "성간 월보",
+        "description": "드넓은 우주에 표류하며, 반짝이는 별들의 주시를 받으며, 산소 공급 장치의 숨소리 외엔 모든 것이 고요하다... 여기서 멈출 것인가? 아니, 저 먼 곳엔 분명 아직 보지 못한 풍경이 있을 것이다. 용기를 품고서 미지를 향해 고속전진!",
+        "group_id": "89",
+        "code": "commander_4732_icon",
+        "bonus_plastic": "130017",
+        "skill_id": 101,
+        "path": "CLASS47",
+        "is_class": 1,
+        "des_year": "2022",
+        "source": 1,
+        "source_description": "commander_class-40000047"
+    },
+    {
         "id": 99,
         "name": "거짓말 마스크",
         "description": "내 생각을 감추고, 내 바람을 드러낸다.",

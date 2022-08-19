@@ -384,4 +384,9 @@
     theme_type: 6
     name: 파도에 숨은 발자국
   }
+  {
+    id: 78
+    theme_type: 9
+    name: 고공 여객
+  }
 ]
