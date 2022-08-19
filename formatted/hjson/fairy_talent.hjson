@@ -1,25 +1,21 @@
 [
   {
     id: 755192
-    rank: 0
     type_id: 1
     name: 포석계
   }
   {
     id: 756123
-    rank: 0
     type_id: 1
     name: 요술계
   }
   {
     id: 900906
-    rank: 0
     type_id: 1
     name: 모래폭풍
   }
   {
     id: 902385
-    rank: 0
     type_id: 1
     name: 환호계
   }
@@ -127,37 +123,31 @@
   }
   {
     id: 910118
-    rank: 0
     type_id: 1
     name: 황금계
   }
   {
     id: 910119
-    rank: 0
     type_id: 1
     name: 급양계
   }
   {
     id: 910120
-    rank: 0
     type_id: 1
     name: 현란계
   }
   {
     id: 910121
-    rank: 0
     type_id: 1
     name: 연하계
   }
   {
     id: 910122
-    rank: 0
     type_id: 1
     name: 청량계
   }
   {
     id: 910124
-    rank: 0
     type_id: 1
     name: 길운계
   }

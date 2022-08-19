@@ -1,7 +1,6 @@
 [
   {
     id: 1000
-    parent_id: 0
     sort: 1
     name: 이벤트
     description: 限时活动
@@ -15,7 +14,6 @@
       최첨단
       마스크
       '''
-    description: ""
   }
   {
     id: 1002
@@ -26,7 +24,6 @@
       라이칸의 성역
       훈장 교환
       '''
-    description: ""
   }
   {
     id: 1003
@@ -37,7 +34,6 @@
       웨이브 랭글러
       훈장 교환
       '''
-    description: ""
   }
   {
     id: 1004
@@ -48,14 +44,12 @@
       웨이브 랭글러
       재화 교환
       '''
-    description: ""
   }
   {
     id: 1005
     parent_id: 1000
     sort: 5
     name: 마음 파먹는 가면
-    description: ""
   }
   {
     id: 1006
@@ -66,39 +60,32 @@
       라이칸의 성역
       재화 교환
       '''
-    description: ""
   }
   {
     id: 1007
     parent_id: 1000
     sort: 7
     name: a
-    description: ""
   }
   {
     id: 1008
     parent_id: 1000
     sort: 8
     name: a
-    description: ""
   }
   {
     id: 2000
-    parent_id: 0
     sort: 2
     name: 군수품
-    description: ""
   }
   {
     id: 2002
     parent_id: 6000
     sort: 1
     name: 월정액
-    description: ""
   }
   {
     id: 3000
-    parent_id: 0
     sort: 4
     name: 패키지
     description: 所有礼包内容
@@ -108,7 +95,6 @@
     parent_id: 3000
     sort: 1
     name: 7일 패키지
-    description: ""
   }
   {
     id: 3002
@@ -133,14 +119,12 @@
   }
   {
     id: 4000
-    parent_id: 0
     sort: 5
     name: 의상
     description: 指挥官服装
   }
   {
     id: 5000
-    parent_id: 0
     sort: 6
     name: 물자
     description: 消耗品
@@ -150,48 +134,40 @@
     parent_id: 5000
     sort: 1
     name: 자원
-    description: ""
   }
   {
     id: 5002
     parent_id: 5000
     sort: 2
     name: 계약
-    description: ""
   }
   {
     id: 5003
     parent_id: 5000
     sort: 3
     name: 시설
-    description: ""
   }
   {
     id: 5004
     parent_id: 5000
     sort: 4
     name: 도구
-    description: ""
   }
   {
     id: 6000
-    parent_id: 0
     sort: 3
     name: 특수물자
-    description: ""
   }
   {
     id: 6002
     parent_id: 6000
     sort: 2
     name: 일일
-    description: ""
   }
   {
     id: 6003
     parent_id: 6000
     sort: 3
     name: 보급
-    description: ""
   }
 ]

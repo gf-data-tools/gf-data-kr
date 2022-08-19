@@ -101,7 +101,6 @@
   {
     id: 12
     force_id: 3
-    ai_type: 0
     name: 대기
     description: 제자리에서 이동하지 않습니다.
     pic: ai_stand
@@ -164,7 +163,6 @@
   {
     id: 19
     force_id: 4
-    ai_type: 0
     name: 대기
     description: 제자리에서 이동하지 않습니다.
     pic: ai_stand

@@ -1,10 +1,6 @@
 [
   {
-    type: 0
     name: 없음
-    category: 0
-    code: ""
-    fit_gun_type: "0"
     des: 없음
   }
   {
@@ -100,7 +96,6 @@
     name: 훈장
     category: 3
     code: Medal
-    fit_gun_type: "0"
     des: 특별한 인형 장비, 타입에 따라 능력치 변동도 다름.
   }
   {
@@ -148,7 +143,6 @@
     name: 특수 부품
     category: 1
     code: Special_Accessories
-    fit_gun_type: "0"
     des: 특수한 부품 장비, 종류에 따라 능력치 변동이 다르며 제조 불가능.
   }
   {
@@ -156,7 +150,6 @@
     name: 특수 탄창
     category: 2
     code: Special_Magazine
-    fit_gun_type: "0"
     des: 특수한 탄창 장비, 종류에 따라 능력치 변동이 다르며 제조 불가능.
   }
   {
@@ -164,7 +157,6 @@
     name: 특수 인형
     category: 3
     code: Special_TDoll
-    fit_gun_type: "0"
     des: 특수한 인형 장비, 종류에 따라 능력치 변동이 다르며 제조 불가능.
   }
 ]

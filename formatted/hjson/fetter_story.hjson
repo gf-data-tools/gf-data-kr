@@ -3,7 +3,6 @@
     id: 101
     fetter_id: 1
     actor: g:9
-    milestone: 0
     reward: 22006
     name: 소박한 마녀
     description: '''"진주는 모래 속에서도 빛을 발하는 법."'''
@@ -29,7 +28,6 @@
   {
     id: 104
     fetter_id: 1
-    actor: ""
     milestone: 2
     reward: 22002
     name: 맛있는 잡음

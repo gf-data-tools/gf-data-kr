@@ -13,7 +13,6 @@
     name: 스바로그
     des: 스바로그는 방대한 규모를 가진 장수 중공업 기업이다. 주업무는 군수공업, 에너지 산업 및 인프라 건설 등으로, 스마트 도시 및 신생 에너지 분야에서 주목할만한 성과를 얻었다.
     camp_skill: "302"
-    passive_skill: ""
     color: "#00D9C1FF"
     code: MiniGameFlightChessCamp2
   }
@@ -31,7 +30,6 @@
     name: 철혈공조
     des: 전칭 "철혈 공업제조회사(SANGVIS FERRI)", 장수 공업제조회사로, 3차대전 종료 후, 인공지능을 이용해 새로운 전술인형을 개발하였다.
     camp_skill: "304"
-    passive_skill: ""
     color: "#E04900FF"
     code: MiniGameFlightChessCamp4
   }

@@ -5,19 +5,9 @@
     type: 2
     code: Drone
     introduce: 표준 과녁기로 훈련과 연습 전투에만 사용되며, 자동 녹화 기능을 탑재했다.(카메라가 멀쩡하다면)
-    forces: 0
-    if_capture: 0
-    pow_rank: 0
     life_rank: 7
-    hit_rank: 0
-    dodge_rank: 0
-    rate_rank: 0
-    armor_rank: 0
-    speed_rank: 0
-    range_rank: 0
     counter: 꾸준한 훈련을 잊지 말자!
     character: "1001,903"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000001
     spine_scale: "90,90,1"
@@ -35,12 +25,10 @@
     hit_rank: 1
     dodge_rank: 1
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 2
     range_rank: 2
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "300"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000002
     spine_scale: "100,100,1"
@@ -58,12 +46,10 @@
     hit_rank: 2
     dodge_rank: 6
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 4
     range_rank: 3
     counter: 이 유닛은 높은 회피를 지니고 있습니다. 명중이 높거나 필중 공격 수단을 가진 인형으로 상대하는 것이 좋습니다.
     character: "300"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000003
     spine_scale: "100,100,1"
@@ -81,12 +67,10 @@
     hit_rank: 3
     dodge_rank: 5
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 3
     range_rank: 3
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000004
     spine_scale: "100,100,1"
@@ -104,7 +88,6 @@
     hit_rank: 4
     dodge_rank: 4
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 4
     range_rank: 3
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
@@ -125,14 +108,11 @@
     pow_rank: 5
     life_rank: 1
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 5
     range_rank: 2
     counter: 체력이 낮지만, 접근을 허용하면 매우 큰 피해를 받게 됩니다. 사속이 빠른, 또는 범위 공격을 가진 인형으로 상대하는 것이 좋습니다.
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000006
     spine_scale: "100,100,1"
@@ -150,12 +130,10 @@
     hit_rank: 4
     dodge_rank: 4
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "300"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000007
     spine_scale: "100,100,1"
@@ -196,12 +174,10 @@
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 이 유닛은 높은 화력과 명중으로 아군 전열 인형에게 큰 피해를 줍니다. 후열을 우선 공격하는 인형으로 먼저 처리하는 것이 좋습니다.
     character: "307"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000009
     spine_scale: "100,100,1"
@@ -219,12 +195,10 @@
     hit_rank: 3
     dodge_rank: 1
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 2
     range_rank: 2
     counter: 이 유닛은 근접 수비 유닛으로 자체의 공격은 보잘것없습니다. 가드보다는 가드를 상대하는 동안 후열에서 강력한 공격을 가하는 유닛이 더 위협적이니, 후열을 우선 공격하는 인형으로 다른 유닛을 먼저 처리하는 것을 추천합니다.
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000010
     spine_scale: "90,90,1"
@@ -265,12 +239,10 @@
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "304"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000012
     spine_scale: "75,75,1"
@@ -288,7 +260,6 @@
     hit_rank: 6
     dodge_rank: 3
     rate_rank: 1
-    armor_rank: 0
     speed_rank: 3
     range_rank: 5
     counter: 이 유닛은 경고 위치에 폭탄을 투하하니, 인형을 해당 위치에서 벗어나도록 이동하세요.
@@ -309,14 +280,12 @@
     pow_rank: 4
     life_rank: 3
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 1
     armor_rank: 3
     speed_rank: 3
     range_rank: 4
     counter: 장갑 유닛. 높은 화력과 명중으로 아군 전열 인형에게 큰 피해를 줍니다. 후열을 우선 공격하는 인형으로 먼저 처리하는 것이 좋습니다.
     character: "309"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000014
     spine_scale: "100,100,1"
@@ -332,14 +301,12 @@
     pow_rank: 2
     life_rank: 4
     hit_rank: 2
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 5
     speed_rank: 2
     range_rank: 2
     counter: 이 유닛은 상당한 장갑을 지니고 있으니, 철갑 능력이 충분한 유닛을 동원하시기 바랍니다.
     character: "303,309"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000015
     spine_scale: "100,100,1"
@@ -355,14 +322,12 @@
     pow_rank: 6
     life_rank: 5
     hit_rank: 4
-    dodge_rank: 0
     rate_rank: 4
     armor_rank: 3
     speed_rank: 2
     range_rank: 3
     counter: 장갑 유닛. 화력도 뛰어난 이 유닛과 장기전을 하는 것은 불리합니다. 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "1003,309,301"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000016
     spine_scale: "80,80,1"
@@ -380,7 +345,6 @@
     hit_rank: 3
     dodge_rank: 4
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 3
     range_rank: 3
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
@@ -403,7 +367,6 @@
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 5
     counter: 이 유닛의 공격은 위력이 매우 높지만, 공격 속도가 느리고 명중률이 다소 낮습니다. 회피가 높은 인형을 전열에 세우는 것을 추천합니다.
@@ -420,7 +383,6 @@
     code: HunterElite
     introduce: 기동력과 지능이 높으며, 교란과 추격 작전에 특화된 철혈 엘리트 인형. 기존 규격에서 연산회로를 대폭 개량하여, 이전보다도 침착하게 적을 궁지로 몰아넣을 수 있다.
     forces: 1
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -443,7 +405,6 @@
     code: ExcutionerElite
     introduce: 머리 쓰는 전략보다 정면 대결을 선호하는 철혈 엘리트 인형, 기존 사용하는 칼을 개량하여 근접전 능력을 강화했다. 정정당당하게 싸우길 좋아하며, 약자를 괴롭히는 건 싫어한다.
     forces: 1
-    if_capture: 0
     pow_rank: 6
     life_rank: 5
     hit_rank: 4
@@ -489,7 +450,6 @@
     code: WeaverElite
     introduce: 작전과 전술 시뮬레이션에 특화된 철혈 엘리트 인형. 모든 면의 성능이 뛰어난 올그라운더다.. 겉으로는 진중해 보여도 속으론 매우 거만하다. 비록 강한 무력과 지능을 가졌지만, 실전 경험이 적고 행동 스타일도 불안정하므로, 적과 아군 모두 그녀에 대해 방심할 수가 없다.
     forces: 1
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -518,7 +478,6 @@
     hit_rank: 4
     dodge_rank: 5
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 3
     range_rank: 3
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
@@ -541,7 +500,6 @@
     hit_rank: 5
     dodge_rank: 5
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 경고 위치에 큰 피해를 주니, 인형을 해당 위치에서 벗어나도록 이동하세요.
@@ -558,14 +516,11 @@
     code: Jupiter
     introduce: 철혈이 군의 기술을 탈취해 개발한 거대 포탑. 이동은 불가능하지만, 전술인형은 견뎌낼 수 없는 막강한 화력과 우월한 사거리를 자랑한다. 설치된 위치를 포위해 동력을 차단하면 주포를 마비시킬 수 있고, 이 경우 근거리 방위용 기관총만 작동한다.
     forces: 1
-    if_capture: 0
     pow_rank: 6
     life_rank: 5
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 4
     armor_rank: 2
-    speed_rank: 0
     range_rank: 5
     counter: 그냥 상대하는 것은 매우 위험하지만, 해당 거점을 포위 점령하면 쉽게 상대할 수 있습니다.
     character: "1003,309,910"
@@ -587,7 +542,6 @@
     hit_rank: 5
     dodge_rank: 4
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 3
     counter: 이 유닛은 경고 위치에 큰 피해를 주니, 인형을 해당 위치에서 벗어나도록 이동하세요.
@@ -633,12 +587,10 @@
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 2
     counter: 이 유닛은 높은 관통력을 지니고 있습니다. 산탄총 인형으로 상대하는 것은 매우 위험하니, 기관단총 또는 권총같이 회피가 높은 인형으로 공격을 견디는 것이 좋습니다. 하지만 종종 다른 위협적인 후열 유닛과 조합해서 등장하니 최대한 빨리 처리하는 것이 좋습니다.
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000028
     spine_scale: "85,85,1"
@@ -656,12 +608,10 @@
     hit_rank: 2
     dodge_rank: 3
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 이 유닛은 공격 속도가 빠르지만, 화력이 평범하니, 장갑이 충분한 산탄총 인형으로 공격을 받아내는 것을 추천합니다.
     character: "308"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000029
     spine_scale: "100,100,1"
@@ -677,14 +627,12 @@
     pow_rank: 5
     life_rank: 1
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 2
     armor_rank: 4
     speed_rank: 5
     range_rank: 2
     counter: 체력이 낮지만, 접근을 허용하면 매우 큰 피해를 받게 됩니다. 또한 장갑 수치가 상당하니 관통 능력이 부족한 유닛으론 처리에 애를 먹을 수 있습니다. 범위 공격을 가진 인형 또는 기관총으로 상대하는 것이 좋습니다.
     character: "303,309"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000030
     spine_scale: "150,150,1"
@@ -696,13 +644,9 @@
     code: Golyat
     introduce: 철혈의 자폭 유닛. 적과 접촉하는 즉시 폭발해, 광범위에 궤멸적인 피해를 입히므로 접근하기 전에 처치해야 한다.
     forces: 1
-    if_capture: 0
     pow_rank: 7
     life_rank: 5
     hit_rank: 7
-    dodge_rank: 0
-    rate_rank: 0
-    armor_rank: 0
     speed_rank: 3
     range_rank: 1
     counter: 인형과 접촉하는 즉시 제대 전체에 파멸적인 피해를 주니, 그 전에 이 유닛을 처치하기에 충분한 화력을 확보하기 바랍니다.
@@ -719,13 +663,9 @@
     code: GolyatPlus
     introduce: 강화된 골리앗, 현재 전술인형의 화력으로는 처치가 불가능에 가까우니 전투를 피하는 것이 상책일 수도 있다.
     forces: 1
-    if_capture: 0
     pow_rank: 7
     life_rank: 7
     hit_rank: 7
-    dodge_rank: 0
-    rate_rank: 0
-    armor_rank: 0
     speed_rank: 3
     range_rank: 1
     counter: 매우 위험하니 피해가십시오!
@@ -765,13 +705,11 @@
     code: DestroyerPlus
     introduce: 디스트로이어가 드리머의 소체 개조를 받은 새로운 모습, 안 그래도 막강한 화력이 한층 더 강해졌다. 하지만 성격과 정신상태는 예전과 다를 게 없다.
     forces: 1
-    if_capture: 0
     pow_rank: 6
     life_rank: 5
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 5
     counter: 이 유닛은 경고 위치에 큰 피해를 주니, 인형을 해당 위치에서 벗어나도록 이동하세요.
@@ -810,19 +748,15 @@
     type: 3
     code: unknown
     introduce: 전자 공간에서만 볼 수 있는 가상의 적. 천천히 상대에게 접근해 물어뜯는다. 이러한 사념체는 보통 전자전 모듈이 방화벽 프로그램을 구체화한 모습이지만, 때로는 전자 플랫폼에 숨어든 바이러스나 악성 코드, 혹은 정체불명의 심층 존재가 이런 모습을 취하기도 한다.
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 4
     hit_rank: 4
     dodge_rank: 4
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 2
     range_rank: 2
     counter: 겁먹지 않고 침착하게 평소 쌓아온 실력으로 상대하면 어떠한 악몽도 이겨낼 수 있습니다.
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000036
     spine_scale: "80,80,1"
@@ -834,13 +768,11 @@
     code: Cyclops
     introduce: 군용 작전 인형. 살상력이 높은 유탄발사기가 부착된 소총을 장비했지만, 타 기종보다 장갑이 빈약하다.
     forces: 2
-    if_capture: 0
     pow_rank: 4
     life_rank: 4
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 4
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
@@ -857,7 +789,6 @@
     code: Cyclops_SG
     introduce: 군용 작전 인형. 산탄총과 방패를 장비했다는 점 외엔 기존 모델과 차이점이 없다.
     forces: 2
-    if_capture: 0
     pow_rank: 4
     life_rank: 4
     hit_rank: 3
@@ -880,11 +811,9 @@
     code: Hydra
     introduce: 군이 수입 운용 중인 표준 규격 기갑 유닛. "맨티코어"를 기반으로 강화와 개량을 거쳐, 더욱 우월한 성능의 군용 원거리 화기 시스템과 장갑을 탑재했다. 강력한 주포는 적에게 궤멸적인 정밀 타격이 가능하다.
     forces: 2
-    if_capture: 0
     pow_rank: 6
     life_rank: 5
     hit_rank: 4
-    dodge_rank: 0
     rate_rank: 4
     armor_rank: 6
     speed_rank: 1
@@ -903,11 +832,9 @@
     code: Aegis_GA
     introduce: 군용 표준 규격 기갑 유닛, 제식무기인 전기충격기와 방패를 장착했다. 근접전 능력이 뛰어나며, 두꺼운 장갑을 지녔다.
     forces: 2
-    if_capture: 0
     pow_rank: 2
     life_rank: 3
     hit_rank: 2
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 5
     speed_rank: 3
@@ -926,18 +853,15 @@
     code: Cerynitis
     introduce: 군의 주력 작전 인형. "네메움"을 기반으로 강화와 개량을 거쳐, 더욱 두꺼운 장갑과 고속 연사가 가능한 군용 원거리 화기 시스템을 탑재했다.
     forces: 2
-    if_capture: 0
     pow_rank: 5
     life_rank: 3
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 1
     armor_rank: 3
     speed_rank: 3
     range_rank: 4
     counter: 장갑 유닛. 높은 화력과 명중으로 아군 전열 인형에게 큰 피해를 줍니다. 후열을 우선 공격하는 인형으로 먼저 처리하는 것이 좋습니다.
     character: "1003,309"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000041
     spine_scale: "100,100,1"
@@ -949,12 +873,9 @@
     code: Dactyl
     introduce: 군의 소형 자동 지뢰 매설기. 적진으로 돌진하여 지뢰를 매설한다. 연약한 본체가 파괴되더라도, 매설된 지뢰는 혼란한 전장에서 무시무시한 위협으로 남는다.
     forces: 2
-    if_capture: 0
     pow_rank: 5
     life_rank: 2
     hit_rank: 4
-    dodge_rank: 0
-    rate_rank: 0
     armor_rank: 2
     speed_rank: 3
     range_rank: 5
@@ -972,11 +893,9 @@
     code: Typhon
     introduce: 군이 수입 운용 중인 표준 규격 전차. 탑재된 1문의 강력한 충전식 레이저포는 사선상의 모든 것을 관통하는 엄청난 파괴력을 선보인다. 유일한 대처법은, 움직임이 굼뜬 본체 가까이 접근해 사각지대에서 신속히 파괴하는 방법뿐이다.
     forces: 2
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 6
-    dodge_rank: 0
     rate_rank: 5
     armor_rank: 4
     speed_rank: 3
@@ -995,7 +914,6 @@
     code: M16A1_Boss
     introduce: 우산 바이러스에 감염되어, 마인드맵이 완전히 철혈화된 M16A1. 외모와 성격 모두 크게 변했지만, 그 뛰어난 전투 능력은 변하지 않았다. 동료로서는 믿음직하지만, 적으로 마주치면 두렵다.
     forces: 1
-    if_capture: 0
     pow_rank: 6
     life_rank: 6
     hit_rank: 6
@@ -1024,7 +942,6 @@
     hit_rank: 5
     dodge_rank: 2
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 2
     range_rank: 4
     counter: 이 유닛이 보호막을 생성할 때, 화력을 집중해 보호막을 파괴해 스킬을 중단시키십시오. 스킬 발동을 자제하는 것도 추천합니다.
@@ -1041,18 +958,15 @@
     code: Strelet
     introduce: 기초적인 보병 인형. 군용 화기와 맞먹는 돌격 무기 시스템을 갖췄다. 양산형 작전 유닛이지만, 철혈의 기초 유닛보다 훨씬 뛰어난 전투력을 지니고 있다.
     forces: 3
-    if_capture: 0
     pow_rank: 2
     life_rank: 3
     hit_rank: 2
     dodge_rank: 3
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 3
     range_rank: 3
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "312"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000046
     spine_scale: "100,100,1"
@@ -1064,7 +978,6 @@
     code: Rodelero
     introduce: 중화기를 장비했음에도 날렵한 인형. 장착된 제트팩으로 진형 후방에서 전방으로 단숨에 뛰어넘어, 충전식 레이저포로 전장을 꿰뚫는다. 역장 발생기도 탑재되어 있어, 적의 실탄 공격을 튕겨낼 수 있다.
     forces: 3
-    if_capture: 0
     pow_rank: 3
     life_rank: 4
     hit_rank: 3
@@ -1087,11 +1000,9 @@
     code: Doppelsoldner
     introduce: 강력한 화력 투사 기갑. 두꺼운 장갑에 역장 발생기도 탑재했다. 주요 공격 수단인 양손의 고속 기관포 외에도, 다연장 유탄발사기로 광범위에 피해를 줄 수 있다.
     forces: 3
-    if_capture: 0
     pow_rank: 2
     life_rank: 4
     hit_rank: 3
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 4
     speed_rank: 1
@@ -1110,11 +1021,9 @@
     code: Uhlan
     introduce: 매서운 중장갑 탱크. 마찬가지로 두꺼운 장갑과 역장 발생기가 탑재되어 있다. 원거리 무장은 기관포 1문뿐이지만, 최전선에서 적에게 돌진하여 손쉽게 진형을 무너뜨릴 수 있다.
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 4
     hit_rank: 4
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 4
     speed_rank: 3
@@ -1178,19 +1087,15 @@
     type: 3
     code: Zombie2
     introduce: 붕괴 복사에 감염된 인간 병사. 이성을 잃고 공격성만이 남은 상태로, 그저 짐승에 가까워진 본능에 따라 서성이다 움직이는 것이 눈에 들어오면 손에 든 돌격소총으로 공격할 뿐이다. 유탄 사격 같은 복잡한 행동은 하지 못한다.
-    forces: 0
-    if_capture: 0
     pow_rank: 3
     life_rank: 3
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 무리를 지어 나타나니 범위 공격 수단을 가진 인형으로 상대하길 바랍니다.
     character: "300"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000052
     spine_scale: "90,90,1"
@@ -1201,19 +1106,15 @@
     type: 3
     code: Zombie1
     introduce: 붕괴 복사에 감염된 인간 병사. 무기도 잃어, 맨손으로 움직이는 것이라면 무엇이든 공격한다. 손으로 할퀴고 때리고 잡아 뜯을 줄밖에 모르지만, 변이로 인해 강해진 힘과 속도는 충분히 위협적이다.
-    forces: 0
-    if_capture: 0
     pow_rank: 2
     life_rank: 4
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 3
     range_rank: 2
     counter: 무리를 지어 나타나니 범위 공격 수단을 가진 인형으로 상대하길 바랍니다.
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000053
     spine_scale: "90,90,1"
@@ -1224,14 +1125,11 @@
     type: 1
     code: Smasher
     introduce: 심각한 붕괴 오염으로 인해 신체가 크게 변이한 인간 병사. ELID 감염자는 감염 시간 및 오염도에 따라 신체가 규소화되는 증상이 일어나기에, 이와 같은 중증 감염자의 피부는 매우 단단하여 피해를 주기가 어렵다. 성격마저 기타 감염자보다 더 난폭하고, 파괴력도 높다.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 6
     hit_rank: 4
     dodge_rank: 4
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 3
     range_rank: 5
     counter: 전체적인 작전 능력을 높이고, 자신 주위의 우리 유닛에게 지속 피해를 줍니다. 장기전이 되지 않도록 전체적인 작전 능력을 높여 상대하길 바랍니다.
@@ -1254,12 +1152,10 @@
     hit_rank: 1
     dodge_rank: 1
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 2
     range_rank: 2
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "300"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000055
     spine_scale: "100,100,1"
@@ -1277,7 +1173,6 @@
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 이 유닛은 높은 화력과 명중으로 아군 전열 인형에게 큰 피해를 줍니다. 후열을 우선 공격하는 인형으로 먼저 처리하는 것이 좋습니다.
@@ -1300,7 +1195,6 @@
     hit_rank: 3
     dodge_rank: 1
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 2
     range_rank: 2
     counter: 이 유닛은 근접 수비 유닛으로 자체의 공격은 보잘것없습니다. 가드보다는 가드를 상대하는 동안 후열에서 강력한 공격을 가하는 유닛이 더 위협적이니, 후열을 우선 공격하는 인형으로 다른 유닛을 먼저 처리하는 것을 추천합니다.
@@ -1323,7 +1217,6 @@
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 5
     range_rank: 5
     counter: 모든 능력이 상당히 강화되었으니, 이 유닛과 동반 유닛의 공격을 견디면서 효과적으로 상대할 방법을 고려하길 바랍니다.
@@ -1346,12 +1239,10 @@
     hit_rank: 2
     dodge_rank: 3
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 이 유닛은 공격 속도가 빠르지만, 화력이 평범하니, 장갑이 충분한 산탄총 인형으로 공격을 받아내는 것을 추천합니다.
     character: "308"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000059
     spine_scale: "100,100,1"
@@ -1367,7 +1258,6 @@
     pow_rank: 2
     life_rank: 5
     hit_rank: 2
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 5
     speed_rank: 2
@@ -1386,7 +1276,6 @@
     code: Nyto_Silver
     introduce: 어느 비밀 세력의 '니토' 중 한 사람. 니모겐에게 여동생 취급을 받으며, 고전적인 시나 희극을 좋아한다, 니토 중에서도 독특한 취미와 감성을 지닌 것 같다. 그 외의 정보는 알 수 없다.
     forces: 3
-    if_capture: 0
     pow_rank: 6
     life_rank: 6
     hit_rank: 5
@@ -1409,7 +1298,6 @@
     code: Nyto_Gold
     introduce: 어느 비밀 세력의 '니토' 중 한 사람. 머큐로스에게 언니라 불리며, '아버님'을 매우 존경한다. 그외의 정보는 알 수 없다.
     forces: 3
-    if_capture: 0
     pow_rank: 6
     life_rank: 6
     hit_rank: 5
@@ -1432,7 +1320,6 @@
     code: Roarer
     introduce: 탈린에 버려진 인형, 주로 근접 공격을 하는 대형 중장갑 유닛으로, 어느 비밀 세력과 관계가 있다.
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 5
     hit_rank: 3
@@ -1455,7 +1342,6 @@
     code: Thunder
     introduce: 탈린에 버려진 기계, 본체 하부에 탑재된 포탑으로 공격한다. 우월한 도약력으로 적의 공격을 피한다. 어느 비밀 세력과 관계가 있다.
     forces: 3
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -1478,13 +1364,11 @@
     code: StreletPlus
     introduce: 탈린에 버려진 인형, 스트렐치와 닮았지만, 화력이 더욱 강력하며, 특수 탄약으로 아군 인형의 회피 성능을 낮춘다. 어느 비밀 세력과 관계가 있다.
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 3
     hit_rank: 3
     dodge_rank: 5
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 1
     range_rank: 4
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있고, 아군을 약화하는 능력이 있습니다. 전체적인 작전 능력을 높여 상대하길 바랍니다.
@@ -1501,13 +1385,11 @@
     code: Isomer
     introduce: 탈린에 버려진 인형, 공격 수단은 전무하지만, 주위의 적을 기절시킬 수 있다. 어느 비밀 세력과 관계가 있다.
     forces: 3
-    if_capture: 0
     pow_rank: 1
     life_rank: 4
     hit_rank: 1
     dodge_rank: 5
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 1
     range_rank: 5
     counter: 정보 부족, 신중히 상대하십시오.
@@ -1524,18 +1406,14 @@
     code: Pyxis
     introduce: 짜증 나는 경화기 포탑. 군용 화기에 맞먹는 고속사격 시스템을 탑재한 양산 병기. 설치 후 이동할 수 없으며, 제압 사격을 담당한다.
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 5
     hit_rank: 3
-    dodge_rank: 0
     rate_rank: 5
     armor_rank: 2
-    speed_rank: 0
     range_rank: 5
     counter: 동시에 두 목표를 공격하니 제대 편성에 주의하십시오. 공격 속도가 빠르지만, 화력이 평범하니, 장갑이 충분한 산탄총 인형으로 공격을 받아내는 것을 추천합니다.
     character: "309,308"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000067
     spine_scale: "100,100,1"
@@ -1547,7 +1425,6 @@
     code: Nyto_Isomer_White
     introduce: 탈린에 버려진 니모겐의 의식을 융합하고 소체를 빼앗은 이성질체. 탈린의 모든 이성질체를 이끌며, 여기서 벗어나기를 원한다. 지휘관의 부대가 탈린에 도착하자, M4A1을 적격자라 단정하고 접근해왔다.
     forces: 3
-    if_capture: 0
     pow_rank: 7
     life_rank: 6
     hit_rank: 5
@@ -1570,15 +1447,8 @@
     code: RecceCentre
     introduce: 패스파인더를 생산하는 군의 소형 공장. 자체 화력은 전무하며, 움직임도 굼뜨다. 하지만 보통 대량의 수비 병력의 호위를 받는다.
     forces: 2
-    if_capture: 0
-    pow_rank: 0
     life_rank: 6
-    hit_rank: 0
-    dodge_rank: 0
-    rate_rank: 0
     armor_rank: 4
-    speed_rank: 0
-    range_rank: 0
     counter: 패스파인더를 끊임없이 생산합니다. 장갑이 매우 높기 때문에 돌격소총 인형이 아닌 소총 인형으로 상대하는 것을 추천합니다.
     character: "309,321"
     enemy_skill: "21"
@@ -1593,7 +1463,6 @@
     code: Pathfinder
     introduce: 정찰센터에서 생산하는 구형 유닛, 성능은 정찰센터의 영향을 받는다. 경화기를 탑재하였고, 내구성은 낮지만 기동성이 상당하고, 양산하기 쉽다.
     forces: 2
-    if_capture: 0
     pow_rank: 4
     life_rank: 2
     hit_rank: 4
@@ -1616,13 +1485,11 @@
     code: Archer
     introduce: 표준 규격의 군용인형, 특수한 폭발 화살을 무기로 사용하며, 매우 긴 사거리와 뛰어난 명중률을 자랑하는 고급 유닛이다.
     forces: 2
-    if_capture: 0
     pow_rank: 3
     life_rank: 3
     hit_rank: 3
     dodge_rank: 4
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 2
     range_rank: 4
     counter: 이 유닛은 경고 위치에 불을 질러 지속 피해를 줍니다. 인형을 해당 위치에서 벗어나도록 이동하세요.
@@ -1639,13 +1506,11 @@
     code: Beast
     introduce: 군의 표준 규격 기갑 유닛. 대형 전위형 기갑으로, 적의 진형을 무너뜨리고 적의 공격을 감당하는 역할을 맡는다. 튼튼하고 날렵하지만, 공격 패턴이 단조로워 총알받이 외의 용도가 없다는 것이 단점이다.
     forces: 2
-    if_capture: 0
     pow_rank: 4
     life_rank: 4
     hit_rank: 5
     dodge_rank: 2
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 6
     range_rank: 2
     counter: 장갑을 어느 정도 가지고 있고 이동속도가 매우 빠릅니다. 보호막 전개 시 모든 피해를 1로 제한하기 때문에 사속이 높고 다단 피해를 주는 인형으로 상대하기 바랍니다.
@@ -1662,7 +1527,6 @@
     code: TeslaTrooper
     introduce: 군이 수입 운용 중인 고급 기갑 유닛. 장갑이 두껍고 미사일 발사기까지 탑재하여 공수 양면으로 뛰어나다.
     forces: 2
-    if_capture: 0
     pow_rank: 4
     life_rank: 5
     hit_rank: 3
@@ -1685,18 +1549,14 @@
     code: GustafL_3
     introduce: 군용 고급 장갑열차의 선두 포탑.
     forces: 2
-    if_capture: 0
     pow_rank: 7
     life_rank: 5
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 3
-    speed_rank: 0
     range_rank: 5
     counter: 전역에서 기타 같은 세력 제대에게 강력한 지원 포격을 제공합니다. 이 시설의 지원을 받는 부대와 전투를 최대한 피하십시오. 또한 이 시설의 지원 범위을 주의하면서 정확한 순서대로 기타 포탑의 지원 포격을 받지 않도록 처리하세요.
     character: "908,910,326"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000074
     spine_scale: "-15,15,1"
@@ -1708,18 +1568,14 @@
     code: GustafL_2
     introduce: 군용 고급 장갑열차의 중간 포탑.
     forces: 2
-    if_capture: 0
     pow_rank: 7
     life_rank: 5
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 3
-    speed_rank: 0
     range_rank: 5
     counter: 전역에서 기타 같은 세력 제대에게 강력한 지원 포격을 제공합니다. 이 시설의 지원을 받는 부대와 전투를 최대한 피하십시오. 또한 이 시설의 지원 범위을 주의하면서 정확한 순서대로 기타 포탑의 지원 포격을 받지 않도록 처리하세요.
     character: "908,910,326"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000075
     spine_scale: "-15,15,1"
@@ -1731,18 +1587,14 @@
     code: GustafL_1
     introduce: 군용 고급 장갑열차의 후미 포탑.
     forces: 2
-    if_capture: 0
     pow_rank: 7
     life_rank: 5
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 3
-    speed_rank: 0
     range_rank: 5
     counter: 전역에서 기타 같은 세력 제대에게 강력한 지원 포격을 제공합니다. 이 시설의 지원을 받는 부대와 전투를 최대한 피하십시오. 또한 이 시설의 지원 범위을 주의하면서 정확한 순서대로 기타 포탑의 지원 포격을 받지 않도록 처리하세요.
     character: "908,910,326"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000076
     spine_scale: "-15,15,1"
@@ -1754,7 +1606,6 @@
     code: Kratos
     introduce: 군에서 생산한 특수 목적 인형, 거대한 몸집과 강력한 완력을 자랑한다. 적에게 돌격하여 쓸어버리는 것에 적합하며, 방어 능력은 물론 공격 능력도 준수하다.
     forces: 2
-    if_capture: 0
     pow_rank: 6
     life_rank: 6
     hit_rank: 4
@@ -1777,15 +1628,8 @@
     code: Acheron
     introduce: 군에서 생산한 특수 설비, 등대 같은 외형으로, 지정 장소에 도착하면 지지대를 펼쳐 지면에 고정한 다음, 주위 아군에게 방어용 역장을 제공한다.
     forces: 2
-    if_capture: 0
-    pow_rank: 0
     life_rank: 5
-    hit_rank: 0
-    dodge_rank: 0
-    rate_rank: 0
     armor_rank: 4
-    speed_rank: 0
-    range_rank: 0
     counter: 적군 전체에게 지속적으로 보호막을 제공하니 후열을 우선 공격하는 유닛 또는 중장비의 지원으로 우선 처치하길 바랍니다.
     character: "1001,309,310"
     enemy_skill: "51"
@@ -1800,7 +1644,6 @@
     code: Coeus
     introduce: 군에서 생산한 특수 장갑차. 폭발적인 화력과 준수한 기동력을 비롯한 우월한 성능을 지녀, 전장을 제압하기 위한 에이스 카드로 사용한다.
     forces: 2
-    if_capture: 0
     pow_rank: 6
     life_rank: 5
     hit_rank: 5
@@ -1823,7 +1666,6 @@
     code: Ares
     introduce: 군에서 생산한 정예 기갑으로, 자격을 획득한 일부 군인만이 탑승할 수 있다. 거대한 주포와 미사일 등 강력한 화력을 가졌고, 보호막 발생 기능 등 방어력도 매우 뛰어난 만능 전술 기갑이라고 할 수 있다.
     forces: 2
-    if_capture: 0
     pow_rank: 6
     life_rank: 6
     hit_rank: 6
@@ -1850,14 +1692,11 @@
       하지만 사실상, 엘리사는 단순한 AI 프로그램이 아니다. 리코리스의 최종적인 목적은 인간처럼 자아를 가지고 생각하며 느낄 수 있는 완벽한 인공지능을 만드는 것이었다. 나비 사건 이후 엘리사는 실체를 얻어 모든 철혈인형의 권한을 인수했다. 아버지 리코리스의 복수를 하기 위해 보이는 인간과 철혈 이외의 전술인형을 무차별적으로 공격했다. 그와 동시에 엘리사는 리코리스가 바랐던 완벽한 AI, 즉 인간과 차이가 없는 마인드맵을 가지기 위해 리코리스의 자료를 뒤지기 시작했다.
       '''
     forces: 1
-    if_capture: 0
     pow_rank: 7
     life_rank: 6
     hit_rank: 5
     dodge_rank: 4
     rate_rank: 4
-    armor_rank: 0
-    speed_rank: 0
     range_rank: 5
     counter: 역붕괴 현상에 갇힌 인형은 공중에서 꼼짝할 수 없지만, 지면의 공격을 피할 수 있습니다. 이 점을 이용해 적의 강력한 공격을 피하세요!
     character: "1001,900"
@@ -1872,12 +1711,9 @@
     type: 4
     code: Hydra_beach
     introduce: 어느 방산업체가 거금을 들여 만든 자율병기. 궁극의 생물위장병기라고 칭하곤 있지만, 그냥 몸집을 늘린 것으로밖에 안 보인다. 이것 때문에 회사가 파산한 게 아니냐는 질의에 대해선 사측은 부인했다.
-    forces: 0
-    if_capture: 0
     pow_rank: 6
     life_rank: 5
     hit_rank: 4
-    dodge_rank: 0
     rate_rank: 4
     armor_rank: 6
     speed_rank: 1
@@ -1895,13 +1731,9 @@
     type: 4
     code: landmine_beach
     introduce: 어느 방산업체에서 개발한 구식 자율병기. 생물로 위장하는 것을 중점으로 개발했지만 기합을 너무 넣은 나머지 "그냥 사나운 로봇 해산물"이 되어버려 퇴짜를 맞았다.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 2
     hit_rank: 4
-    dodge_rank: 0
-    rate_rank: 0
     armor_rank: 2
     speed_rank: 3
     range_rank: 5
@@ -1918,16 +1750,8 @@
     type: 2
     code: RecceCentre_beach
     introduce: 어느 방산업체가 개발한 구식 자율병기. 위장수박을 생산하는 시설인데 사정을 모르는 관광객들이 몰려서 개발진도가 더뎌졌다.
-    forces: 0
-    if_capture: 0
-    pow_rank: 0
     life_rank: 6
-    hit_rank: 0
-    dodge_rank: 0
-    rate_rank: 0
     armor_rank: 4
-    speed_rank: 0
-    range_rank: 0
     counter: 위장수박을 지속적으로 생산합니다. 장갑이 매우 높기 때문에 돌격소총 인형이 아닌 소총 인형으로 상대하는 것을 추천합니다.
     character: "309,321"
     enemy_skill: "10021"
@@ -1941,8 +1765,6 @@
     type: 2
     code: Pathfinder_beach
     introduce: 어느 방산업체가 개발한 구식 자율병기. 원래는 식품으로 위장해 적을 기만하는 무기였는데, 검수자가 이걸 진짜 수박인 줄 알고 칼로 베다가 사고가 났다.
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 2
     hit_rank: 4
@@ -1971,7 +1793,6 @@
     hit_rank: 3
     dodge_rank: 6
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 3
     range_rank: 3
     counter: 이 유닛은 큰 피해를 입을 때 잠시 왜곡방벽을 얻으니, 장기전을 각오해야 합니다.
@@ -1987,14 +1808,11 @@
     type: 3
     code: Cocktail
     introduce: 거리에 나타난 위험 인물, 화염병을 던져 지속피해를 줍니다.
-    forces: 0
-    if_capture: 0
     pow_rank: 3
     life_rank: 2
     hit_rank: 4
     dodge_rank: 4
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
@@ -2002,7 +1820,6 @@
     enemy_skill: "10087"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000087
-    spine_scale: ""
   }
   {
     id: 88
@@ -2010,22 +1827,17 @@
     type: 3
     code: Cottoncaper
     introduce: 최전방을 달리는 위험 인물, 그 용기는 혀를 내두르게 한다.
-    forces: 0
-    if_capture: 0
     pow_rank: 2
     life_rank: 3
     hit_rank: 3
     dodge_rank: 5
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 3
     range_rank: 3
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "1001,300"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000088
-    spine_scale: ""
   }
   {
     id: 89
@@ -2033,14 +1845,11 @@
     type: 3
     code: Hiresniper
     introduce: 경험이 풍부한 용병, 원거리 저격이 특기다.
-    forces: 0
-    if_capture: 0
     pow_rank: 3
     life_rank: 1
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 이 유닛은 높은 화력과 명중으로 아군 전열 인형에게 큰 피해를 줍니다. 후열을 우선 공격하는 인형으로 먼저 처리하는 것이 좋습니다.
@@ -2048,7 +1857,6 @@
     enemy_skill: "10005"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000089
-    spine_scale: ""
   }
   {
     id: 90
@@ -2056,22 +1864,17 @@
     type: 3
     code: Swordsman
     introduce: 뛰어난 신체능력으로 날카로운 비수를 휘두른다.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 3
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 2
     counter: 이 유닛은 높은 관통력을 지니고 있습니다. 산탄총 인형으로 상대하는 것은 매우 위험하니, 기관단총 또는 권총같이 회피가 높은 인형으로 공격을 견디는 것이 좋습니다.
     character: "1001,303"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000090
-    spine_scale: ""
   }
   {
     id: 91
@@ -2079,8 +1882,6 @@
     type: 1
     code: CarcanoEnemy
     introduce: 상정하지 못한 상대.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -2094,7 +1895,6 @@
     enemy_skill: "10191,10091"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000091
-    spine_scale: ""
   }
   {
     id: 92
@@ -2102,22 +1902,17 @@
     type: 1
     code: HenEnemy
     introduce: 상정하지 못한 상대.
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 4
     hit_rank: 4
     dodge_rank: 4
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 4
     range_rank: 3
     counter: 이 유닛과는 싸우지 마시오.
     character: "1001,301"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000092
-    spine_scale: ""
   }
   {
     id: 93
@@ -2125,22 +1920,17 @@
     type: 1
     code: RicoEnemy
     introduce: 상정하지 못한 상대.
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 4
     hit_rank: 4
     dodge_rank: 4
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 4
     range_rank: 5
     counter: 이 유닛과는 싸우지 마시오.
     character: "1001,301"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000093
-    spine_scale: ""
   }
   {
     id: 94
@@ -2155,7 +1945,6 @@
     hit_rank: 4
     dodge_rank: 4
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 이 유닛은 우리 유닛에게 디버프를 부여하니 신중하게 대응하세요.
@@ -2172,13 +1961,11 @@
     code: Brute_SWAP
     introduce: 성능을 대폭 강화한 브루트, 적 장갑 유닛에게 큰 위협이 된다.
     forces: 1
-    if_capture: 0
     pow_rank: 5
     life_rank: 3
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 2
     counter: 이 유닛은 높은 관통력을 지니고 있습니다. 산탄총 인형으로 상대하는 것은 매우 위험하니, 기관단총 또는 권총같이 회피가 높은 인형으로 공격을 견디는 것이 좋습니다.
@@ -2195,11 +1982,9 @@
     code: Nemeum_SWAP2
     introduce: 성능을 대폭 강화한 네메움, 조준력이 높아 공격을 피하기 어렵다.
     forces: 1
-    if_capture: 0
     pow_rank: 4
     life_rank: 4
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 2
     armor_rank: 3
     speed_rank: 3
@@ -2217,19 +2002,15 @@
     type: 3
     code: refugee_hg
     introduce: 붕괴 오염을 맞은 인간 떠돌이. 어느 정도 이성을 유지하고 있어, 가벼운 총기로 싸울 수 있다.
-    forces: 0
-    if_capture: 0
     pow_rank: 2
     life_rank: 3
     hit_rank: 3
     dodge_rank: 5
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 3
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "300"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000097
     spine_scale: "100,100,1"
@@ -2240,19 +2021,15 @@
     type: 3
     code: refugee_smg
     introduce: 붕괴 오염을 맞은 인간 떠돌이. 감염이 심해 난폭해졌다. 적을 해치우지 않으면 직성이 안 풀린다.
-    forces: 0
-    if_capture: 0
     pow_rank: 3
     life_rank: 4
     hit_rank: 3
     dodge_rank: 4
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 4
     range_rank: 3
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "300"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000098
     spine_scale: "100,100,1"
@@ -2268,8 +2045,6 @@
     pow_rank: 7
     life_rank: 5
     hit_rank: 7
-    dodge_rank: 0
-    rate_rank: 0
     armor_rank: 3
     speed_rank: 3
     range_rank: 1
@@ -2286,19 +2061,15 @@
     type: 3
     code: Ripper_Halloween
     introduce: 철혈의 명절 특산 더미, 기관단총과 별 효능 없는 머리 방어구를 착용하고, 기동성이 비교적 높다. 잭오랜턴을 조각하거나 그걸 쓰고 순찰하는 역할을 담당한다.
-    forces: 0
-    if_capture: 0
     pow_rank: 2
     life_rank: 3
     hit_rank: 3
     dodge_rank: 5
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 3
     range_rank: 3
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000101
     spine_scale: "90,90,1"
@@ -2309,19 +2080,15 @@
     type: 3
     code: Jaeger_Halloween
     introduce: 철혈의 명절 특산 더미, 저격 무기를 사용하여 화력과 정밀도가 높다. 비록 정성껏 몸에 린 분말을 뿌려 발광 효과를 냈지만, 본체의 부실한 내구성은 여전하다.
-    forces: 0
-    if_capture: 0
     pow_rank: 3
     life_rank: 1
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 이 유닛은 높은 화력과 명중으로 아군 전열 인형에게 큰 피해를 줍니다. 후열을 우선 공격하는 인형으로 먼저 처리하는 것이 좋습니다.
     character: "307"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000102
     spine_scale: "80,80,1"
@@ -2332,22 +2099,17 @@
     type: 3
     code: Dragon_Halloween
     introduce: 철혈의 고급 명절 특산 더미, 실험용 호버 장치, 반중력 모자와 돌격 화기를 착용하여, 화력, 사거리, 기동성 모두 만만하지 않다. 디스트로이어를 놀래키고 폭격당하는 역할을 맡고 있다.
-    forces: 0
-    if_capture: 0
     pow_rank: 3
     life_rank: 3
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "304"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000103
-    spine_scale: ""
   }
   {
     id: 104
@@ -2355,22 +2117,17 @@
     type: 5
     code: Aegis_Halloween
     introduce: 수많은 전장을 누빈 기사였지만, 악마에게 몸을 잠식당해 모습이 변했다. 모든 기억을 잃었음에도 무언가를 지켜야 한다는 사명을 지키고 있다.
-    forces: 0
-    if_capture: 0
     pow_rank: 2
     life_rank: 4
     hit_rank: 2
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 5
     speed_rank: 2
     range_rank: 2
     counter: 이 유닛은 상당한 장갑을 지니고 있습니다. 우리 제대의 철갑 능력을 확인해주세요.
     character: "303,309"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000104
-    spine_scale: ""
   }
   {
     id: 105
@@ -2378,22 +2135,17 @@
     type: 4
     code: Nemeum_Halloween
     introduce: 용맹하고 겁없는 명마였지만, 악마에게 몸을 잠식당해 모습이 변했다. 모든 기억을 잃었음에도 무언가를 지켜야 한다는 사명을 지키고 있다.
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 3
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 1
     armor_rank: 3
     speed_rank: 3
     range_rank: 4
     counter: 장갑 유닛. 높은 화력과 명중으로 아군 전열 인형에게 큰 피해를 줍니다. 후열을 우선 공격하는 인형으로 먼저 처리하는 것이 좋습니다.
     character: "309"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000105
-    spine_scale: ""
   }
   {
     id: 106
@@ -2401,22 +2153,16 @@
     type: 2
     code: Dinergate_chm1
     introduce: 철혈의 하급 경축 기갑, 수송능력은 뒤떨어져도 순록의 도움을 받는다. 크리스마스 분위기를 띄우기 위해 사용되며, 예정 경로에 장애물이 있을 경우 부수고 들어가는 식으로 선물을 배송하니, 함부로 방 문을 옮기지 말자.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 1
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 5
     range_rank: 2
     counter: 체력이 낮지만, 접근을 허용하면 매우 큰 피해를 받게 됩니다. 사속이 빠른, 또는 범위 공격을 가진 인형으로 상대하는 것이 좋습니다.
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000106
-    spine_scale: ""
   }
   {
     id: 107
@@ -2424,22 +2170,16 @@
     type: 2
     code: Dinergate_chm2
     introduce: 철혈의 하급 경축 기갑, 산타게이트와 함께 크리스마스 분위기를 띄우기 위해 사용되며, 예정 경로에 장애물이 있을 경우 부수고 들어가는 식으로 선물을 배송하니, 함부로 방 문을 옮기지 말자.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 1
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 5
     range_rank: 2
     counter: 체력이 낮지만, 접근을 허용하면 매우 큰 피해를 받게 됩니다. 사속이 빠른, 또는 범위 공격을 가진 인형으로 상대하는 것이 좋습니다.
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000107
-    spine_scale: ""
   }
   {
     id: 108
@@ -2447,22 +2187,18 @@
     type: 3
     code: Guard_chm
     introduce: 철혈의 고급 명절용 더미, 생강빵과 사탕지팡이를 장착했다. 보다싶이 당분이 높은 유닛으로 중요한 주방을 수비하거나, 디스트로이어를 미끼로 보내고 몰래 사탕을 훔치려하는 드리머를 저지하기 위해 사용된다.
-    forces: 0
     if_capture: 1
     pow_rank: 1
     life_rank: 4
     hit_rank: 3
     dodge_rank: 1
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 2
     range_rank: 2
     counter: 이 유닛은 근접 수비 유닛으로 자체의 공격은 보잘것없습니다. 가드보다는 가드를 상대하는 동안 후열에서 강력한 공격을 가하는 유닛이 더 위협적이니, 후열을 우선 공격하는 인형으로 다른 유닛을 먼저 처리하는 것을 추천합니다.
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000108
-    spine_scale: ""
   }
   {
     id: 109
@@ -2471,13 +2207,11 @@
     code: Narciss
     introduce: 패러데우스의 "니토" 중 하나, 어떤 면의 실패가 오히려 그녀에게 동료보다 훨씬 뛰어난 전투능력을 부여했다. 폭풍우 같은 공격이 특기로, 자신 앞의 모든 적을 찢어버리며, 파괴 행위로 쾌락을 느낀다.
     forces: 3
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
     dodge_rank: 5
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 전투 중 근접/원거리 두 가지 공격 모드를 가지고 있습니다. 판넬 블레이드 7개를 전부 격파하면 원거리 모드에서 근접 모드로 전환하며, 근접 모드는 낮은 편제 유닛에게 매우 큰 위협이 됩니다.
@@ -2485,7 +2219,6 @@
     enemy_skill: "108,109,110"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000109
-    spine_scale: ""
   }
   {
     id: 110
@@ -2494,13 +2227,11 @@
     code: Mrsgray
     introduce: 패러데우스의 "니토" 중 하나, 의학에 정통하였고, 뛰어나면서도 침착한 두뇌를 가졌다. 자신 주변의 모든 유리한 요소를 이용해서 싸우며, 적을 약화해 우세를 취하는 것이 특기다.
     forces: 3
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
     dodge_rank: 5
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 증원 유닛을 호출하여 지속적인 위협을 줍니다. 또한 여러 방해 공작 및 스킬 쿨타임 연장 등 방식으로 아군의 출력을 약화할 수 있습니다. 때를 노려 단숨에 제압하는 것이 좋을 수 있습니다.
@@ -2508,7 +2239,6 @@
     enemy_skill: "113,114,115"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000110
-    spine_scale: ""
   }
   {
     id: 111
@@ -2517,21 +2247,12 @@
     code: Morridow_nor
     introduce: 패러데우스의 "니토" 중 하나, 교활하고, 음험하고 변덕스럽다.
     forces: 3
-    if_capture: 0
-    pow_rank: 0
-    life_rank: 0
-    hit_rank: 0
-    dodge_rank: 0
-    rate_rank: 0
-    armor_rank: 0
     speed_rank: 5
-    range_rank: 0
     counter: 몰리도는 우리와 싸울 생각이 없어 보입니다. 기타 강력한 니토 유닛과 교전할 준비를 하세요.
     character: "1001,900"
     enemy_skill: "116"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000111
-    spine_scale: ""
   }
   {
     id: 112
@@ -2540,13 +2261,11 @@
     code: Morridow
     introduce: 패러데우스의 "니토" 중 하나, 교활하고, 음험하고 변덕스럽다.거미줄 같은 함정을 설치해 싸우는 것이 특기인 트릭스터의 대표. 공격하기 전까진 누구도 그녀의 모습을 붙잡을 수 없다.
     forces: 3
-    if_capture: 0
     pow_rank: 5
     life_rank: 3
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 1
-    armor_rank: 0
     speed_rank: 6
     range_rank: 2
     counter: 우리의 행동을 제한하는 동시에 빠르게 접근하여 큰 피해를 줍니다. 하지만 접근할 때가 보호에서 벗어난 때이니 이틈을 노려 그녀에게 집중공격을 하세요.
@@ -2554,7 +2273,6 @@
     enemy_skill: "111,112"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000112
-    spine_scale: ""
   }
   {
     id: 113
@@ -2562,22 +2280,17 @@
     type: 3
     code: Plaincloth
     introduce: 어떤 임무로 인해 이곳에 온 슈타지 멤버. 추적과 생존이 그들의 장점이며, 오직 살아남아야 만 더 많은 가치를 창조할 수 있으며, 당연하게 이에 능통하다.
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 5
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
-    speed_rank: 0
     range_rank: 4
     counter: 자신 앞의 유닛을 무시하고 우리 방어 유지선을 넘으려 합니다. 자신 앞에 다른 유닛이 있을 경우 회피가 크게 상승하니, 빠르게 적의 전열 유닛을 해치우거나, 명중이 높은 유닛을 배치하는 것이 좋겠습니다.
     character: "1001,327"
     enemy_skill: "100,101"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000113
-    spine_scale: ""
   }
   {
     id: 114
@@ -2585,14 +2298,11 @@
     type: 3
     code: Mobster
     introduce: 구도시 구역에서 활개치는 패거리들. 그들에게 법률은 그저 휴지조각이며, 그늘속에서 살아가는 그들만의 생존법칙이 있다. 조잡한 수제폭발물로 적을 공격하며, 가장 가까운 상대에게 반드시 맞춘다는 의지를 품고서 공격한다.
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 2
     hit_rank: 2
     dodge_rank: 2
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 6
     range_rank: 3
     counter: 이 유닛은 자신에게 가까운 목표에게 회피할 수 없는 큰 피해를 줍니다. 거리를 유지하며 제때 화염병의 범위에서 벗어나는 것이 승리의 비결입니다.
@@ -2600,7 +2310,6 @@
     enemy_skill: "102,103"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000114
-    spine_scale: ""
   }
   {
     id: 115
@@ -2609,13 +2318,11 @@
     code: Punish
     introduce: 근접 유닛, 견고한 방패로서 어택커와 함께 활약한다. 두꺼운 방패와 돌격무기를 가지고 전장에서 종횡무진한다.
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 3
     hit_rank: 3
     dodge_rank: 4
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 6
     range_rank: 3
     counter: 이 유닛은 이동 중 피해량 차감을 얻습니다. 우리 유닛에게 접근 해 멈췄을 때 스킬로 신속처리하는 것이 좋습니다.
@@ -2623,7 +2330,6 @@
     enemy_skill: "104"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000115
-    spine_scale: ""
   }
   {
     id: 116
@@ -2632,13 +2338,11 @@
     code: Cherub
     introduce: 레이저로 높은 체력을 지닌 상대에게 지속 공격을 하는 작전 유닛. 공격은 단순하지만 집중적으로, 상대에게 관통적인 치명적 피해를 주기 쉽다.
     forces: 3
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
     dodge_rank: 2
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 2
     range_rank: 3
     counter: 편제 수 적은 유닛에게 추가 피해를 주기 때문에, 편제 수가 많은 유닛으로 상대하는 것이 좋습니다.
@@ -2646,7 +2350,6 @@
     enemy_skill: "105"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000116
-    spine_scale: ""
   }
   {
     id: 117
@@ -2655,13 +2358,11 @@
     code: Visjnoe
     introduce: 전장에 설치된 전술기계, 인형을 포함한 기계 유닛에게만 반응한다. 상대의 버프 효과를 지우는 동시에 자신 아군의 디버프 효과를 지울 수 있어, 무척 까다로운 지원 유닛이다.
     forces: 3
-    if_capture: 0
     pow_rank: 3
     life_rank: 4
     hit_rank: 3
     dodge_rank: 3
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 2
     range_rank: 4
     counter: 이 유닛은 존재하는 동안 계속해서 우리의 버프 효과를 지우고 자신들의 디버프 효과를 지우니, 버프 효과에 의존하지 않는 제대로 상대하는 것이 좋을 겁니다.
@@ -2669,7 +2370,6 @@
     enemy_skill: "106,107"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000117
-    spine_scale: ""
   }
   {
     id: 118
@@ -2678,7 +2378,6 @@
     code: Roarer_New
     introduce: 근접 공격을 주로하는 대형 중갑유닛, 어느 비밀 세력과 관계가 있다.
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 5
     hit_rank: 3
@@ -2701,7 +2400,6 @@
     code: Thunder_New
     introduce: 자신 신체 아래에 탑재된 포탑으로 공격하며, 공격을 받으면 높이 뛰어 회피한다. 어느 비밀 세력과 관계가 있다.
     forces: 3
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -2724,13 +2422,11 @@
     code: Soldier_New
     introduce: 스트렐치와 닮았지만, 화력이 더욱 강력하며, 특수 탄약으로 아군 인형의 회피 성능을 낮춘다. 어느 비밀 세력과 관계가 있다.
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 3
     hit_rank: 3
     dodge_rank: 5
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 1
     range_rank: 4
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있고, 아군을 약화하는 능력이 있습니다. 전체적인 작전 능력을 높여 상대하길 바랍니다.
@@ -2746,19 +2442,16 @@
     type: 3
     code: Vespid_bride
     introduce: 조용한 양옥 안에서 화려한 옷으로도 채울 수 없는 원한이 여전히 서성인다. 아름다운 외모에 현혹되지 말고, 그녀가 당신에게 부케를 던질 시 꼭 피해라.
-    forces: 0
     if_capture: 1
     pow_rank: 3
     life_rank: 2
     hit_rank: 4
     dodge_rank: 4
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "300"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000121
     spine_scale: "100,100,1"
@@ -2769,19 +2462,15 @@
     type: 3
     code: Brute_Ghost
     introduce: 조용한 양옥 안에서 뜬금 없이 울먹이는 소리가 되울린다. 길모퉁이를 돌 때 번뜩이는 섬광에 조심하라, 그것이 유령이든 칼날이든 어느쪽 모두 좋은 게 아니니까.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 3
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 2
     counter: 이 유닛은 높은 관통력을 지니고 있습니다. 산탄총 인형으로 상대하는 것은 매우 위험하니, 기관단총 또는 권총같이 회피가 높은 인형으로 공격을 견디는 것이 좋습니다. 하지만 종종 다른 위협적인 후열 유닛과 조합해서 등장하니 최대한 빨리 처리하는 것이 좋습니다.
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000122
     spine_scale: "85,85,1"
@@ -2792,16 +2481,9 @@
     type: 2
     code: RecceCentreSwim
     introduce: 밀수를 위해 놀이기구로 위장한 불법 군용화기, 샤크볼을 양산하는 것이 주요 기능으로, 위장 운송 과정에서 귀여운 외관으로 인해 아이들의 사랑을 받았습니다.
-    forces: 0
     if_capture: 1
-    pow_rank: 0
     life_rank: 6
-    hit_rank: 0
-    dodge_rank: 0
-    rate_rank: 0
     armor_rank: 4
-    speed_rank: 0
-    range_rank: 0
     counter: 샤크볼을 지속적으로 생산합니다. 장갑이 매우 높기 때문에 돌격소총 인형이 아닌 소총 인형으로 상대하는 것을 추천합니다.
     character: "309,321"
     enemy_skill: "21"
@@ -2815,8 +2497,6 @@
     type: 2
     code: PathfinderSwim
     introduce: 밀수를 위해 배구공으로 위장한 불법 군용화기, 너무나도 뛰어난 위장 때문에 운송 과정에서 강력 스파이크의 피해자가 발생했습니다.
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 2
     hit_rank: 4
@@ -2838,14 +2518,11 @@
     type: 3
     code: CyclopsSwim
     introduce: 유람선 전용 서비스 인형, 웨이터와 보안요원을 동시에 맡고 있어, 상황에 따라 행동 모드를 전환할 수 있고, 필요 시 수동 컨트롤도 가능합니다.
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 4
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 4
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 전체적인 작전 능력을 높여 상대하길 바랍니다.
@@ -2873,7 +2550,6 @@
     range_rank: 5
     counter: 해상전 소체로 교체한 아키텍트, 더욱 강해진 진지구축 능력뿐만 아니라, 화력과 지휘능력도 상승했습니다.
     character: "1001,208,309"
-    enemy_skill: ""
     launch_time: 2035-5-20 00:00:00
     extra: ",Ohtsubo Yuka,"
     spine_scale: "85,85,1"
@@ -2884,19 +2560,15 @@
     type: 3
     code: guard_katsura
     introduce: 고용되어 호위를 제공하는 직업인원, 엄격한 훈련을 받아 뛰어난 솜씨와 충성심을 가졌다.
-    forces: 0
-    if_capture: 0
     pow_rank: 1
     life_rank: 3
     hit_rank: 2
     dodge_rank: 3
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 3
     range_rank: 3
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "430"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000127
     spine_scale: "100,100,1"
@@ -2907,19 +2579,15 @@
     type: 3
     code: guard_bald
     introduce: 고용되어 호위를 제공하는 직업인원, 엄격한 훈련을 받아 뛰어난 솜씨와 충성심을 가졌다. 프로 경호원 중에서도 에이스로 딱 봐도 그 뛰어남을 알아볼 수 있는 특징을 가졌다.
-    forces: 0
-    if_capture: 0
     pow_rank: 7
     life_rank: 5
     hit_rank: 5
     dodge_rank: 6
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 3
     range_rank: 3
     counter: 이 유닛은 뛰어난 능력치를 지니고 있습니다. 합리적인 전술로 대응하세요.
     character: "1001,430"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000128
     spine_scale: "100,100,1"
@@ -2931,13 +2599,11 @@
     code: Obelisk_partB
     introduce: 기관총을 사용하는 중화기 인형, 휴대한 기관총은 충전한 이후 플라즈마 빔을 3발 쏘아 적을 실명시키며, 일정 수준의 회피를 무시한다.【아케소의 접시】와 결합하면 위력이 급상승한다.
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 3
     hit_rank: 3
     dodge_rank: 5
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 1
     range_rank: 4
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 전체적인 작전 능력을 높여 상대하길 바랍니다.
@@ -2954,14 +2620,11 @@
     code: Obelisk_partA
     introduce: 기관총을 사용하는 특화 작전 유닛, 일정 수준의 회피를 무시하는 플라즈마 빔으로 공격한다.【아스클레피오스의 지팡이】와 결합하면 위력이 급상승한다.
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 5
     hit_rank: 3
-    dodge_rank: 0
     rate_rank: 5
     armor_rank: 2
-    speed_rank: 0
     range_rank: 5
     counter: 이 유닛은 사속이 높지만 화력이 평범하니, 산탄총 인형의 두꺼운 장갑으로 방어하는 걸 권장합니다.
     character: "1001,320"
@@ -2977,13 +2640,11 @@
     code: Riotguard
     introduce: 강력한 제압력을 가진 경봉을 사용하는 유닛, 보통 무리를 지어 움직이며, 방패로 적을 압박하면서 경봉으로 전기충격을 가한다.
     forces: 3
-    if_capture: 0
     pow_rank: 2
     life_rank: 3
     hit_rank: 2
     dodge_rank: 2
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 3
     range_rank: 2
     counter: 이 유닛은 근접유닛입니다. 내버려두면 지속적으로 방어능력이 상승하니 적절한 병종 인형으로 대응하세요.
@@ -3000,11 +2661,9 @@
     code: Metalmax
     introduce: 강력한 근접 대형중장갑 유닛, 손에 쥔 망치로 경량 유닛에게 치명적인 타격을 준다.
     forces: 3
-    if_capture: 0
     pow_rank: 2
     life_rank: 3
     hit_rank: 4
-    dodge_rank: 0
     rate_rank: 2
     armor_rank: 7
     speed_rank: 3
@@ -3023,11 +2682,9 @@
     code: Executioner
     introduce: 패러데우스가 생산한 초헤비급 기갑 유닛, 최첨단 근접무기와 장갑을 가지고, 엄청난 맷집과 궤멸적인 전투력을 자랑한다.
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 6
     hit_rank: 3
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 2
     speed_rank: 3
@@ -3046,13 +2703,11 @@
     code: Grenadier
     introduce: 주로 투척무기를 사용하는 경량급 유닛, 투척무기로 범위 피해를 준다.
     forces: 3
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 4
     dodge_rank: 4
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 이 유닛은 특수작전용 무기를 장비하여, 각종 전투 상황에 대응할 수 있습니다. 특히 아군 기계 타입 유닛에게 높은 피해를 줍니다.
@@ -3069,7 +2724,6 @@
     code: Mastersergeant
     introduce: 강력한 탐지 부품을 탑재한 신형 지휘 유닛, 부대에게 최적의 지시를 내릴 수 있지만 본체의 전투력은 아직 강화가 필요하다.
     forces: 3
-    if_capture: 0
     pow_rank: 6
     life_rank: 5
     hit_rank: 5
@@ -3092,18 +2746,15 @@
     code: Rogue_M
     introduce: 오랜만에 만난 본 마을의 소녀가 생생한 모습으로 눈앞에 서있다. 마치 떠난 적이 없었던 것처럼.
     forces: 3
-    if_capture: 0
     pow_rank: 1
     life_rank: 1
     hit_rank: 1
     dodge_rank: 1
     rate_rank: 1
-    armor_rank: 0
     speed_rank: 1
     range_rank: 1
     counter: 연약한 소녀가 구원을 바라고 있습니다. 당신이 과연 그녀가 기다리던 운명의 사람일까요?
     character: "1001"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000136
     spine_scale: "100,100,1"
@@ -3115,13 +2766,11 @@
     code: Obelisk
     introduce: 막강한 화력을 가진 기관총 유닛, 실명 효과를 부여하는 쌍총열 시스템을 탑재했다. 내장된 이아손의 상자를 플라즈마 빔으로 발사해 동시에 여러 유닛을 공격할 수 있으며, 공격 범위를 오염시킨다.
     forces: 3
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
     dodge_rank: 5
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 체력이 높을 경우 포격 능력을 지녀 우리를 크게 압박합니다. 신속히 처리하는 걸 권장합니다.
@@ -3138,13 +2787,11 @@
     code: Teal
     introduce: 패러데우스의 엘리트 유닛, 침착하면서 신중한 뛰어난 판단력과 감정 제어력을 가졌다. 자주 그레이와 협동 작전하며, 그녀를 무척 신뢰한다. 장검으로 암살하는 것이 특기로, 적이 빈틈을 드러내는 순간을 노려 육안으로 포착할 수 없는 속도로 목숨을 앗아간다.
     forces: 3
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
     dodge_rank: 5
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 무시무시한 연속 처치 능력을 지녔습니다. 아군의 주 공격수가 노려지지 않게 주의하세요.
@@ -3161,13 +2808,11 @@
     code: Bramede
     introduce: 패러데우스의 엘리트 유닛, 매력이 넘치며, 상대의 수비를 손쉽게 무너뜨린다, 전투 중에서도 그 움직임은 우아하다. 인간과 인형의 정신을 가지고노는 것이 특기로, 전자전 능력이 매우 뛰어나, 인형의 마인드맵에 침투하여 정보를 탈취하는 동시에 강제로 시스템을 정지시킨다.
     forces: 3
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
     dodge_rank: 5
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 마인드맵을 탈취하는 능력을 지녔습니다. 그녀의 접속 공격에 최대한 맞지 않도록 주의하세요.
@@ -3190,12 +2835,10 @@
     hit_rank: 3
     dodge_rank: 4
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 3
     range_rank: 3
     counter: 마녀형 소체로 교체한 인트루더, 더욱 뛰어난 지원 능력에 더불어, 화력과 지휘능력도 한 단계 상승했다.
     character: "1001,204"
-    enemy_skill: ""
     launch_time: 2035-5-20 00:00:00
     extra: ",Ohtsubo Yuka,"
     spine_scale: "75,75,1"
@@ -3206,8 +2849,6 @@
     type: 3
     code: HKCAWS_XmasEnemy
     introduce: 부탁한 선물 다 사 왔어. 119개 다 법인 카드로 결제했어... 나머지 한 개는 왜 뺐냐고? 이건... 내가 지휘관에게 주는 선물이야.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3221,7 +2862,6 @@
     enemy_skill: "141"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000141
-    spine_scale: ""
   }
   {
     id: 142
@@ -3229,8 +2869,6 @@
     type: 3
     code: VSK_XmasEnemy
     introduce: 선물을 주러 온 거니까 긴장하지 말고 협조를 부탁합니다... 이렇게 말하면 오히려 긴장된다고요? 죄송합니다, 이것도 직업병이라서.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3244,7 +2882,6 @@
     enemy_skill: "142"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000142
-    spine_scale: ""
   }
   {
     id: 143
@@ -3252,8 +2889,6 @@
     type: 3
     code: P7_XmasEnemy
     introduce: 이런이런. 결국엔 지휘관도 나에게 함락이구나~
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3267,7 +2902,6 @@
     enemy_skill: "143"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000143
-    spine_scale: ""
   }
   {
     id: 144
@@ -3275,8 +2909,6 @@
     type: 3
     code: FP6_XmasEnemy
     introduce: 설마 산타의 임무가 이렇게 까다로울 줄이야... 그 배불뚝이 영감은 어떻게 들어갔대?
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3290,7 +2922,6 @@
     enemy_skill: "144"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000144
-    spine_scale: ""
   }
   {
     id: 145
@@ -3298,8 +2929,6 @@
     type: 3
     code: Type100_XmasEnemy
     introduce: 휴우... 드디어 다 팠다. 어라? 이건... 우와! 고맙습니다! 최고로 멋진 선물이에요!
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3313,7 +2942,6 @@
     enemy_skill: "145"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000145
-    spine_scale: ""
   }
   {
     id: 146
@@ -3321,8 +2949,6 @@
     type: 1
     code: Px4Storm_XmasBoss
     introduce: 성탄절 세일이야말로 성탄절의 존재 의미지, 가격이 절반이면 행복이 두 배~
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3336,7 +2962,6 @@
     enemy_skill: "146,147,148,149,150"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40000146
-    spine_scale: ""
   }
   {
     id: 147
@@ -3351,12 +2976,10 @@
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 4
     range_rank: 5
     counter: 이 유닛의 공격은 위력이 매우 높지만, 공격 속도가 느리고 명중률이 다소 낮습니다. 회피가 높은 인형을 전열에 세우는 것을 추천합니다.
     character: "1001,206"
-    enemy_skill: ""
     launch_time: 2035-5-20 00:00:00
     extra: ",Takada Yuuki,"
     spine_scale: "85,85,1"
@@ -3368,13 +2991,11 @@
     code: Nyto_Black_SMG
     introduce: 아베르누스에서 양산된 엘리트 니토, 양손에 기관단총을 들고 일상순찰 임무를 담당하기 충분한 기동력과 화력을 지니고 있다.
     forces: 3
-    if_capture: 0
     pow_rank: 2
     life_rank: 3
     hit_rank: 3
     dodge_rank: 5
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 3
     range_rank: 3
     counter: 해당 유닛은 치명적인 피해를 받으면 일정 수준 보호를 받습니다, 장기전을 각오하세요.
@@ -3382,7 +3003,6 @@
     enemy_skill: "153"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000148
-    spine_scale: ""
   }
   {
     id: 149
@@ -3391,7 +3011,6 @@
     code: Nyto_Black_Hammer
     introduce: 아베르누스에서 양산된 엘리트 니토, 거대한 망치를 무기로 사용한다. 개조를 거쳐 무기로 적을 기절시키며, 본체의 방어력도 크게 상승했다.
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 3
     hit_rank: 3
@@ -3405,7 +3024,6 @@
     enemy_skill: "154,155"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000149
-    spine_scale: ""
   }
   {
     id: 150
@@ -3414,13 +3032,11 @@
     code: Nyto_Black_RF
     introduce: 아베르누스에서 양산된 저격 특화 엘리트 니토, 저격총을 무기로 초원거리에서 적의 약점을 노려 치명적인 피해를 준다.
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 1
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 3
     range_rank: 4
     counter: 이 유닛은 주로 후열에서 공격을 맡으며, 높은 명중률에 관통 공격까지 하여 아군에게 지속적인 피해를 줄 수 있습니다, 후열을 우선 공격하는 유닛으로 우선 처리하는 것을 권장합니다.
@@ -3428,7 +3044,6 @@
     enemy_skill: "156"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000150
-    spine_scale: ""
   }
   {
     id: 151
@@ -3437,13 +3052,11 @@
     code: Nyto_White_Commander
     introduce: 아베르누스에서 양산된 엘리트 니토, 전술 태블릿으로 적을 약화하거나 아군을 강화해, 동료들이 더 큰 전투능력을 발휘할 수 있도록 보조한다.
     forces: 3
-    if_capture: 0
     pow_rank: 3
     life_rank: 4
     hit_rank: 3
     dodge_rank: 3
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 2
     range_rank: 4
     counter: 이 유닛은 적의 니토 우두머리입니다, 지속적으로 니토들의 작전능력을 상승시키니 우선적으로 처치하세요.
@@ -3451,7 +3064,6 @@
     enemy_skill: "157,158,159"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000151
-    spine_scale: ""
   }
   {
     id: 152
@@ -3460,13 +3072,11 @@
     code: Cerberus_White
     introduce: 아베르누스에서 양산된 최신형 로봇견, 매우 민첩한 기동성과 단단하고 날카로운 이빨과 발톱을 가졌다.
     forces: 3
-    if_capture: 0
     pow_rank: 4
     life_rank: 4
     hit_rank: 5
     dodge_rank: 2
     rate_rank: 4
-    armor_rank: 0
     speed_rank: 6
     range_rank: 2
     counter: 이 유닛은 이동속도가 빠르며 후열 유닛 엄호 성능이 뛰어나니 우선적으로 처치하세요.
@@ -3474,7 +3084,6 @@
     enemy_skill: "151,152"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000152
-    spine_scale: ""
   }
   {
     id: 153
@@ -3483,21 +3092,17 @@
     code: USSR_Agent
     introduce: 추운 북쪽 땅에서 온 엘리트 요원, 풍부한 경험과 악독한 수단을 지닌 에이스.
     forces: 2
-    if_capture: 0
     pow_rank: 1
     life_rank: 3
     hit_rank: 2
     dodge_rank: 3
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 3
     range_rank: 3
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "1001"
-    enemy_skill: ""
     launch_time: 2035-5-20 00:00:00
     extra: enemy_illustration-40000153
-    spine_scale: ""
   }
   {
     id: 154
@@ -3506,13 +3111,11 @@
     code: morridow_boss
     introduce: 패러데우스의 엘리트 유닛, 교활하고 음험한 다양한 얼굴을 가진 변장의 고수. 그녀는 공적으로 개조받을 기회를 얻어, 패러데우스의 최신 기술로 만들어진 소체를 얻었다. 전투력이 크게 상승하였고, 함정 제작 기술도 업그레이드되었다. 다만 그녀의 컨셔스 파노라마가 아무도 모르는 사이 변화가 일어났다...
     forces: 3
-    if_capture: 0
     pow_rank: 5
     life_rank: 3
     hit_rank: 5
     dodge_rank: 3
     rate_rank: 1
-    armor_rank: 0
     speed_rank: 6
     range_rank: 2
     counter: 우리 유닛의 움직임을 묶는 동시에 접근하여 큰 피해를 줍니다. 하지만 그때가 엄호에서 벗어난 순간이니, 우리에게도 공격의 기회입니다.
@@ -3520,7 +3123,6 @@
     enemy_skill: "111,112,160"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000154
-    spine_scale: ""
   }
   {
     id: 155
@@ -3529,13 +3131,11 @@
     code: Nimeylan
     introduce: 패러데우스의 엘리트 유닛, 잔혹하고 냉정하며, 판단력이 뛰어나 패러데우스에서 대체 불가능한 지위를 가지고 있다. 짧은 비행 능력을 가졌으며, 전자무기로 적을 교란하는 것에 능하다, 그녀에게 당한 적은 기나긴 고통과 절망 속에서 서서히 목숨을 잃는다.
     forces: 3
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
     dodge_rank: 5
     rate_rank: 5
-    armor_rank: 0
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 빛의 구체로 아군에게 큰 피해를 주니 수비에 주의하세요.
@@ -3543,7 +3143,6 @@
     enemy_skill: "161,162,163,164"
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000155
-    spine_scale: ""
   }
   {
     id: 156
@@ -3552,7 +3151,6 @@
     code: RPK16_Nyto
     introduce: 패러데우스의 기술 지원으로 RPK-16의 소체 개조가 진행 중인 형태. 마직 미완성 상태지만 화력은 대폭 강화됐으며 페러데우스의 핵심 기술도 일부 사용할 수 있다. 다만 마인드맵에 대한 영향은 아직 미지수다.
     forces: 3
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3566,7 +3164,6 @@
     enemy_skill: "165"
     launch_time: 2035-5-20 00:00:00
     extra: enemy_illustration-40000156
-    spine_scale: ""
   }
   {
     id: 157
@@ -3586,7 +3183,6 @@
     range_rank: 4
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "1001,203,309"
-    enemy_skill: ""
     launch_time: 2035-5-20 00:00:00
     extra: ",Hagihara Ami,"
     spine_scale: "85,85,1"
@@ -3597,19 +3193,14 @@
     type: 2
     code: Dinergate_WhiteDay
     introduce: 페르시카가 개조한 생산 라인에서 탄생한 디저트게이트는 디저트를 동력원으로 삼기에, 맛있는 간식을 양보 없이 뺏어갑니다. 녀석 자체도 맛있지만 깨물다 이빨이 깨질 수 있습니다.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 1
     hit_rank: 5
-    dodge_rank: 0
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 5
     range_rank: 2
     counter: 디저트 도둑, 초콜릿으로 유인할 수 있을 것 같습니다.
     character: "303"
-    enemy_skill: ""
     launch_time: 2016-5-20 00:00:00
     extra: enemy_illustration-40000158
     spine_scale: "100,100,1"
@@ -3620,14 +3211,9 @@
     type: 2
     code: Dinergate_WhiteDay1
     introduce: 달콤한 향을 풍기는 거대한 초코볼, 아몬드와 블랙 초콜릿이 럭셔리한 광택을 뽐냅니다. 폭발물이니 식용하지 마십시오.
-    forces: 0
-    if_capture: 0
     pow_rank: 7
     life_rank: 5
     hit_rank: 7
-    dodge_rank: 0
-    rate_rank: 0
-    armor_rank: 0
     speed_rank: 3
     range_rank: 1
     counter: 자신의 몸집을 더 키우기 위해 초콜릿을 찾아다닙니다. 하지만 구조가 다소 불안정해, 초콜릿 같으면서 아닌 것을 던져봅시다.
@@ -3643,14 +3229,9 @@
     type: 2
     code: Dinergate_WhiteDay2
     introduce: 달콤한 향을 풍기는 거대한 초코볼, 아몬드와 화이트 초콜릿이 느끼한 광택을 뽐냅니다. 폭발물이니 식용하지 마십시오.
-    forces: 0
-    if_capture: 0
     pow_rank: 7
     life_rank: 5
     hit_rank: 7
-    dodge_rank: 0
-    rate_rank: 0
-    armor_rank: 0
     speed_rank: 3
     range_rank: 1
     counter: 자신의 몸집을 더 키우기 위해 초콜릿을 찾아다닙니다. 하지만 구조가 다소 불안정해, 초콜릿 같으면서 아닌 것을 던져봅시다.
@@ -3666,14 +3247,9 @@
     type: 2
     code: Dinergate_WhiteDay3
     introduce: 달콤한 향을 풍기는 거대한 초코볼, 매끈한 표면에 살짝 녹은 초콜릿이 아름다운 무늬를 자아내, 아무리 입맛이 까다로운 사람의 혀도 순식간에 사로잡습니다. 폭발물이니 식용하지 마십시오.
-    forces: 0
-    if_capture: 0
     pow_rank: 7
     life_rank: 5
     hit_rank: 7
-    dodge_rank: 0
-    rate_rank: 0
-    armor_rank: 0
     speed_rank: 3
     range_rank: 1
     counter: 자신의 몸집을 더 키우기 위해 초콜릿을 찾아다닙니다. 하지만 구조가 다소 불안정해, 초콜릿 같으면서 아닌 것을 던져봅시다.
@@ -3689,8 +3265,6 @@
     type: 1
     code: Cerberus_WhiteDay
     introduce: 잘못을 저질러 다시 "악몽" 속에 갇힌 디스트로이어, 점점 흐릿해지는 의식 속에 "초콜릿"에 향한 갈망은 여전하다. 근데 강아지가 초콜릿을 먹으면 안 될 텐데?
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3712,8 +3286,6 @@
     type: 3
     code: Roarer_swimsuit
     introduce: 두뇌가 단순한 라이칸 원주민, 따로 특기는 없고, 발달한 팔다리로 수렵금지 지대를 지키고 있다.
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 5
     hit_rank: 3
@@ -3735,8 +3307,6 @@
     type: 3
     code: Rodelero_swimsuit
     introduce: 라이칸 원주민들에게 "예언자"라 떠받들여지는 신비한 소녀, 수륙양용 고압펌프가 그녀의 든든한 사냥 도구라고 한다.
-    forces: 0
-    if_capture: 0
     pow_rank: 3
     life_rank: 4
     hit_rank: 3
@@ -3758,14 +3328,11 @@
     type: 3
     code: StreletPlus_swimsuit
     introduce: 긴 세월 정착지 없이 라이칸 수렵금지 구역 해변을 배회하는 자. 애용하는 호신 무기는 개조한 서핑보드다.
-    forces: 0
-    if_capture: 0
     pow_rank: 4
     life_rank: 3
     hit_rank: 3
     dodge_rank: 5
     rate_rank: 3
-    armor_rank: 0
     speed_rank: 1
     range_rank: 4
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
@@ -3793,7 +3360,6 @@
     range_rank: 5
     counter: 정보 불명, 신중하게 상대하세요.
     character: "1001,216,309,312"
-    enemy_skill: ""
     launch_time: 2035-5-20 00:00:00
     extra: enemy_illustration-40000166
     spine_scale: "70,70,1"
@@ -3805,7 +3371,6 @@
     code: Gebbennu
     introduce: 정체불명의 거대 복합식 전투 유닛. 막강한 화력 외에 모든 것이 수수께끼다.
     forces: 3
-    if_capture: 0
     pow_rank: 6
     life_rank: 7
     hit_rank: 5
@@ -3816,10 +3381,8 @@
     range_rank: 5
     counter: 정보 부족.
     character: "1001,309"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100001
-    spine_scale: ""
   }
   {
     id: 100011
@@ -3827,8 +3390,6 @@
     type: 3
     code: DivMauler
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3839,10 +3400,8 @@
     range_rank: 5
     counter: 해당 유닛은 아군에게 접근하고 스킬을 사용하니 신속히 처치합시다.
     character: "401,402"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100011
-    spine_scale: ""
   }
   {
     id: 100012
@@ -3850,8 +3409,6 @@
     type: 3
     code: DivGrenadier
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3862,10 +3419,8 @@
     range_rank: 5
     counter: 이 유닛은 경고 위치에 강력한 화염 피해를 줍니다. 인형을 이동시켜 회피하세요.
     character: "403"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100012
-    spine_scale: ""
   }
   {
     id: 100013
@@ -3873,8 +3428,6 @@
     type: 3
     code: DivSweeper
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3885,10 +3438,8 @@
     range_rank: 5
     counter: 이 유닛의 행동을 유의 관찰하고, 그 좌우에 있는 인형으로 주의력을 끌면서 화염방사기 공격을 제때 피하세요.
     character: "1001,404,415"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100013
-    spine_scale: ""
   }
   {
     id: 100014
@@ -3896,8 +3447,6 @@
     type: 3
     code: DivRunner
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3908,10 +3457,8 @@
     range_rank: 5
     counter: 이 유닛의 이동을 방해하며 아군에게 접근하기 전에 처치하세요.
     character: "1001,405"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100014
-    spine_scale: ""
   }
   {
     id: 100015
@@ -3919,8 +3466,6 @@
     type: 3
     code: DivGuard
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3931,10 +3476,8 @@
     range_rank: 5
     counter: 이 유닛은 경고 위치에 강한 투척 피해를 줍니다. 인형을 이동시켜 회피하거나 전체적인 생존력을 높이세요.
     character: "1001,406,407"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100015
-    spine_scale: ""
   }
   {
     id: 100016
@@ -3942,8 +3485,6 @@
     type: 3
     code: DivExecutor
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3954,10 +3495,8 @@
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "300"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100016
-    spine_scale: ""
   }
   {
     id: 100017
@@ -3965,8 +3504,6 @@
     type: 3
     code: DivRifleman
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -3977,10 +3514,8 @@
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "408"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100017
-    spine_scale: ""
   }
   {
     id: 100018
@@ -3988,8 +3523,6 @@
     type: 3
     code: DivScout
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4000,10 +3533,8 @@
     range_rank: 5
     counter: 이 유닛은 경고 위치에 강한 투척 피해를 주면서 약화 효과를 줍니다. 후열 인형을 이동시켜 회피하세요.
     character: "409,410"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100018
-    spine_scale: ""
   }
   {
     id: 100019
@@ -4011,8 +3542,6 @@
     type: 3
     code: DivEngineer
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4023,10 +3552,8 @@
     range_rank: 5
     counter: 전투 공병은 자신 옆에 터렛을 설치합니다. 범위 공격으로 상대하는 게 효과적입니다.
     character: "411,412,413"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100019
-    spine_scale: ""
   }
   {
     id: 100020
@@ -4034,8 +3561,6 @@
     type: 3
     code: DivTraitor
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4046,10 +3571,8 @@
     range_rank: 5
     counter: 점착 폭탄이 부착된 아군 유닛을 최대한 다른 유닛과 떼어놓으세요, 안 그러면 아군 전체에 큰 피해를 줍니다.
     character: "1001,414,415"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100020
-    spine_scale: ""
   }
   {
     id: 100021
@@ -4057,8 +3580,6 @@
     type: 1
     code: AK47_enemy
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4069,10 +3590,8 @@
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다. 네.
     character: "1001,423"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100021
-    spine_scale: ""
   }
   {
     id: 100022
@@ -4080,8 +3599,6 @@
     type: 1
     code: DivBurn
     introduce: 거리를 서성이는 클리너 멤버, 모든 오염을 불태워야 도시를 구원할 수 있다고 믿는다. 포착한 목표를 잿더미로 만들 떄까지 끝까지 추격한다. 해당 유닛의 후방에 존재하는 약점을 공격해 처리할 수 있다.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4092,10 +3609,8 @@
     range_rank: 5
     counter: 거리를 서성이는 클리너 멤버, 모든 오염을 불태워야 도시를 구원할 수 있다고 믿는다. 포착한 목표를 잿더미로 만들 떄까지 끝까지 추격한다. 해당 유닛의 후방에 존재하는 약점을 공격해 처리할 수 있다.
     character: "1001,417,404,416"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100022
-    spine_scale: ""
   }
   {
     id: 100023
@@ -4103,8 +3618,6 @@
     type: 1
     code: HK416Boss
     introduce: HK416과 같은 모습을 했지만, [디비전]에 세계에서만 존재하는 AI인 것 같다. LBT 부대를 지휘할 수 있다는 것을 빼면 모든 것이 수수께끼다.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4115,10 +3628,8 @@
     range_rank: 5
     counter: HK416과 같은 모습을 했지만, [디비전]에 세계에서만 존재하는 AI인 것 같다. LBT 부대를 지휘할 수 있다는 것을 빼면 모든 것이 수수께끼다.
     character: "1001,420,421,422"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100023
-    spine_scale: ""
   }
   {
     id: 100024
@@ -4126,8 +3637,6 @@
     type: 1
     code: VectorBoss
     introduce: Vector와 같은 모습을 했지만, [디비전]에 세계에서만 존재하는 AI인 것 같다. 클리너 세력를 지휘할 수 있다는 것을 빼면 모든 것이 수수께끼다.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4138,10 +3647,8 @@
     range_rank: 5
     counter: Vector와 같은 모습을 했지만, [디비전]에 세계에서만 존재하는 AI인 것 같다. 클리너 세력를 지휘할 수 있다는 것을 빼면 모든 것이 수수께끼다.
     character: "1001,419,418,416"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100024
-    spine_scale: ""
   }
   {
     id: 100025
@@ -4149,8 +3656,6 @@
     type: 1
     code: HK416Boss
     introduce: HK416과 같은 모습을 했지만, [디비전]에 세계에서만 존재하는 AI인 것 같다. LBT 부대를 지휘할 수 있다는 것을 빼면 모든 것이 수수께끼다.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4161,10 +3666,8 @@
     range_rank: 5
     counter: 쏴라! 움직여라! 강한 적에게 맞서 승리를 쟁취하라!
     character: "1001,424,425"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100025
-    spine_scale: ""
   }
   {
     id: 100026
@@ -4172,8 +3675,6 @@
     type: 1
     code: VectorBoss
     introduce: Vector와 같은 모습을 했지만, [디비전]에 세계에서만 존재하는 AI인 것 같다. 클리너 세력를 지휘할 수 있다는 것을 빼면 모든 것이 수수께끼다.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4184,10 +3685,8 @@
     range_rank: 5
     counter: 쏴라! 움직여라! 강한 적에게 맞서 승리를 쟁취하라!
     character: "1001,424,425"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100026
-    spine_scale: ""
   }
   {
     id: 100027
@@ -4195,8 +3694,6 @@
     type: 1
     code: Vector_enemy
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4207,10 +3704,8 @@
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "1001,300"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100027
-    spine_scale: ""
   }
   {
     id: 100028
@@ -4218,8 +3713,6 @@
     type: 3
     code: Dropkick_MeleeDevil
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4230,10 +3723,8 @@
     range_rank: 5
     counter: 매우 높은 장갑을 가진 전열 유닛입니다. 철갑탄을 착용해 대응합시다.
     character: "1001,303,309"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100028
-    spine_scale: ""
   }
   {
     id: 100029
@@ -4241,8 +3732,6 @@
     type: 3
     code: Dropkick_RemoteDevil
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4253,10 +3742,8 @@
     range_rank: 5
     counter: 매우 높은 장갑을 가진 후열 유닛입니다. 철갑탄을 착용해 대응합시다.
     character: "1001,309"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100029
-    spine_scale: ""
   }
   {
     id: 100030
@@ -4264,8 +3751,6 @@
     type: 3
     code: Dropkick_IceGhost
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4276,10 +3761,8 @@
     range_rank: 5
     counter: 이 유닛은 빙결 표식을 쌓아 공격 대상을 얼려서 고정피해를 줍니다. 신속하게 처치하세요.
     character: "1001,315,324,329"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100030
-    spine_scale: ""
   }
   {
     id: 100031
@@ -4287,8 +3770,6 @@
     type: 3
     code: Dropkick_CyclopsChan
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4299,10 +3780,8 @@
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "1001,303"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100031
-    spine_scale: ""
   }
   {
     id: 100032
@@ -4310,8 +3789,6 @@
     type: 3
     code: Dropkick_BeansEmissary
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4322,10 +3799,8 @@
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있고, 우리 인형을 기절시킵니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "1001,324"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100032
-    spine_scale: ""
   }
   {
     id: 100033
@@ -4333,8 +3808,6 @@
     type: 3
     code: Dropkick_Beth
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4345,10 +3818,8 @@
     range_rank: 5
     counter: 이 유닛은 기동성이 매우 높고, 자신측의 화력을 높이면서, 물린 상대의 남은 쿨타임을 연장시킵니다. 빠르게 처치하길 바랍니다.
     character: "1001,304,333"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100033
-    spine_scale: ""
   }
   {
     id: 100034
@@ -4356,8 +3827,6 @@
     type: 1
     code: Dropkick_YurineBoss
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4368,10 +3837,8 @@
     range_rank: 5
     counter: 강화된 마물을 소환해 강력한 보호막을 부여합니다. 또 전방 넓은 범위에 큰 피해를 줍니다. 하지만 상대의 피해 기여도가 높은 유닛을 구속할 때 약점을 드러내니 그 기회에 격파하세요!
     character: "1001,321,329"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100034
-    spine_scale: ""
   }
   {
     id: 100035
@@ -4379,8 +3846,6 @@
     type: 1
     code: Dropkick_MinosBoss
     introduce: 상정하지 않은 적.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4391,10 +3856,8 @@
     range_rank: 5
     counter: 극도로 분노한 미노스. 피하는 게 상책입니다.
     character: "1001,329"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100035
-    spine_scale: ""
   }
   {
     id: 100036
@@ -4402,8 +3865,6 @@
     type: 2
     code: Pathfinder_Small
     introduce: 그냥 평범한 수박.
-    forces: 0
-    if_capture: 0
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -4414,10 +3875,8 @@
     range_rank: 5
     counter: 박살내버려!
     character: "903"
-    enemy_skill: ""
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100036
-    spine_scale: ""
   }
   {
     id: 100082
@@ -4426,13 +3885,11 @@
     code: Brute_SWAP
     introduce: 강화된 브루트, 더욱 강력해졌다.
     forces: 1
-    if_capture: 0
     pow_rank: 5
     life_rank: 3
     hit_rank: 4
     dodge_rank: 3
     rate_rank: 2
-    armor_rank: 0
     speed_rank: 4
     range_rank: 2
     counter: 이 유닛은 높은 관통력을 지니고 있습니다. 산탄총 인형으로 상대하는 것은 매우 위험하니, 기관단총 또는 권총같이 회피가 높은 인형으로 공격을 견디는 것이 좋습니다.
@@ -4440,7 +3897,6 @@
     enemy_skill: "54,55"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100082
-    spine_scale: ""
   }
   {
     id: 100083
@@ -4449,11 +3905,9 @@
     code: Nemeum_SWAP2
     introduce: 강화된 네메움, 더욱 강력해졌다.
     forces: 1
-    if_capture: 0
     pow_rank: 4
     life_rank: 5
     hit_rank: 6
-    dodge_rank: 0
     rate_rank: 3
     armor_rank: 4
     speed_rank: 4
@@ -4463,6 +3917,5 @@
     enemy_skill: "56"
     launch_time: 2035-12-31 00:00:00
     extra: enemy_illustration-40100083
-    spine_scale: ""
   }
 ]

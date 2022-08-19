@@ -6,8 +6,6 @@
     description_b: 골리앗
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 10002
@@ -17,7 +15,6 @@
     description_c: 투척
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 10101
@@ -26,8 +23,6 @@
     description_b: EMP 폭탄
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 10102
@@ -37,7 +32,6 @@
     description_c: 투척
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 363001
@@ -46,8 +40,6 @@
     description_b: ？？？
     description_c: 폭파 예약
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 363002
@@ -57,7 +49,6 @@
     description_c: 투척
     code_b: Squad_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 381401
@@ -66,8 +57,6 @@
     description_b: 부속 상자
     description_c: 줍기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 381434
@@ -76,8 +65,6 @@
     description_b: 부속 상자
     description_c: 운반: M1897
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 381435
@@ -86,8 +73,6 @@
     description_b: 부속 상자
     description_c: 운반: P90
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 381436
@@ -96,8 +81,6 @@
     description_b: 부속 상자
     description_c: 운반: M249
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 381437
@@ -106,8 +89,6 @@
     description_b: 부속 상자
     description_c: 운반: AUG
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 381438
@@ -116,8 +97,6 @@
     description_b: 부속 상자
     description_c: 운반: SVD
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 381501
@@ -126,8 +105,6 @@
     description_b: 제어콘솔
     description_c: 쉬운 훈련
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 381502
@@ -136,8 +113,6 @@
     description_b: 제어콘솔
     description_c: 어려운 훈련
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 390101
@@ -146,8 +121,6 @@
     description_b: 제어콘솔
     description_c: 증원 확인
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 390102
@@ -156,8 +129,6 @@
     description_b: 제어콘솔
     description_c: 증원 확인
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 390103
@@ -166,8 +137,6 @@
     description_b: 제어콘솔
     description_c: 증원 확인
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 390104
@@ -176,8 +145,6 @@
     description_b: 제어콘솔
     description_c: 증원 확인
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 390133
@@ -190,8 +157,6 @@
       [↖]
       '''
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 390135
@@ -204,8 +169,6 @@
       [↗]
       '''
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 390137
@@ -218,8 +181,6 @@
       [↙]
       '''
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 390139
@@ -232,8 +193,6 @@
       [↘]
       '''
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 410311
@@ -242,8 +201,6 @@
     description_b: 제어콘솔
     description_c: LinkStart!
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 410313
@@ -252,8 +209,6 @@
     description_b: 제어콘솔
     description_c: 프로토콜 교란
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 410321
@@ -262,8 +217,6 @@
     description_b: 제어콘솔
     description_c: 교란 해제
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 410322
@@ -272,8 +225,6 @@
     description_b: 제어콘솔
     description_c: 교란 해제
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 410323
@@ -282,8 +233,6 @@
     description_b: 제어콘솔
     description_c: 교란 해제
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 410341
@@ -292,8 +241,6 @@
     description_b: 제어콘솔
     description_c: 교란 해제
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 410342
@@ -302,8 +249,6 @@
     description_b: 제어콘솔
     description_c: 교란 해제
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 410343
@@ -312,8 +257,6 @@
     description_b: 제어콘솔
     description_c: 교란 해제
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 410344
@@ -322,8 +265,6 @@
     description_b: 제어콘솔
     description_c: 교란 해제
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 410351
@@ -332,8 +273,6 @@
     description_b: 제어콘솔
     description_c: 포트 활성화
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 410353
@@ -343,7 +282,6 @@
     description_c: 전송
     code_b: Squad_Icon
     is_manual_target: 1
-    use_fairy_ui: 0
   }
   {
     id: 410363
@@ -352,8 +290,6 @@
     description_b: 제어콘솔
     description_c: 골리앗 줍기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 410364
@@ -362,8 +298,6 @@
     description_b: 제어콘솔
     description_c: EMP 폭탄 줍기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 410365
@@ -373,7 +307,6 @@
     description_c: BOOOOM!
     code_b: Squad_Icon
     is_manual_target: 1
-    use_fairy_ui: 0
   }
   {
     id: 410366
@@ -383,7 +316,6 @@
     description_c: E!M!P!
     code_b: Squad_Icon
     is_manual_target: 1
-    use_fairy_ui: 0
   }
   {
     id: 411800
@@ -392,8 +324,6 @@
     description_b: 레이더A
     description_c: 90° 회전
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 411808
@@ -402,8 +332,6 @@
     description_b: 레이더B
     description_c: 90° 회전
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 411816
@@ -412,8 +340,6 @@
     description_b: 레이더C
     description_c: 90° 회전
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 411824
@@ -422,8 +348,6 @@
     description_b: 레이더D
     description_c: 90° 회전
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 411832
@@ -436,8 +360,6 @@
       회전
       '''
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 411833
@@ -446,8 +368,6 @@
     description_b: 레이더E
     description_c: 90° 회전
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 411836
@@ -460,8 +380,6 @@
       회전
       '''
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 411837
@@ -470,8 +388,6 @@
     description_b: 레이더F
     description_c: 90° 회전
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 420101
@@ -480,8 +396,6 @@
     description_b: 차단문
     description_c: 문 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 420102
@@ -490,8 +404,6 @@
     description_b: 제어콘솔
     description_c: Link Start!
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 420103
@@ -500,8 +412,6 @@
     description_b: 제어콘솔
     description_c: 회로 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 420104
@@ -510,8 +420,6 @@
     description_b: 기억파편
     description_c: 읽기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 420105
@@ -520,8 +428,6 @@
     description_b: 빨간 버튼
     description_c: 한계다! 누른다!
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 420106
@@ -531,7 +437,6 @@
     description_c: 전송
     code_b: Squad_Icon
     is_manual_target: 1
-    use_fairy_ui: 0
   }
   {
     id: 420107
@@ -540,8 +445,6 @@
     description_b: 제어콘솔
     description_c: 활성화
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 420108
@@ -550,8 +453,6 @@
     description_b: 보안상자
     description_c: 활성화
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 420109
@@ -560,8 +461,6 @@
     description_b: 보안상자
     description_c: 닫기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 440001
@@ -590,7 +489,6 @@
     description_b: 발동
     description_c: 발동
     code_b: Squad_Icon
-    is_manual_target: 0
     use_fairy_ui: 1
   }
   {
@@ -600,8 +498,6 @@
     description_b: 그리폰 마크
     description_c: 뒤집기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 440801
@@ -610,8 +506,6 @@
     description_b: 기억 조각
     description_c: 읽기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 440911
@@ -620,8 +514,6 @@
     description_b: 심층 파노라마
     description_c: 진입
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 440914
@@ -630,8 +522,6 @@
     description_b: 전송 지점
     description_c: 해제
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 442001
@@ -640,8 +530,6 @@
     description_b: 제어콘솔
     description_c: 네트워크 잠입
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 442011
@@ -650,8 +538,6 @@
     description_b: 보안 리미터
     description_c: 1/6 해제
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 442012
@@ -660,8 +546,6 @@
     description_b: 보안 리미터
     description_c: 2/6 해제
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 442013
@@ -670,8 +554,6 @@
     description_b: 보안 리미터
     description_c: 3/6 해제
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 442014
@@ -680,8 +562,6 @@
     description_b: 보안 리미터
     description_c: 4/6 해제
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 442015
@@ -690,8 +570,6 @@
     description_b: 보안 리미터
     description_c: 5/6 해제
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 442016
@@ -700,8 +578,6 @@
     description_b: 보안 리미터
     description_c: 완전해제
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 442301
@@ -710,8 +586,6 @@
     description_b: 제어콘솔
     description_c: 통로 전환
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 480101
@@ -720,8 +594,6 @@
     description_b: 공백모듈
     description_c: 변화: 전송 포트
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 480102
@@ -730,8 +602,6 @@
     description_b: 공백모듈
     description_c: 변화: EMP 수류탄 거치대
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 480103
@@ -740,8 +610,6 @@
     description_b: 공백모듈
     description_c: 변화: 데이터 포트
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 480111
@@ -751,7 +619,6 @@
     description_c: 전송
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 480121
@@ -760,8 +627,6 @@
     description_b: EMP 폭탄
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 480122
@@ -771,7 +636,6 @@
     description_c: 투척
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 480131
@@ -780,8 +644,6 @@
     description_b: 데이터 포트
     description_c: 데이터 받기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 480141
@@ -790,8 +652,6 @@
     description_b: 공백모듈
     description_c: 변화: 수리소
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 480151
@@ -800,8 +660,6 @@
     description_b: 공백모듈
     description_c: 모듈 기폭
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 481412
@@ -810,8 +668,6 @@
     description_b: 데이터 포트
     description_c: 데이터 받기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 481414
@@ -820,8 +676,6 @@
     description_b: 생산 라인
     description_c: 폭탄 매설
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 481812
@@ -830,8 +684,6 @@
     description_b: EMP 발생기
     description_c: 가동
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 481813
@@ -840,8 +692,6 @@
     description_b: 변전소
     description_c: 가동
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 481906
@@ -850,8 +700,6 @@
     description_b: 무기 거치대
     description_c: 무장하기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 481912
@@ -861,7 +709,6 @@
     description_c: 탑승
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 481913
@@ -870,8 +717,6 @@
     description_b: 암호판
     description_c: 암호 읽기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 481915
@@ -880,8 +725,6 @@
     description_b: 차단문
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 482001
@@ -890,8 +733,6 @@
     description_b: EMP 폭탄
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 482002
@@ -900,8 +741,6 @@
     description_b: 차단문
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 482201
@@ -910,8 +749,6 @@
     description_b: 차단문
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 482203
@@ -920,8 +757,6 @@
     description_b: 제어콘솔
     description_c: 해킹
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 482208
@@ -930,8 +765,6 @@
     description_b: 폭탄
     description_c: 매설
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 482215
@@ -940,8 +773,6 @@
     description_b: 제어콘솔
     description_c: 방향전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 482219
@@ -950,8 +781,6 @@
     description_b: 폭탄
     description_c: 폭파
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 482300
@@ -961,7 +790,6 @@
     description_c: 배치
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 482315
@@ -970,8 +798,6 @@
     description_b: 폭탄
     description_c: 폭파
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 482411
@@ -980,8 +806,6 @@
     description_b: 경로 전환 장치
     description_c: 가동
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 482431
@@ -991,7 +815,6 @@
     description_c: Cost 2
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 482432
@@ -1001,7 +824,6 @@
     description_c: Cost 1
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 482433
@@ -1011,7 +833,6 @@
     description_c: Cost 2
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 482434
@@ -1021,7 +842,6 @@
     description_c: Cost 2
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 482435
@@ -1031,7 +851,6 @@
     description_c: Cost 1
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 482436
@@ -1040,8 +859,6 @@
     description_b: 제어콘솔
     description_c: 활성화
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 482501
@@ -1050,8 +867,6 @@
     description_b: 증폭장치
     description_c: 증폭 가동
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 482509
@@ -1060,8 +875,6 @@
     description_b: 데이터 코어
     description_c: 읽기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 482512
@@ -1070,8 +883,6 @@
     description_b: 방화벽
     description_c: 해독
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 482513
@@ -1080,8 +891,6 @@
     description_b: 전송 포트
     description_c: 전송
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 483401
@@ -1090,8 +899,6 @@
     description_b: 접속 단자
     description_c: 활성화
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 483501
@@ -1100,8 +907,6 @@
     description_b: 골리앗
     description_c: 소지
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 483502
@@ -1110,8 +915,6 @@
     description_b: 돌무더기
     description_c: 폭파
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 483511
@@ -1121,7 +924,6 @@
     description_c: 투척
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 483611
@@ -1130,8 +932,6 @@
     description_b: 고폭탄
     description_c: 매설
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 483902
@@ -1140,8 +940,6 @@
     description_b: 가소성 폭탄
     description_c: 매설폭탄
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 483903
@@ -1150,8 +948,6 @@
     description_b: 가소성 폭탄
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 484170
@@ -1160,8 +956,6 @@
     description_b: 제어콘솔
     description_c: 초기화
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500000
@@ -1170,8 +964,6 @@
     description_b: 만능 디저트 머신
     description_c: 식재료 투입
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500001
@@ -1180,8 +972,6 @@
     description_b: 민트 패밀리
     description_c: 꺼내기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500002
@@ -1190,8 +980,6 @@
     description_b: 스윗 나이프
     description_c: 꺼내기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500003
@@ -1200,8 +988,6 @@
     description_b: 운명의 키스
     description_c: 꺼내기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500004
@@ -1210,8 +996,6 @@
     description_b: 초콜릿 듀오
     description_c: 꺼내기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500005
@@ -1220,8 +1004,6 @@
     description_b: 클래식 메모리
     description_c: 꺼내기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500006
@@ -1230,8 +1012,6 @@
     description_b: 코코아 뉴월드
     description_c: 꺼내기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500007
@@ -1240,8 +1020,6 @@
     description_b: 초코툴루
     description_c: 꺼내기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500020
@@ -1250,8 +1028,6 @@
     description_b: 코코아
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500021
@@ -1260,8 +1036,6 @@
     description_b: 커피 원두
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500022
@@ -1270,8 +1044,6 @@
     description_b: 백설탕
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500023
@@ -1280,8 +1052,6 @@
     description_b: 수상한 조미료
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500024
@@ -1290,8 +1060,6 @@
     description_b: 형광 가루
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500025
@@ -1300,8 +1068,6 @@
     description_b: 냉각제
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500026
@@ -1310,8 +1076,6 @@
     description_b: 식용색소
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500027
@@ -1320,8 +1084,6 @@
     description_b: 특이한 조미료
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500028
@@ -1330,8 +1092,6 @@
     description_b: 표준 틀
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500029
@@ -1340,8 +1100,6 @@
     description_b: 개성 틀
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500030
@@ -1350,8 +1108,6 @@
     description_b: 코코아
     description_c: 돌려놓기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500031
@@ -1360,8 +1116,6 @@
     description_b: 커피 원두
     description_c: 돌려놓기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500032
@@ -1370,8 +1124,6 @@
     description_b: 백설탕
     description_c: 돌려놓기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500033
@@ -1380,8 +1132,6 @@
     description_b: 수상한 조미료
     description_c: 돌려놓기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500034
@@ -1390,8 +1140,6 @@
     description_b: 형광 가루
     description_c: 돌려놓기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500035
@@ -1400,8 +1148,6 @@
     description_b: 냉각제
     description_c: 돌려놓기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500036
@@ -1410,8 +1156,6 @@
     description_b: 식용색소
     description_c: 돌려놓기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500037
@@ -1420,8 +1164,6 @@
     description_b: 특이한 조미료
     description_c: 돌려놓기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500038
@@ -1430,8 +1172,6 @@
     description_b: 표준 틀
     description_c: 돌려놓기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500039
@@ -1440,8 +1180,6 @@
     description_b: 개성 틀
     description_c: 돌려놓기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500091
@@ -1450,8 +1188,6 @@
     description_b: 민트 패밀리
     description_c: ⓘ: 레시피 보기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500092
@@ -1460,8 +1196,6 @@
     description_b: 스윗 나이프
     description_c: ⓘ: 레시피 보기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500093
@@ -1470,8 +1204,6 @@
     description_b: 운명의 키스
     description_c: ⓘ: 레시피 보기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500094
@@ -1480,8 +1212,6 @@
     description_b: 초콜릿 듀오
     description_c: ⓘ: 레시피 보기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500099
@@ -1490,8 +1220,6 @@
     description_b: 레시피
     description_c: 레시피 보기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500401
@@ -1500,8 +1228,6 @@
     description_b: 민트 패밀리
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500402
@@ -1510,8 +1236,6 @@
     description_b: 스윗 나이프
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500403
@@ -1520,8 +1244,6 @@
     description_b: 운명의 키스
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500404
@@ -1530,8 +1252,6 @@
     description_b: 초콜릿 듀오
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500405
@@ -1540,8 +1260,6 @@
     description_b: 클래식 메모리
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500406
@@ -1550,8 +1268,6 @@
     description_b: 코코아 뉴월드
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500407
@@ -1560,8 +1276,6 @@
     description_b: 초코툴루
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500410
@@ -1570,8 +1284,6 @@
     description_b: 페르시카
     description_c: 커피를 주기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500411
@@ -1580,8 +1292,6 @@
     description_b: 루이스
     description_c: 초콜릿을 주기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500412
@@ -1590,8 +1300,6 @@
     description_b: 팔콘
     description_c: 초콜릿을 주기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500413
@@ -1600,8 +1308,6 @@
     description_b: 79식
     description_c: 초콜릿을 주기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500414
@@ -1610,8 +1316,6 @@
     description_b: 97식
     description_c: 초콜릿을 주기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500415
@@ -1620,8 +1324,6 @@
     description_b: 헌터-나방 사냥
     description_c: 초콜릿을 주기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500416
@@ -1630,8 +1332,6 @@
     description_b: LWMMG
     description_c: 초콜릿을 주기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500417
@@ -1640,8 +1340,6 @@
     description_b: K5
     description_c: 초콜릿을 주기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500418
@@ -1650,8 +1348,6 @@
     description_b: M1 개런드
     description_c: 초콜릿을 주기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500419
@@ -1660,8 +1356,6 @@
     description_b: P22
     description_c: 초콜릿을 주기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500420
@@ -1670,8 +1364,6 @@
     description_b: T77
     description_c: 초콜릿을 주기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500461
@@ -1680,8 +1372,6 @@
     description_b: 엘레베이터
     description_c: 탑승
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 500491
@@ -1691,7 +1381,6 @@
     description_c: 먹이 투척
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 500496
@@ -1701,7 +1390,6 @@
     description_c: 먹이 투척
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 510303
@@ -1710,8 +1398,6 @@
     description_b: 포격 진지
     description_c: 재가동
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 510313
@@ -1721,7 +1407,6 @@
     description_c: 포격
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 510411
@@ -1730,8 +1415,6 @@
     description_b: 엘리베이터
     description_c: 탑승
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 510701
@@ -1740,8 +1423,6 @@
     description_b: 가소성 폭탄
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 510705
@@ -1751,7 +1432,6 @@
     description_c: 리미터 해제
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 510712
@@ -1761,7 +1441,6 @@
     description_c: 폭탄 매설
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 510903
@@ -1770,8 +1449,6 @@
     description_b: 암호 자물쇠
     description_c: 해독
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 510911
@@ -1781,7 +1458,6 @@
     description_c: 시설 폭파
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 510913
@@ -1790,8 +1466,6 @@
     description_b: 암호 자물쇠
     description_c: 고속 해독
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 510921
@@ -1801,7 +1475,6 @@
     description_c: 포격
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 511001
@@ -1810,8 +1483,6 @@
     description_b: 제어콘솔
     description_c: 통제권 획득
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 511012
@@ -1821,7 +1492,6 @@
     description_c: 화력 증폭
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 511013
@@ -1831,7 +1501,6 @@
     description_c: 보호막 증폭
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 511701
@@ -1841,7 +1510,6 @@
     description_c: 공습 유도
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 520621
@@ -1850,8 +1518,6 @@
     description_b: 여름 표식
     description_c: 뒤집기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 520801
@@ -1861,7 +1527,6 @@
     description_c: 배치
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 520802
@@ -1871,7 +1536,6 @@
     description_c: 배치
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 520803
@@ -1881,7 +1545,6 @@
     description_c: 배치
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 520804
@@ -1891,7 +1554,6 @@
     description_c: 배치
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 520805
@@ -1901,7 +1563,6 @@
     description_c: 배치
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 1000101
@@ -1910,8 +1571,6 @@
     description_b: 돌무더기I
     description_c: 폭파
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1000102
@@ -1920,8 +1579,6 @@
     description_b: 돌무더기I
     description_c: 폭파
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1000105
@@ -1930,8 +1587,6 @@
     description_b: 돌무더기II
     description_c: 폭파
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1000108
@@ -1940,8 +1595,6 @@
     description_b: 중요통로I
     description_c: 폭파 예약
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1000112
@@ -1950,8 +1603,6 @@
     description_b: 중요통로II
     description_c: 폭파 예약
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1000115
@@ -1960,8 +1611,6 @@
     description_b: 중요통로III
     description_c: 폭파 예약
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1000201
@@ -1970,8 +1619,6 @@
     description_b: 돌무더기II
     description_c: 폭파
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1000301
@@ -1980,8 +1627,6 @@
     description_b: 돌무더기III
     description_c: 폭파
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1000401
@@ -1990,8 +1635,6 @@
     description_b: 돌무더기IV
     description_c: 폭파
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1000501
@@ -2000,8 +1643,6 @@
     description_b: 돌무더기V
     description_c: 폭파
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1000601
@@ -2010,8 +1651,6 @@
     description_b: 돌무더기VI
     description_c: 폭파
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010104
@@ -2020,8 +1659,6 @@
     description_b: 제어콘솔I
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010105
@@ -2030,8 +1667,6 @@
     description_b: 제어콘솔I
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010106
@@ -2040,8 +1675,6 @@
     description_b: 제어콘솔I
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010107
@@ -2050,8 +1683,6 @@
     description_b: 제어콘솔I
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010110
@@ -2060,8 +1691,6 @@
     description_b: 제어콘솔I
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010111
@@ -2070,8 +1699,6 @@
     description_b: 제어콘솔I
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010112
@@ -2080,8 +1707,6 @@
     description_b: 제어콘솔I
     description_c: 권한 힌트
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010113
@@ -2090,8 +1715,6 @@
     description_b: 제어콘솔I
     description_c: 초기화 알림
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010114
@@ -2100,8 +1723,6 @@
     description_b: 제어콘솔I
     description_c: 권한 힌트
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010204
@@ -2110,8 +1731,6 @@
     description_b: 제어콘솔II
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010205
@@ -2120,8 +1739,6 @@
     description_b: 제어콘솔II
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010206
@@ -2130,8 +1747,6 @@
     description_b: 제어콘솔I
     description_c: 권한 힌트
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010207
@@ -2140,8 +1755,6 @@
     description_b: 제어콘솔II
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010208
@@ -2150,8 +1763,6 @@
     description_b: 제어콘솔II
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010209
@@ -2160,8 +1771,6 @@
     description_b: 제어콘솔II
     description_c: 권한 힌트
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010210
@@ -2170,8 +1779,6 @@
     description_b: 제어콘솔II
     description_c: 초기화 알림
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010212
@@ -2180,8 +1787,6 @@
     description_b: 제어콘솔I
     description_c: 권한 힌트
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010213
@@ -2190,8 +1795,6 @@
     description_b: 제어콘솔I
     description_c: 초기화 알림
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010304
@@ -2200,8 +1803,6 @@
     description_b: 제어콘솔III
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010305
@@ -2210,8 +1811,6 @@
     description_b: 제어콘솔III
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010306
@@ -2220,8 +1819,6 @@
     description_b: 제어콘솔II
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010307
@@ -2230,8 +1827,6 @@
     description_b: 제어콘솔II
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010308
@@ -2240,8 +1835,6 @@
     description_b: 제어콘솔I
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010309
@@ -2250,8 +1843,6 @@
     description_b: 제어콘솔I
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010404
@@ -2260,8 +1851,6 @@
     description_b: 제어콘솔IV
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010405
@@ -2270,8 +1859,6 @@
     description_b: 제어콘솔IV
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010406
@@ -2280,8 +1867,6 @@
     description_b: 제어콘솔IV
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010407
@@ -2290,8 +1875,6 @@
     description_b: 제어콘솔IV
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010410
@@ -2300,8 +1883,6 @@
     description_b: 제어콘솔III
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010411
@@ -2310,8 +1891,6 @@
     description_b: 제어콘솔III
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010412
@@ -2320,8 +1899,6 @@
     description_b: 제어콘솔I
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010413
@@ -2330,8 +1907,6 @@
     description_b: 제어콘솔I
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010414
@@ -2340,8 +1915,6 @@
     description_b: 제어콘솔II
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010415
@@ -2350,8 +1923,6 @@
     description_b: 제어콘솔II
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010504
@@ -2360,8 +1931,6 @@
     description_b: 제어콘솔V
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010505
@@ -2370,8 +1939,6 @@
     description_b: 제어콘솔V
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010506
@@ -2380,8 +1947,6 @@
     description_b: 제어콘솔IV
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010507
@@ -2390,8 +1955,6 @@
     description_b: 제어콘솔IV
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010508
@@ -2400,8 +1963,6 @@
     description_b: 제어콘솔II
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010509
@@ -2410,8 +1971,6 @@
     description_b: 제어콘솔II
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010604
@@ -2420,8 +1979,6 @@
     description_b: 제어콘솔VI
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010605
@@ -2430,8 +1987,6 @@
     description_b: 제어콘솔VI
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010606
@@ -2440,8 +1995,6 @@
     description_b: 제어콘솔V
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010607
@@ -2450,8 +2003,6 @@
     description_b: 제어콘솔V
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010608
@@ -2460,8 +2011,6 @@
     description_b: 제어콘솔III
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010609
@@ -2470,8 +2019,6 @@
     description_b: 제어콘솔III
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010704
@@ -2480,8 +2027,6 @@
     description_b: 제어콘솔VII
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010705
@@ -2490,8 +2035,6 @@
     description_b: 제어콘솔VII
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010706
@@ -2500,8 +2043,6 @@
     description_b: 제어콘솔VI
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010707
@@ -2510,8 +2051,6 @@
     description_b: 제어콘솔VI
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010804
@@ -2520,8 +2059,6 @@
     description_b: 제어콘솔VIII
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010805
@@ -2530,8 +2067,6 @@
     description_b: 제어콘솔VIII
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010806
@@ -2540,8 +2075,6 @@
     description_b: 제어콘솔VI
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1010807
@@ -2550,8 +2083,6 @@
     description_b: 제어콘솔VI
     description_c: 권한 동결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020106
@@ -2560,8 +2091,6 @@
     description_b: 차단문I
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020107
@@ -2570,8 +2099,6 @@
     description_b: 차단문I
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020108
@@ -2580,8 +2107,6 @@
     description_b: 차단문I
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020109
@@ -2590,8 +2115,6 @@
     description_b: 차단문I
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020110
@@ -2600,8 +2123,6 @@
     description_b: 차단문I
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020111
@@ -2610,8 +2131,6 @@
     description_b: 차단문I
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020112
@@ -2620,8 +2139,6 @@
     description_b: 차단문I
     description_c: 권한 힌트
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020113
@@ -2630,8 +2147,6 @@
     description_b: 차단문I
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020114
@@ -2640,8 +2155,6 @@
     description_b: 차단문I
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020115
@@ -2650,8 +2163,6 @@
     description_b: 차단문I
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020116
@@ -2660,8 +2171,6 @@
     description_b: 차단문I
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020117
@@ -2670,8 +2179,6 @@
     description_b: 차단문I
     description_c: 권한 힌트
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020118
@@ -2680,8 +2187,6 @@
     description_b: 차단문I
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020119
@@ -2690,8 +2195,6 @@
     description_b: 차단문I
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020120
@@ -2700,8 +2203,6 @@
     description_b: 차단문I
     description_c: 권한 힌트
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020121
@@ -2710,8 +2211,6 @@
     description_b: 차단문I
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020122
@@ -2720,8 +2219,6 @@
     description_b: 차단문I
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020123
@@ -2730,8 +2227,6 @@
     description_b: 차단문I
     description_c: 권한 힌트
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020126
@@ -2740,8 +2235,6 @@
     description_b: 차단문 I형①
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020127
@@ -2750,8 +2243,6 @@
     description_b: 차단문 I형①
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020206
@@ -2760,8 +2251,6 @@
     description_b: 차단문II
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020207
@@ -2770,8 +2259,6 @@
     description_b: 차단문II
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020208
@@ -2780,8 +2267,6 @@
     description_b: 차단문II
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020209
@@ -2790,8 +2275,6 @@
     description_b: 차단문II
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020210
@@ -2800,8 +2283,6 @@
     description_b: 차단문II
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020211
@@ -2810,8 +2291,6 @@
     description_b: 차단문II
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020212
@@ -2820,8 +2299,6 @@
     description_b: 차단문II
     description_c: 권한 힌트
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020213
@@ -2830,8 +2307,6 @@
     description_b: 차단문II
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020214
@@ -2840,8 +2315,6 @@
     description_b: 차단문II
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020215
@@ -2850,8 +2323,6 @@
     description_b: 차단문II
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020216
@@ -2860,8 +2331,6 @@
     description_b: 차단문II
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020217
@@ -2870,8 +2339,6 @@
     description_b: 차단문II
     description_c: 권한 힌트
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020218
@@ -2880,8 +2347,6 @@
     description_b: 차단문 I형②
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020219
@@ -2890,8 +2355,6 @@
     description_b: 차단문 I형②
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020306
@@ -2900,8 +2363,6 @@
     description_b: 차단문III
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020307
@@ -2910,8 +2371,6 @@
     description_b: 차단문III
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020308
@@ -2920,8 +2379,6 @@
     description_b: 차단문III
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020309
@@ -2930,8 +2387,6 @@
     description_b: 차단문III
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020310
@@ -2940,8 +2395,6 @@
     description_b: 차단문III
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020311
@@ -2950,8 +2403,6 @@
     description_b: 차단문III
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020312
@@ -2960,8 +2411,6 @@
     description_b: 차단문III
     description_c: 권한 힌트
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020313
@@ -2970,8 +2419,6 @@
     description_b: 차단문 I형③
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020314
@@ -2980,8 +2427,6 @@
     description_b: 차단문 I형③
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020406
@@ -2990,8 +2435,6 @@
     description_b: 차단문IV
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020407
@@ -3000,8 +2443,6 @@
     description_b: 차단문IV
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020408
@@ -3010,8 +2451,6 @@
     description_b: 차단문III
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020409
@@ -3020,8 +2459,6 @@
     description_b: 차단문III
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020410
@@ -3030,8 +2467,6 @@
     description_b: 차단문 I형④
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020411
@@ -3040,8 +2475,6 @@
     description_b: 차단문 I형④
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020506
@@ -3050,8 +2483,6 @@
     description_b: 차단문V
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020507
@@ -3060,8 +2491,6 @@
     description_b: 차단문V
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020508
@@ -3070,8 +2499,6 @@
     description_b: 차단문IV
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020509
@@ -3080,8 +2507,6 @@
     description_b: 차단문IV
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020606
@@ -3090,8 +2515,6 @@
     description_b: 차단문VI
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020607
@@ -3100,8 +2523,6 @@
     description_b: 차단문VI
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020608
@@ -3110,8 +2531,6 @@
     description_b: 차단문V
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020609
@@ -3120,8 +2539,6 @@
     description_b: 차단문V
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020706
@@ -3130,8 +2547,6 @@
     description_b: 차단문 VII
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020707
@@ -3140,8 +2555,6 @@
     description_b: 차단문 VII
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020708
@@ -3150,8 +2563,6 @@
     description_b: 차단문 I형⑤
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020709
@@ -3160,8 +2571,6 @@
     description_b: 차단문 I형⑤
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020806
@@ -3170,8 +2579,6 @@
     description_b: 차단문 VIII
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020807
@@ -3180,8 +2587,6 @@
     description_b: 차단문 VIII
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020906
@@ -3190,8 +2595,6 @@
     description_b: 차단문 IX
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1020907
@@ -3200,8 +2603,6 @@
     description_b: 차단문 IX
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1021006
@@ -3210,8 +2611,6 @@
     description_b: 차단문 X
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1021007
@@ -3220,8 +2619,6 @@
     description_b: 차단문 X
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1021106
@@ -3230,8 +2627,6 @@
     description_b: 차단문 XI
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1021107
@@ -3240,8 +2635,6 @@
     description_b: 차단문 XI
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1021206
@@ -3250,8 +2643,6 @@
     description_b: 차단문 XII
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1021207
@@ -3260,8 +2651,6 @@
     description_b: 차단문 XII
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1021306
@@ -3270,8 +2659,6 @@
     description_b: 차단문 XIII
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1021307
@@ -3280,8 +2667,6 @@
     description_b: 차단문 XIII
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1030101
@@ -3290,8 +2675,6 @@
     description_b: 버려진 골리앗I
     description_c: 소지
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1030201
@@ -3300,8 +2683,6 @@
     description_b: 버려진 골리앗II
     description_c: 소지
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1030301
@@ -3310,8 +2691,6 @@
     description_b: 버려진 골리앗III
     description_c: 소지
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1030401
@@ -3320,8 +2699,6 @@
     description_b: 버려진 골리앗IV
     description_c: 소지
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1030501
@@ -3330,8 +2707,6 @@
     description_b: 버려진 골리앗V
     description_c: 소지
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1030601
@@ -3340,8 +2715,6 @@
     description_b: 버려진 골리앗VI
     description_c: 소지
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060105
@@ -3350,8 +2723,6 @@
     description_b: 포격진지I
     description_c: 끄기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060106
@@ -3360,8 +2731,6 @@
     description_b: 포격진지I
     description_c: 활성화
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060107
@@ -3370,8 +2739,6 @@
     description_b: 포격진지I
     description_c: 발포
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060108
@@ -3380,8 +2747,6 @@
     description_b: 포격진지I
     description_c: 발포
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060109
@@ -3390,8 +2755,6 @@
     description_b: 포격진지I
     description_c: 끄기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060110
@@ -3400,8 +2763,6 @@
     description_b: 포격진지I
     description_c: 활성화
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060111
@@ -3410,8 +2771,6 @@
     description_b: 포격진지I
     description_c: 발포
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060112
@@ -3420,8 +2779,6 @@
     description_b: 포격진지I
     description_c: 발포
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060205
@@ -3430,8 +2787,6 @@
     description_b: 포격진지II
     description_c: 끄기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060206
@@ -3440,8 +2795,6 @@
     description_b: 포격진지II
     description_c: 활성화
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060207
@@ -3450,8 +2803,6 @@
     description_b: 포격진지II
     description_c: 발포
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060208
@@ -3460,8 +2811,6 @@
     description_b: 포격진지II
     description_c: 발포
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060209
@@ -3470,8 +2819,6 @@
     description_b: 포격진지II
     description_c: 끄기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060210
@@ -3480,8 +2827,6 @@
     description_b: 포격진지II
     description_c: 활성화
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060211
@@ -3490,8 +2835,6 @@
     description_b: 포격진지II
     description_c: 발포
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060213
@@ -3500,8 +2843,6 @@
     description_b: 포격진지II
     description_c: 끄기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060214
@@ -3510,8 +2851,6 @@
     description_b: 포격진지II
     description_c: 활성화
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060215
@@ -3520,8 +2859,6 @@
     description_b: 포격진지II
     description_c: 발포
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060305
@@ -3530,8 +2867,6 @@
     description_b: 포격진지III
     description_c: 끄기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060306
@@ -3540,8 +2875,6 @@
     description_b: 포격진지III
     description_c: 활성화
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060307
@@ -3550,8 +2883,6 @@
     description_b: 포격진지III
     description_c: 발포
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060308
@@ -3560,8 +2891,6 @@
     description_b: 포격진지III
     description_c: 끄기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060309
@@ -3570,8 +2899,6 @@
     description_b: 포격진지III
     description_c: 활성화
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060310
@@ -3580,8 +2907,6 @@
     description_b: 포격진지III
     description_c: 발포
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060311
@@ -3590,8 +2915,6 @@
     description_b: 포격진지III
     description_c: 권한 힌트
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060313
@@ -3600,8 +2923,6 @@
     description_b: 포격진지III
     description_c: 끄기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060314
@@ -3610,8 +2931,6 @@
     description_b: 포격진지III
     description_c: 활성화
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060315
@@ -3620,8 +2939,6 @@
     description_b: 포격진지III
     description_c: 발포
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060316
@@ -3630,8 +2947,6 @@
     description_b: 포격진지III
     description_c: 권한 힌트
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060405
@@ -3640,8 +2955,6 @@
     description_b: 포격진지IV
     description_c: 끄기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060406
@@ -3650,8 +2963,6 @@
     description_b: 포격진지IV
     description_c: 활성화
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060407
@@ -3660,8 +2971,6 @@
     description_b: 포격진지IV
     description_c: 발포
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060505
@@ -3670,8 +2979,6 @@
     description_b: 포격진지V
     description_c: 끄기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060506
@@ -3680,8 +2987,6 @@
     description_b: 포격진지V
     description_c: 활성화
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060507
@@ -3690,8 +2995,6 @@
     description_b: 포격진지V
     description_c: 발포
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060605
@@ -3700,8 +3003,6 @@
     description_b: 포격진지VI
     description_c: 끄기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060606
@@ -3710,8 +3011,6 @@
     description_b: 포격진지VI
     description_c: 활성화
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1060607
@@ -3720,8 +3019,6 @@
     description_b: 포격진지VI
     description_c: 발포
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1070101
@@ -3730,8 +3027,6 @@
     description_b: 정화탑II
     description_c: 정화
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1070102
@@ -3740,8 +3035,6 @@
     description_b: 정화탑II
     description_c: 권한 힌트
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1070201
@@ -3750,8 +3043,6 @@
     description_b: 정화탑VII
     description_c: 정화
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1070202
@@ -3760,8 +3051,6 @@
     description_b: 정화탑VII
     description_c: 권한 힌트
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1140101
@@ -3770,8 +3059,6 @@
     description_b: EMP 폭탄
     description_c: 소지
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1140103
@@ -3780,8 +3067,6 @@
     description_b: ???
     description_c: 투척
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1150102
@@ -3790,8 +3075,6 @@
     description_b: 대형 수도관 Ⅰ
     description_c: 폭탄 설치
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1150202
@@ -3800,8 +3083,6 @@
     description_b: 대형 수도관 Ⅱ
     description_c: 폭탄 설치
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1150302
@@ -3810,8 +3091,6 @@
     description_b: 대형 수도관 Ⅲ
     description_c: 폭탄 설치
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 1150402
@@ -3820,8 +3099,6 @@
     description_b: 대형 수도관 Ⅳ
     description_c: 폭탄 설치
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6000001
@@ -3830,8 +3107,6 @@
     description_b: 차단문I
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6000002
@@ -3840,8 +3115,6 @@
     description_b: 버려진 골리앗
     description_c: 소지
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6000003
@@ -3850,8 +3123,6 @@
     description_b: 돌무더기I
     description_c: 폭파
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6000004
@@ -3861,7 +3132,6 @@
     description_c: 투척
     code_b: Squad_Icon
     is_manual_target: 1
-    use_fairy_ui: 0
   }
   {
     id: 6000005
@@ -3870,8 +3140,6 @@
     description_b: EMP 폭탄
     description_c: 소지
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6000006
@@ -3881,7 +3149,6 @@
     description_c: 투척
     code_b: Squad_Icon
     is_manual_target: 1
-    use_fairy_ui: 0
   }
   {
     id: 6000007
@@ -3890,8 +3157,6 @@
     description_b: 변전소
     description_c: 켜기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6000008
@@ -3900,8 +3165,6 @@
     description_b: 변전소
     description_c: 끄기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6000009
@@ -3910,8 +3173,6 @@
     description_b: EMP
     description_c: 끄기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6000010
@@ -3920,8 +3181,6 @@
     description_b: 전송포트
     description_c: 전송
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6380201
@@ -3930,8 +3189,6 @@
     description_b: 차단문 X1
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6380202
@@ -3940,8 +3197,6 @@
     description_b: 차단문 X1
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6380203
@@ -3950,8 +3205,6 @@
     description_b: 차단문 X2
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6380204
@@ -3960,8 +3213,6 @@
     description_b: 차단문 X2
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6390301
@@ -3970,8 +3221,6 @@
     description_b: 차단문 X1
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6410101
@@ -3980,8 +3229,6 @@
     description_b: 골리앗
     description_c: 소지
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6410102
@@ -3990,8 +3237,6 @@
     description_b: 골리앗
     description_c: 투척
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6410401
@@ -4000,8 +3245,6 @@
     description_b: 차단문I
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6410501
@@ -4010,8 +3253,6 @@
     description_b: 차단문II
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6410701
@@ -4020,8 +3261,6 @@
     description_b: 전송포트
     description_c: 전송
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6410901
@@ -4030,8 +3269,6 @@
     description_b: 제어콘솔I
     description_c: 해독
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6411101
@@ -4041,7 +3278,6 @@
     description_c: 투척
     code_b: Squad_Icon
     is_manual_target: 1
-    use_fairy_ui: 0
   }
   {
     id: 6411201
@@ -4050,8 +3286,6 @@
     description_b: 제어콘솔I
     description_c: 침투
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6411401
@@ -4060,8 +3294,6 @@
     description_b: 제어콘솔
     description_c: 해독
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6430005
@@ -4071,7 +3303,6 @@
     description_c: 투척/취소
     code_b: Squad_Icon
     is_manual_target: 1
-    use_fairy_ui: 0
   }
   {
     id: 6430006
@@ -4081,7 +3312,6 @@
     description_c: 투척/취소
     code_b: Squad_Icon
     is_manual_target: 1
-    use_fairy_ui: 0
   }
   {
     id: 6430007
@@ -4091,7 +3321,6 @@
     description_c: 투척/취소
     code_b: Squad_Icon
     is_manual_target: 1
-    use_fairy_ui: 0
   }
   {
     id: 6430008
@@ -4100,8 +3329,6 @@
     description_b: 캐릭터 선택: 416
     description_c: 결정
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6430009
@@ -4110,8 +3337,6 @@
     description_b: 캐릭터 선택: Vector
     description_c: 결정
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6430011
@@ -4120,8 +3345,6 @@
     description_b: 세열수류탄
     description_c: 줍기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6430012
@@ -4130,8 +3353,6 @@
     description_b: 섬광탄
     description_c: 줍기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6430013
@@ -4140,8 +3361,6 @@
     description_b: 터렛
     description_c: 줍기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6430014
@@ -4150,8 +3369,6 @@
     description_b: 세열수류탄*10
     description_c: 줍기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6430015
@@ -4160,8 +3377,6 @@
     description_b: 섬광탄*10
     description_c: 줍기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6430016
@@ -4170,8 +3385,6 @@
     description_b: 터렛*10
     description_c: 줍기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6430021
@@ -4181,7 +3394,6 @@
     description_c: 폭탄받아라 /그냥 참자
     code_b: Squad_Icon
     is_manual_target: 1
-    use_fairy_ui: 0
   }
   {
     id: 6430201
@@ -4190,8 +3402,6 @@
     description_b: 의료설비
     description_c: 방독면 제작
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6440001
@@ -4200,8 +3410,6 @@
     description_b: 제어콘솔
     description_c: 해독
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6440002
@@ -4210,8 +3418,6 @@
     description_b: 제어콘솔
     description_c: 문 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6440003
@@ -4220,8 +3426,6 @@
     description_b: 꽃가루 폭탄
     description_c: 작동 정지
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6440004
@@ -4230,8 +3434,6 @@
     description_b: 제어콘솔
     description_c: 문 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6440005
@@ -4240,8 +3442,6 @@
     description_b: 제어콘솔
     description_c: 누르기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6440006
@@ -4251,7 +3451,6 @@
     description_c: 목표 선택/취소
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6440007
@@ -4260,8 +3459,6 @@
     description_b: EMP 폭탄
     description_c: 소지
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6440008
@@ -4271,7 +3468,6 @@
     description_c: 투척
     code_b: Squad_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6441110
@@ -4280,8 +3476,6 @@
     description_b: 암호판
     description_c: 입력:0
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6441111
@@ -4290,8 +3484,6 @@
     description_b: 암호판
     description_c: 입력:1
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6441112
@@ -4300,8 +3492,6 @@
     description_b: 암호판
     description_c: 입력:2
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6441113
@@ -4310,8 +3500,6 @@
     description_b: 암호판
     description_c: 입력:3
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6441114
@@ -4320,8 +3508,6 @@
     description_b: 암호판
     description_c: 입력:4
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6441115
@@ -4330,8 +3516,6 @@
     description_b: 암호판
     description_c: 입력:5
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6441116
@@ -4340,8 +3524,6 @@
     description_b: 암호판
     description_c: 입력:6
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6441117
@@ -4350,8 +3532,6 @@
     description_b: 암호판
     description_c: 입력:7
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6441118
@@ -4360,8 +3540,6 @@
     description_b: 암호판
     description_c: 입력:8
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6441119
@@ -4370,8 +3548,6 @@
     description_b: 암호판
     description_c: 입력:9
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6449999
@@ -4381,7 +3557,6 @@
     description_c: 투척/취소
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6460001
@@ -4390,8 +3565,6 @@
     description_b: 텐트
     description_c: 뒤져보기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6470001
@@ -4400,8 +3573,6 @@
     description_b: 제어콘솔
     description_c: 가동
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6470002
@@ -4410,8 +3581,6 @@
     description_b: 제어콘솔
     description_c: 해킹
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6480001
@@ -4420,8 +3589,6 @@
     description_b: 제어콘솔
     description_c: 해독
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6480002
@@ -4430,8 +3597,6 @@
     description_b: 제어콘솔
     description_c: 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6480003
@@ -4440,8 +3605,6 @@
     description_b: 이아손의 상자
     description_c: 가동
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6480004
@@ -4450,8 +3613,6 @@
     description_b: 이아손의 상자
     description_c: 조사
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6480005
@@ -4460,8 +3621,6 @@
     description_b: 골리앗
     description_c: 소지
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6480006
@@ -4471,7 +3630,6 @@
     description_c: 투척
     code_b: Console_Icon
     is_manual_target: 1
-    use_fairy_ui: 0
   }
   {
     id: 6480007
@@ -4480,8 +3638,6 @@
     description_b: 차단문
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6480008
@@ -4490,8 +3646,6 @@
     description_b: 차단문
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6480009
@@ -4500,8 +3654,6 @@
     description_b: 가소성 폭탄
     description_c: 소지
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6480010
@@ -4511,7 +3663,6 @@
     description_c: 투척
     code_b: Console_Icon
     is_manual_target: 1
-    use_fairy_ui: 0
   }
   {
     id: 6510001
@@ -4520,8 +3671,6 @@
     description_b: 전송포트
     description_c: 가동
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510002
@@ -4530,8 +3679,6 @@
     description_b: 전송포트
     description_c: 가동
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510003
@@ -4540,8 +3687,6 @@
     description_b: 속성자재
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510004
@@ -4550,8 +3695,6 @@
     description_b: 입자충격포
     description_c: 건설
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510005
@@ -4561,7 +3704,6 @@
     description_c: 강화
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510006
@@ -4570,8 +3712,6 @@
     description_b: 가속탑
     description_c: 건설
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510007
@@ -4581,7 +3721,6 @@
     description_c: 강화
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510008
@@ -4590,8 +3729,6 @@
     description_b: 홀로그램 소환장치
     description_c: 건설
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510009
@@ -4601,7 +3738,6 @@
     description_c: 강화
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510010
@@ -4610,8 +3746,6 @@
     description_b: 증폭탑
     description_c: 건설
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510011
@@ -4621,7 +3755,6 @@
     description_c: 강화
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510012
@@ -4631,7 +3764,6 @@
     description_c: 포격1
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510013
@@ -4641,7 +3773,6 @@
     description_c: 포격2-A
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510014
@@ -4651,7 +3782,6 @@
     description_c: 포격2-B
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510015
@@ -4661,7 +3791,6 @@
     description_c: 포격3-A
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510016
@@ -4671,7 +3800,6 @@
     description_c: 포격3-B
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510017
@@ -4681,7 +3809,6 @@
     description_c: HG 소환
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510018
@@ -4691,7 +3818,6 @@
     description_c: AR 소환 1
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510019
@@ -4701,7 +3827,6 @@
     description_c: RF 소환 1
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510020
@@ -4711,7 +3836,6 @@
     description_c: MG 소환 1
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510021
@@ -4721,7 +3845,6 @@
     description_c: AR 소환 2
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510022
@@ -4731,7 +3854,6 @@
     description_c: RF 소환 2
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510023
@@ -4741,7 +3863,6 @@
     description_c: MG 소환 2
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510024
@@ -4751,7 +3872,6 @@
     description_c: 가속 1
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510025
@@ -4761,7 +3881,6 @@
     description_c: 가속 2
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510026
@@ -4771,7 +3890,6 @@
     description_c: 가속 3
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510027
@@ -4781,7 +3899,6 @@
     description_c: 증폭 1
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510028
@@ -4791,7 +3908,6 @@
     description_c: 증폭 2-A
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510029
@@ -4801,7 +3917,6 @@
     description_c: 증폭 2-B
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510030
@@ -4811,7 +3926,6 @@
     description_c: 증폭 3-A
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510031
@@ -4821,7 +3935,6 @@
     description_c: 증폭 3-B
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510032
@@ -4830,8 +3943,6 @@
     description_b: 제어콘솔
     description_c: 패널A 가동
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510033
@@ -4840,8 +3951,6 @@
     description_b: 제어콘솔
     description_c: 획득
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510034
@@ -4850,8 +3959,6 @@
     description_b: 제어콘솔
     description_c: 전송
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510035
@@ -4860,8 +3967,6 @@
     description_b: 제어콘솔
     description_c: 가동
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510036
@@ -4870,8 +3975,6 @@
     description_b: 증폭탑
     description_c: 탈취
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510037
@@ -4881,7 +3984,6 @@
     description_c: 가동
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510038
@@ -4890,8 +3992,6 @@
     description_b: 입자충격포
     description_c: 발포
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510039
@@ -4901,7 +4001,6 @@
     description_c: 공격
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510040
@@ -4911,7 +4010,6 @@
     description_c: 가속
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510041
@@ -4920,8 +4018,6 @@
     description_b: 제어콘솔
     description_c: 조사
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510042
@@ -4930,8 +4026,6 @@
     description_b: 제어콘솔
     description_c: 입력:0
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510043
@@ -4940,8 +4034,6 @@
     description_b: 제어콘솔
     description_c: 입력:1
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510044
@@ -4950,8 +4042,6 @@
     description_b: 총제어기
     description_c: 해독
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510045
@@ -4960,8 +4050,6 @@
     description_b: 제어콘솔
     description_c: 가동
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510046
@@ -4970,8 +4058,6 @@
     description_b: 가소성 폭탄
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510047
@@ -4980,8 +4066,6 @@
     description_b: 가소성 폭탄
     description_c: 투척
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510048
@@ -4990,8 +4074,6 @@
     description_b: 입자충격포
     description_c: 탈취
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510049
@@ -5000,8 +4082,6 @@
     description_b: 제어콘솔
     description_c: 패널B 가동
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510050
@@ -5010,8 +4090,6 @@
     description_b: 제어콘솔
     description_c: 패널C 가동
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510051
@@ -5020,8 +4098,6 @@
     description_b: 전송포트
     description_c: 가동
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510052
@@ -5030,8 +4106,6 @@
     description_b: 전송포트
     description_c: 가동
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510053
@@ -5041,7 +4115,6 @@
     description_c: 강화
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510054
@@ -5051,7 +4124,6 @@
     description_c: 강화
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510055
@@ -5061,7 +4133,6 @@
     description_c: 강화
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510056
@@ -5071,7 +4142,6 @@
     description_c: 강화
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510057
@@ -5081,7 +4151,6 @@
     description_c: 강화
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510058
@@ -5091,7 +4160,6 @@
     description_c: 강화
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510059
@@ -5101,7 +4169,6 @@
     description_c: 강화
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510060
@@ -5111,7 +4178,6 @@
     description_c: 강화
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510061
@@ -5121,7 +4187,6 @@
     description_c: 강화
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510062
@@ -5131,7 +4196,6 @@
     description_c: 강화
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510063
@@ -5141,7 +4205,6 @@
     description_c: 강화
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510064
@@ -5151,7 +4214,6 @@
     description_c: 강화
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6510065
@@ -5160,8 +4222,6 @@
     description_b: 폐기자재
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510066
@@ -5170,8 +4230,6 @@
     description_b: 증폭탑
     description_c: 탈취
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6510067
@@ -5181,7 +4239,6 @@
     description_c: 가동
     code_b: Console_Icon
     is_manual_target: 2
-    use_fairy_ui: 0
   }
   {
     id: 6520001
@@ -5190,8 +4247,6 @@
     description_b: 제어콘솔
     description_c: 가동
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 6520002
@@ -5200,8 +4255,6 @@
     description_b: 폭죽
     description_c: 발사
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 8120301
@@ -5210,8 +4263,6 @@
     description_b: 차단문 I
     description_c: 열기 A
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 8120302
@@ -5220,8 +4271,6 @@
     description_b: 차단문 I
     description_c: 열기 B
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 8120303
@@ -5230,8 +4279,6 @@
     description_b: 차단문 I
     description_c: 열기 C
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 8120304
@@ -5240,8 +4287,6 @@
     description_b: 차단문 I
     description_c: 열기 D
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 8120305
@@ -5250,8 +4295,6 @@
     description_b: 차단문 I
     description_c: 초기화
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 8120701
@@ -5260,8 +4303,6 @@
     description_b: 폐건물
     description_c: 폭탄 설치
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 8120709
@@ -5270,8 +4311,6 @@
     description_b: EMP 발생기
     description_c: E!M!P!EX
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9130101
@@ -5280,8 +4319,6 @@
     description_b: 보호막 생성기
     description_c: 폭격
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9130114
@@ -5290,8 +4327,6 @@
     description_b: 돌무더기
     description_c: 폭격
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9130201
@@ -5300,8 +4335,6 @@
     description_b: 방공진지
     description_c: 폭격
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9130506
@@ -5310,8 +4343,6 @@
     description_b: 차단문
     description_c: 폭파 예약
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9130507
@@ -5320,8 +4351,6 @@
     description_b: 차단문
     description_c: 폭파 예약
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9321201
@@ -5330,8 +4359,6 @@
     description_b: 차단문 II형①
     description_c: 난수A
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9321202
@@ -5340,8 +4367,6 @@
     description_b: 차단문 II형①
     description_c: 난수B
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9321203
@@ -5350,8 +4375,6 @@
     description_b: 차단문 II형②,③
     description_c: 난수C
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9321206
@@ -5360,8 +4383,6 @@
     description_b: 차단문 II형②,③
     description_c: 난수D
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9321208
@@ -5370,8 +4391,6 @@
     description_b: 차단문 II형①,②
     description_c: 난수E
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9321210
@@ -5380,8 +4399,6 @@
     description_b: 차단문 II형②,③
     description_c: 난수F
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9321212
@@ -5390,8 +4407,6 @@
     description_b: 차단문 II형③,④
     description_c: 난수G
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9321214
@@ -5400,8 +4415,6 @@
     description_b: 차단문 II형①,③
     description_c: 난수H
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9321215
@@ -5410,8 +4423,6 @@
     description_b: 차단문 II형①,④
     description_c: 난수I
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9321216
@@ -5420,8 +4431,6 @@
     description_b: 차단문 II형②,④
     description_c: 난수J
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9321217
@@ -5430,8 +4439,6 @@
     description_b: 제어콘솔 II
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9321218
@@ -5440,8 +4447,6 @@
     description_b: 제어콘솔 II
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9321223
@@ -5450,8 +4455,6 @@
     description_b: 차단문 II형③,④
     description_c: 난수K
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9321225
@@ -5460,8 +4463,6 @@
     description_b: 차단문 II
     description_c: 난수L
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9321503
@@ -5470,8 +4471,6 @@
     description_b: ???
     description_c: 투척
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9322301
@@ -5480,8 +4479,6 @@
     description_b: WA2000
     description_c: 저격
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9332102
@@ -5490,8 +4487,6 @@
     description_b: 변전소
     description_c: 가동
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9332103
@@ -5500,8 +4495,6 @@
     description_b: 변전소
     description_c: 정지
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9332106
@@ -5510,8 +4503,6 @@
     description_b: EMP 발생기
     description_c: E!M!P!
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9332110
@@ -5520,8 +4511,6 @@
     description_b: 기폭장치
     description_c: 기폭
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9332114
@@ -5530,8 +4519,6 @@
     description_b: 골리앗
     description_c: 기폭
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9333021
@@ -5540,8 +4527,6 @@
     description_b: 골리앗
     description_c: 투척
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9333210
@@ -5550,8 +4535,6 @@
     description_b: 차단문 ALL
     description_c: 정지
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9333211
@@ -5560,8 +4543,6 @@
     description_b: 차단문 I
     description_c: 난수 A
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9333212
@@ -5570,8 +4551,6 @@
     description_b: 차단문 III
     description_c: 난수 B
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9333213
@@ -5580,8 +4559,6 @@
     description_b: 차단문 III
     description_c: 난수 C
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9333214
@@ -5590,8 +4567,6 @@
     description_b: 차단문 II/III
     description_c: 난수 D
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9333215
@@ -5600,8 +4575,6 @@
     description_b: 차단문 III
     description_c: 난수 E
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9333216
@@ -5610,8 +4583,6 @@
     description_b: 차단문 I/III
     description_c: 난수 F
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9333217
@@ -5620,8 +4591,6 @@
     description_b: 차단문 II
     description_c: 난수 G
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9333218
@@ -5630,8 +4599,6 @@
     description_b: 차단문 I
     description_c: 난수 H
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9333230
@@ -5640,8 +4607,6 @@
     description_b: 차단문 ALL
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9333604
@@ -5650,8 +4615,6 @@
     description_b: ???
     description_c: 폭파
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9335202
@@ -5660,8 +4623,6 @@
     description_b: 제어콘솔 I형①
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9335203
@@ -5670,8 +4631,6 @@
     description_b: 제어콘솔 I형②
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9335204
@@ -5680,8 +4639,6 @@
     description_b: 제어콘솔 I형③
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9335205
@@ -5690,8 +4647,6 @@
     description_b: 제어콘솔 I형④
     description_c: 권한 개방
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9335206
@@ -5700,8 +4655,6 @@
     description_b: 제어콘솔 I형
     description_c: 초기화
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9335303
@@ -5710,8 +4663,6 @@
     description_b: ???
     description_c: 투척
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9336101
@@ -5720,8 +4671,6 @@
     description_b: 삼각대I
     description_c: 휴면
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9336103
@@ -5730,8 +4679,6 @@
     description_b: 차단문 X
     description_c: 투척
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9336306
@@ -5740,8 +4687,6 @@
     description_b: 차단문 I형③
     description_c: 열기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9336401
@@ -5750,8 +4695,6 @@
     description_b: ???
     description_c: 폭파
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361731
@@ -5760,8 +4703,6 @@
     description_b: 차단문 A1
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361732
@@ -5770,8 +4711,6 @@
     description_b: 차단문 A2
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361733
@@ -5780,8 +4719,6 @@
     description_b: 차단문 A3
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361734
@@ -5790,8 +4727,6 @@
     description_b: 차단문 AX
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361735
@@ -5800,8 +4735,6 @@
     description_b: 차단문 B1
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361736
@@ -5810,8 +4743,6 @@
     description_b: 차단문 B2
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361737
@@ -5820,8 +4751,6 @@
     description_b: 차단문 B3
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361738
@@ -5830,8 +4759,6 @@
     description_b: 차단문 BX
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361741
@@ -5840,8 +4767,6 @@
     description_b: 차단문 A1
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361742
@@ -5850,8 +4775,6 @@
     description_b: 차단문 A2
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361743
@@ -5860,8 +4783,6 @@
     description_b: 차단문 A3
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361744
@@ -5870,8 +4791,6 @@
     description_b: 차단문 AX
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361745
@@ -5880,8 +4799,6 @@
     description_b: 차단문 B1
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361746
@@ -5890,8 +4807,6 @@
     description_b: 차단문 B2
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361747
@@ -5900,8 +4815,6 @@
     description_b: 차단문 B3
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361748
@@ -5910,8 +4823,6 @@
     description_b: 차단문 BX
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361751
@@ -5920,8 +4831,6 @@
     description_b: 차단문 X2/X4
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361752
@@ -5930,8 +4839,6 @@
     description_b: 차단문 X2/X3
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361753
@@ -5940,8 +4847,6 @@
     description_b: 차단문 X1/X2
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361754
@@ -5950,8 +4855,6 @@
     description_b: 차단문 X2/X4
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361755
@@ -5960,8 +4863,6 @@
     description_b: 차단문 X1/X4
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361756
@@ -5970,8 +4871,6 @@
     description_b: 차단문 X1
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361757
@@ -5980,8 +4879,6 @@
     description_b: 차단문 X1/X3
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361758
@@ -5990,8 +4887,6 @@
     description_b: 차단문 X1
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361759
@@ -6000,8 +4895,6 @@
     description_b: 차단문 X1/X2/X3
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361761
@@ -6010,8 +4903,6 @@
     description_b: 차단문 X1/X3
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361762
@@ -6020,8 +4911,6 @@
     description_b: 차단문 X1/X2
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361763
@@ -6030,8 +4919,6 @@
     description_b: 차단문 X2/X3
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361764
@@ -6040,8 +4927,6 @@
     description_b: 차단문 X1/X4
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361765
@@ -6050,8 +4935,6 @@
     description_b: 차단문 X2/X4
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361766
@@ -6060,8 +4943,6 @@
     description_b: 차단문 X1/X3
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361767
@@ -6070,8 +4951,6 @@
     description_b: 차단문 X1/X2/X3
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361768
@@ -6080,8 +4959,6 @@
     description_b: 차단문 X2/X3/X4
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361769
@@ -6090,8 +4967,6 @@
     description_b: 차단문 X4
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361803
@@ -6100,8 +4975,6 @@
     description_b: ???
     description_c: 투척
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9361805
@@ -6110,8 +4983,6 @@
     description_b: EMP  폭탄
     description_c: 소지
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9362002
@@ -6120,8 +4991,6 @@
     description_b: ???
     description_c: 소지
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9362003
@@ -6130,8 +4999,6 @@
     description_b: ???
     description_c: 폭파 예약
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9362013
@@ -6140,8 +5007,6 @@
     description_b: BGM 화력소대
     description_c: FIRE!
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9362014
@@ -6150,8 +5015,6 @@
     description_b: BGM 화력소대
     description_c: 2 8 8 7
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9363069
@@ -6160,8 +5023,6 @@
     description_b: ???
     description_c: 이지 모드
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9363070
@@ -6170,8 +5031,6 @@
     description_b: ???
     description_c: 현상 유지
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9363082
@@ -6180,8 +5039,6 @@
     description_b: ???
     description_c: 폭탄 설치
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9363403
@@ -6190,8 +5047,6 @@
     description_b: 해안 포탑
     description_c: FIRE!
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9363405
@@ -6200,8 +5055,6 @@
     description_b: 해안 포탑
     description_c: 2 8 8 7
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9363802
@@ -6210,8 +5063,6 @@
     description_b: ???
     description_c: 밀기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9363901
@@ -6220,8 +5071,6 @@
     description_b: ???
     description_c: 밀기①
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9363902
@@ -6230,8 +5079,6 @@
     description_b: ???
     description_c: 밀기②
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9363903
@@ -6240,8 +5087,6 @@
     description_b: ???
     description_c: Error
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9370211
@@ -6250,8 +5095,6 @@
     description_b: 차단문 A
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9370212
@@ -6260,8 +5103,6 @@
     description_b: 차단문 A
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9370411
@@ -6270,8 +5111,6 @@
     description_b: 차단문 B
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9370412
@@ -6280,8 +5119,6 @@
     description_b: 차단문 B
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9370511
@@ -6290,8 +5127,6 @@
     description_b: 차단문 X1
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9370512
@@ -6300,8 +5135,6 @@
     description_b: 차단문 X2
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9370513
@@ -6310,8 +5143,6 @@
     description_b: 차단문 X3
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9370514
@@ -6320,8 +5151,6 @@
     description_b: 차단문 X4
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9370515
@@ -6330,8 +5159,6 @@
     description_b: 차단문 X1
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9370516
@@ -6340,8 +5167,6 @@
     description_b: 차단문 X2
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9370517
@@ -6350,8 +5175,6 @@
     description_b: 차단문 X3
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9370518
@@ -6360,8 +5183,6 @@
     description_b: 차단문 X4
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9370611
@@ -6370,8 +5191,6 @@
     description_b: 차단문 X1
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9370612
@@ -6380,8 +5199,6 @@
     description_b: 차단문 X1/X2
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9370613
@@ -6390,8 +5207,6 @@
     description_b: 차단문 X1/X2
     description_c: 상태 전환
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9370614
@@ -6400,8 +5215,6 @@
     description_b: ???
     description_c: 소지
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9370615
@@ -6410,8 +5223,6 @@
     description_b: ???
     description_c: 투척
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9410201
@@ -6420,8 +5231,6 @@
     description_b: 제어콘솔
     description_c: 자료 추출
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9410212
@@ -6430,8 +5239,6 @@
     description_b: 제어콘솔
     description_c: Link Start!
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9410214
@@ -6440,8 +5247,6 @@
     description_b: 엘리베이터
     description_c: 이동
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9410308
@@ -6450,8 +5255,6 @@
     description_b: 차단문
     description_c: 열기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9410321
@@ -6460,8 +5263,6 @@
     description_b: 제어콘솔
     description_c: 구역 검진
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9410329
@@ -6470,8 +5271,6 @@
     description_b: 제어콘솔
     description_c: 검진 완료
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411239
@@ -6480,8 +5279,6 @@
     description_b: 연못?
     description_c: 금도끼
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411240
@@ -6490,8 +5287,6 @@
     description_b: 연못?
     description_c: 은도끼
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411241
@@ -6500,8 +5295,6 @@
     description_b: 연못?
     description_c: 둘 다 아님
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411242
@@ -6510,8 +5303,6 @@
     description_b: 연못?
     description_c: ......
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411244
@@ -6524,8 +5315,6 @@
       될까요?
       '''
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411301
@@ -6534,8 +5323,6 @@
     description_b: 제어콘솔
     description_c: 이지 모드
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411302
@@ -6544,8 +5331,6 @@
     description_b: 제어콘솔
     description_c: 노멀 모드
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411303
@@ -6554,8 +5339,6 @@
     description_b: 제어콘솔
     description_c: 하드 모드
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411801
@@ -6564,8 +5347,6 @@
     description_b: 제어콘솔
     description_c: 시스템 연결
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411802
@@ -6574,8 +5355,6 @@
     description_b: 레이더A
     description_c: 90° 회전
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411803
@@ -6588,8 +5367,6 @@
       회전
       '''
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411804
@@ -6598,8 +5375,6 @@
     description_b: 레이더B
     description_c: 90° 회전
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411808
@@ -6608,8 +5383,6 @@
     description_b: 레이더C
     description_c: 90° 회전
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411833
@@ -6618,8 +5391,6 @@
     description_b: 레이더_좌
     description_c: 90° 회전
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411834
@@ -6628,8 +5399,6 @@
     description_b: 레이더_하
     description_c: 90° 회전
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411835
@@ -6638,8 +5407,6 @@
     description_b: 레이더_우
     description_c: 90° 회전
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411836
@@ -6648,8 +5415,6 @@
     description_b: 레이더_상
     description_c: 90° 회전
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411842
@@ -6662,8 +5427,6 @@
       회전
       '''
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411843
@@ -6672,8 +5435,6 @@
     description_b: 레이더B
     description_c: 90° 회전
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411844
@@ -6686,8 +5447,6 @@
       회전
       '''
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411845
@@ -6696,8 +5455,6 @@
     description_b: 레이더C
     description_c: 90° 회전
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411846
@@ -6706,8 +5463,6 @@
     description_b: 레이더D
     description_c: 90° 회전
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411847
@@ -6720,8 +5475,6 @@
       회전
       '''
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411848
@@ -6730,8 +5483,6 @@
     description_b: 레이더E
     description_c: 90° 회전
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411849
@@ -6740,8 +5491,6 @@
     description_b: 레이더F
     description_c: 90° 회전
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411858
@@ -6750,8 +5499,6 @@
     description_b: 레이더
     description_c: 초기화
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9411859
@@ -6760,8 +5507,6 @@
     description_b: 레이더
     description_c: 해독 완료
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9490103
@@ -6770,8 +5515,6 @@
     description_b: 잡동사니
     description_c: 소지
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9490104
@@ -6780,8 +5523,6 @@
     description_b: 잡동사니
     description_c: 소지
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9490105
@@ -6790,8 +5531,6 @@
     description_b: 잡동사니
     description_c: 내려놓기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9490106
@@ -6800,8 +5539,6 @@
     description_b: 잡동사니
     description_c: 내려놓기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9490202
@@ -6810,8 +5547,6 @@
     description_b: 음악 CD
     description_c: 배달
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9490203
@@ -6820,8 +5555,6 @@
     description_b: 음악 CD
     description_c: 배달
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9521105
@@ -6830,8 +5563,6 @@
     description_b: 엘리베이터
     description_c: 탑승
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9521109
@@ -6840,8 +5571,6 @@
     description_b: 골리앗
     description_c: 줍기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9521209
@@ -6850,8 +5579,6 @@
     description_b: 변전소
     description_c: 가동
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9521306
@@ -6860,8 +5587,6 @@
     description_b: 차단문
     description_c: 열기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9521307
@@ -6870,8 +5595,6 @@
     description_b: 차단문
     description_c: 닫기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 9521401
@@ -6880,8 +5603,6 @@
     description_b: 잡동사니
     description_c: 뒤져보기
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 44360002
@@ -6890,8 +5611,6 @@
     description_b: 제어콘솔
     description_c: 줍기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 44400004
@@ -6900,8 +5619,6 @@
     description_b: 제어콘솔
     description_c: 추출
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 44400005
@@ -6910,8 +5627,6 @@
     description_b: 제어콘솔
     description_c: 추출
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 44400006
@@ -6920,8 +5635,6 @@
     description_b: 제어콘솔
     description_c: 추출
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 44540001
@@ -6930,8 +5643,6 @@
     description_b: 제어콘솔
     description_c: 폭파 예약
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 44540002
@@ -6940,8 +5651,6 @@
     description_b: 제어콘솔
     description_c: 폭파 예약
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 45010001
@@ -6950,8 +5659,6 @@
     description_b: 제어콘솔
     description_c: Haven Mode
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 45010002
@@ -6960,8 +5667,6 @@
     description_b: 제어콘솔
     description_c: Easy Mode
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 45010003
@@ -6970,8 +5675,6 @@
     description_b: 제어콘솔
     description_c: Nomal Mode
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 45010004
@@ -6980,8 +5683,6 @@
     description_b: 제어콘솔
     description_c: 전자침투
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 45010005
@@ -6990,8 +5691,6 @@
     description_b: 제어콘솔
     description_c: 전자침투
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 94040901
@@ -7000,8 +5699,6 @@
     description_b: 돌무더기
     description_c: 폭파
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 94040902
@@ -7010,8 +5707,6 @@
     description_b: 중요 통로
     description_c: 폭파 예정
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 94040905
@@ -7020,8 +5715,6 @@
     description_b: 골리앗
     description_c: 소지
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 94040908
@@ -7030,8 +5723,6 @@
     description_b: 차단문①-A
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 94040909
@@ -7040,8 +5731,6 @@
     description_b: 차단문①-B
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 94040910
@@ -7050,8 +5739,6 @@
     description_b: 차단문①-C
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 94040911
@@ -7060,8 +5747,6 @@
     description_b: 차단문②-A
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 94040912
@@ -7070,8 +5755,6 @@
     description_b: 차단문②-B
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 94040913
@@ -7080,8 +5763,6 @@
     description_b: 차단문②-C
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 94040914
@@ -7090,8 +5771,6 @@
     description_b: 차단문③-A
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 94040915
@@ -7100,8 +5779,6 @@
     description_b: 차단문③-B
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 94040916
@@ -7110,8 +5787,6 @@
     description_b: 차단문③-C
     description_c: 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 94040917
@@ -7120,8 +5795,6 @@
     description_b: 차단문
     description_c: 전부 닫기
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 94040918
@@ -7130,8 +5803,6 @@
     description_b: 정화탑
     description_c: 정화
     code_b: Console_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
   {
     id: 94314001
@@ -7140,7 +5811,5 @@
     description_b: 작업대
     description_c: 방독면 개량
     code_b: Squad_Icon
-    is_manual_target: 0
-    use_fairy_ui: 0
   }
 ]

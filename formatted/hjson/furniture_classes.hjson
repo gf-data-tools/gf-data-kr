@@ -17,8 +17,6 @@
     id: 2
     name: 첫 시작
     rank: 2
-    bonus_picture: "0"
-    k_bonus: ""
     bonus_number: 7
     description: IOP에서 배포한 가구예요.
     bonus_description: furniture_classes-30000002
@@ -31,8 +29,6 @@
     id: 3
     name: 신세계(I)
     rank: 3
-    bonus_picture: "0"
-    k_bonus: ""
     bonus_number: 15
     description: 아름다운 전쟁 후의 세계에 오신 것을 환영합니다. 이곳에서 살아남기 위한 비결은 죽기 전까지 미리 준비하고, 경계를 늦추지 않으며, 오직 병에 담긴 물만을 마시는 거랍니다.
     bonus_description: furniture_classes-30000003
@@ -45,7 +41,6 @@
     id: 4
     name: 가을
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 16
     description: 피로에 지친 지휘관들을 위로하기 위해서 만들어진 아기자기한 숙소 인테리어라고 하네요. 이번 테마는 따스한 가을풍으로, 여성들에게 매우 호평받는 것 같아요.
@@ -59,8 +54,6 @@
     id: 5
     name: 신세계(II)
     rank: 3
-    bonus_picture: "0"
-    k_bonus: ""
     bonus_number: 15
     description: 아름다운 전쟁 후의 세계에 오신 것을 환영합니다. 이곳에서 살아남기 위한 비결은 죽기 전까지 미리 준비하고, 경계를 늦추지 않으며, 오직 병에 담긴 물만을 마시는 거랍니다.
     bonus_description: furniture_classes-30000005
@@ -73,7 +66,6 @@
     id: 6
     name: LOFT
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 16
     description: 가난 때문에 낡은 공장에서 지낼 수밖에 없던 예술가들이 만든 가구 스타일입니다. 100여년이 지난 지금은 전쟁 후의 시대의 유행을 이끌어가며 많은 지휘관들이 앞 다투어 요구하는 희귀한 보급품이 되었어요.
@@ -87,8 +79,6 @@
     id: 7
     name: 조용한 일상
     rank: 3
-    bonus_picture: "0"
-    k_bonus: ""
     bonus_number: 16
     description: 편안한 느낌의 가구세트로, 신중한 성격을 가진 인형들이 선호하는 스타일이에요. 숙소 안을 푸른빛으로 감싸 편안한 분위기로 만들어준다고 하네요.
     bonus_description: furniture_classes-30000007
@@ -101,8 +91,6 @@
     id: 8
     name: 사랑스런 일상
     rank: 3
-    bonus_picture: "0"
-    k_bonus: ""
     bonus_number: 16
     description: 사랑스러운 느낌의 가구세트로, 주로 활발한 성격을 가진 인형들에게 호평을 받고 있죠. 숙소 안을 연한 분홍빛으로 물들어 사랑스러운 분위기로 만들어준다고 해요.
     bonus_description: furniture_classes-30000008
@@ -129,8 +117,6 @@
     id: 10
     name: 카페
     rank: 3
-    bonus_picture: "0"
-    k_bonus: ""
     bonus_number: 13
     description: 큰 전쟁이 일어나기 전 유행했던 문화 시설로, 이른바 카페인 보급 음료점이에요. 실은 작가들이 평소에 아이디어가 떠오르지 않을 때 찾아오는 창작의 성지이죠.
     bonus_description: furniture_classes-30000010
@@ -143,7 +129,6 @@
     id: 11
     name: 따스한 일본의 겨울
     rank: 4
-    bonus_picture: "0"
     k_bonus: 6:2000
     bonus_number: 13
     description: 따스한 일본을 주제로 한 가구 세트로, 아무리 혹독한 겨울의 추위 속에서도 인형들에게 훈훈한 분위기를 맛볼 수 있게 해주며, 같이 방안에서 눈송이들을 바라보는 게 일상이에요.
@@ -157,7 +142,6 @@
     id: 12
     name: 푸르른 일본의 겨울
     rank: 4
-    bonus_picture: "0"
     k_bonus: 6:2000
     bonus_number: 13
     description: 깨끗하고 산뜻한 느낌의 일본을 주제로 한 가구 세트로, 설령 냉혹한 겨울 속에서라도 인형들의 고요한 마음을 지켜주죠. 모두 함께 방안에서 혹독한 겨울을 바라보는 게 일상이에요.
@@ -199,8 +183,6 @@
     id: 15
     name: 편의점
     rank: 3
-    bonus_picture: "0"
-    k_bonus: ""
     bonus_number: 15
     description: 24시간 영업하는 편의점은 인류문명의 베이스로서, 포탄이 날아다니는 치열한 전장 속에서 따스함과 편안함을 제공해 주고 있어요. 다만, 편의점만 영업하기에는 너무 부실한 나머지 예상치 못한 일이 언제라도 일어날 수 있으므로, 매 그리폰 지부마다 최고로 삼엄한 경비를 자랑하는 곳이에요.
     bonus_description: furniture_classes-30000015
@@ -213,7 +195,6 @@
     id: 16
     name: 북극의 이글루
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 15
     description: 겨울의 느낌이 물씬 나는 북극풍의 가구 세트로 여러 가지 현실적인 스타일 설계를 채용했다고 하네요. 복슬복슬한 털을 가진 작은 동물들이 대단히 사랑스러워요.
@@ -241,7 +222,6 @@
     id: 18
     name: IOP 게임부서
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 16
     description: 여러분의 오랜 친구인 IOP 제조 회사는 산업분야에서 많은 영역을 차지하고 있습니다. 요즘 이슈인 모바일 게임 분야로 나아가는 것도 놀랍지 않죠. 하지만, 그들은 곧 이 업계의 참혹함을 깨닫게 되었답니다.
@@ -255,28 +235,23 @@
     id: 19
     name: 엘리트 마크
     rank: 5
-    bonus_picture: "0"
     k_bonus: 6:2000,9:5000,12:8000
     bonus_number: 20
     description: 그리폰 엘리트 제대의 마크로, 작전에 큰 기여를 했던 지휘관에게 수여했다고 하네요. 어쩌면, 당신이 그녀들과 어깨를 맞대고 같이 작전을 수행하던, 소중한 기억을 떠올리게 했을지도 모르겠네요.
     bonus_description: 더 많은 전리품을 모아서 추가 안락도를 획득할 수 있습니다.
     code: sp2017_deco_09_icon
     is_showed: 1
-    placement: 0
     years: 2017
   }
   {
     id: 20
     name: 기념
     rank: 5
-    bonus_picture: "0"
-    k_bonus: "0"
     bonus_number: 6
     description: furniture_classes-20000020
     bonus_description: furniture_classes-30000020
     code: pv_2018winter_icon
     is_showed: 2
-    placement: 0
     years: 2018
   }
   {
@@ -297,7 +272,6 @@
     id: 22
     name: 봄날의 교실
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 15
     description: 교실을 주제로 한 가구세트입니다. 도망치고 싶던지 추억에 잠기던지, 지난날의 풍경 속에서 당신의 이야기를 시작해보는 거예요!
@@ -311,7 +285,6 @@
     id: 23
     name: 휴일의 산책
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 13
     description: 거리의 풍경을 주제로 한 가구 세트로, 휴일의 한 때를 누리는 낭만적인 기분이 들죠. 혹시, 이런 날에는 누군가와 우연히 마주치고 싶다는 생각을 하고 계신가요?
@@ -353,7 +326,6 @@
     id: 26
     name: 이색 동아리
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 13
     description: 동아리 활동 테마의 가구세트로 바쁜 생활 속에서 잊혀져가는 추억이죠…소중한 기억들이라구요!
@@ -367,7 +339,6 @@
     id: 27
     name: 도심속 촬영장
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 13
     description: 일종의 촬영 스튜디오로, 감독의 지휘 아래 각종 전문 설비들이 바쁘게 움직이며 찍어내는 사진들은,미소녀들이 찍는 셀카에 필적한다고 하네요.
@@ -395,7 +366,6 @@
     id: 29
     name: 아이들 세상
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 13
     description: 아이들의 장난감을 테마로 한 가구세트로, 이곳은 이미 세계의 축소판입니다. 비록 세월이 지나며 많이 작아졌지만, 영원불멸하겠죠.
@@ -423,21 +393,16 @@
     id: 31
     name: 환상의 유산
     rank: 5
-    bonus_picture: "0"
-    k_bonus: "0"
     bonus_number: 6
     description: 여러가지 기이한 사건 속에서 얻어낸 진귀한 기념물입니다. 아마도 전설과도 같은 이야기로 전해지겠지만, 진실은 여러분들의 마음 속에 남아있겠지요...
     bonus_description: furniture_classes-30000031
     code: SP_GGBB_1A_icon
     is_showed: 3
-    placement: 0
-    years: 0
   }
   {
     id: 32
     name: 바닷가 별장
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 16
     description: 바닷가의 휴게실을 테마로한 가구 세트로, 바닷가 별장은 사랑스러운 애칭이랍니다. 어라, 더욱 멋진 휴가를 원하지 않는 사람이 과연 있으려나요?
@@ -465,7 +430,6 @@
     id: 34
     name: 서울에 가다
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 15
     description: 한국 도시를 테마로한 가구 세트로, 가만히 앉아서 추억 속의 신선한 선율을 즐겨보세요.
@@ -493,8 +457,6 @@
     id: 36
     name: 술과 피난처
     rank: 3
-    bonus_picture: "0"
-    k_bonus: ""
     bonus_number: 17
     description: 피난처를 테마로한 가구 세트로, 오염구역을 지키는 인형들은 인류의 옛 문명에 큰 호기심을 가지고 있어서 유물들을 수집하여 인류의 생활을 따라해보기도 한답니다.
     bonus_description: furniture_classes-30000036
@@ -521,7 +483,6 @@
     id: 38
     name: 심야 주방
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 13
     description: 주방을 테마로한 가구 세트로, 인형들은 여기서 짝을 이뤄 분주하게 일하고, 따뜻한 추억들을 하나씩 안고 돌아가겠죠......가끔씩은.
@@ -549,7 +510,6 @@
     id: 40
     name: 화원 다과회
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 14
     description: 초원 위의 화원을 테마로 한 가구 세트로, "사랑받고 싶어질 땐, 먼저 이름 없는 꽃들을 사랑해 주세요!"
@@ -563,7 +523,6 @@
     id: 41
     name: 왕의 재단사
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 16
     description: 비밀 요원 양복점을 테마로 한 가구 세트로, 임무를 받고, 우아하게 완수한다. 세계 평화를 지키는 것...꽤나 간단하죠?
@@ -591,7 +550,6 @@
     id: 43
     name: 월급날
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 15
     description: 지하은행을 테마로한 가구 세트로, 인테리어용 가구일 뿐이지만 욕심이 없는 인형조차 여기에선 안심할 수 없으니 오래 머물지 말고, 너무 믿지도 마세요.
@@ -619,7 +577,6 @@
     id: 45
     name: 해적의 유산
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 15
     description: 해적선을 테마로 한 가구 세트로, 수백 년 전 일부 사람들에게는 인생이었죠. 그들은 표류하는 것을 즐겼고, 치열한 싸움 속에서 죽거나 살거나 했답니다. 마치 요즘 사람들처럼요.
@@ -647,7 +604,6 @@
     id: 47
     name: 사이클 다이어리
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 14
     description: 자전거와 오토바이를 테마로한 가구 세트로, 누구나 한 번쯤은 저멀리 떠나고 싶어질 때가 있어요.그럴 때 필요한 게 바로 여기 있는 것들과, 이것들을 사기위한 돈이죠.
@@ -675,7 +631,6 @@
     id: 49
     name: 그리폰 컬렉터
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 18
     description: 마니아들의 컬렉션을 테마로한 가구 세트로, 하드한 소장품이든 소프트한 소장품이든, 당신에게는 더없이 소중한 취미이며, 인생을 살아가는 데 있어 귀중한 부분이에요.
@@ -717,7 +672,6 @@
     id: 53
     name: 소란스러운 코믹콘
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 18
     description: 코믹콘 테마의 가구세트로, 만약 전술인형이 50년 전 세상에 출현했으면 어떤 모습이었을까요? 이 가구들을 모으면 알게 될 거에요.
@@ -773,7 +727,6 @@
     id: 57
     name: 행복 출발역
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 14
     description: 공항 탑승구를 주제로 한 가구 세트입니다. 비행기가 도착할 때까지의 시간을 체험해 보세요, 얼마 안 지나 멀어질 광경이니까요, 물리적으로.
@@ -829,7 +782,6 @@
     id: 61
     name: 해피 버거
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 18
     description: 햄버거 가게를 주제로 한 가구 세트입니다. 가벼운 분위기와 넉넉한 열량, 요즘 시대에서의 행복을 뜻하는 이 두 가지를 제공합니다.
@@ -983,15 +935,12 @@
     id: 72
     name: 비밀 주문 제작
     rank: 5
-    bonus_picture: "0"
     k_bonus: 6:2000,9:2500,12:3000
     bonus_number: 8
     description: 공개할 수 없는 시장에서 유통되는 특별한 상품입니다. 어느 것이든 정성을 들여 설계하였으며 고객의 요구에 따라 개조할 수 있습니다.,이 회색 지대의 느낌을 즐기세요. 이 시설 모두 당신을 위해 존재합니다.
     bonus_description: 전리품을 수집하여 추가 안락도를 얻을 수 있습니다.
     code: Stepmania_icon
     is_showed: 1
-    placement: 0
-    years: 0
   }
   {
     id: 73
@@ -1109,14 +1058,11 @@
     id: 81
     name: 레어 기념품
     rank: 5
-    bonus_picture: "0"
-    k_bonus: "0"
     bonus_number: 6
     description: furniture_classes-20000081
     bonus_description: furniture_classes-30000081
     code: harp_2019_icon
     is_showed: 3
-    placement: 0
     years: 2019
   }
   {
@@ -1193,15 +1139,11 @@
     id: 87
     name: 인연의 증표
     rank: 5
-    bonus_picture: "0"
-    k_bonus: "0"
     bonus_number: 5
     description: 그리폰 사원 사이의 인연을 주제로 한 가구 세트입니다. 다툼, 웃음, 눈물... 인형의 특별한 추억이 마인드맵 정리를 반복하면서 점점 평범한 일화가 될 수도 있지만, 그래도 아무리 세월이 흘러둬 지워지지 않는 기록이 있죠.
     bonus_description: furniture_classes-30000087
     code: Fetter_Repository_icon
     is_showed: 1
-    placement: 0
-    years: 0
   }
   {
     id: 88
@@ -1221,7 +1163,6 @@
     id: 89
     name: 그리폰 이자카야
     rank: 4
-    bonus_picture: "0"
     k_bonus: 8:2000
     bonus_number: 13
     description: 일본식 술집을 주제로 한 가구 세트입니다. 만사가 마음대로 풀리지 않을 때, 차라리 탁주 한 잔 마시고 실컷 울음을 터뜨리세요.
@@ -1341,7 +1282,6 @@
     code: MiniGameFlightChess_deco_01_icon
     is_showed: 1
     placement: 1
-    years: 0
   }
   {
     id: 98
@@ -1459,84 +1399,58 @@
     id: 299
     name: 애완동물
     rank: 5
-    bonus_picture: "0"
-    k_bonus: "0"
     bonus_number: 10
     description: furniture_classes-20000299
     bonus_description: furniture_classes-30000299
     code: SP_CatHouseLabel01_icon
-    is_showed: 0
-    placement: 0
-    years: 0
   }
   {
     id: 300
     name: 포스터
     rank: 5
-    bonus_picture: "0"
-    k_bonus: ""
     bonus_number: 136
     description: 전술인형이 코스튬의 답례로써 준비한 포스터 입니다.
     bonus_description: furniture_classes-30000300
     code: poster_wa2000_halloween_icon
     is_showed: 1
-    placement: 0
-    years: 0
   }
   {
     id: 301
     name: 히든 포스터
     rank: 5
-    bonus_picture: "0"
-    k_bonus: ""
-    bonus_number: 0
     description: 감춰두려 했지만 결국 들어오고 말았다.
     bonus_description: furniture_classes-30000301
     code: poster_wa2000_halloween_icon
-    is_showed: 0
-    placement: 0
-    years: 0
   }
   {
     id: 400
     name: 부속실 설비
     rank: 5
-    bonus_picture: "0"
-    k_bonus: ""
     bonus_number: 100
     description: furniture_classes-20000400
     bonus_description: furniture_classes-30000400
     code: xsh2017_deco_02_icon
-    is_showed: 0
-    placement: 0
     years: 2017
   }
   {
     id: 500
     name: 인형 이야기
     rank: 5
-    bonus_picture: "0"
-    k_bonus: "0"
     bonus_number: 7
     description: 인형들의 다양한 사건들 속에서 얻은 기념품으로, 인형들에게나, 지휘관에게나 기억 속에 영원히 간직할 소중한 추억들이에요.
     bonus_description: furniture_classes-30000500
     code: poster_2016xmas_icon
     is_showed: 2
-    placement: 0
     years: 2016
   }
   {
     id: 600
     name: 평범한 역명판
     rank: 5
-    bonus_picture: "0"
-    k_bonus: "0"
     bonus_number: 28
     description: 그리폰의 부서 역명판을 주제로 한 가구 세트입니다. 부서를 나타내는 역명판은 평범하고 자리를 많이 차지하지만, 아무도 이걸 떼어낼 생각을 하지 않습니다. 아마 어느 그리폰 사원이 잠꼬대하며 말하는 고향 반찬처럼, 아무리 평범하고 질린다해도 그 맛을 따라 고향에 돌아가는 길을 찾을 수 있는 것이죠.
     bonus_description: furniture_classes-30000600
     code: Fetter_Stations_icon
     is_showed: 1
-    placement: 0
-    years: 0
   }
 ]

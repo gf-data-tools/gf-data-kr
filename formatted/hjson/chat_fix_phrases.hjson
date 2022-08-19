@@ -3,7 +3,6 @@
     id: 1
     group: 2
     content: YES! YES! YES!
-    paras: ""
     type: 1
     type_name: 잡담
   }
@@ -11,7 +10,6 @@
     id: 2
     group: 2
     content: 다음에 봐요
-    paras: ""
     type: 1
     type_name: chat_fix_phrases-20000002
   }
@@ -19,7 +17,6 @@
     id: 3
     group: 2
     content: 안녕하세요~
-    paras: ""
     type: 1
     type_name: chat_fix_phrases-20000003
   }
@@ -27,7 +24,6 @@
     id: 4
     group: 2
     content: 잠깐!
-    paras: ""
     type: 1
     type_name: chat_fix_phrases-20000004
   }
@@ -35,7 +31,6 @@
     id: 5
     group: 2
     content: (빼꼼
-    paras: ""
     type: 1
     type_name: chat_fix_phrases-20000005
   }
@@ -43,7 +38,6 @@
     id: 6
     group: 2
     content: 뉴비애용~ 잘 부탁해용~
-    paras: ""
     type: 1
     type_name: chat_fix_phrases-20000006
   }
@@ -51,7 +45,6 @@
     id: 7
     group: 2
     content: 으아아 군손실 온다
-    paras: ""
     type: 1
     type_name: chat_fix_phrases-20000007
   }
@@ -59,7 +52,6 @@
     id: 8
     group: 2
     content: 준비됐나요~?
-    paras: ""
     type: 2
     type_name: 재촉
   }
@@ -67,7 +59,6 @@
     id: 9
     group: 2
     content: 듀얼 개시를 선언해라!
-    paras: ""
     type: 2
     type_name: chat_fix_phrases-20000009
   }
@@ -75,7 +66,6 @@
     id: 10
     group: 2
     content: 빨리 빨리!
-    paras: ""
     type: 2
     type_name: chat_fix_phrases-20000010
   }
@@ -83,7 +73,6 @@
     id: 11
     group: 2
     content: 빨리! 나 스킬칩 캐야 돼!
-    paras: ""
     type: 2
     type_name: chat_fix_phrases-20000011
   }
@@ -91,7 +80,6 @@
     id: 12
     group: 2
     content: 똑똑똑, 방장 계세요?
-    paras: ""
     type: 2
     type_name: chat_fix_phrases-20000012
   }
@@ -99,7 +87,6 @@
     id: 13
     group: 2
     content: 아침까지 달린다!
-    paras: ""
     type: 3
     type_name: 초대
   }
@@ -107,7 +94,6 @@
     id: 14
     group: 2
     content: 한판 더 할까요?
-    paras: ""
     type: 3
     type_name: chat_fix_phrases-20000014
   }
@@ -115,7 +101,6 @@
     id: 15
     group: 2
     content: 실컷 싸우자!
-    paras: ""
     type: 3
     type_name: chat_fix_phrases-20000015
   }
@@ -123,7 +108,6 @@
     id: 16
     group: 2
     content: 여기까지 하죠.
-    paras: ""
     type: 3
     type_name: chat_fix_phrases-20000016
   }
@@ -131,7 +115,6 @@
     id: 17
     group: 2
     content: 한판 더해!
-    paras: ""
     type: 3
     type_name: chat_fix_phrases-20000017
   }
@@ -139,7 +122,6 @@
     id: 18
     group: 2
     content: 내가 진정한 체스킹이다!
-    paras: ""
     type: 4
     type_name: 도발
   }
@@ -147,7 +129,6 @@
     id: 19
     group: 2
     content: 누가 최강의 기사인지 알려주마!
-    paras: ""
     type: 4
     type_name: chat_fix_phrases-20000019
   }
@@ -155,7 +136,6 @@
     id: 20
     group: 2
     content: 그래, 바로 나다!
-    paras: ""
     type: 4
     type_name: chat_fix_phrases-20000020
   }
@@ -163,7 +143,6 @@
     id: 21
     group: 2
     content: 나중에 잘 써먹을 거다
-    paras: ""
     type: 4
     type_name: chat_fix_phrases-20000021
   }
@@ -171,7 +150,6 @@
     id: 22
     group: 3
     content: 맞아 맞아 맞아!
-    paras: ""
     type: 1
     type_name: 잡담
   }
@@ -179,7 +157,6 @@
     id: 23
     group: 3
     content: ?
-    paras: ""
     type: 1
     type_name: chat_fix_phrases-20000023
   }
@@ -187,7 +164,6 @@
     id: 24
     group: 3
     content: ......
-    paras: ""
     type: 1
     type_name: chat_fix_phrases-20000024
   }
@@ -195,7 +171,6 @@
     id: 25
     group: 3
     content: 방심했다.
-    paras: ""
     type: 1
     type_name: chat_fix_phrases-20000025
   }
@@ -203,7 +178,6 @@
     id: 26
     group: 3
     content: 저를 마주치다니 운이 나쁘시군요!
-    paras: ""
     type: 1
     type_name: chat_fix_phrases-20000026
   }
@@ -211,7 +185,6 @@
     id: 27
     group: 3
     content: 신호가 안 좋아? 카리나 부를까?
-    paras: ""
     type: 1
     type_name: chat_fix_phrases-20000027
   }
@@ -219,7 +192,6 @@
     id: 28
     group: 3
     content: 뭤이!? (ÒωÓױ)
-    paras: ""
     type: 1
     type_name: chat_fix_phrases-20000028
   }
@@ -227,7 +199,6 @@
     id: 29
     group: 3
     content: 열세를 단숨에 뒤집다니, 과연 지휘관님이에요.
-    paras: ""
     type: 1
     type_name: chat_fix_phrases-20000029
   }
@@ -235,7 +206,6 @@
     id: 30
     group: 3
     content: (빼꼼
-    paras: ""
     type: 1
     type_name: chat_fix_phrases-20000030
   }
@@ -243,7 +213,6 @@
     id: 31
     group: 3
     content: 감사합니다!
-    paras: ""
     type: 1
     type_name: chat_fix_phrases-20000031
   }
@@ -251,7 +220,6 @@
     id: 32
     group: 3
     content: 좋아요~
-    paras: ""
     type: 1
     type_name: chat_fix_phrases-20000032
   }
@@ -259,7 +227,6 @@
     id: 33
     group: 3
     content: 시간 주의합시다
-    paras: ""
     type: 2
     type_name: 재촉
   }
@@ -267,7 +234,6 @@
     id: 34
     group: 3
     content: 빨리! 더 빨리!
-    paras: ""
     type: 2
     type_name: chat_fix_phrases-20000034
   }
@@ -275,7 +241,6 @@
     id: 35
     group: 3
     content: 1위 견제!
-    paras: ""
     type: 3
     type_name: 국면
   }
@@ -283,7 +248,6 @@
     id: 36
     group: 3
     content: 그건 착한 인형이 할 짓이 아니야!
-    paras: ""
     type: 3
     type_name: chat_fix_phrases-20000036
   }
@@ -291,7 +255,6 @@
     id: 37
     group: 3
     content: 1 좋고~
-    paras: ""
     type: 3
     type_name: chat_fix_phrases-20000037
   }
@@ -299,7 +262,6 @@
     id: 38
     group: 3
     content: 2 좋고~
-    paras: ""
     type: 3
     type_name: chat_fix_phrases-20000038
   }
@@ -307,7 +269,6 @@
     id: 39
     group: 3
     content: 3 좋고~
-    paras: ""
     type: 3
     type_name: chat_fix_phrases-20000039
   }
@@ -315,7 +276,6 @@
     id: 40
     group: 3
     content: 4 좋고~
-    paras: ""
     type: 3
     type_name: chat_fix_phrases-20000040
   }
@@ -323,7 +283,6 @@
     id: 41
     group: 3
     content: 5 좋고~
-    paras: ""
     type: 3
     type_name: chat_fix_phrases-20000041
   }
@@ -331,7 +290,6 @@
     id: 42
     group: 3
     content: 6 좋고~
-    paras: ""
     type: 3
     type_name: chat_fix_phrases-20000042
   }
@@ -339,7 +297,6 @@
     id: 43
     group: 3
     content: 훌륭하군
-    paras: ""
     type: 3
     type_name: chat_fix_phrases-20000043
   }
@@ -347,7 +304,6 @@
     id: 44
     group: 3
     content: 저, 전설의 슈퍼 고인물...!
-    paras: ""
     type: 4
     type_name: 구걸
   }
@@ -355,7 +311,6 @@
     id: 45
     group: 3
     content: 주인장 여기 붕괴액 한 사발 줍쇼
-    paras: ""
     type: 4
     type_name: chat_fix_phrases-20000045
   }
@@ -363,7 +318,6 @@
     id: 46
     group: 3
     content: 인형에겐 죄가 없으니 살려줍쇼
-    paras: ""
     type: 4
     type_name: chat_fix_phrases-20000046
   }
@@ -371,7 +325,6 @@
     id: 47
     group: 3
     content: 우리 한 팀해요! 쏘지 말아요!
-    paras: ""
     type: 4
     type_name: chat_fix_phrases-20000047
   }
@@ -379,7 +332,6 @@
     id: 48
     group: 3
     content: 안 하겠소, 닸씨는!
-    paras: ""
     type: 4
     type_name: chat_fix_phrases-20000048
   }
@@ -387,7 +339,6 @@
     id: 49
     group: 3
     content: 꿈은 죽어서 실컷 보라고! 그러니까 죽어!
-    paras: ""
     type: 5
     type_name: 도발
   }
@@ -395,7 +346,6 @@
     id: 50
     group: 3
     content: 정말 구시대적인 발상이군
-    paras: ""
     type: 5
     type_name: chat_fix_phrases-20000050
   }
@@ -403,7 +353,6 @@
     id: 51
     group: 3
     content: 어디 주사위 좀 던져봐라.
-    paras: ""
     type: 5
     type_name: chat_fix_phrases-20000051
   }
@@ -411,7 +360,6 @@
     id: 52
     group: 3
     content: 우리 군수팀이 더 잘하겠다
-    paras: ""
     type: 5
     type_name: chat_fix_phrases-20000052
   }
@@ -419,7 +367,6 @@
     id: 53
     group: 3
     content: 내가 주피터포로 머리통을 날려버리겠어!
-    paras: ""
     type: 5
     type_name: chat_fix_phrases-20000053
   }
@@ -427,7 +374,6 @@
     id: 54
     group: 3
     content: 내 사거리 안에 들어왔구나!
-    paras: ""
     type: 5
     type_name: chat_fix_phrases-20000054
   }
@@ -435,7 +381,6 @@
     id: 55
     group: 3
     content: 나머지는 스바로그에게 맞기자.
-    paras: ""
     type: 5
     type_name: chat_fix_phrases-20000055
   }
@@ -443,7 +388,6 @@
     id: 56
     group: 3
     content: 나는 항상 두 수 앞을 바라본다!
-    paras: ""
     type: 5
     type_name: chat_fix_phrases-20000056
   }
@@ -451,7 +395,6 @@
     id: 57
     group: 3
     content: 질래 질 수가 없네~
-    paras: ""
     type: 5
     type_name: chat_fix_phrases-20000057
   }
@@ -459,7 +402,6 @@
     id: 58
     group: 3
     content: 너의 파멸이 눈에 선하구나.
-    paras: ""
     type: 5
     type_name: chat_fix_phrases-20000058
   }
@@ -467,7 +409,6 @@
     id: 59
     group: 3
     content: 나 풀피인데 때려볼래?
-    paras: ""
     type: 5
     type_name: chat_fix_phrases-20000059
   }
@@ -475,7 +416,6 @@
     id: 60
     group: 3
     content: 와봐, 정면승부다.
-    paras: ""
     type: 6
     type_name: 반격
   }
@@ -483,7 +423,6 @@
     id: 61
     group: 3
     content: 이건 몰랐지?
-    paras: ""
     type: 6
     type_name: chat_fix_phrases-20000061
   }
@@ -491,7 +430,6 @@
     id: 62
     group: 3
     content: 운명은... 우리 손 안에 있어!
-    paras: ""
     type: 6
     type_name: chat_fix_phrases-20000062
   }
@@ -499,7 +437,6 @@
     id: 63
     group: 3
     content: 아직 한 발 남았다.
-    paras: ""
     type: 6
     type_name: chat_fix_phrases-20000063
   }
@@ -507,7 +444,6 @@
     id: 64
     group: 3
     content: 내 차례다!
-    paras: ""
     type: 6
     type_name: chat_fix_phrases-20000064
   }
@@ -515,7 +451,6 @@
     id: 65
     group: 3
     content: 6 나오기만 하면 다 죽었어.
-    paras: ""
     type: 6
     type_name: chat_fix_phrases-20000065
   }
@@ -523,7 +458,6 @@
     id: 66
     group: 3
     content: 괜찮아, 이것도 전술이야.
-    paras: ""
     type: 6
     type_name: chat_fix_phrases-20000066
   }
@@ -531,7 +465,6 @@
     id: 67
     group: 3
     content: 미안하게 됐슴다!
-    paras: ""
     type: 6
     type_name: chat_fix_phrases-20000067
   }
@@ -539,7 +472,6 @@
     id: 68
     group: 3
     content: 아직 내 차례는 끝나지 않았어!
-    paras: ""
     type: 6
     type_name: chat_fix_phrases-20000068
   }
