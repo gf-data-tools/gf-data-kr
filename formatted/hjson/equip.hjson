@@ -8536,7 +8536,7 @@
     description:
       '''
       치명률+<critical_percent><%>
-      치명상+<critical_harm_rate><%>$64식 소총 전용
+      치명상+<critical_harm_rate><%>스킬 강화$64식 소총 전용
       '''
     rank: 5
     category: 1
@@ -8569,7 +8569,7 @@
     description:
       '''
       치명률+<critical_percent><%>
-      화력+<pow>$M82A1 전용
+      화력+<pow>스킬 강화$M82A1 전용
       '''
     rank: 5
     category: 1
@@ -8733,7 +8733,7 @@
     description:
       '''
       화력+<pow> 명중+<hit>
-      사속<rate>$Ak 5 전용
+      사속<rate>스킬 강화$Ak 5 전용
       '''
     rank: 5
     category: 1

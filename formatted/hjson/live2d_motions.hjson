@@ -21,6 +21,13 @@
     name: live2d_motions-10000308
   }
   {
+    id: 309
+    type: 101
+    motion_name: motions/BG.mtn
+    probability: 1.0
+    name: live2d_motions-10000309
+  }
+  {
     id: 501
     type: 101
     motion_name: motions/daiji_idle_01.mtn
@@ -28069,7 +28076,6 @@
     name: 대화1
     camera: 1
     is_hurt: 1
-    delay: 1500
     voice_code: DEFENSE
   }
   {
@@ -28083,7 +28089,6 @@
     name: 대화2
     camera: 1
     is_hurt: 1
-    delay: 1000
     voice_code: RETREAT
   }
   {
@@ -28097,7 +28102,6 @@
     name: 대화3
     camera: 1
     is_hurt: 1
-    delay: 1000
     voice_code: FIX
   }
   {
@@ -28111,7 +28115,6 @@
     name: 대화4
     camera: 1
     is_hurt: 1
-    delay: 600
     voice_code: MEET
   }
   {
@@ -28125,7 +28128,6 @@
     name: 대화5
     camera: 1
     is_hurt: 1
-    delay: 1000
     voice_code: DIALOGUE3
   }
   {
@@ -28138,7 +28140,6 @@
     name: 로그인
     camera: 1
     is_hurt: 1
-    delay: 5000
     voice_code: HELLO
   }
   {
@@ -28162,7 +28163,7 @@
     type: 101
     motion_name: motions/daiji_idle_01.mtn
     probability: 1.0
-    name: live2d_motions-10740601
+    name: 대기
   }
   {
     id: 740602
@@ -28170,7 +28171,7 @@
     motion_name: motions/wait_1.mtn
     hold_time: "15,17"
     probability: 0.5
-    name: live2d_motions-10740602
+    name: 특수대기1
     camera: 1
   }
   {
@@ -28179,7 +28180,7 @@
     motion_name: motions/wait_2.mtn
     hold_time: "30,35"
     probability: 0.5
-    name: live2d_motions-10740603
+    name: 특수대기2
     camera: 1
   }
   {
@@ -28190,7 +28191,7 @@
     probability: 1.0
     voice: GUN|G41|FEED
     text: GUN|G41|FEED
-    name: live2d_motions-10740604
+    name: 대화1
     camera: 1
     voice_code: FEED
   }
@@ -28202,7 +28203,7 @@
     probability: 1.0
     voice: GUN|G41|DIALOGUE3
     text: GUN|G41|DIALOGUE3
-    name: live2d_motions-10740605
+    name: 대화2
     camera: 1
     voice_code: DIALOGUE3
   }
@@ -28214,7 +28215,7 @@
     probability: 1.0
     voice: GUN|G41|FORMATION
     text: GUN|G41|FORMATION
-    name: live2d_motions-10740606
+    name: 대화3
     camera: 1
     voice_code: FORMATION
   }
@@ -28226,7 +28227,7 @@
     probability: 1.0
     voice: GUN|G41|DIALOGUE2
     text: GUN|G41|DIALOGUE2
-    name: live2d_motions-10740607
+    name: 대화4
     camera: 1
     voice_code: DIALOGUE2
   }
@@ -28238,7 +28239,7 @@
     probability: 1.0
     voice: GUN|G41|TIP
     text: GUN|G41|TIP
-    name: live2d_motions-10740608
+    name: 대화5
     camera: 1
     voice_code: TIP
   }
@@ -28250,7 +28251,7 @@
     probability: 1.0
     voice: GUN|G41|DIALOGUEWEDDING
     text: GUN|G41|DIALOGUEWEDDING
-    name: live2d_motions-10740609
+    name: 서약 후 대화
     camera: 1
     voice_code: DIALOGUEWEDDING
   }
@@ -28261,7 +28262,7 @@
     probability: 1.0
     voice: GUN|G41|SOULCONTRACT
     text: GUN|G41|SOULCONTRACT
-    name: live2d_motions-10740610
+    name: 서약
     camera: 1
     voice_code: SOULCONTRACT
   }
@@ -28270,7 +28271,7 @@
     type: 300
     motion_name: motions/shake.mtn
     probability: 1.0
-    name: live2d_motions-10740611
+    name: 흔들기
     camera: 1
   }
   {
@@ -28280,7 +28281,7 @@
     probability: 1.0
     voice: GUN|G41|HELLO
     text: GUN|G41|HELLO
-    name: live2d_motions-10740612
+    name: 로그인
     camera: 1
     delay: 11330
     voice_code: HELLO
@@ -28290,73 +28291,77 @@
     type: 401
     motion_name: motions/daiji_idle_01.mtn
     probability: 1.0
-    name: live2d_motions-10740613
+    name: 대기
     is_hurt: 1
   }
   {
     id: 740614
     type: 402
-    motion_name: motions/touch_1.mtn
+    motion_name: motions/broken_1.mtn
     touch_area: head
     probability: 1.0
-    voice: GUN|G41|FEED
-    text: GUN|G41|FEED
-    name: live2d_motions-10740614
+    voice: GUN|G41|DIALOGUE2
+    text: GUN|G41|DIALOGUE2
+    name: 대화1
     camera: 1
     is_hurt: 1
-    voice_code: BREAK
+    delay: 1000
+    voice_code: DIALOGUE2
   }
   {
     id: 740615
     type: 402
-    motion_name: motions/touch_2.mtn
-    touch_area: head
+    motion_name: motions/broken_2.mtn
+    touch_area: body
     probability: 1.0
     voice: GUN|G41|DIALOGUE3
     text: GUN|G41|DIALOGUE3
-    name: live2d_motions-10740615
+    name: 대화2
     camera: 1
     is_hurt: 1
-    voice_code: FIX
+    delay: 500
+    voice_code: DIALOGUE3
   }
   {
     id: 740616
     type: 402
-    motion_name: motions/touch_3.mtn
+    motion_name: motions/broken_3.mtn
     touch_area: body
     probability: 1.0
-    voice: GUN|G41|FORMATION
-    text: GUN|G41|FORMATION
-    name: live2d_motions-10740616
+    voice: GUN|G41|DIALOGUE1
+    text: GUN|G41|DIALOGUE1
+    name: 대화3
     camera: 1
     is_hurt: 1
-    voice_code: SKILL3
+    voice_code: DIALOGUE1
   }
   {
     id: 740617
     type: 402
-    motion_name: motions/touch_4.mtn
-    touch_area: body
+    motion_name: motions/broken_4.mtn
+    touch_area: head
     probability: 1.0
-    voice: GUN|G41|DIALOGUE2
-    text: GUN|G41|DIALOGUE2
-    name: live2d_motions-10740617
+    voice: GUN|G41|BREAK
+    text: GUN|G41|BREAK
+    name: 대화4
     camera: 1
     is_hurt: 1
-    voice_code: DIALOGUE3
+    delay: 2000
+    voice_code: BREAK
   }
   {
     id: 740618
     type: 402
-    motion_name: motions/touch_5.mtn
+    motion_name: motions/broken_5.mtn
     touch_area: leg
     probability: 1.0
-    voice: GUN|G41|TIP
-    text: GUN|G41|TIP
-    name: live2d_motions-10740618
+    voice: GUN|G41|MEET
+    text: GUN|G41|MEET
+    name: 대화5
     camera: 1
     is_hurt: 1
-    voice_code: RETREAT
+    delay: 1000
+    voice_code: MEET
   }
   {
     id: 740619
@@ -28365,9 +28370,10 @@
     probability: 1.0
     voice: GUN|G41|HELLO
     text: GUN|G41|HELLO
-    name: live2d_motions-10740619
+    name: 로그인
     camera: 1
     is_hurt: 1
+    delay: 7100
     voice_code: HELLO
   }
   {
@@ -28375,7 +28381,7 @@
     type: 301
     motion_name: motions/shake.mtn
     probability: 1.0
-    name: live2d_motions-10740620
+    name: 흔들기
     camera: 1
     is_hurt: 1
   }

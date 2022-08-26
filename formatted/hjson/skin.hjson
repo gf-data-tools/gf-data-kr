@@ -1277,6 +1277,16 @@
     order: 84
   }
   {
+    id: 586
+    name: OBR - 카스티아의 여왕
+    fit_gun: 230
+    voice: 4
+    dialog: 말판 위에서라면 아무리 약한 저도 모두의 운명을 지배할 수 있어요... 저와 겨루려고 한다는 건, 분명 충분히 각오했다는 거겠죠?
+    note: skin-30000586
+    illustrator_cv: skin-40000586
+    order: 90
+  }
+  {
     id: 601
     name: 토카레프 - 두 사람의 인생
     fit_gun: 6
@@ -7321,5 +7331,15 @@
     illustrator_cv: skin-40007408
     order: 89
     class_id: 78
+  }
+  {
+    id: 30001
+    name: ST AR-15 - 여름의 솔솔 바람
+    fit_gun: 57
+    voice: 4
+    dialog: 어서 타, 이 콜라 한 캔 다 마시고 바로 출발할게... 사랑의 도피...? 나한테 황야에 내동댕이쳐져도 괜찮다면 다시 말해봐.
+    note: skin-30030001
+    illustrator_cv: skin-40030001
+    order: 91
   }
 ]

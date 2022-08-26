@@ -37950,6 +37950,28 @@
         "ai": 0
     },
     {
+        "id": 30586,
+        "name": "OBR - 카스티아의 여왕",
+        "classes": 300,
+        "type": 303,
+        "position": "0",
+        "space": "3,6,1,1,1,0",
+        "deco_rate": 750,
+        "decompose_gift": 100003,
+        "description": "OBR의 포스터",
+        "code": "poster_ChessBonus_OBR",
+        "texture_type": "1",
+        "sorting": "5",
+        "offset": "0,0,0",
+        "rotate": "3",
+        "interact_point": "0",
+        "interact_point_offset": "0",
+        "furniture_bgm": "0",
+        "touch_area": "0",
+        "bonus_id": 0,
+        "ai": 0
+    },
+    {
         "id": 30601,
         "name": "토카레프 - 두 사람의 인생",
         "classes": 300,

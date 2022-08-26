@@ -12141,6 +12141,16 @@
     detail_introduction: item-30002135
   }
   {
+    id: 2142
+    type: 5
+    arg: "1"
+    code: cg_2022cosmos
+    item_name: 기지배경: 저 하늘 위
+    introduction: 기지배경: 저 하늘 위
+    rank: 1
+    detail_introduction: item-30002142
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
