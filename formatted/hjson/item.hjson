@@ -388,22 +388,22 @@
     type: 1
     arg: "1"
     code: PieceBlackCard
-    item_name: item-10000054
-    introduction: item-20000054
+    item_name: 블랙카드칩
+    introduction: 특수 재료로 구성된 반도체, 블랙카드의 핵심 부품입니다.
     rank: 1
     sort: -70
-    detail_introduction: item-30000054
+    detail_introduction: 블랙카드칩 여러개로 창고에서 블랙카드로 합성하거나, 코스튬 교환 시 블랙카드 한 장대신으로 지불할 수 있습니다.
   }
   {
     id: 55
     type: 1
     arg: "1"
     code: Fairy_Biscuit
-    item_name: item-10000055
-    introduction: item-20000055
+    item_name: 요정 와플
+    introduction: 요정에게 무척이나 맛있는 음식. 먹으면 다량의 돌파경험치를 획득합니다. 그런데 포장지엔 고의적으로 원재료를 숨긴 것 같습니다...
     rank: 1
     sort: -71
-    detail_introduction: item-30000055
+    detail_introduction: 개조&돌파에서 요정 돌파경험치를 상승시킵니다.
   }
   {
     id: 100
@@ -894,11 +894,11 @@
     type: 1
     arg: "1"
     code: Special_Equip_Ticket_2
-    item_name: item-10000526
-    introduction: item-20000526
+    item_name: 지정중장비계약test
+    introduction: 중형장비제조에서 유형을 지정해 제조하는 계약, 한 장마다 지정 유형의 장비를 하나 제조할 수 있습니다test
     rank: 1
     sort: -40
-    detail_introduction: item-30000526
+    detail_introduction: 공방-장비제조에서 중형제조의 I.O.P 특수주문이 가능합니다.Testtest
   }
   {
     id: 601
@@ -12178,8 +12178,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessBonus_OBR
-    item_name: item-10002136
-    introduction: item-20002136
+    item_name: OBR - 카스티아의 여왕
+    introduction: OBR - 카스티아의 여왕
     rank: 1
     detail_introduction: item-30002136
   }
@@ -12188,8 +12188,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season7_1
-    item_name: item-10002137
-    introduction: item-20002137
+    item_name: 어두운 그을림 · Code5: 난류
+    introduction: 어두운 그을림 · Code5: 난류
     rank: 1
     detail_introduction: item-30002137
   }
@@ -12198,8 +12198,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season7_2
-    item_name: item-10002138
-    introduction: item-20002138
+    item_name: 몽마의 침습 · Code5: 난류
+    introduction: 몽마의 침습 · Code5: 난류
     rank: 1
     detail_introduction: item-30002138
   }
@@ -12208,8 +12208,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season7_3
-    item_name: item-10002139
-    introduction: item-20002139
+    item_name: 외로운 샛길 · Code5: 난류
+    introduction: 외로운 샛길 · Code5: 난류
     rank: 1
     detail_introduction: item-30002139
   }
@@ -12218,8 +12218,8 @@
     type: 5
     arg: "1"
     code: profilePic_BattlePass_AR15
-    item_name: item-10002140
-    introduction: item-20002140
+    item_name: ST AR-15 - 여름의 솔솔 바람
+    introduction: ST AR-15 - 여름의 솔솔 바람
     rank: 1
     detail_introduction: item-30002140
   }
@@ -12228,8 +12228,8 @@
     type: 5
     arg: "1"
     code: card_BattlePass_AR15
-    item_name: item-10002141
-    introduction: item-20002141
+    item_name: 카드 배경: 도로 끝까지
+    introduction: 카드 배경: 도로 끝까지
     rank: 1
     detail_introduction: item-30002141
   }
@@ -13007,8 +13007,8 @@
     type: 1
     arg: "10605"
     code: weekly_accumulation
-    item_name: item-10010605
-    introduction: item-20010605
+    item_name: 활약도
+    introduction: 【그리폰 일일 업무】를 완수하여 획득. 지휘관의 활약 수준을 나타냅니다.
     rank: 1
     detail_introduction: item-30010605
   }
@@ -13017,8 +13017,8 @@
     type: 16
     arg: "10606"
     code: pass_accumulation
-    item_name: item-10010606
-    introduction: item-20010606
+    item_name: 전선협약 강화 카드
+    introduction: '''"이거 쓰면 더 많고 좋은 물자를 얻을 수 있다며? 어디에 있어!?" "바로 발밑에 있지 않습니까, 존경하는 지휘관님."'''
     rank: 1
     detail_introduction: item-30010606
   }
@@ -15142,8 +15142,8 @@
     type: 1
     arg: "1"
     code: FlightChessMap3_small
-    item_name: item-10121001
-    introduction: item-20121001
+    item_name: 지옥 도로
+    introduction: 순환선 체스보드 배경-지옥 도로
     rank: 1
     detail_introduction: item-30121001
   }
@@ -15326,8 +15326,8 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: item-10140001
-    introduction: item-20140001
+    item_name: 유탄 포수
+    introduction: 갑작스레 닥쳐오는 위협을 마주볼 수 있고, 완벽하게 회피하고 역전의 수를 생각해 내는 것이 지휘관으로서의 생존 비법이다. 다행인 줄 알아라, 지금 날아오는 저 물건은 속도가 시속 150km보단 낮으니까.
     rank: 1
     detail_introduction: item-30140001
   }
@@ -15336,8 +15336,8 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: item-10140002
-    introduction: item-20140002
+    item_name: 유탄 포수
+    introduction: 갑작스레 닥쳐오는 위협을 마주볼 수 있고, 완벽하게 회피하고 역전의 수를 생각해 내는 것이 지휘관으로서의 생존 비법이다. 다행인 줄 알아라, 지금 날아오는 저 물건은 속도가 시속 150km보단 낮으니까.
     rank: 1
     detail_introduction: item-30140002
   }
@@ -15366,18 +15366,18 @@
     type: 1
     arg: "1"
     code: PT
-    item_name: item-10160001
-    introduction: item-20160001
+    item_name: 기능성 물품 위치
+    introduction: 기능성 물품 위치
     rank: 1
-    detail_introduction: item-30160001
+    detail_introduction: 기능성 물품 위치
   }
   {
     id: 200001
     type: 5
     arg: "1"
     code: profileFrame_sr_gun
-    item_name: item-10200001
-    introduction: item-20200001
+    item_name: 액자·기발한 연상
+    introduction: 액자·기발한 연상
     rank: 1
     detail_introduction: item-30200001
   }
@@ -15386,8 +15386,8 @@
     type: 5
     arg: "1"
     code: profileFrame_ssr_gun
-    item_name: item-10200002
-    introduction: item-20200002
+    item_name: 액자·마인드 웨이브
+    introduction: 액자·마인드 웨이브
     rank: 1
     detail_introduction: item-30200002
   }
@@ -15396,8 +15396,8 @@
     type: 5
     arg: "1"
     code: profileFrame_mod_gun
-    item_name: item-10200003
-    introduction: item-20200003
+    item_name: 액자·극한정점
+    introduction: 액자·극한정점
     rank: 1
     detail_introduction: item-30200003
   }
@@ -15406,8 +15406,8 @@
     type: 5
     arg: "1"
     code: profileFrame_sp_gun
-    item_name: item-10200004
-    introduction: item-20200004
+    item_name: 액자·연합공세
+    introduction: 액자·연합공세
     rank: 1
     detail_introduction: item-30200004
   }
@@ -15416,8 +15416,8 @@
     type: 5
     arg: "1"
     code: profileFrame_skin_gun
-    item_name: item-10200005
-    introduction: item-20200005
+    item_name: 액자·네온사인
+    introduction: 액자·네온사인
     rank: 1
     detail_introduction: item-30200005
   }
@@ -15426,8 +15426,8 @@
     type: 5
     arg: "1"
     code: profileFrame_flightchess_ssr
-    item_name: item-10200006
-    introduction: item-20200006
+    item_name: 액자·빛나는 장성
+    introduction: 액자·빛나는 장성
     rank: 1
     detail_introduction: item-30200006
   }
@@ -15436,8 +15436,8 @@
     type: 5
     arg: "1"
     code: profileFrame_flightchess_sr
-    item_name: item-10200007
-    introduction: item-20200007
+    item_name: 액자·전술 짜기
+    introduction: 액자·전술 짜기
     rank: 1
     detail_introduction: item-30200007
   }
@@ -15446,8 +15446,8 @@
     type: 5
     arg: "1"
     code: profileFrame_flightchess_r
-    item_name: item-10200008
-    introduction: item-20200008
+    item_name: 액자·결전의 화력
+    introduction: 액자·결전의 화력
     rank: 1
     detail_introduction: item-30200008
   }
@@ -15456,8 +15456,8 @@
     type: 5
     arg: "1"
     code: profileFrame_comic
-    item_name: item-10200009
-    introduction: item-20200009
+    item_name: 액자·껑충 펜촉
+    introduction: 액자·껑충 펜촉
     rank: 1
     detail_introduction: item-30200009
   }
@@ -15466,8 +15466,8 @@
     type: 5
     arg: "1"
     code: profileFrame_rare_gun
-    item_name: item-10200012
-    introduction: item-20200012
+    item_name: 액자·불속 강선
+    introduction: 액자·불속 강선
     rank: 1
     detail_introduction: item-30200012
   }
@@ -15476,8 +15476,8 @@
     type: 5
     arg: "1"
     code: profileFrame_BattlePass_AR15
-    item_name: item-10200013
-    introduction: item-20200013
+    item_name: 액자·말랑말랑 정비사
+    introduction: 액자·말랑말랑 정비사
     rank: 1
     detail_introduction: item-30200013
   }
@@ -15586,8 +15586,8 @@
     type: 15
     arg: "1500009"
     code: package_choose
-    item_name: item-11500009
-    introduction: item-21500009
+    item_name: 기초 장비 자유선택 코드
+    introduction: 개봉 시 해당 코드 안의 장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
     detail_introduction: item-31500009
@@ -15597,8 +15597,8 @@
     type: 15
     arg: "1500010"
     code: package_choose
-    item_name: item-11500010
-    introduction: item-21500010
+    item_name: 부속 장비 자유선택 코드
+    introduction: 개봉 시 해당 코드 안의 장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
     detail_introduction: item-31500010
@@ -15608,8 +15608,8 @@
     type: 15
     arg: "1500011"
     code: package_choose
-    item_name: item-11500011
-    introduction: item-21500011
+    item_name: 탄약 장비 자유선택 코드
+    introduction: 개봉 시 해당 코드 안의 장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
     detail_introduction: item-31500011
@@ -15619,8 +15619,8 @@
     type: 15
     arg: "1500012"
     code: package_choose
-    item_name: item-11500012
-    introduction: item-21500012
+    item_name: 인형 장비 자유선택 코드
+    introduction: 개봉 시 해당 코드 안의 장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
     detail_introduction: item-31500012
@@ -15630,8 +15630,8 @@
     type: 15
     arg: "1500013"
     code: package_random
-    item_name: item-11500013
-    introduction: item-21500013
+    item_name: 미해금 인형 확정 코드
+    introduction: 개봉 시 코드 중 해금되지 않은 인형을 확정 획득합니다. 모든 인형을 해금한 경우 무작위로 하나를 획득합니다.
     rank: 1
     sort: -1
     detail_introduction: item-31500013
@@ -15641,8 +15641,8 @@
     type: 15
     arg: "1500014"
     code: package_random
-    item_name: item-11500014
-    introduction: item-21500014
+    item_name: 전선협약-추가보상
+    introduction: 개봉 시 해당 구간공수코드 중 한 가지 도구를 무작위로 획득합니다.
     rank: 1
     sort: -1
     detail_introduction: item-31500014

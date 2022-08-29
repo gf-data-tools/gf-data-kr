@@ -327,7 +327,7 @@
     id: 55
     type: trial_mission
     title: 방어훈련
-    content: carnival_task_type-20000055
+    content: 모의작전-방어훈련 {0}회 완료
   }
   {
     id: 56

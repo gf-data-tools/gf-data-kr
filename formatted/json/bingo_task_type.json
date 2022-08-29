@@ -51,8 +51,8 @@
     {
         "id": 8,
         "task_type": "consume_equip_contract",
-        "title": "장비제조계약 소모",
-        "content": "장비제조계약 {0}장 소모",
+        "title": "장비&요정제조계약 소모",
+        "content": "장비&요정제조계약 {0}장 소모",
         "function_control_id": 0
     },
     {
@@ -205,8 +205,8 @@
     {
         "id": 30,
         "task_type": "operation_equip_contract",
-        "title": "군수보상 - 장비제조계약",
-        "content": "군수작전으로 장비제조계약 {0}장 획득",
+        "title": "군수보상 - 장비&요정제조계약",
+        "content": "군수작전으로 장비&요정제조계약 {0}장 획득",
         "function_control_id": 0
     },
     {

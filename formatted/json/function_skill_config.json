@@ -166,22 +166,22 @@
     },
     {
         "id": 116,
-        "name": "농작법",
+        "name": "function_skill_config-10000116",
         "level": 1,
         "group_id": 0,
         "code": "function_skill_icon_116",
-        "description": "작물 생산량 {0}% 상승 {1}",
+        "description": "function_skill_config-20000116",
         "arguments": 1,
         "max_level": 5,
         "is_show": 0
     },
     {
         "id": 117,
-        "name": "공급 관리",
+        "name": "function_skill_config-10000117",
         "level": 1,
         "group_id": 0,
         "code": "function_skill_icon_117",
-        "description": "양식 소모량 {0}% 감소 {1}",
+        "description": "function_skill_config-20000117",
         "arguments": 1,
         "max_level": 5,
         "is_show": 0

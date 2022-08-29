@@ -14,43 +14,43 @@
     id: 102
     parent_id: 1
     name: 전선대기조
-    description: 그리폰의 최고 정예들을 모아놨습니다. 부리처럼 모든 것을 부수고 승리의 열매를 만끽합니다.
+    description: organization-20000102
   }
   {
     id: 103
     parent_id: 1
     name: 전략대기조
-    description: 그리폰의 중견 전력을 모아놨습니다. 깃털처럼 온몸을 감싸고 먼지를 털어냅니다.
+    description: organization-20000103
   }
   {
     id: 104
     parent_id: 1
     name: 변방조사단
-    description: 그리폰에서 가장 예리한 인형들을 모아놨습니다. 독수리의 눈처럼 천리밖에서도 적을 뚜렷하게 관측할 수 있죠.
+    description: organization-20000104
   }
   {
     id: 105
     parent_id: 1
     name: 일반지원팀
-    description: 그리폰에서 존재감이 옅은 인형들을 모아놨습니다. 하지만 얕보다간 그 발톱에 할퀴고 말 겁니다.
+    description: organization-20000105
   }
   {
     id: 106
     parent_id: 1
     name: 통합회수팀
-    description: 이곳에 모인 건 그리폰의 힘이 아닙니다. 하지만 어떠한 맹수도 동료가 필요하죠.
+    description: organization-20000106
   }
   {
     id: 107
     parent_id: 1
     name: 종합근무팀
-    description: 그리폰에서 가장 착실한 인형들을 모아놨습니다. 날개처럼 거대한 몸을 하늘로 띄우는 역할이죠.
+    description: organization-20000107
   }
   {
     id: 108
     parent_id: 1
     name: 인형클럽
-    description: 그리폰에서 흥이 가장 넘치는 인형들을 모아놨습니다. 사자의 꼬리처럼 활발해 붙잡기 어렵지만 사람들의 마음을 치유해줍니다.
+    description: organization-20000108
   }
   {
     id: 10101
