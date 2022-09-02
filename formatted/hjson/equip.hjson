@@ -8959,4 +8959,37 @@
     is_show: 1
     obtain_ids: "3071"
   }
+  {
+    id: 295
+    name: 전용 Mlok 총열덮개
+    description:
+      '''
+      치명률+<critical_percent><%>
+      치명상+<critical_harm_rate><%>스킬 강화$AUG 전용
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    critical_harm_rate: "8,10"
+    critical_percent: "25,30"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: 配件_特殊_AUG
+    develop_duration: 3600
+    company: CG
+    fit_guns: "73"
+    equip_introduction: CG사가 AUG를 위해 설계한 Mlok 총열덮개로 AUG의 부착물 탑재 능력을 높였습니다.
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3.0
+    bonus_type: critical_percent:850,critical_harm_rate:500
+    passive_skill: "759055"
+    max_level: 10
+    auto_select_id: 18101
+    is_show: 1
+    obtain_ids: "3072"
+  }
 ]
