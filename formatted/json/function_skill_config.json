@@ -8,7 +8,9 @@
         "description": "작전 임무 중 {0}%의 확률로 1회 추가 드랍 {1}",
         "arguments": 3,
         "max_level": 5,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "extra_drop_rate_up"
     },
     {
         "id": 102,
@@ -19,7 +21,9 @@
         "description": "계획 모드에서 전투 진행 속도 {0}% 상승 {1}",
         "arguments": 1,
         "max_level": 5,
-        "is_show": 0
+        "is_show": 0,
+        "type": 1,
+        "function_skill": "battle_speed_up"
     },
     {
         "id": 103,
@@ -30,7 +34,9 @@
         "description": "전투로 발생하는 인형, 혼합세력 호감도 상승치 {0}% 상승 {1}",
         "arguments": 3,
         "max_level": 5,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "battle_favor_up"
     },
     {
         "id": 104,
@@ -41,7 +47,9 @@
         "description": "전투에서 얻는 인형, 혼합세력 경험치 {0}% 상승 {1}",
         "arguments": 3,
         "max_level": 5,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "battle_gun_exp_up"
     },
     {
         "id": 105,
@@ -52,7 +60,9 @@
         "description": "전투에서 얻는 지휘관 경험치 {0}% 상승 {1}",
         "arguments": 5,
         "max_level": 3,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "battle_commander_exp_up"
     },
     {
         "id": 106,
@@ -63,7 +73,9 @@
         "description": "전투에서 얻는 요정 경험치 {0}% 상승 {1}",
         "arguments": 3,
         "max_level": 5,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "battle_fairy_exp_up"
     },
     {
         "id": 107,
@@ -74,7 +86,9 @@
         "description": "전투에서 얻는 화력소대 경험치 {0}% 상승 {1}",
         "arguments": 3,
         "max_level": 5,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "battle_squad_exp_up"
     },
     {
         "id": 108,
@@ -85,7 +99,9 @@
         "description": "인형, 중장비, 혼합세력 수복 시간  {0}% 감소{1}",
         "arguments": 10,
         "max_level": 3,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "repair_time_reduce"
     },
     {
         "id": 109,
@@ -96,7 +112,9 @@
         "description": "작전보고서, 특수작전보고서 작성 시간 {0}% 단축 {1}",
         "arguments": 1,
         "max_level": 5,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "report_time_reduce"
     },
     {
         "id": 110,
@@ -107,7 +125,9 @@
         "description": "전진기지 탐색 복귀 보상 수량 {0}% 상승 {1}",
         "arguments": 5,
         "max_level": 3,
-        "is_show": 0
+        "is_show": 0,
+        "type": 1,
+        "function_skill": "exploration_reward_up"
     },
     {
         "id": 111,
@@ -118,7 +138,9 @@
         "description": "전진기지 탐색 중도 보상 출현 확률 {0}% 상승{1}",
         "arguments": 1,
         "max_level": 5,
-        "is_show": 0
+        "is_show": 0,
+        "type": 1,
+        "function_skill": "exploration_mid_rate_up"
     },
     {
         "id": 112,
@@ -129,7 +151,9 @@
         "description": "인형, 요정, 중장비, 혼합세력 스킬훈련 시간 {0}% 단축 {1}",
         "arguments": 3,
         "max_level": 5,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "skill_time_reduce"
     },
     {
         "id": 113,
@@ -140,7 +164,9 @@
         "description": "장비가 제공하는 장비 강화 수치 {0}% 상승 {1}",
         "arguments": 1,
         "max_level": 5,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "equip_upgrade_up"
     },
     {
         "id": 114,
@@ -151,7 +177,9 @@
         "description": "요정이 제공하는 요정 강화 수치 {0}% 상승 {1}",
         "arguments": 1,
         "max_level": 5,
-        "is_show": 0
+        "is_show": 0,
+        "type": 1,
+        "function_skill": "fairy_upgrade_up"
     },
     {
         "id": 115,
@@ -162,28 +190,268 @@
         "description": "전지 자연 생산량 {0}% 상승 {1}",
         "arguments": 1,
         "max_level": 5,
-        "is_show": 1
+        "is_show": 1,
+        "type": 1,
+        "function_skill": "battery_recovery_up"
     },
     {
-        "id": 116,
-        "name": "function_skill_config-10000116",
+        "id": 118,
+        "name": "자율 소모 감소",
         "level": 1,
         "group_id": 0,
-        "code": "function_skill_icon_116",
-        "description": "function_skill_config-20000116",
+        "code": "function_skill_icon_118",
+        "description": "자율작전의 자원 소모량 {0}% 감소 {1}",
         "arguments": 1,
-        "max_level": 5,
-        "is_show": 0
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "auto_combat_resource_reduce"
     },
     {
-        "id": 117,
-        "name": "function_skill_config-10000117",
+        "id": 119,
+        "name": "요정지령 회복 가속",
         "level": 1,
         "group_id": 0,
-        "code": "function_skill_icon_117",
-        "description": "function_skill_config-20000117",
+        "code": "function_skill_icon_119",
+        "description": "요정지령의 회복 간격 {0}% 단축 {1}",
         "arguments": 1,
-        "max_level": 5,
-        "is_show": 0
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "fairy_command_recovery_time_reduce"
+    },
+    {
+        "id": 120,
+        "name": "샘플 산출 가속",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_120",
+        "description": "감청소에서 샘플을 생산하는 간격 {0}% 단축 {1}",
+        "arguments": 1,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "data_recovery_time_reduce"
+    },
+    {
+        "id": 124,
+        "name": "군수 보상 상승",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_124",
+        "description": "군수지원으로 획득하는 자원량 {0}% 상승 {1}",
+        "arguments": 1,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "logistics_reward_up"
+    },
+    {
+        "id": 125,
+        "name": "혼합훈련 보상 상승",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_125",
+        "description": "모의작전-혼합훈련 보상 {0}% 상승 {1}",
+        "arguments": 1,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "coalitiondrill_reward_up"
+    },
+    {
+        "id": 126,
+        "name": "스킬 훈련 시간 단축",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_112",
+        "description": "스킬 훈련(인형, 요정, 중장비, 혼합세력 포함) 소요 시간 {0}% 단축 {1}",
+        "arguments": 1,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "skill_time_reduce"
+    },
+    {
+        "id": 127,
+        "name": "전지 회복량 상승",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_115",
+        "description": "전지 자연생성량 {0}% 상승 {1}",
+        "arguments": 1,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "battery_recovery_up"
+    },
+    {
+        "id": 128,
+        "name": "지휘관 경험치 상승",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_105",
+        "description": "전투에서 지휘관 경험치 획득량 {0}% 상승 {1}",
+        "arguments": 2,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "battle_commander_exp_up"
+    },
+    {
+        "id": 129,
+        "name": "탐색 복귀보상 상승",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_110",
+        "description": "전진기지의 탐색 복귀보상 수량 {0}% 상승 {1}",
+        "arguments": 1,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "exploration_reward_up"
+    },
+    {
+        "id": 130,
+        "name": "자율 소모 감소",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_118",
+        "description": "자율작전의 자원 소모량 {0}% 감소 {1}",
+        "arguments": 2,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "auto_combat_resource_reduce"
+    },
+    {
+        "id": 131,
+        "name": "요정지령 회복 가속",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_119",
+        "description": "요정지령의 회복 간격 {0}% 단축 {1}",
+        "arguments": 2,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "fairy_command_recovery_time_reduce"
+    },
+    {
+        "id": 132,
+        "name": "샘플 산출 가속",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_120",
+        "description": "감청소에서 샘플을 생산하는 간격 {0}% 단축 {1}",
+        "arguments": 2,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "data_recovery_time_reduce"
+    },
+    {
+        "id": 133,
+        "name": "군수 보상 상승",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_124",
+        "description": "군수지원으로 획득하는 자원량 {0}% 상승 {1}",
+        "arguments": 2,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "logistics_reward_up"
+    },
+    {
+        "id": 134,
+        "name": "혼합훈련 보상 상승",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_125",
+        "description": "모의작전-혼합훈련 보상 {0}% 상승 {1}",
+        "arguments": 2,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "coalitiondrill_reward_up"
+    },
+    {
+        "id": 135,
+        "name": "스킬 훈련 시간 단축",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_112",
+        "description": "스킬 훈련(인형, 요정, 중장비, 혼합세력 포함) 소요 시간 {0}% 단축 {1}",
+        "arguments": 2,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "skill_time_reduce"
+    },
+    {
+        "id": 136,
+        "name": "전지 회복량 상승",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_115",
+        "description": "전지 자연생성량 {0}% 상승 {1}",
+        "arguments": 2,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "battery_recovery_up"
+    },
+    {
+        "id": 137,
+        "name": "지휘관 경험치 상승",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_105",
+        "description": "전투에서 지휘관 경험치 획득량 {0}% 상승 {1}",
+        "arguments": 3,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "battle_commander_exp_up"
+    },
+    {
+        "id": 138,
+        "name": "탐색 복귀보상 상승",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_110",
+        "description": "전진기지의 탐색 복귀보상 수량 {0}% 상승 {1}",
+        "arguments": 2,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "exploration_reward_up"
+    },
+    {
+        "id": 139,
+        "name": "요정지령 회복 가속",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_119",
+        "description": "요정지령의 회복 간격 {0}% 단축 {1}",
+        "arguments": 3,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "fairy_command_recovery_time_reduce"
+    },
+    {
+        "id": 140,
+        "name": "전지 회복량 상승",
+        "level": 1,
+        "group_id": 0,
+        "code": "function_skill_icon_115",
+        "description": "전지 자연생성량 {0}% 상승 {1}",
+        "arguments": 3,
+        "max_level": 10,
+        "is_show": 0,
+        "type": 2,
+        "function_skill": "battery_recovery_up"
     }
 ]

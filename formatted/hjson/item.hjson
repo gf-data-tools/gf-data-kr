@@ -15326,8 +15326,8 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: 유탄 포수
-    introduction: 갑작스레 닥쳐오는 위협을 마주볼 수 있고, 완벽하게 회피하고 역전의 수를 생각해 내는 것이 지휘관으로서의 생존 비법이다. 다행인 줄 알아라, 지금 날아오는 저 물건은 속도가 시속 150km보단 낮으니까.
+    item_name: *유탄 포수
+    introduction: *갑작스레 닥쳐오는 위협을 마주볼 수 있고, 완벽하게 회피하고 역전의 수를 생각해 내는 것이 지휘관으로서의 생존 비법이다. 다행인 줄 알아라, 지금 날아오는 저 물건은 속도가 시속 150km보단 낮으니까.
     rank: 1
     detail_introduction: item-30140001
   }
@@ -15336,8 +15336,8 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: 유탄 포수
-    introduction: 갑작스레 닥쳐오는 위협을 마주볼 수 있고, 완벽하게 회피하고 역전의 수를 생각해 내는 것이 지휘관으로서의 생존 비법이다. 다행인 줄 알아라, 지금 날아오는 저 물건은 속도가 시속 150km보단 낮으니까.
+    item_name: *유탄 포수
+    introduction: *갑작스레 닥쳐오는 위협을 마주볼 수 있고, 완벽하게 회피하고 역전의 수를 생각해 내는 것이 지휘관으로서의 생존 비법이다. 다행인 줄 알아라, 지금 날아오는 저 물건은 속도가 시속 150km보단 낮으니까.
     rank: 1
     detail_introduction: item-30140002
   }
@@ -15346,8 +15346,8 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: item-10140003
-    introduction: item-20140003
+    item_name: *유탄 포수
+    introduction: *갑작스레 닥쳐오는 위협을 마주볼 수 있고, 완벽하게 회피하고 역전의 수를 생각해 내는 것이 지휘관으로서의 생존 비법이다. 다행인 줄 알아라, 지금 날아오는 저 물건은 속도가 시속 150km보단 낮으니까.
     rank: 1
     detail_introduction: item-30140003
   }
@@ -15356,8 +15356,8 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: item-10140004
-    introduction: item-20140004
+    item_name: *유탄 포수
+    introduction: *갑작스레 닥쳐오는 위협을 마주볼 수 있고, 완벽하게 회피하고 역전의 수를 생각해 내는 것이 지휘관으로서의 생존 비법이다. 다행인 줄 알아라, 지금 날아오는 저 물건은 속도가 시속 150km보단 낮으니까.
     rank: 1
     detail_introduction: item-30140004
   }

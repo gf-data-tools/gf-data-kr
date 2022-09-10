@@ -894,5 +894,12 @@
         "title": "해석연산연습",
         "content": "해석연산연습 {0}회",
         "function_control_id": 0
+    },
+    {
+        "id": 129,
+        "task_type": "special_develop_fairy",
+        "title": "요정중형제조",
+        "content": "요정중형제조 {0}회",
+        "function_control_id": 0
     }
 ]

@@ -28510,7 +28510,7 @@
     type: 300
     motion_name: motions/shake.mtn
     probability: 1.0
-    name: 흔들기
+    name: 흔들
     camera: 1
   }
   {
@@ -28620,7 +28620,7 @@
     type: 301
     motion_name: motions/shake.mtn
     probability: 1.0
-    name: 흔들기
+    name: 흔들
     camera: 1
     is_hurt: 1
   }

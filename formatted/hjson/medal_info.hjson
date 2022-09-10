@@ -8,6 +8,7 @@
     item_id: "100"
     medal_obtain: 기간한정 대형 이벤트에서 모든 도전을 돌파한 지휘관에게 수여합니다.
     medal_color: "#009bff"
+    if_elite_medal: "1"
   }
   {
     id: "2"
@@ -83,6 +84,7 @@
     medal_color: "#ff0000"
     is_date: "2"
     decorate_code: Logo_Events
+    if_elite_medal: "1"
   }
   {
     id: "9"

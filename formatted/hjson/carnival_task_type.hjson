@@ -779,4 +779,11 @@
     title: 혼합점수(추가혼합점수 포함)
     content: 혼합점수 {0}점 소모
   }
+  {
+    id: 131
+    type: special_develop_fairy
+    title: 요정중형제조
+    content: 요정중형제조 {0}회
+    function_control_id: 1
+  }
 ]

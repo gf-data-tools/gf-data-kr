@@ -1,26 +1,26 @@
 [
   {
     id: "1"
-    name: 非战斗类
+    name: 보조형
   }
   {
     id: "2"
-    name: 战斗加攻击属性类
+    name: 버프형
   }
   {
     id: "3"
-    name: 战斗防御类
+    name: 수비형
   }
   {
     id: "4"
-    name: 直接伤害类
+    name: 광폭형
   }
   {
     id: "5"
-    name: 增援类
+    name: 증원형
   }
   {
     id: "6"
-    name: 战役类
+    name: 전역형
   }
 ]

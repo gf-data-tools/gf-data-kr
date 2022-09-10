@@ -2726,7 +2726,7 @@ live2d_motions-10740708,대화5
 live2d_motions-10740709,대화6
 live2d_motions-10740710,서약 후 대화
 live2d_motions-10740711,서약
-live2d_motions-10740712,흔들기
+live2d_motions-10740712,흔들
 live2d_motions-10740713,로그인
 live2d_motions-10740714,대기
 live2d_motions-10740715,특수대기1
@@ -2736,5 +2736,5 @@ live2d_motions-10740718,대화2
 live2d_motions-10740719,대화3
 live2d_motions-10740720,대화4
 live2d_motions-10740721,대화5
-live2d_motions-10740722,흔들기
+live2d_motions-10740722,흔들
 live2d_motions-10740723,로그인

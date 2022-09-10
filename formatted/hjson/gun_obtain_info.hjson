@@ -5,10 +5,12 @@
   {
     obtain_id: "1"
     description: 일반제조를 통해 획득 가능
+    goto_page_id: "25"
   }
   {
     obtain_id: "2"
     description: 중형제조를 통해 획득 가능
+    goto_page_id: "25"
   }
   {
     obtain_id: "3"
@@ -142,6 +144,7 @@
   {
     obtain_id: "35"
     description: 【인형개조】를 통해 획득 가능
+    goto_page_id: "186"
   }
   {
     obtain_id: "36"
@@ -154,6 +157,11 @@
   {
     obtain_id: "38"
     description: 중형장비제조를 통해 획득 가능
+  }
+  {
+    obtain_id: "39"
+    description: gun_obtain-10000039
+    goto_page_id: "380"
   }
   {
     obtain_id: "101"
@@ -770,6 +778,7 @@
   {
     obtain_id: "3001"
     description: 장비제조를 통해서 획득 가능
+    goto_page_id: "21"
   }
   {
     obtain_id: "3002"
@@ -778,6 +787,7 @@
   {
     obtain_id: "3003"
     description: 블랙마켓에서 교환
+    goto_page_id: "217"
   }
   {
     obtain_id: "3004"
@@ -830,6 +840,7 @@
   {
     obtain_id: "3016"
     description: 인형개조를 통해 획득 가능
+    goto_page_id: "186"
   }
   {
     obtain_id: "3017"
@@ -878,6 +889,7 @@
   {
     obtain_id: "3028"
     description: 전진기지 도중보상
+    goto_page_id: "217"
   }
   {
     obtain_id: "3029"

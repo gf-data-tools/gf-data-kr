@@ -16158,4 +16158,188 @@
     condition: "11082"
     commander_title: achievement-30001009
   }
+  {
+    identity: 1010
+    type: special_develop_fairy
+    count: 1
+    title: 대요정 합성
+    content: 중형요정제조 누적 1회.
+    type_sort: 9
+    sort: 298
+    icon_code: 妖精重型制造
+    prize_id: 872
+    commander_title: achievement-30001010
+    unlock_function: 1
+  }
+  {
+    identity: 1011
+    type: special_develop_fairy
+    count: 10
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 20
+    core: 3
+    item_ids: 2-1
+    title: 나사 하나부터
+    content: 중형요정제조 누적 10회.
+    type_sort: 9
+    sort: 298
+    icon_code: 妖精重型制造
+    commander_title: achievement-30001011
+    unlock_function: 1
+  }
+  {
+    identity: 1012
+    type: special_develop_fairy
+    count: 20
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 30
+    core: 3
+    item_ids: 2-3
+    title: 커스텀 요정 파츠
+    content: 중형요정제조 누적 20회.
+    type_sort: 9
+    sort: 298
+    icon_code: 妖精重型制造
+    commander_title: achievement-30001012
+    unlock_function: 1
+  }
+  {
+    identity: 1013
+    type: special_develop_fairy
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 60
+    core: 5
+    item_ids: 2-3
+    title: 요정 집적모듈 구성
+    content: 중형요정제조 누적 50회.
+    type_sort: 9
+    sort: 298
+    icon_code: 妖精重型制造
+    commander_title: achievement-30001013
+    unlock_function: 1
+  }
+  {
+    identity: 1014
+    type: special_develop_fairy
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 200
+    core: 5
+    item_ids: 2-5
+    title: 요정 메이커 등장!
+    content: 중형요정제조 누적 100회.
+    type_sort: 9
+    sort: 298
+    icon_code: 妖精重型制造
+    commander_title: achievement-30001014
+    unlock_function: 1
+  }
+  {
+    identity: 1015
+    type: special_develop_fairy
+    count: 200
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 300
+    core: 10
+    item_ids: 2-5
+    title: 생산라인아 돌아라
+    content: 중형요정제조 누적 200회.
+    type_sort: 9
+    sort: 298
+    icon_code: 妖精重型制造
+    commander_title: achievement-30001015
+    unlock_function: 1
+  }
+  {
+    identity: 1016
+    type: special_develop_fairy
+    count: 500
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 600
+    core: 10
+    item_ids: 2-10
+    title: 요정 제1공방
+    content: 중형요정제조 누적 500회.
+    type_sort: 9
+    sort: 298
+    icon_code: 妖精重型制造
+    commander_title: achievement-30001016
+    unlock_function: 1
+  }
+  {
+    identity: 1017
+    type: special_develop_fairy
+    count: 1000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 1000
+    core: 15
+    item_ids: 2-10
+    title: 996 요정 공장
+    content: 중형요정제조 누적 1000회.
+    type_sort: 9
+    sort: 298
+    icon_code: 妖精重型制造
+    commander_title: achievement-30001017
+    unlock_function: 1
+  }
+  {
+    identity: 1018
+    type: special_develop_fairy
+    count: 2000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 1300
+    core: 15
+    item_ids: 2-15
+    title: 자동화 요정 왕국
+    content: 중형요정제조 누적 2000회.
+    type_sort: 9
+    sort: 298
+    icon_code: 妖精重型制造
+    commander_title: achievement-30001018
+    unlock_function: 1
+  }
+  {
+    identity: 1019
+    type: special_develop_fairy
+    count: 5000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 1600
+    core: 20
+    item_ids: 2-15
+    title: 글로벌 요정 생산 네트워크
+    content: 중형요정제조 누적 5000회.
+    type_sort: 9
+    sort: 298
+    icon_code: 妖精重型制造
+    commander_title: achievement-30001019
+    unlock_function: 1
+  }
 ]
