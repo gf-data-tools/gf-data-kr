@@ -392,6 +392,18 @@
     description: 기간한정 이벤트 【고정점】 보급상자에서 출현
   }
   {
+    obtain_id: "251"
+    description: gun_obtain-10000251
+  }
+  {
+    obtain_id: "252"
+    description: gun_obtain-10000252
+  }
+  {
+    obtain_id: "253"
+    description: gun_obtain-10000253
+  }
+  {
     obtain_id: "301"
     description: 기간한정 이벤트 【황금 달빛】 보상
   }
@@ -530,6 +542,10 @@
   {
     obtain_id: "513"
     description: 기간한정 이벤트 【고정점】 랭킹 전역 보상
+  }
+  {
+    obtain_id: "514"
+    description: 기간 한정 이벤트 【세로변형】 랭킹 보상
   }
   {
     obtain_id: "1701"
@@ -1090,5 +1106,9 @@
   {
     obtain_id: "3078"
     description: 기간한정 이벤트 <라이칸의 성역> 재화 상점 교환
+  }
+  {
+    obtain_id: "3079"
+    description: gun_obtain-10003079
   }
 ]

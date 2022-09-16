@@ -5389,7 +5389,7 @@
     is_hidden: 2
     dialog: 기본 형태
     note: 기본 형태
-    illustrator_cv: 柱柱,Ito Asuka,
+    illustrator_cv: 堀森,Ito Asuka,
   }
   {
     id: 5059
@@ -5420,6 +5420,46 @@
     dialog: 기본 형태
     note: 기본 형태
     illustrator_cv: skin-40005061
+  }
+  {
+    id: 5062
+    name: 92식 - 오리지널
+    fit_gun: 20013
+    voice: 4
+    is_hidden: 2
+    dialog: 기본 외형
+    note: 기본 외형
+    illustrator_cv: skin-40005062
+  }
+  {
+    id: 5063
+    name: Kar98k - 오리지널
+    fit_gun: 20046
+    voice: 4
+    is_hidden: 2
+    dialog: 기본 외형
+    note: 기본 외형
+    illustrator_cv: 芙芙酱,,
+  }
+  {
+    id: 5064
+    name: 리엔필드 - 오리지널
+    fit_gun: 20050
+    voice: 4
+    is_hidden: 2
+    dialog: 기본 외형
+    note: 기본 외형
+    illustrator_cv: skin-40005064
+  }
+  {
+    id: 5065
+    name: 56-1식 - 오리지널
+    fit_gun: 20066
+    voice: 4
+    is_hidden: 2
+    dialog: 기본 외형
+    note: 기본 외형
+    illustrator_cv: skin-40005065
   }
   {
     id: 5101
@@ -7331,6 +7371,73 @@
     illustrator_cv: skin-40007408
     order: 89
     class_id: 78
+  }
+  {
+    id: 7501
+    name: PA-15 - 얼음 바다 환상의 춤
+    fit_gun: 260
+    voice: 4
+    dialog: 수많은 날밤을 세워 연습한 건 바로 오늘 여기서 내 춤을 보여주기 위해서... 이제 내 차례네, 지휘관. 눈 깜빡하지도 말라고.
+    note: skin-30007501
+    illustrator_cv: skin-40007501
+    order: 92
+    class_id: 79
+  }
+  {
+    id: 7502
+    name: SR-2 - 홈런의 여왕
+    fit_gun: 347
+    voice: 4
+    dialog: 요놈들이 이번에 나와 붙는 불쌍한 것들인가? 미리 짐 싸두라고 말해주고 싶네, 시합 금방 끝날 거니까.
+    note: skin-30007502
+    gift_position: "-132,-67"
+    illustrator_cv: skin-40007502
+    order: 92
+    class_id: 79
+  }
+  {
+    id: 7503
+    name: CAWS - 역경의 공격수
+    fit_gun: 281
+    voice: 4
+    dialog: 저쪽이 기세등등한 걸 봐선 이번 판은 힘들겠어, 지휘관. 그냥 기권하고... 안 돼? 알았어, 그럼 가자고.
+    note: skin-30007503
+    illustrator_cv: skin-40007503
+    order: 92
+    class_id: 79
+  }
+  {
+    id: 7504
+    name: SAF - 언덕 질주
+    fit_gun: 304
+    voice: 4
+    dialog: 지휘관도 다운힐 경기에 참가할 거야? 여기 지형은 반사신경과 기술을 엄청 요구한다고, 실력에 자신 있다면 같이 출발하자!
+    note: skin-30007504
+    illustrator_cv: skin-40007504
+    order: 92
+    class_id: 79
+  }
+  {
+    id: 7505
+    name: 노바 - 샤이닝 슈팅스타
+    fit_gun: 352
+    voice: 4
+    dialog: 후우... 후우... 선수들의 의욕 모두 나와 Gsh-18의 응원으로 달아올랐어~! 어라, 벌써 시간이 이렇게 됐네? 빨리 다른 시합을 응원하러 가야... 앗, Gsh-18, 기다려!
+    note: skin-30007505
+    illustrator_cv: skin-40007505
+    order: 92
+    class_id: 79
+  }
+  {
+    id: 7506
+    name: C14 - 아크 문라이트
+    fit_gun: 308
+    voice: 4
+    dialog: 동료들의 기대에 부응하기 위해서 여기서 꼭 이겨야 해... 승부의 결정 짓는 건 바로 지금, 내 마지막 카운터를 받아라!
+    note: skin-30007506
+    illustrator_cv: skin-40007506
+    order: 92
+    class_id: 79
   }
   {
     id: 30001

@@ -2229,7 +2229,7 @@
     code: 配件_光学瞄准镜_AK
     develop_duration: 2700
     company: KST
-    fit_guns: "58,66"
+    fit_guns: "58,66,20066"
     equip_introduction: 전쟁 전 KSTSP에서 생산된 광학조준기로 AK계열에 설계된 조준경 거치대에 장착 할 수 있으며 그 무엇과도 비교 할 수 없는 정확성을 지닙니다.
     powerup_mp: 0.45
     powerup_ammo: 0.15
@@ -2262,7 +2262,7 @@
     code: 配件_光学瞄准镜_AK
     develop_duration: 2700
     company: KST
-    fit_guns: "58,66"
+    fit_guns: "58,66,20066"
     equip_introduction: 전쟁 전 KST정밀광학에서 생산한 광학조준기로 AK계열에 설계된 조준경 거치대에 장착 할 수 있으며 정교하고 내구성이 높아 AK에 추천합니다.
     powerup_mp: 0.45
     powerup_ammo: 0.15
@@ -2295,7 +2295,7 @@
     code: 配件_光学瞄准镜_AK
     develop_duration: 2700
     company: KST
-    fit_guns: "58,66"
+    fit_guns: "58,66,20066"
     equip_introduction: 전쟁 전 KST에서 생산한 광학조준기로 AK계열에 설계된 조준경 장착대에 장착 할 수 있으며 아직까지도 자주 사용되고 있습니다.
     powerup_mp: 0.45
     powerup_ammo: 0.15
@@ -2947,7 +2947,7 @@
     code: 配件_光学瞄准镜_Kar98k
     develop_duration: 3600
     company: S&B
-    fit_guns: "46"
+    fit_guns: "46,20046"
     equip_introduction: 값비싼 독일제 광학기자재는 저격수와 사진사의 최종옵션으로, 첨단 조준기는 130년 넘게 전장에서 그녀의 안정도를 높여줬습니다. Kar98K 전용.
     powerup_mp: 0.45
     powerup_ammo: 0.15
@@ -4716,7 +4716,7 @@
     code: 配件_光瞄_lee
     develop_duration: 3600
     company: VKS
-    fit_guns: "50"
+    fit_guns: "50,20050"
     equip_introduction: 저번 세기 세계대전 초기에서 리-엔필드 No.4 MKI(T) 소총만을 위해 제작된 광학 조준경으로, 화려한 황동 외피가 인상적입니다. 색이 약간 바랜 렌즈는 무수한 생명의 끝을 지켜봤습니다. 리-엔필드 전용.
     powerup_mp: 0.45
     powerup_ammo: 0.15
@@ -9284,5 +9284,171 @@
     is_show: 1
     obtain_ids: "3072"
     sp_description: equip-40000295
+  }
+  {
+    id: 296
+    name: 92식 플레어건
+    description:
+      '''
+      명중+<hit>
+      제대 명중+10%$92식 전용
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    hit: "6,10"
+    skill_effect: 150
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: 弹匣_特殊_92type
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "13,20013"
+    equip_introduction: 92식 전용 플레어건. 어느 유명 플레어건의 레플리카로, IOP의 개량을 거쳐 신뢰성이 상승했습니다.
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3.0
+    bonus_type: hit:1000
+    passive_skill: "300903"
+    max_level: 10
+    auto_select_id: 19043
+    is_show: 1
+    obtain_ids: "3016"
+    sp_description: 제대 명중+10%
+  }
+  {
+    id: 297
+    name: 친위대 제복
+    description:
+      '''
+      치명상+<critical_harm_rate><%>
+      회피<dodge>$Kar98k 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    dodge: "-4,-1"
+    critical_harm_rate: "25,30"
+    retire_mp: 4
+    retire_mre: 5
+    code: 人形_特殊_98K
+    develop_duration: 3360
+    company: IOP
+    fit_guns: "46,20046"
+    equip_introduction: Kar98k의 이미지에 맞춰 제작한 복식으로 멋진 외형에 최신 방탄 기술이 적용된 재료를 사용하였고, 저격수 인형에게 필요한 기타 기능도 보유하고 있습니다.
+    powerup_mp: 0.55
+    powerup_ammo: 0.16
+    powerup_mre: 0.6
+    powerup_part: 0.16
+    exclusive_rate: 3.0
+    bonus_type: critical_harm_rate:600
+    max_level: 10
+    auto_select_id: 20049
+    is_show: 1
+    obtain_ids: "3016"
+    sp_description: equip-40000297
+  }
+  {
+    id: 298
+    name: L42 시제 철갑탄
+    description:
+      '''
+      관통+<armor_piercing>
+      화력+<pow>$리엔필드 전용
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "2,4"
+    armor_piercing: "195,200"
+    retire_ammo: 4
+    retire_mre: 2
+    retire_part: 3
+    code: 弹匣_特殊_MLEMK1
+    develop_duration: 3300
+    company: IOP
+    fit_guns: "50,20050"
+    equip_introduction: IOP가 리엔필드를 위해 독자 개발한 특수 철갑탄으로, 분리철갑탄의 기술을 결합하여 파괴력을 크게 높였습니다.
+    powerup_mp: 0.08
+    powerup_ammo: 0.5
+    powerup_mre: 0.3
+    powerup_part: 0.3
+    exclusive_rate: 3.0
+    bonus_type: armor_piercing:250,pow:1000
+    max_level: 10
+    auto_select_id: 19044
+    is_show: 1
+    obtain_ids: "3016"
+    sp_description: equip-40000298
+  }
+  {
+    id: 299
+    name: RS칩
+    description:
+      '''
+      화력+<pow> 사속+<rate>
+      치명상<critical_harm_rate><%>$56-1식 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "6,10"
+    rate: "3,5"
+    critical_harm_rate: "-10,-10"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: 人形_特殊_56-1type
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "66,20066"
+    equip_introduction: 56-1식 전용 칩셋으로, 56-1식의 전투 성능을 효과적으로 올릴 수 있습니다.
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3.0
+    bonus_type: pow:500,rate:1000
+    max_level: 10
+    auto_select_id: 20050
+    is_show: 1
+    obtain_ids: "3016"
+    sp_description: equip-40000299
+  }
+  {
+    id: 300
+    name: 12x56CBX 배율경
+    description:
+      '''
+      치명률+<critical_percent><%>
+      화력+<pow>$QBU-88 전용
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    pow: "5,5"
+    critical_percent: "24,24"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: 配件_特殊_QBU88
+    develop_duration: 2700
+    company: KAH
+    fit_guns: "261"
+    equip_introduction: QBU-88 전용 버전 KAH제 3-12x56 고배율경으로, 기존 조준경보다 높은 신뢰성을 가졌습니다.
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3.0
+    bonus_type: critical_percent:1000,pow:1000
+    max_level: 10
+    auto_select_id: 18102
+    is_show: 1
+    obtain_ids: "3079"
+    sp_description: equip-40000300
   }
 ]

@@ -204,4 +204,13 @@
     pic: ai_patrol
     color: ffffff
   }
+  {
+    id: 24
+    force_id: 2
+    ai_type: 106
+    name: 추적
+    description: 가능한 최단 경로로 특정 NPC를 향해 이동한다
+    pic: ai_guard
+    color: ffffff
+  }
 ]

@@ -472,6 +472,31 @@
     source_description: commander_class-40000047
   }
   {
+    id: 48
+    name: 8비트 선글라스
+    description: 당신이 인간의 정점에 올랐을 때 이것이 강림하여 기행의 제왕에 즉위한 증명이 되어줍니다.
+    group_id: "90"
+    code: commander_4810_icon
+    path: CLASS48
+    des_year: "2022"
+    source: 2
+    source_description: 세로변형 랭킹 보상
+  }
+  {
+    id: 49
+    name: 청춘의 맥박
+    description: 시원한 아침 바람을 맞고, 대지를 비스듬이 비추는 햇살을 디디며 땀을 뿌리며 이슬과 함께 뜁시다.
+    group_id: "91"
+    code: commander_4932_icon
+    bonus_plastic: "130018"
+    skill_id: 105
+    path: CLASS49
+    is_class: 1
+    des_year: "2022"
+    source: 1
+    source_description: commander_class-40000049
+  }
+  {
     id: 99
     name: 거짓말 마스크
     description: 내 생각을 감추고, 내 바람을 드러낸다.
