@@ -6681,301 +6681,301 @@
   {
     id: 571
     mission_id: "10528"
-    description: “归途，只是另一次冒险的开始。”
+    description: '''"돌아가는 길은 또 하나의 여정의 시작이다."'''
     scripts: -41-1-1First
     campaign: -41
     bgm: BGM_Frontline
-    title: 离席之时Ⅰ
+    title: 자리를 떠날 때Ⅰ
     start: -41-1-1First
   }
   {
     id: 572
     mission_id: "10529"
-    description: “珍惜每一次选择的机会，谁也不知道何时便不再有机会。”
+    description: '''"선택의 기회를 항상 소중히 하라, 언제 기회가 사라질 지 아무도 모르니."'''
     scripts: -41-1-1End
     campaign: -41
     bgm: BGM_Frontline
-    title: 离席之时Ⅱ
+    title: 자리를 떠날 때Ⅱ
     start: -41-1-1End
   }
   {
     id: 573
     mission_id: "10575"
-    description: “每一次慈悲，都有它标定的价码。”
+    description: '''"자비에는 항상 가격이 붙어있다."'''
     scripts: -41-1-3First
     campaign: -41
     bgm: BGM_Frontline
-    title: 离席之时Ⅲ
+    title: 자리를 떠날 때Ⅲ
     start: -41-1-3First
   }
   {
     id: 574
     mission_id: "10578"
-    description: “我怀念昨日之人，与明日之城。”
+    description: '''"나는 내일의 도시에서 어제의 사람을 그리워한다."'''
     scripts: -41-1-3End
     campaign: -41
     bgm: BGM_Frontline
-    title: 离席之时Ⅳ
+    title: 자리를 떠날 때Ⅳ
     start: -41-1-3End
   }
   {
     id: 575
     mission_id: "10551"
-    description: “新的武器，新的战场。”
+    description: '''"새로운 무기, 새로운 전장."'''
     scripts: -41-1-2
     campaign: -41
     bgm: BGM_Frontline
-    title: 帷幕将升Ⅰ
+    title: 막이 오른다 Ⅰ
     start: -41-1-2
   }
   {
     id: 576
     mission_id: "10552"
-    description: “规则，就是用来打破的。”
+    description: '''"규칙이란 깨뜨리기 위해 존재한다."'''
     scripts: -41-1-4
     campaign: -41
     bgm: BGM_Frontline
-    title: 帷幕将升Ⅱ
+    title: 막이 오른다 Ⅱ
     start: -41-1-4
   }
   {
     id: 577
     mission_id: "10530"
-    description: “为昨日的仇敌敬上一杯。”
+    description: '''"어제의 원수를 위하여 건배."'''
     scripts: -41-2-1First
     campaign: -41
     bgm: BGM_Frontline
-    title: 枯草热Ⅰ
+    title: 알레르기 Ⅰ
     start: -41-2-1First
   }
   {
     id: 578
     mission_id: "10531"
-    description: “当你需要为信任下一个定义时，你就已经不需要它了。”
+    description: '''"네가 신뢰에 정의를 내려야 할 때, 너는 그것이 이미 필요없다."'''
     scripts: -41-2-2First
     campaign: -41
     bgm: BGM_Frontline
-    title: 枯草热Ⅱ
+    title: 알레르기 Ⅱ
     start: -41-2-2First
   }
   {
     id: 579
     mission_id: "10532"
-    description: “你不觉得你就像个因为弄丢了宝贵的玩具而在生闷气的小女孩吗？”
+    description: '''"너 지금 딱 소중한 장난감을 잃고 삐져있는 여자애 같다고 느낌 안 들어?"'''
     scripts: -41-2-3First
     campaign: -41
     bgm: BGM_Frontline
-    title: 枯草热Ⅲ
+    title: 알레르기 Ⅲ
     start: -41-2-3First
   }
   {
     id: 580
     mission_id: "10533"
-    description: “忠诚与否，只需要调换一个视角，结论便会不同。”
+    description: '''"충성이냐 아니냐는 시점만 바꿔도 결론이 달라져."'''
     scripts: -41-2-4First
     campaign: -41
     bgm: BGM_Frontline
-    title: 枯草热Ⅳ
+    title: 알레르기 Ⅳ
     start: -41-2-4First
   }
   {
     id: 581
     mission_id: "10534"
-    description: “铁血人形说的话，连一个标点符号都不能信！”
+    description: '''"철혈인형이 하는 말은 마침표 하나도 믿을 수가 없어!"'''
     scripts: -41-2-5First
     campaign: -41
     bgm: BGM_Frontline
-    title: 枯草热Ⅴ
+    title: 알레르기 Ⅴ
     start: -41-2-5First
   }
   {
     id: 582
     mission_id: "10535"
-    description: “未来，总有一天还会再次相遇的。总有一天。”
+    description: '''"언젠가, 다시 만날 날이 반드시 오겠지. 언젠가는..."'''
     scripts: -41-2-6
     campaign: -41
     bgm: BGM_Frontline
-    title: 枯草热Ⅵ
+    title: 알레르기 Ⅵ
     start: -41-2-6
   }
   {
     id: 583
     mission_id: "10536"
-    description: “究竟是你梦见了我，还是我梦见了你呢？”
+    description: '''"내가 너의 꿈을 꾼 걸까, 네가 나의 꿈을 꾼 걸까?"'''
     scripts: -41-3-1First
     campaign: -41
     bgm: BGM_Frontline
-    title: 幽灵姐妹Ⅰ
+    title: 유령자매 Ⅰ
     start: -41-3-1First
   }
   {
     id: 584
     mission_id: "10537"
-    description: “反正过两小时你就不记得了，为什么还要告诉你呢？”
+    description: '''"어차피 두 시간만 지나면 또 잊어버릴 텐데, 꼭 가르쳐 줘야 해?"'''
     scripts: -41-3-2First
     campaign: -41
     bgm: BGM_Frontline
-    title: 幽灵姐妹Ⅱ
+    title: 유령자매 Ⅱ
     start: -41-3-2First
   }
   {
     id: 585
     mission_id: "10538"
-    description: “通过牵引绳降落到仓库，拖住404，完成围剿部署。”
+    description: '''"강하 로프로 창고에 내려가서, 404의 주의를 끌면서 포위진을 배치해."'''
     scripts: -41-3-3First
     campaign: -41
     bgm: BGM_Frontline
-    title: 幽灵姐妹Ⅲ
+    title: 유령자매 Ⅲ
     start: -41-3-3First
   }
   {
     id: 586
     mission_id: "10539"
-    description: “我不要再吃药了！不要吃药！我想出去……放我出去啊！”
+    description: '''"더는 약 먹기 싫어! 약 먹기 싫어! 나갈래... 내보내 줘!"'''
     scripts: -41-3-4First
     campaign: -41
     bgm: BGM_Frontline
-    title: 幽灵姐妹Ⅳ
+    title: 유령자매 Ⅳ
     start: -41-3-4First
   }
   {
     id: 587
     mission_id: "10576"
-    description: “你不准……先死……”
+    description: '''"먼저 죽는 건... 용서 안 해..."'''
     scripts: -41-3-5
     campaign: -41
     bgm: BGM_Frontline
-    title: 幽灵姐妹Ⅴ
+    title: 유령자매 Ⅴ
     start: -41-3-5
   }
   {
     id: 588
     mission_id: "10577"
-    description: “不管现场处理得多么干净，都擦不掉过去的血污和罪恶。”
+    description: '''"당사자가 얼마나 깨끗하게 처리했어도, 과거의 핏자국과 죗값은 씻어낼 수 없지."'''
     scripts: -41-3-6
     campaign: -41
     bgm: BGM_Frontline
-    title: 幽灵姐妹Ⅵ
+    title: 유령자매 Ⅵ
     start: -41-3-6
   }
   {
     id: 589
     mission_id: "10553"
-    description: “汉克，给我一个猪肘汉堡！”
+    description: '''"여기 브레멘의 특산 소시지랑 자우어크라우트 5인분 주문하고 싶은데요~"'''
     scripts: -41-2-7
     campaign: -41
     bgm: BGM_Frontline
-    title: 花粉症·始
+    title: 화분증·시작
     start: -41-2-7
   }
   {
     id: 590
     mission_id: "10554"
-    description: “我们在花卉当中，能够看到的是希望。”
+    description: '''"우린 꽃에서 희망을 볼 수 있는 거예요."'''
     scripts: -41-2-8
     campaign: -41
     bgm: BGM_Frontline
-    title: 道化师
+    title: 익살꾼
     start: -41-2-8
   }
   {
     id: 591
     mission_id: "10555"
-    description: “蚕食花瓣的蚜虫会觉得自己犯下了过错吗？”
+    description: '''"꽃줄기를 빨아먹는 진딧물이, 자신이 잘못했다 생각할까요?"'''
     scripts: -41-2-9
     campaign: -41
     bgm: BGM_Frontline
-    title: 花映冢
+    title: 꽃 핀 무덤
     start: -41-2-9
   }
   {
     id: 592
     mission_id: "10556"
-    description: “AN94并不常做那个下决定的人，但如果需要，她也能做得很好。”
+    description: '''"임무 중 AN-94가 결정하는 일은 드물었다. 하지만 필요하다면 그녀도 엄청 잘할 수 있다."'''
     scripts: -41-2-10
     campaign: -41
     bgm: BGM_Frontline
-    title: 霜狼会
+    title: 늑대 집회
     start: -41-2-10
   }
   {
     id: 593
     mission_id: "10557"
-    description: “能让人类进步的，只有人类。”
+    description: '''"인류를 나아가게 할 수 있는 건 같은 인류밖에 없어요."'''
     scripts: -41-2-11
     campaign: -41
     bgm: BGM_Frontline
-    title: 灯华潜
+    title: 등잔 밑
     start: -41-2-11
   }
   {
     id: 594
     mission_id: "10558"
-    description: “命运不会抛弃任何人，往往只有人会自己抛弃命运。”
+    description: '''"운명은 아무도 포기하지 않는다, 운명을 포기하는 사람만 있을 뿐."'''
     scripts: -41-2-12
     campaign: -41
     bgm: BGM_Frontline
-    title: 花粉症·终
+    title: 화분증·끝
     start: -41-2-12
   }
   {
     id: 595
     mission_id: "10559"
-    description: “不要相信那些贩卖美梦的皮箱。”
+    description: '''"좋은 꿈을 판다는 장사꾼들은 절대 믿지 마."'''
     scripts: -41-3-7
     campaign: -41
     bgm: BGM_Frontline
-    title: 美梦箱·始
+    title: 드림박스·시작
     start: -41-3-7
   }
   {
     id: 596
     mission_id: "10560"
-    description: “看呐，老鼠都跟在了他后面。”
+    description: '''"저것 봐, 생쥐들이 전부 따라가고 있어."'''
     scripts: -41-3-8
     campaign: -41
     bgm: BGM_Frontline
-    title: 吹笛人
+    title: 피리 부는 소년
     start: -41-3-8
   }
   {
     id: 597
     mission_id: "10561"
-    description: “手制的木箱，三层木板装订，很结实。一米五那么长，八十厘米左右宽。”
+    description: '''"수제 나무 상자, 목판을 세 겹 겹쳐 아주 튼튼함. 크기는 길이 1.5m, 넓이 80cm."'''
     scripts: -41-3-9
     campaign: -41
     bgm: BGM_Frontline
-    title: 布谷钟
+    title: 피리 부는 소년
     start: -41-3-9
   }
   {
     id: 598
     mission_id: "10562"
-    description: “两具穿着孤儿院服饰的幼小枯骨，用黑洞洞的眼眶直勾勾地盯着她。”
+    description: '''"고아원 아이들과 똑같은 복식의 작은 해골이, 텅 빈 눈구멍으로 그녀를 내려다보고 있었다."'''
     scripts: -41-3-10
     campaign: -41
     bgm: BGM_Frontline
-    title: 防空井
+    title: 방공 터널
     start: -41-3-10
   }
   {
     id: 599
     mission_id: "10563"
-    description: “这是院长妈妈的信，告诉我莉莉安是一个好孩子。”
+    description: '''"원장님의 편지야. 릴리안은 착한 아이래."'''
     scripts: -41-3-11
     campaign: -41
     bgm: BGM_Frontline
-    title: 布玩偶
+    title: 봉제 인형
     start: -41-3-11
   }
   {
     id: 600
     mission_id: "10564"
-    description: “因为他们都会把真正的美梦留给自己。”
+    description: '''"왜냐면 그들은 진짜 좋은 꿈을 항상 자기가 가지니까."'''
     scripts: -41-3-12
     campaign: -41
     bgm: BGM_Frontline
-    title: 美梦箱·终
+    title: 드림박스·끝
     start: -41-3-12
   }
   {
@@ -7017,181 +7017,181 @@
   {
     id: 605
     mission_id: "10540"
-    description: “……那毕竟是莱柯研究的结果。我不想他毕生的心血落在那个混蛋手里。”
+    description: '''"리코의 연구니까. 리코가 평생을 바친 성과를 그 자식에게 넘기고 싶진 않아."'''
     scripts: -41-4-1First
     campaign: -41
     bgm: BGM_Frontline
-    title: 食蛇行动Ⅰ
+    title: 뱀 사냥 Ⅰ
     start: -41-4-1First
   }
   {
     id: 606
     mission_id: "10541"
-    description: “衔尾蛇是个完美主义者。”
+    description: '''"우로보로스는 완벽주의자다."'''
     scripts: -41-4-2First
     campaign: -41
     bgm: BGM_Frontline
-    title: 食蛇行动Ⅱ
+    title: 뱀 사냥 Ⅱ
     start: -41-4-2First
   }
   {
     id: 607
     mission_id: "10542"
-    description: “比起被别人告知我是什么，我更愿意相信我自己的想法。”
+    description: '''"제가 무엇인지 남들 말을 듣기보단, 제가 믿는대로 믿고 싶어요."'''
     scripts: -41-4-3First
     campaign: -41
     bgm: BGM_Frontline
-    title: 食蛇行动Ⅲ
+    title: 뱀 사냥 Ⅲ
     start: -41-4-3First
   }
   {
     id: 608
     mission_id: "10543"
-    description: “不要与蛇捉迷藏。”
+    description: '''"뱀과 숨바꼭질 하지 마."'''
     scripts: -41-4-4First
     campaign: -41
     bgm: BGM_Frontline
-    title: 食蛇行动Ⅳ
+    title: 뱀 사냥 Ⅳ
     start: -41-4-4First
   }
   {
     id: 609
     mission_id: "10544"
-    description: “得留下点纪念才行，以后说不定就没机会了。”
+    description: '''"기록으로 남겨 두는 게 좋겠죠. 어쩌면 다신 기회가 없을지도 모르니..."'''
     scripts: -41-4-5
     campaign: -41
     bgm: BGM_Frontline
-    title: 食蛇行动Ⅴ
+    title: 뱀 사냥 Ⅴ
     start: -41-4-5
   }
   {
     id: 610
     mission_id: "10565"
-    description: “一个特工要是一眼就看起来像个特工，那他离下岗也不远了。”
+    description: '''"요원이 딱 봐서 요원같이 생겼으면 오래 못 살아요."'''
     scripts: -41-4-6
     campaign: -41
     bgm: BGM_Frontline
-    title: 三角攻势·始
+    title: 삼각공세·시작
     start: -41-4-6
   }
   {
     id: 611
     mission_id: "10566"
-    description: “欢迎来到自由汉萨城市不莱梅，祝您旅途愉快！”
+    description: '''"한자 동맹의 자유 도시, 브레멘에 오신 것을 환영합니다!"'''
     scripts: -41-4-7
     campaign: -41
     bgm: BGM_Frontline
-    title: 蜘蛛巢
+    title: 거미줄
     start: -41-4-7
   }
   {
     id: 612
     mission_id: "10567"
-    description: “想建立一个和平的世界，必须经过残酷的斗争。”
+    description: '''"우리가 바라는 평화로운 세상은 잔혹한 싸움을 견뎌내야만 이뤄낼 수 있습니다."'''
     scripts: -41-4-8
     campaign: -41
     bgm: BGM_Frontline
-    title: 纸牌塔
+    title: 종이탑
     start: -41-4-8
   }
   {
     id: 613
     mission_id: "10568"
-    description: “人类越是被列出三六九等，就越喜欢穷尽心思来寻找优越感。”
+    description: '''"인간은 등급이 나뉠수록 어떻게든 우월감을 얻으려고 애쓴다니까요."'''
     scripts: -41-4-9
     campaign: -41
     bgm: BGM_Frontline
-    title: 斗兽棋
+    title: 정글 체스
     start: -41-4-9
   }
   {
     id: 614
     mission_id: "10569"
-    description: “真正的世界不会改变，它以不同的形式展现，而本质永远相同。”
+    description: '''"세상은 변하지 않습니다. 당신에게 여러 모습을 보여 주기만 할 뿐, 그 본질은 결코 변하지 않습니다."'''
     scripts: -41-4-10
     campaign: -41
     bgm: BGM_Frontline
-    title: 煽动者
+    title: 선동꾼
     start: -41-4-10
   }
   {
     id: 615
     mission_id: "10570"
-    description: “凡事都有两面性，不管是对事还是对人。”
+    description: '''"사물이든 인간이든, 다 양면성이 있기 마련이지."'''
     scripts: -41-4-11
     campaign: -41
     bgm: BGM_Frontline
-    title: 三角攻势·终
+    title: 삼각공세·끝
     start: -41-4-11
   }
   {
     id: 616
     mission_id: "10546"
-    description: “我还活着，但就快死了。”
+    description: '''"난 아직 살아있지만, 곧 죽는다."'''
     scripts: -41-5-1First
     campaign: -41
     bgm: BGM_Frontline
-    title: 断惑无间Ⅰ
+    title: 망설임 금물 Ⅰ
     start: -41-5-1First
   }
   {
     id: 617
     mission_id: "10547"
-    description: “赌上全部，只能成功，不能失败。”
+    description: '''"목숨을 걸어서라도 반드시 성공해야 한다."'''
     scripts: -41-5-2First
     campaign: -41
     bgm: BGM_Frontline
-    title: 断惑无间Ⅱ
+    title: 망설임 금물 Ⅱ
     start: -41-5-2First
   }
   {
     id: 618
     mission_id: "10548"
-    description: “笼子已确定，脱兔已入瓮。”
+    description: '''"새장을 확보했다. 토끼는 독에 들어갔다。"'''
     scripts: -41-5-3First
     campaign: -41
     bgm: BGM_Frontline
-    title: 断惑无间Ⅲ
+    title: 망설임 금물 Ⅲ
     start: -41-5-3First
   }
   {
     id: 619
     mission_id: "10549"
-    description: “我要世界和平，下一代的孩子们可以不再生活于战争与恐惧中。”
+    description: '''"별거 없어, 세계 평화야. 다음 세대의 아이들이 전쟁과 두려움 속에서 떨지 않아도 되는 세상을 원해."'''
     scripts: -41-5-4First
     campaign: -41
     bgm: BGM_Frontline
-    title: 断惑无间Ⅳ
+    title: 망설임 금물 Ⅳ
     start: -41-5-4First
   }
   {
     id: 620
     mission_id: "10571"
-    description: “今天真是太漫长了，还好终于都结束了……”
+    description: '''"오늘은 정말이지, 엄청 긴 하루였어요... 이제 다 끝나서 정말 다행이에요..."'''
     scripts: -41-5-5
     campaign: -41
     bgm: BGM_Frontline
-    title: 断惑无间Ⅴ
+    title: 망설임 금물 Ⅴ
     start: -41-5-5
   }
   {
     id: 621
     mission_id: "10550"
-    description: “我答应你，以后再也不会骗你了。”
+    description: '''"약속할게. 다시는 너한테 거짓말 안 할게."'''
     scripts: -41-6-1
     campaign: -41
     bgm: BGM_Frontline
-    title: 前行预兆
+    title: 앞날의 징조
     start: -41-6-1
   }
   {
     id: 622
     mission_id: "10579"
-    description: “也许将来你会怀念我，怀念这段时光。但别担心，我们很快会再见面的。”
+    description: '''"어쩌면 당신은 어느날 저를, 이 시간을 그리워하겠죠. 하지만 너무 걱정 마세요. 금방 다시 만날 테니까."'''
     scripts: -41-6-2
     campaign: -41
     bgm: BGM_Frontline
-    title: 永恒之桥
+    title: 영원의 교량
     start: -41-6-2
   }
   {
@@ -10596,5 +10596,621 @@
     campaign: -52
     title: 봉화연대
     start: -52-6-1
+  }
+  {
+    id: 997
+    mission_id: "11166"
+    description: story_util-10000997
+    campaign: -54
+    title: O1
+    start: -54-O-1
+  }
+  {
+    id: 998
+    mission_id: "11164"
+    description: story_util-10000998
+    campaign: -54
+    title: EX难度通关奖励关
+    start: -54-0-1
+  }
+  {
+    id: 999
+    mission_id: "11165"
+    description: story_util-10000999
+    campaign: -54
+    title: UX难度通关奖励关
+    start: -54-0-2
+  }
+  {
+    id: 1000
+    mission_id: "11167"
+    description: story_util-10001000
+    campaign: -54
+    title: A1
+    start: -54-A-1
+  }
+  {
+    id: 1001
+    mission_id: "11168"
+    description: story_util-10001001
+    campaign: -54
+    title: A3
+    start: -54-A-3
+  }
+  {
+    id: 1002
+    mission_id: "11169"
+    description: story_util-10001002
+    campaign: -54
+    title: A4
+    start: -54-A-4
+  }
+  {
+    id: 1003
+    mission_id: "11170"
+    description: story_util-10001003
+    campaign: -54
+    title: A5
+    start: -54-A-5
+  }
+  {
+    id: 1004
+    mission_id: "11120,11123,11126"
+    description: story_util-10001004
+    campaign: -54
+    title: A6
+    start: -54-A-6Point1
+  }
+  {
+    id: 1005
+    mission_id: "11171"
+    description: story_util-10001005
+    campaign: -54
+    title: A7
+    start: -54-A-7
+  }
+  {
+    id: 1006
+    mission_id: "11121,11124,11127"
+    description: story_util-10001006
+    campaign: -54
+    title: A8
+    round: 1:-54-EXT-A3-3
+  }
+  {
+    id: 1007
+    mission_id: "11172"
+    description: story_util-10001007
+    campaign: -54
+    title: A9
+    start: -54-A-9
+  }
+  {
+    id: 1008
+    mission_id: "11173"
+    description: story_util-10001008
+    campaign: -54
+    title: A10
+    start: -54-A-10
+  }
+  {
+    id: 1009
+    mission_id: "11174"
+    description: story_util-10001009
+    campaign: -54
+    title: A11
+    start: -54-A-11
+  }
+  {
+    id: 1010
+    mission_id: "11175"
+    description: story_util-10001010
+    campaign: -54
+    title: A12
+    start: -54-A-12
+  }
+  {
+    id: 1011
+    mission_id: "11122,11125,11128"
+    description: story_util-10001011
+    campaign: -54
+    title: A13
+    round: 1:-54-EXT-A4
+  }
+  {
+    id: 1012
+    mission_id: "11176"
+    description: story_util-10001012
+    campaign: -54
+    title: A14
+    start: -54-A-14
+  }
+  {
+    id: 1013
+    mission_id: "11177"
+    description: story_util-10001013
+    campaign: -54
+    title: B1
+    start: -54-B-1
+  }
+  {
+    id: 1014
+    mission_id: "11129"
+    description: story_util-10001014
+    campaign: -54
+    title: B2
+    round: 1:-54-EXT-B1
+  }
+  {
+    id: 1015
+    mission_id: "11178"
+    description: story_util-10001015
+    campaign: -54
+    title: B3
+    start: -54-B-3
+  }
+  {
+    id: 1016
+    mission_id: "11179"
+    description: story_util-10001016
+    campaign: -54
+    title: B4
+    start: -54-B-4
+  }
+  {
+    id: 1017
+    mission_id: "11180"
+    description: story_util-10001017
+    campaign: -54
+    title: B5
+    start: -54-B-5
+  }
+  {
+    id: 1018
+    mission_id: "11181"
+    description: story_util-10001018
+    campaign: -54
+    title: B7
+    start: -54-B-7
+  }
+  {
+    id: 1019
+    mission_id: "11182"
+    description: story_util-10001019
+    campaign: -54
+    title: B9
+    start: -54-B-9
+  }
+  {
+    id: 1020
+    mission_id: "11183"
+    description: story_util-10001020
+    campaign: -54
+    title: B11
+    start: -54-B-11
+  }
+  {
+    id: 1021
+    mission_id: "11184"
+    description: story_util-10001021
+    campaign: -54
+    title: B12
+    start: -54-B-12
+  }
+  {
+    id: 1022
+    mission_id: "11185"
+    description: story_util-10001022
+    campaign: -54
+    title: B14
+    start: -54-B-14
+  }
+  {
+    id: 1023
+    mission_id: "11186"
+    description: story_util-10001023
+    campaign: -54
+    title: C1
+    start: -54-C-1
+  }
+  {
+    id: 1024
+    mission_id: "11187"
+    description: story_util-10001024
+    campaign: -54
+    title: C3
+    start: -54-C-3
+  }
+  {
+    id: 1025
+    mission_id: "11188"
+    description: story_util-10001025
+    campaign: -54
+    title: C4
+    start: -54-C-4
+  }
+  {
+    id: 1026
+    mission_id: "11189"
+    description: story_util-10001026
+    campaign: -54
+    title: C5
+    start: -54-C-5
+  }
+  {
+    id: 1027
+    mission_id: "11190"
+    description: story_util-10001027
+    campaign: -54
+    title: C7
+    start: -54-C-7
+  }
+  {
+    id: 1028
+    mission_id: "11144,11149,11154"
+    description: story_util-10001028
+    campaign: -54
+    title: C8
+    start: -54-C-8Point1
+  }
+  {
+    id: 1029
+    mission_id: "11191"
+    description: story_util-10001029
+    campaign: -54
+    title: C9
+    start: -54-C-9
+  }
+  {
+    id: 1030
+    mission_id: "11145,11150,11155"
+    description: story_util-10001030
+    campaign: -54
+    title: C10
+    start: -54-C-10Point1
+  }
+  {
+    id: 1031
+    mission_id: "11192"
+    description: story_util-10001031
+    campaign: -54
+    title: C11
+    start: -54-C-11
+  }
+  {
+    id: 1032
+    mission_id: "11193"
+    description: story_util-10001032
+    campaign: -54
+    title: C12
+    start: -54-C-12
+  }
+  {
+    id: 1033
+    mission_id: "11146,11151,11156"
+    description: story_util-10001033
+    campaign: -54
+    title: C13
+    round: 1:-54-EXT-C5
+  }
+  {
+    id: 1034
+    mission_id: "11194"
+    description: story_util-10001034
+    campaign: -54
+    title: C14
+    start: -54-C-14
+  }
+  {
+    id: 1035
+    mission_id: "11147,11152,11157"
+    description: story_util-10001035
+    campaign: -54
+    title: C15
+    round: 3:-54-C-15Point1
+  }
+  {
+    id: 1036
+    mission_id: "11195"
+    description: story_util-10001036
+    campaign: -54
+    title: C16
+    start: -54-C-16
+  }
+  {
+    id: 1037
+    mission_id: "11196"
+    description: story_util-10001037
+    campaign: -54
+    title: O2
+    start: -54-O-2
+  }
+  {
+    id: 1038
+    mission_id: "11197"
+    description: story_util-10001038
+    campaign: -54
+    title: O3
+    start: -54-O-3
+  }
+  {
+    id: 1039
+    mission_id: "11198"
+    description: story_util-10001039
+    campaign: -54
+    title: O4
+    start: -54-O-4
+  }
+  {
+    id: 1040
+    mission_id: "11199"
+    description: story_util-10001040
+    campaign: -54
+    title: O5
+    start: -54-O-5
+  }
+  {
+    id: 1041
+    mission_id: "11200"
+    description: story_util-10001041
+    campaign: -54
+    title: O6
+    start: -54-O-6
+  }
+  {
+    id: 1042
+    mission_id: "11201"
+    description: story_util-10001042
+    campaign: -54
+    title: O7
+    start: -54-O-7
+  }
+  {
+    id: 1043
+    mission_id: "11202"
+    description: story_util-10001043
+    campaign: -54
+    title: O8
+    start: -54-O-8
+  }
+  {
+    id: 1044
+    mission_id: "11203"
+    description: story_util-10001044
+    campaign: -54
+    title: O9
+    start: -54-O-9
+  }
+  {
+    id: 1045
+    mission_id: "11204"
+    description: story_util-10001045
+    campaign: -54
+    title: O10
+    start: -54-O-10
+  }
+  {
+    id: 1046
+    mission_id: "11205"
+    description: story_util-10001046
+    campaign: -54
+    title: O11
+    start: -54-O-11
+  }
+  {
+    id: 1047
+    mission_id: "11206"
+    description: story_util-10001047
+    campaign: -54
+    title: O12
+    start: -54-O-12
+  }
+  {
+    id: 1048
+    mission_id: "11207"
+    description: story_util-10001048
+    campaign: -54
+    title: O13
+    start: -54-O-13
+  }
+  {
+    id: 1049
+    mission_id: "11208"
+    description: story_util-10001049
+    campaign: -54
+    title: O14
+    start: -54-O-14
+  }
+  {
+    id: 1050
+    mission_id: "11209"
+    description: story_util-10001050
+    campaign: -54
+    title: O15
+    start: -54-O-15
+  }
+  {
+    id: 1051
+    mission_id: "11211"
+    description: story_util-10001051
+    campaign: -54
+    title: T1
+    start: -54-T-1
+  }
+  {
+    id: 1052
+    mission_id: "11212"
+    description: story_util-10001052
+    campaign: -54
+    title: T2
+    start: -54-T-2
+  }
+  {
+    id: 1053
+    mission_id: "11213"
+    description: story_util-10001053
+    campaign: -54
+    title: T3
+    start: -54-T-3
+  }
+  {
+    id: 1054
+    mission_id: "11214"
+    description: story_util-10001054
+    campaign: -54
+    title: T4
+    start: -54-T-4
+  }
+  {
+    id: 1055
+    mission_id: "11215"
+    description: story_util-10001055
+    campaign: -54
+    title: W1
+    start: -54-W-1
+  }
+  {
+    id: 1056
+    mission_id: "11216"
+    description: story_util-10001056
+    campaign: -54
+    title: W2
+    start: -54-W-2
+  }
+  {
+    id: 1057
+    mission_id: "11217"
+    description: story_util-10001057
+    campaign: -54
+    title: W3
+    start: -54-W-3
+  }
+  {
+    id: 1058
+    mission_id: "11218"
+    description: story_util-10001058
+    campaign: -54
+    title: W4
+    start: -54-W-4
+  }
+  {
+    id: 1059
+    mission_id: "11219"
+    description: story_util-10001059
+    campaign: -54
+    title: N1
+    start: -54-N-1
+  }
+  {
+    id: 1060
+    mission_id: "11220"
+    description: story_util-10001060
+    campaign: -54
+    title: N2
+    start: -54-N-2
+  }
+  {
+    id: 1061
+    mission_id: "11221"
+    description: story_util-10001061
+    campaign: -54
+    title: N3
+    start: -54-N-3
+  }
+  {
+    id: 1062
+    mission_id: "11222"
+    description: story_util-10001062
+    campaign: -54
+    title: K1
+    start: -54-K-1
+  }
+  {
+    id: 1063
+    mission_id: "11223"
+    description: story_util-10001063
+    campaign: -54
+    title: K2
+    start: -54-K-2
+  }
+  {
+    id: 1064
+    mission_id: "11224"
+    description: story_util-10001064
+    campaign: -54
+    title: K3
+    start: -54-K-3
+  }
+  {
+    id: 1065
+    mission_id: "11225"
+    description: story_util-10001065
+    campaign: -54
+    title: K4
+    start: -54-K-4
+  }
+  {
+    id: 1066
+    mission_id: "11226"
+    description: story_util-10001066
+    campaign: -54
+    title: D1
+    start: -54-D-1
+  }
+  {
+    id: 1067
+    mission_id: "11227"
+    description: story_util-10001067
+    campaign: -54
+    title: D2
+    start: -54-D-2
+  }
+  {
+    id: 1068
+    mission_id: "11228"
+    description: story_util-10001068
+    campaign: -54
+    title: D3
+    start: -54-D-3
+  }
+  {
+    id: 1069
+    mission_id: "11229"
+    description: story_util-10001069
+    campaign: -54
+    title: D4
+    start: -54-D-4
+  }
+  {
+    id: 1070
+    mission_id: "11230"
+    description: story_util-10001070
+    campaign: -54
+    title: P1
+    start: -54-P-1
+  }
+  {
+    id: 1071
+    mission_id: "11231"
+    description: story_util-10001071
+    campaign: -54
+    title: P2
+    start: -54-P-2
+  }
+  {
+    id: 1072
+    mission_id: "11232"
+    description: story_util-10001072
+    campaign: -54
+    title: P3
+    start: -54-P-3
+  }
+  {
+    id: 1073
+    mission_id: "11210"
+    description: story_util-10001073
+    campaign: -54
+    title: A15
+    start: -54-A-15
   }
 ]

@@ -402,7 +402,6 @@
   {
     id: 67
     name: SV98 - 웨이트리스
-    item_ids: 41-100
     gift: 502-1
     content: prize-20000067
   }
@@ -29485,7 +29484,7 @@
   }
   {
     id: 17119
-    name: 바람 모래 그리고 별들 - 클리어 보상
+    name: 3-α2 바람 모래 그리고 별들 - 클리어 보상
     mp: 300
     ammo: 300
     mre: 300
@@ -29494,25 +29493,25 @@
   }
   {
     id: 17120
-    name: 샤콘 - 클리어 보상
+    name: 5-α6 샤콘 - 클리어 보상
     gift: 200001-100
     content: prize-20017120
   }
   {
     id: 17121
-    name: 스트라디바리우스 매직 - 클리어 보상
+    name: 5-α8 스트라디바리우스 매직 - 클리어 보상
     content: prize-20017121
     fairy_ids: 26-0-100-5
   }
   {
     id: 17122
-    name: 자라투스트라는 이렇게 말했다 - 클리어 보상
+    name: 26 자라투스트라는 이렇게 말했다 - 클리어 보상
     coins: 1-200
     content: prize-20017122
   }
   {
     id: 17123
-    name: 샤콘-EX - 클리어 보상
+    name: 5-α6 샤콘-EX - 클리어 보상
     mp: 300
     ammo: 300
     mre: 300
@@ -29521,67 +29520,67 @@
   }
   {
     id: 17124
-    name: 스트라디바리우스 매직-EX - 클리어 보상
+    name: 5-α8 스트라디바리우스 매직-EX - 클리어 보상
     coins: 1-300
     content: prize-20017124
   }
   {
     id: 17125
-    name: 자라투스트라는 이렇게 말했다-EX - 클리어 보상
+    name: 26 자라투스트라는 이렇게 말했다-EX - 클리어 보상
     item_ids: 44-100
     content: prize-20017125
   }
   {
     id: 17126
-    name: 샤콘-UX - 클리어 보상
+    name: 5-α6 샤콘-UX - 클리어 보상
     content: prize-20017126
     fairy_ids: 26-0-100-5
   }
   {
     id: 17127
-    name: 스트라디바리우스 매직-UX - 클리어 보상
+    name: 5-α8 스트라디바리우스 매직-UX - 클리어 보상
     item_ids: 44-150
     content: prize-20017127
   }
   {
     id: 17128
-    name: 자라투스트라는 이렇게 말했다-UX - 클리어 보상
+    name: 26 자라투스트라는 이렇게 말했다-UX - 클리어 보상
     core: 10
     content: prize-20017128
   }
   {
     id: 17129
-    name: 교향곡 2번 C장조  - 클리어 보상
+    name: 3-β2 교향곡 2번 C장조 - 클리어 보상
     item_ids: 51-2
     content: prize-20017129
   }
   {
     id: 17130
-    name: 교향곡 9번 - 클리어 보상
+    name: 5-β6 교향곡 9번 - 클리어 보상
     content: prize-20017130
     fairy_ids: 26-0-100-5
   }
   {
     id: 17131
-    name: 불의 새 - 클리어 보상
+    name: 5-β8 불의 새 - 클리어 보상
     coins: 2-200
     content: prize-20017131
   }
   {
     id: 17132
-    name: 골트베르크 변주곡 - 클리어 보상
+    name: 13 골트베르크 변주곡 - 클리어 보상
     core: 5
     content: prize-20017132
   }
   {
     id: 17133
-    name: 민둥산의 하룻밤 - 클리어 보상
+    name: 22 민둥산의 하룻밤 - 클리어 보상
     gun_id: "369"
     content: prize-20017133
   }
   {
     id: 17134
-    name: 교향곡 9번-EX - 클리어 보상
+    name: 5-β6 교향곡 9번-EX - 클리어 보상
     mp: 300
     ammo: 300
     mre: 300
@@ -29590,91 +29589,91 @@
   }
   {
     id: 17135
-    name: 불의 새-EX - 클리어 보상
+    name: 5-β8 불의 새-EX - 클리어 보상
     content: prize-20017135
     fairy_ids: 26-0-100-5
   }
   {
     id: 17136
-    name: 골트베르크 변주곡-EX - 클리어 보상
+    name: 13 골트베르크 변주곡-EX - 클리어 보상
     item_ids: 46-100
     content: prize-20017136
   }
   {
     id: 17137
-    name: 민둥산의 하룻밤-EX - 클리어 보상
+    name: 22 민둥산의 하룻밤-EX - 클리어 보상
     coins: 2-300
     content: prize-20017137
   }
   {
     id: 17138
-    name: 교향곡 9번-UX - 클리어 보상
+    name: 5-β6 교향곡 9번-UX - 클리어 보상
     core: 10
     content: prize-20017138
   }
   {
     id: 17139
-    name: 불의 새-UX - 클리어 보상
+    name: 5-β8 불의 새-UX - 클리어 보상
     item_ids: 14-100
     content: prize-20017139
   }
   {
     id: 17140
-    name: 골트베르크 변주곡-UX - 클리어 보상
+    name: 13 골트베르크 변주곡-UX - 클리어 보상
     item_ids: 51-2
     content: prize-20017140
   }
   {
     id: 17141
-    name: 민둥산의 하룻밤-UX - 클리어 보상
+    name: 22 민둥산의 하룻밤-UX - 클리어 보상
     item_ids: 45-100
     content: prize-20017141
   }
   {
     id: 17142
-    name: 쿠랑트 - 클리어 보상
+    name: 3-γ2 쿠랑트 - 클리어 보상
     item_ids: 51-2
     content: prize-20017142
   }
   {
     id: 17143
-    name: 고통의 순간 - 클리어 보상
+    name: 5-γ6 고통의 순간 - 클리어 보상
     coins: 3-200
     content: prize-20017143
   }
   {
     id: 17144
-    name: 돌아오라 소렌토로 - 클리어 보상
+    name: 5-γ8 돌아오라 소렌토로 - 클리어 보상
     content: prize-20017144
     fairy_ids: 26-0-100-5
   }
   {
     id: 17145
-    name: 유령 - 클리어 보상
+    name: 9 유령 - 클리어 보상
     gun_id: "370"
     content: prize-20017145
   }
   {
     id: 17146
-    name: 교향곡 6번 - 클리어 보상
+    name: 30 교향곡 6번 - 클리어 보상
     item_ids: 41-30
     content: prize-20017146
   }
   {
     id: 17147
-    name: 1812년 서곡 - 클리어 보상
+    name: 32 1812년 서곡 - 클리어 보상
     item_ids: 51-2
     content: prize-20017147
   }
   {
     id: 17148
-    name: 고통의 순간-EX - 클리어 보상
+    name: 5-γ6 고통의 순간-EX - 클리어 보상
     item_ids: 51-2
     content: prize-20017148
   }
   {
     id: 17149
-    name: 돌아오라 소렌토로-EX - 클리어 보상
+    name: 5-γ8 돌아오라 소렌토로-EX - 클리어 보상
     mp: 300
     ammo: 300
     mre: 300
@@ -29683,49 +29682,49 @@
   }
   {
     id: 17150
-    name: 유령-EX - 클리어 보상
+    name: 9 유령-EX - 클리어 보상
     item_ids: 44-150
     content: prize-20017150
   }
   {
     id: 17151
-    name: 교향곡 6번-EX - 클리어 보상
+    name: 30 교향곡 6번-EX - 클리어 보상
     item_ids: 9-50
     content: prize-20017151
   }
   {
     id: 17152
-    name: 1812년 서곡-EX - 클리어 보상
+    name: 32 1812년 서곡-EX - 클리어 보상
     coins: 3-300
     content: prize-20017152
   }
   {
     id: 17153
-    name: 고통의 순간-UX - 클리어 보상
+    name: 5-γ6 고통의 순간-UX - 클리어 보상
     core: 10
     content: prize-20017153
   }
   {
     id: 17154
-    name: 돌아오라 소렌토로-UX - 클리어 보상
+    name: 5-γ8 돌아오라 소렌토로-UX - 클리어 보상
     item_ids: 15-100
     content: prize-20017154
   }
   {
     id: 17155
-    name: 유령-UX - 클리어 보상
+    name: 9 유령-UX - 클리어 보상
     item_ids: 41-30
     content: prize-20017155
   }
   {
     id: 17156
-    name: 교향곡 6번-UX - 클리어 보상
+    name: 30 교향곡 6번-UX - 클리어 보상
     item_ids: 45-100
     content: prize-20017156
   }
   {
     id: 17157
-    name: 1812년 서곡-UX - 클리어 보상
+    name: 32 1812년 서곡-UX - 클리어 보상
     item_ids: 112-1
     furniture: "20075"
     content: prize-20017157
@@ -29786,7 +29785,7 @@
   }
   {
     id: 17166
-    name: 열차 시간표 - 클리어 보상
+    name: 1 열차 시간표 - 클리어 보상
     mp: 100
     ammo: 100
     mre: 100
@@ -29795,7 +29794,7 @@
   }
   {
     id: 17167
-    name: 왈츠 A단조 - 클리어 보상
+    name: 3-α1 왈츠 A단조 - 클리어 보상
     mp: 100
     ammo: 100
     mre: 100
@@ -29804,19 +29803,19 @@
   }
   {
     id: 17168
-    name: 빗방울 - 클리어 보상
+    name: 3-α3 빗방울 - 클리어 보상
     item_ids: 525-10
     content: prize-20017168
   }
   {
     id: 17169
-    name: 소전주곡 G단조 - 클리어 보상
+    name: 3-α4 소전주곡 G단조 - 클리어 보상
     item_ids: 45-50
     content: prize-20017169
   }
   {
     id: 17170
-    name: 월광 소나타 - 클리어 보상
+    name: 5-α5 월광 소나타 - 클리어 보상
     mp: 200
     ammo: 200
     mre: 200
@@ -29825,43 +29824,43 @@
   }
   {
     id: 17171
-    name: 겨울 - 클리어 보상
+    name: 5-α7 겨울 - 클리어 보상
     item_ids: 41-30
     content: prize-20017171
   }
   {
     id: 17172
-    name: 대협주곡 A장조 - 클리어 보상
+    name: 16 대협주곡 A장조 - 클리어 보상
     item_ids: 2146-1
     content: prize-20017172
   }
   {
     id: 17173
-    name: 브람스 간주곡 - 클리어 보상
+    name: 17 브람스 간주곡 - 클리어 보상
     item_ids: 9-50
     content: prize-20017173
   }
   {
     id: 17174
-    name: 백조 - 클리어 보상
+    name: 18 백조 - 클리어 보상
     coins: 1-100
     content: prize-20017174
   }
   {
     id: 17175
-    name: 루슬란과 류드밀라 - 클리어 보상
+    name: 25 루슬란과 류드밀라 - 클리어 보상
     item_ids: 2153-1
     content: prize-20017175
   }
   {
     id: 17176
-    name: 발퀴레의 기승 - 클리어 보상
+    name: 27 발퀴레의 기승 - 클리어 보상
     item_ids: 2150-1
     content: prize-20017176
   }
   {
     id: 17177
-    name: 진이 한잔 마셨네 - 클리어 보상
+    name: 3-β1 진이 한잔 마셨네 - 클리어 보상
     mp: 100
     ammo: 100
     mre: 100
@@ -29870,19 +29869,19 @@
   }
   {
     id: 17178
-    name: 교향곡 3번 - 클리어 보상
+    name: 3-β3 교향곡 3번 - 클리어 보상
     item_ids: 525-10
     content: prize-20017178
   }
   {
     id: 17179
-    name: 서주와 론도 카프리치오소 - 클리어 보상
+    name: 5-β4 서주와 론도 카프리치오소 - 클리어 보상
     item_ids: 45-50
     content: prize-20017179
   }
   {
     id: 17180
-    name: 죽음의 무도 - 클리어 보상
+    name: 5-β5 죽음의 무도 - 클리어 보상
     mp: 200
     ammo: 200
     mre: 200
@@ -29891,37 +29890,37 @@
   }
   {
     id: 17181
-    name: 카발레리아 루스티카나 - 클리어 보상
+    name: 5-β7 카발레리아 루스티카나 - 클리어 보상
     item_ids: 41-30
     content: prize-20017181
   }
   {
     id: 17182
-    name: 그노시엔느 1번 - 클리어 보상
+    name: 12 그노시엔느 1번 - 클리어 보상
     item_ids: 9-50
     content: prize-20017182
   }
   {
     id: 17183
-    name: 발라드 G단조 - 클리어 보상
+    name: 14 발라드 G단조 - 클리어 보상
     item_ids: 15-50
     content: prize-20017183
   }
   {
     id: 17184
-    name: 시계 - 클리어 보상
+    name: 21 시계 - 클리어 보상
     item_ids: 14-50
     content: prize-20017184
   }
   {
     id: 17185
-    name: 표현 - 클리어 보상
+    name: 23 표현 - 클리어 보상
     coins: 2-100
     content: prize-20017185
   }
   {
     id: 17186
-    name: 타이스 명상곡 - 클리어 보상
+    name: 3-γ1 타이스 명상곡 - 클리어 보상
     mp: 100
     ammo: 100
     mre: 100
@@ -29930,19 +29929,19 @@
   }
   {
     id: 17187
-    name: 블라디미르 블루스 - 클리어 보상
+    name: 3-γ3 블라디미르 블루스 - 클리어 보상
     item_ids: 525-10
     content: prize-20017187
   }
   {
     id: 17188
-    name: 평균율 클라비어 전주곡 - 클리어 보상
+    name: 3-γ4 평균율 클라비어 전주곡 - 클리어 보상
     item_ids: 45-50
     content: prize-20017188
   }
   {
     id: 17189
-    name: 카나리아 - 클리어 보상
+    name: 5-γ5 카나리아 - 클리어 보상
     mp: 200
     ammo: 200
     mre: 200
@@ -29951,133 +29950,133 @@
   }
   {
     id: 17190
-    name: 합창 환상곡 - 클리어 보상
+    name: 5-γ7 합창 환상곡 - 클리어 보상
     item_ids: 41-30
     content: prize-20017190
   }
   {
     id: 17191
-    name: 파가니니 주제에 의한 광시곡 - 클리어 보상
+    name: 8 파가니니 주제에 의한 광시곡 - 클리어 보상
     item_ids: 2148-1
     content: prize-20017191
   }
   {
     id: 17192
-    name: 조화의 영감 - 클리어 보상
+    name: 10 조화의 영감 - 클리어 보상
     item_ids: 2149-1
     content: prize-20017192
   }
   {
     id: 17193
-    name: 여름 협주곡 - 클리어 보상
+    name: 29 여름 협주곡 - 클리어 보상
     item_ids: 15-50
     content: prize-20017193
   }
   {
     id: 17194
-    name: 치고이너바이젠 - 클리어 보상
+    name: 31 치고이너바이젠 - 클리어 보상
     item_ids: 2147-1
     content: prize-20017194
   }
   {
     id: 17195
-    name: G선상의 아리아 - 클리어 보상
+    name: 33 G선상의 아리아 - 클리어 보상
     item_ids: 2154-1
     content: prize-20017195
   }
   {
     id: 17196
-    name: 복사 농도 경보기 - 클리어 보상
+    name: 2 복사 농도 경보기 - 클리어 보상
     item_ids: 2151-1
     content: prize-20017196
   }
   {
     id: 17197
-    name: 바 카운터 - 클리어 보상
+    name: 3 바 카운터 - 클리어 보상
     coins: 1-100
     content: prize-20017197
   }
   {
     id: 17198
-    name: 클래식 축음기 - 클리어 보상
+    name: 4 클래식 축음기 - 클리어 보상
     furniture: "20064"
     content: prize-20017198
   }
   {
     id: 17199
-    name: 화장실 - 클리어 보상
+    name: 5 화장실 - 클리어 보상
     item_ids: 506-200
     content: prize-20017199
   }
   {
     id: 17200
-    name: 표준시 시계 - 클리어 보상
+    name: 6 표준시 시계 - 클리어 보상
     furniture: "20063"
     content: prize-20017200
   }
   {
     id: 17201
-    name: 특등실로 향하는 문 - 클리어 보상
+    name: 7 특등실로 향하는 문 - 클리어 보상
     coins: 2-100
     content: prize-20017201
   }
   {
     id: 17202
-    name: 대형 짐 선반 - 클리어 보상
+    name: 11 대형 짐 선반 - 클리어 보상
     furniture: "20067"
     content: prize-20017202
   }
   {
     id: 17203
-    name: 열차 창문 - 클리어 보상
+    name: 15 열차 창문 - 클리어 보상
     item_ids: 14-50
     content: prize-20017203
   }
   {
     id: 17204
-    name: 탁상의 단아한 꽃다발 - 클리어 보상
+    name: 19 탁상의 단아한 꽃다발 - 클리어 보상
     furniture: "20068"
     content: prize-20017204
   }
   {
     id: 17205
-    name: 면세품 카트 - 클리어 보상
+    name: 20 판매용 카트 - 클리어 보상
     coins: 3-100
     content: prize-20017205
   }
   {
     id: 17206
-    name: 차 안의 낙서 - 클리어 보상
+    name: 24 차 안의 낙서 - 클리어 보상
     item_ids: 2155-1
     content: prize-20017206
   }
   {
     id: 17207
-    name: 준비실 수리 - 클리어 보상
+    name: 28 정비작업실 - 클리어 보상
     item_ids: 41-30
     content: prize-20017207
   }
   {
     id: 17208
-    name: 지붕으로 나가는 문 - 클리어 보상
+    name: 34 지붕으로 나가는 문 - 클리어 보상
     item_ids: 2156-1
     content: prize-20017208
   }
   {
     id: 17209
-    name: 벽걸이 스크린 - 클리어 보상
+    name: 35 벽걸이 스크린 - 클리어 보상
     item_ids: 100155-1
     content: prize-20017209
   }
   {
     id: 17210
-    name: 빛의 소리 - 클리어 보상
+    name: 36 빛의 소리 - 클리어 보상
     item_ids: 45-100
     content: prize-20017210
   }
   {
     id: 17211
-    name: 연습곡 2번 - 클리어 보상
+    name: 35-T1 연습곡 2번 - 클리어 보상
     mp: 200
     ammo: 200
     mre: 200
@@ -30086,25 +30085,25 @@
   }
   {
     id: 17212
-    name: 전주곡 5번 - 클리어 보상
+    name: 35-T2 전주곡 5번 - 클리어 보상
     item_ids: 2144-1
     content: prize-20017212
   }
   {
     id: 17213
-    name: 로맨스 - 클리어 보상
+    name: 35-T3 로맨스 - 클리어 보상
     item_ids: 525-10
     content: prize-20017213
   }
   {
     id: 17214
-    name: 악흥의 순간 - 클리어 보상
+    name: 35-T4 악흥의 순간 - 클리어 보상
     item_ids: 45-100
     content: prize-20017214
   }
   {
     id: 17215
-    name: 솔베이지의 노래 - 클리어 보상
+    name: 35-W1 솔베이지의 노래 - 클리어 보상
     mp: 100
     ammo: 100
     mre: 100
@@ -30113,25 +30112,25 @@
   }
   {
     id: 17216
-    name: 클라리넷 협주곡 - 클리어 보상
+    name: 35-W2 클라리넷 협주곡 - 클리어 보상
     item_ids: 2145-1
     content: prize-20017216
   }
   {
     id: 17217
-    name: 만토바 여행 - 클리어 보상
+    name: 35-W3 만토바 여행 - 클리어 보상
     item_ids: 525-10
     content: prize-20017217
   }
   {
     id: 17218
-    name: 이별곡 - 클리어 보상
+    name: 35-W4 이별곡 - 클리어 보상
     item_ids: 45-100
     content: prize-20017218
   }
   {
     id: 17219
-    name: 환상 즉흥곡 - 클리어 보상
+    name: 35-N1 환상 즉흥곡 - 클리어 보상
     mp: 100
     ammo: 100
     mre: 100
@@ -30140,19 +30139,19 @@
   }
   {
     id: 17220
-    name: 스프링 소나타 - 클리어 보상
+    name: 35-N2 스프링 소나타 - 클리어 보상
     furniture: "20065"
     content: prize-20017220
   }
   {
     id: 17221
-    name: 미뉴에트 - 클리어 보상
+    name: 35-N3 미뉴에트 - 클리어 보상
     item_ids: 45-100
     content: prize-20017221
   }
   {
     id: 17222
-    name: 짐노페디 - 클리어 보상
+    name: 35-C1 짐노페디 - 클리어 보상
     mp: 100
     ammo: 100
     mre: 100
@@ -30161,25 +30160,25 @@
   }
   {
     id: 17223
-    name: 문 리버 - 클리어 보상
+    name: 35-C2 문 리버 - 클리어 보상
     furniture: "20066"
     content: prize-20017223
   }
   {
     id: 17224
-    name: 별이 빛나는 밤 - 클리어 보상
+    name: 35-C3 별이 빛나는 밤 - 클리어 보상
     item_ids: 2152-1
     content: prize-20017224
   }
   {
     id: 17225
-    name: 오 솔레 미오 - 클리어 보상
+    name: 35-C4 오 솔레 미오 - 클리어 보상
     item_ids: 45-100
     content: prize-20017225
   }
   {
     id: 17226
-    name: 치간 - 클리어 보상
+    name: 35-R1 치간 - 클리어 보상
     mp: 100
     ammo: 100
     mre: 100
@@ -30188,25 +30187,25 @@
   }
   {
     id: 17227
-    name: 여름 저녁 - 클리어 보상
+    name: 35-R2 여름 저녁 - 클리어 보상
     item_ids: 46-100
     content: prize-20017227
   }
   {
     id: 17228
-    name: 피아노 오중주 B단조 - 클리어 보상
+    name: 35-R3 피아노 오중주 B단조 - 클리어 보상
     item_ids: 525-10
     content: prize-20017228
   }
   {
     id: 17229
-    name: 피아노 협주곡 F단조 - 클리어 보상
+    name: 35-R4 피아노 협주곡 F단조 - 클리어 보상
     item_ids: 45-100
     content: prize-20017229
   }
   {
     id: 17230
-    name: 작은별 변주곡 - 클리어 보상
+    name: 35-P1 작은별 변주곡 - 클리어 보상
     mp: 100
     ammo: 100
     mre: 100
@@ -30215,13 +30214,13 @@
   }
   {
     id: 17231
-    name: 죽음과 소녀 - 클리어 보상
+    name: 35-P2 죽음과 소녀 - 클리어 보상
     coins: 3-100
     content: prize-20017231
   }
   {
     id: 17232
-    name: 사랑의 인사 - 클리어 보상
+    name: 35-P3 사랑의 인사 - 클리어 보상
     item_ids: 45-100
     content: prize-20017232
   }

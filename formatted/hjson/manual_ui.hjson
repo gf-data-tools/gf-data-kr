@@ -1565,6 +1565,173 @@
     is_manual_target: 2
   }
   {
+    id: 541212
+    code_a: AR18_NPC
+    description_a: 아군 제대
+    description_b: 의상
+    description_c: 갈아입기
+    code_b: Console_Icon
+  }
+  {
+    id: 541213
+    code_a: AR18_NPC
+    description_a: 아군 제대
+    description_b: 바 카운터
+    description_c: 한잔해
+    code_b: Console_Icon
+  }
+  {
+    id: 541222
+    code_a: AR18_NPC
+    description_a: 아군 제대
+    description_b: 비밀의 방
+    description_c: 확인
+    code_b: Console_Icon
+  }
+  {
+    id: 541311
+    code_a: AR18_NPC
+    description_a: 아군 제대
+    description_b: 공습 유도
+    description_c: 유도 개시
+    code_b: Console_Icon
+  }
+  {
+    id: 541313
+    code_a: Boomer
+    description_a: 아군 제대
+    description_b: 골리앗
+    description_c: 투척
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 541314
+    code_a: Boomer
+    description_a: 아군 제대
+    description_b: 골리앗
+    description_c: 줍기
+    code_b: Console_Icon
+  }
+  {
+    id: 541411
+    code_a: 2022_Bikini_Fireworks
+    description_a: 아군 제대
+    description_b: 폭죽
+    description_c: 발사
+    code_b: Console_Icon
+  }
+  {
+    id: 541412
+    code_a: LiftBlue
+    description_a: 아군 제대
+    description_b: 엘리베이터
+    description_c: 탑승
+    code_b: Console_Icon
+  }
+  {
+    id: 542402
+    code_a: ColtWalker_NPC
+    description_a: 아군 제대
+    description_b: 보안 인증
+    description_c: 해독
+    code_b: Console_Icon
+  }
+  {
+    id: 542411
+    code_a: ColtWalker_NPC
+    description_a: 아군 제대
+    description_b: 거울상 노드
+    description_c: 배치
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 542711
+    code_a: Erma_NPC
+    description_a: 아군 제대
+    description_b: 이탈 지점
+    description_c: 탈출
+    code_b: Console_Icon
+  }
+  {
+    id: 543921
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 모드
+    description_c: 전환
+    code_b: Console_Icon
+  }
+  {
+    id: 544111
+    code_a: ColtWalker_NPC
+    description_a: 아군 제대
+    description_b: 전송 노드
+    description_c: 배치
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 544112
+    code_a: ColtWalker_NPC
+    description_a: 아군 제대
+    description_b: 교란장치
+    description_c: 가동
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 544113
+    code_a: Door_Left_S
+    description_a: 아군 제대
+    description_b: 차단문
+    description_c: 가동
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 544114
+    code_a: Build_PortableEMP
+    description_a: 아군 제대
+    description_b: 마인드 충격탄
+    description_c: 줍기
+    code_b: Console_Icon
+  }
+  {
+    id: 544124
+    code_a: Build_PortableEMP
+    description_a: 아군 제대
+    description_b: 마인드 충격탄
+    description_c: 투척
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 544211
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 손목시계
+    description_c: 줍기
+    code_b: Console_Icon
+  }
+  {
+    id: 544212
+    code_a: tong
+    description_a: 아군 제대
+    description_b: 기름
+    description_c: 줍기
+    code_b: Console_Icon
+  }
+  {
+    id: 544213
+    code_a: tong
+    description_a: 아군 제대
+    description_b: 숲
+    description_c: 점화
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
     id: 1000101
     code_a: Rock
     description_a: 아군 제대
@@ -4255,6 +4422,229 @@
     description_b: 폭죽
     description_c: 발사
     code_b: Console_Icon
+  }
+  {
+    id: 6540001
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 제어콘솔
+    description_c: 좌상
+    code_b: Console_Icon
+  }
+  {
+    id: 6540002
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 제어콘솔
+    description_c: 우상
+    code_b: Console_Icon
+  }
+  {
+    id: 6540003
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 제어콘솔
+    description_c: 좌하
+    code_b: Console_Icon
+  }
+  {
+    id: 6540004
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 제어콘솔
+    description_c: 우하
+    code_b: Console_Icon
+  }
+  {
+    id: 6540005
+    code_a: a545-npc
+    description_a: 아군 제대
+    description_b: 낮별
+    description_c: 임무
+    code_b: Console_Icon
+  }
+  {
+    id: 6540006
+    code_a: pkp-npc
+    description_a: 아군 제대
+    description_b: 새벽별팀
+    description_c: 임무
+    code_b: Console_Icon
+  }
+  {
+    id: 6540007
+    code_a: pm1910-npc
+    description_a: 아군 제대
+    description_b: 저녁별팀
+    description_c: 임무
+    code_b: Console_Icon
+  }
+  {
+    id: 6540008
+    code_a: AR18_NPC
+    description_a: 아군 제대
+    description_b: 밤별
+    description_c: 임무
+    code_b: Console_Icon
+  }
+  {
+    id: 6540009
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 제어콘솔
+    description_c: 조작
+    code_b: Console_Icon
+  }
+  {
+    id: 6540010
+    code_a: a545-npc
+    description_a: 아군 제대
+    description_b: 낮별
+    description_c: 권한 획득
+    code_b: Console_Icon
+  }
+  {
+    id: 6540011
+    code_a: pkp-npc
+    description_a: 아군 제대
+    description_b: 새벽별팀
+    description_c: 권한 획득
+    code_b: Console_Icon
+  }
+  {
+    id: 6540012
+    code_a: pm1910-npc
+    description_a: 아군 제대
+    description_b: 저녁별팀
+    description_c: 권한 획득
+    code_b: Console_Icon
+  }
+  {
+    id: 6540013
+    code_a: AR18_NPC
+    description_a: 아군 제대
+    description_b: 밤별
+    description_c: 권한 획득
+    code_b: Console_Icon
+  }
+  {
+    id: 6540014
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 미사일
+    description_c: 폭격
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6540015
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 조명탄
+    description_c: 조명
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6540016
+    code_a: PortableEMP_Nobase
+    description_a: 아군 제대
+    description_b: emp폭탄
+    description_c: emp 투척
+    code_b: Console_Icon
+    is_manual_target: 1
+  }
+  {
+    id: 6540017
+    code_a: Boomer
+    description_a: 아군 제대
+    description_b: 골리앗
+    description_c: 투척
+    code_b: Console_Icon
+    is_manual_target: 1
+  }
+  {
+    id: 6540018
+    code_a: Viscosity_Bomb
+    description_a: 아군 제대
+    description_b: 성형폭탄
+    description_c: 설치
+    code_b: Console_Icon
+  }
+  {
+    id: 6540019
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 차단문
+    description_c: 열기
+    code_b: Console_Icon
+  }
+  {
+    id: 6540020
+    code_a: Boomer
+    description_a: 아군 제대
+    description_b: 골리앗
+    description_c: 줍기
+    code_b: Console_Icon
+  }
+  {
+    id: 6540021
+    code_a: Boomer
+    description_a: 아군 제대
+    description_b: 골리앗
+    description_c: 투척
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6540022
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 제어콘솔
+    description_c: 해독
+    code_b: Console_Icon
+  }
+  {
+    id: 6540023
+    code_a: Viscosity_Bomb
+    description_a: 아군 제대
+    description_b: 성형폭탄
+    description_c: 줍기
+    code_b: Console_Icon
+  }
+  {
+    id: 6540024
+    code_a: Viscosity_Bomb
+    description_a: 아군 제대
+    description_b: 성형폭탄
+    description_c: 투척
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6540025
+    code_a: ColtWalker_NPC
+    description_a: 아군 제대
+    description_b: 매기
+    description_c: 해킹
+    code_b: Console_Icon
+  }
+  {
+    id: 6540026
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 울프팩
+    description_c: 해석
+    code_b: Console_Icon
+  }
+  {
+    id: 6540027
+    code_a: Erma_NPC
+    description_a: 아군 제대
+    description_b: 엘마
+    description_c: 버리기
+    code_b: Console_Icon
+    is_manual_target: 2
   }
   {
     id: 8120301
