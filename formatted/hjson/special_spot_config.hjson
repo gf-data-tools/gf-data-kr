@@ -9379,7 +9379,7 @@
   }
   {
     id: 540400
-    name: special_spot_config-10540400
+    name: 【标记】失败
     description: special_spot_config-20540400
     code: TargetPoint_Radar
     priority: 1
@@ -9398,7 +9398,7 @@
   }
   {
     id: 541200
-    name: special_spot_config-10541200
+    name: 【标记】无敌
     description: special_spot_config-20541200
     priority: 1
     duration_type: "3"
@@ -9418,7 +9418,7 @@
   }
   {
     id: 541201
-    name: special_spot_config-10541201
+    name: 【标记】扒衣检测
     description: special_spot_config-20541201
     priority: 1
     duration_type: "1"
@@ -9437,7 +9437,7 @@
   }
   {
     id: 541204
-    name: special_spot_config-10541204
+    name: 【标记】吧台
     description: special_spot_config-20541204
     priority: 1
     duration_type: "1"
@@ -9455,7 +9455,7 @@
   }
   {
     id: 541205
-    name: special_spot_config-10541205
+    name: "[avg]-54-EXT-A3"
     description: special_spot_config-20541205
     priority: 1
     duration_type: "1"
@@ -9473,7 +9473,7 @@
   }
   {
     id: 541213
-    name: special_spot_config-10541213
+    name: "[avg]-54-EXT-A3-2"
     description: special_spot_config-20541213
     priority: 1
     duration_type: "1"
@@ -9491,7 +9491,7 @@
   }
   {
     id: 541300
-    name: special_spot_config-10541300
+    name: 히드라
     description: special_spot_config-20541300
     code: Hydra
     priority: -1
@@ -9510,7 +9510,7 @@
   }
   {
     id: 541302
-    name: special_spot_config-10541302
+    name: 【标记】炮击阵地
     description: special_spot_config-20541302
     code: MissileLauncher
     priority: 1
@@ -9529,7 +9529,7 @@
   }
   {
     id: 541303
-    name: special_spot_config-10541303
+    name: 【标记】乱石堆
     description: special_spot_config-20541303
     priority: 1
     duration_type: "1"
@@ -9549,7 +9549,7 @@
   }
   {
     id: 541311
-    name: special_spot_config-10541311
+    name: 【标记】空袭引导
     description: special_spot_config-20541311
     priority: 1
     duration_type: "3"
@@ -9571,7 +9571,7 @@
   }
   {
     id: 541321
-    name: special_spot_config-10541321
+    name: 【标记】净化一切
     description: special_spot_config-20541321
     priority: 2
     duration_type: "1"
@@ -9592,7 +9592,7 @@
   }
   {
     id: 541331
-    name: special_spot_config-10541331
+    name: 【标记】净化一切
     description: special_spot_config-20541331
     priority: 1
     duration_type: "1"
@@ -9610,7 +9610,7 @@
   }
   {
     id: 541341
-    name: special_spot_config-10541341
+    name: 【标记】净化一切
     description: special_spot_config-20541341
     priority: 1
     duration_type: "1"
@@ -9629,7 +9629,7 @@
   }
   {
     id: 541351
-    name: special_spot_config-10541351
+    name: "[avg]-54-A-13Point1"
     description: special_spot_config-20541351
     priority: 1
     duration_type: "1"
@@ -9647,7 +9647,7 @@
   }
   {
     id: 541402
-    name: special_spot_config-10541402
+    name: 【标记】电梯
     description: special_spot_config-20541402
     priority: 1
     duration_type: "1"
@@ -9665,7 +9665,7 @@
   }
   {
     id: 541403
-    name: special_spot_config-10541403
+    name: 【标记】电梯
     description: special_spot_config-20541403
     priority: 1
     duration_type: "1"
@@ -9683,7 +9683,7 @@
   }
   {
     id: 541404
-    name: special_spot_config-10541404
+    name: 【标记】电梯
     description: special_spot_config-20541404
     priority: 1
     duration_type: "1"
@@ -9701,7 +9701,7 @@
   }
   {
     id: 541411
-    name: special_spot_config-10541411
+    name: 【标记】烟花阻挡
     description: special_spot_config-20541411
     priority: 1
     duration_type: "1"
@@ -9722,7 +9722,7 @@
   }
   {
     id: 542401
-    name: special_spot_config-10542401
+    name: 【标记】传送点
     description: special_spot_config-20542401
     priority: 1
     duration_type: "1"
@@ -9741,7 +9741,7 @@
   }
   {
     id: 542402
-    name: special_spot_config-10542402
+    name: "[avg]-54-EXT-B3-1"
     description: special_spot_config-20542402
     priority: 1
     duration_type: "1"
@@ -9759,7 +9759,7 @@
   }
   {
     id: 542403
-    name: special_spot_config-10542403
+    name: "[avg]-54-EXT-B3-2"
     description: special_spot_config-20542403
     priority: 1
     duration_type: "1"
@@ -9777,7 +9777,7 @@
   }
   {
     id: 542404
-    name: special_spot_config-10542404
+    name: "[avg]-54-EXT-B3-3"
     description: special_spot_config-20542404
     priority: 1
     duration_type: "1"
@@ -9795,7 +9795,7 @@
   }
   {
     id: 542405
-    name: special_spot_config-10542405
+    name: "[avg]-54-EXT-B3-4"
     description: special_spot_config-20542405
     priority: 1
     duration_type: "1"
@@ -9813,7 +9813,7 @@
   }
   {
     id: 542410
-    name: special_spot_config-10542410
+    name: 안전 프로토콜 해독
     description: special_spot_config-20542410
     code: ColtWalker_NPC
     priority: -1
@@ -9832,7 +9832,7 @@
   }
   {
     id: 542411
-    name: special_spot_config-10542411
+    name: 【标记】传送点标记
     description: special_spot_config-20542411
     priority: 1
     duration_type: "1"
@@ -9850,7 +9850,7 @@
   }
   {
     id: 542711
-    name: special_spot_config-10542711
+    name: 철수
     description: special_spot_config-20542711
     code: TargetPoint_Radar
     priority: -1
@@ -9869,7 +9869,7 @@
   }
   {
     id: 542999
-    name: special_spot_config-10542999
+    name: 【标记】简单不刷怪兔子
     description: special_spot_config-20542999
     priority: 1
     duration_type: "1"
@@ -9887,7 +9887,7 @@
   }
   {
     id: 543499
-    name: special_spot_config-10543499
+    name: 【标记】困难不刷怪兔子
     description: special_spot_config-20543499
     priority: 1
     duration_type: "1"
@@ -9905,7 +9905,7 @@
   }
   {
     id: 543900
-    name: special_spot_config-10543900
+    name: 【标记】补刀兔子
     description: special_spot_config-20543900
     priority: 1
     duration_type: "1"
@@ -9923,7 +9923,7 @@
   }
   {
     id: 543901
-    name: special_spot_config-10543901
+    name: 【标记】控制台奇数
     description: special_spot_config-20543901
     priority: 1
     duration_type: "1"
@@ -9941,7 +9941,7 @@
   }
   {
     id: 543902
-    name: special_spot_config-10543902
+    name: 【标记】中心炮台
     description: special_spot_config-20543902
     priority: 1
     duration_type: "1"
@@ -9960,7 +9960,7 @@
   }
   {
     id: 543903
-    name: special_spot_config-10543903
+    name: 【标记】炮台开炮回合
     description: special_spot_config-20543903
     priority: 1
     duration_type: "1"
@@ -9980,7 +9980,7 @@
   }
   {
     id: 543904
-    name: special_spot_config-10543904
+    name: 【标记】炮台等待回合
     description: special_spot_config-20543904
     priority: 1
     duration_type: "1"
@@ -10000,7 +10000,7 @@
   }
   {
     id: 543909
-    name: special_spot_config-10543909
+    name: 【标记】临时炮台开炮回合
     description: special_spot_config-20543909
     priority: 1
     duration_type: "1"
@@ -10020,7 +10020,7 @@
   }
   {
     id: 543910
-    name: special_spot_config-10543910
+    name: 【标记】临时炮台等待回合
     description: special_spot_config-20543910
     priority: 1
     duration_type: "1"
@@ -10040,7 +10040,7 @@
   }
   {
     id: 543911
-    name: special_spot_config-10543911
+    name: 【标记】控制台偶数
     description: special_spot_config-20543911
     priority: 1
     duration_type: "1"
@@ -10058,7 +10058,7 @@
   }
   {
     id: 543912
-    name: special_spot_config-10543912
+    name: 【标记】中心炮台升起
     description: special_spot_config-20543912
     priority: 1
     duration_type: "1"
@@ -10078,7 +10078,7 @@
   }
   {
     id: 543913
-    name: special_spot_config-10543913
+    name: 【标记】每轮炮击兔子
     description: special_spot_config-20543913
     priority: 1
     duration_type: "1"
@@ -10097,7 +10097,7 @@
   }
   {
     id: 543914
-    name: special_spot_config-10543914
+    name: 【标记】这轮炮击兔子
     description: special_spot_config-20543914
     priority: 1
     duration_type: "1"
@@ -10116,7 +10116,7 @@
   }
   {
     id: 543915
-    name: special_spot_config-10543915
+    name: 【标记】下轮炮击兔子
     description: special_spot_config-20543915
     priority: 1
     duration_type: "1"
@@ -10134,7 +10134,7 @@
   }
   {
     id: 543916
-    name: special_spot_config-10543916
+    name: 【标记】临时每轮炮击兔子
     description: special_spot_config-20543916
     priority: 1
     duration_type: "1"
@@ -10153,7 +10153,7 @@
   }
   {
     id: 543917
-    name: special_spot_config-10543917
+    name: 【标记】临时这轮炮击兔子
     description: special_spot_config-20543917
     priority: 1
     duration_type: "1"
@@ -10172,7 +10172,7 @@
   }
   {
     id: 543918
-    name: special_spot_config-10543918
+    name: 【标记】临时下轮炮击兔子
     description: special_spot_config-20543918
     priority: 1
     duration_type: "1"
@@ -10190,7 +10190,7 @@
   }
   {
     id: 543919
-    name: special_spot_config-10543919
+    name: 【标记】一二这轮炮击兔子
     description: special_spot_config-20543919
     priority: 1
     duration_type: "1"
@@ -10209,7 +10209,7 @@
   }
   {
     id: 543920
-    name: special_spot_config-10543920
+    name: 【标记】常一每轮炮击兔子
     description: special_spot_config-20543920
     priority: 1
     duration_type: "1"
@@ -10228,7 +10228,7 @@
   }
   {
     id: 543929
-    name: special_spot_config-10543929
+    name: 【标记】一二下轮炮击兔子
     description: special_spot_config-20543929
     priority: 1
     duration_type: "1"
@@ -10246,7 +10246,7 @@
   }
   {
     id: 543999
-    name: special_spot_config-10543999
+    name: 【标记】噩梦不刷怪兔子
     description: special_spot_config-20543999
     priority: 1
     duration_type: "1"
@@ -10264,7 +10264,7 @@
   }
   {
     id: 544101
-    name: special_spot_config-10544101
+    name: 【标记】沃克1层
     description: special_spot_config-20544101
     priority: 1
     duration_type: "1"
@@ -10282,7 +10282,7 @@
   }
   {
     id: 544102
-    name: special_spot_config-10544102
+    name: 【标记】干扰器
     description: special_spot_config-20544102
     priority: 1
     duration_type: "1"
@@ -10301,7 +10301,7 @@
   }
   {
     id: 544103
-    name: special_spot_config-10544103
+    name: 【标记】临时防御门
     description: special_spot_config-20544103
     priority: 1
     duration_type: "1"
@@ -10319,7 +10319,7 @@
   }
   {
     id: 544111
-    name: special_spot_config-10544111
+    name: 【标记】1层传送门
     description: special_spot_config-20544111
     priority: 1
     duration_type: "1"
@@ -10338,7 +10338,7 @@
   }
   {
     id: 544113
-    name: special_spot_config-10544113
+    name: 【标记】防御门启动
     description: special_spot_config-20544113
     priority: 1
     duration_type: "1"
@@ -10358,7 +10358,7 @@
   }
   {
     id: 544121
-    name: special_spot_config-10544121
+    name: 【标记】2层传送门
     description: special_spot_config-20544121
     priority: 1
     duration_type: "1"
@@ -10377,7 +10377,7 @@
   }
   {
     id: 544124
-    name: special_spot_config-10544124
+    name: 【标记】减速恢复
     description: special_spot_config-20544124
     priority: 1
     duration_type: "1"
@@ -10395,7 +10395,7 @@
   }
   {
     id: 544201
-    name: special_spot_config-10544201
+    name: 【标记】手表初始化
     description: special_spot_config-20544201
     priority: 1
     duration_type: "1"
@@ -10414,7 +10414,7 @@
   }
   {
     id: 544202
-    name: special_spot_config-10544202
+    name: 【标记】油桶初始化
     description: special_spot_config-20544202
     priority: 1
     duration_type: "1"
@@ -10433,7 +10433,7 @@
   }
   {
     id: 544203
-    name: special_spot_config-10544203
+    name: 【标记】树林
     description: special_spot_config-20544203
     priority: 1
     duration_type: "1"
@@ -10452,7 +10452,7 @@
   }
   {
     id: 544204
-    name: special_spot_config-10544204
+    name: 【标记】噩梦刷怪兔子
     description: special_spot_config-20544204
     priority: 1
     duration_type: "1"
@@ -10470,7 +10470,7 @@
   }
   {
     id: 544211
-    name: special_spot_config-10544211
+    name: 【标记】可拾取
     description: special_spot_config-20544211
     priority: 1
     duration_type: "1"
@@ -10488,7 +10488,7 @@
   }
   {
     id: 544214
-    name: special_spot_config-10544214
+    name: 【标记】噩梦刷怪
     description: special_spot_config-20544214
     priority: 1
     duration_type: "1"
@@ -10506,7 +10506,7 @@
   }
   {
     id: 544221
-    name: special_spot_config-10544221
+    name: "[avg]-54-C-15Point2"
     description: special_spot_config-20544221
     priority: 1
     duration_type: "1"
@@ -10524,7 +10524,7 @@
   }
   {
     id: 544223
-    name: special_spot_config-10544223
+    name: 【标记】燃烧
     description: special_spot_config-20544223
     priority: 1
     duration_type: "1"
@@ -10545,7 +10545,7 @@
   }
   {
     id: 544233
-    name: special_spot_config-10544233
+    name: 【标记】燃烧
     description: special_spot_config-20544233
     priority: 1
     duration_type: "1"
@@ -28448,7 +28448,7 @@
   }
   {
     id: 6540001
-    name: special_spot_config-16540001
+    name: 【标记】格里芬杀敌特殊点1
     description: special_spot_config-26540001
     code: "6540001"
     priority: 6540001
@@ -28467,7 +28467,7 @@
   }
   {
     id: 6540002
-    name: special_spot_config-16540002
+    name: 【标记】格里芬杀敌特殊点2
     description: special_spot_config-26540002
     code: "6540002"
     priority: 6540002
@@ -28486,7 +28486,7 @@
   }
   {
     id: 6540003
-    name: special_spot_config-16540003
+    name: 【标记】格里芬杀敌特殊点3
     description: special_spot_config-26540003
     code: "6540003"
     priority: 6540003
@@ -28505,7 +28505,7 @@
   }
   {
     id: 6540004
-    name: special_spot_config-16540004
+    name: 【标记】格里芬杀敌特殊点4
     description: special_spot_config-26540004
     code: "6540004"
     priority: 6540004
@@ -28524,7 +28524,7 @@
   }
   {
     id: 6540005
-    name: special_spot_config-16540005
+    name: 【标记】格里芬杀敌特殊点5
     description: special_spot_config-26540005
     code: "6540005"
     priority: 6540005
@@ -28543,7 +28543,7 @@
   }
   {
     id: 6540006
-    name: special_spot_config-16540006
+    name: 【标记】格里芬杀敌特殊点6
     description: special_spot_config-26540006
     code: "6540006"
     priority: 6540006
@@ -28562,7 +28562,7 @@
   }
   {
     id: 6540007
-    name: special_spot_config-16540007
+    name: 【标记】格里芬杀敌特殊点7
     description: special_spot_config-26540007
     code: "6540007"
     priority: 6540007
@@ -28581,7 +28581,7 @@
   }
   {
     id: 6540008
-    name: special_spot_config-16540008
+    name: 【标记】格里芬杀敌特殊点8
     description: special_spot_config-26540008
     code: "6540008"
     priority: 6540008
@@ -28600,7 +28600,7 @@
   }
   {
     id: 6540009
-    name: special_spot_config-16540009
+    name: 【标记】格里芬杀敌特殊点9
     description: special_spot_config-26540009
     code: "6540009"
     priority: 6540009
@@ -28619,7 +28619,7 @@
   }
   {
     id: 6540010
-    name: special_spot_config-16540010
+    name: 【标记】格里芬杀敌特殊点10
     description: special_spot_config-26540010
     code: "6540010"
     priority: 6540010
@@ -28638,7 +28638,7 @@
   }
   {
     id: 6540011
-    name: special_spot_config-16540011
+    name: 【标记】格里芬杀敌特殊点11
     description: special_spot_config-26540011
     code: "6540011"
     priority: 6540011
@@ -28657,7 +28657,7 @@
   }
   {
     id: 6540012
-    name: special_spot_config-16540012
+    name: 【标记】格里芬杀敌特殊点12
     description: special_spot_config-26540012
     code: "6540012"
     priority: 6540012
@@ -28676,7 +28676,7 @@
   }
   {
     id: 6540013
-    name: special_spot_config-16540013
+    name: 【标记】格里芬杀敌特殊点13
     description: special_spot_config-26540013
     code: "6540013"
     priority: 6540013
@@ -28695,7 +28695,7 @@
   }
   {
     id: 6540014
-    name: special_spot_config-16540014
+    name: 【标记】格里芬杀敌特殊点14
     description: special_spot_config-26540014
     code: "6540014"
     priority: 6540014
@@ -28714,7 +28714,7 @@
   }
   {
     id: 6540015
-    name: special_spot_config-16540015
+    name: 【标记】格里芬杀敌特殊点15
     description: special_spot_config-26540015
     code: "6540015"
     priority: 6540015
@@ -28733,7 +28733,7 @@
   }
   {
     id: 6540016
-    name: special_spot_config-16540016
+    name: 【标记】融合势力杀敌特殊点1
     description: special_spot_config-26540016
     code: "6540016"
     priority: 6540016
@@ -28752,7 +28752,7 @@
   }
   {
     id: 6540017
-    name: special_spot_config-16540017
+    name: 【标记】融合势力杀敌特殊点2
     description: special_spot_config-26540017
     code: "6540017"
     priority: 6540017
@@ -28771,7 +28771,7 @@
   }
   {
     id: 6540018
-    name: special_spot_config-16540018
+    name: 【标记】融合势力杀敌特殊点3
     description: special_spot_config-26540018
     code: "6540018"
     priority: 6540018
@@ -28790,7 +28790,7 @@
   }
   {
     id: 6540019
-    name: special_spot_config-16540019
+    name: 【标记】融合势力杀敌特殊点4
     description: special_spot_config-26540019
     code: "6540019"
     priority: 6540019
@@ -28809,7 +28809,7 @@
   }
   {
     id: 6540020
-    name: special_spot_config-16540020
+    name: 【标记】融合势力杀敌特殊点5
     description: special_spot_config-26540020
     code: "6540020"
     priority: 6540020
@@ -28828,7 +28828,7 @@
   }
   {
     id: 6540021
-    name: special_spot_config-16540021
+    name: 【标记】融合势力杀敌特殊点6
     description: special_spot_config-26540021
     code: "6540021"
     priority: 6540021
@@ -28847,7 +28847,7 @@
   }
   {
     id: 6540022
-    name: special_spot_config-16540022
+    name: 【标记】融合势力杀敌特殊点7
     description: special_spot_config-26540022
     code: "6540022"
     priority: 6540022
@@ -28866,7 +28866,7 @@
   }
   {
     id: 6540023
-    name: special_spot_config-16540023
+    name: 【标记】融合势力杀敌特殊点8
     description: special_spot_config-26540023
     code: "6540023"
     priority: 6540023
@@ -28885,7 +28885,7 @@
   }
   {
     id: 6540024
-    name: special_spot_config-16540024
+    name: 【标记】融合势力杀敌特殊点9
     description: special_spot_config-26540024
     code: "6540024"
     priority: 6540024
@@ -28904,7 +28904,7 @@
   }
   {
     id: 6540025
-    name: special_spot_config-16540025
+    name: 【标记】融合势力杀敌特殊点10
     description: special_spot_config-26540025
     code: "6540025"
     priority: 6540025
@@ -28923,7 +28923,7 @@
   }
   {
     id: 6540026
-    name: special_spot_config-16540026
+    name: 【标记】融合势力杀敌特殊点11
     description: special_spot_config-26540026
     code: "6540026"
     priority: 6540026
@@ -28942,7 +28942,7 @@
   }
   {
     id: 6540027
-    name: special_spot_config-16540027
+    name: 【标记】融合势力杀敌特殊点12
     description: special_spot_config-26540027
     code: "6540027"
     priority: 6540027
@@ -28961,7 +28961,7 @@
   }
   {
     id: 6540028
-    name: special_spot_config-16540028
+    name: 【标记】融合势力杀敌特殊点13
     description: special_spot_config-26540028
     code: "6540028"
     priority: 6540028
@@ -28980,7 +28980,7 @@
   }
   {
     id: 6540029
-    name: special_spot_config-16540029
+    name: 【标记】融合势力杀敌特殊点14
     description: special_spot_config-26540029
     code: "6540029"
     priority: 6540029
@@ -28999,7 +28999,7 @@
   }
   {
     id: 6540030
-    name: special_spot_config-16540030
+    name: 【标记】融合势力杀敌特殊点15
     description: special_spot_config-26540030
     code: "6540030"
     priority: 6540030
@@ -29018,7 +29018,7 @@
   }
   {
     id: 6540031
-    name: special_spot_config-16540031
+    name: 【标记】关卡1的部署接任务生效
     description: special_spot_config-26540031
     code: "6540031"
     priority: 6540031
@@ -29037,7 +29037,7 @@
   }
   {
     id: 6540101
-    name: special_spot_config-16540101
+    name: 【标记】选择控制台初始化
     description: special_spot_config-26540101
     code: "6540101"
     priority: 6540101
@@ -29056,7 +29056,7 @@
   }
   {
     id: 6540102
-    name: special_spot_config-16540102
+    name: 【标记】任务刷新初始化
     description: special_spot_config-26540102
     code: "6540102"
     priority: 6540102
@@ -29078,7 +29078,7 @@
   }
   {
     id: 6540103
-    name: special_spot_config-16540103
+    name: 【标记】任务不可领初始化
     description: special_spot_config-26540103
     code: "6540103"
     priority: 6540103
@@ -29097,7 +29097,7 @@
   }
   {
     id: 6540104
-    name: special_spot_config-16540104
+    name: 【标记】任务1
     description: special_spot_config-26540104
     code: a545-npc
     priority: 6540104
@@ -29116,7 +29116,7 @@
   }
   {
     id: 6540105
-    name: special_spot_config-16540105
+    name: 【标记】任务2
     description: special_spot_config-26540105
     code: pkp-npc
     priority: 6540105
@@ -29135,7 +29135,7 @@
   }
   {
     id: 6540106
-    name: special_spot_config-16540106
+    name: 【标记】任务3
     description: special_spot_config-26540106
     code: pm1910-npc
     priority: 6540106
@@ -29154,7 +29154,7 @@
   }
   {
     id: 6540107
-    name: special_spot_config-16540107
+    name: 【标记】任务4
     description: special_spot_config-26540107
     code: AR18_NPC
     priority: 6540107
@@ -29173,7 +29173,7 @@
   }
   {
     id: 6540108
-    name: special_spot_config-16540108
+    name: 【标记】任务1完成
     description: special_spot_config-26540108
     code: a545-npc
     priority: 6540108
@@ -29192,7 +29192,7 @@
   }
   {
     id: 6540109
-    name: special_spot_config-16540109
+    name: 【标记】任务2完成
     description: special_spot_config-26540109
     code: pkp-npc
     priority: 6540109
@@ -29211,7 +29211,7 @@
   }
   {
     id: 6540110
-    name: special_spot_config-16540110
+    name: 【标记】任务3完成
     description: special_spot_config-26540110
     code: pm1910-npc
     priority: 6540110
@@ -29230,7 +29230,7 @@
   }
   {
     id: 6540111
-    name: special_spot_config-16540111
+    name: 【标记】任务4完成
     description: special_spot_config-26540111
     code: AR18_NPC
     priority: 6540111
@@ -29249,7 +29249,7 @@
   }
   {
     id: 6540112
-    name: special_spot_config-16540112
+    name: 【标记】任务计数
     description: special_spot_config-26540112
     code: Mission_tip
     priority: -1
@@ -29268,7 +29268,7 @@
   }
   {
     id: 6540113
-    name: special_spot_config-16540113
+    name: 【标记】任务2兔子标记用
     description: special_spot_config-26540113
     code: "6540113"
     priority: 6540113
@@ -29287,7 +29287,7 @@
   }
   {
     id: 6540114
-    name: special_spot_config-16540114
+    name: 【标记】任务计数目标
     description: special_spot_config-26540114
     code: "6540114"
     priority: 6540114
@@ -29306,7 +29306,7 @@
   }
   {
     id: 6540115
-    name: special_spot_config-16540115
+    name: 【标记】控制台1
     description: special_spot_config-26540115
     code: "6540115"
     priority: 6540115
@@ -29325,7 +29325,7 @@
   }
   {
     id: 6540116
-    name: special_spot_config-16540116
+    name: 【标记】控制台2
     description: special_spot_config-26540116
     code: "6540116"
     priority: 6540116
@@ -29344,7 +29344,7 @@
   }
   {
     id: 6540117
-    name: special_spot_config-16540117
+    name: 【标记】控制台3
     description: special_spot_config-26540117
     code: "6540117"
     priority: 6540117
@@ -29363,7 +29363,7 @@
   }
   {
     id: 6540118
-    name: special_spot_config-16540118
+    name: 【标记】控制台4
     description: special_spot_config-26540118
     code: "6540118"
     priority: 6540118
@@ -29382,7 +29382,7 @@
   }
   {
     id: 6540119
-    name: special_spot_config-16540119
+    name: 【标记】格里芬杀敌经验值
     description: special_spot_config-26540119
     code: "6540119"
     priority: 6540119
@@ -29402,7 +29402,7 @@
   }
   {
     id: 6540120
-    name: special_spot_config-16540120
+    name: 【标记】铁血杀敌经验值
     description: special_spot_config-26540120
     code: "6540120"
     priority: 6540120
@@ -29422,7 +29422,7 @@
   }
   {
     id: 6540121
-    name: special_spot_config-16540121
+    name: 【标记】远火轰炸
     description: special_spot_config-26540121
     code: "6540121"
     priority: 6540121
@@ -29441,7 +29441,7 @@
   }
   {
     id: 6540122
-    name: special_spot_config-16540122
+    name: 【标记】照明
     description: special_spot_config-26540122
     code: "6540122"
     priority: 6540122
@@ -29461,7 +29461,7 @@
   }
   {
     id: 6540123
-    name: special_spot_config-16540123
+    name: 【标记】EMP
     description: special_spot_config-26540123
     code: "6540123"
     priority: 6540123
@@ -29480,7 +29480,7 @@
   }
   {
     id: 6540124
-    name: special_spot_config-16540124
+    name: 【标记】孙红雷扔出
     description: special_spot_config-26540124
     code: "6540124"
     priority: 6540124
@@ -29498,7 +29498,7 @@
   }
   {
     id: 6540125
-    name: special_spot_config-16540125
+    name: 【标记】格里芬技能1CD
     description: special_spot_config-26540125
     code: "6540125"
     priority: 6540125
@@ -29517,7 +29517,7 @@
   }
   {
     id: 6540126
-    name: special_spot_config-16540126
+    name: 【标记】格里芬技能2CD
     description: special_spot_config-26540126
     code: "6540126"
     priority: 6540126
@@ -29536,7 +29536,7 @@
   }
   {
     id: 6540127
-    name: special_spot_config-16540127
+    name: 【标记】格里芬技能4CD
     description: special_spot_config-26540127
     code: "6540127"
     priority: 6540127
@@ -29555,7 +29555,7 @@
   }
   {
     id: 6540128
-    name: special_spot_config-16540128
+    name: 【标记】融合势力技能1CD
     description: special_spot_config-26540128
     code: "6540128"
     priority: 6540128
@@ -29574,7 +29574,7 @@
   }
   {
     id: 6540129
-    name: special_spot_config-16540129
+    name: 【标记】粘性炸药爆炸伤害延迟
     description: special_spot_config-26540129
     code: "6540129"
     priority: 6540129
@@ -29597,7 +29597,7 @@
   }
   {
     id: 6540130
-    name: special_spot_config-16540130
+    name: 【标记】粘性炸药爆炸伤害
     description: special_spot_config-26540130
     code: "6540130"
     priority: 6540130
@@ -29616,7 +29616,7 @@
   }
   {
     id: 6540131
-    name: special_spot_config-16540131
+    name: 【标记】加速塔初始化
     description: special_spot_config-26540131
     code: "6540131"
     priority: 6540131
@@ -29636,7 +29636,7 @@
   }
   {
     id: 6540132
-    name: special_spot_config-16540132
+    name: 【标记】算分倒计时
     description: special_spot_config-26540132
     code: "6540132"
     priority: 6540132
@@ -29655,7 +29655,7 @@
   }
   {
     id: 6540133
-    name: special_spot_config-16540133
+    name: 【标记】算分
     description: special_spot_config-26540133
     code: "6540133"
     priority: 6540133
@@ -29674,7 +29674,7 @@
   }
   {
     id: 6540134
-    name: special_spot_config-16540134
+    name: 【标记】算分G1
     description: special_spot_config-26540134
     code: "6540134"
     priority: 6540134
@@ -29693,7 +29693,7 @@
   }
   {
     id: 6540135
-    name: special_spot_config-16540135
+    name: 【标记】算分G2
     description: special_spot_config-26540135
     code: "6540135"
     priority: 6540135
@@ -29712,7 +29712,7 @@
   }
   {
     id: 6540136
-    name: special_spot_config-16540136
+    name: 【标记】算分G3
     description: special_spot_config-26540136
     code: "6540136"
     priority: 6540136
@@ -29731,7 +29731,7 @@
   }
   {
     id: 6540137
-    name: special_spot_config-16540137
+    name: 【标记】算分G4
     description: special_spot_config-26540137
     code: "6540137"
     priority: 6540137
@@ -29750,7 +29750,7 @@
   }
   {
     id: 6540138
-    name: special_spot_config-16540138
+    name: 【标记】算分S1
     description: special_spot_config-26540138
     code: "6540138"
     priority: 6540138
@@ -29769,7 +29769,7 @@
   }
   {
     id: 6540139
-    name: special_spot_config-16540139
+    name: 【标记】算分S2
     description: special_spot_config-26540139
     code: "6540139"
     priority: 6540139
@@ -29788,7 +29788,7 @@
   }
   {
     id: 6540140
-    name: special_spot_config-16540140
+    name: 【标记】算分S3
     description: special_spot_config-26540140
     code: "6540140"
     priority: 6540140
@@ -29807,7 +29807,7 @@
   }
   {
     id: 6540141
-    name: special_spot_config-16540141
+    name: 【标记】算分S4
     description: special_spot_config-26540141
     code: "6540141"
     priority: 6540141
@@ -29826,7 +29826,7 @@
   }
   {
     id: 6540142
-    name: special_spot_config-16540142
+    name: 【标记】控制台I初始化
     description: special_spot_config-26540142
     code: "6540142"
     priority: 6540142
@@ -29846,7 +29846,7 @@
   }
   {
     id: 6540143
-    name: special_spot_config-16540143
+    name: 【标记】控制台II初始化
     description: special_spot_config-26540143
     code: "6540143"
     priority: 6540143
@@ -29866,7 +29866,7 @@
   }
   {
     id: 6540144
-    name: special_spot_config-16540144
+    name: 【标记】控制台III初始化
     description: special_spot_config-26540144
     code: "6540144"
     priority: 6540144
@@ -29886,7 +29886,7 @@
   }
   {
     id: 6540145
-    name: special_spot_config-16540145
+    name: 【标记】防御门I初始化
     description: special_spot_config-26540145
     code: "6540145"
     priority: 6540145
@@ -29907,7 +29907,7 @@
   }
   {
     id: 6540146
-    name: special_spot_config-16540146
+    name: 【标记】防御门II初始化
     description: special_spot_config-26540146
     code: "6540146"
     priority: 6540146
@@ -29928,7 +29928,7 @@
   }
   {
     id: 6540147
-    name: special_spot_config-16540147
+    name: 【标记】防御门III初始化
     description: special_spot_config-26540147
     code: "6540147"
     priority: 6540147
@@ -29949,7 +29949,7 @@
   }
   {
     id: 6540148
-    name: special_spot_config-16540148
+    name: 【标记】弃置歌利亚I初始化
     description: special_spot_config-26540148
     code: "6540148"
     priority: 6540148
@@ -29968,7 +29968,7 @@
   }
   {
     id: 6540149
-    name: special_spot_config-16540149
+    name: 【标记】乱石堆初始化
     description: special_spot_config-26540149
     code: "6540149"
     priority: 6540149
@@ -29989,7 +29989,7 @@
   }
   {
     id: 6540150
-    name: special_spot_config-16540150
+    name: 【标记】控制台I初始化
     description: special_spot_config-26540150
     code: "6540150"
     priority: 6540150
@@ -30009,7 +30009,7 @@
   }
   {
     id: 6540151
-    name: special_spot_config-16540151
+    name: 【标记】控制台II初始化
     description: special_spot_config-26540151
     code: "6540151"
     priority: 6540151
@@ -30029,7 +30029,7 @@
   }
   {
     id: 6540152
-    name: special_spot_config-16540152
+    name: 【标记】控制台III初始化
     description: special_spot_config-26540152
     code: "6540152"
     priority: 6540152
@@ -30049,7 +30049,7 @@
   }
   {
     id: 6540153
-    name: special_spot_config-16540153
+    name: 【标记】控制台IV初始化
     description: special_spot_config-26540153
     code: "6540153"
     priority: 6540153
@@ -30070,7 +30070,7 @@
   }
   {
     id: 6540154
-    name: special_spot_config-16540154
+    name: 【标记】密码台初始化
     description: special_spot_config-26540154
     code: "6540154"
     priority: 6540154
@@ -30090,7 +30090,7 @@
   }
   {
     id: 6540155
-    name: special_spot_config-16540155
+    name: "[avg]-54-B-6Point1"
     description: special_spot_config-26540155
     code: "6540155"
     priority: 6540155
@@ -30109,7 +30109,7 @@
   }
   {
     id: 6540156
-    name: special_spot_config-16540156
+    name: 【标记】密码台2
     description: special_spot_config-26540156
     code: "6540156"
     priority: 6540156
@@ -30128,7 +30128,7 @@
   }
   {
     id: 6540157
-    name: special_spot_config-16540157
+    name: "[avg]-54-B-6Point3"
     description: special_spot_config-26540157
     code: "6540157"
     priority: 6540157
@@ -30147,7 +30147,7 @@
   }
   {
     id: 6540158
-    name: special_spot_config-16540158
+    name: 【标记】乱石堆初始化
     description: special_spot_config-26540158
     code: "6540158"
     priority: 6540158
@@ -30168,7 +30168,7 @@
   }
   {
     id: 6540159
-    name: special_spot_config-16540159
+    name: 【标记】塑胶炸弹初始化
     description: special_spot_config-26540159
     code: "6540159"
     priority: 6540159
@@ -30187,7 +30187,7 @@
   }
   {
     id: 6540160
-    name: special_spot_config-16540160
+    name: 【标记】乱石堆初始化
     description: special_spot_config-26540160
     code: "6540160"
     priority: 6540160
@@ -30208,7 +30208,7 @@
   }
   {
     id: 6540161
-    name: special_spot_config-16540161
+    name: 【标记】乱石堆初始化
     description: special_spot_config-26540161
     code: "6540161"
     priority: 6540161
@@ -30229,7 +30229,7 @@
   }
   {
     id: 6540162
-    name: special_spot_config-16540162
+    name: 【标记】乱石堆初始化
     description: special_spot_config-26540162
     code: "6540162"
     priority: 6540162
@@ -30250,7 +30250,7 @@
   }
   {
     id: 6540163
-    name: special_spot_config-16540163
+    name: 【标记】歌利亚炸弹
     description: special_spot_config-26540163
     code: "6540163"
     priority: 6540163
@@ -30269,7 +30269,7 @@
   }
   {
     id: 6540164
-    name: special_spot_config-16540164
+    name: 【标记】控制台I初始化
     description: special_spot_config-26540164
     code: "6540164"
     priority: 6540164
@@ -30288,7 +30288,7 @@
   }
   {
     id: 6540165
-    name: special_spot_config-16540165
+    name: 【标记】控制台II初始化
     description: special_spot_config-26540165
     code: "6540165"
     priority: 6540165
@@ -30308,7 +30308,7 @@
   }
   {
     id: 6540166
-    name: special_spot_config-16540166
+    name: 【标记】控制台判负
     description: special_spot_config-26540166
     code: Console
     priority: 6540166
@@ -30327,7 +30327,7 @@
   }
   {
     id: 6540167
-    name: special_spot_config-16540167
+    name: 【标记】密码台生效
     description: special_spot_config-26540167
     code: "6540167"
     priority: 6540167
@@ -30346,7 +30346,7 @@
   }
   {
     id: 6540168
-    name: special_spot_config-16540168
+    name: 【标记】塑胶爆炸伤害延迟
     description: special_spot_config-26540168
     code: "6540168"
     priority: 6540168
@@ -30369,7 +30369,7 @@
   }
   {
     id: 6540169
-    name: special_spot_config-16540169
+    name: 【标记】粘性炸药通用标记
     description: special_spot_config-26540169
     code: "6540169"
     priority: 6540169
@@ -30388,7 +30388,7 @@
   }
   {
     id: 6540170
-    name: special_spot_config-16540170
+    name: 【标记】沃克入侵胜利标记
     description: special_spot_config-26540170
     code: Ares
     priority: 6540170
@@ -30408,7 +30408,7 @@
   }
   {
     id: 6540171
-    name: special_spot_config-16540171
+    name: 【标记】忤逆胜利标记
     description: special_spot_config-26540171
     code: AN94
     priority: 6540171
@@ -30428,7 +30428,7 @@
   }
   {
     id: 6540172
-    name: special_spot_config-16540172
+    name: 【标记】涅托击杀计数
     description: special_spot_config-26540172
     code: Nyto_White_Commander
     priority: -1
@@ -30448,7 +30448,7 @@
   }
   {
     id: 6540173
-    name: special_spot_config-16540173
+    name: 【标记】忤逆寄
     description: special_spot_config-26540173
     code: AN94
     priority: 6540173
@@ -30467,7 +30467,7 @@
   }
   {
     id: 6540174
-    name: special_spot_config-16540174
+    name: 【标记】erma寄
     description: special_spot_config-26540174
     code: Erma_NPC
     priority: 6540174
@@ -30486,7 +30486,7 @@
   }
   {
     id: 6540175
-    name: special_spot_config-16540175
+    name: 【标记】沃克寄
     description: special_spot_config-26540175
     code: ColtWalker_NPC
     priority: 6540175
@@ -30505,7 +30505,7 @@
   }
   {
     id: 6540176
-    name: special_spot_config-16540176
+    name: 【标记】高达召唤简单
     description: special_spot_config-26540176
     code: "6540176"
     priority: 6540176
@@ -30524,7 +30524,7 @@
   }
   {
     id: 6540177
-    name: special_spot_config-16540177
+    name: 【标记】高达召唤困难
     description: special_spot_config-26540177
     code: "6540177"
     priority: 6540177
@@ -30543,7 +30543,7 @@
   }
   {
     id: 6540178
-    name: special_spot_config-16540178
+    name: 【标记】高达召唤噩梦
     description: special_spot_config-26540178
     code: "6540178"
     priority: 6540178
@@ -30562,7 +30562,7 @@
   }
   {
     id: 6540179
-    name: special_spot_config-16540179
+    name: 【标记】高达召唤1简单
     description: special_spot_config-26540179
     code: "6540179"
     priority: 6540179
@@ -30581,7 +30581,7 @@
   }
   {
     id: 6540180
-    name: special_spot_config-16540180
+    name: 【标记】高达召唤1困难
     description: special_spot_config-26540180
     code: "6540180"
     priority: 6540180
@@ -30600,7 +30600,7 @@
   }
   {
     id: 6540181
-    name: special_spot_config-16540181
+    name: 【标记】高达召唤1噩梦
     description: special_spot_config-26540181
     code: "6540181"
     priority: 6540181
@@ -30619,7 +30619,7 @@
   }
   {
     id: 6540182
-    name: special_spot_config-16540182
+    name: 【标记】erma2胜利初始化
     description: special_spot_config-26540182
     code: "6540182"
     priority: 6540182
@@ -30640,7 +30640,7 @@
   }
   {
     id: 6540183
-    name: special_spot_config-16540183
+    name: 【标记】erma2胜利
     description: special_spot_config-26540183
     code: Erma_NPC
     priority: 6540183
@@ -30659,7 +30659,7 @@
   }
   {
     id: 6540184
-    name: special_spot_config-16540184
+    name: 【标记】沃克2隐藏成就
     description: special_spot_config-26540184
     code: "6540184"
     priority: 6540184
@@ -30678,7 +30678,7 @@
   }
   {
     id: 6540185
-    name: special_spot_config-16540185
+    name: 【标记】弃置歌利亚I初始化
     description: special_spot_config-26540185
     code: "6540185"
     priority: 6540185
@@ -30697,7 +30697,7 @@
   }
   {
     id: 6540186
-    name: special_spot_config-16540186
+    name: 【标记】高达回合1
     description: special_spot_config-26540186
     code: "6540186"
     priority: 6540186
@@ -30717,7 +30717,7 @@
   }
   {
     id: 6540187
-    name: special_spot_config-16540187
+    name: 【标记】高达回合2
     description: special_spot_config-26540187
     code: "6540187"
     priority: 6540187
@@ -30737,7 +30737,7 @@
   }
   {
     id: 6540188
-    name: special_spot_config-16540188
+    name: 【标记】高达回合3
     description: special_spot_config-26540188
     code: "6540188"
     priority: 6540188
@@ -30757,7 +30757,7 @@
   }
   {
     id: 6540189
-    name: special_spot_config-16540189
+    name: 【标记】高达回合4
     description: special_spot_config-26540189
     code: "6540189"
     priority: 6540189
@@ -30777,7 +30777,7 @@
   }
   {
     id: 6540190
-    name: special_spot_config-16540190
+    name: 【标记】高达回合5
     description: special_spot_config-26540190
     code: "6540190"
     priority: 6540190
@@ -30797,7 +30797,7 @@
   }
   {
     id: 6540191
-    name: special_spot_config-16540191
+    name: 【标记】照明
     description: special_spot_config-26540191
     code: "6540191"
     priority: 6540191
@@ -30819,7 +30819,7 @@
   }
   {
     id: 6540192
-    name: special_spot_config-16540192
+    name: 【标记】控制台提示
     description: special_spot_config-26540192
     code: "6540192"
     priority: 6540192
@@ -30839,7 +30839,7 @@
   }
   {
     id: 6540193
-    name: special_spot_config-16540193
+    name: "[avg]-54-ALLTIP_AR18_2"
     description: special_spot_config-26540193
     code: "6540193"
     priority: 6540193
@@ -30859,7 +30859,7 @@
   }
   {
     id: 6540194
-    name: special_spot_config-16540194
+    name: 【标记】照明触发范围2
     description: special_spot_config-26540194
     code: "6540194"
     priority: 6540194
@@ -30879,7 +30879,7 @@
   }
   {
     id: 6540195
-    name: special_spot_config-16540195
+    name: "[avg]-54-B-6Point2"
     description: special_spot_config-26540195
     code: "6540195"
     priority: 6540195
