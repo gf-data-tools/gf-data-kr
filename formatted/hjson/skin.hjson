@@ -1277,6 +1277,108 @@
     order: 84
   }
   {
+    id: 576
+    name: SL8 - 고스트 피즈
+    fit_gun: 296
+    voice: 4
+    dialog: 어이, 지휘관. 저기에 녀석들 보여? 지금 상점 쇼윈도 앞에서 멍때리고 있는데, 지금 달려가서 녀석들을 끌고 가면 예상밖의 변화가 생기지 않을까?
+    note: skin-30000576
+    gift_position: "-166.9,-104.2"
+    illustrator_cv: skin-40000576
+    order: 93
+    class_id: 80
+  }
+  {
+    id: 577
+    name: VHS - 위스키 플로트
+    fit_gun: 318
+    voice: 4
+    dialog: 사람들 사이를 걷고 있으면 왠지 자신이 붕 떠있는 느낌이 안 들어? 소체는 길 위를 걷고 있는데 영혼은 공중에 떠오른 느낌 말이야...
+    note: skin-30000577
+    gift_position: "-190.5,-75.2"
+    illustrator_cv: skin-40000577
+    order: 93
+    class_id: 80
+  }
+  {
+    id: 578
+    name: 류 소총 - 월드 트렌드
+    fit_gun: 316
+    voice: 4
+    dialog: 어라? 지휘관님 뭔가 근심이 많아 보이는 얼굴이네요... 걱정 마세요! 가게 100곳 더 들러도 전혀 안 힘드니까요!
+    note: skin-30000578
+    illustrator_cv: skin-40000578
+    order: 93
+    class_id: 80
+  }
+  {
+    id: 579
+    name: AUG Para - 피스코 사워
+    fit_gun: 315
+    voice: 4
+    dialog: 선배, 여기서 잠깐 쉬다 가죠. 제가 또 길을 헷갈렸나 봐요... 릴렉스 해요, 우리 둘 다 인형이 아니라서 지도를 정확히 읽지 못하는 것도 자연스럽죠.
+    note: skin-30000579
+    gift_position: "-172,2.1"
+    illustrator_cv: skin-40000579
+    order: 93
+    class_id: 80
+  }
+  {
+    id: 581
+    name: HK416 - 화이트 네그로니
+    fit_gun: 65
+    voice: 4
+    dialog: 드디어 연휴네요, 기분이 분명 달달하겠죠, 지휘관님? 그럼 이 커피를 마시면 단맛과 쓴맛의 밸런스가 맞춰진 완벽한 상태가 되겠네요.
+    note: skin-30000581
+    illustrator_cv: umo,Nonaka Ai,
+    order: 93
+    class_id: 80
+  }
+  {
+    id: 582
+    name: G11 - 머릿속의 지우개
+    fit_gun: 122
+    voice: 4
+    dialog: 구불구불 걷는 게 필름 끊긴 사람 같다고? 아니야... 그냥 밤새 레이드하느라... 근데 계속 끌고 다니면 정말 곯아떨어질 것 같아...
+    note: skin-30000582
+    illustrator_cv: umo,Fukuhara Ayaka,
+    order: 93
+    class_id: 80
+  }
+  {
+    id: 583
+    name: UMP9 - 비스 니즈
+    fit_gun: 101
+    voice: 4
+    dialog: 지금 나는 삶에서 가장가장 좋은 순간이야! 모처럼의 휴일, 좋은 날씨, 잔뜩 늘어선 쇼핑 지점... 그리고, 걸음 맞추느라 바쁜 지휘관도 빠질 수 없지!
+    note: skin-30000583
+    illustrator_cv: umo,Noto Mamiko,
+    order: 93
+    class_id: 80
+  }
+  {
+    id: 584
+    name: UMP45 - 석양빛 맥주
+    fit_gun: 103
+    voice: 4
+    dialog: 모두 물건을 다 사고 쌓아둔 채 지휘관이 차에 싣기만 기다리고 있어. 근데 표정이 안 좋아 보이네? 그럼 나랑 석양의 도주하지 않을래?
+    note: skin-30000584
+    illustrator_cv: umo,Mineuchi Tomomi,
+    order: 93
+    class_id: 80
+  }
+  {
+    id: 585
+    name: UMP40 - 물속 보름달
+    fit_gun: 102
+    voice: 4
+    dialog: 고마워, 지휘관. 지휘 태블릿으로 날 길거리 구경을 시켜줘서... 보답으로 내가 아스키 아트로 내가 가장 좋아하는 꽃을 그려서 바탕화면에 놔뒀어...
+    note: skin-30000585
+    illustrator_cv: umo,Uema Emi,
+    order: 93
+    class_id: 80
+  }
+  {
     id: 586
     name: OBR - 카스티아의 여왕
     fit_gun: 230
@@ -4156,7 +4258,7 @@
     voice: 16
     dialog: 부케를 고르느라 많이 고민했지만, 역시 평범한 붉은 장미가 제 마음을 나타내기 좋을 것 같아요.
     note: 신뢰를 유지하기 위해선 양쪽 모두 많은 대가가 필요해요. 절 실망시키지 말아주세요.
-    illustrator_cv: Yukuso,
+    illustrator_cv: Yukuso,Nakae Mitsuki,
     order: 50
     class_id: 43
   }
@@ -7223,6 +7325,7 @@
     id: 7301
     name: M6 ASW - 파도에서 살아남기
     fit_gun: 324
+    voice: 4
     dialog: 힘들다... 이 애들은 바다를 처음 보는 건가? 냅다 바다로 자폭돌격을 하니까 일일이 끌고와야 했어... 오후 내내.
     note: skin-30007301
     illustrator_cv: skin-40007301
@@ -7233,6 +7336,7 @@
     id: 7302
     name: Savage 99 - 감자 스틱 먹을래
     fit_gun: 334
+    voice: 4
     dialog: 감자 스틱을 들고 자판기 옆에 있으면 이 해역에서 가장 흉폭한 맹수를 소환할 수 있다고 들었어요. 근데 지금 반나절을 기다렸는데 갈매기밖에 안 보이는데요...
     note: skin-30007302
     illustrator_cv: skin-40007302
@@ -7243,6 +7347,7 @@
     id: 7303
     name: 스털링 - 더위에 녹는다
     fit_gun: 359
+    voice: 4
     dialog: 조심하거라, 지휘관. 어둠의 군단이 이번엔 열풍으로 우리의 진지를 뒤엎을 셈이다! 마틸다 경은 이미 쓰러졌지만 나는 절대... 얼음으로 지은 성역을 잃는 한이 있어도 나는 굴복하지 않는다!
     note: skin-30007303
     illustrator_cv: skin-40007303
@@ -7253,6 +7358,7 @@
     id: 7304
     name: HS.50 - 노을 진 바다로
     fit_gun: 348
+    voice: 4
     dialog: 지휘관님, 파도탈 준비 작업을 마쳤습니다. 서핑보드가 어디에 있냐고요? 제 손에 있지 않습니까...?
     note: skin-30007304
     gift_position: "-113,-10.3"
@@ -7264,6 +7370,7 @@
     id: 7305
     name: AK74M - 회극의 스피릿
     fit_gun: 349
+    voice: 4
     dialog: 보고 드립니다. 현재 주변에서 식재로 삼을 어류를 찾고 있습니다. 지금 모두 재밌게 놀고 있지만 지나치게 놀다 배가 고파지면 안 되니까요.
     note: skin-30007305
     illustrator_cv: skin-40007305
@@ -7274,6 +7381,7 @@
     id: 7306
     name: CF05 - 둥실둥실 흑백 음표
     fit_gun: 295
+    voice: 4
     dialog: 지휘관, 지휘관! 나 좀 봐봐. 둥실둥실 떠있는 게 삼선전골의 두부 같지 않아?
     note: skin-30007306
     gift_position: "-92.8,-0.2"
@@ -7285,6 +7393,7 @@
     id: 7307
     name: EVO 3 - 진홍색 여름
     fit_gun: 131
+    voice: 4
     dialog: 같이 과일 좀 먹을래, 지휘관? 어라, 어디서 Vz61이 소리 지르는 것 같은데... 내가 잘못 들었나?
     note: skin-30007307
     illustrator_cv: skin-40007307
@@ -7295,6 +7404,7 @@
     id: 7308
     name: IWS 2000 - 모래성 파괴자
     fit_gun: 148
+    voice: 4
     dialog: 캬오~ 여기의 모래성은 전부 내 거다! 지, 지휘관님!? 저는 다른 분들이 "장난치는 꼬맹이들을 쫓아내라"는 임무를 줘서, 진짜 대괴수가 된 건 아니고요...
     note: skin-30007308
     gift_position: "-130.9,155.3"
@@ -7306,6 +7416,7 @@
     id: 7401
     name: ACR - 별의 바다 탐사
     fit_gun: 274
+    voice: 4
     dialog: 후우~ 선외 작업 무사 완료. 이제 돌아가도... 어라, 내가 해치 열쇠를 어디다 뒀지!?
     note: skin-30007401
     illustrator_cv: skin-40007401
@@ -7316,6 +7427,7 @@
     id: 7402
     name: SCR - 팜 랩소디
     fit_gun: 365
+    voice: 4
     dialog: 여기엔 씨앗과 요목이 충분이 있어. 환경이 적당한 행성만 찾으면 거기도 과일향이 풍기는 세상으로 만들고 싶어!
     note: skin-30007402
     illustrator_cv: skin-40007402
@@ -7326,6 +7438,7 @@
     id: 7403
     name: QBU-88 - 판다의 기묘한 항해
     fit_gun: 261
+    voice: 4
     dialog: 우주 항로를 개척하면 행성간 광관이 유행이 될 거래! 그럼 내가 판다 여행 항로를 뚫어서 온 우주에 동글동글한 귀여움을 전파할 거야!
     note: skin-30007403
     illustrator_cv: skin-40007403
@@ -7336,6 +7449,7 @@
     id: 7404
     name: SIG MCX - 초시공 경비대
     fit_gun: 338
+    voice: 4
     dialog: 외계 침입자를 발견, 즉시 경보! 와아~ 그냥 해본 소리였는데 다들 바로 전투 상태가 됐네, 아하하하!
     note: skin-30007404
     illustrator_cv: skin-40007404
@@ -7346,6 +7460,7 @@
     id: 7406
     name: G41 - 천상특급
     fit_gun: 62
+    voice: 4
     dialog: 밀키웨이 - 오리온자리 팔 - 태양계 제3행성 "지구" - 그리폰. 주소 확인, 주인님. 바로 배달 출발할게요~!
     note: skin-30007406
     illustrator_cv: 小枪,Kugimiya Rie,
@@ -7356,6 +7471,7 @@
     id: 7407
     name: 한양조 88식 - 슈퍼 노바 소울
     fit_gun: 95
+    voice: 4
     dialog: 이 기체로 우주에서 가장 눈부신 섬광을 피워내겠어요. 초신성 결전병기 파일럿, 아이짱 출격!
     note: skin-30007407
     illustrator_cv: skin-40007407
@@ -7366,6 +7482,7 @@
     id: 7408
     name: TS12 - 은하에 바치는 꽃다발
     fit_gun: 321
+    voice: 4
     dialog: 정말로 자신만의 꽃을 찾기 위해 하늘을 바라보는 사람이 있겠어? 약해 빠진 꽃 같은 건 누가 안 보살펴주면 아무것도 아니라고! 나? 난 이딴 게 시들든 말든 상관 안해...
     note: skin-30007408
     illustrator_cv: skin-40007408

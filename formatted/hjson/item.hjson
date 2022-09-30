@@ -12504,6 +12504,106 @@
     detail_introduction: item-30002162
   }
   {
+    id: 2164
+    type: 5
+    arg: "1"
+    code: profilePic_Carnival2022_SL8
+    item_name: SL8 - 고스트 피즈
+    introduction: SL8 - 고스트 피즈
+    rank: 1
+    detail_introduction: item-30002164
+  }
+  {
+    id: 2165
+    type: 5
+    arg: "1"
+    code: profilePic_Carnival2022_VHS
+    item_name: VHS - 위스키 플로트
+    introduction: VHS - 위스키 플로트
+    rank: 1
+    detail_introduction: item-30002165
+  }
+  {
+    id: 2166
+    type: 5
+    arg: "1"
+    code: profilePic_Carnival2022_GeneralLiu
+    item_name: 류 소총 - 월드 트렌드
+    introduction: 류 소총 - 월드 트렌드
+    rank: 1
+    detail_introduction: item-30002166
+  }
+  {
+    id: 2167
+    type: 5
+    arg: "1"
+    code: profilePic_Carnival2022_AUGPARA
+    item_name: AUG Para - 피스코 사워
+    introduction: AUG Para - 피스코 사워
+    rank: 1
+    detail_introduction: item-30002167
+  }
+  {
+    id: 2168
+    type: 5
+    arg: "1"
+    code: profilePic_Carnival2022_HK416
+    item_name: HK416 - 화이트 네그로니
+    introduction: HK416 - 화이트 네그로니
+    rank: 1
+    detail_introduction: item-30002168
+  }
+  {
+    id: 2169
+    type: 5
+    arg: "1"
+    code: profilePic_Carnival2022_G11
+    item_name: G11 - 머릿속의 지우개
+    introduction: G11 - 머릿속의 지우개
+    rank: 1
+    detail_introduction: item-30002169
+  }
+  {
+    id: 2170
+    type: 5
+    arg: "1"
+    code: profilePic_Carnival2022_UMP9
+    item_name: UMP9 - 비스 니즈
+    introduction: UMP9 - 비스 니즈
+    rank: 1
+    detail_introduction: item-30002170
+  }
+  {
+    id: 2171
+    type: 5
+    arg: "1"
+    code: profilePic_Carnival2022_UMP45
+    item_name: UMP45 - 석양빛 맥주
+    introduction: UMP45 - 석양빛 맥주
+    rank: 1
+    detail_introduction: item-30002171
+  }
+  {
+    id: 2172
+    type: 5
+    arg: "1"
+    code: profilePic_Carnival2022_UMP40
+    item_name: UMP40 - 물속 보름달
+    introduction: UMP40 - 물속 보름달
+    rank: 1
+    detail_introduction: item-30002172
+  }
+  {
+    id: 2173
+    type: 5
+    arg: "1"
+    code: card_BattlePass_GeneralLiu
+    item_name: 카드 배경: 펑크 리믹스
+    introduction: 카드 배경: 펑크 리믹스
+    rank: 1
+    detail_introduction: item-30002173
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -13058,6 +13158,33 @@
     detail_introduction: item-30007038
   }
   {
+    id: 7039
+    type: 7
+    arg: "7039"
+    code: qjyd_20220901
+    item_name: 골 타임
+    introduction: 끊임없이 성능을 올리고 소체를 반복해서 테스트하는 것은 전부 승부를 내기 위한 노력으로, 이 순간을 영원히 남기기 위한 것이다.
+    detail_introduction: item-30007039
+  }
+  {
+    id: 7040
+    type: 7
+    arg: "7040"
+    code: qjyd_20220902
+    item_name: 작은 서프라이즈
+    introduction: 진수성찬, 축복과 담소. 폭죽을 터뜨리는 소리와 함께 철야 파티의 시작을 알립니다.
+    detail_introduction: item-30007040
+  }
+  {
+    id: 7041
+    type: 7
+    arg: "7041"
+    code: qjyd_20220903
+    item_name: 황금 전설
+    introduction: 승자는 트로피를 높이 들어올려 모두의 시선을 끌어모읍니다. 눈부신 광채가 증명하는 소녀들이 창조한 또 하나의 전설입니다.
+    detail_introduction: item-30007041
+  }
+  {
     id: 7201
     type: 7
     arg: "7201"
@@ -13242,8 +13369,8 @@
     type: 1
     arg: "9015"
     code: Christmas_Coin
-    item_name: 히든npc1
-    introduction: 히든npcnpc1
+    item_name: 秃洞npc1
+    introduction: 秃洞npcnpc1
     rank: 1
     detail_introduction: item-30009015
     is_hide_info: 1
@@ -13253,8 +13380,8 @@
     type: 1
     arg: "9016"
     code: Christmas_Coin
-    item_name: 히든npcnpc2
-    introduction: 히든npcnpc2
+    item_name: 秃洞npcnpc2
+    introduction: 秃洞npcnpc2
     rank: 1
     detail_introduction: item-30009016
     is_hide_info: 1
@@ -13264,8 +13391,8 @@
     type: 1
     arg: "9017"
     code: Christmas_Coin
-    item_name: 히든npcnpc3
-    introduction: 히든npcnpc3
+    item_name: 秃洞npcnpc3
+    introduction: 秃洞npcnpc3
     rank: 1
     detail_introduction: item-30009017
     is_hide_info: 1
@@ -13275,8 +13402,8 @@
     type: 1
     arg: "9018"
     code: Christmas_Coin
-    item_name: 히든npcnpc4
-    introduction: 히든npcnpc4
+    item_name: 秃洞npcnpc4
+    introduction: 秃洞npcnpc4
     rank: 1
     detail_introduction: item-30009018
     is_hide_info: 1
@@ -13286,8 +13413,8 @@
     type: 1
     arg: "9019"
     code: Christmas_Coin
-    item_name: 히든npc점수 체크용
-    introduction: 히든npc점수 체크용
+    item_name: 秃洞npc卡score标记用
+    introduction: 秃洞npc卡score标记用
     rank: 1
     detail_introduction: item-30009019
     is_hide_info: 1
@@ -14924,6 +15051,36 @@
     detail_introduction: item-30100156
   }
   {
+    id: 100157
+    type: 4
+    arg: "100157"
+    code: Nova_medal_black
+    item_name: 노바훈장
+    introduction: 노바훈장
+    rank: 1
+    detail_introduction: item-30100157
+  }
+  {
+    id: 100158
+    type: 4
+    arg: "100158"
+    code: Platinum_medal_black
+    item_name: 백금훈장
+    introduction: 백금훈장
+    rank: 1
+    detail_introduction: item-30100158
+  }
+  {
+    id: 100159
+    type: 4
+    arg: "100159"
+    code: Bumdle_October
+    item_name: 뜻깊은 세월 상자
+    introduction: 뜻깊은 세월 상자
+    rank: 1
+    detail_introduction: item-30100159
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -15868,6 +16025,16 @@
     detail_introduction: item-30200013
   }
   {
+    id: 200014
+    type: 5
+    arg: "1"
+    code: profileFrame_BattlePass_GeneralLiu
+    item_name: 아이콘 액자·골목길의 메아리
+    introduction: 아이콘 액자·골목길의 메아리
+    rank: 1
+    detail_introduction: item-30200014
+  }
+  {
     id: 900030
     type: 4
     arg: "100030"
@@ -16032,5 +16199,38 @@
     rank: 1
     sort: -1
     detail_introduction: item-31500014
+  }
+  {
+    id: 1500015
+    type: 15
+    arg: "1500015"
+    code: package_random
+    item_name: 미해금 인형 확정 코드
+    introduction: 개봉 시, 목록 중 도감 개방이 안 된 인형을 확정 획득합니다. 목록 중 인형 도감이 전부 개방된 경우 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500015
+  }
+  {
+    id: 1500016
+    type: 15
+    arg: "1500016"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 개봉 시 리스트 중 한 가지 도구를 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500016
+  }
+  {
+    id: 1500017
+    type: 15
+    arg: "1500009"
+    code: package_choose
+    item_name: 기초 장비 자유선택 코드
+    introduction: 개봉 시 리스트 중 한 가지 장비를 지정해서 획득합니다.
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500017
   }
 ]

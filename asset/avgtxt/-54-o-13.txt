@@ -42,7 +42,7 @@ ColtWalker(1)<Speaker>매기</Speaker>;NPC-TD_Worker(1)||:없는데.+ 왜, 지�
 ColtWalker(1);NPC-TD_Worker(1)<Speaker>폴</Speaker>||:아니오, 철제 상자를 찾으려 합니다.
 ColtWalker(1)<Speaker>매기</Speaker>;NPC-TD_Worker(1)||:망가진 열차 안에서 철제 상자를 찾다니, 네가 무슨 WALL-2냐?+하긴 뭐, 밖은 하늘에서 포탄이 빗발치니 심심풀이라도 있어야겠지.+아무튼 난 자석 없어, 수잔나의 준비실에서 보물찾기라도 해보던가.
 NPC-TD_Worker(1)<Speaker>폴</Speaker>||:알겠습니다, 직접 찾아볼게요.
-()||<SE1>AVG_20Winter_Drink_Tea</SE1><BGM>BGM_Empty</BGM>:매기는 어디선가 아직도 멀쩡한 술잔 두 개 꺼내 왔다.+그리곤 잔을 바닥에 내려놓고, 조금 더러워진 셰이커도 꺼내 소매로 쓱쓱 닦았다.
+()||<SE1>AVG_20Winter_Drink_Tea</SE1><BGM>BGM_Empty</BGM>:매기는 어디선가 아직도 멀쩡한 술잔 두 개를 꺼내 왔다.+그리곤 잔을 바닥에 내려놓고, 조금 더러워진 셰이커도 꺼내 소매로 쓱쓱 닦았다.
 ()||<SE1>Rope</SE1><BGM>GF_2022_Summer_AVG_2</BGM>:한편, 다른 쪽에 웅크리고 앉은 엘마는 멍한 눈빛으로 매기를 바라봤다.+지금 이 난장판 속에서 두 인형들이 앉은 자리만이 그나마 깨끗했다.
 Erma(6)<Speaker>엘마</Speaker>||:...안 속상해?
 ColtWalker(1)<Speaker>매기</Speaker>||:당연히 속상하지.+진이 이제 이 반 병밖에 안 남았는데.

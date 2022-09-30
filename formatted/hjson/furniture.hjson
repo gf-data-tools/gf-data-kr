@@ -19365,6 +19365,41 @@
     touch_area: "3,3,3"
   }
   {
+    id: 7236
+    name: 고대의 부름
+    classes: 72
+    type: 201
+    space: "6,5,0,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 특종 특종 특종! 거대 괴수가 그리폰 숙소에 출현! 어떤 인형도 상대할 수 없는 막강함! 정말 이 인형옷 입고 숙소 안을 돌아다닐 생각 없나요?
+    code: qjyd_20220902
+    texture_type: "2"
+    sorting: "15"
+    offset: "0,0.156405,0"
+    rotate: "2"
+    interact_point: "48"
+    interact_point_offset: *-3.5,0.4375,0
+    touch_area: "4,6,3"
+  }
+  {
+    id: 7237
+    name: 천년의 기대
+    classes: 72
+    type: 201
+    space: "5,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 두 모아이인이 한참 고민하고 있었다, "오늘 뭐 먹지?" 문명이 교체되어 자신들이 석상인 것을 잊을 정도로 오래오래... "지휘관님, 저것들 왠지 FNC 손안의 딸기케이크를 바라보고 있는 것 같아요..."
+    code: qjyd_20220901
+    texture_type: "2"
+    offset: "-0.10427,0.156405,0"
+    rotate: "2"
+    interact_point: "48,64"
+    interact_point_offset: *-2.3333,0.4375,0|*2.91667,0.4375,0
+    touch_area: "5,5,3"
+  }
+  {
     id: 7301
     name: 아쿠아리움 - 아크릴 바닥
     classes: 73
@@ -26216,6 +26251,201 @@
     interact_point_offset: "0,0,0"
   }
   {
+    id: 10601
+    name: 끝없는 밤 - 추운 밤의 아스팔트
+    classes: 106
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 온도가 적당한 지면. 하늘을 장막 삼고, 땅을 방석 삼아, 마음 놓고 즐깁시다.
+    code: Carnival2022_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 10602
+    name: 끝없는 밤 - 적적한 밤하늘
+    classes: 106
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 속세의 소음이 아무리 요란해도 하늘은 움직이지 않습니다, 그저 정해진 규칙에 따라 낮에서 밤으로 됐다가, 밤에서 낮으로 돌아갈 뿐입니다.
+    code: Carnival2022_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 10603
+    name: 끝없는 밤 - 탐욕의 동굴
+    classes: 106
+    type: 201
+    position: "4,8"
+    space: "8,6,0,0,0,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: 입을 크게 벌리고 행인들에게 동굴 안의 가지각색 먹음직스러운 음식을 자랑합니다... 그 안에 들어간 사람은... 살찌는 운명에서 벗어날 수 없습니다.
+    code: Carnival2022_deco_01,Carnival2022_deco_02,Carnival2022_deco_03,Carnival2022_deco_04
+    texture_type: "1,1,1,1"
+    sorting: "0,0,20,20"
+    offset: "-0.584,-0.699,1.230|1.720,-0.699,1.230|-0.584,-0.699,1.230|1.720,-0.699,1.230"
+    rotate: "2,2,2,2"
+    interact_point: "27"
+    interact_point_offset: *1.867,-1.300,3.540
+  }
+  {
+    id: 10604
+    name: 끝없는 밤 - 축제 시작과 끝
+    classes: 106
+    type: 201
+    position: "28,11"
+    space: "5,3,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 대다수 축제의 밤은 술집을 가리키는 밝은 간판을 출발선으로 하고, 입이 넓고 용량이 큰 휴지통을 골라인으로 합니다.
+    code: Carnival2022_deco_05,Carnival2022_deco_06
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0.000,0.000,0.000|0.000,2.241,0.517"
+    rotate: "2,2"
+  }
+  {
+    id: 10605
+    name: 끝없는 밤 - 명당자리
+    classes: 106
+    type: 202
+    position: "19,9"
+    space: "8,4,1,1,0,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 도시에 녹아든 길가 카페, 화끈한 옷차림의 행인을 감상하거나, 텅빈 지갑을 움켜쥐고 눈물을 흘릴 최고의 장소입니다.
+    code: Carnival2022_deco_07,Carnival2022_deco_08,Carnival2022_deco_09
+    texture_type: "1,1,1"
+    sorting: "0,0,0"
+    offset: "-0.434,0.000,0.000|-0.434,2.242,0.517|1.871,0.000,0.000"
+    rotate: "2,2,2"
+    interact_point: "18,19"
+    interact_point_offset: *2.217,1.352,-0.285|*-2.634,1.238,-0.285
+  }
+  {
+    id: 10606
+    name: 끝없는 밤 - 돈벼락 빌딩
+    classes: 106
+    type: 201
+    position: "1,6"
+    space: "10,2,1,1,1,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: 사치품이란 인간 생존 및 발전 수요를 초과한 소비품이지만, 그것을 파는 곳은 항상 길거리 전체의 이목을 끕니다.
+    code: Carnival2022_deco_10,Carnival2022_deco_11,Carnival2022_deco_billboardA
+    texture_type: "1,1,2"
+    sorting: "0,0,20"
+    offset: "-0.094,0.000,0.000|-0.094,4.494,1.032|1.769,1.729,0.400"
+    rotate: "2,2,2"
+  }
+  {
+    id: 10607
+    name: 끝없는 밤 - 캐주얼 상가
+    classes: 106
+    type: 201
+    position: "20,6"
+    space: "10,2,1,1,1,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: 계속 걸어 다녀야 하는 다른 곳과 달리 여기선 안심하고 자리에 앉아 자신의 전리품을 감상할 수 있습니다.
+    code: Carnival2022_deco_12,Carnival2022_deco_billboardD
+    texture_type: "1,2"
+    sorting: "0,20"
+    offset: "-0.002,-0.060,-0.017|-1.863,1.652,0.387"
+    rotate: "2,2"
+  }
+  {
+    id: 10608
+    name: 끝없는 밤 - 변화무쌍 지대
+    classes: 106
+    type: 201
+    position: "17,2"
+    space: "9,2,1,1,1,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: 판타지 작품에서 미소녀는 초능력이 있어야 변신할 수 있지만, 현대에선 돈만 있으면 머리부터 발끝까지 변할 수 있습니다.
+    code: Carnival2022_deco_13
+    texture_type: "1"
+    offset: "-0.146,0.000,0.000"
+    rotate: "2"
+  }
+  {
+    id: 10609
+    name: 끝없는 밤 - 낙서 구역
+    classes: 106
+    type: 201
+    position: "11,0"
+    space: "10,2,1,1,1,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: 벽은 그저 매체일 뿐, 땅바닥이나 차 창문처럼... 다 낙서의 도화지일 뿐... 네네, 그만 욕하세요, 벽에 낙서한 거 제가 다 지울게요.
+    code: Carnival2022_deco_14,Carnival2022_deco_billboardB,Carnival2022_deco_billboardC
+    texture_type: "1,2,2"
+    sorting: "0,20,20"
+    offset: "-0.094,-0.042,-0.010|0.443,1.298,0.300|0.643,1.701,0.392"
+    rotate: "2,2,2"
+  }
+  {
+    id: 10610
+    name: 끝없는 밤 - 별빛 그물 계단
+    classes: 106
+    type: 201
+    position: "6,4"
+    space: "20,2,1,1,1,0"
+    deco_rate: 1300
+    decompose_gift: 100003
+    description: LED 전구로 별하늘 같은 등불 그물을 만들어, 계단을 오르면 별을 딸 수 있을 것 같은 착각을 줍니다. 하지만 우리 모두 알다시피 계단 끝에 있는 건 공허뿐입니다.
+    code: Carnival2022_deco_15,Carnival2022_deco_16
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-1.366,-0.052,-0.010|3.240,-0.052,-0.010"
+    rotate: "2,2"
+    interact_point: "27"
+    interact_point_offset: *-0.525,2.163,-0.285
+  }
+  {
+    id: 10611
+    name: 끝없는 밤 - 신품 아레나
+    classes: 106
+    type: 201
+    position: "1,9"
+    space: "2,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 매 시즌 최신 상품을 전시하는 현수막, 지금은 선명한 색깔로 사람들의 눈길을 사로잡지만, 계절이 지나면 바로 창고에서 먼지 쌓이는 걸레가 됩니다.
+    code: Carnival2022_deco_17,Carnival2022_deco_18
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0.000,0.000,0.000|0.000,2.242,0.517"
+    rotate: "2,2"
+  }
+  {
+    id: 10612
+    name: 끝없는 밤 - 등불 낚시
+    classes: 106
+    type: 201
+    position: "13,7"
+    space: "6,7,0,0,0,0"
+    deco_rate: 1250
+    decompose_gift: 100003
+    description: 바닥 전등을 구매토큰으로 착각한 낚시꾼이야말로, 욕망이란 미끼를 덥석 문 물고기가 아닐까요?
+    code: Carnival2022_deco_19,Carnival2022_deco_20,Carnival2022_deco_fishDog
+    texture_type: "1,1,2"
+    sorting: "0,0,20"
+    offset: "0.000,-0.521,1.105|2.304,-0.177,-0.063|0,-0.2481626,1.2731367"
+    rotate: "2,2,2"
+  }
+  {
     id: 20000
     name: 명탕 라오
     classes: 81
@@ -27399,6 +27629,20 @@
     code: 2022SummerActivity_Medal
     texture_type: "1"
     offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20076
+    name: 고정된 푸른 토요일
+    classes: 81
+    type: 302
+    space: "6,7,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 휴일은 짧지만 필름에 고정된 순간은 영원합니다.
+    code: 2022_Carnival_deco_drawing
+    texture_type: "1"
+    offset: "0,0.542204,0"
     rotate: "3"
   }
   {
@@ -28926,6 +29170,141 @@
     decompose_gift: 100003
     description: M4 SOPMODII의 포스터
     code: poster_AprilFool2022_M4 SOPMOD II
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30576
+    name: SL8 - 고스트 피즈
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SL8의 포스터
+    code: poster_Carnival2022_SL8
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30577
+    name: VHS - 위스키 플로트
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: VHS의 포스터
+    code: poster_Carnival2022_VHS
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30578
+    name: 류 소총 - 월드 트렌드
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 류 소총의 포스터
+    code: poster_Carnival2022_GeneralLiu
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30579
+    name: AUG Para - 피스코 사워
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: AUG Para의 포스터
+    code: poster_Carnival2022_AUGPARA
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30581
+    name: HK416 - 화이트 네그로니
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: HK416의 포스터
+    code: poster_Carnival2022_HK416
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30582
+    name: G11 - 머릿속의 지우개
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: G11의 포스터
+    code: poster_Carnival2022_G11
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30583
+    name: UMP9 - 비스 니즈
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: UMP9의 포스터
+    code: poster_Carnival2022_UMP9
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30584
+    name: UMP45 - 석양빛 맥주
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: UMP45의 포스터
+    code: poster_Carnival2022_UMP45
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30585
+    name: UMP40 - 물속 보름달
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: UMP40의 포스터
+    code: poster_Carnival2022_UMP40
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
