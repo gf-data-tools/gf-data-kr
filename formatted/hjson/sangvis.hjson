@@ -1152,6 +1152,64 @@
     org_id: 10603
   }
   {
+    id: 1021
+    name: 엑스큐셔너-선혈 사냥꾼
+    en_name: Excutioner_Halloween
+    code: Excutioner_Halloween
+    introduce: 추격에 특화된 커스텀 소체. 엑스큐서너 본인의 요구에 따라 거대 의수와 가변식 열절단 대낫을 장착하여, 전장에서 적의 목숨을 손쉽게 수확하며 막강한 파괴력을 발휘한다. 동시에 검은 의상은 모습을 감추는 것에 용이하며, 적의 등 뒤에서 서슬 퍼런 칼날을 드러낼 수 있다. 꿈속을 드나드는 이를 보았는가? 그녀는 밤의 장막과 함께 나타나며 죽음과 함께 모습을 감춘다. 악몽 속의 모든 광기를 사냥하면서.
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: 미정
+    forces: 1
+    type: 1
+    character: "2,4,5"
+    formation: 1
+    resolution: 121
+    shape_scale: "80,120"
+    ap_cost: 10
+    rank: 5
+    skill1: 750579
+    skill2_type: 1
+    skill2: 750581
+    skill3: 750582
+    skill_advance: 750583
+    skill_resolution: "750580"
+    passive_skill2: "750592,750593,750594,750595,750596,750597,750599"
+    dynamic_passive_skill: "750598"
+    normal_attack: 750584
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 155
+    ratio_pow: 110
+    ratio_rate: 65
+    ratio_hit: 90
+    ratio_dodge: 110
+    armor_piercing: 15
+    crit: 40
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 20
+    attack_range_type: 1
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 3
+    effect_grid_effect: 0:5,50|5:1,15;4,15
+    type_chip1: "1,2,3"
+    type_chip2: "1,2,3"
+    type_chip3: "1,2,3"
+    illustration_id: 175
+    ai: 11002
+    is_additional: 2
+    launch_time: 2016-05-20 00:00:00
+    display_enemy_team: 930022
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    org_id: 10604
+  }
+  {
     id: 2001
     name: 브루트
     en_name: Brute

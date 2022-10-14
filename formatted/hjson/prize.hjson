@@ -11882,6 +11882,74 @@
     icon: Bumdle_black
   }
   {
+    id: 1591
+    name: 환영나비*20+훈장a
+    item_ids: 100160-20,100161-1
+    content: prize-20001591
+  }
+  {
+    id: 1592
+    name: 환영나비*20+훈장b
+    item_ids: 100160-20,100162-1
+    content: prize-20001592
+  }
+  {
+    id: 1593
+    name: 환영나비*20
+    item_ids: 100160-20
+    content: prize-20001593
+  }
+  {
+    id: 1594
+    name: 환영나비*30+훈장a*2
+    item_ids: 100160-30,100161-2
+    content: prize-20001594
+  }
+  {
+    id: 1595
+    name: 환영나비*30+훈장b*2
+    item_ids: 100160-30,100162-2
+    content: prize-20001595
+  }
+  {
+    id: 1596
+    name: 환영나비*30
+    item_ids: 100160-30
+    content: prize-20001596
+  }
+  {
+    id: 1597
+    name: 훈장a
+    item_ids: 100161-1
+    content: prize-20001597
+  }
+  {
+    id: 1598
+    name: 훈장b
+    item_ids: 100162-1
+    content: prize-20001598
+  }
+  {
+    id: 1599
+    name: 훈장2a
+    item_ids: 100161-2
+    content: prize-20001599
+  }
+  {
+    id: 1600
+    name: 훈장2b
+    item_ids: 100162-2
+    content: prize-20001600
+  }
+  {
+    id: 1601
+    name: 핼러윈 축제 패키지
+    item_ids: 41-500,605-15,516-1000,45-500
+    gift: 100003-5
+    content: prize-20001601
+    icon: Bumdle_Division
+  }
+  {
     id: 2001
     name: WA2000 - 고성에서의 모험
     gift: 6-1
@@ -13920,6 +13988,18 @@
     name: 포스터 - 거울단계 - Protean
     furniture: "20026"
     content: 보상수령
+  }
+  {
+    id: 5027
+    name: 2022년 상반기 이벤트 PV 보상
+    furniture: "20077"
+    content: 보상 수령
+  }
+  {
+    id: 5028
+    name: 2022년 하반기 이벤트 PV 보상
+    furniture: "20078"
+    content: 보상 수령
   }
   {
     id: 6001
@@ -24436,6 +24516,12 @@
     name: 천년의 기대
     furniture: "7237"
     content: prize-20012190
+  }
+  {
+    id: 12191
+    name: 달콤한 수술대
+    furniture: "2049"
+    content: prize-20012191
   }
   {
     id: 12201
