@@ -36361,6 +36361,111 @@
     rotate: "3"
   }
   {
+    id: 37601
+    name: M327 - 항상 뒤에 있어
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M327의 포스터
+    code: poster_Halloween2022_M327
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37602
+    name: KH2002 - 지옥의 선봉대
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: KH2002의 포스터
+    code: poster_Halloween2022_KH2002
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37603
+    name: JS 9 - 대나무를 감싸는 은색 비늘
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: JS 9의 포스터
+    code: poster_Halloween2022_JS9mm
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37604
+    name: PPQ - 손끝에서 태어나
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: PPQ의 포스터
+    code: poster_Halloween2022_PPQ
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37605
+    name: 스텐 MkII - 누가 내 사탕을 건드렸나
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 스텐 MkII의 포스터
+    code: poster_Halloween2022_StenMK2
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37606
+    name: MG42 - 마녀 실습생
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MG42의 포스터
+    code: poster_Halloween2022_MG42
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 37607
+    name: G43 - 백작의 야간방문
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: G43의 포스터
+    code: poster_Halloween2022_G43
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 40001
     name: 구호소벽지
     classes: 400

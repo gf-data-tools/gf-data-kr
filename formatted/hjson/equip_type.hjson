@@ -159,4 +159,28 @@
     code: Special_TDoll
     des: 특수한 인형 장비, 종류에 따라 능력치 변동이 다르며 제조 불가능.
   }
+  {
+    type: 21
+    name: 고정 양각대
+    category: 3
+    code: GroundMount
+    fit_gun_type: "5"
+    des: 인형의 <color=#FFB400FF>명중</color>과 <color=#FFB400FF>재장전 속도</color> 상승, 대신 <color=#FFB400FF>이동속도</color> 감소
+  }
+  {
+    type: 22
+    name: 초크
+    category: 1
+    code: Cylinder
+    fit_gun_type: "6"
+    des: 인형의 <color=#FFB400FF>장탄수</color>와 <color=#FFB400FF>명중</color> 상승
+  }
+  {
+    type: 23
+    name: 거리 측정기
+    category: 3
+    code: RangeFinder
+    fit_gun_type: "3"
+    des: 인형의 <color=#FFB400FF>화력</color> 상승 및 스킬 <color=#FFB400FF>초기 쿨타임</color> 감소
+  }
 ]

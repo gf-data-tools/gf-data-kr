@@ -11950,6 +11950,13 @@
     icon: Bumdle_Division
   }
   {
+    id: 1602
+    name: 2022년 11월 출석
+    gem: 90
+    equip_ids: "315"
+    content: prize-20001602
+  }
+  {
     id: 2001
     name: WA2000 - 고성에서의 모험
     gift: 6-1
@@ -13832,6 +13839,18 @@
     name: 아이콘: 샤크 카니발
     item_ids: 2110-1
     content: prize-20004312
+  }
+  {
+    id: 4313
+    name: 혼합세력: 엑스큐셔너-선혈의 사냥꾼
+    sangvis: "1021"
+    content: prize-20004313
+  }
+  {
+    id: 4314
+    name: 아이콘： 엑스큐셔너-선혈의 사냥꾼
+    item_ids: 2182-1
+    content: prize-20004314
   }
   {
     id: 5001
@@ -21529,6 +21548,62 @@
     user_exp: 2000
     item_ids: 106-60,2139-1,200008-1
     content: prize-20010749
+    icon: Medal_Chess
+  }
+  {
+    id: 10750
+    name: prize-10010750
+    user_exp: 30
+    item_ids: 106-5,2183-1,200006-1
+    content: prize-20010750
+    icon: Medal_Chess
+  }
+  {
+    id: 10751
+    name: prize-10010751
+    user_exp: 60
+    item_ids: 106-10
+    content: prize-20010751
+    icon: Medal_Chess
+  }
+  {
+    id: 10752
+    name: prize-10010752
+    user_exp: 100
+    item_ids: 106-20
+    content: prize-20010752
+    icon: Medal_Chess
+  }
+  {
+    id: 10753
+    name: prize-10010753
+    user_exp: 200
+    item_ids: 106-30,2184-1,200007-1
+    content: prize-20010753
+    icon: Medal_Chess
+  }
+  {
+    id: 10754
+    name: prize-10010754
+    user_exp: 500
+    item_ids: 106-40
+    content: prize-20010754
+    icon: Medal_Chess
+  }
+  {
+    id: 10755
+    name: prize-10010755
+    user_exp: 1000
+    item_ids: 106-50
+    content: prize-20010755
+    icon: Medal_Chess
+  }
+  {
+    id: 10756
+    name: prize-10010756
+    user_exp: 2000
+    item_ids: 106-60,2185-1,200008-1
+    content: prize-20010756
     icon: Medal_Chess
   }
   {
@@ -31147,7 +31222,7 @@
   {
     id: 30203
     name: 8빙고 보상
-    gift: 6707-1
+    gift: 7606-1
     content: prize-20030203
     icon: Bumdle_blue
   }
