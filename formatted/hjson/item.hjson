@@ -546,6 +546,26 @@
     detail_introduction: item-30000113
   }
   {
+    id: 114
+    type: 3
+    arg: "15"
+    code: Medal_Theater9th
+    item_name: 9차 국지전 개척자 훈장
+    introduction: 제9차 국지전에서 꾸준한 노력으로 뛰어난 성적을 얻은 지휘관 및 휘하 인형에게 수여합니다. "추락하는 순간 튼튼한 날개를 가진 독수리만이 바람을 거슬러 날 수 있다."
+    rank: 1
+    detail_introduction: item-30000114
+  }
+  {
+    id: 115
+    type: 3
+    arg: "16"
+    code: Medal_Theater9th_rank
+    item_name: 9차 국지전 정복자 훈장
+    introduction: 제9차 국지전에서 남다른 전공을 올린 지휘관 및 휘하 인형에게 수여합니다. "심연의 주시를 두려워마라, 그것은 용사가 반드시 거치는 시련이다."
+    rank: 1
+    detail_introduction: item-30000115
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -624,6 +644,16 @@
     introduction: 중장비 부대 PP93의 데이터 조각. - "문제! 일찍이 해변에 상륙한 우리가 미역이면——"-"해변 목표 구역의 적은 물개다, 그 개그 이미 질리도록 들었어!"
     rank: 1
     detail_introduction: item-30000308
+  }
+  {
+    id: 309
+    type: 1
+    arg: "1"
+    code: CentreDataMK47
+    item_name: 中樞數據:Mk 47
+    introduction: 重裝部隊Mk 47的數據碎片，-「您的火力清掃服務已就緒，這次還是老規矩——」-「且慢，目測敵軍數量超出預期……老闆，得再加錢才行啊。」
+    rank: 1
+    detail_introduction: item-30000309
   }
   {
     id: 501
@@ -12698,8 +12728,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season8_1
-    item_name: item-10002183
-    introduction: item-20002183
+    item_name: 무장선봉 · Code6:소용돌이
+    introduction: 무장선봉 · Code6:소용돌이
     rank: 1
     detail_introduction: item-30002183
   }
@@ -12708,8 +12738,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season8_2
-    item_name: item-10002184
-    introduction: item-20002184
+    item_name: 흑철전훈 · Code6:소용돌이
+    introduction: 흑철전훈 · Code6:소용돌이
     rank: 1
     detail_introduction: item-30002184
   }
@@ -12718,10 +12748,30 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season8_3
-    item_name: item-10002185
-    introduction: item-20002185
+    item_name: 겁없는 야심 · Code6:소용돌이
+    introduction: 겁없는 야심 · Code6:소용돌이
     rank: 1
     detail_introduction: item-30002185
+  }
+  {
+    id: 2186
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_DSR50
+    item_name: DSR-50 - 저녁 속삭임
+    introduction: DSR-50 - 저녁 속삭임
+    rank: 1
+    detail_introduction: item-30002186
+  }
+  {
+    id: 2187
+    type: 5
+    arg: "1"
+    code: card_BattlePass_DSR50
+    item_name: 카드배경: 원탁의 바텐더
+    introduction: 카드배경: 원탁의 바텐더
+    rank: 1
+    detail_introduction: item-30002187
   }
   {
     id: 4001
@@ -16021,7 +16071,7 @@
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
     item_name: *유탄 포수
-    introduction: *갑작스레 닥쳐오는 위협을 마주볼 수 있고, 완벽하게 회피하고 역전의 수를 생각해 내는 것이 지휘관으로서의 생존 비법이다. 다행인 줄 알아라, 지금 날아오는 저 물건은 속도가 시속 150km보단 낮으니까.
+    introduction: item-20140001
     rank: 1
     detail_introduction: item-30140001
   }
@@ -16031,7 +16081,7 @@
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
     item_name: *유탄 포수
-    introduction: *갑작스레 닥쳐오는 위협을 마주볼 수 있고, 완벽하게 회피하고 역전의 수를 생각해 내는 것이 지휘관으로서의 생존 비법이다. 다행인 줄 알아라, 지금 날아오는 저 물건은 속도가 시속 150km보단 낮으니까.
+    introduction: item-20140002
     rank: 1
     detail_introduction: item-30140002
   }
@@ -16041,7 +16091,7 @@
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
     item_name: *유탄 포수
-    introduction: *갑작스레 닥쳐오는 위협을 마주볼 수 있고, 완벽하게 회피하고 역전의 수를 생각해 내는 것이 지휘관으로서의 생존 비법이다. 다행인 줄 알아라, 지금 날아오는 저 물건은 속도가 시속 150km보단 낮으니까.
+    introduction: item-20140003
     rank: 1
     detail_introduction: item-30140003
   }
@@ -16051,9 +16101,29 @@
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
     item_name: *유탄 포수
-    introduction: *갑작스레 닥쳐오는 위협을 마주볼 수 있고, 완벽하게 회피하고 역전의 수를 생각해 내는 것이 지휘관으로서의 생존 비법이다. 다행인 줄 알아라, 지금 날아오는 저 물건은 속도가 시속 150km보단 낮으니까.
+    introduction: item-20140004
     rank: 1
     detail_introduction: item-30140004
+  }
+  {
+    id: 140005
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *유탄포수
+    introduction: item-20140005
+    rank: 1
+    detail_introduction: item-30140005
+  }
+  {
+    id: 140006
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *유탄포수
+    introduction: item-20140006
+    rank: 1
+    detail_introduction: item-30140006
   }
   {
     id: 160001
@@ -16184,6 +16254,16 @@
     introduction: 아이콘 액자·골목길의 메아리
     rank: 1
     detail_introduction: item-30200014
+  }
+  {
+    id: 200015
+    type: 5
+    arg: "1"
+    code: profileFrame_BattlePass_DSR50
+    item_name: 액자·로봇개가 전기술의 꿈을 꿀 때
+    introduction: 액자·로봇개가 전기술의 꿈을 꿀 때
+    rank: 1
+    detail_introduction: item-30200015
   }
   {
     id: 900030
@@ -16376,12 +16456,45 @@
   {
     id: 1500017
     type: 15
-    arg: "1500009"
+    arg: "1500017"
     code: package_choose
     item_name: 기초 장비 자유선택 코드
     introduction: 개봉 시 리스트 중 한 가지 장비를 지정해서 획득합니다.
     rank: 1
     sort: -1
     detail_introduction: item-31500017
+  }
+  {
+    id: 1500018
+    type: 15
+    arg: "1500018"
+    code: package_choose
+    item_name: 기초 장비 자유선택 코드
+    introduction: 개봉 시 목록 중 장비를 하나 선택해서 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500018
+  }
+  {
+    id: 1500019
+    type: 15
+    arg: "1500019"
+    code: package_random
+    item_name: 미해금 인형 확정 코드
+    introduction: 개봉 시 목록 중 도감을 해금 안 한 인형을 확정 획득합니다. 전부 보유할 경우 무작위 출현.
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500019
+  }
+  {
+    id: 1500020
+    type: 15
+    arg: "1500020"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 개봉 시 목록 중 도구 하나를 무작위로 얻습니다.
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500020
   }
 ]

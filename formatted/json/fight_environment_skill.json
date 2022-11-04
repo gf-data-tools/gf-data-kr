@@ -406,5 +406,53 @@
         "if_display": 1,
         "code": "fight_skill_buff202",
         "skill_group": "756147"
+    },
+    {
+        "id": 901,
+        "name": "뿅망치",
+        "desc": "아군 전체 치명률 50% 상승, 대신 치명타 피해 80% 감소.",
+        "if_display": 1,
+        "code": "fight_skill_buff107",
+        "skill_group": "756193"
+    },
+    {
+        "id": 902,
+        "name": "파이트 클럽",
+        "desc": "아군 전체 화력 50% 감소, 동시에 적에게 받는 피해 100% 증폭 상태 부여.",
+        "if_display": 1,
+        "code": "fight_skill_buff301",
+        "skill_group": "756195"
+    },
+    {
+        "id": 903,
+        "name": "파쇄기",
+        "desc": "적 전체 관통 수치 200 상승.",
+        "if_display": 1,
+        "code": "fight_skill_buff205",
+        "skill_group": "756198"
+    },
+    {
+        "id": 904,
+        "name": "조별과제",
+        "desc": "리더를 제외한 모든 아군의 화력 20% 감소.",
+        "if_display": 1,
+        "code": "fight_skill_buff108",
+        "skill_group": "756200"
+    },
+    {
+        "id": 905,
+        "name": "연소타격 Ⅱ",
+        "desc": "전투 개시 시 아군 두 번째 줄에 화염지대를 생성해 0.33초마다 편제당 50 피해를 준다. 지속시간 10초.",
+        "if_display": 1,
+        "code": "fight_skill_hurt104",
+        "skill_group": "756202"
+    },
+    {
+        "id": 906,
+        "name": "다윗의 공격",
+        "desc": "10초마다 피아 양측 체력이 가장 높은 유닛에게 최대체력 10%만큼의 피해를 준다.",
+        "if_display": 1,
+        "code": "fight_skill_hurt301",
+        "skill_group": "756204"
     }
 ]

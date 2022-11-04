@@ -201,9 +201,9 @@
   }
   {
     id: 712
-    name: 권총 참전
+    name: 병종 지명
     type: 11
-    desc: HG을 최소 1명 투입할 것
+    desc: HG를 투입할 것
     condition_coef: "1,1"
     score_coef: 100
   }
@@ -217,9 +217,9 @@
   }
   {
     id: 714
-    name: 소총 참전
+    name: 병종 지명
     type: 11
-    desc: RF을 최소 1명 투입할 것
+    desc: RF를 투입할 것
     condition_coef: "3,1"
     score_coef: 100
   }
@@ -241,7 +241,7 @@
   }
   {
     id: 717
-    name: 병종 수량 지정
+    name: 병종 지명
     type: 11
     desc: RF을 최소 3명 투입할 것
     condition_coef: "3,3"
@@ -249,9 +249,9 @@
   }
   {
     id: 718
-    name: MG 참전
+    name: 병종 지명
     type: 11
-    desc: MG을 최소 1명 투입할 것
+    desc: MG를 투입할 것
     condition_coef: "5,1"
     score_coef: 100
   }
@@ -357,6 +357,38 @@
     type: 4
     desc: 40초 이내 커맨더 둘 처치
     condition_coef: 40|10090,2
+    score_coef: 100
+  }
+  {
+    id: 901
+    name: 병종 지명
+    type: 11
+    desc: RF를 최소 2명 투입할 것
+    condition_coef: "3,2"
+    score_coef: 100
+  }
+  {
+    id: 902
+    name: 인형 지명
+    type: 9
+    desc: M4A1, M4 SOPMODII 또는 ST AR-15를 포함할 것
+    condition_coef: "55,56,57"
+    score_coef: 100
+  }
+  {
+    id: 903
+    name: 병종 지명
+    type: 11
+    desc: MG를 최소 2명 투입할 것
+    condition_coef: "5,2"
+    score_coef: 100
+  }
+  {
+    id: 904
+    name: 병종 지명
+    type: 11
+    desc: MG를 최소 3명 투입할 것
+    condition_coef: "5,3"
     score_coef: 100
   }
 ]

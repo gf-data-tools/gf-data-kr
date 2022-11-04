@@ -7644,4 +7644,14 @@
     illustrator_cv: skin-40030001
     order: 91
   }
+  {
+    id: 30002
+    name: DSR-50 - 저녁 속삭임
+    fit_gun: 179
+    voice: 4
+    dialog: 새벽 햇살이 술잔에 굴절되어 반짝이는 모습은 야경보다 매혹적이야... 지휘관, 나와 함께 감상하지 않을래?
+    note: skin-30030002
+    illustrator_cv: 小枪,Saito Yuka,
+    order: 95
+  }
 ]
