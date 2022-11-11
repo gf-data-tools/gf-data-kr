@@ -11965,6 +11965,15 @@
     icon: Bumdle_double112021
   }
   {
+    id: 1604
+    name: 재귀정리 보급
+    item_ids: 41-500,7-2
+    gift: 100003-5
+    coins: 3-1000
+    content: prize-20001604
+    icon: Bumdle_package
+  }
+  {
     id: 2001
     name: WA2000 - 고성에서의 모험
     gift: 6-1

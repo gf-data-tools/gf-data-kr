@@ -1439,7 +1439,6 @@
     description: 모든 효과카드가 칠색카드고 레벨이 2일 때 이번 게임에서 승리한다(점수+10).
     rank: 5
     skill_target_first: "19901"
-    skill_target_second: "19907"
     target_select_first: 5
     target_select_second: 5
     type: 1
@@ -1645,7 +1644,9 @@
     description: 권총을 배치하고 첫 이동 거리가 3배가 된다.
     rank: 5
     skill_target_first: "60201,60204,60203"
+    skill_target_second: "19904"
     target_select_first: 10
+    target_select_second: 5
     type: 1
     sell_price: 7
     experience: 1
