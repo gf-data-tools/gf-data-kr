@@ -2067,7 +2067,7 @@ enemy_character_type-10700009,엘리트//c알케미스트
 enemy_character_type-30700009,HG//cRF
 enemy_character_type-20700010,에이전트
 enemy_character_type-10700010,엘리트//c에이전트
-enemy_character_type-30700010,SMG//cAR//c夜视装备
+enemy_character_type-30700010,SMG//cAR//c야시장비
 enemy_character_type-20700011,엘리사
 enemy_character_type-10700011,엘리트//c？？？？
 enemy_character_type-30700011,RF//cMG//cSG 

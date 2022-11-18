@@ -1277,6 +1277,17 @@
     order: 84
   }
   {
+    id: 575
+    name: QBZ-191 - 수묵 피즈
+    fit_gun: 361
+    voice: 4
+    dialog: 종횡으로 교차한 수많은 도로와 수없이 뻗어나온 샛길들은 마치 우리의 무한한 미래의 가능성 같아.
+    note: skin-30000575
+    illustrator_cv: skin-40000575
+    order: 93
+    class_id: 80
+  }
+  {
     id: 576
     name: SL8 - 고스트 피즈
     fit_gun: 296

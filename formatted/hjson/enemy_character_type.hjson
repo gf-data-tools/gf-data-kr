@@ -7534,7 +7534,7 @@
     effect_ratio: 1.0
     voice: "1,2,3"
     deployment_scale: 1.0
-    recommend_description: SMG,AR,夜视装备
+    recommend_description: SMG,AR,야시장비
     enemy_illustration_id: 45
   }
   {
