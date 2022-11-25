@@ -7646,6 +7646,73 @@
     class_id: 81
   }
   {
+    id: 7701
+    name: 류 소총 - 드래곤 소울
+    fit_gun: 316
+    voice: 4
+    dialog: 전설에 류 일족은 용을 부리는 고수 가문이라고 해요... 이 혈통에 담긴 힘은 분명 제 권법에서 각성하겠죠!
+    note: skin-30007701
+    illustrator_cv: skin-40007701
+    order: 96
+    class_id: 82
+  }
+  {
+    id: 7702
+    name: QBZ-191 - 우뚝 선 소나무처럼
+    fit_gun: 361
+    voice: 4
+    dialog: 밧줄을 쥐고, 무장한 채 눈 속을 헤친다. 안심해, 지휘관. 내가 있는 한 그리폰을 넘보는 무리는 한 발짝도 나서지 못할 테니까!
+    note: skin-30007702
+    gift_position: "-88.6,26.4"
+    illustrator_cv: skin-40007702
+    order: 96
+    class_id: 82
+  }
+  {
+    id: 7703
+    name: VP1915 - 검은 비늘 가시
+    fit_gun: 333
+    voice: 4
+    dialog: 우산과 일체가 되어 내 마음대로 부린다... 각인을 안 했어도 신기하게 손 안의 물건과 내가 공명하는 것이 느껴져... 이것이 동양 무술의 매력인가?
+    note: skin-30007703
+    illustrator_cv: skin-40007703
+    order: 96
+    class_id: 82
+  }
+  {
+    id: 7704
+    name: Ak 5 - 잠자리 물 찍기
+    fit_gun: 187
+    voice: 4
+    dialog: 마켓의 폐기 직전 술로 어떻게 먼길 따라 보내온 샘물로 빚은 술에 견줄 수 있겠나요? ... 그래요, 산 쪽의 소매점 물건이 싸긴 해요...
+    note: skin-30007704
+    illustrator_cv: skin-40007704
+    order: 96
+    class_id: 82
+  }
+  {
+    id: 7705
+    name: 4식 - 학 다리 서기
+    fit_gun: 270
+    voice: 4
+    dialog: 이 기술 "백학전익"을 마스터 하면 소녀가 새해에 그리폰 수호신으로 문에 그려질 수 있다고 들었사옵니다! 응, 열심히 하겠사옵니다!
+    note: skin-30007705
+    illustrator_cv: skin-40007705
+    order: 96
+    class_id: 82
+  }
+  {
+    id: 7706
+    name: 56-1식 - 무쌍 쌍절곤
+    fit_gun: 66
+    voice: 4
+    dialog: 설마 쌍절곤을 바나나 같은 색으로 칠했더니 수준이 급상승할 줄이야! (꼬르륵...) 앗, 조금 출출해졌어!
+    note: skin-30007706
+    illustrator_cv: skin-40007706
+    order: 96
+    class_id: 82
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     fit_gun: 57

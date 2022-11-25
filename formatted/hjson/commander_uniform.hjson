@@ -2887,6 +2887,146 @@
     color_icon_id: "846,847,848,849,850,851"
   }
   {
+    id: 5011
+    name: 풍중청류
+    description: 당신의 승패가 이 헤어스타일의 유행 여부를 결정하니까 열심히 싸워 이발 비용을 갚으세요!
+    code: Head1
+    icon: commander_5011_icon
+    type: 1
+    gender: 1
+    uniform_class: "50"
+    color_normal: Commander_5011_N
+    color_0: Commander_5011_0
+    color_1: Commander_5011_1
+    color_2: Commander_5011_2
+    color_3: Commander_5011_3
+    color_4: Commander_5011_4
+    color_icon_id: "852,853,854,855,856,857"
+  }
+  {
+    id: 5012
+    name: 월하미인
+    description: 귀여운 장신구도 공격 수단입니다. 상대의 허를 찌르는 트윈테일 공격으로 모든 것을 쓸어버리세요.
+    code: Head2
+    icon: commander_5012_icon
+    type: 1
+    gender: 2
+    uniform_class: "50"
+    color_normal: Commander_5012_N
+    color_0: Commander_5012_0
+    color_1: Commander_5012_1
+    color_2: Commander_5012_2
+    color_3: Commander_5012_3
+    color_4: Commander_5012_4
+    color_icon_id: "858,859,860,861,862,863"
+  }
+  {
+    id: 5020
+    name: 팔문심맥
+    description: 놀라지 마, 이건 내 내공이 겉으로 드러난 현상이야. 좋은 점이 뭐냐고? 의사 선생이 내 몸 상태를 알기 쉽다는 점이지...
+    code: HeadAcco
+    icon: commander_5020_icon
+    type: 2
+    uniform_class: "50"
+    color_normal: Commander_5020_N
+    color_0: Commander_5020_0
+    color_1: Commander_5020_1
+    color_2: Commander_5020_2
+    color_3: Commander_5020_3
+    color_4: Commander_5020_4
+    bone_name: HairBinder2
+    scale: 0.2
+    position: "0.046,0.316"
+    color_icon_id: "864,865,866,867,868,869"
+  }
+  {
+    id: 5031
+    name: 웅심호담
+    description: 이 위풍당당한 문신 스티커를 붙이고 다니면 모두 당신한테 얼씬거리지 못할 겁니다. 대신 비내리는 날엔 외출을 피하세요!
+    code: Body1
+    icon: commander_5031_icon
+    type: 3
+    gender: 1
+    uniform_class: "50"
+    color_normal: Commander_5031_N
+    color_0: Commander_5031_0
+    color_1: Commander_5031_1
+    color_2: Commander_5031_2
+    color_3: Commander_5031_3
+    color_4: Commander_5031_4
+    color_icon_id: "870,871,872,873,874,875"
+  }
+  {
+    id: 5032
+    name: 금수교룡
+    description: 재봉 장인을 특별 초빙하여 만든 무술 드레스, 예술 가치든 귀여움이든 매우 높은 수준을 자랑합니다... 눈을 뗄 수가 없어요!
+    code: Body2
+    icon: commander_5032_icon
+    type: 3
+    gender: 2
+    uniform_class: "50"
+    color_normal: Commander_5032_N
+    color_0: Commander_5032_0
+    color_1: Commander_5032_1
+    color_2: Commander_5032_2
+    color_3: Commander_5032_3
+    color_4: Commander_5032_4
+    color_icon_id: "876,877,878,879,880,881"
+  }
+  {
+    id: 5040
+    name: 신병보구
+    description: 강호를 누비는 사람이 호신용 무기 하나쯤 가지고 다녀도 이상할 거 없죠?
+    code: BodyAcco
+    icon: commander_5040_icon
+    type: 4
+    uniform_class: "50"
+    color_normal: Commander_5040_N
+    color_0: Commander_5040_0
+    color_1: Commander_5040_1
+    color_2: Commander_5040_2
+    color_3: Commander_5040_3
+    color_4: Commander_5040_4
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "0.006,0.000"
+    color_icon_id: "882,883,884,885,886,887"
+  }
+  {
+    id: 5051
+    name: 질풍노도
+    description: 이 무게가 스물 근인 장구를 입으면 물 위를 뛰어가는 경공을 수련할 수 있습니다... 제자리에서 30척 뛰기요? 만유인력을 무시하지 말아주세요!
+    code: Foot1
+    icon: commander_5051_icon
+    type: 5
+    gender: 1
+    uniform_class: "50"
+    color_normal: Commander_5051_N
+    color_0: Commander_5051_0
+    color_1: Commander_5051_1
+    color_2: Commander_5051_2
+    color_3: Commander_5051_3
+    color_4: Commander_5051_4
+    color_icon_id: "888,889,890,891,892,893"
+  }
+  {
+    id: 5052
+    name: 비설무영
+    description: 눈깜짝할 사이에 백 리 길을 지나가면서도 가벼운 발걸음은 눈밭에 어떤 흔적도 남기지 않습니다... 교통수단은 집어치우고 이 의상이야말로 최고의 선택입니다!
+    code: Foot2
+    icon: commander_5052_icon
+    type: 5
+    gender: 2
+    uniform_class: "50"
+    color_normal: Commander_5052_N
+    color_0: Commander_5052_0
+    color_1: Commander_5052_1
+    color_2: Commander_5052_2
+    color_3: Commander_5052_3
+    color_4: Commander_5052_4
+    color_icon_id: "894,895,896,897,898,899"
+  }
+  {
     id: 9920
     name: 활기찬 위장
     description: 언제나 가장 좋은 모습으로.

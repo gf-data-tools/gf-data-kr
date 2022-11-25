@@ -42757,7 +42757,7 @@
     id: 6540008
     name: 돌파 지점 선택
     code: "1"
-    description: mission_skill_config-26540008
+    description: 해당 구역 헬리포트를 획득.
     lvup_description: mission_skill_config-36540008
     skill_group_id: 6540008
     level: 1
@@ -42774,7 +42774,7 @@
     id: 6540009
     name: 돌파 지점 선택
     code: "1"
-    description: mission_skill_config-26540009
+    description: 해당 구역 헬리포트를 획득.
     lvup_description: mission_skill_config-36540009
     skill_group_id: 6540009
     level: 1
@@ -42791,7 +42791,7 @@
     id: 6540010
     name: 돌파 지점 선택
     code: "1"
-    description: mission_skill_config-26540010
+    description: 해당 구역 헬리포트를 획득.
     lvup_description: mission_skill_config-36540010
     skill_group_id: 6540010
     level: 1
@@ -42808,7 +42808,7 @@
     id: 6540011
     name: 돌파 지점 선택
     code: "1"
-    description: mission_skill_config-26540011
+    description: 해당 구역 헬리포트를 획득.
     lvup_description: mission_skill_config-36540011
     skill_group_id: 6540011
     level: 1
@@ -43259,7 +43259,7 @@
   }
   {
     id: 6540038
-    name: 그리폰 스킬1 수령
+    name: 그리폰 제대 지원 권한 획득
     code: "1"
     description: 원격 화력지원 권한 획득(1번만 수령할 수 있으니, 신중히 받을 제대를 선택하세요)
     lvup_description: mission_skill_config-36540038
@@ -43278,7 +43278,7 @@
   }
   {
     id: 6540039
-    name: 그리폰 스킬2 수령
+    name: 그리폰 제대 지원 권한 획득
     code: "1"
     description: 조명 지원 권한 획득(1번만 수령할 수 있으니, 신중히 받을 제대를 선택하세요)
     lvup_description: mission_skill_config-36540039
@@ -43297,7 +43297,7 @@
   }
   {
     id: 6540040
-    name: 그리폰 스킬3 수령
+    name: 그리폰 제대 지원 권한 획득
     code: "1"
     description: 박격포 지원 권한 획득(1번만 수령할 수 있으니, 신중히 받을 제대를 선택하세요)
     lvup_description: mission_skill_config-36540040
@@ -43316,7 +43316,7 @@
   }
   {
     id: 6540041
-    name: 그리폰 스킬4 수령
+    name: 그리폰 제대 지원 권한 획득
     code: "1"
     description: EMP 획득(1번만 수령할 수 있으니, 신중히 받을 제대를 선택하세요)
     lvup_description: mission_skill_config-36540041
@@ -43335,7 +43335,7 @@
   }
   {
     id: 6540042
-    name: 혼합세력 스킬1 수령
+    name: 그리폰 제대 지원 권한 획득
     code: "1"
     description: 골리앗 획득(1번만 수령할 수 있으니, 신중히 받을 제대를 선택하세요)
     lvup_description: mission_skill_config-36540042
@@ -43354,7 +43354,7 @@
   }
   {
     id: 6540043
-    name: 혼합세력 스킬2 수령
+    name: 그리폰 제대 지원 권한 획득
     code: "1"
     description: 사야 확장(1번만 수령할 수 있으니, 신중히 받을 제대를 선택하세요)
     lvup_description: mission_skill_config-36540043
@@ -43373,7 +43373,7 @@
   }
   {
     id: 6540044
-    name: 지원권한 획득
+    name: 그리폰 제대 지원 권한 획득
     code: "1"
     description: 전장 효과 획득(1번만 수령할 수 있으니, 신중히 받을 제대를 선택하세요)
     lvup_description: mission_skill_config-36540044
@@ -43392,7 +43392,7 @@
   }
   {
     id: 6540045
-    name: 혼합세력 스킬4 수령
+    name: 그리폰 제대 지원 권한 획득
     code: "1"
     description: 자신 능력치 20% 상승(1번만 수령할 수 있으니, 신중히 받을 제대를 선택하세요)
     lvup_description: mission_skill_config-36540045
@@ -43578,7 +43578,7 @@
   }
   {
     id: 6540057
-    name: 그리폰 스킬1
+    name: 원거리 화력 지원
     code: "1"
     description: 범위 5 이내의 적 부대를 선택해 원거리 화력 포격을 실시한다. 쿨타임: 1턴
     lvup_description: mission_skill_config-36540057
@@ -43595,7 +43595,7 @@
   }
   {
     id: 6540058
-    name: 그리폰 스킬2
+    name: 조명 지원
     code: "1"
     description: 범위 2 이내 거점에 조명을 지원한다. 조명 지점은 야간 패널티를 60% 상쇄한다. 쿨타임: 1턴
     lvup_description: mission_skill_config-36540058
@@ -43612,7 +43612,7 @@
   }
   {
     id: 6540059
-    name: 그리폰 스킬4
+    name: EMP 투척
     code: "1"
     description: EMP를 하나 투척한다. 쿨타임: 1턴
     lvup_description: mission_skill_config-36540059
@@ -43629,7 +43629,7 @@
   }
   {
     id: 6540060
-    name: 혼합세력 스킬1
+    name: 골리앗 투척
     code: "1"
     description: 골리앗을 하나 투척한다 쿨타임: 1턴
     lvup_description: mission_skill_config-36540060
@@ -63392,5 +63392,289 @@
     special_spot_add: 1010101:1
     is_manual: 6430013
     drop_item: 522:1
+  }
+  {
+    id: 95401001
+    name: 포격 발동
+    description:
+      '''
+      거리 3칸 이내 적에게 현재체력 100% 피해를 준다.
+      (보스에게 무효)
+      '''
+    lvup_description: mission_skill_config-125401001
+    skill_group_id: 95401001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 3
+    trigger_id: 100010091&&920000190
+    target_id: "102010190"
+    special_spot_add: 6510045:1
+    subsidiary_mission_skill: "95401008"
+    is_manual: 95401001
+  }
+  {
+    id: 95401002
+    name: 【标记】废弃大楼，限定初始减伤buff|终焉复刻秃洞序号55，这里用54错了
+    description: mission_skill_config-115401002
+    lvup_description: mission_skill_config-125401002
+    skill_group_id: 95401002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 9332110:1
+  }
+  {
+    id: 95401003
+    name: 기폭
+    description: 폐건물① 기폭
+    lvup_description: mission_skill_config-125401003
+    skill_group_id: 95401003
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 4
+    trigger_id: 101010091&&112010191
+    target_id: 112010091&&112010191
+    special_spot_add: 2110100:1,2110101:1,2110102:1,1000001:1:1
+    special_spot_minus: 9332110:1,1120100:1,1120101:1
+    subsidiary_mission_skill: "95401010"
+    is_manual: 95401003
+  }
+  {
+    id: 95401004
+    name: 기폭
+    description: 폐건물② 기폭
+    lvup_description: mission_skill_config-125401004
+    skill_group_id: 95401004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 4
+    trigger_id: 101010091&&112020191
+    target_id: 112020091&&112020191
+    special_spot_add: 2110100:1,2110101:1,2110102:1,1000001:1:1
+    special_spot_minus: 9332110:1,1120200:1,1120201:1
+    subsidiary_mission_skill: "95401011"
+    is_manual: 95401004
+  }
+  {
+    id: 95401005
+    name: 기폭
+    description: 폐건물③ 기폭
+    lvup_description: mission_skill_config-125401005
+    skill_group_id: 95401005
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 4
+    trigger_id: 101010091&&112030191
+    target_id: 112030091&&112030191
+    special_spot_add: 2110100:1,2110101:1,2110102:1,1000001:1:1
+    special_spot_minus: 9332110:1,1120300:1,1120301:1
+    subsidiary_mission_skill: "95401012"
+    is_manual: 95401005
+  }
+  {
+    id: 95401006
+    name: 기폭
+    description: 폐건물④ 기폭
+    lvup_description: mission_skill_config-125401006
+    skill_group_id: 95401006
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 4
+    trigger_id: 101010091&&112040191
+    target_id: 112040091&&112040191
+    special_spot_add: 2110100:1,2110101:1,2110102:1,1000001:1:1
+    special_spot_minus: 9332110:1,1120400:1,1120401:1
+    subsidiary_mission_skill: "95401013"
+    is_manual: 95401006
+  }
+  {
+    id: 95401007
+    name: 기폭
+    description: 폐건물⑤ 기폭
+    lvup_description: mission_skill_config-125401007
+    skill_group_id: 95401007
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 4
+    trigger_id: 101010091&&112050191
+    target_id: 112050091&&112050191
+    special_spot_add: 2110100:1,2110101:1,2110102:1,1000001:1:1
+    special_spot_minus: 9332110:1,1120500:1,1120501:1
+    subsidiary_mission_skill: "95401014"
+    is_manual: 95401007
+  }
+  {
+    id: 95401008
+    name: 【标记】포격진지冷却1回合
+    description: mission_skill_config-115401008
+    lvup_description: mission_skill_config-125401008
+    skill_group_id: 95401008
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 9200001:1
+  }
+  {
+    id: 95401009
+    name: 보스 약화
+    description: 발동 시 보스를 조금 약하게 만든다.
+    lvup_description: mission_skill_config-125401009
+    skill_group_id: 95401009
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "100020091"
+    target_id: "1"
+    special_spot_minus: 1000200:1
+    is_manual: 95401009
+  }
+  {
+    id: 95401010
+    name: 【标记】폐건물1已被踹
+    description: mission_skill_config-115401010
+    lvup_description: mission_skill_config-125401010
+    skill_group_id: 95401010
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 4
+    target_id: "101010091"
+    special_spot_minus: 1120101:1
+    is_manual: 95401007
+  }
+  {
+    id: 95401011
+    name: 【标记】폐건물2已被踹
+    description: mission_skill_config-115401011
+    lvup_description: mission_skill_config-125401011
+    skill_group_id: 95401011
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 4
+    target_id: "101010091"
+    special_spot_minus: 1120201:1
+    is_manual: 95401007
+  }
+  {
+    id: 95401012
+    name: 【标记】폐건물3已被踹
+    description: mission_skill_config-115401012
+    lvup_description: mission_skill_config-125401012
+    skill_group_id: 95401012
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 4
+    target_id: "101010091"
+    special_spot_minus: 1120301:1
+    is_manual: 95401007
+  }
+  {
+    id: 95401013
+    name: 【标记】폐건물4已被踹
+    description: mission_skill_config-115401013
+    lvup_description: mission_skill_config-125401013
+    skill_group_id: 95401013
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 4
+    target_id: "101010091"
+    special_spot_minus: 1120401:1
+    is_manual: 95401007
+  }
+  {
+    id: 95401014
+    name: 【标记】폐건물5已被踹
+    description: mission_skill_config-115401014
+    lvup_description: mission_skill_config-125401014
+    skill_group_id: 95401014
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 4
+    target_id: "101010091"
+    special_spot_minus: 1120501:1
+    is_manual: 95401007
+  }
+  {
+    id: 95401015
+    name: 【标记】오염원【回合/移动伤害】
+    description: mission_skill_config-115401015
+    lvup_description: mission_skill_config-125401015
+    skill_group_id: 95401015
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 2
+    special_spot_add: 1000028:1,1000048:1
+  }
+  {
+    id: 95401016
+    name: 【标记】军方2格移动buff
+    description: mission_skill_config-115401016
+    lvup_description: mission_skill_config-125401016
+    skill_group_id: 95401016
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 9550101:1
+    mission_buff_add: 6540238:1
+  }
+  {
+    id: 95401017
+    name: 【标记】敌方坦克标记
+    description: mission_skill_config-115401017
+    lvup_description: mission_skill_config-125401017
+    skill_group_id: 95401017
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 1020101:1
   }
 ]

@@ -11994,6 +11994,31 @@
     content: prize-20001607
   }
   {
+    id: 1608
+    name: 추수감사절 선물Ⅰ
+    item_ids: 41-500,45-1000
+    gift: 100003-5
+    coins: 3-1000
+    content: prize-20001608
+    icon: Bumdle_Division
+  }
+  {
+    id: 1609
+    name: 추수감사절 선물Ⅱ
+    item_ids: 44-500
+    gift: 200001-500
+    content: prize-20001609
+    icon: Bumdle_black
+    fairy_ids: 26-0-100-5,26-0-100-5
+  }
+  {
+    id: 1610
+    name: 2022년 12월 출석
+    gem: 90
+    equip_ids: "316"
+    content: prize-20001610
+  }
+  {
     id: 2001
     name: WA2000 - 고성에서의 모험
     gift: 6-1
@@ -24654,6 +24679,42 @@
     content: prize-20012191
   }
   {
+    id: 12192
+    name: 홍수 수도관
+    furniture: "1927"
+    content: prize-20012192
+  }
+  {
+    id: 12193
+    name: EMP 컨테이너
+    furniture: "1928"
+    content: prize-20012193
+  }
+  {
+    id: 12194
+    name: 귀신이 남긴 자리
+    furniture: "1929"
+    content: prize-20012194
+  }
+  {
+    id: 12195
+    name: 프로메테우스 전시대
+    furniture: "1930"
+    content: prize-20012195
+  }
+  {
+    id: 12196
+    name: 열차포 벽걸이
+    furniture: "1931"
+    content: prize-20012196
+  }
+  {
+    id: 12197
+    name: 코이오스 전시대
+    furniture: "1932"
+    content: prize-20012197
+  }
+  {
     id: 12201
     name: 전지
     item_ids: 506-10
@@ -25479,6 +25540,84 @@
     skin: 208
     content: prize-20012507
     icon: NPC_Kalina_208
+  }
+  {
+    id: 12601
+    name: 노래하는 엠마
+    furniture: "2072"
+    content: prize-20012601
+  }
+  {
+    id: 12602
+    name: 환각 수정구슬
+    furniture: "2073"
+    content: prize-20012602
+  }
+  {
+    id: 12603
+    name: 브레멘 악단 포스터
+    furniture: "2074"
+    content: prize-20012603
+  }
+  {
+    id: 12604
+    name: 상어 인형탈
+    furniture: "2075"
+    content: prize-20012604
+  }
+  {
+    id: 12605
+    name: 따듯한 모닥불
+    furniture: "2076"
+    content: prize-20012605
+  }
+  {
+    id: 12606
+    name: 망상 가득한 제복
+    furniture: "2077"
+    content: prize-20012606
+  }
+  {
+    id: 12607
+    name: 실황중계 모의판
+    furniture: "2093"
+    content: prize-20012607
+  }
+  {
+    id: 12608
+    name: '''"G"'''
+    furniture: "2094"
+    content: prize-20012608
+  }
+  {
+    id: 12609
+    name: 감정은 밀물처럼
+    furniture: "2095"
+    content: prize-20012609
+  }
+  {
+    id: 12610
+    name: 물에 빠진 상어
+    furniture: "2096"
+    content: prize-20012610
+  }
+  {
+    id: 12611
+    name: 운명이 닻 내릴 곳
+    furniture: "2097"
+    content: prize-20012611
+  }
+  {
+    id: 12612
+    name: 누군가의 스캐너
+    furniture: "2098"
+    content: prize-20012612
+  }
+  {
+    id: 12613
+    name: 마이크로 촉진기
+    furniture: "2099"
+    content: prize-20012613
   }
   {
     id: 14101
@@ -31758,6 +31897,765 @@
     content: prize-20036579
   }
   {
+    id: 36632
+    name: 알리바이 - 임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20036632
+  }
+  {
+    id: 36633
+    name: 뱀과 엮여 I - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: prize-20036633
+  }
+  {
+    id: 36634
+    name: 아파테의 탄생 II - 임무 보상
+    core: 5
+    content: prize-20036634
+  }
+  {
+    id: 36635
+    name: 헤메라가 이끄는 빛 II - 임무 보상
+    content: prize-20036635
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 36636
+    name: 환수의 어깨 II - 임무 보상
+    coins: 1-100
+    content: prize-20036636
+  }
+  {
+    id: 36637
+    name: 테세우스의 배 II - 임무 보상
+    coins: 2-100
+    content: prize-20036637
+  }
+  {
+    id: 36638
+    name: 아리아드네의 실타래 II - 임무 보상
+    item_ids: 51-2
+    content: prize-20036638
+  }
+  {
+    id: 36639
+    name: 크레타 미궁 II - 임무 보상
+    item_ids: 45-100
+    content: prize-20036639
+  }
+  {
+    id: 36640
+    name: 디아 섬의 꿈 II - 임무 보상
+    coins: 3-50
+    content: prize-20036640
+  }
+  {
+    id: 36641
+    name: 모이라이를 향한 반역 II - 임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20036641
+  }
+  {
+    id: 36642
+    name: 라케시스의 자 II - 임무 보상
+    coins: 3-100
+    content: prize-20036642
+  }
+  {
+    id: 36643
+    name: 클로토의 실 II - 임무 보상
+    content: prize-20036643
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 36644
+    name: 아트로포스의 가위 II - 임무 보상
+    item_ids: 51-2
+    content: prize-20036644
+  }
+  {
+    id: 36645
+    name: 닉스의 밤 III - 임무 보상
+    coins: 3-50
+    content: prize-20036645
+  }
+  {
+    id: 36646
+    name: 히프노스의 눈 II - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20036646
+  }
+  {
+    id: 36647
+    name: 타나토스의 키스 II - 임무 보상
+    content: prize-20036647
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 36648
+    name: 무저갱 카오스 II - 임무 보상
+    item_ids: 51-2
+    content: prize-20036648
+  }
+  {
+    id: 36649
+    name: 뱀과 엮여 I EX - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: prize-20036649
+  }
+  {
+    id: 36650
+    name: 아파테의 탄생 II EX - 임무 보상
+    gift: 200001-100
+    content: prize-20036650
+  }
+  {
+    id: 36651
+    name: 헤메라가 이끄는 빛 II EX - 임무 보상
+    item_ids: 45-50
+    content: prize-20036651
+  }
+  {
+    id: 36652
+    name: 환수의 어깨 II EX - 임무 보상
+    item_ids: 51-2
+    content: prize-20036652
+  }
+  {
+    id: 36653
+    name: 테세우스의 배 II EX - 임무 보상
+    coins: 1-300
+    content: prize-20036653
+  }
+  {
+    id: 36654
+    name: 아리아드네의 실타래 II EX - 임무 보상
+    content: prize-20036654
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 36655
+    name: 크레타 미궁 II EX - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20036655
+  }
+  {
+    id: 36656
+    name: 디아 섬의 꿈 II EX - 임무 보상
+    coins: 2-300
+    content: prize-20036656
+  }
+  {
+    id: 36657
+    name: 모이라이를 향한 반역 II EX - 임무 보상
+    item_ids: 51-2
+    content: prize-20036657
+  }
+  {
+    id: 36658
+    name: 라케시스의 자 II EX - 임무 보상
+    content: prize-20036658
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 36659
+    name: 클로토의 실 II EX - 임무 보상
+    coins: 3-300
+    content: prize-20036659
+  }
+  {
+    id: 36660
+    name: 아트로포스의 가위 II EX - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20036660
+  }
+  {
+    id: 36661
+    name: 닉스의 밤 III EX - 임무 보상
+    item_ids: 45-150
+    content: prize-20036661
+  }
+  {
+    id: 36662
+    name: 히프노스의 눈 II EX - 임무 보상
+    core: 10
+    content: prize-20036662
+  }
+  {
+    id: 36663
+    name: 타나토스의 키스 II EX - 임무 보상
+    item_ids: 46-200
+    content: prize-20036663
+  }
+  {
+    id: 36664
+    name: 무저갱 카오스 II EX - 임무 보상
+    item_ids: 45-100
+    content: prize-20036664
+  }
+  {
+    id: 36665
+    name: 화살 패러독스 II - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: prize-20036665
+  }
+  {
+    id: 36666
+    name: 토리첼리 트럼펫 II - 임무 보상
+    coins: 1-50
+    content: prize-20036666
+  }
+  {
+    id: 36667
+    name: 헤라클레이토스의 강 Ⅱ - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: prize-20036667
+  }
+  {
+    id: 36668
+    name: 죄수의 딜레마 Ⅱ - 임무 보상
+    coins: 1-100
+    content: prize-20036668
+  }
+  {
+    id: 36669
+    name: 크라틸루스의 강 Ⅱ - 임무 보상
+    coins: 2-100
+    content: prize-20036669
+  }
+  {
+    id: 36670
+    name: 아킬레우스와 거북 Ⅱ - 임무 보상
+    coins: 3-100
+    content: prize-20036670
+  }
+  {
+    id: 36671
+    name: 판도라 상자 Ⅱ - 임무 보상
+    item_ids: 45-150
+    content: prize-20036671
+  }
+  {
+    id: 36672
+    name: 통속의 뇌 Ⅱ - 임무 보상
+    item_ids: 15-100
+    content: prize-20036672
+  }
+  {
+    id: 36673
+    name: 일방적인 회상 - 임무 보상
+    core: 10
+    content: prize-20036673
+  }
+  {
+    id: 36676
+    name: 실재계 ∞ - 임무 보상
+    coins: 2-50
+    content: prize-20036676
+  }
+  {
+    id: 36677
+    name: 실재계 EX ∞ - 임무 보상
+    coins: 3-50
+    content: prize-20036677
+  }
+  {
+    id: 36678
+    name: 상상계 ∞ - 임무 보상
+    coins: 1-50
+    content: prize-20036678
+  }
+  {
+    id: 36679
+    name: 상상계 EX ∞ - 임무 보상
+    coins: 2-50
+    content: prize-20036679
+  }
+  {
+    id: 36680
+    name: 상징계 ∞ - 임무 보상
+    coins: 3-50
+    content: prize-20036680
+  }
+  {
+    id: 36681
+    name: 상징계 EX ∞ - 임무 보상
+    coins: 1-50
+    content: prize-20036681
+  }
+  {
+    id: 36682
+    name: 응시 ∞ - 임무 보상
+    coins: 2-50
+    content: prize-20036682
+  }
+  {
+    id: 36683
+    name: 응시 EX ∞ - 임무 보상
+    coins: 3-50
+    content: prize-20036683
+  }
+  {
+    id: 36685
+    name: 쌀알 소리 Ⅱ - 임무 보상
+    core: 5
+    content: prize-20036685
+  }
+  {
+    id: 36686
+    name: 화살 패러독스 I - 임무 보상
+    coins: 1-50
+    content: prize-20036686
+  }
+  {
+    id: 36687
+    name: 토리첼리 트럼펫 I - 임무 보상
+    item_ids: 506-50
+    content: prize-20036687
+  }
+  {
+    id: 36688
+    name: 토리첼리 트럼펫 III - 임무 보상
+    item_ids: 506-50
+    content: prize-20036688
+  }
+  {
+    id: 36689
+    name: 미네르바의 부엉이 - 임무 보상
+    item_ids: 9-50
+    content: prize-20036689
+  }
+  {
+    id: 36690
+    name: 셀레네의 꿈 - 임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20036690
+  }
+  {
+    id: 36691
+    name: 뱀과 엮여 II - 임무 보상
+    item_ids: 9-20
+    content: prize-20036691
+  }
+  {
+    id: 36692
+    name: 아파테의 탄생 I - 임무 보상
+    item_ids: 9-20
+    content: prize-20036692
+  }
+  {
+    id: 36693
+    name: 헤메라가 이끄는 빛 I - 임무 보상
+    item_ids: 44-100
+    content: prize-20036693
+  }
+  {
+    id: 36694
+    name: 헤메라가 이끄는 빛 III - 임무 보상
+    item_ids: 44-50
+    content: prize-20036694
+  }
+  {
+    id: 36695
+    name: 환수의 어깨 I - 임무 보상
+    core: 5
+    content: prize-20036695
+  }
+  {
+    id: 36696
+    name: 환수의 어깨 III - 임무 보상
+    coins: 1-50
+    content: prize-20036696
+  }
+  {
+    id: 36697
+    name: 공과 꽃병 - 임무 보상
+    item_ids: 14-50
+    content: prize-20036697
+  }
+  {
+    id: 36698
+    name: 거짓말쟁이 역설 - 임무 보상
+    gift: 200001-100
+    content: prize-20036698
+  }
+  {
+    id: 36699
+    name: 헤라클레이토스의 강 I - 임무 보상
+    item_ids: 14-50
+    content: prize-20036699
+  }
+  {
+    id: 36700
+    name: 헤라클레이토스의 강 Ⅲ - 임무 보상
+    item_ids: 9-50
+    content: prize-20036700
+  }
+  {
+    id: 36701
+    name: 쌀알 소리 Ⅰ - 임무 보상
+    item_ids: 506-100
+    content: prize-20036701
+  }
+  {
+    id: 36702
+    name: 쌀알 소리 Ⅲ - 임무 보상
+    core: 5
+    content: prize-20036702
+  }
+  {
+    id: 36703
+    name: 죄수의 딜레마 Ⅰ - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20036703
+  }
+  {
+    id: 36704
+    name: 죄수의 딜레마 Ⅲ - 임무 보상
+    item_ids: 14-50
+    content: prize-20036704
+  }
+  {
+    id: 36705
+    name: 테세우스의 배 I - 임무 보상
+    item_ids: 506-50
+    content: prize-20036705
+  }
+  {
+    id: 36706
+    name: 테세우스의 배 III - 임무 보상
+    item_ids: 506-50
+    content: prize-20036706
+  }
+  {
+    id: 36707
+    name: 아리아드네의 실타래 I - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20036707
+  }
+  {
+    id: 36708
+    name: 아리아드네의 실타래 III - 임무 보상
+    gift: 200001-50
+    content: prize-20036708
+  }
+  {
+    id: 36709
+    name: 크레타 미궁 I - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20036709
+  }
+  {
+    id: 36710
+    name: 크레타 미궁 III - 임무 보상
+    item_ids: 506-100
+    content: prize-20036710
+  }
+  {
+    id: 36711
+    name: 디아 섬의 꿈 I - 임무 보상
+    item_ids: 45-50
+    content: prize-20036711
+  }
+  {
+    id: 36712
+    name: 디아 섬의 꿈 III - 임무 보상
+    item_ids: 44-100
+    content: prize-20036712
+  }
+  {
+    id: 36713
+    name: 디아 섬의 꿈 IV - 임무 보상
+    item_ids: 14-50
+    content: prize-20036713
+  }
+  {
+    id: 36714
+    name: 크라틸루스의 강 Ⅰ - 임무 보상
+    item_ids: 45-50
+    content: prize-20036714
+  }
+  {
+    id: 36715
+    name: 크라틸루스의 강 III - 임무 보상
+    coins: 3-50
+    content: prize-20036715
+  }
+  {
+    id: 36716
+    name: 아킬레우스와 거북 Ⅰ - 임무 보상
+    item_ids: 14-50
+    content: prize-20036716
+  }
+  {
+    id: 36717
+    name: 아킬레우스와 거북 Ⅲ - 임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20036717
+  }
+  {
+    id: 36718
+    name: 제논의 동그라미 - 임무 보상
+    item_ids: 45-50
+    content: prize-20036718
+  }
+  {
+    id: 36719
+    name: 모이라이를 향한 반역 I - 임무 보상
+    item_ids: 9-50
+    content: prize-20036719
+  }
+  {
+    id: 36720
+    name: 모이라이를 향한 반역 III - 임무 보상
+    coins: 3-50
+    content: prize-20036720
+  }
+  {
+    id: 36721
+    name: 클로토의 실 I - 임무 보상
+    item_ids: 45-50
+    content: prize-20036721
+  }
+  {
+    id: 36722
+    name: 클로토의 실 III - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20036722
+  }
+  {
+    id: 36723
+    name: 라케시스의 자 I - 임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20036723
+  }
+  {
+    id: 36724
+    name: 라케시스의 자 III - 임무 보상
+    item_ids: 14-50
+    content: prize-20036724
+  }
+  {
+    id: 36725
+    name: 아트로포스의 가위 I - 임무 보상
+    item_ids: 46-50
+    content: prize-20036725
+  }
+  {
+    id: 36726
+    name: 아트로포스의 가위 III - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20036726
+  }
+  {
+    id: 36727
+    name: 슈레딩거의 고양이 - 임무 보상
+    item_ids: 15-50
+    content: prize-20036727
+  }
+  {
+    id: 36728
+    name: 판도라 상자 Ⅰ - 임무 보상
+    core: 5
+    content: prize-20036728
+  }
+  {
+    id: 36729
+    name: 판도라 상자 Ⅲ - 임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20036729
+  }
+  {
+    id: 36730
+    name: 통속의 뇌 Ⅰ - 임무 보상
+    coins: 2-50
+    content: prize-20036730
+  }
+  {
+    id: 36731
+    name: 통속의 뇌 Ⅲ - 임무 보상
+    item_ids: 15-50
+    content: prize-20036731
+  }
+  {
+    id: 36732
+    name: 뫼비우스 고리 - 임무 보상
+    item_ids: 45-50
+    content: prize-20036732
+  }
+  {
+    id: 36733
+    name: 닉스의 밤 I - 임무 보상
+    item_ids: 45-50
+    content: prize-20036733
+  }
+  {
+    id: 36734
+    name: 닉스의 밤 II - 임무 보상
+    core: 5
+    content: prize-20036734
+  }
+  {
+    id: 36735
+    name: 닉스의 밤 IV - 임무 보상
+    item_ids: 44-100
+    content: prize-20036735
+  }
+  {
+    id: 36736
+    name: 히프노스의 눈 I - 임무 보상
+    item_ids: 46-100
+    content: prize-20036736
+  }
+  {
+    id: 36737
+    name: 히프노스의 눈 III - 임무 보상
+    item_ids: 45-50
+    content: prize-20036737
+  }
+  {
+    id: 36738
+    name: 타나토스의 키스 I - 임무 보상
+    coins: 2-50
+    content: prize-20036738
+  }
+  {
+    id: 36739
+    name: 타나토스의 키스 III - 임무 보상
+    item_ids: 15-50
+    content: prize-20036739
+  }
+  {
+    id: 36740
+    name: 무저갱 카오스 I - 임무 보상
+    coins: 3-50
+    content: prize-20036740
+  }
+  {
+    id: 36741
+    name: 무저갱 카오스 III - 임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20036741
+  }
+  {
+    id: 36742
+    name: 오는 자의 길 - 임무 보상
+    gift: 200001-50
+    content: prize-20036742
+  }
+  {
+    id: 36743
+    name: 생존 가이드 - 임무 보상
+    item_ids: 44-50
+    content: prize-20036743
+  }
+  {
+    id: 36744
+    name: 잠복 - 임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20036744
+  }
+  {
+    id: 36745
+    name: 비친 모습 - 임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20036745
+  }
+  {
+    id: 36746
+    name: 균열 - 임무 보상
+    item_ids: 44-50
+    content: prize-20036746
+  }
+  {
+    id: 36747
+    name: 밤 축제 - 임무 보상
+    coins: 1-50
+    content: prize-20036747
+  }
+  {
+    id: 36748
+    name: 섬광 - 임무 보상
+    item_ids: 45-50
+    content: prize-20036748
+  }
+  {
+    id: 36749
+    name: 은밀한 마음 - 임무 보상
+    item_ids: 45-50
+    content: prize-20036749
+  }
+  {
+    id: 36750
+    name: 추억 - 임무 보상
+    coins: 2-50
+    content: prize-20036750
+  }
+  {
     id: 36950
     name: 자리를 떠날 때② - 임무 보상
     gift: 200001-50
@@ -36278,6 +37176,298 @@
     fairy_ids: 32-757090
   }
   {
+    id: 40502
+    name: 48000점 보상
+    item_ids: 514-40,41-6
+    gift: 200001-50,400001-50
+    content: prize-20040502
+    icon: Bumdle_red
+  }
+  {
+    id: 40503
+    name: 88888점 보상
+    mp: 150
+    ammo: 150
+    mre: 150
+    part: 150
+    item_ids: 515-50,516-50,41-6
+    coins: 1-50,2-50,3-50
+    content: prize-20040503
+    icon: Bumdle_brown
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 40504
+    name: 480000점 보상
+    item_ids: 514-60,41-6
+    gift: 200001-100,400001-100
+    content: prize-20040504
+    icon: Bumdle_indigo
+  }
+  {
+    id: 40505
+    name: 680000점 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    item_ids: 515-100,516-100,41-8
+    coins: 1-100,2-100,3-100
+    content: prize-20040505
+    icon: Bumdle_guoqing
+  }
+  {
+    id: 40506
+    name: 980000점 보상
+    item_ids: 514-80,41-8
+    gift: 200001-150,400001-150
+    content: prize-20040506
+    icon: Bumdle_yellow
+  }
+  {
+    id: 40507
+    name: 1280000점 보상
+    mp: 350
+    ammo: 350
+    mre: 350
+    part: 350
+    item_ids: 515-150,516-150,41-8
+    equip_ids: "160"
+    coins: 1-150,2-150,3-150
+    content: prize-20040507
+  }
+  {
+    id: 40508
+    name: 1580000점 보상
+    item_ids: 514-120,41-10
+    gift: 200001-200,400001-200
+    content: prize-20040508
+    fairy_ids: 22-0
+  }
+  {
+    id: 40509
+    name: 1880000점 보상
+    mp: 700
+    ammo: 700
+    mre: 700
+    part: 700
+    item_ids: 515-300,516-200,41-10
+    coins: 1-300,2-250,3-200
+    content: prize-20040509
+    icon: Bumdle_navy
+  }
+  {
+    id: 40510
+    name: 2280000점 보상
+    item_ids: 514-150,41-10
+    gift: 200001-300,400001-300
+    content: prize-20040510
+    icon: Bumdle_blue
+  }
+  {
+    id: 40511
+    name: 2680000점 보상
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    item_ids: 515-400,516-300,41-10
+    coins: 1-400,2-350,3-300
+    content: prize-20040511
+    icon: Bumdle_may
+  }
+  {
+    id: 40512
+    name: 3080000점 보상
+    item_ids: 514-150,41-10
+    gift: 200001-300,400001-300
+    content: prize-20040512
+    icon: Bumdle_orange
+  }
+  {
+    id: 40513
+    name: 3480000점 보상
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    item_ids: 515-400,516-400,41-10
+    coins: 1-400,2-350,3-300
+    content: prize-20040513
+    icon: Bumdle_ruby
+  }
+  {
+    id: 40514
+    name: <연쇄분열> 랭킹 1위 보상
+    mp: 30000
+    ammo: 30000
+    mre: 30000
+    part: 30000
+    gem: 2022
+    item_ids: 116-11
+    content: prize-20040514
+  }
+  {
+    id: 40515
+    name: <연쇄분열> 랭킹 2위 보상
+    mp: 28000
+    ammo: 28000
+    mre: 28000
+    part: 28000
+    gem: 1800
+    item_ids: 116-10
+    content: prize-20040515
+  }
+  {
+    id: 40516
+    name: <연쇄분열> 랭킹 3위 보상
+    mp: 26000
+    ammo: 26000
+    mre: 26000
+    part: 26000
+    gem: 1600
+    item_ids: 116-9
+    content: prize-20040516
+  }
+  {
+    id: 40517
+    name: <연쇄분열> 랭킹 4위 보상
+    mp: 24000
+    ammo: 24000
+    mre: 24000
+    part: 24000
+    gem: 1400
+    item_ids: 116-8
+    content: prize-20040517
+  }
+  {
+    id: 40518
+    name: <연쇄분열> 랭킹 5위 보상
+    mp: 22000
+    ammo: 22000
+    mre: 22000
+    part: 22000
+    gem: 1200
+    item_ids: 116-7
+    content: prize-20040518
+  }
+  {
+    id: 40519
+    name: <연쇄분열> 랭킹 6위 보상
+    mp: 20000
+    ammo: 20000
+    mre: 20000
+    part: 20000
+    gem: 1000
+    item_ids: 116-6
+    content: prize-20040519
+  }
+  {
+    id: 40520
+    name: <연쇄분열> 랭킹 7위 보상
+    mp: 18000
+    ammo: 18000
+    mre: 18000
+    part: 18000
+    gem: 900
+    item_ids: 116-5
+    content: prize-20040520
+  }
+  {
+    id: 40521
+    name: <연쇄분열> 랭킹 8위 보상
+    mp: 16000
+    ammo: 16000
+    mre: 16000
+    part: 16000
+    gem: 800
+    item_ids: 116-4
+    content: prize-20040521
+  }
+  {
+    id: 40522
+    name: <연쇄분열> 랭킹 9위 보상
+    mp: 14000
+    ammo: 14000
+    mre: 14000
+    part: 14000
+    gem: 700
+    item_ids: 116-3
+    content: prize-20040522
+  }
+  {
+    id: 40523
+    name: <연쇄분열> 랭킹 10위 보상
+    mp: 12000
+    ammo: 12000
+    mre: 12000
+    part: 12000
+    gem: 600
+    item_ids: 116-2
+    content: prize-20040523
+  }
+  {
+    id: 40524
+    name: <연쇄분열> 랭킹 11~100위 보상
+    mp: 10000
+    ammo: 10000
+    mre: 10000
+    part: 10000
+    gem: 500
+    item_ids: 116-1
+    content: prize-20040524
+  }
+  {
+    id: 40525
+    name: <연쇄분열> 랭킹 350000점 보상
+    content: prize-20040525
+    fairy_ids: 22-0
+  }
+  {
+    id: 40526
+    name: <연쇄분열> 랭킹 600000점 보상
+    mp: 1500
+    ammo: 1500
+    mre: 1500
+    part: 1500
+    gem: 50
+    item_ids: 116-1
+    content: prize-20040526
+  }
+  {
+    id: 40527
+    name: <연쇄분열> 랭킹 800000점 보상
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gem: 50
+    content: prize-20040527
+    fairy_ids: 22-0
+  }
+  {
+    id: 40528
+    name: <연쇄분열> 랭킹 900000점 보상
+    mp: 2500
+    ammo: 2500
+    mre: 2500
+    part: 2500
+    gem: 100
+    content: prize-20040528
+    commander_uniform: "1510"
+  }
+  {
+    id: 40529
+    name: <연쇄분열> 랭킹 1100000점 보상
+    mp: 3500
+    ammo: 3500
+    mre: 3500
+    part: 3500
+    gem: 200
+    content: prize-20040529
+    fairy_ids: 22-910122
+  }
+  {
     id: 44001
     name: 국지전 3000점 도달 보상
     mp: 500
@@ -39712,6 +40902,62 @@
     content: prize-20094952
     send_limit: 1
     commander_uniform: "4952"
+  }
+  {
+    id: 95011
+    name: 풍중청류
+    content: prize-20095011
+    send_limit: 1
+    commander_uniform: "5011"
+  }
+  {
+    id: 95012
+    name: 월하미인
+    content: prize-20095012
+    send_limit: 1
+    commander_uniform: "5012"
+  }
+  {
+    id: 95020
+    name: 팔문심맥
+    content: prize-20095020
+    send_limit: 1
+    commander_uniform: "5020"
+  }
+  {
+    id: 95031
+    name: 웅심호담
+    content: prize-20095031
+    send_limit: 1
+    commander_uniform: "5031"
+  }
+  {
+    id: 95032
+    name: 금수교룡
+    content: prize-20095032
+    send_limit: 1
+    commander_uniform: "5032"
+  }
+  {
+    id: 95040
+    name: 신병보구
+    content: prize-20095040
+    send_limit: 1
+    commander_uniform: "5040"
+  }
+  {
+    id: 95051
+    name: 질풍노도
+    content: prize-20095051
+    send_limit: 1
+    commander_uniform: "5051"
+  }
+  {
+    id: 95052
+    name: 비설무영
+    content: prize-20095052
+    send_limit: 1
+    commander_uniform: "5052"
   }
   {
     id: 99999
