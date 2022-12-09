@@ -3432,7 +3432,7 @@
     campaign: 11
     sub: 1
     if_emergency: 1
-    name: 나천 여정
+    name: 낯선 여정
     difficulty: 36000
     exp_parameter: 56
     type: "7"
@@ -24715,7 +24715,7 @@
     campaign: -44
     sub: 2
     if_emergency: -1
-    name: 뱀과 엮여 Ⅰ
+    name: 뱀과 엮여
     difficulty: 3500
     exp_parameter: 28
     type: "3"
@@ -24740,7 +24740,7 @@
     medal_type_silver: "1063301"
     difficulty_recommend: 3500;35
     difficulty_recommend_addendum: mission-30010633
-    mission_tip: mission-40010633
+    mission_tip: 추천 부대편성: 고속 혼합 편성
   }
   {
     id: 10634
@@ -24808,7 +24808,7 @@
     win_type: "1063501"
     difficulty_recommend: 4000;40
     difficulty_recommend_addendum: mission-30010635
-    mission_tip: mission-40010635
+    mission_tip: 추천 부대편성: 고속 혼합 편성,기본 저격 편성
   }
   {
     id: 10636
@@ -24840,7 +24840,7 @@
     win_type: "1063601"
     difficulty_recommend: 4500;45
     difficulty_recommend_addendum: mission-30010636
-    mission_tip: mission-40010636
+    mission_tip: 추천 부대편성: 고속 혼합 편성
   }
   {
     id: 10637
@@ -24871,7 +24871,7 @@
     mapped_mission_id: 44005
     difficulty_recommend: 5000;50
     difficulty_recommend_addendum: mission-30010637
-    mission_tip: mission-40010637
+    mission_tip: 추천 부대편성: 기본 저격 편성,고속 혼합 편성
     win_step: 1063701|1063702|1063706
   }
   {
@@ -24904,7 +24904,7 @@
     win_type: "1"
     difficulty_recommend: 5000;50
     difficulty_recommend_addendum: mission-30010638
-    mission_tip: mission-40010638
+    mission_tip: 추천 부대편성: 고속 혼합 편성
   }
   {
     id: 10639
@@ -24936,7 +24936,7 @@
     win_type: "1063901"
     difficulty_recommend: 5500;55
     difficulty_recommend_addendum: mission-30010639
-    mission_tip: mission-40010639
+    mission_tip: 추천 부대편성: 고속 혼합 편성
   }
   {
     id: 10640
@@ -24968,7 +24968,7 @@
     win_type: "1064001"
     difficulty_recommend: 6000;60
     difficulty_recommend_addendum: mission-30010640
-    mission_tip: mission-40010640
+    mission_tip: 추천 부대편성: 기본 저격 편성,고속 혼합 편성
   }
   {
     id: 10641
@@ -24999,7 +24999,7 @@
     win_type: "1064101"
     difficulty_recommend: 6000;60
     difficulty_recommend_addendum: mission-30010641
-    mission_tip: mission-40010641
+    mission_tip: 추천 부대편성: 관통 특화 편성,기본 저격 편성,고속 혼합 편성
   }
   {
     id: 10642
@@ -25030,7 +25030,7 @@
     win_type: "1064201"
     difficulty_recommend: 6000;60
     difficulty_recommend_addendum: mission-30010642
-    mission_tip: mission-40010642
+    mission_tip: 추천 부대편성: 광역 공격 편성,기본 저격 편성,고속 혼합 편성
   }
   {
     id: 10643
@@ -25065,7 +25065,7 @@
     win_type: "1064301"
     difficulty_recommend: 7000;65
     difficulty_recommend_addendum: mission-30010643
-    mission_tip: mission-40010643
+    mission_tip: 추천 부대편성: 관통 특화 편성,기본 저격 편성,고속 혼합 편성
   }
   {
     id: 10644
@@ -25097,7 +25097,7 @@
     mapped_mission_id: 44012
     difficulty_recommend: 8000;70
     difficulty_recommend_addendum: mission-30010644
-    mission_tip: mission-40010644
+    mission_tip: 추천 부대편성: 고속 혼합 편성
     win_step: "1064401"
   }
   {
@@ -25128,7 +25128,7 @@
     mapped_mission_id: 44013
     difficulty_recommend: 10000;75
     difficulty_recommend_addendum: mission-30010645
-    mission_tip: mission-40010645
+    mission_tip: 추천 부대편성: 고속 혼합 편성
     win_step: "1064501"
   }
   {
@@ -25159,7 +25159,7 @@
     mapped_mission_id: 44014
     difficulty_recommend: 10000;75
     difficulty_recommend_addendum: mission-30010646
-    mission_tip: mission-40010646
+    mission_tip: 추천 부대편성: 고속 혼합 편성
     win_step: "1064601"
   }
   {
@@ -25192,7 +25192,7 @@
     win_type: "1064701"
     difficulty_recommend: 11600;80
     difficulty_recommend_addendum: mission-30010647
-    mission_tip: mission-40010647
+    mission_tip: 추천 부대편성: 고속 혼합 편성
   }
   {
     id: 10648
@@ -25224,7 +25224,7 @@
     mapped_mission_id: 44016
     difficulty_recommend: 11600;80
     difficulty_recommend_addendum: mission-30010648
-    mission_tip: mission-40010648
+    mission_tip: 추천 부대편성: 기본 저격 편성,광역 공격 편성,고속 혼합 편성
     win_step: "1064801"
   }
   {
@@ -25259,7 +25259,7 @@
     medal_type_silver: "3,6"
     difficulty_recommend: 26000;99
     difficulty_recommend_addendum: mission-30010649
-    mission_tip: mission-40010649
+    mission_tip: 추천 부대편성: 고속 혼합 편성,기본 저격 편성
   }
   {
     id: 10650
@@ -25327,7 +25327,7 @@
     win_type: "1065101"
     difficulty_recommend: 28000;99
     difficulty_recommend_addendum: mission-30010651
-    mission_tip: mission-40010651
+    mission_tip: 추천 부대편성: 고속 혼합 편성,기본 저격 편성
   }
   {
     id: 10652
@@ -25359,7 +25359,7 @@
     win_type: "1065201"
     difficulty_recommend: 28000;99
     difficulty_recommend_addendum: mission-30010652
-    mission_tip: mission-40010652
+    mission_tip: 추천 부대편성: 고속 혼합 편성
   }
   {
     id: 10653
@@ -25390,7 +25390,7 @@
     mapped_mission_id: 44005
     difficulty_recommend: 30000;99
     difficulty_recommend_addendum: mission-30010653
-    mission_tip: mission-40010653
+    mission_tip: 추천 부대편성: 기본 저격 편성,고속 혼합 편성
     win_step: 1063701|1063702|1063706
   }
   {
@@ -25423,7 +25423,7 @@
     win_type: "1"
     difficulty_recommend: 30000;99
     difficulty_recommend_addendum: mission-30010654
-    mission_tip: mission-40010654
+    mission_tip: 추천 부대편성: 고속 혼합 편성
   }
   {
     id: 10655
@@ -25455,7 +25455,7 @@
     win_type: "1063901"
     difficulty_recommend: 32000;99
     difficulty_recommend_addendum: mission-30010655
-    mission_tip: mission-40010655
+    mission_tip: 추천 부대편성: 고속 혼합 편성
   }
   {
     id: 10656
@@ -25487,7 +25487,7 @@
     win_type: "1064001"
     difficulty_recommend: 32000;99
     difficulty_recommend_addendum: mission-30010656
-    mission_tip: mission-40010656
+    mission_tip: 추천 부대편성: 기본 저격 편성,고속 혼합 편성
   }
   {
     id: 10657
@@ -25519,7 +25519,7 @@
     mapped_mission_id: 44009
     difficulty_recommend: 34000;99
     difficulty_recommend_addendum: mission-30010657
-    mission_tip: mission-40010657
+    mission_tip: 추천 부대편성: 일격필살 편성,광역 공격 편성,기본 저격 편성
     win_step: 1065701|1065703
   }
   {
@@ -25553,7 +25553,7 @@
     win_type: "1065801,449999"
     difficulty_recommend: 34000;99
     difficulty_recommend_addendum: mission-30010658
-    mission_tip: mission-40010658
+    mission_tip: 추천 부대편성: 광역 공격 편성,경량 혼합 편성,고속 혼합 편성
   }
   {
     id: 10659
@@ -25588,7 +25588,7 @@
     win_type: "1065901,1065902,449999|1065903,449999"
     difficulty_recommend: 36000;99
     difficulty_recommend_addendum: mission-30010659
-    mission_tip: mission-40010659
+    mission_tip: 추천 부대편성: 광역 공격 편성,기본 저격 편성
   }
   {
     id: 10660
@@ -25620,7 +25620,7 @@
     mapped_mission_id: 44012
     difficulty_recommend: 36000;99
     difficulty_recommend_addendum: mission-30010660
-    mission_tip: mission-40010660
+    mission_tip: 추천 부대편성: 기본 저격 편성,광역 공격 편성,고속 혼합 편성
     win_step: "1066001"
   }
   {
@@ -25652,7 +25652,7 @@
     mapped_mission_id: 44013
     difficulty_recommend: 38000;99
     difficulty_recommend_addendum: mission-30010661
-    mission_tip: mission-40010661
+    mission_tip: 추천 부대편성: 광역 공격 편성,기본 저격 편성,고속 혼합 편성
     win_step: "1066101"
   }
   {
@@ -25684,7 +25684,7 @@
     mapped_mission_id: 44014
     difficulty_recommend: 38000;99
     difficulty_recommend_addendum: mission-30010662
-    mission_tip: mission-40010662
+    mission_tip: 추천 부대편성: 고속 혼합 편성
     win_step: "1066201"
   }
   {
@@ -25718,7 +25718,7 @@
     win_type: "1066301,449999"
     difficulty_recommend: 40000;99
     difficulty_recommend_addendum: mission-30010663
-    mission_tip: mission-40010663
+    mission_tip: 추천 부대편성: 광역 공격 편성,고속 혼합 편성
   }
   {
     id: 10664
@@ -25750,7 +25750,7 @@
     mapped_mission_id: 44016
     difficulty_recommend: 40000;99
     difficulty_recommend_addendum: mission-30010664
-    mission_tip: mission-40010664
+    mission_tip: 추천 부대편성: 기본 저격 편성,고속 혼합 편성
     win_step: "1066401"
   }
   {
@@ -26106,7 +26106,7 @@
     round_config: 1:1,2:4,3:3
     difficulty_recommend: 45000;99
     difficulty_recommend_addendum: mission-30010675
-    mission_tip: mission-40010675
+    mission_tip: 추천 부대편성: 광역 공격 편성,기본 저격 편성,고속 혼합 편성
     event_score: 1|10,2000,1500,1000,200,50000,5000,50000,4000,5000,2000,10000,1:0;2:0;3:0;5:0;6:0;7:0,44440011:1:100000;44440010:1:100000;44440012:1:100000;44440013:1:100000,10,0,
     score_prize: 1|110039:1
   }
@@ -26140,7 +26140,7 @@
     win_type: "1"
     difficulty_recommend: 4500;45
     difficulty_recommend_addendum: mission-30010676
-    mission_tip: mission-40010676
+    mission_tip: 추천 부대편성: 고속 혼합 편성
   }
   {
     id: 10677
@@ -26172,7 +26172,7 @@
     win_type: "1"
     difficulty_recommend: 28000;99
     difficulty_recommend_addendum: mission-30010677
-    mission_tip: mission-40010677
+    mission_tip: 추천 부대편성: 고속 혼합 편성
   }
   {
     id: 10678
@@ -26204,7 +26204,7 @@
     win_type: "1"
     difficulty_recommend: 6000;60
     difficulty_recommend_addendum: mission-30010678
-    mission_tip: mission-40010678
+    mission_tip: 추천 부대편성: 기본 저격 편성,고속 혼합 편성
   }
   {
     id: 10679
@@ -26236,7 +26236,7 @@
     win_type: "1"
     difficulty_recommend: 32000;99
     difficulty_recommend_addendum: mission-30010679
-    mission_tip: mission-40010679
+    mission_tip: 추천 부대편성: 기본 저격 편성,고속 혼합 편성
   }
   {
     id: 10680
@@ -26268,7 +26268,7 @@
     difficulty_recommend: 8000;70
     difficulty_recommend_addendum: mission-30010680
     limit_sangvis: 4
-    mission_tip: mission-40010680
+    mission_tip: 추천 부대편성: 고속 혼합 편성
   }
   {
     id: 10681
@@ -26300,7 +26300,7 @@
     difficulty_recommend: 36000;99
     difficulty_recommend_addendum: mission-30010681
     limit_sangvis: 4
-    mission_tip: mission-40010681
+    mission_tip: 추천 부대편성: 고속 혼합 편성,광역 공격 편성
   }
   {
     id: 10682
@@ -26332,7 +26332,7 @@
     difficulty_recommend: 11600;80
     difficulty_recommend_addendum: mission-30010682
     limit_sangvis: 4
-    mission_tip: mission-40010682
+    mission_tip: 추천 부대편성: 기본 저격 편성
   }
   {
     id: 10683
@@ -26364,7 +26364,7 @@
     difficulty_recommend: 40000;99
     difficulty_recommend_addendum: mission-30010683
     limit_sangvis: 4
-    mission_tip: mission-40010683
+    mission_tip: 추천 부대편성: 고속 혼합 편성
   }
   {
     id: 10685
@@ -42166,6 +42166,881 @@
     difficulty_recommend: 1000;5
     difficulty_recommend_addendum: mission-30011232
     mission_tip: mission-40011232
+  }
+  {
+    id: 11233
+    campaign: -56
+    sub: 2
+    if_emergency: -1
+    name: mission-10011233
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 5
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "98"
+    map_res_name: OPS96_Y;OPS95_Y;OPS96_Y
+    map_information: "15000,15000|15000,15000|0,0;15000,15000|15000,15000|0,0;15000,15000|15000,15000|0,0"
+    fog_length: "0,500;0,500;0,500"
+    fog_color: "#000000FF;#000000FF;#000000FF"
+    draw_event_s_id: "649"
+    drop_mission_key: "0,0,1123301"
+    mission_group_id: 25
+    open_mission_keys: 1124501:1
+    mission_describe: mission-20011233
+    round_config: 1:23,2:5,3:3
+    mapped_mission_id: 56001
+    difficulty_recommend: 1000;15
+    difficulty_recommend_addendum: mission-30011233
+    limit_sangvis: 4
+    mission_tip: mission-40011233
+    win_step: "1123301"
+  }
+  {
+    id: 11234
+    campaign: -56
+    sub: 3
+    if_emergency: -1
+    name: mission-10011234
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 5
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "252"
+    map_res_name: OPS51_Y
+    map_information: "16000,16000|6000,5000|-4250,-800"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "654"
+    drop_mission_key: "0,0,1123401"
+    mission_group_id: 25
+    open_mission_keys: 1124901:1
+    mission_describe: mission-20011234
+    round_config: 1:23,2:5,3:3
+    mapped_mission_id: 56002
+    win_type: "1123401"
+    difficulty_recommend: 1000;15
+    difficulty_recommend_addendum: mission-30011234
+    limit_sangvis: 4
+    mission_tip: mission-40011234
+    lose_type: "1123491"
+  }
+  {
+    id: 11235
+    campaign: -56
+    sub: 4
+    if_emergency: -1
+    name: mission-10011235
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 6
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "361"
+    map_res_name: OPS71_Y
+    map_information: "16000,16000|10000,6000|-2000,-5000"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "650"
+    drop_mission_key: "0,0,1123501"
+    mission_group_id: 25
+    open_mission_keys: 1125301:1
+    mission_describe: mission-20011235
+    round_config: 1:23,2:26,3:3
+    mapped_mission_id: 56003
+    win_type: "1123501"
+    difficulty_recommend: 1000;15
+    difficulty_recommend_addendum: mission-30011235
+    limit_sangvis: 4
+    mission_tip: mission-40011235
+    lose_type: "1123391"
+  }
+  {
+    id: 11236
+    campaign: -56
+    sub: 5
+    if_emergency: -1
+    name: mission-10011236
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 6
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "250"
+    map_res_name: OPS5_Y
+    map_information: "10000,10000|8000,5000|-500,-250"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "655"
+    drop_mission_key: "0,0,1123601"
+    mission_group_id: 25
+    open_mission_keys: 1125701:1
+    mission_describe: mission-20011236
+    round_config: 1:24,2:25,3:3
+    mapped_mission_id: 56004
+    difficulty_recommend: 1000;15
+    difficulty_recommend_addendum: mission-30011236
+    limit_sangvis: 4
+    mission_tip: mission-40011236
+    win_step: "1123601"
+  }
+  {
+    id: 11237
+    campaign: -56
+    sub: 6
+    if_emergency: -1
+    name: mission-10011237
+    difficulty: 20000
+    exp_parameter: 48
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 1
+    expect_turn: 5
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "98"
+    limit_team: "0,2"
+    map_res_name: OPS96_Y;OPS95_Y;OPS96_Y
+    map_information: "15000,15000|15000,15000|0,0;15000,15000|15000,15000|0,0;15000,15000|15000,15000|0,0"
+    fog_length: "0,500;0,500;0,500"
+    fog_color: "#000000FF;#000000FF;#000000FF"
+    draw_event_s_id: "651"
+    drop_mission_key: "0,0,1123301"
+    mission_group_id: 25
+    open_mission_keys: 1124501:1
+    mission_describe: mission-20011237
+    round_config: 1:23,2:5,3:3
+    mapped_mission_id: 56001
+    difficulty_recommend: 20000;100
+    difficulty_recommend_addendum: mission-30011237
+    limit_sangvis: 4
+    mission_tip: mission-40011237
+    win_step: "1123701"
+  }
+  {
+    id: 11238
+    campaign: -56
+    sub: 7
+    if_emergency: -1
+    name: mission-10011238
+    difficulty: 26000
+    exp_parameter: 51
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 1
+    expect_turn: 5
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "252"
+    limit_team: "0,1"
+    map_res_name: OPS51_Y
+    map_information: "16000,16000|6000,5000|-4250,-800"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "656"
+    drop_mission_key: "0,0,1123401"
+    mission_group_id: 25
+    open_mission_keys: 1124901:1
+    mission_describe: mission-20011238
+    round_config: 1:23,2:5,3:3
+    mapped_mission_id: 56002
+    win_type: "1123801"
+    difficulty_recommend: 26000;110
+    difficulty_recommend_addendum: mission-30011238
+    limit_sangvis: 4
+    mission_tip: mission-40011238
+  }
+  {
+    id: 11239
+    campaign: -56
+    sub: 8
+    if_emergency: -1
+    name: mission-10011239
+    difficulty: 30000
+    exp_parameter: 53
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 1
+    expect_turn: 6
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "361"
+    limit_team: "0,1"
+    map_res_name: OPS71_Y
+    map_information: "16000,16000|10000,6000|-2000,-5000"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "652"
+    drop_mission_key: "0,0,1123501"
+    mission_group_id: 25
+    open_mission_keys: 1125301:1
+    mission_describe: mission-20011239
+    round_config: 1:23,2:26,3:3
+    mapped_mission_id: 56003
+    win_type: "1123901"
+    difficulty_recommend: 30000;120
+    difficulty_recommend_addendum: mission-30011239
+    limit_sangvis: 4
+    mission_tip: mission-40011239
+  }
+  {
+    id: 11240
+    campaign: -56
+    sub: 9
+    if_emergency: -1
+    name: mission-10011240
+    difficulty: 34000
+    exp_parameter: 55
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 1
+    expect_turn: 6
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "250"
+    limit_team: "0,1"
+    map_res_name: OPS5_Y
+    map_information: "10000,10000|8000,5000|-500,-250"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "657"
+    drop_mission_key: "0,0,1123601"
+    mission_group_id: 25
+    open_mission_keys: 1125701:1
+    mission_describe: mission-20011240
+    round_config: 1:24,2:25,3:3
+    mapped_mission_id: 56004
+    difficulty_recommend: 34000;120
+    difficulty_recommend_addendum: mission-30011240
+    limit_sangvis: 4
+    mission_tip: mission-40011240
+    win_step: "1124001"
+  }
+  {
+    id: 11241
+    campaign: -56
+    sub: 10
+    if_emergency: -1
+    name: mission-10011241
+    difficulty: 10000
+    exp_parameter: 40
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 5
+    expect_gun_die_num: 1
+    expect_turn: 2
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "98,252"
+    map_res_name: OPS5_Y
+    map_information: "6000,6000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "649"
+    drop_mission_key: "0,0,1124101"
+    mission_group_id: 25
+    open_mission_keys: 1123601:1
+    mission_describe: mission-20011241
+    round_config: 1:1,2:5,3:3
+    mapped_mission_id: 56005
+    win_type: "1124101"
+    difficulty_recommend: 10000;75
+    difficulty_recommend_addendum: mission-30011241
+    limit_sangvis: 4
+    mission_tip: mission-40011241
+  }
+  {
+    id: 11242
+    campaign: -56
+    sub: 11
+    if_emergency: -1
+    name: mission-10011242
+    difficulty: 30000
+    exp_parameter: 53
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 5
+    expect_gun_die_num: 1
+    expect_turn: 2
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "98,252"
+    map_res_name: OPS5_Y
+    map_information: "6000,6000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "651"
+    drop_mission_key: "0,0,1124201"
+    mission_group_id: 25
+    open_mission_keys: 1123601:1
+    mission_describe: mission-20011242
+    round_config: 1:1,2:5,3:3
+    mapped_mission_id: 56005
+    win_type: "1124201"
+    difficulty_recommend: 30000;120
+    difficulty_recommend_addendum: mission-30011242
+    limit_sangvis: 4
+    mission_tip: mission-40011242
+  }
+  {
+    id: 11243
+    campaign: -56
+    sub: 1
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011243
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1124301"
+    mission_group_id: 25
+    mission_describe: mission-20011243
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011243
+    mission_tip: mission-40011243
+  }
+  {
+    id: 11244
+    campaign: -56
+    sub: 14
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011244
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1124401"
+    mission_group_id: 25
+    open_mission_keys: 1124301:1
+    mission_describe: mission-20011244
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011244
+    mission_tip: mission-40011244
+  }
+  {
+    id: 11245
+    campaign: -56
+    sub: 15
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011245
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1124501"
+    mission_group_id: 25
+    open_mission_keys: 1124301:1
+    mission_describe: mission-20011245
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011245
+    mission_tip: mission-40011245
+  }
+  {
+    id: 11246
+    campaign: -56
+    sub: 16
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011246
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1124601"
+    mission_group_id: 25
+    open_mission_keys: 1123301:1
+    mission_describe: mission-20011246
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011246
+    mission_tip: mission-40011246
+  }
+  {
+    id: 11247
+    campaign: -56
+    sub: 17
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011247
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1124701"
+    mission_group_id: 25
+    open_mission_keys: 1124601:1
+    mission_describe: mission-20011247
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011247
+    mission_tip: mission-40011247
+  }
+  {
+    id: 11248
+    campaign: -56
+    sub: 18
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011248
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1124701"
+    mission_group_id: 25
+    open_mission_keys: 1124601:1
+    mission_describe: mission-20011248
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011248
+    mission_tip: mission-40011248
+  }
+  {
+    id: 11249
+    campaign: -56
+    sub: 19
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011249
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1124901"
+    mission_group_id: 25
+    open_mission_keys: 1124701:1
+    mission_describe: mission-20011249
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011249
+    mission_tip: mission-40011249
+  }
+  {
+    id: 11250
+    campaign: -56
+    sub: 20
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011250
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1125001"
+    mission_group_id: 25
+    open_mission_keys: 1123401:1
+    mission_describe: mission-20011250
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011250
+    mission_tip: mission-40011250
+  }
+  {
+    id: 11251
+    campaign: -56
+    sub: 21
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011251
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1125101"
+    mission_group_id: 25
+    open_mission_keys: 1125001:1
+    mission_describe: mission-20011251
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011251
+    mission_tip: mission-40011251
+  }
+  {
+    id: 11252
+    campaign: -56
+    sub: 22
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011252
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1125101"
+    mission_group_id: 25
+    open_mission_keys: 1125001:1
+    mission_describe: mission-20011252
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011252
+    mission_tip: mission-40011252
+  }
+  {
+    id: 11253
+    campaign: -56
+    sub: 23
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011253
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1125301"
+    mission_group_id: 25
+    open_mission_keys: 1125101:1
+    mission_describe: mission-20011253
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011253
+    mission_tip: mission-40011253
+  }
+  {
+    id: 11254
+    campaign: -56
+    sub: 24
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011254
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1125401"
+    mission_group_id: 25
+    open_mission_keys: 1123501:1
+    mission_describe: mission-20011254
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011254
+    mission_tip: mission-40011254
+  }
+  {
+    id: 11255
+    campaign: -56
+    sub: 25
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011255
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1125501"
+    mission_group_id: 25
+    open_mission_keys: 1125401:1
+    mission_describe: mission-20011255
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011255
+    mission_tip: mission-40011255
+  }
+  {
+    id: 11256
+    campaign: -56
+    sub: 26
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011256
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1125501"
+    mission_group_id: 25
+    open_mission_keys: 1125401:1
+    mission_describe: mission-20011256
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011256
+    mission_tip: mission-40011256
+  }
+  {
+    id: 11257
+    campaign: -56
+    sub: 27
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011257
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1125701"
+    mission_group_id: 25
+    open_mission_keys: 1125501:1
+    mission_describe: mission-20011257
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011257
+    mission_tip: mission-40011257
+  }
+  {
+    id: 11258
+    campaign: -56
+    sub: 28
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011258
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1125801"
+    mission_group_id: 25
+    open_mission_keys: 1123601:1
+    mission_describe: mission-20011258
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011258
+    mission_tip: mission-40011258
+  }
+  {
+    id: 11259
+    campaign: -56
+    sub: 29
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011259
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1125901"
+    mission_group_id: 25
+    open_mission_keys: 1125801:1
+    mission_describe: mission-20011259
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011259
+    mission_tip: mission-40011259
+  }
+  {
+    id: 11260
+    campaign: -56
+    sub: 30
+    if_emergency: -1
+    special_type: 9
+    name: mission-10011260
+    difficulty: 1000
+    exp_parameter: 21
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 9
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS67_Y
+    map_information: "8000,8000|8000,8000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1125901"
+    mission_group_id: 25
+    open_mission_keys: 1125801:1
+    mission_describe: mission-20011260
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;5
+    difficulty_recommend_addendum: mission-30011260
+    mission_tip: mission-40011260
+  }
+  {
+    id: 11318
+    campaign: -56
+    sub: 12
+    if_emergency: -1
+    name: mission-10011318
+    difficulty: 10000
+    exp_parameter: 40
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 5
+    expect_gun_die_num: 1
+    expect_turn: 2
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "361,250"
+    map_res_name: OPS5_Y
+    map_information: "6000,6000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "655"
+    drop_mission_key: "0,0,1131801"
+    mission_group_id: 25
+    open_mission_keys: 1123601:1
+    mission_describe: mission-20011318
+    round_config: 1:1,2:5,3:3
+    mapped_mission_id: 56006
+    win_type: "1131801"
+    difficulty_recommend: 10000;75
+    difficulty_recommend_addendum: mission-30011318
+    limit_sangvis: 4
+    mission_tip: mission-40011318
+  }
+  {
+    id: 11319
+    campaign: -56
+    sub: 13
+    if_emergency: -1
+    name: mission-10011319
+    difficulty: 30000
+    exp_parameter: 53
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 5
+    expect_gun_die_num: 1
+    expect_turn: 2
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "361,250"
+    map_res_name: OPS5_Y
+    map_information: "6000,6000|6000,6000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "657"
+    drop_mission_key: "0,0,1131901"
+    mission_group_id: 25
+    open_mission_keys: 1123601:1
+    mission_describe: mission-20011319
+    round_config: 1:1,2:5,3:3
+    mapped_mission_id: 56006
+    win_type: "1131901"
+    difficulty_recommend: 30000;120
+    difficulty_recommend_addendum: mission-30011319
+    limit_sangvis: 4
+    mission_tip: mission-40011319
   }
   {
     id: 11320

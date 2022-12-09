@@ -17,7 +17,7 @@
         "id": 1002,
         "parent_id": 1000,
         "sort": 2,
-        "name": "훈장교환",
+        "name": "사로스 주기\n훈장 교환",
         "description": ""
     },
     {
@@ -45,7 +45,7 @@
         "id": 1006,
         "parent_id": 1000,
         "sort": 6,
-        "name": "라이칸의 성역\n재화 교환",
+        "name": "사로스 주기\n재화 교환",
         "description": ""
     },
     {

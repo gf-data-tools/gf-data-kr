@@ -2818,3 +2818,5 @@ live2d_motions-10770617,대화4
 live2d_motions-10770618,대화5
 live2d_motions-10770619,대기
 live2d_motions-10770620,흔들기
+
+

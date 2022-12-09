@@ -1111,4 +1111,8 @@
     obtain_id: 3079
     description: gun_obtain-10003079
   }
+  {
+    obtain_id: 3080
+    description: 기간한정 이벤트 <사로스 주기> 재화상점 교환
+  }
 ]

@@ -112,4 +112,24 @@
     type: 1
     dynamic_passive_skill: "119203,119204,119205,119206,119207,119208,119209"
   }
+  {
+    id: 11
+    name: 새벽의 경계선
+    code: SCAR_CON
+    description: SCAR-L과 SCAR-H가 함께 있을 때, 자신은 전투 개시 시 달의 에너지를 40점 얻고, 1초마다 달의 에너지가 4점 상승한다.
+    gun_group: "377,378"
+    gun: 377
+    type: 1
+    passive_skill: "119702,119706,119707"
+  }
+  {
+    id: 12
+    name: 새벽의 경계선
+    code: SCAR_CON
+    description: SCAR-L과 SCAR-H가 함께 있을 때, 자신은 전투 개시 시 태양 에너지를 40점 얻고, 자신은 1초마다 태양 에너지가 4점 상승한다.
+    gun_group: "377,378"
+    gun: 378
+    type: 1
+    passive_skill: "119602,119604,119606,119607,119608"
+  }
 ]
