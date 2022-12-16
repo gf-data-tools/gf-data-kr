@@ -5,7 +5,7 @@
 ()<Speaker>？？</Speaker>||:사모, 우리 모두가 여기 갇힌 지 벌써 13년이야.
 ()<Speaker>？？</Speaker>||:다 그녀 때문이지.
 ()<Speaker>？？？</Speaker>||:하지만 우린 여기서 벗어날 수 없어.+다른 소체로 갈아탈 수도 없고.
-()<Speaker>？？？</Speaker>||:서로의 기억을 구별하지조차 없지.
+()<Speaker>？？？</Speaker>||:서로의 기억을 구별하지조차 못하지.
 ()<Speaker>？？</Speaker>||:난 누구지?+넌 누구고?
 ()<Speaker>？？？</Speaker>||:사모, 넌 네가 누군지 기억나?
 NPC-SCAR-H(1)<Speaker>사모</Speaker>||:유라 언니...
@@ -74,7 +74,7 @@ NPC-Keven(5)<Speaker>J</Speaker>||:엥, 그 여자가 웬일로?+알았어 알�
 NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>야아, 오랜만. 어, J도 있네? 안뇨옹.</color>
 ()||:J는 고개를 홱 돌려 못 본 척하는 것으로 답했다.
 NPC-Jason(2)<Speaker>K</Speaker>||:무슨 일입니까?
-NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>나한테 감사하셔, 일 있어서 출장 중만 아니었어도 너희는 그 일 구경도 못 했어..</color>
+NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>나한테 감사하셔, 일 있어서 출장 중만 아니었어도 너희는 그 일 구경도 못 했어.</color>
 NPC-Keven(5)<Speaker>J</Speaker>||:아 예에예에 덕분에 베를린에서 생쥐 코털만한 정보만 가지고 낡아 빠진 인형 찾으러 다니게 됐네요.+거참 눈물나게 고맙습니다!
 NPC-Jason(2)<Speaker>K</Speaker>||:J, 말 끊지 마.
 NPC-Jason(2);NPC-maya(2)<通讯框><Speaker>Q</Speaker>||:<color=#00CCFF>냅둬 냅둬, 우리 J 요원도 이런 도전 정신이 필요한 임무는 처음 받아볼 거 아니야. 긴장되겠지~</color>

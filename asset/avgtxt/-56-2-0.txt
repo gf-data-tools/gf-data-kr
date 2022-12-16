@@ -14,7 +14,7 @@ NPC-Persica(0)<Speaker>페르시카</Speaker>||:아 진짜 실험실에 발 디�
 AR15Mod(0)<Speaker>AR15</Speaker>||:네? 무슨 문제요?!+지휘관이 벌써 녀석한테 임무 주고 보냈는데요!?
 ()||:내심 예상했던 바인지, 지휘관은 힘없이 한숨을 푹 쉬기만 했다.
 ()<Speaker>지휘관</Speaker>||:어떤 문제인가요? 심각한 수준입니까?+눈 뜨자마자 날뛰면서 인질극까지 벌인 걸로 봐서는 멀쩡한 것 같지만 말이죠.
-NPC-Persica(0)<Speaker>페르시카</Speaker>||:에휴, 너네 수준으로 알아챘으면 내가 여기 있지도 않았지.+뭐어 별로 심각한 건 아니야, 그냥 마인드맵에 삭제 불가능한 프로그램이 아나 심어져 있는데, 대충 바이러스 비슷한 거라 생각하면 돼.
+NPC-Persica(0)<Speaker>페르시카</Speaker>||:에휴, 너네 수준으로 알아챘으면 내가 여기 있지도 않았지.+뭐어 별로 심각한 건 아니야, 그냥 마인드맵에 삭제 불가능한 프로그램이 하나 심어져 있는데, 대충 바이러스 비슷한 거라 생각하면 돼.
 AR15Mod(5)<Speaker>AR15</Speaker>||:바이러스라니 충분히 심각한 문제잖아요! 중요한 비밀 임무까지 맡겼다고요!
 NPC-Persica(0)<Speaker>페르시카</Speaker>||:아 글쎄 괜찮대도? 그 프로그램은 지정된 환경이 완벽하게 갖춰져야만 실행되는 거야. 원래 군에서 구르던 애니까 아마 보안을 위해 심은 기반 명령이겠지.+하지만 전쟁은 끝난 지 오래에 설계자도 이젠 찾을 수 없으니 딱히 큰 영향 없을걸?
 NPC-Persica(0)<Speaker>지휘관</Speaker><同时置暗>||:...어떤 "바이러스"인가요?
@@ -35,7 +35,7 @@ NPC-Cheryl(2)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:아니 다 �
 ()||<SE1>AVG_footsteps_cave</SE1>:싫은 티 팍팍 내며 한손으로 사모를 부축하던 셰릴이 문득 무언가 떠올라, 주위를 두리번거리다 눈을 반짝이며 어딘가로 시선을 고정했다.
 NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<SE1>Stop_AVG_loop</SE1>:야, 저기 가서 앉아!
 ()||<SE1>ClothingUp</SE1>:셰릴은 인파를 헤치며 사모를 자판기 옆으로 끌고 가 앉혔다.
-()||<SE1>AVG_Button_Click</SE1>:그리곤 아무도 신경쓰지 않는 틈을 타, 자판기의 플러그를 뽑고 시모의 케이블을 꽂았다.
+()||<SE1>AVG_Button_Click</SE1>:그리곤 아무도 신경쓰지 않는 틈을 타, 자판기의 플러그를 뽑고 사모의 케이블을 꽂았다.
 NPC-SCAR-H(2)<Speaker>사모</Speaker>||:후아아... 진정된다아...
 NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:하아아아...
 ()||<SE1>Rope</SE1><BGM>BGM_Empty</BGM>:긴 한숨이 절로 나왔지만 지금으로선 셰릴도 어쩔 수 없었다. 사모의 뒤로 짐들을 쌓아 케이블을 숨긴 그녀는 툭 내뱉듯 쏘아붙였다.
@@ -63,7 +63,7 @@ NPC-SCAR-H(2)<Speaker>사모</Speaker>||:아앗——
 NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<SE1>Stop_AVG_loop</SE1>:어... 환불 창구가 어디였더라? 분명 이 근처였는데...
 NPC-SCAR-H(2)<Speaker>사모</Speaker>||:찾아내도 지금은 줄 엄청 길 테니까 그냥 나중에 다시 오면 안 돼?+...엄청 불길한 예감이 드는데.
 NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:그냥 사람이 드글드글할 뿐인데 불길하긴 뭐가 불길해?
-()||:입으론 그리 말하면서도, 셰릴도 내심 정말 무슨 일이 벌어지진 않을까 가슴을 졸였다.
+()||:입으론 그리 말하면서도, 셰릴도 내심 정말 무슨 일이 벌어지지 않을까 가슴을 졸였다.
 ()||<SE1>AVG_Crowd</SE1>:앞뒤로 각양각색의 낯선 사람들이 지나가는 광경은 마치 거센 물길이 몰아치는 강의 한가운데에 고립된 것만 같았다.+"그나마 이 녀석이라도 곁에 있어서 다행이다"라고, 셰릴은 속으로 중얼거렸다.
 NPC-SCAR-H(2)<Speaker>사모</Speaker>||<SE1>Stop_AVG_loop</SE1>:...셰릴.
 NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:왜 또?
@@ -82,7 +82,7 @@ NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||<SE1>Stop_AVG
 ()||<黑屏2><BIN>167</BIN><BGM>GF_2022_Summer_Battle_1</BGM>:과거의 먹구름에서 간신히 빠져나왔을 때, 셰릴은 짐가방 위에 눕혀진 자신을 발견했다.
 ()||<SE1>RunStep</SE1>:사모는 그런 그녀를 짐가방째로 밀며 패닉에 빠진 사람들 사이를 빠져나가는 중이었다.
 NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:지금... 어디 가는 거야?
-NPC-SCAR-H(2)<Speaker>사모</Speaker>||:숨을 데 찾으러. 역사 출입구는 교통 정체돼서 안 돼, 목숨을 부지하려면 저거 해결될 때까지 숨어있어야 해.
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:숨을 데 찾으러. 역사 출입구는 교통이 정체돼서 안 돼, 목숨을 부지하려면 저거 해결될 때까지 숨어있어야 해.
 NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:............
 ()||<SE1>Explode</SE1>:콰앙!!
 ()||<SE1>AVG_Crowd_Run</SE1>:폭음에 셰릴이 화들짝 놀라 뒤를 돌아봤을 때 보인 것은, 점점 상황을 파악하기 시작한 사람들이 겁에 질려 성난 욕설과 찢어지는 비명을 지르며 앞다퉈 출입구로 몰려드는 광경이었다.+익숙한 광경과 익숙한 무력감에, 셰릴은 이를 악물고 간신히 고개를 돌렸다.
@@ -131,7 +131,7 @@ NPC-SCAR-L(0)<Speaker>경찰</Speaker><同时置暗>||:예, 그럼 수고하십�
 ()||<黑屏2><BIN>420</BIN>:그때, 중앙홀에서의 소란이 모두의 주의를 끌었다.
 ()||<SE1>AVG_footsteps_cave</SE1>:벌써 잊혀진 듯한 화장실 안. 셰릴이 초조하게 발을 구르며 배낭에 걸린 곰돌이 액세서리를 마구 주물러대서, 불쌍한 곰돌이는 점점 얼굴이 찌그러져 가는 중이었다.
 ()||<SE1>Stop_AVG_loop</SE1><BGM>GF_Swim_Marnie</BGM>:사모는 슬그머니 문에 걸린 팻말을 "청소 중"으로 뒤집은 뒤 셰릴의 상태를 관찰했다.
-NPC-SCAR-H(2)<Speaker>사모</Speaker>||:<color=#A9A9A9>이 인간 아가씨는 평소에 집구석에만 틀어박혀 사니까 잔뜩 겁에 질렸겠지.</color>+<color=#A9A9A9>울거나 하면 귀찮아지는데... 그런 상황 경험해본 적이 없으니.</color>+<color=#A9A9A9>그럼... 그 방법을 쓰는 수밖에.</color>
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:<color=#A9A9A9>이 인간 아가씨는 평소 집구석에만 틀어박혀 사니까 잔뜩 겁에 질렸겠지.</color>+<color=#A9A9A9>울거나 하면 귀찮아지는데... 그런 상황 경험해본 적이 없으니.</color>+<color=#A9A9A9>그럼... 그 방법을 쓰는 수밖에.</color>
 ()||:때마침 셰릴도 동동 구르던 발을 멈추곤 사모를 등진 채 무어라 낮게 중얼거리기 시작했다.
 ()||<SE1>AVG_footsteps_cave</SE1>:사모는 천천히 그녀에게 다가가, 어깨에 손을 살며시 얹고는 최대한 부드러운 목소리로 속삭였다.
 NPC-SCAR-H(2)<Speaker>사모</Speaker>||<SE1>Stop_AVG_loop</SE1>:걱정 마, 내가 반드시 안전하게 지켜줄게..
@@ -185,7 +185,7 @@ NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:질! 소! �
 NPC-SCAR-H(2)<Speaker>사모</Speaker>||:뭣...+그런 게 왜 있어?! 여행인데 짐가방에다...
 NPC-Cheryl(1)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:드디어 이걸 쓸 때가 온 거야.
 ()||<SE1>AVG_Spanner</SE1>:셰릴은 신기할 정도로 침착하게 질소냉동총의 노즐을 폭탄의 틈새에 쑤셔넣고 방아쇠를 당겨 내부로 액체 질소를 주입했다.+능숙한 자세와 침착한 뒷모습. 사모의 기억 속 단편과 겹쳐 보였다.
-NPC-SCAR-H(2)<Speaker>사모</Speaker>||:그거... 누구한테 배웠어...?<color=#A9A9A9>엄청 능숙하잖아? 그리고 이 자세, 눈에 익은데...</color>
+NPC-SCAR-H(2)<Speaker>사모</Speaker>||:그거... 누구한테 배웠어...? <color=#A9A9A9>엄청 능숙하잖아? 그리고 이 자세, 눈에 익은데...</color>
 ()||<SE1>Stop_AVG_loop</SE1>:셰릴의 "처치"에, 빠르게 흐르던 타이머가 순식간에 얼어붙었다.
 NPC-Cheryl(0)<Speaker>셰릴</Speaker><Position>0,-100</Position>||:............
 ()||:다만 셰릴은 어째선지 기뻐하는 표정이 아니었다. 오히려, 왠지 모르게 허무해하는 얼굴이었다.

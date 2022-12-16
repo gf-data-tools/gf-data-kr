@@ -6043,7 +6043,7 @@
         "id": 1123302,
         "type": 1407,
         "arguments": "6560039:1",
-        "extra_language": "아마리스는 맵 왼쪽 끝으로 이동한다",
+        "extra_language": "아마리스는 맵 오른쪽 끝으로 이동한다",
         "is_hidden": 0,
         "is_show_count": ""
     },
@@ -6051,7 +6051,7 @@
         "id": 1123303,
         "type": 1407,
         "arguments": "6560040:1",
-        "extra_language": "엘리아나는 맵 오른쪽 끝으로 이동한다",
+        "extra_language": "엘리아나는 맵 왼쪽 끝으로 이동한다",
         "is_hidden": 0,
         "is_show_count": ""
     },
