@@ -5524,109 +5524,109 @@
     id: 1123301
     type: 1407
     arguments: 6560020:2
-    extra_language: mission_win_type_config-11123301
+    extra_language: 폭탄을 제거한다.
   }
   {
     id: 1123302
     type: 1407
     arguments: 6560039:1
-    extra_language: mission_win_type_config-11123302
+    extra_language: 아마리스는 맵 왼쪽 끝으로 이동한다
   }
   {
     id: 1123303
     type: 1407
     arguments: 6560040:1
-    extra_language: mission_win_type_config-11123303
+    extra_language: 엘리아나는 맵 오른쪽 끝으로 이동한다
   }
   {
     id: 1123391
     type: 1407
     arguments: 6560034:1
-    extra_language: mission_win_type_config-11123391
+    extra_language: SCAR_L 퇴각
   }
   {
     id: 1123392
     type: 1407
     arguments: 6560035:1
-    extra_language: mission_win_type_config-11123392
+    extra_language: SCAR_H 퇴각
   }
   {
     id: 1123393
     type: 1407
     arguments: 6560035:1
-    extra_language: mission_win_type_config-11123393
+    extra_language: 아마리스 퇴각
   }
   {
     id: 1123401
     type: 1407
     arguments: 6560042:1
-    extra_language: mission_win_type_config-11123401
+    extra_language: 범인을 찾아낸다
   }
   {
     id: 1123491
     type: 1407
     arguments: 6560034:1
-    extra_language: mission_win_type_config-11123491
+    extra_language: 서광팀 퇴각
   }
   {
     id: 1123501
     type: 1407
     arguments: 6560025:1
-    extra_language: mission_win_type_config-11123501
+    extra_language: SCAR_H를 찾아낸다
   }
   {
     id: 1123601
     type: 1407
     arguments: 6560028:3
-    extra_language: mission_win_type_config-11123601
+    extra_language: 달 표식을 회수한다
   }
   {
     id: 1123602
     type: 1306
     arguments: 6560008:1
-    extra_language: mission_win_type_config-11123602
+    extra_language: 아마리스를 엘리아나와 대결시킨다
   }
   {
     id: 1123701
     type: 1407
     arguments: 6560020:2
-    extra_language: mission_win_type_config-11123701
+    extra_language: 폭탄을 제거한다
   }
   {
     id: 1123702
     type: 1407
     arguments: 6560039:1
-    extra_language: mission_win_type_config-11123702
+    extra_language: 오른쪽 객차의 제대는 맵 왼쪽 끝으로 이동한다
   }
   {
     id: 1123703
     type: 1407
     arguments: 6560040:1
-    extra_language: mission_win_type_config-11123703
+    extra_language: 왼쪽 객차의 제대는 맵 오른쪽 끝으로 이동한다
   }
   {
     id: 1123801
     type: 1407
     arguments: 6560042:1
-    extra_language: mission_win_type_config-11123801
+    extra_language: 범인을 찾아낸다
   }
   {
     id: 1123901
     type: 1407
     arguments: 6560025:1
-    extra_language: mission_win_type_config-11123901
+    extra_language: 아마리스를 찾아낸다
   }
   {
     id: 1124001
     type: 1407
     arguments: 6560028:3
-    extra_language: mission_win_type_config-11124001
+    extra_language: 달 표식을 회수한다
   }
   {
     id: 1124002
     type: 1306
     arguments: 6560009:1
-    extra_language: mission_win_type_config-11124002
+    extra_language: 엘리아나와 대결한다
   }
   {
     id: 1124101

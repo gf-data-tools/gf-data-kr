@@ -2359,9 +2359,9 @@
     },
     {
         "id": "1000112",
-        "name": "mission_effect_config-11000112",
+        "name": "달",
         "code": "bushu_moon",
-        "description": "mission_effect_config-21000112",
+        "description": "달",
         "priority": "-1",
         "duration": "0.00",
         "delay": "0.00",
@@ -2377,9 +2377,9 @@
     },
     {
         "id": "1000113",
-        "name": "mission_effect_config-11000113",
+        "name": "受击特效给hurt用",
         "code": "MGT_shouji",
-        "description": "mission_effect_config-21000113",
+        "description": "受击特效给hurt用",
         "priority": "0",
         "duration": "1.00",
         "delay": "0.00",

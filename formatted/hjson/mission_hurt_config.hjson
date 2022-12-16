@@ -516,7 +516,7 @@
   }
   {
     id: 6560001
-    name: mission_hurt_config-16560001
+    name: 【标记】机枪10%伤害
     target_type: 2
     type: 2
     life_type: 1
@@ -525,7 +525,7 @@
   }
   {
     id: 6560002
-    name: mission_hurt_config-16560002
+    name: 【标记】골리앗秒杀伤害包括建筑
     target_type: 2
     type: 2
     is_number: 1
@@ -536,7 +536,7 @@
   }
   {
     id: 6560003
-    name: mission_hurt_config-16560003
+    name: 【标记】压制敌人伤害
     target_type: 2
     type: 2
     life_type: 2

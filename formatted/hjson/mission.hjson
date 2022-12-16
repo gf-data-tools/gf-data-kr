@@ -42172,7 +42172,7 @@
     campaign: -56
     sub: 2
     if_emergency: -1
-    name: mission-10011233
+    name: 초휴|왼쪽 객차|연결구|오른쪽 객차
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42203,7 +42203,7 @@
     campaign: -56
     sub: 3
     if_emergency: -1
-    name: mission-10011234
+    name: 식기
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42235,7 +42235,7 @@
     campaign: -56
     sub: 4
     if_emergency: -1
-    name: mission-10011235
+    name: 식심
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42267,7 +42267,7 @@
     campaign: -56
     sub: 5
     if_emergency: -1
-    name: mission-10011236
+    name: 생광
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42298,7 +42298,7 @@
     campaign: -56
     sub: 6
     if_emergency: -1
-    name: mission-10011237
+    name: 초휴 EX|왼쪽 객차|연결구|오른쪽 객차
     difficulty: 20000
     exp_parameter: 48
     type: "3"
@@ -42323,7 +42323,7 @@
     difficulty_recommend: 20000;100
     difficulty_recommend_addendum: mission-30011237
     limit_sangvis: 4
-    mission_tip: mission-40011237
+    mission_tip: 추천 부대편성: 균형 편성
     win_step: "1123701"
   }
   {
@@ -42331,7 +42331,7 @@
     campaign: -56
     sub: 7
     if_emergency: -1
-    name: mission-10011238
+    name: 식기 EX
     difficulty: 26000
     exp_parameter: 51
     type: "3"
@@ -42357,14 +42357,14 @@
     difficulty_recommend: 26000;110
     difficulty_recommend_addendum: mission-30011238
     limit_sangvis: 4
-    mission_tip: mission-40011238
+    mission_tip: 추천 부대편성: 균형 편성
   }
   {
     id: 11239
     campaign: -56
     sub: 8
     if_emergency: -1
-    name: mission-10011239
+    name: 식심 EX
     difficulty: 30000
     exp_parameter: 53
     type: "3"
@@ -42390,14 +42390,14 @@
     difficulty_recommend: 30000;120
     difficulty_recommend_addendum: mission-30011239
     limit_sangvis: 4
-    mission_tip: mission-40011239
+    mission_tip: 추천 부대편성: 균형 편성
   }
   {
     id: 11240
     campaign: -56
     sub: 9
     if_emergency: -1
-    name: mission-10011240
+    name: 생광 EX
     difficulty: 34000
     exp_parameter: 55
     type: "3"
@@ -42422,7 +42422,7 @@
     difficulty_recommend: 34000;120
     difficulty_recommend_addendum: mission-30011240
     limit_sangvis: 4
-    mission_tip: mission-40011240
+    mission_tip: 추천 부대편성: 균형 편성
     win_step: "1124001"
   }
   {
@@ -42430,7 +42430,7 @@
     campaign: -56
     sub: 10
     if_emergency: -1
-    name: mission-10011241
+    name: 테이아 대충돌
     difficulty: 10000
     exp_parameter: 40
     type: "3"
@@ -42456,14 +42456,14 @@
     difficulty_recommend: 10000;75
     difficulty_recommend_addendum: mission-30011241
     limit_sangvis: 4
-    mission_tip: mission-40011241
+    mission_tip: 추천 부대편성: 균형 편성
   }
   {
     id: 11242
     campaign: -56
     sub: 11
     if_emergency: -1
-    name: mission-10011242
+    name: 테이아 대충돌 EX
     difficulty: 30000
     exp_parameter: 53
     type: "3"
@@ -42489,7 +42489,7 @@
     difficulty_recommend: 30000;120
     difficulty_recommend_addendum: mission-30011242
     limit_sangvis: 4
-    mission_tip: mission-40011242
+    mission_tip: 추천 부대편성: 균형 편성
   }
   {
     id: 11243
@@ -42497,7 +42497,7 @@
     sub: 1
     if_emergency: -1
     special_type: 9
-    name: mission-10011243
+    name: 장주기 섭동
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42523,7 +42523,7 @@
     sub: 14
     if_emergency: -1
     special_type: 9
-    name: mission-10011244
+    name: 단주기 섭동
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42550,7 +42550,7 @@
     sub: 15
     if_emergency: -1
     special_type: 9
-    name: mission-10011245
+    name: 황도 경사각
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42577,7 +42577,7 @@
     sub: 16
     if_emergency: -1
     special_type: 9
-    name: mission-10011246
+    name: 재변
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42604,7 +42604,7 @@
     sub: 17
     if_emergency: -1
     special_type: 9
-    name: mission-10011247
+    name: 접촉
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42631,7 +42631,7 @@
     sub: 18
     if_emergency: -1
     special_type: 9
-    name: mission-10011248
+    name: 이탈
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42658,7 +42658,7 @@
     sub: 19
     if_emergency: -1
     special_type: 9
-    name: mission-10011249
+    name: 동원
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42685,7 +42685,7 @@
     sub: 20
     if_emergency: -1
     special_type: 9
-    name: mission-10011250
+    name: 노획
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42712,7 +42712,7 @@
     sub: 21
     if_emergency: -1
     special_type: 9
-    name: mission-10011251
+    name: 거짓 본그림자
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42739,7 +42739,7 @@
     sub: 22
     if_emergency: -1
     special_type: 9
-    name: mission-10011252
+    name: 본그림자
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42766,7 +42766,7 @@
     sub: 23
     if_emergency: -1
     special_type: 9
-    name: mission-10011253
+    name: 금환
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42793,7 +42793,7 @@
     sub: 24
     if_emergency: -1
     special_type: 9
-    name: mission-10011254
+    name: 고리
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42820,7 +42820,7 @@
     sub: 25
     if_emergency: -1
     special_type: 9
-    name: mission-10011255
+    name: 위난의 바다
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42847,7 +42847,7 @@
     sub: 26
     if_emergency: -1
     special_type: 9
-    name: mission-10011256
+    name: 고요의 바다
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42874,7 +42874,7 @@
     sub: 27
     if_emergency: -1
     special_type: 9
-    name: mission-10011257
+    name: 교점월
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42901,7 +42901,7 @@
     sub: 28
     if_emergency: -1
     special_type: 9
-    name: mission-10011258
+    name: 복원
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42928,7 +42928,7 @@
     sub: 29
     if_emergency: -1
     special_type: 9
-    name: mission-10011259
+    name: 외 라그랑주점
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42955,7 +42955,7 @@
     sub: 30
     if_emergency: -1
     special_type: 9
-    name: mission-10011260
+    name: 내 라그랑주점
     difficulty: 1000
     exp_parameter: 21
     type: "3"
@@ -42981,7 +42981,7 @@
     campaign: -56
     sub: 12
     if_emergency: -1
-    name: mission-10011318
+    name: 탈레스의 예언
     difficulty: 10000
     exp_parameter: 40
     type: "3"
@@ -43007,14 +43007,14 @@
     difficulty_recommend: 10000;75
     difficulty_recommend_addendum: mission-30011318
     limit_sangvis: 4
-    mission_tip: mission-40011318
+    mission_tip: 추천 부대편성: 균형 편성
   }
   {
     id: 11319
     campaign: -56
     sub: 13
     if_emergency: -1
-    name: mission-10011319
+    name: 탈레스의 예언 EX
     difficulty: 30000
     exp_parameter: 53
     type: "3"
@@ -43040,7 +43040,7 @@
     difficulty_recommend: 30000;120
     difficulty_recommend_addendum: mission-30011319
     limit_sangvis: 4
-    mission_tip: mission-40011319
+    mission_tip: 추천 부대편성: 균형 편성
   }
   {
     id: 11320

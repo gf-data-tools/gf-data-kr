@@ -45646,7 +45646,7 @@
   }
   {
     id: 6560001
-    name: mission_skill_config-16560001
+    name: 【标记】성형폭탄初始化
     code: "1"
     description: mission_skill_config-26560001
     lvup_description: mission_skill_config-36560001
@@ -45661,7 +45661,7 @@
   }
   {
     id: 6560002
-    name: mission_skill_config-16560002
+    name: 【标记】성형폭탄初始化
     code: "1"
     description: mission_skill_config-26560002
     lvup_description: mission_skill_config-36560002
@@ -45676,7 +45676,7 @@
   }
   {
     id: 6560003
-    name: mission_skill_config-16560003
+    name: 【标记】자동기관포67741回合技能
     code: "1"
     description: mission_skill_config-26560003
     lvup_description: mission_skill_config-36560003
@@ -45691,7 +45691,7 @@
   }
   {
     id: 6560004
-    name: mission_skill_config-16560004
+    name: 【标记】자동기관포67747回合技能
     code: "1"
     description: mission_skill_config-26560004
     lvup_description: mission_skill_config-36560004
@@ -45706,7 +45706,7 @@
   }
   {
     id: 6560005
-    name: mission_skill_config-16560005
+    name: 【标记】자동기관포67749回合技能
     code: "1"
     description: mission_skill_config-26560005
     lvup_description: mission_skill_config-36560005
@@ -45721,7 +45721,7 @@
   }
   {
     id: 6560006
-    name: mission_skill_config-16560006
+    name: 【标记】제어콘솔初始化
     code: "1"
     description: mission_skill_config-26560006
     lvup_description: mission_skill_config-36560006
@@ -45736,7 +45736,7 @@
   }
   {
     id: 6560007
-    name: mission_skill_config-16560007
+    name: 【标记】차단문初始化
     code: "1"
     description: mission_skill_config-26560007
     lvup_description: mission_skill_config-36560007
@@ -45751,7 +45751,7 @@
   }
   {
     id: 6560008
-    name: mission_skill_config-16560008
+    name: 【标记】버려진 골리앗初始化
     code: "1"
     description: mission_skill_config-26560008
     lvup_description: mission_skill_config-36560008
@@ -45766,7 +45766,7 @@
   }
   {
     id: 6560009
-    name: mission_skill_config-16560009
+    name: 【标记】상자初始化
     code: "1"
     description: mission_skill_config-26560009
     lvup_description: mission_skill_config-36560009
@@ -45781,7 +45781,7 @@
   }
   {
     id: 6560010
-    name: mission_skill_config-16560010
+    name: 【标记】破碎心智初始化
     code: "1"
     description: mission_skill_config-26560010
     lvup_description: mission_skill_config-36560010
@@ -45796,7 +45796,7 @@
   }
   {
     id: 6560011
-    name: mission_skill_config-16560011
+    name: 【标记】EMP 폭탄初始化
     code: "1"
     description: mission_skill_config-26560011
     lvup_description: mission_skill_config-36560011
@@ -45811,7 +45811,7 @@
   }
   {
     id: 6560012
-    name: mission_skill_config-16560012
+    name: 【标记】67737初始化
     code: "1"
     description: mission_skill_config-26560012
     lvup_description: mission_skill_config-36560012
@@ -45826,7 +45826,7 @@
   }
   {
     id: 6560013
-    name: mission_skill_config-16560013
+    name: 【标记】67742初始化
     code: "1"
     description: mission_skill_config-26560013
     lvup_description: mission_skill_config-36560013
@@ -45841,7 +45841,7 @@
   }
   {
     id: 6560014
-    name: mission_skill_config-16560014
+    name: 【标记】67756初始化
     code: "1"
     description: mission_skill_config-26560014
     lvup_description: mission_skill_config-36560014
@@ -45856,7 +45856,7 @@
   }
   {
     id: 6560015
-    name: mission_skill_config-16560015
+    name: 【标记】67734初始化
     code: "1"
     description: mission_skill_config-26560015
     lvup_description: mission_skill_config-36560015
@@ -45871,7 +45871,7 @@
   }
   {
     id: 6560016
-    name: mission_skill_config-16560016
+    name: 【标记】67760初始化
     code: "1"
     description: mission_skill_config-26560016
     lvup_description: mission_skill_config-36560016
@@ -45886,7 +45886,7 @@
   }
   {
     id: 6560017
-    name: mission_skill_config-16560017
+    name: 【标记】67744初始化
     code: "1"
     description: mission_skill_config-26560017
     lvup_description: mission_skill_config-36560017
@@ -45901,7 +45901,7 @@
   }
   {
     id: 6560018
-    name: mission_skill_config-16560018
+    name: 【标记】67745初始化
     code: "1"
     description: mission_skill_config-26560018
     lvup_description: mission_skill_config-36560018
@@ -45916,7 +45916,7 @@
   }
   {
     id: 6560019
-    name: mission_skill_config-16560019
+    name: 【标记】67759初始化
     code: "1"
     description: mission_skill_config-26560019
     lvup_description: mission_skill_config-36560019
@@ -45931,9 +45931,9 @@
   }
   {
     id: 6560020
-    name: mission_skill_config-16560020
+    name: 폭탄 해제
     code: "1"
-    description: mission_skill_config-26560020
+    description: 빨리 해치우고 치킨 뜯으러 간닭!
     lvup_description: mission_skill_config-36560020
     skill_group_id: 6560020
     level: 1
@@ -45948,7 +45948,7 @@
   }
   {
     id: 6560021
-    name: mission_skill_config-16560021
+    name: 【标记】자동기관포1初始化回合技能
     code: "1"
     description: mission_skill_config-26560021
     lvup_description: mission_skill_config-36560021
@@ -45964,7 +45964,7 @@
   }
   {
     id: 6560022
-    name: mission_skill_config-16560022
+    name: 【标记】자동기관포2初始化回合技能
     code: "1"
     description: mission_skill_config-26560022
     lvup_description: mission_skill_config-36560022
@@ -45980,7 +45980,7 @@
   }
   {
     id: 6560023
-    name: mission_skill_config-16560023
+    name: 【标记】자동기관포3初始化回合技能
     code: "1"
     description: mission_skill_config-26560023
     lvup_description: mission_skill_config-36560023
@@ -45996,7 +45996,7 @@
   }
   {
     id: 6560024
-    name: mission_skill_config-16560024
+    name: 【标记】자동기관포1初始化回合技能
     code: "1"
     description: mission_skill_config-26560024
     lvup_description: mission_skill_config-36560024
@@ -46012,7 +46012,7 @@
   }
   {
     id: 6560025
-    name: mission_skill_config-16560025
+    name: 【标记】자동기관포2初始化回合技能
     code: "1"
     description: mission_skill_config-26560025
     lvup_description: mission_skill_config-36560025
@@ -46028,7 +46028,7 @@
   }
   {
     id: 6560026
-    name: mission_skill_config-16560026
+    name: 【标记】자동기관포3初始化回合技能
     code: "1"
     description: mission_skill_config-26560026
     lvup_description: mission_skill_config-36560026
@@ -46044,9 +46044,9 @@
   }
   {
     id: 6560027
-    name: mission_skill_config-16560027
+    name: 차단문 열기
     code: "1"
-    description: mission_skill_config-26560027
+    description: 차단문 열기。
     lvup_description: mission_skill_config-36560027
     skill_group_id: 6560027
     level: 1
@@ -46063,7 +46063,7 @@
   }
   {
     id: 6560028
-    name: mission_skill_config-16560028
+    name: 【标记】차단문 열기连携
     code: "1"
     description: mission_skill_config-26560028
     lvup_description: mission_skill_config-36560028
@@ -46079,9 +46079,9 @@
   }
   {
     id: 6560029
-    name: mission_skill_config-16560029
+    name: 상자 뒤지기
     code: "1"
-    description: mission_skill_config-26560029
+    description: 얌전히 나오시지 크헤헤
     lvup_description: mission_skill_config-36560029
     skill_group_id: 6560029
     level: 1
@@ -46097,9 +46097,9 @@
   }
   {
     id: 6560030
-    name: mission_skill_config-16560030
+    name: 상자 뒤지기
     code: "1"
-    description: mission_skill_config-26560030
+    description: 얌전히 나오시지 크헤헤
     lvup_description: mission_skill_config-36560030
     skill_group_id: 6560030
     level: 1
@@ -46115,9 +46115,9 @@
   }
   {
     id: 6560031
-    name: mission_skill_config-16560031
+    name: 상자 뒤지기
     code: "1"
-    description: mission_skill_config-26560031
+    description: 얌전히 나오시지 크헤헤
     lvup_description: mission_skill_config-36560031
     skill_group_id: 6560031
     level: 1
@@ -46133,7 +46133,7 @@
   }
   {
     id: 6560032
-    name: mission_skill_config-16560032
+    name: 【标记】상자 뒤지기连携
     code: "1"
     description: mission_skill_config-26560032
     lvup_description: mission_skill_config-36560032
@@ -46150,7 +46150,7 @@
   }
   {
     id: 6560033
-    name: mission_skill_config-16560033
+    name: 【标记】상자 뒤지기连携
     code: "1"
     description: mission_skill_config-26560033
     lvup_description: mission_skill_config-36560033
@@ -46167,9 +46167,9 @@
   }
   {
     id: 6560034
-    name: mission_skill_config-16560034
+    name: 회수
     code: "1"
-    description: mission_skill_config-26560034
+    description: 달 표식을 회수해 제압능력을 얻는다
     lvup_description: mission_skill_config-36560034
     skill_group_id: 6560034
     level: 1
@@ -46187,9 +46187,9 @@
   }
   {
     id: 6560035
-    name: mission_skill_config-16560035
+    name: 회수
     code: "1"
-    description: mission_skill_config-26560035
+    description: 달 표식을 회수해 제압능력을 얻는다
     lvup_description: mission_skill_config-36560035
     skill_group_id: 6560035
     level: 1
@@ -46207,9 +46207,9 @@
   }
   {
     id: 6560036
-    name: mission_skill_config-16560036
+    name: 회수
     code: "1"
-    description: mission_skill_config-26560036
+    description: 이게 마지막이다. 그녀를 이길 수 있을 거야!
     lvup_description: mission_skill_config-36560036
     skill_group_id: 6560036
     level: 1
@@ -46226,7 +46226,7 @@
   }
   {
     id: 6560037
-    name: mission_skill_config-16560037
+    name: 【标记】破碎心智连携1
     code: "1"
     description: mission_skill_config-26560037
     lvup_description: mission_skill_config-36560037
@@ -46242,7 +46242,7 @@
   }
   {
     id: 6560038
-    name: mission_skill_config-16560038
+    name: 【标记】破碎心智连携2
     code: "1"
     description: mission_skill_config-26560038
     lvup_description: mission_skill_config-36560038
@@ -46259,7 +46259,7 @@
   }
   {
     id: 6560039
-    name: mission_skill_config-16560039
+    name: 【标记】boss加速
     code: "1"
     description: mission_skill_config-26560039
     lvup_description: mission_skill_config-36560039
@@ -46275,9 +46275,9 @@
   }
   {
     id: 6560040
-    name: mission_skill_config-16560040
+    name: 골리앗 줍기
     code: "1"
-    description: mission_skill_config-26560040
+    description: 골리앗을 하나 획득
     lvup_description: mission_skill_config-36560040
     skill_group_id: 6560040
     level: 1
@@ -46293,9 +46293,9 @@
   }
   {
     id: 6560041
-    name: mission_skill_config-16560041
+    name: EMP 폭탄 줍기
     code: "1"
-    description: mission_skill_config-26560041
+    description: EMP 폭탄을 하나 획득
     lvup_description: mission_skill_config-36560041
     skill_group_id: 6560041
     level: 1
@@ -46311,9 +46311,9 @@
   }
   {
     id: 6560042
-    name: mission_skill_config-16560042
+    name: 골리앗 투척
     code: "1"
-    description: mission_skill_config-26560042
+    description: 박살을 내주겠어
     lvup_description: mission_skill_config-36560042
     skill_group_id: 6560042
     level: 1
@@ -46329,9 +46329,9 @@
   }
   {
     id: 6560043
-    name: mission_skill_config-16560043
+    name: EMP 폭탄 투척
     code: "1"
-    description: mission_skill_config-26560043
+    description: 무궁화 꽃이 피었습니다
     lvup_description: mission_skill_config-36560043
     skill_group_id: 6560043
     level: 1
@@ -46347,7 +46347,7 @@
   }
   {
     id: 6560044
-    name: mission_skill_config-16560044
+    name: 【标记】투척골리앗连携
     code: "1"
     description: mission_skill_config-26560044
     lvup_description: mission_skill_config-36560044
@@ -46362,7 +46362,7 @@
   }
   {
     id: 6560045
-    name: mission_skill_config-16560045
+    name: 【标记】투척EMP 폭탄连携
     code: "1"
     description: mission_skill_config-26560045
     lvup_description: mission_skill_config-36560045
@@ -46377,9 +46377,9 @@
   }
   {
     id: 6560046
-    name: mission_skill_config-16560046
+    name: 적군 제압
     code: "1"
-    description: mission_skill_config-26560046
+    description: 적의 체력을 크게 깎고 1턴간 고정시킨다
     lvup_description: mission_skill_config-36560046
     skill_group_id: 6560046
     level: 1
@@ -46394,7 +46394,7 @@
   }
   {
     id: 6560047
-    name: mission_skill_config-16560047
+    name: 【标记】压制敌人连携
     code: "1"
     description: mission_skill_config-26560047
     lvup_description: mission_skill_config-36560047
@@ -46409,7 +46409,7 @@
   }
   {
     id: 6560048
-    name: mission_skill_config-16560048
+    name: 【标记】npc行动力初始化
     code: "1"
     description: mission_skill_config-26560048
     lvup_description: mission_skill_config-36560048
@@ -46424,7 +46424,7 @@
   }
   {
     id: 6560049
-    name: mission_skill_config-16560049
+    name: 【标记】npc召唤敌人初始化
     code: "1"
     description: mission_skill_config-26560049
     lvup_description: mission_skill_config-36560049
@@ -46439,7 +46439,7 @@
   }
   {
     id: 6560050
-    name: mission_skill_config-16560050
+    name: 【标记】npc召唤敌人初始化
     code: "1"
     description: mission_skill_config-26560050
     lvup_description: mission_skill_config-36560050
@@ -46454,7 +46454,7 @@
   }
   {
     id: 6560051
-    name: mission_skill_config-16560051
+    name: 【标记】npc召唤敌人
     code: "1"
     description: mission_skill_config-26560051
     lvup_description: mission_skill_config-36560051
@@ -46469,7 +46469,7 @@
   }
   {
     id: 6560052
-    name: mission_skill_config-16560052
+    name: 【标记】npc召唤敌人
     code: "1"
     description: mission_skill_config-26560052
     lvup_description: mission_skill_config-36560052
@@ -46484,7 +46484,7 @@
   }
   {
     id: 6560053
-    name: mission_skill_config-16560053
+    name: 【标记】SCAR-L判负
     code: "1"
     description: mission_skill_config-26560053
     lvup_description: mission_skill_config-36560053
@@ -46499,7 +46499,7 @@
   }
   {
     id: 6560054
-    name: mission_skill_config-16560054
+    name: 【标记】SCAR-H判负
     code: "1"
     description: mission_skill_config-26560054
     lvup_description: mission_skill_config-36560054
@@ -46514,7 +46514,7 @@
   }
   {
     id: 6560055
-    name: mission_skill_config-16560055
+    name: 【标记】第一关胜利兔子用
     code: "1"
     description: mission_skill_config-26560055
     lvup_description: mission_skill_config-36560055
@@ -46529,7 +46529,7 @@
   }
   {
     id: 6560056
-    name: mission_skill_config-16560056
+    name: 【标记】第一关胜利兔子用
     code: "1"
     description: mission_skill_config-26560056
     lvup_description: mission_skill_config-36560056
@@ -46544,7 +46544,7 @@
   }
   {
     id: 6560057
-    name: mission_skill_config-16560057
+    name: 【标记】犯人兔子用
     code: "1"
     description: mission_skill_config-26560057
     lvup_description: mission_skill_config-36560057
@@ -46559,7 +46559,7 @@
   }
   {
     id: 6560058
-    name: mission_skill_config-16560058
+    name: 【标记】左箭头初始化
     code: "1"
     description: mission_skill_config-26560058
     lvup_description: mission_skill_config-36560058
@@ -46574,7 +46574,7 @@
   }
   {
     id: 6560059
-    name: mission_skill_config-16560059
+    name: 【标记】右箭头初始化
     code: "1"
     description: mission_skill_config-26560059
     lvup_description: mission_skill_config-36560059
@@ -46589,9 +46589,9 @@
   }
   {
     id: 6560060
-    name: mission_skill_config-16560060
+    name: 【标记】자동기관포开始回合扫射
     code: "1"
-    description: mission_skill_config-26560060
+    description: 턴 개시 시 인접한 아군 제대에게 현재 체력 10% 피해를 준다.
     lvup_description: mission_skill_config-36560060
     skill_group_id: 6560060
     level: 1
@@ -46604,9 +46604,9 @@
   }
   {
     id: 6560061
-    name: mission_skill_config-16560061
+    name: 【标记】자동기관포效果
     code: "1"
-    description: mission_skill_config-26560061
+    description: 턴 개시 시 인접한 아군 제대에게 현재 체력 10% 피해를 준다.
     lvup_description: mission_skill_config-36560061
     skill_group_id: 6560061
     level: 1

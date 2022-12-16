@@ -3795,8 +3795,8 @@
   }
   {
     id: 6560001
-    name: mission_buff_config-16560001
-    description: mission_buff_config-26560001
+    name: EMP 폭탄 소지
+    description: EMP 폭탄 소지
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -3807,8 +3807,8 @@
   }
   {
     id: 6560002
-    name: mission_buff_config-16560002
-    description: mission_buff_config-26560002
+    name: 골리앗 소지
+    description: 골리앗 소지
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -3819,7 +3819,7 @@
   }
   {
     id: 6560003
-    name: mission_buff_config-16560003
+    name: 적 제압 가능
     description: mission_buff_config-26560003
     type: 1
     duration_type: "1"
@@ -3830,7 +3830,7 @@
   }
   {
     id: 6560004
-    name: mission_buff_config-16560004
+    name: 고정
     description: mission_buff_config-26560004
     type: 1
     duration_type: "1"
@@ -3841,7 +3841,7 @@
   }
   {
     id: 6560005
-    name: mission_buff_config-16560005
+    name: SCAR-L과 대결 가능
     description: mission_buff_config-26560005
     type: 1
     duration_type: "1"
