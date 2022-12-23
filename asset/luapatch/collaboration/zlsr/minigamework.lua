@@ -172,9 +172,7 @@ JoyStickBegin = function(input)
 end
 
 JoyStickEnd = function(input)
-	if isStun then
-		return
-	end	
+
 	--print("End")
 	isMoving  = false
 	if not isStun then
@@ -190,11 +188,12 @@ Update = function()
 	if haloObj ~= nil and haloObj.activeSelf then
 		haloObj:SetActive(false)
 	end
+	totalTimer = totalTimer - CS.UnityEngine.Time.deltaTime
 	MainLoop()
 	
 end
 function MainLoop()
-	totalTimer = totalTimer - CS.UnityEngine.Time.deltaTime
+	
 	UpdateRemainTime()
 	if not lifebarFlag and character.lifeBar ~= nil then
 		character.lifeBar.gameObject:SetActive(false)
@@ -276,7 +275,7 @@ function GetStunCode()
 		if currentHoldingBrickNum == 5 then
 			return "Down5"
 		end
-		return""
+		return"Down0"
 end
 function GetWaitCode()
 		if currentHoldingBrickNum == 0 then
@@ -301,9 +300,14 @@ function GetWaitCode()
 end
 function DoStun()
 	--播放倒地动作
-	dir = stunBuffNum < 0
-	spine:SetSpine(GetMoveCode(), dir)--从右边来车往左边倒，反过来也是
+	if stunBuffNum < 0 then
+		dir = 1		
+	else
+		dir = -1
+	end
+	spine:SetSpine(GetStunCode(), dir)--从右边来车往左边倒，反过来也是
 	isStun = true
+	isMoving = false
 	stunTimer = 0
 end
 function StunFinish()

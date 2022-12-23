@@ -7713,6 +7713,72 @@
     class_id: 82
   }
   {
+    id: 7801
+    name: 드 라일 - 별빛 뜨개질
+    fit_gun: 337
+    voice: 19
+    dialog: 가져가, 메리 크리스마스... 뭐? 오늘 왜 이어폰 안 끼고 있냐고? 네가 선물받고 뭐라고 하나 듣자고 그러지!
+    note: skin-30007801
+    illustrator_cv: skin-40007801
+    order: 98
+    class_id: 83
+  }
+  {
+    id: 7802
+    name: Lusa - 라떼는 노루야
+    fit_gun: 311
+    voice: 19
+    dialog: 코치님, 라떼 고마워요! 설원 축구 시합에서 저의 활약을 보실 건가요? 일단 저희팀이 이긴다에 거시면 돼요!
+    note: skin-30007802
+    illustrator_cv: skin-40007802
+    order: 98
+    class_id: 83
+  }
+  {
+    id: 7804
+    name: MPL - 서리를 뛰어넘어
+    fit_gun: 363
+    voice: 19
+    dialog: 휴, 방금 그 눈덩이를 아슬아슬 피했네. 어라, MPK가 어디 갔지... 뭐?! 걔랑 지휘관이 방금 그 눈덩이 안에 있었다고!?
+    note: skin-30007804
+    illustrator_cv: skin-40007804
+    order: 98
+    class_id: 83
+  }
+  {
+    id: 7806
+    name: MPK - 얼음절벽의 불꽃
+    fit_gun: 364
+    voice: 19
+    dialog: 야호! 초고난이도 동작 또 하나 성공이다! 잠깐... 저기 앞에 있는 거 지휘관이잖아? 비켜비켜, 나 멈출 수가 없어어어!
+    note: skin-30007806
+    illustrator_cv: skin-40007806
+    order: 98
+    class_id: 83
+  }
+  {
+    id: 7807
+    name: KSVK - 쌓인 눈 밑에
+    fit_gun: 252
+    voice: 19
+    dialog: 조심해라, 지휘관. 이 추운 눈밭 속에도 굳세게 피어나는 꽃이 있으니 말이다. 그 마음을 짓밟지 않도록 주의하거라.
+    note: skin-30007807
+    illustrator_cv: skin-40007807
+    order: 98
+    class_id: 83
+  }
+  {
+    id: 7809
+    name: Bren Ten - 푹신푹신 딸기타르트
+    fit_gun: 139
+    voice: 19
+    dialog: 밖에 눈보라가 분다고 들었어요. 오늘은 저랑 여기에 같이 있자고요! 에... 눈 안 내려요? 아 몰라요! 암튼 일기예보가 그렇대요!
+    note: skin-30007809
+    illustrator_cv: 小星,Sato Arise,
+    order: 98
+    class_id: 83
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     fit_gun: 57
