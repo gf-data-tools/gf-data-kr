@@ -1369,7 +1369,7 @@
         "prize_id": 11002,
         "title": "옷장: 지휘관 1/2",
         "content": "처음으로 지휘관 성별 설정 변경",
-        "unlock_course": "130",
+        "unlock_course": "",
         "new_type": 1,
         "grade_id": 54,
         "sort": 393,

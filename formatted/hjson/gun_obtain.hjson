@@ -1115,4 +1115,52 @@
     obtain_id: 3080
     description: 기간한정 이벤트 <사로스 주기> 재화상점 교환
   }
+  {
+    obtain_id: 3081
+    description: 2023년 1월 출석 보상
+  }
+  {
+    obtain_id: 3082
+    description: 2023년 2월 출석 보상
+  }
+  {
+    obtain_id: 3083
+    description: 2023년 3월 출석 보상
+  }
+  {
+    obtain_id: 3084
+    description: 2023년 4월 출석 보상
+  }
+  {
+    obtain_id: 3085
+    description: 2023년 5월 출석 보상
+  }
+  {
+    obtain_id: 3086
+    description: 2023년 6월 출석 보상
+  }
+  {
+    obtain_id: 3087
+    description: 2023년 7월 출석 보상
+  }
+  {
+    obtain_id: 3088
+    description: 2023년 8월 출석 보상
+  }
+  {
+    obtain_id: 3089
+    description: 2023년 9월 출석 보상
+  }
+  {
+    obtain_id: 3090
+    description: 2023년 10월 출석 보상
+  }
+  {
+    obtain_id: 3091
+    description: 2023년 11월 출석 보상
+  }
+  {
+    obtain_id: 3092
+    description: 2023년 12월 출석 보상
+  }
 ]

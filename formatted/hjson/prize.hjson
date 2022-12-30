@@ -12595,6 +12595,63 @@
     content: prize-20001699
   }
   {
+    id: 1700
+    name: 2023 새해 한정 Ⅰ
+    item_ids: 41-500,506-1000
+    gift: 100003-5
+    content: prize-20001700
+    icon: Bumdle_2023
+    fairy_ids: 26-0-100-5,26-0-100-5
+  }
+  {
+    id: 1701
+    name: 2023 새해 한정 Ⅱ
+    item_ids: 41-100,516-200
+    gift: 100003-5
+    content: prize-20001701
+    icon: Bumdle_2023
+  }
+  {
+    id: 1702
+    name: 2023 새해 한정 Ⅲ
+    item_ids: 41-660,44-500,506-1000
+    gift: 100003-10
+    content: prize-20001702
+    icon: Bumdle_2023
+  }
+  {
+    id: 1703
+    name: 편제확장 특가
+    mp: 20000
+    ammo: 20000
+    mre: 20000
+    part: 20000
+    item_ids: 1-20,3-20
+    content: prize-20001703
+    icon: Bumdle_Christmas2017
+  }
+  {
+    id: 1704
+    name: 2023년 1월 출석
+    gem: 90
+    equip_ids: "319"
+    content: prize-20001704
+  }
+  {
+    id: 1705
+    name: 견고한 요새-허수공간
+    item_ids: 121002-1
+    content: prize-20001705
+  }
+  {
+    id: 1706
+    name: prize-10001706
+    gem_pay: 6100
+    item_ids: 41-100
+    content: prize-20001706
+    icon: Bumdle_cashblue
+  }
+  {
     id: 2001
     name: WA2000 - 고성에서의 모험
     gift: 6-1
@@ -22290,6 +22347,62 @@
     user_exp: 2000
     item_ids: 106-60,2185-1,200008-1
     content: '''"Code6:소용돌이" 시즌에서 대장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*60, 지휘관 경험치*2000, 아이콘 "겁없는 야심"'''
+    icon: Medal_Chess
+  }
+  {
+    id: 10757
+    name: prize-10010757
+    user_exp: 30
+    item_ids: 106-5,2214-1,200008-1
+    content: prize-20010757
+    icon: Medal_Chess
+  }
+  {
+    id: 10758
+    name: prize-10010758
+    user_exp: 60
+    item_ids: 106-10
+    content: prize-20010758
+    icon: Medal_Chess
+  }
+  {
+    id: 10759
+    name: prize-10010759
+    user_exp: 100
+    item_ids: 106-20
+    content: prize-20010759
+    icon: Medal_Chess
+  }
+  {
+    id: 10760
+    name: prize-10010760
+    user_exp: 200
+    item_ids: 106-30,2215-1,200007-1
+    content: prize-20010760
+    icon: Medal_Chess
+  }
+  {
+    id: 10761
+    name: prize-10010761
+    user_exp: 500
+    item_ids: 106-40
+    content: prize-20010761
+    icon: Medal_Chess
+  }
+  {
+    id: 10762
+    name: prize-10010762
+    user_exp: 1000
+    item_ids: 106-50
+    content: prize-20010762
+    icon: Medal_Chess
+  }
+  {
+    id: 10763
+    name: prize-10010763
+    user_exp: 2000
+    item_ids: 106-60,2216-1,200006-1
+    content: prize-20010763
     icon: Medal_Chess
   }
   {
