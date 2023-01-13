@@ -42177,6 +42177,7 @@
     boss_team_id: "1"
     turn_duration: 360000000
     limit_gun_pool: "98"
+    limit_team: "-1"
     map_res_name: OPS96_Y;OPS95_Y;OPS96_Y
     map_information: "15000,15000|15000,15000|0,0;15000,15000|15000,15000|0,0;15000,15000|15000,15000|0,0"
     fog_length: "0,500;0,500;0,500"
@@ -42190,7 +42191,7 @@
     mapped_mission_id: 56001
     difficulty_recommend: 1000;15
     difficulty_recommend_addendum: mission-30011233
-    limit_sangvis: 4
+    limit_sangvis: -1
     mission_tip: mission-40011233
     win_step: "1123301"
   }
@@ -42208,6 +42209,7 @@
     boss_team_id: "1"
     turn_duration: 360000000
     limit_gun_pool: "252"
+    limit_team: "-1"
     map_res_name: OPS51_Y
     map_information: "16000,16000|6000,5000|-4250,-800"
     fog_length: "0,500"
@@ -42222,7 +42224,7 @@
     win_type: "1123401"
     difficulty_recommend: 1000;15
     difficulty_recommend_addendum: mission-30011234
-    limit_sangvis: 4
+    limit_sangvis: -1
     mission_tip: mission-40011234
     lose_type: "1123491"
   }
@@ -42240,6 +42242,7 @@
     boss_team_id: "1"
     turn_duration: 360000000
     limit_gun_pool: "361"
+    limit_team: "-1"
     map_res_name: OPS71_Y
     map_information: "16000,16000|10000,6000|-2000,-5000"
     fog_length: "0,500"
@@ -42254,7 +42257,7 @@
     win_type: "1123501"
     difficulty_recommend: 1000;15
     difficulty_recommend_addendum: mission-30011235
-    limit_sangvis: 4
+    limit_sangvis: -1
     mission_tip: mission-40011235
     lose_type: "1123391"
   }
@@ -42272,6 +42275,7 @@
     boss_team_id: "1"
     turn_duration: 360000000
     limit_gun_pool: "250"
+    limit_team: "-1"
     map_res_name: OPS5_Y
     map_information: "10000,10000|8000,5000|-500,-250"
     fog_length: "0,500"
@@ -42285,7 +42289,7 @@
     mapped_mission_id: 56004
     difficulty_recommend: 1000;15
     difficulty_recommend_addendum: mission-30011236
-    limit_sangvis: 4
+    limit_sangvis: -1
     mission_tip: mission-40011236
     win_step: "1123601"
   }

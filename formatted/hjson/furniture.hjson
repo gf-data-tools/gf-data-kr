@@ -21112,7 +21112,7 @@
     id: 8007
     name: 눈 내린 정원 - 백옥 의자
     classes: 80
-    type: 203
+    type: 202
     position: "31,11"
     space: "1,1,0,0,0,0"
     deco_rate: 950
@@ -41311,6 +41311,21 @@
     decompose_gift: 100003
     description: 루이스의 포스터
     code: poster_BattlePass_Lewis
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330004
+    name: 콜트 워커 - 살벌한 일주일
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 콜트 워커의 포스터
+    code: poster_BattlePass_ColtWalker
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

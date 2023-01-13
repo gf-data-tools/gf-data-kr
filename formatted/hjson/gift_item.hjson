@@ -8428,6 +8428,20 @@
     detail_introduction: gift_item-40030003
   }
   {
+    id: 30004
+    name: 콜트 워커 - 살벌한 일주일
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 375
+    skin: 30004
+    poster: 330004
+    code: gift_bundle_BattlePass_ColtWalker
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    detail_introduction: gift_item-40030004
+  }
+  {
     id: 100001
     name: 막대사탕
     type: 1
