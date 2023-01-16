@@ -1,177 +1,27 @@
 [
-    {
-        "id": 1000,
-        "parent_id": 0,
-        "sort": 1,
-        "name": "이벤트",
-        "description": "限时活动"
-    },
-    {
-        "id": 1001,
-        "parent_id": 1000,
-        "sort": 1,
-        "name": "최첨단\n마스크",
-        "description": ""
-    },
-    {
-        "id": 1002,
-        "parent_id": 1000,
-        "sort": 2,
-        "name": "사로스 주기\n훈장 교환",
-        "description": ""
-    },
-    {
-        "id": 1003,
-        "parent_id": 1000,
-        "sort": 3,
-        "name": "한푼차이\n훈장 교환",
-        "description": ""
-    },
-    {
-        "id": 1004,
-        "parent_id": 1000,
-        "sort": 4,
-        "name": "고치 속 나비\n재화 교환",
-        "description": ""
-    },
-    {
-        "id": 1005,
-        "parent_id": 1000,
-        "sort": 5,
-        "name": "마음 파먹는 가면",
-        "description": ""
-    },
-    {
-        "id": 1006,
-        "parent_id": 1000,
-        "sort": 6,
-        "name": "사로스 주기\n재화 교환",
-        "description": ""
-    },
-    {
-        "id": 1007,
-        "parent_id": 1000,
-        "sort": 7,
-        "name": "한푼차이\n재화 교환",
-        "description": ""
-    },
-    {
-        "id": 1008,
-        "parent_id": 1000,
-        "sort": 8,
-        "name": "a",
-        "description": ""
-    },
-    {
-        "id": 2000,
-        "parent_id": 0,
-        "sort": 2,
-        "name": "군수품",
-        "description": ""
-    },
-    {
-        "id": 2002,
-        "parent_id": 6000,
-        "sort": 1,
-        "name": "월정액",
-        "description": ""
-    },
-    {
-        "id": 3000,
-        "parent_id": 0,
-        "sort": 4,
-        "name": "패키지",
-        "description": "所有礼包内容"
-    },
-    {
-        "id": 3001,
-        "parent_id": 3000,
-        "sort": 1,
-        "name": "7일 패키지",
-        "description": ""
-    },
-    {
-        "id": 3002,
-        "parent_id": 3000,
-        "sort": 2,
-        "name": "특가 패키지",
-        "description": "物资"
-    },
-    {
-        "id": 3003,
-        "parent_id": 3000,
-        "sort": 3,
-        "name": "코스튬 패키지",
-        "description": "装扮"
-    },
-    {
-        "id": 3004,
-        "parent_id": 3000,
-        "sort": 4,
-        "name": "지원 패키지",
-        "description": "新手支援礼包"
-    },
-    {
-        "id": 4000,
-        "parent_id": 0,
-        "sort": 5,
-        "name": "의상",
-        "description": "指挥官服装"
-    },
-    {
-        "id": 5000,
-        "parent_id": 0,
-        "sort": 6,
-        "name": "물자",
-        "description": "消耗品"
-    },
-    {
-        "id": 5001,
-        "parent_id": 5000,
-        "sort": 1,
-        "name": "자원",
-        "description": ""
-    },
-    {
-        "id": 5002,
-        "parent_id": 5000,
-        "sort": 2,
-        "name": "계약",
-        "description": ""
-    },
-    {
-        "id": 5003,
-        "parent_id": 5000,
-        "sort": 3,
-        "name": "시설",
-        "description": ""
-    },
-    {
-        "id": 5004,
-        "parent_id": 5000,
-        "sort": 4,
-        "name": "도구",
-        "description": ""
-    },
-    {
-        "id": 6000,
-        "parent_id": 0,
-        "sort": 3,
-        "name": "특수물자",
-        "description": ""
-    },
-    {
-        "id": 6002,
-        "parent_id": 6000,
-        "sort": 2,
-        "name": "일일",
-        "description": ""
-    },
-    {
-        "id": 6003,
-        "parent_id": 6000,
-        "sort": 3,
-        "name": "보급",
-        "description": ""
-    }
+  { "id": 1000, "parent_id":    0, "sort": 1, "name": "이벤트"                 , "description": "限时活动"     }, 
+  { "id": 1001, "parent_id": 1000, "sort": 1, "name": "최첨단\n마스크"         , "description": ""             }, 
+  { "id": 1002, "parent_id": 1000, "sort": 2, "name": "사로스 주기\n훈장 교환" , "description": ""             }, 
+  { "id": 1003, "parent_id": 1000, "sort": 3, "name": "한푼차이\n훈장 교환"    , "description": ""             }, 
+  { "id": 1004, "parent_id": 1000, "sort": 4, "name": "고치 속 나비\n재화 교환", "description": ""             }, 
+  { "id": 1005, "parent_id": 1000, "sort": 5, "name": "마음 파먹는 가면"       , "description": ""             }, 
+  { "id": 1006, "parent_id": 1000, "sort": 6, "name": "사로스 주기\n재화 교환" , "description": ""             }, 
+  { "id": 1007, "parent_id": 1000, "sort": 7, "name": "한푼차이\n재화 교환"    , "description": ""             }, 
+  { "id": 1008, "parent_id": 1000, "sort": 8, "name": "a"                      , "description": ""             }, 
+  { "id": 2000, "parent_id":    0, "sort": 2, "name": "군수품"                 , "description": ""             }, 
+  { "id": 2002, "parent_id": 6000, "sort": 1, "name": "월정액"                 , "description": ""             }, 
+  { "id": 3000, "parent_id":    0, "sort": 4, "name": "패키지"                 , "description": "所有礼包内容" }, 
+  { "id": 3001, "parent_id": 3000, "sort": 1, "name": "7일 패키지"             , "description": ""             }, 
+  { "id": 3002, "parent_id": 3000, "sort": 2, "name": "특가 패키지"            , "description": "物资"         }, 
+  { "id": 3003, "parent_id": 3000, "sort": 3, "name": "코스튬 패키지"          , "description": "装扮"         }, 
+  { "id": 3004, "parent_id": 3000, "sort": 4, "name": "지원 패키지"            , "description": "新手支援礼包" }, 
+  { "id": 4000, "parent_id":    0, "sort": 5, "name": "의상"                   , "description": "指挥官服装"   }, 
+  { "id": 5000, "parent_id":    0, "sort": 6, "name": "물자"                   , "description": "消耗品"       }, 
+  { "id": 5001, "parent_id": 5000, "sort": 1, "name": "자원"                   , "description": ""             }, 
+  { "id": 5002, "parent_id": 5000, "sort": 2, "name": "계약"                   , "description": ""             }, 
+  { "id": 5003, "parent_id": 5000, "sort": 3, "name": "시설"                   , "description": ""             }, 
+  { "id": 5004, "parent_id": 5000, "sort": 4, "name": "도구"                   , "description": ""             }, 
+  { "id": 6000, "parent_id":    0, "sort": 3, "name": "특수물자"               , "description": ""             }, 
+  { "id": 6002, "parent_id": 6000, "sort": 2, "name": "일일"                   , "description": ""             }, 
+  { "id": 6003, "parent_id": 6000, "sort": 3, "name": "보급"                   , "description": ""             }
 ]

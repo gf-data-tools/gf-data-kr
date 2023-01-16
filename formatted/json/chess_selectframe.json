@@ -1,34 +1,19 @@
 [
-    {
-        "id": 1,
-        "select_num": 2,
-        "itemlanguage_id": "280125,280057",
-        "code": "selection_1,selection_2",
-        "des": "<color=#ffb400ff>6</color>이 나왔군요!\n<color=#ffb400ff>말판 위의 말</color>을 이동하거나, <color=#ffb400ff>새로운 말</color>을 배치할 수가 있습니다.\n또한, <color=ffb400ff>행동 주사위를 한 번 더</color> 굴릴 수 있습니다!(턴당 최대 2번까지)",
-        "preview": "AttentionGroup,ChessOnboard"
-    },
-    {
-        "id": 2,
-        "select_num": 6,
-        "itemlanguage_id": "280235,280236,280237,280238,280239,280240",
-        "code": "Touzi_OneSide_1,Touzi_OneSide_2,Touzi_OneSide_3,Touzi_OneSide_4,Touzi_OneSide_5,Touzi_OneSide_6",
-        "des": "원하는 주사위 눈을 선택하세요.",
-        "preview": "ReturnButton"
-    },
-    {
-        "id": 101,
-        "select_num": 2,
-        "itemlanguage_id": "280125,280057",
-        "code": "selection_1,selection_2",
-        "des": "<color=#ffb400ff>1</color>이 나왔습니다.\n<color=#ffb400ff>말판 위의 말</color>을 이동하거나, <color=#ffb400ff>새로운 말</color>을 배치할 수가 있습니다.\n(1이 나왔을 때 추가 던지기는 없습니다.)",
-        "preview": "AttentionGroup,ChessOnboard"
-    },
-    {
-        "id": 106,
-        "select_num": 2,
-        "itemlanguage_id": "280125,280057",
-        "code": "selection_1,selection_2",
-        "des": "<color=#ffb400ff>6</color>이 나왔군요!\n<color=#ffb400ff>말판 위의 말</color>을 이동하거나, <color=#ffb400ff>새로운 말</color>을 배치할 수가 있습니다.\n또한, <color=ffb400ff>행동 주사위를 한 번 더</color> 굴릴 수 있습니다!(턴당 최대 2번까지)",
-        "preview": "AttentionGroup,ChessOnboard"
-    }
+  {
+    "id": 1, "select_num": 2, "itemlanguage_id": "280125,280057", "code": "selection_1,selection_2", 
+    "des": "<color=#ffb400ff>6</color>이 나왔군요!\n<color=#ffb400ff>말판 위의 말</color>을 이동하거나, <color=#ffb400ff>새로운 말</color>을 배치할 수가 있습니다.\n또한, <color=ffb400ff>행동 주사위를 한 번 더</color> 굴릴 수 있습니다!(턴당 최대 2번까지)", 
+    "preview": "AttentionGroup,ChessOnboard"
+  }, {
+    "id": 2, "select_num": 6, "itemlanguage_id": "280235,280236,280237,280238,280239,280240", 
+    "code": "Touzi_OneSide_1,Touzi_OneSide_2,Touzi_OneSide_3,Touzi_OneSide_4,Touzi_OneSide_5,Touzi_OneSide_6", 
+    "des": "원하는 주사위 눈을 선택하세요.", "preview": "ReturnButton"
+  }, {
+    "id": 101, "select_num": 2, "itemlanguage_id": "280125,280057", "code": "selection_1,selection_2", 
+    "des": "<color=#ffb400ff>1</color>이 나왔습니다.\n<color=#ffb400ff>말판 위의 말</color>을 이동하거나, <color=#ffb400ff>새로운 말</color>을 배치할 수가 있습니다.\n(1이 나왔을 때 추가 던지기는 없습니다.)", 
+    "preview": "AttentionGroup,ChessOnboard"
+  }, {
+    "id": 106, "select_num": 2, "itemlanguage_id": "280125,280057", "code": "selection_1,selection_2", 
+    "des": "<color=#ffb400ff>6</color>이 나왔군요!\n<color=#ffb400ff>말판 위의 말</color>을 이동하거나, <color=#ffb400ff>새로운 말</color>을 배치할 수가 있습니다.\n또한, <color=ffb400ff>행동 주사위를 한 번 더</color> 굴릴 수 있습니다!(턴당 최대 2번까지)", 
+    "preview": "AttentionGroup,ChessOnboard"
+  }
 ]

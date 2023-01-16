@@ -1,26 +1,6 @@
 [
-    {
-        "id": 1,
-        "name": "시스템",
-        "if_input": 0,
-        "is_fixed_phrases": 0
-    },
-    {
-        "id": 2,
-        "name": "길드",
-        "if_input": 1,
-        "is_fixed_phrases": 1
-    },
-    {
-        "id": 3,
-        "name": "개인",
-        "if_input": 1,
-        "is_fixed_phrases": 0
-    },
-    {
-        "id": 4,
-        "name": "전체",
-        "if_input": 0,
-        "is_fixed_phrases": 1
-    }
+  { "id": 1, "name": "시스템", "if_input": 0, "is_fixed_phrases": 0 }, 
+  { "id": 2, "name": "길드"  , "if_input": 1, "is_fixed_phrases": 1 }, 
+  { "id": 3, "name": "개인"  , "if_input": 1, "is_fixed_phrases": 0 }, 
+  { "id": 4, "name": "전체"  , "if_input": 0, "is_fixed_phrases": 1 }
 ]
