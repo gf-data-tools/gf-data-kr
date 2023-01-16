@@ -80,20 +80,20 @@
     "formation_number": 0, "ssoc_number": 15, "hoc_number": 0, "spare_gun_num": 0, "spare_sangvis_cost": 0, 
     "spare_fairy_num": 0
   }, {
-    "id": 43600, "name": "화력진지", "description": "중장비부대 사용 횟수+0", "icon": "TheaterBuff3", "duration": -1, "type": 3, 
-    "formation_number": 0, "ssoc_number": 0, "hoc_number": 0, "spare_gun_num": 0, "spare_sangvis_cost": 0, 
+    "id": 43600, "name": "화력진지", "description": "중장비부대 사용 횟수+0", "icon": "TheaterBuff3", "duration": -1, 
+    "type": 3, "formation_number": 0, "ssoc_number": 0, "hoc_number": 0, "spare_gun_num": 0, "spare_sangvis_cost": 0, 
     "spare_fairy_num": 0
   }, {
-    "id": 43601, "name": "화력진지", "description": "중장비부대 사용 횟수+1", "icon": "TheaterBuff3", "duration": -1, "type": 3, 
-    "formation_number": 0, "ssoc_number": 0, "hoc_number": 1, "spare_gun_num": 0, "spare_sangvis_cost": 0, 
+    "id": 43601, "name": "화력진지", "description": "중장비부대 사용 횟수+1", "icon": "TheaterBuff3", "duration": -1, 
+    "type": 3, "formation_number": 0, "ssoc_number": 0, "hoc_number": 1, "spare_gun_num": 0, "spare_sangvis_cost": 0, 
     "spare_fairy_num": 0
   }, {
-    "id": 43602, "name": "화력진지", "description": "중장비부대 사용 횟수+2", "icon": "TheaterBuff3", "duration": -1, "type": 3, 
-    "formation_number": 0, "ssoc_number": 0, "hoc_number": 2, "spare_gun_num": 0, "spare_sangvis_cost": 0, 
+    "id": 43602, "name": "화력진지", "description": "중장비부대 사용 횟수+2", "icon": "TheaterBuff3", "duration": -1, 
+    "type": 3, "formation_number": 0, "ssoc_number": 0, "hoc_number": 2, "spare_gun_num": 0, "spare_sangvis_cost": 0, 
     "spare_fairy_num": 0
   }, {
-    "id": 43603, "name": "화력진지", "description": "중장비부대 사용 횟수+3", "icon": "TheaterBuff3", "duration": -1, "type": 3, 
-    "formation_number": 0, "ssoc_number": 0, "hoc_number": 3, "spare_gun_num": 0, "spare_sangvis_cost": 0, 
+    "id": 43603, "name": "화력진지", "description": "중장비부대 사용 횟수+3", "icon": "TheaterBuff3", "duration": -1, 
+    "type": 3, "formation_number": 0, "ssoc_number": 0, "hoc_number": 3, "spare_gun_num": 0, "spare_sangvis_cost": 0, 
     "spare_fairy_num": 0
   }, {
     "id": 44100, "name": "전진 기지", "description": "원정대 제대 수+0", "icon": "TheaterBuff1", "duration": -1, "type": 2, 
@@ -128,20 +128,20 @@
     "formation_number": 0, "ssoc_number": 15, "hoc_number": 0, "spare_gun_num": 0, "spare_sangvis_cost": 0, 
     "spare_fairy_num": 0
   }, {
-    "id": 44300, "name": "화력진지", "description": "중장비부대 사용 횟수+0", "icon": "TheaterBuff3", "duration": -1, "type": 3, 
-    "formation_number": 0, "ssoc_number": 0, "hoc_number": 0, "spare_gun_num": 0, "spare_sangvis_cost": 0, 
+    "id": 44300, "name": "화력진지", "description": "중장비부대 사용 횟수+0", "icon": "TheaterBuff3", "duration": -1, 
+    "type": 3, "formation_number": 0, "ssoc_number": 0, "hoc_number": 0, "spare_gun_num": 0, "spare_sangvis_cost": 0, 
     "spare_fairy_num": 0
   }, {
-    "id": 44301, "name": "화력진지", "description": "중장비부대 사용 횟수+1", "icon": "TheaterBuff3", "duration": -1, "type": 3, 
-    "formation_number": 0, "ssoc_number": 0, "hoc_number": 1, "spare_gun_num": 0, "spare_sangvis_cost": 0, 
+    "id": 44301, "name": "화력진지", "description": "중장비부대 사용 횟수+1", "icon": "TheaterBuff3", "duration": -1, 
+    "type": 3, "formation_number": 0, "ssoc_number": 0, "hoc_number": 1, "spare_gun_num": 0, "spare_sangvis_cost": 0, 
     "spare_fairy_num": 0
   }, {
-    "id": 44302, "name": "화력진지", "description": "중장비부대 사용 횟수+2", "icon": "TheaterBuff3", "duration": -1, "type": 3, 
-    "formation_number": 0, "ssoc_number": 0, "hoc_number": 2, "spare_gun_num": 0, "spare_sangvis_cost": 0, 
+    "id": 44302, "name": "화력진지", "description": "중장비부대 사용 횟수+2", "icon": "TheaterBuff3", "duration": -1, 
+    "type": 3, "formation_number": 0, "ssoc_number": 0, "hoc_number": 2, "spare_gun_num": 0, "spare_sangvis_cost": 0, 
     "spare_fairy_num": 0
   }, {
-    "id": 44303, "name": "화력진지", "description": "중장비부대 사용 횟수+3", "icon": "TheaterBuff3", "duration": -1, "type": 3, 
-    "formation_number": 0, "ssoc_number": 0, "hoc_number": 3, "spare_gun_num": 0, "spare_sangvis_cost": 0, 
+    "id": 44303, "name": "화력진지", "description": "중장비부대 사용 횟수+3", "icon": "TheaterBuff3", "duration": -1, 
+    "type": 3, "formation_number": 0, "ssoc_number": 0, "hoc_number": 3, "spare_gun_num": 0, "spare_sangvis_cost": 0, 
     "spare_fairy_num": 0
   }
 ]

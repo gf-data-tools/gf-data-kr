@@ -582,212 +582,212 @@
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 100, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "606,607,608,609,610", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 100, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "606,607,608,609,610", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 101, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "611,612,613,614,615", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 101, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "611,612,613,614,615", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 102, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "616,617,618,619,620", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 102, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "616,617,618,619,620", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 103, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "621,622,623,624,625", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 103, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "621,622,623,624,625", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 104, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "626,627,628,629,630", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 104, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "626,627,628,629,630", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 105, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", "fairy": 13, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 105, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", 
+    "fairy": 13, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 106, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", "fairy": 14, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 106, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", 
+    "fairy": 14, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 107, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", "fairy": 15, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 107, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", 
+    "fairy": 15, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 108, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", "fairy": 16, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 108, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", 
+    "fairy": 16, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 109, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", "fairy": 17, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 109, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", 
+    "fairy": 17, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 110, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", "fairy": 18, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 110, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", 
+    "fairy": 18, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 111, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", "fairy": 19, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 111, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", 
+    "fairy": 19, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 112, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "723,724,725,726,727", "fairy": 20, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 112, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "723,724,725,726,727", 
+    "fairy": 20, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 113, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "723,724,725,726,727", "fairy": 21, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 113, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "723,724,725,726,727", 
+    "fairy": 21, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 114, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "723,724,725,726,727", "fairy": 22, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 114, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "723,724,725,726,727", 
+    "fairy": 22, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 115, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", "fairy": 19, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 115, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", 
+    "fairy": 19, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 116, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "723,724,725,726,727", "fairy": 19, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 116, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "723,724,725,726,727", 
+    "fairy": 19, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 117, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", "fairy": 19, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 117, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", 
+    "fairy": 19, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 118, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "723,724,725,726,727", "fairy": 19, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 118, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "723,724,725,726,727", 
+    "fairy": 19, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 119, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", "fairy": 19, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 119, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", 
+    "fairy": 19, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 120, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "723,724,725,726,727", "fairy": 19, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 120, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "723,724,725,726,727", 
+    "fairy": 19, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 121, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", "fairy": 19, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 121, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", 
+    "fairy": 19, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 122, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "723,724,725,726,727", "fairy": 19, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 122, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "723,724,725,726,727", 
+    "fairy": 19, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 123, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", "fairy": 19, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 123, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "718,719,720,721,722", 
+    "fairy": 19, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 124, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "723,724,725,726,727", "fairy": 19, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 124, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "723,724,725,726,727", 
+    "fairy": 19, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 125, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "911,912,913,914,915", "fairy": 19, 
-    "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 125, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "911,912,913,914,915", 
+    "fairy": 19, "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 126, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "911,912,913,914,915", "fairy": 19, 
-    "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 126, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "911,912,913,914,915", 
+    "fairy": 19, "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 127, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "906,907,908,909,910", "fairy": 19, 
-    "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 127, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "906,907,908,909,910", 
+    "fairy": 19, "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 128, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "906,907,908,909,910", "fairy": 19, 
-    "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 128, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "906,907,908,909,910", 
+    "fairy": 19, "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 129, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "911,912,913,914,915", "fairy": 19, 
-    "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 129, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "911,912,913,914,915", 
+    "fairy": 19, "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 130, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "911,912,913,914,915", "fairy": 19, 
-    "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 130, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "911,912,913,914,915", 
+    "fairy": 19, "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 131, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "906,907,908,909,910", "fairy": 19, 
-    "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 131, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "906,907,908,909,910", 
+    "fairy": 19, "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 132, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "906,907,908,909,910", "fairy": 19, 
-    "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 132, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "906,907,908,909,910", 
+    "fairy": 19, "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 133, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "906,907,908,909,910", "fairy": 19, 
-    "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 133, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "906,907,908,909,910", 
+    "fairy": 19, "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 134, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "911,912,913,914,915", "fairy": 19, 
-    "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 134, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "911,912,913,914,915", 
+    "fairy": 19, "enemy_team_id": 1, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
@@ -1609,8 +1609,8 @@
     "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 10003, "code": "", "ui_image_icon": "", "name": "폐기소대", "guns": "100031,100032,100033,100034,100035", "fairy": 0, 
-    "enemy_team_id": 1562, "initial_type": 0, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "2", 
+    "id": 10003, "code": "", "ui_image_icon": "", "name": "폐기소대", "guns": "100031,100032,100033,100034,100035", 
+    "fairy": 0, "enemy_team_id": 1562, "initial_type": 0, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "2", 
     "betray_number": "5302", "betray_result": "1", "transform_condition": "0", "transform_number": "0", 
     "transform_result": "0", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
@@ -1622,22 +1622,22 @@
     "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 10005, "code": "", "ui_image_icon": "", "name": "저지본체", "guns": "100041,100042,100043,100044,100045", "fairy": 0, 
-    "enemy_team_id": 1574, "initial_type": 2, "ai": "101;1;101", "ai_content": "5339,5344,5345;0;5339,5344,5345", 
+    "id": 10005, "code": "", "ui_image_icon": "", "name": "저지본체", "guns": "100041,100042,100043,100044,100045", 
+    "fairy": 0, "enemy_team_id": 1574, "initial_type": 2, "ai": "101;1;101", "ai_content": "5339,5344,5345;0;5339,5344,5345", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "1", "transform_number": "4", 
     "transform_result": "0:0", "icon": "Enemy", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
     "betray_result_sangvis": ""
   }, {
-    "id": 10006, "code": "", "ui_image_icon": "", "name": "철혈부대", "guns": "100041,100042,100043,100044,100045", "fairy": 0, 
-    "enemy_team_id": 1575, "initial_type": 2, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 10006, "code": "", "ui_image_icon": "", "name": "철혈부대", "guns": "100041,100042,100043,100044,100045", 
+    "fairy": 0, "enemy_team_id": 1575, "initial_type": 2, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "1", "transform_number": "2", 
     "transform_result": "0:0", "icon": "Enemy", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
     "betray_result_sangvis": ""
   }, {
-    "id": 10007, "code": "", "ui_image_icon": "", "name": "기억파편", "guns": "100041,100042,100043,100044,100045", "fairy": 0, 
-    "enemy_team_id": 1583, "initial_type": 2, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "0", 
+    "id": 10007, "code": "", "ui_image_icon": "", "name": "기억파편", "guns": "100041,100042,100043,100044,100045", 
+    "fairy": 0, "enemy_team_id": 1583, "initial_type": 2, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "2", "transform_number": "5417", 
     "transform_result": "1:55-2", "icon": "Friend", "betray_result_enemy": "", "squad": 0, "building": 0, 
     "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", 
@@ -1656,20 +1656,20 @@
     "icon": "Friend", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 10010, "code": "", "ui_image_icon": "", "name": "폭주인형", "guns": "100041,100042,100043,100044,100045", "fairy": 0, 
-    "enemy_team_id": 1589, "initial_type": 0, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 10010, "code": "", "ui_image_icon": "", "name": "폭주인형", "guns": "100041,100042,100043,100044,100045", 
+    "fairy": 0, "enemy_team_id": 1589, "initial_type": 0, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 10011, "code": "", "ui_image_icon": "", "name": "폭주소대", "guns": "100041,100042,100043,100044,100045", "fairy": 0, 
-    "enemy_team_id": 1590, "initial_type": 0, "ai": "102;1;102", "ai_content": "2;0;2", "betray_condition": "0", 
+    "id": 10011, "code": "", "ui_image_icon": "", "name": "폭주소대", "guns": "100041,100042,100043,100044,100045", 
+    "fairy": 0, "enemy_team_id": 1590, "initial_type": 0, "ai": "102;1;102", "ai_content": "2;0;2", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 10012, "code": "", "ui_image_icon": "", "name": "폭주중갑", "guns": "100041,100042,100043,100044,100045", "fairy": 0, 
-    "enemy_team_id": 1591, "initial_type": 0, "ai": "102;1;102", "ai_content": "2;0;2", "betray_condition": "0", 
+    "id": 10012, "code": "", "ui_image_icon": "", "name": "폭주중갑", "guns": "100041,100042,100043,100044,100045", 
+    "fairy": 0, "enemy_team_id": 1591, "initial_type": 0, "ai": "102;1;102", "ai_content": "2;0;2", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
@@ -1680,12 +1680,12 @@
     "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
     "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 10014, "code": "", "ui_image_icon": "", "name": "폐기소대", "guns": "100031,100032,100033,100034,100035", "fairy": 0, 
-    "enemy_team_id": 1562, "initial_type": 0, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "3;4", 
-    "betray_number": "5552-0,5552-1,5552-2;1603", "betray_result": "0,1,0;0", "transform_condition": "0", 
-    "transform_number": "0", "transform_result": "0", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, 
-    "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", 
-    "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 10014, "code": "", "ui_image_icon": "", "name": "폐기소대", "guns": "100031,100032,100033,100034,100035", 
+    "fairy": 0, "enemy_team_id": 1562, "initial_type": 0, "ai": "102;1;102", "ai_content": "1;0;1", 
+    "betray_condition": "3;4", "betray_number": "5552-0,5552-1,5552-2;1603", "betray_result": "0,1,0;0", 
+    "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "Army", "betray_result_enemy": "", 
+    "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, 
+    "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
     "id": 10015, "code": "", "ui_image_icon": "", "name": "M4A1", "guns": "100105", "fairy": 0, "enemy_team_id": 1562, 
     "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", "betray_number": "0", 
@@ -1711,8 +1711,8 @@
     "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
     "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 10019, "code": "", "ui_image_icon": "", "name": "폐기소대", "guns": "100031,100032,100033,100034,100035", "fairy": 0, 
-    "enemy_team_id": 1562, "initial_type": 0, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "2", 
+    "id": 10019, "code": "", "ui_image_icon": "", "name": "폐기소대", "guns": "100031,100032,100033,100034,100035", 
+    "fairy": 0, "enemy_team_id": 1562, "initial_type": 0, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "2", 
     "betray_number": "5634", "betray_result": "1", "transform_condition": "0", "transform_number": "0", 
     "transform_result": "0", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
@@ -1921,15 +1921,15 @@
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
     "betray_result_sangvis": ""
   }, {
-    "id": 10052, "code": "", "ui_image_icon": "", "name": "폐기중갑", "guns": "100081,100082,100083,100084,100085", "fairy": 0, 
-    "enemy_team_id": 1589, "initial_type": 0, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "4", 
+    "id": 10052, "code": "", "ui_image_icon": "", "name": "폐기중갑", "guns": "100081,100082,100083,100084,100085", 
+    "fairy": 0, "enemy_team_id": 1589, "initial_type": 0, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "4", 
     "betray_number": "1681", "betray_result": "1", "transform_condition": "0", "transform_number": "0", 
     "transform_result": "0", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
     "betray_result_sangvis": ""
   }, {
-    "id": 10053, "code": "", "ui_image_icon": "", "name": "404소대", "guns": "100531,100532,100533,100534,100535", "fairy": 0, 
-    "enemy_team_id": 1589, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 10053, "code": "", "ui_image_icon": "", "name": "404소대", "guns": "100531,100532,100533,100534,100535", 
+    "fairy": 0, "enemy_team_id": 1589, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "Friend", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
@@ -1961,8 +1961,8 @@
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
     "betray_result_sangvis": ""
   }, {
-    "id": 10058, "code": "", "ui_image_icon": "", "name": "리벨리온", "guns": "100581,100582,100583,100584,100585", "fairy": 0, 
-    "enemy_team_id": 1589, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 10058, "code": "", "ui_image_icon": "", "name": "리벨리온", "guns": "100581,100582,100583,100584,100585", 
+    "fairy": 0, "enemy_team_id": 1589, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "Friend", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
@@ -2249,176 +2249,176 @@
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90001, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "461,462,463,464,465", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90001, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "461,462,463,464,465", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90002, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "466,467,468,469,470", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90002, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "466,467,468,469,470", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90003, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "471,472,473,474,475", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90003, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "471,472,473,474,475", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90004, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "476,477,478,479,480", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90004, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "476,477,478,479,480", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90005, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "481,482,483,484,485", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90005, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "481,482,483,484,485", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90006, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "486,487,488,489,490", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90006, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "486,487,488,489,490", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90007, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "491,492,493,494,495", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90007, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "491,492,493,494,495", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90008, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "496,497,498,499,500", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90008, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "496,497,498,499,500", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90009, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "501,502,503,504,505", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90009, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "501,502,503,504,505", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90010, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "506,507,508,509,510", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90010, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "506,507,508,509,510", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90011, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "511,512,513,514,515", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90011, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "511,512,513,514,515", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90012, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "516,517,518,519,520", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90012, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "516,517,518,519,520", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90013, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "521,522,523,524,525", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90013, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "521,522,523,524,525", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90014, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "526,527,528,529,530", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90014, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "526,527,528,529,530", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90015, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "531,532,533,534,535", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90015, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "531,532,533,534,535", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90016, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "536,537,538,539,540", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90016, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "536,537,538,539,540", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90017, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "541,542,543,544,545", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90017, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "541,542,543,544,545", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90018, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "546,547,548,549,550", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90018, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "546,547,548,549,550", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90019, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "551,552,553,554,555", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90019, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "551,552,553,554,555", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90020, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "556,557,558,559,560", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90020, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "556,557,558,559,560", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90021, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "561,562,563,564,565", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90021, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "561,562,563,564,565", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90022, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "566,567,568,569,570", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90022, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "566,567,568,569,570", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90023, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "571,572,573,574,575", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90023, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "571,572,573,574,575", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90024, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "576,577,578,579,580", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90024, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "576,577,578,579,580", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90025, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "631,632,633,634,635", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90025, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "631,632,633,634,635", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90026, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "636,637,638,639,640", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90026, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "636,637,638,639,640", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90027, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "641,642,643,644,645", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90027, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "641,642,643,644,645", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90028, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "646,647,648,649,650", "fairy": 0, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90028, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "646,647,648,649,650", 
+    "fairy": 0, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 90029, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "671,672,673,674,675", "fairy": 9, 
-    "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 90029, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "그리폰", "guns": "671,672,673,674,675", 
+    "fairy": 9, "enemy_team_id": 1486, "initial_type": 1, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
@@ -2483,8 +2483,8 @@
     "icon": "Friend", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 92004, "code": "", "ui_image_icon": "", "name": "폐기인형", "guns": "100031,100032,100033,100034,100035", "fairy": 0, 
-    "enemy_team_id": 1562, "initial_type": 2, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "2", 
+    "id": 92004, "code": "", "ui_image_icon": "", "name": "폐기인형", "guns": "100031,100032,100033,100034,100035", 
+    "fairy": 0, "enemy_team_id": 1562, "initial_type": 2, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "2", 
     "betray_number": "7563", "betray_result": "1", "transform_condition": "0", "transform_number": "0", 
     "transform_result": "0", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
@@ -2534,94 +2534,94 @@
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
     "betray_result_sangvis": ""
   }, {
-    "id": 92020, "code": "", "ui_image_icon": "", "name": "폐기인형", "guns": "100031,100032,100033,100034,100035", "fairy": 0, 
-    "enemy_team_id": 1562, "initial_type": 0, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "4", 
+    "id": 92020, "code": "", "ui_image_icon": "", "name": "폐기인형", "guns": "100031,100032,100033,100034,100035", 
+    "fairy": 0, "enemy_team_id": 1562, "initial_type": 0, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "4", 
     "betray_number": "91086", "betray_result": "1", "transform_condition": "0", "transform_number": "0", 
     "transform_result": "0", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
     "betray_result_sangvis": ""
   }, {
-    "id": 92021, "code": "", "ui_image_icon": "", "name": "폐기인형", "guns": "100031,100032,100033,100034,100035", "fairy": 0, 
-    "enemy_team_id": 1562, "initial_type": 0, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "4", 
+    "id": 92021, "code": "", "ui_image_icon": "", "name": "폐기인형", "guns": "100031,100032,100033,100034,100035", 
+    "fairy": 0, "enemy_team_id": 1562, "initial_type": 0, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "4", 
     "betray_number": "91087", "betray_result": "1", "transform_condition": "0", "transform_number": "0", 
     "transform_result": "0", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
     "betray_result_sangvis": ""
   }, {
-    "id": 92022, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", "fairy": 0, 
-    "enemy_team_id": 91098, "initial_type": 2, "ai": "101;1;101", 
+    "id": 92022, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", 
+    "fairy": 0, "enemy_team_id": 91098, "initial_type": 2, "ai": "101;1;101", 
     "ai_content": "8075,8073,8070,8069,8062,8060,8064,8095,8093,8098,8097,8099,8084,8083,8080,8078,8075;0;8075,8073,8070,8069,8062,8060,8064,8095,8093,8098,8097,8099,8084,8083,8080,8078,8075", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "2", 
     "transform_number": "8174", "transform_result": "0:0", "icon": "Army", "betray_result_enemy": "", "squad": 0, 
     "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", 
     "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 92023, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", "fairy": 0, 
-    "enemy_team_id": 91097, "initial_type": 2, "ai": "101;1;101", 
+    "id": 92023, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", 
+    "fairy": 0, "enemy_team_id": 91097, "initial_type": 2, "ai": "101;1;101", 
     "ai_content": "8076,8074,8072,8071,8068,8066,8067,8063,8061,8065,8096,8094,8092,8091,8090,8089,8088,8087,8086,8085,8082,8081,8079,8077,8076;0;8076,8074,8072,8071,8068,8066,8067,8063,8061,8065,8096,8094,8092,8091,8090,8089,8088,8087,8086,8085,8082,8081,8079,8077,8076", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "2", 
     "transform_number": "8153", "transform_result": "0:0", "icon": "Army", "betray_result_enemy": "", "squad": 0, 
     "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", 
     "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 92024, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", "fairy": 0, 
-    "enemy_team_id": 91100, "initial_type": 2, "ai": "101;1;101", 
+    "id": 92024, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", 
+    "fairy": 0, "enemy_team_id": 91100, "initial_type": 2, "ai": "101;1;101", 
     "ai_content": "8075,8073,8070,8069,8062,8060,8064,8095,8093,8098,8097,8099,8084,8083,8080,8078,8075;0;8075,8073,8070,8069,8062,8060,8064,8095,8093,8098,8097,8099,8084,8083,8080,8078,8075", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "2", 
     "transform_number": "8174,8196", "transform_result": "0:0,0:0", "icon": "Army", "betray_result_enemy": "", "squad": 0, 
     "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", 
     "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 92025, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", "fairy": 0, 
-    "enemy_team_id": 91099, "initial_type": 2, "ai": "101;1;101", 
+    "id": 92025, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", 
+    "fairy": 0, "enemy_team_id": 91099, "initial_type": 2, "ai": "101;1;101", 
     "ai_content": "8076,8074,8072,8071,8068,8066,8067,8063,8061,8065,8096,8094,8092,8091,8090,8089,8088,8087,8086,8085,8082,8081,8079,8077,8076;0;8076,8074,8072,8071,8068,8066,8067,8063,8061,8065,8096,8094,8092,8091,8090,8089,8088,8087,8086,8085,8082,8081,8079,8077,8076", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "2", 
     "transform_number": "8153,8194", "transform_result": "0:0,0:0", "icon": "Army", "betray_result_enemy": "", "squad": 0, 
     "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", 
     "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 92026, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", "fairy": 0, 
-    "enemy_team_id": 91101, "initial_type": 2, "ai": "101;1;101", 
+    "id": 92026, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", 
+    "fairy": 0, "enemy_team_id": 91101, "initial_type": 2, "ai": "101;1;101", 
     "ai_content": "8075,8073,8070,8069,8062,8060,8064,8095,8093,8098,8097,8099,8084,8083,8080,8078,8075;0;8075,8073,8070,8069,8062,8060,8064,8095,8093,8098,8097,8099,8084,8083,8080,8078,8075", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "2", 
     "transform_number": "8174,8096,8196", "transform_result": "0:0,0:0,0:0", "icon": "Army", "betray_result_enemy": "", 
     "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, 
     "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 92027, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", "fairy": 0, 
-    "enemy_team_id": 91102, "initial_type": 2, "ai": "101;1;101", 
+    "id": 92027, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", 
+    "fairy": 0, "enemy_team_id": 91102, "initial_type": 2, "ai": "101;1;101", 
     "ai_content": "8075,8073,8070,8069,8062,8060,8064,8095,8093,8098,8097,8099,8084,8083,8080,8078,8075;0;8075,8073,8070,8069,8062,8060,8064,8095,8093,8098,8097,8099,8084,8083,8080,8078,8075", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "2", 
     "transform_number": "8174,8068,8196", "transform_result": "0:0,0:0,0:0", "icon": "Army", "betray_result_enemy": "", 
     "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, 
     "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 92028, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", "fairy": 0, 
-    "enemy_team_id": 91104, "initial_type": 2, "ai": "101;1;101", 
+    "id": 92028, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", 
+    "fairy": 0, "enemy_team_id": 91104, "initial_type": 2, "ai": "101;1;101", 
     "ai_content": "8075,8073,8070,8069,8062,8060,8064,8095,8093,8098,8097,8099,8084,8083,8080,8078,8075;0;8075,8073,8070,8069,8062,8060,8064,8095,8093,8098,8097,8099,8084,8083,8080,8078,8075", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "2", 
     "transform_number": "8174,8050,8196", "transform_result": "0:0,0:0,0:0", "icon": "Army", "betray_result_enemy": "", 
     "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, 
     "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 92029, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", "fairy": 0, 
-    "enemy_team_id": 91103, "initial_type": 2, "ai": "101;1;101", 
+    "id": 92029, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", 
+    "fairy": 0, "enemy_team_id": 91103, "initial_type": 2, "ai": "101;1;101", 
     "ai_content": "8076,8074,8072,8071,8068,8066,8067,8063,8061,8065,8096,8094,8092,8091,8090,8089,8088,8087,8086,8085,8082,8081,8079,8077,8076;0;8076,8074,8072,8071,8068,8066,8067,8063,8061,8065,8096,8094,8092,8091,8090,8089,8088,8087,8086,8085,8082,8081,8079,8077,8076", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "2", 
     "transform_number": "8153,8050", "transform_result": "0:0,0:0", "icon": "Army", "betray_result_enemy": "", "squad": 0, 
     "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", 
     "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 92030, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", "fairy": 0, 
-    "enemy_team_id": 91106, "initial_type": 2, "ai": "101;1;101", 
+    "id": 92030, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", 
+    "fairy": 0, "enemy_team_id": 91106, "initial_type": 2, "ai": "101;1;101", 
     "ai_content": "8075,8073,8070,8069,8062,8060,8064,8095,8093,8098,8097,8099,8084,8083,8080,8078,8075;0;8075,8073,8070,8069,8062,8060,8064,8095,8093,8098,8097,8099,8084,8083,8080,8078,8075", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "2", 
     "transform_number": "8174,8051,8196", "transform_result": "0:0,0:0,0:0", "icon": "Army", "betray_result_enemy": "", 
     "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, 
     "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 92031, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", "fairy": 0, 
-    "enemy_team_id": 91105, "initial_type": 2, "ai": "101;1;101", 
+    "id": 92031, "code": "", "ui_image_icon": "", "name": "불명 적군", "guns": "100031,100032,100033,100034,100035", 
+    "fairy": 0, "enemy_team_id": 91105, "initial_type": 2, "ai": "101;1;101", 
     "ai_content": "8076,8074,8072,8071,8068,8066,8067,8063,8061,8065,8096,8094,8092,8091,8090,8089,8088,8087,8086,8085,8082,8081,8079,8077,8076;0;8076,8074,8072,8071,8068,8066,8067,8063,8061,8065,8096,8094,8092,8091,8090,8089,8088,8087,8086,8085,8082,8081,8079,8077,8076", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "2", 
     "transform_number": "8153,8051", "transform_result": "0:0,0:0", "icon": "Army", "betray_result_enemy": "", "squad": 0, 
@@ -2765,8 +2765,8 @@
     "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", 
     "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 316008, "code": "", "ui_image_icon": "", "name": "폭주 방위군", "guns": "100791", "fairy": 0, "enemy_team_id": 316008, 
-    "initial_type": 0, "ai": "101;1;101", 
+    "id": 316008, "code": "", "ui_image_icon": "", "name": "폭주 방위군", "guns": "100791", "fairy": 0, 
+    "enemy_team_id": 316008, "initial_type": 0, "ai": "101;1;101", 
     "ai_content": "12457,12463,12470,12471,12465,12458,12457;0;12457,12463,12470,12471,12465,12458,12457", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", 
     "transform_result": "0", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
@@ -3044,8 +3044,8 @@
     "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", 
     "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 317908, "code": "", "ui_image_icon": "", "name": "폭주 방위군", "guns": "100791", "fairy": 0, "enemy_team_id": 317908, 
-    "initial_type": 0, "ai": "101;1;101", 
+    "id": 317908, "code": "", "ui_image_icon": "", "name": "폭주 방위군", "guns": "100791", "fairy": 0, 
+    "enemy_team_id": 317908, "initial_type": 0, "ai": "101;1;101", 
     "ai_content": "12247,12253,12260,12261,12255,12248,12247;0;12247,12253,12260,12261,12255,12248,12247", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", 
     "transform_result": "0", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
@@ -3310,24 +3310,26 @@
     "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 318201, "code": "", "ui_image_icon": "", "name": "철혈 M16A1", "guns": "100791", "fairy": 0, "enemy_team_id": 318201, 
-    "initial_type": 0, "ai": "101;1;101", "ai_content": "12506,12504;0;12506,12504", "betray_condition": "0", 
-    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
-    "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
-    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
-  }, {
-    "id": 318202, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "리벨리온", "guns": "738,736,737,735", "fairy": 0, 
-    "enemy_team_id": 318302, "initial_type": 2, "ai": "102;1;101", "ai_content": "1;0;12503,12504", "betray_condition": "3", 
-    "betray_number": "12504-2", "betray_result": "1", "transform_condition": "0", "transform_number": "0", 
+    "id": 318201, "code": "", "ui_image_icon": "", "name": "철혈 M16A1", "guns": "100791", "fairy": 0, 
+    "enemy_team_id": 318201, "initial_type": 0, "ai": "101;1;101", "ai_content": "12506,12504;0;12506,12504", 
+    "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", 
     "transform_result": "0", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
     "betray_result_sangvis": ""
   }, {
-    "id": 318301, "code": "", "ui_image_icon": "", "name": "철혈 M16A1", "guns": "100791", "fairy": 0, "enemy_team_id": 318301, 
-    "initial_type": 0, "ai": "101;1;101", "ai_content": "12511,12509;0;12511,12509", "betray_condition": "0", 
-    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
-    "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
-    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 318202, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "리벨리온", "guns": "738,736,737,735", 
+    "fairy": 0, "enemy_team_id": 318302, "initial_type": 2, "ai": "102;1;101", "ai_content": "1;0;12503,12504", 
+    "betray_condition": "3", "betray_number": "12504-2", "betray_result": "1", "transform_condition": "0", 
+    "transform_number": "0", "transform_result": "0", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, 
+    "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", 
+    "betray_result_guns": "", "betray_result_sangvis": ""
+  }, {
+    "id": 318301, "code": "", "ui_image_icon": "", "name": "철혈 M16A1", "guns": "100791", "fairy": 0, 
+    "enemy_team_id": 318301, "initial_type": 0, "ai": "101;1;101", "ai_content": "12511,12509;0;12511,12509", 
+    "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", 
+    "transform_result": "0", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
+    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
+    "betray_result_sangvis": ""
   }, {
     "id": 318302, "code": "profilePic_AI", "ui_image_icon": "ally0", "name": "M4A1", "guns": "731,732,733,734", "fairy": 0, 
     "enemy_team_id": 318202, "initial_type": 2, "ai": "102;1;101", "ai_content": "1;0;12508,12509", "betray_condition": "3", 
@@ -3501,19 +3503,19 @@
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 321903, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, "enemy_team_id": 321902, 
-    "initial_type": 0, "ai": "101;1;101", "ai_content": "94527,94524,94528,94529,94527;0;94527,94524,94528,94529,94527", 
-    "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", 
-    "transform_result": "0", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
-    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
-    "betray_result_sangvis": ""
+    "id": 321903, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, 
+    "enemy_team_id": 321902, "initial_type": 0, "ai": "101;1;101", 
+    "ai_content": "94527,94524,94528,94529,94527;0;94527,94524,94528,94529,94527", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 321904, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, "enemy_team_id": 321902, 
-    "initial_type": 0, "ai": "101;1;101", "ai_content": "94531,94526,94527,94530,94531;0;94531,94526,94527,94530,94531", 
-    "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", 
-    "transform_result": "0", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
-    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
-    "betray_result_sangvis": ""
+    "id": 321904, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, 
+    "enemy_team_id": 321902, "initial_type": 0, "ai": "101;1;101", 
+    "ai_content": "94531,94526,94527,94530,94531;0;94531,94526,94527,94530,94531", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
     "id": 322001, "code": "", "ui_image_icon": "", "name": "도로시", "guns": "9322001", "fairy": 0, "enemy_team_id": 1, 
     "initial_type": 1, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "0", "betray_number": "0", 
@@ -3557,57 +3559,57 @@
     "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
     "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 322304, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, "enemy_team_id": 322304, 
-    "initial_type": 2, "ai": "101;1;101", 
+    "id": 322304, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, 
+    "enemy_team_id": 322304, "initial_type": 2, "ai": "101;1;101", 
     "ai_content": "94294,94295,94296,94297,94298,94299,94294;0;94294,94295,94296,94297,94298,94299,94294", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", 
     "transform_result": "0", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
     "betray_result_sangvis": ""
   }, {
-    "id": 322305, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, "enemy_team_id": 322304, 
-    "initial_type": 2, "ai": "101;1;101", 
+    "id": 322305, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, 
+    "enemy_team_id": 322304, "initial_type": 2, "ai": "101;1;101", 
     "ai_content": "94294,94295,94296,94297,94298,94299,94294;0;94294,94295,94296,94297,94298,94299,94294", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", 
     "transform_result": "0", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
     "betray_result_sangvis": ""
   }, {
-    "id": 322306, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, "enemy_team_id": 322305, 
-    "initial_type": 2, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "Army", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 322306, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, 
+    "enemy_team_id": 322305, "initial_type": 2, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 322307, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, "enemy_team_id": 322305, 
-    "initial_type": 2, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "Army", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 322307, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, 
+    "enemy_team_id": 322305, "initial_type": 2, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 322308, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, "enemy_team_id": 322305, 
-    "initial_type": 2, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "Army", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 322308, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, 
+    "enemy_team_id": 322305, "initial_type": 2, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 322309, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, "enemy_team_id": 322305, 
-    "initial_type": 2, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "Army", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 322309, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, 
+    "enemy_team_id": 322305, "initial_type": 2, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 322310, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, "enemy_team_id": 322305, 
-    "initial_type": 2, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "Army", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 322310, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, 
+    "enemy_team_id": 322305, "initial_type": 2, "ai": "102;1;102", "ai_content": "1;0;1", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 322311, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, "enemy_team_id": 322304, 
-    "initial_type": 2, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "Army", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 322311, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, 
+    "enemy_team_id": 322304, "initial_type": 2, "ai": "103;1;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
     "id": 322401, "code": "", "ui_image_icon": "", "name": "다나", "guns": "9322401", "fairy": 0, "enemy_team_id": 1, 
     "initial_type": 1, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "0", "betray_number": "0", 
@@ -3627,17 +3629,17 @@
     "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
     "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 322405, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, "enemy_team_id": 322405, 
-    "initial_type": 2, "ai": "102;1;102", "ai_content": "3;0;3", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "Army", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 322405, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, 
+    "enemy_team_id": 322405, "initial_type": 2, "ai": "102;1;102", "ai_content": "3;0;3", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 322406, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, "enemy_team_id": 322405, 
-    "initial_type": 2, "ai": "102;1;102", "ai_content": "3;0;3", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "Army", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 322406, "code": "", "ui_image_icon": "", "name": "화이트나이트", "guns": "748", "fairy": 0, 
+    "enemy_team_id": 322405, "initial_type": 2, "ai": "102;1;102", "ai_content": "3;0;3", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
     "id": 322501, "code": "", "ui_image_icon": "", "name": "다나 소대", "guns": "9322501,9322502", "fairy": 0, 
     "enemy_team_id": 1, "initial_type": 1, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "0", 
@@ -3651,8 +3653,8 @@
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 322503, "code": "", "ui_image_icon": "", "name": "도로시 소대", "guns": "9322505,9322506,9322507,9322508", "fairy": 0, 
-    "enemy_team_id": 1, "initial_type": 1, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 322503, "code": "", "ui_image_icon": "", "name": "도로시 소대", "guns": "9322505,9322506,9322507,9322508", 
+    "fairy": 0, "enemy_team_id": 1, "initial_type": 1, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
@@ -5221,11 +5223,11 @@
     "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 363084, "code": "", "ui_image_icon": "", "name": "그리폰", "guns": "876,877,878,879", "fairy": 0, "enemy_team_id": 1, 
-    "initial_type": 1, "ai": "103;0;103", "ai_content": "0;0;0", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "Army", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 363084, "code": "", "ui_image_icon": "", "name": "그리폰", "guns": "876,877,878,879", "fairy": 0, 
+    "enemy_team_id": 1, "initial_type": 1, "ai": "103;0;103", "ai_content": "0;0;0", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
     "id": 363085, "code": "", "ui_image_icon": "", "name": "그리폰", "guns": "880,881,882,883,884", "fairy": 0, 
     "enemy_team_id": 1, "initial_type": 1, "ai": "103;0;103", "ai_content": "0;0;0", "betray_condition": "0", 
@@ -5263,11 +5265,11 @@
     "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
     "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 363502, "code": "", "ui_image_icon": "", "name": "스케어크로우", "guns": "890", "fairy": 0, "enemy_team_id": 363504, 
-    "initial_type": 1, "ai": "103;1;103", "ai_content": "1;0;1", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "Army", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 363502, "code": "", "ui_image_icon": "", "name": "스케어크로우", "guns": "890", "fairy": 0, 
+    "enemy_team_id": 363504, "initial_type": 1, "ai": "103;1;103", "ai_content": "1;0;1", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
     "id": 363503, "code": "", "ui_image_icon": "", "name": "아키텍트", "guns": "892", "fairy": 0, "enemy_team_id": 363504, 
     "initial_type": 1, "ai": "103;1;103", "ai_content": "1;0;1", "betray_condition": "0", "betray_number": "0", 
@@ -5493,11 +5495,11 @@
     "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
     "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 381504, "code": "", "ui_image_icon": "", "name": "훈련 표적기EX", "guns": "928", "fairy": 0, "enemy_team_id": 381504, 
-    "initial_type": 2, "ai": "103;1;0", "ai_content": "1;0;1", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "Army", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 381504, "code": "", "ui_image_icon": "", "name": "훈련 표적기EX", "guns": "928", "fairy": 0, 
+    "enemy_team_id": 381504, "initial_type": 2, "ai": "103;1;0", "ai_content": "1;0;1", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
     "id": 381601, "code": "", "ui_image_icon": "", "name": "카르카노M1891", "guns": "916", "fairy": 0, "enemy_team_id": 1, 
     "initial_type": 1, "ai": "103;1;103", "ai_content": "1;0;1", "betray_condition": "0", "betray_number": "0", 
@@ -5577,11 +5579,12 @@
     "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
     "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 381901, "code": "", "ui_image_icon": "", "name": "카르카노M91/38", "guns": "916", "fairy": 0, "enemy_team_id": 381901, 
-    "initial_type": 0, "ai": "103;1;0", "ai_content": "1;0;1", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "2", "transform_number": "91735", "transform_result": "2", "icon": "Army", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 381901, "code": "", "ui_image_icon": "", "name": "카르카노M91/38", "guns": "916", "fairy": 0, 
+    "enemy_team_id": 381901, "initial_type": 0, "ai": "103;1;0", "ai_content": "1;0;1", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "2", "transform_number": "91735", 
+    "transform_result": "2", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
+    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
+    "betray_result_sangvis": ""
   }, {
     "id": 381906, "code": "", "ui_image_icon": "", "name": "제5공화국파", "guns": "895", "fairy": 0, "enemy_team_id": 381906, 
     "initial_type": 2, "ai": "103;1;0", "ai_content": "1;0;1", "betray_condition": "2", "betray_number": "91768,91741", 
@@ -5889,11 +5892,11 @@
     "betray_result_enemy": "411208", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 411301, "code": "", "ui_image_icon": "", "name": "우로보로스 Elite", "guns": "941", "fairy": 0, "enemy_team_id": 411301, 
-    "initial_type": 0, "ai": "103;0;103", "ai_content": "1;0;1", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 411301, "code": "", "ui_image_icon": "", "name": "우로보로스 Elite", "guns": "941", "fairy": 0, 
+    "enemy_team_id": 411301, "initial_type": 0, "ai": "103;0;103", "ai_content": "1;0;1", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
     "id": 411302, "code": "", "ui_image_icon": "", "name": "우로보로스", "guns": "941", "fairy": 0, "enemy_team_id": 411302, 
     "initial_type": 0, "ai": "103;0;103", "ai_content": "1;0;1", "betray_condition": "0", "betray_number": "0", 
@@ -6624,8 +6627,8 @@
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 513720, "code": "", "ui_image_icon": "", "name": "그리폰", "guns": "513700,513702,513701,513703,513704", "fairy": 0, 
-    "enemy_team_id": 1, "initial_type": 1, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 513720, "code": "", "ui_image_icon": "", "name": "그리폰", "guns": "513700,513702,513701,513703,513704", 
+    "fairy": 0, "enemy_team_id": 1, "initial_type": 1, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
@@ -6795,14 +6798,14 @@
     "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
     "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 544298, "code": "", "ui_image_icon": "", "name": "그리폰", "guns": "544201,544202,544203,544204,544205", "fairy": 0, 
-    "enemy_team_id": 1, "initial_type": 1, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 544298, "code": "", "ui_image_icon": "", "name": "그리폰", "guns": "544201,544202,544203,544204,544205", 
+    "fairy": 0, "enemy_team_id": 1, "initial_type": 1, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 544299, "code": "", "ui_image_icon": "", "name": "그리폰", "guns": "544206,544207,544208,544209,544210", "fairy": 0, 
-    "enemy_team_id": 1, "initial_type": 1, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 544299, "code": "", "ui_image_icon": "", "name": "그리폰", "guns": "544206,544207,544208,544209,544210", 
+    "fairy": 0, "enemy_team_id": 1, "initial_type": 1, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
@@ -7301,8 +7304,8 @@
     "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
     "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 6000012, "code": "", "ui_image_icon": "", "name": "야간전 제대", "guns": "10020,10021,10022,10023,10024", "fairy": 0, 
-    "enemy_team_id": 1, "initial_type": 1, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "0", 
+    "id": 6000012, "code": "", "ui_image_icon": "", "name": "야간전 제대", "guns": "10020,10021,10022,10023,10024", 
+    "fairy": 0, "enemy_team_id": 1, "initial_type": 1, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "0", 
     "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
@@ -7451,12 +7454,12 @@
     "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
     "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 6410301, "code": "", "ui_image_icon": "", "name": "아키텍트 소대", "guns": "", "fairy": 0, "enemy_team_id": 6410590, 
-    "initial_type": 1, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "4110301-13,4110302-9,4110303-7,4110304-19,4110305-17", "betray_result_guns": "", 
-    "betray_result_sangvis": ""
+    "id": 6410301, "code": "", "ui_image_icon": "", "name": "아키텍트 소대", "guns": "", "fairy": 0, 
+    "enemy_team_id": 6410590, "initial_type": 1, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "4110301-13,4110302-9,4110303-7,4110304-19,4110305-17", 
+    "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
     "id": 6410501, "code": "", "ui_image_icon": "", "name": "M16A1", "guns": "739", "fairy": 0, "enemy_team_id": 6410590, 
     "initial_type": 2, "ai": "102;0;102", "ai_content": "0;0;0", "betray_condition": "0", "betray_number": "0", 
@@ -7476,18 +7479,18 @@
     "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 6411001, "code": "", "ui_image_icon": "", "name": "아키텍트 소대", "guns": "", "fairy": 0, "enemy_team_id": 6410590, 
-    "initial_type": 1, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "4110801-13,4110802-9,4110803-7,4110804-19,4110805-17", "betray_result_guns": "", 
-    "betray_result_sangvis": ""
+    "id": 6411001, "code": "", "ui_image_icon": "", "name": "아키텍트 소대", "guns": "", "fairy": 0, 
+    "enemy_team_id": 6410590, "initial_type": 1, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "4110801-13,4110802-9,4110803-7,4110804-19,4110805-17", 
+    "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 6411099, "code": "", "ui_image_icon": "", "name": "게이저 친위대", "guns": "", "fairy": 0, "enemy_team_id": 6411099, 
-    "initial_type": 2, "ai": "101;1;101", "ai_content": "0;0;0", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "Army", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 6411099, "code": "", "ui_image_icon": "", "name": "게이저 친위대", "guns": "", "fairy": 0, 
+    "enemy_team_id": 6411099, "initial_type": 2, "ai": "101;1;101", "ai_content": "0;0;0", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
     "id": 6430001, "code": "", "ui_image_icon": "", "name": "Agent416", "guns": "967", "fairy": 0, "enemy_team_id": 1, 
     "initial_type": 0, "ai": "103;2010;103", "ai_content": "1;0;1", "betray_condition": "6", "betray_number": "6430019", 
@@ -7717,11 +7720,12 @@
     "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
     "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 6470401, "code": "", "ui_image_icon": "", "name": "슈퍼노바 기어", "guns": "1", "fairy": 0, "enemy_team_id": 6470401, 
-    "initial_type": 2, "ai": "102;0;102", "ai_content": "0;0;0", "betray_condition": "3", "betray_number": "64210-0", 
-    "betray_result": "2", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "", 
-    "betray_result_enemy": "6470402", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
-    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 6470401, "code": "", "ui_image_icon": "", "name": "슈퍼노바 기어", "guns": "1", "fairy": 0, 
+    "enemy_team_id": 6470401, "initial_type": 2, "ai": "102;0;102", "ai_content": "0;0;0", "betray_condition": "3", 
+    "betray_number": "64210-0", "betray_result": "2", "transform_condition": "0", "transform_number": "0", 
+    "transform_result": "0", "icon": "", "betray_result_enemy": "6470402", "squad": 0, "building": 0, "enemy_panel_type": 0, 
+    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
+    "betray_result_sangvis": ""
   }, {
     "id": 6470402, "code": "", "ui_image_icon": "", "name": "패트릭", "guns": "1", "fairy": 0, "enemy_team_id": 6470409, 
     "initial_type": 0, "ai": "101;0;101", "ai_content": "64212,64211,64210;0;64212,64211,64210", "betray_condition": "", 
@@ -7803,11 +7807,12 @@
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 6480208, "code": "", "ui_image_icon": "", "name": "마인드맵 장벽", "guns": "1", "fairy": 0, "enemy_team_id": 6480504, 
-    "initial_type": 2, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "", "betray_number": "", 
-    "betray_result": "", "transform_condition": "6", "transform_number": "6480021", "transform_result": "2", "icon": "", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 6480208, "code": "", "ui_image_icon": "", "name": "마인드맵 장벽", "guns": "1", "fairy": 0, 
+    "enemy_team_id": 6480504, "initial_type": 2, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "", 
+    "betray_number": "", "betray_result": "", "transform_condition": "6", "transform_number": "6480021", 
+    "transform_result": "2", "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, 
+    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
+    "betray_result_sangvis": ""
   }, {
     "id": 6480209, "code": "", "ui_image_icon": "", "name": "J팀", "guns": "1070,1071", "fairy": 0, "enemy_team_id": 1, 
     "initial_type": 1, "ai": "103;2010;103", "ai_content": "0;0;0", "betray_condition": "", "betray_number": "", 
@@ -7951,38 +7956,40 @@
     "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
     "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 6480321, "code": "", "ui_image_icon": "", "name": "엘리트 경호원", "guns": "1", "fairy": 0, "enemy_team_id": 6481002, 
-    "initial_type": 2, "ai": "101;2010;101", "ai_content": "64656,64670,64658,64655,64656;0;64656,64670,64658,64655,64656", 
-    "betray_condition": "", "betray_number": "", "betray_result": "", "transform_condition": "", "transform_number": "", 
-    "transform_result": "", "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, 
-    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
-    "betray_result_sangvis": ""
-  }, {
-    "id": 6480322, "code": "", "ui_image_icon": "", "name": "엘리트 경호원", "guns": "1", "fairy": 0, "enemy_team_id": 6481002, 
-    "initial_type": 2, "ai": "101;2010;101", "ai_content": "64662,64661,64660,64663,64662;0;64662,64661,64660,64663,64662", 
-    "betray_condition": "", "betray_number": "", "betray_result": "", "transform_condition": "", "transform_number": "", 
-    "transform_result": "", "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, 
-    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
-    "betray_result_sangvis": ""
-  }, {
-    "id": 6480323, "code": "", "ui_image_icon": "", "name": "엘리트 경호원", "guns": "1", "fairy": 0, "enemy_team_id": 6481002, 
-    "initial_type": 2, "ai": "101;2010;101", "ai_content": "64667,64666,64664;0;64667,64666,64664", "betray_condition": "", 
+    "id": 6480321, "code": "", "ui_image_icon": "", "name": "엘리트 경호원", "guns": "1", "fairy": 0, 
+    "enemy_team_id": 6481002, "initial_type": 2, "ai": "101;2010;101", 
+    "ai_content": "64656,64670,64658,64655,64656;0;64656,64670,64658,64655,64656", "betray_condition": "", 
     "betray_number": "", "betray_result": "", "transform_condition": "", "transform_number": "", "transform_result": "", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 6480324, "code": "", "ui_image_icon": "", "name": "엘리트 경호원", "guns": "1", "fairy": 0, "enemy_team_id": 6481002, 
-    "initial_type": 2, "ai": "101;2010;101", 
+    "id": 6480322, "code": "", "ui_image_icon": "", "name": "엘리트 경호원", "guns": "1", "fairy": 0, 
+    "enemy_team_id": 6481002, "initial_type": 2, "ai": "101;2010;101", 
+    "ai_content": "64662,64661,64660,64663,64662;0;64662,64661,64660,64663,64662", "betray_condition": "", 
+    "betray_number": "", "betray_result": "", "transform_condition": "", "transform_number": "", "transform_result": "", 
+    "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+  }, {
+    "id": 6480323, "code": "", "ui_image_icon": "", "name": "엘리트 경호원", "guns": "1", "fairy": 0, 
+    "enemy_team_id": 6481002, "initial_type": 2, "ai": "101;2010;101", "ai_content": "64667,64666,64664;0;64667,64666,64664", 
+    "betray_condition": "", "betray_number": "", "betray_result": "", "transform_condition": "", "transform_number": "", 
+    "transform_result": "", "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, 
+    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
+    "betray_result_sangvis": ""
+  }, {
+    "id": 6480324, "code": "", "ui_image_icon": "", "name": "엘리트 경호원", "guns": "1", "fairy": 0, 
+    "enemy_team_id": 6481002, "initial_type": 2, "ai": "101;2010;101", 
     "ai_content": "64671,64644,64672,64649,64648,64671;0;64671,64644,64672,64649,64648,64671", "betray_condition": "", 
     "betray_number": "", "betray_result": "", "transform_condition": "", "transform_number": "", "transform_result": "", 
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 6480325, "code": "", "ui_image_icon": "", "name": "엘리트 경호원", "guns": "1", "fairy": 0, "enemy_team_id": 6481002, 
-    "initial_type": 2, "ai": "101;2010;101", "ai_content": "64650,64651,64659;0;64650,64651,64659", "betray_condition": "", 
-    "betray_number": "", "betray_result": "", "transform_condition": "", "transform_number": "", "transform_result": "", 
-    "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
-    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 6480325, "code": "", "ui_image_icon": "", "name": "엘리트 경호원", "guns": "1", "fairy": 0, 
+    "enemy_team_id": 6481002, "initial_type": 2, "ai": "101;2010;101", "ai_content": "64650,64651,64659;0;64650,64651,64659", 
+    "betray_condition": "", "betray_number": "", "betray_result": "", "transform_condition": "", "transform_number": "", 
+    "transform_result": "", "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, 
+    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
+    "betray_result_sangvis": ""
   }, {
     "id": 6480331, "code": "", "ui_image_icon": "", "name": "몰리도", "guns": "1", "fairy": 0, "enemy_team_id": 6481101, 
     "initial_type": 2, "ai": "101;2010;101", "ai_content": "65125,65126;0;65125,65126", "betray_condition": "", 
@@ -7990,26 +7997,26 @@
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 6480341, "code": "", "ui_image_icon": "", "name": "아케소의 접시", "guns": "1", "fairy": 0, "enemy_team_id": 6481204, 
-    "initial_type": 2, "ai": "101;2010;101", "ai_content": "65102,65099;0;65102,65099", "betray_condition": "", 
-    "betray_number": "", "betray_result": "", "transform_condition": "6", "transform_number": "6480082", 
-    "transform_result": "2", "icon": "", "betray_result_enemy": "6481204", "squad": 0, "building": 0, "enemy_panel_type": 0, 
-    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
-    "betray_result_sangvis": ""
+    "id": 6480341, "code": "", "ui_image_icon": "", "name": "아케소의 접시", "guns": "1", "fairy": 0, 
+    "enemy_team_id": 6481204, "initial_type": 2, "ai": "101;2010;101", "ai_content": "65102,65099;0;65102,65099", 
+    "betray_condition": "", "betray_number": "", "betray_result": "", "transform_condition": "6", 
+    "transform_number": "6480082", "transform_result": "2", "icon": "", "betray_result_enemy": "6481204", "squad": 0, 
+    "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", 
+    "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 6480342, "code": "", "ui_image_icon": "", "name": "아케소의 접시", "guns": "1", "fairy": 0, "enemy_team_id": 6481205, 
-    "initial_type": 2, "ai": "101;2010;101", "ai_content": "65105,65120;0;65105,65120", "betray_condition": "", 
-    "betray_number": "", "betray_result": "", "transform_condition": "6", "transform_number": "6480083", 
-    "transform_result": "2", "icon": "", "betray_result_enemy": "6481205", "squad": 0, "building": 0, "enemy_panel_type": 0, 
-    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
-    "betray_result_sangvis": ""
+    "id": 6480342, "code": "", "ui_image_icon": "", "name": "아케소의 접시", "guns": "1", "fairy": 0, 
+    "enemy_team_id": 6481205, "initial_type": 2, "ai": "101;2010;101", "ai_content": "65105,65120;0;65105,65120", 
+    "betray_condition": "", "betray_number": "", "betray_result": "", "transform_condition": "6", 
+    "transform_number": "6480083", "transform_result": "2", "icon": "", "betray_result_enemy": "6481205", "squad": 0, 
+    "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", 
+    "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 6480343, "code": "", "ui_image_icon": "", "name": "아케소의 접시", "guns": "1", "fairy": 0, "enemy_team_id": 6481206, 
-    "initial_type": 2, "ai": "101;2010;101", "ai_content": "65118,65122;0;65118,65122", "betray_condition": "", 
-    "betray_number": "", "betray_result": "", "transform_condition": "6", "transform_number": "6480084", 
-    "transform_result": "2", "icon": "", "betray_result_enemy": "6481206", "squad": 0, "building": 0, "enemy_panel_type": 0, 
-    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
-    "betray_result_sangvis": ""
+    "id": 6480343, "code": "", "ui_image_icon": "", "name": "아케소의 접시", "guns": "1", "fairy": 0, 
+    "enemy_team_id": 6481206, "initial_type": 2, "ai": "101;2010;101", "ai_content": "65118,65122;0;65118,65122", 
+    "betray_condition": "", "betray_number": "", "betray_result": "", "transform_condition": "6", 
+    "transform_number": "6480084", "transform_result": "2", "icon": "", "betray_result_enemy": "6481206", "squad": 0, 
+    "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", 
+    "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
     "id": 6480344, "code": "", "ui_image_icon": "", "name": "아스클레피오스의 지팡이", "guns": "1", "fairy": 0, 
     "enemy_team_id": 6481207, "initial_type": 2, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "", 
@@ -8050,26 +8057,26 @@
     "betray_result_enemy": "", "squad": 0, "building": 6480049, "enemy_panel_type": 0, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 6480841, "code": "", "ui_image_icon": "", "name": "아케소의 접시", "guns": "1", "fairy": 0, "enemy_team_id": 6486204, 
-    "initial_type": 2, "ai": "101;2010;101", "ai_content": "65063,65076;0;65063,65076", "betray_condition": "", 
-    "betray_number": "", "betray_result": "", "transform_condition": "6", "transform_number": "6480085", 
-    "transform_result": "2", "icon": "", "betray_result_enemy": "6486204", "squad": 0, "building": 0, "enemy_panel_type": 0, 
-    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
-    "betray_result_sangvis": ""
+    "id": 6480841, "code": "", "ui_image_icon": "", "name": "아케소의 접시", "guns": "1", "fairy": 0, 
+    "enemy_team_id": 6486204, "initial_type": 2, "ai": "101;2010;101", "ai_content": "65063,65076;0;65063,65076", 
+    "betray_condition": "", "betray_number": "", "betray_result": "", "transform_condition": "6", 
+    "transform_number": "6480085", "transform_result": "2", "icon": "", "betray_result_enemy": "6486204", "squad": 0, 
+    "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", 
+    "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 6480842, "code": "", "ui_image_icon": "", "name": "아케소의 접시", "guns": "1", "fairy": 0, "enemy_team_id": 6486205, 
-    "initial_type": 2, "ai": "101;2010;101", "ai_content": "65044,65043;0;65044,65043", "betray_condition": "", 
-    "betray_number": "", "betray_result": "", "transform_condition": "6", "transform_number": "6480086", 
-    "transform_result": "2", "icon": "", "betray_result_enemy": "6486205", "squad": 0, "building": 0, "enemy_panel_type": 0, 
-    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
-    "betray_result_sangvis": ""
+    "id": 6480842, "code": "", "ui_image_icon": "", "name": "아케소의 접시", "guns": "1", "fairy": 0, 
+    "enemy_team_id": 6486205, "initial_type": 2, "ai": "101;2010;101", "ai_content": "65044,65043;0;65044,65043", 
+    "betray_condition": "", "betray_number": "", "betray_result": "", "transform_condition": "6", 
+    "transform_number": "6480086", "transform_result": "2", "icon": "", "betray_result_enemy": "6486205", "squad": 0, 
+    "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", 
+    "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 6480843, "code": "", "ui_image_icon": "", "name": "아케소의 접시", "guns": "1", "fairy": 0, "enemy_team_id": 6486206, 
-    "initial_type": 2, "ai": "101;2010;101", "ai_content": "65080,65072;0;65080,65072", "betray_condition": "", 
-    "betray_number": "", "betray_result": "", "transform_condition": "6", "transform_number": "6480087", 
-    "transform_result": "2", "icon": "", "betray_result_enemy": "6486206", "squad": 0, "building": 0, "enemy_panel_type": 0, 
-    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
-    "betray_result_sangvis": ""
+    "id": 6480843, "code": "", "ui_image_icon": "", "name": "아케소의 접시", "guns": "1", "fairy": 0, 
+    "enemy_team_id": 6486206, "initial_type": 2, "ai": "101;2010;101", "ai_content": "65080,65072;0;65080,65072", 
+    "betray_condition": "", "betray_number": "", "betray_result": "", "transform_condition": "6", 
+    "transform_number": "6480087", "transform_result": "2", "icon": "", "betray_result_enemy": "6486206", "squad": 0, 
+    "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", 
+    "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
     "id": 6480844, "code": "", "ui_image_icon": "", "name": "아스클레피오스의 지팡이", "guns": "1", "fairy": 0, 
     "enemy_team_id": 6486207, "initial_type": 2, "ai": "0;2010;0", "ai_content": "0;0;0", "betray_condition": "", 
@@ -8143,11 +8150,11 @@
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
     "betray_result_sangvis": ""
   }, {
-    "id": 6485306, "code": "", "ui_image_icon": "", "name": "안전방위시스템", "guns": "1", "fairy": 0, "enemy_team_id": 6485912, 
-    "initial_type": 2, "ai": "102;2010;102", "ai_content": "99;0;99", "betray_condition": "", "betray_number": "", 
-    "betray_result": "", "transform_condition": "", "transform_number": "", "transform_result": "", "icon": "", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 6485306, "code": "", "ui_image_icon": "", "name": "안전방위시스템", "guns": "1", "fairy": 0, 
+    "enemy_team_id": 6485912, "initial_type": 2, "ai": "102;2010;102", "ai_content": "99;0;99", "betray_condition": "", 
+    "betray_number": "", "betray_result": "", "transform_condition": "", "transform_number": "", "transform_result": "", 
+    "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
     "id": 6485307, "code": "", "ui_image_icon": "", "name": "No.4", "guns": "1", "fairy": 0, "enemy_team_id": 6485904, 
     "initial_type": 2, "ai": "102;2010;102", "ai_content": "5;0;5", "betray_condition": "", "betray_number": "", 
@@ -8328,11 +8335,11 @@
     "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
     "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 6510017, "code": "", "ui_image_icon": "", "name": "질소 팀", "guns": "1114,1115,1116", "fairy": 0, "enemy_team_id": 1, 
-    "initial_type": 1, "ai": "0;2001:5,10;0", "ai_content": "0;0;0", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 6510017, "code": "", "ui_image_icon": "", "name": "질소 팀", "guns": "1114,1115,1116", "fairy": 0, 
+    "enemy_team_id": 1, "initial_type": 1, "ai": "0;2001:5,10;0", "ai_content": "0;0;0", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
     "id": 6510018, "code": "", "ui_image_icon": "", "name": "M16A1", "guns": "1117,1174,1175", "fairy": 0, 
     "enemy_team_id": 1, "initial_type": 1, "ai": "0;2001:5,10;0", "ai_content": "0;0;0", "betray_condition": "0", 
@@ -8807,23 +8814,26 @@
     "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
     "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 9120101, "code": "", "ui_image_icon": "", "name": "고립 마인드", "guns": "716", "fairy": 0, "enemy_team_id": 9120101, 
-    "initial_type": 0, "ai": "0;2;0", "ai_content": "0;0;0", "betray_condition": "2", "betray_number": "90035", 
-    "betray_result": "1", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "Army", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 9120101, "code": "", "ui_image_icon": "", "name": "고립 마인드", "guns": "716", "fairy": 0, 
+    "enemy_team_id": 9120101, "initial_type": 0, "ai": "0;2;0", "ai_content": "0;0;0", "betray_condition": "2", 
+    "betray_number": "90035", "betray_result": "1", "transform_condition": "0", "transform_number": "0", 
+    "transform_result": "0", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
+    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
+    "betray_result_sangvis": ""
   }, {
-    "id": 9120102, "code": "", "ui_image_icon": "", "name": "고립 마인드", "guns": "716", "fairy": 0, "enemy_team_id": 9120101, 
-    "initial_type": 0, "ai": "0;2;0", "ai_content": "0;0;0", "betray_condition": "2", "betray_number": "90052", 
-    "betray_result": "1", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "Army", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 9120102, "code": "", "ui_image_icon": "", "name": "고립 마인드", "guns": "716", "fairy": 0, 
+    "enemy_team_id": 9120101, "initial_type": 0, "ai": "0;2;0", "ai_content": "0;0;0", "betray_condition": "2", 
+    "betray_number": "90052", "betray_result": "1", "transform_condition": "0", "transform_number": "0", 
+    "transform_result": "0", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
+    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
+    "betray_result_sangvis": ""
   }, {
-    "id": 9120103, "code": "", "ui_image_icon": "", "name": "고립 마인드", "guns": "716", "fairy": 0, "enemy_team_id": 9120101, 
-    "initial_type": 0, "ai": "0;2;0", "ai_content": "0;0;0", "betray_condition": "2", "betray_number": "90002", 
-    "betray_result": "1", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "Army", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 9120103, "code": "", "ui_image_icon": "", "name": "고립 마인드", "guns": "716", "fairy": 0, 
+    "enemy_team_id": 9120101, "initial_type": 0, "ai": "0;2;0", "ai_content": "0;0;0", "betray_condition": "2", 
+    "betray_number": "90002", "betray_result": "1", "transform_condition": "0", "transform_number": "0", 
+    "transform_result": "0", "icon": "Army", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 1, 
+    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
+    "betray_result_sangvis": ""
   }, {
     "id": 9120705, "code": "", "ui_image_icon": "", "name": "반란군", "guns": "716", "fairy": 0, "enemy_team_id": 9120705, 
     "initial_type": 2, "ai": "101;2;101", 
@@ -9190,29 +9200,30 @@
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 9411213, "code": "", "ui_image_icon": "", "name": "희생양_1층도중", "guns": "895", "fairy": 0, "enemy_team_id": 9411213, 
-    "initial_type": 2, "ai": "0;1;0", "ai_content": "0;0;0", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "4", "transform_number": "9411201", "transform_result": "0", "icon": "", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 9411213, "code": "", "ui_image_icon": "", "name": "희생양_1층도중", "guns": "895", "fairy": 0, 
+    "enemy_team_id": 9411213, "initial_type": 2, "ai": "0;1;0", "ai_content": "0;0;0", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "4", "transform_number": "9411201", 
+    "transform_result": "0", "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, 
+    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
+    "betray_result_sangvis": ""
   }, {
-    "id": 9411214, "code": "", "ui_image_icon": "", "name": "희생양_1층순찰", "guns": "895", "fairy": 0, "enemy_team_id": 9411214, 
-    "initial_type": 2, "ai": "0;1;0", "ai_content": "0;0;0", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 9411214, "code": "", "ui_image_icon": "", "name": "희생양_1층순찰", "guns": "895", "fairy": 0, 
+    "enemy_team_id": 9411214, "initial_type": 2, "ai": "0;1;0", "ai_content": "0;0;0", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 9411215, "code": "", "ui_image_icon": "", "name": "희생양_2층순찰", "guns": "895", "fairy": 0, "enemy_team_id": 9411215, 
-    "initial_type": 2, "ai": "0;1;0", "ai_content": "0;0;0", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 9411215, "code": "", "ui_image_icon": "", "name": "희생양_2층순찰", "guns": "895", "fairy": 0, 
+    "enemy_team_id": 9411215, "initial_type": 2, "ai": "0;1;0", "ai_content": "0;0;0", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 9411216, "code": "", "ui_image_icon": "", "name": "희생양_3층순찰", "guns": "895", "fairy": 0, "enemy_team_id": 9411216, 
-    "initial_type": 2, "ai": "0;1;0", "ai_content": "0;0;0", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 9411216, "code": "", "ui_image_icon": "", "name": "희생양_3층순찰", "guns": "895", "fairy": 0, 
+    "enemy_team_id": 9411216, "initial_type": 2, "ai": "0;1;0", "ai_content": "0;0;0", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
     "id": 9411217, "code": "", "ui_image_icon": "", "name": "헐은 인형", "guns": "932", "fairy": 0, "enemy_team_id": 9411216, 
     "initial_type": 0, "ai": "0;0;0", "ai_content": "0;0;0", "betray_condition": "2", "betray_number": "92420", 
@@ -9220,48 +9231,52 @@
     "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
     "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 9411218, "code": "", "ui_image_icon": "", "name": "연못 신선?", "guns": "931", "fairy": 0, "enemy_team_id": 9411216, 
-    "initial_type": 0, "ai": "0;0;0", "ai_content": "0;0;0", "betray_condition": "2", "betray_number": "92589", 
-    "betray_result": "1", "transform_condition": "6", "transform_number": "9411239,9411240,9411244", 
-    "transform_result": "0,0,0", "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, 
+    "id": 9411218, "code": "", "ui_image_icon": "", "name": "연못 신선?", "guns": "931", "fairy": 0, 
+    "enemy_team_id": 9411216, "initial_type": 0, "ai": "0;0;0", "ai_content": "0;0;0", "betray_condition": "2", 
+    "betray_number": "92589", "betray_result": "1", "transform_condition": "6", 
+    "transform_number": "9411239,9411240,9411244", "transform_result": "0,0,0", "icon": "", "betray_result_enemy": "", 
+    "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, 
+    "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+  }, {
+    "id": 9411401, "code": "", "ui_image_icon": "", "name": "우로보로스", "guns": "931", "fairy": 0, 
+    "enemy_team_id": 9411401, "initial_type": 0, "ai": "0;0;0", "ai_content": "0;0;0", "betray_condition": "4", 
+    "betray_number": "9411421", "betray_result": "2", "transform_condition": "0", "transform_number": "0", 
+    "transform_result": "0", "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, 
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
     "betray_result_sangvis": ""
   }, {
-    "id": 9411401, "code": "", "ui_image_icon": "", "name": "우로보로스", "guns": "931", "fairy": 0, "enemy_team_id": 9411401, 
-    "initial_type": 0, "ai": "0;0;0", "ai_content": "0;0;0", "betray_condition": "4", "betray_number": "9411421", 
-    "betray_result": "2", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 9411402, "code": "", "ui_image_icon": "", "name": "우로보로스", "guns": "931", "fairy": 0, 
+    "enemy_team_id": 9411402, "initial_type": 0, "ai": "0;0;0", "ai_content": "0;0;0", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 9411402, "code": "", "ui_image_icon": "", "name": "우로보로스", "guns": "931", "fairy": 0, "enemy_team_id": 9411402, 
-    "initial_type": 0, "ai": "0;0;0", "ai_content": "0;0;0", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 9411403, "code": "", "ui_image_icon": "", "name": "우로보로스", "guns": "931", "fairy": 0, 
+    "enemy_team_id": 9411403, "initial_type": 0, "ai": "0;0;0", "ai_content": "0;0;0", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "4", "transform_number": "9411421", 
+    "transform_result": "0", "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, 
+    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
+    "betray_result_sangvis": ""
   }, {
-    "id": 9411403, "code": "", "ui_image_icon": "", "name": "우로보로스", "guns": "931", "fairy": 0, "enemy_team_id": 9411403, 
-    "initial_type": 0, "ai": "0;0;0", "ai_content": "0;0;0", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "4", "transform_number": "9411421", "transform_result": "0", "icon": "", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 9411404, "code": "", "ui_image_icon": "", "name": "우로보로스", "guns": "931", "fairy": 0, 
+    "enemy_team_id": 9411404, "initial_type": 0, "ai": "0;0;0", "ai_content": "0;0;0", "betray_condition": "4", 
+    "betray_number": "9411422", "betray_result": "2", "transform_condition": "0", "transform_number": "0", 
+    "transform_result": "0", "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, 
+    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
+    "betray_result_sangvis": ""
   }, {
-    "id": 9411404, "code": "", "ui_image_icon": "", "name": "우로보로스", "guns": "931", "fairy": 0, "enemy_team_id": 9411404, 
-    "initial_type": 0, "ai": "0;0;0", "ai_content": "0;0;0", "betray_condition": "4", "betray_number": "9411422", 
-    "betray_result": "2", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 9411405, "code": "", "ui_image_icon": "", "name": "우로보로스", "guns": "931", "fairy": 0, 
+    "enemy_team_id": 9411405, "initial_type": 0, "ai": "0;0;0", "ai_content": "0;0;0", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
+    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 9411405, "code": "", "ui_image_icon": "", "name": "우로보로스", "guns": "931", "fairy": 0, "enemy_team_id": 9411405, 
-    "initial_type": 0, "ai": "0;0;0", "ai_content": "0;0;0", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
-  }, {
-    "id": 9411406, "code": "", "ui_image_icon": "", "name": "우로보로스", "guns": "931", "fairy": 0, "enemy_team_id": 9411406, 
-    "initial_type": 0, "ai": "0;0;0", "ai_content": "0;0;0", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "4", "transform_number": "9411422", "transform_result": "0", "icon": "", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 9411406, "code": "", "ui_image_icon": "", "name": "우로보로스", "guns": "931", "fairy": 0, 
+    "enemy_team_id": 9411406, "initial_type": 0, "ai": "0;0;0", "ai_content": "0;0;0", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "4", "transform_number": "9411422", 
+    "transform_result": "0", "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, 
+    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
+    "betray_result_sangvis": ""
   }, {
     "id": 9411407, "code": "", "ui_image_icon": "", "name": "철혈 부대", "guns": "931", "fairy": 0, "enemy_team_id": 9411407, 
     "initial_type": 2, "ai": "101;0;101", "ai_content": "92619,92637,92638;0;92619,92637,92638", "betray_condition": "0", 
@@ -9802,11 +9817,12 @@
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
     "betray_result_sangvis": ""
   }, {
-    "id": 43160002, "code": "", "ui_image_icon": "", "name": "Vector팀", "guns": "966", "fairy": 0, "enemy_team_id": 43160001, 
-    "initial_type": 0, "ai": "102;2010;102", "ai_content": "1;0;1", "betray_condition": "3", "betray_number": "93229-1", 
-    "betray_result": "1", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "", 
-    "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 43160002, "code": "", "ui_image_icon": "", "name": "Vector팀", "guns": "966", "fairy": 0, 
+    "enemy_team_id": 43160001, "initial_type": 0, "ai": "102;2010;102", "ai_content": "1;0;1", "betray_condition": "3", 
+    "betray_number": "93229-1", "betray_result": "1", "transform_condition": "0", "transform_number": "0", 
+    "transform_result": "0", "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, 
+    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
+    "betray_result_sangvis": ""
   }, {
     "id": 43170001, "code": "", "ui_image_icon": "", "name": "Vector팀", "guns": "964,965", "fairy": 0, 
     "enemy_team_id": 43170001, "initial_type": 1, "ai": "102;2010;102", "ai_content": "2;0;2", "betray_condition": "0", 
@@ -9839,11 +9855,12 @@
     "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, 
     "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 44350003, "code": "", "ui_image_icon": "", "name": "떠돌이 폭도", "guns": "1016", "fairy": 0, "enemy_team_id": 44350003, 
-    "initial_type": 2, "ai": "0;0;0", "ai_content": "0;0;0", "betray_condition": "2", "betray_number": "93346", 
-    "betray_result": "2", "transform_condition": "", "transform_number": "", "transform_result": "", "icon": "", 
-    "betray_result_enemy": "44350003", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
-    "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 44350003, "code": "", "ui_image_icon": "", "name": "떠돌이 폭도", "guns": "1016", "fairy": 0, 
+    "enemy_team_id": 44350003, "initial_type": 2, "ai": "0;0;0", "ai_content": "0;0;0", "betray_condition": "2", 
+    "betray_number": "93346", "betray_result": "2", "transform_condition": "", "transform_number": "", 
+    "transform_result": "", "icon": "", "betray_result_enemy": "44350003", "squad": 0, "building": 0, "enemy_panel_type": 0, 
+    "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
+    "betray_result_sangvis": ""
   }, {
     "id": 44360001, "code": "", "ui_image_icon": "", "name": "안젤리아", "guns": "1011,1012,1013,1014,1015", "fairy": 0, 
     "enemy_team_id": 1, "initial_type": 1, "ai": "103;2010;103", "ai_content": "1;0;1", "betray_condition": "", 
@@ -10047,11 +10064,11 @@
     "betray_result_enemy": "1", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": 10, 
     "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 44440013, "code": "", "ui_image_icon": "", "name": "마흐리안", "guns": "1010", "fairy": 0, "enemy_team_id": 44440001, 
-    "initial_type": 0, "ai": "103;2010;103", "ai_content": "1;0;1", "betray_condition": "1", "betray_number": "10", 
-    "betray_result": "1", "transform_condition": "", "transform_number": "", "transform_result": "", "icon": "", 
-    "betray_result_enemy": "1", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": 10, 
-    "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
+    "id": 44440013, "code": "", "ui_image_icon": "", "name": "마흐리안", "guns": "1010", "fairy": 0, 
+    "enemy_team_id": 44440001, "initial_type": 0, "ai": "103;2010;103", "ai_content": "1;0;1", "betray_condition": "1", 
+    "betray_number": "10", "betray_result": "1", "transform_condition": "", "transform_number": "", "transform_result": "", 
+    "icon": "", "betray_result_enemy": "1", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
+    "no_battle_damage": 10, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
     "id": 44540001, "code": "", "ui_image_icon": "", "name": "안젤리아", "guns": "1044,1045,1046,1047", "fairy": 0, 
     "enemy_team_id": 1, "initial_type": 1, "ai": "103;2010;103", "ai_content": "1;0;1", "betray_condition": "", 
@@ -10059,8 +10076,8 @@
     "icon": "", "betray_result_enemy": "", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 45010002, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, "enemy_team_id": 45010002, 
-    "initial_type": 2, "ai": "103;0;101", 
+    "id": 45010002, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, 
+    "enemy_team_id": 45010002, "initial_type": 2, "ai": "103;0;101", 
     "ai_content": "1;0;93799,93795,93793,93797,93828,93826,93824,93823,93822,93821,93820,93819,93818,93817,93814,93813,93811,93809,93808,93806,93804,93803,93800,93798,93799", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "6", 
     "transform_number": "45010001,45010002,45010003", "transform_result": "0,0,0", "icon": "", 
@@ -10068,42 +10085,42 @@
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
     "betray_result_sangvis": ""
   }, {
-    "id": 45010003, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, "enemy_team_id": 45010003, 
-    "initial_type": 2, "ai": "103;0;101", 
+    "id": 45010003, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, 
+    "enemy_team_id": 45010003, "initial_type": 2, "ai": "103;0;101", 
     "ai_content": "1;0;93799,93795,93793,93797,93828,93826,93824,93823,93822,93821,93820,93819,93818,93817,93814,93813,93811,93809,93808,93806,93804,93803,93800,93798,93799", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "6", 
     "transform_number": "45010001", "transform_result": "0", "icon": "", "betray_result_enemy": "45010003", "squad": 0, 
     "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", 
     "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 45010004, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, "enemy_team_id": 45010004, 
-    "initial_type": 2, "ai": "103;0;101", 
+    "id": 45010004, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, 
+    "enemy_team_id": 45010004, "initial_type": 2, "ai": "103;0;101", 
     "ai_content": "1;0;93794,93801,93802,93805,93807,93810,93812,93815,93816,93831,93829,93830,93825,93827,93796,93792,93794", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "6", 
     "transform_number": "45010001,45010002", "transform_result": "0,0", "icon": "", 
     "betray_result_enemy": "45010004,45010004", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 45010005, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, "enemy_team_id": 45010005, 
-    "initial_type": 2, "ai": "103;0;101", 
+    "id": 45010005, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, 
+    "enemy_team_id": 45010005, "initial_type": 2, "ai": "103;0;101", 
     "ai_content": "1;0;93794,93801,93802,93805,93807,93810,93812,93815,93816,93831,93829,93830,93825,93827,93796,93792,93794", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "6", 
     "transform_number": "45010001", "transform_result": "0", "icon": "", "betray_result_enemy": "45010005", "squad": 0, 
     "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", 
     "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 45010006, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, "enemy_team_id": 45010006, 
-    "initial_type": 2, "ai": "101;0;101", 
+    "id": 45010006, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, 
+    "enemy_team_id": 45010006, "initial_type": 2, "ai": "101;0;101", 
     "ai_content": "93788,93786,93780,93789,93787,93782,93790,93784,93783,93791,93785,93781,93788;0;93788,93786,93780,93789,93787,93782,93790,93784,93783,93791,93785,93781,93788", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "6", 
     "transform_number": "45010001,45010002", "transform_result": "0,0,0", "icon": "", 
     "betray_result_enemy": "45010006,45010006", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 45010084, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, "enemy_team_id": 45010084, 
-    "initial_type": 0, "ai": "103;0;103", "ai_content": "1;0;1", "betray_condition": "0", "betray_number": "0", 
-    "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", "icon": "", 
-    "betray_result_enemy": "45010084", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
+    "id": 45010084, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, 
+    "enemy_team_id": 45010084, "initial_type": 0, "ai": "103;0;103", "ai_content": "1;0;1", "betray_condition": "0", 
+    "betray_number": "0", "betray_result": "0", "transform_condition": "0", "transform_number": "0", "transform_result": "0", 
+    "icon": "", "betray_result_enemy": "45010084", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
     "id": 45010085, "code": "", "ui_image_icon": "", "name": "더미", "guns": "1061", "fairy": 0, "enemy_team_id": 45010085, 
@@ -10112,8 +10129,8 @@
     "betray_result_enemy": "45010085", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 45010088, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, "enemy_team_id": 45010088, 
-    "initial_type": 2, "ai": "103;0;101", 
+    "id": 45010088, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, 
+    "enemy_team_id": 45010088, "initial_type": 2, "ai": "103;0;101", 
     "ai_content": "1;0;93799,93795,93793,93797,93828,93826,93824,93823,93822,93821,93820,93819,93818,93817,93814,93813,93811,93809,93808,93806,93804,93803,93800,93798,93799", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "6", 
     "transform_number": "45010001,45010002,45010003", "transform_result": "0,0,0", "icon": "", 
@@ -10121,16 +10138,16 @@
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
     "betray_result_sangvis": ""
   }, {
-    "id": 45010089, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, "enemy_team_id": 45010089, 
-    "initial_type": 2, "ai": "103;0;101", 
+    "id": 45010089, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, 
+    "enemy_team_id": 45010089, "initial_type": 2, "ai": "103;0;101", 
     "ai_content": "1;0;93799,93795,93793,93797,93828,93826,93824,93823,93822,93821,93820,93819,93818,93817,93814,93813,93811,93809,93808,93806,93804,93803,93800,93798,93799", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "6", 
     "transform_number": "45010001,45010002", "transform_result": "0,0", "icon": "", 
     "betray_result_enemy": "45010089,45010089", "squad": 0, "building": 0, "enemy_panel_type": 0, "is_special_ai": 0, 
     "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", "betray_result_sangvis": ""
   }, {
-    "id": 45010090, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, "enemy_team_id": 45010090, 
-    "initial_type": 2, "ai": "103;0;101", 
+    "id": 45010090, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, 
+    "enemy_team_id": 45010090, "initial_type": 2, "ai": "103;0;101", 
     "ai_content": "1;0;93794,93801,93802,93805,93807,93810,93812,93815,93816,93831,93829,93830,93825,93827,93796,93792,93794", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "6", 
     "transform_number": "45010001,45010002,45010003", "transform_result": "0,0,0", "icon": "", 
@@ -10138,8 +10155,8 @@
     "is_special_ai": 0, "no_battle_damage": -1, "duration": 0, "sangvis": "", "betray_result_guns": "", 
     "betray_result_sangvis": ""
   }, {
-    "id": 45010091, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, "enemy_team_id": 45010091, 
-    "initial_type": 2, "ai": "103;0;101", 
+    "id": 45010091, "code": "", "ui_image_icon": "", "name": "패러데우스", "guns": "1028", "fairy": 0, 
+    "enemy_team_id": 45010091, "initial_type": 2, "ai": "103;0;101", 
     "ai_content": "1;0;93794,93801,93802,93805,93807,93810,93812,93815,93816,93831,93829,93830,93825,93827,93796,93792,93794", 
     "betray_condition": "0", "betray_number": "0", "betray_result": "0", "transform_condition": "6", 
     "transform_number": "45010001", "transform_result": "0", "icon": "", "betray_result_enemy": "45010091", "squad": 0, 

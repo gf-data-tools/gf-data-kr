@@ -76,44 +76,44 @@
     "part": 0, "is_reward": 0, "prize_reward": ""
   }, {
     "id": 170301, "target_type": 3, "name": "가름", 
-    "target_des": "특수표적 - 가름, 표적 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.", "code": "mission_targettrain_03", 
-    "rank": 1, "rank_type": 0, "rank_inorder": 1, "hit_rank": 1, "hit_rank_type": 0, "hit_rank_inorder": 1, 
-    "difficult_level_limit": 1, "difficult_level": 1, "recommend_level": 100, "target_id": "301", "battle_timelimit": 300, 
-    "hp_is_re": 0, "is_time_limit": 1, "start_time": "2020-08-11 00:00:00", "end_time": "2020-8-28 15:00:00", "cost_type": 0, 
-    "cost_item": "9,5", "mp": 4000, "ammo": 4000, "mre": 4000, "part": 4000, "is_reward": 0, 
-    "prize_reward": "61:10000,62:10000,63:10000"
+    "target_des": "특수표적 - 가름, 표적 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.", 
+    "code": "mission_targettrain_03", "rank": 1, "rank_type": 0, "rank_inorder": 1, "hit_rank": 1, "hit_rank_type": 0, 
+    "hit_rank_inorder": 1, "difficult_level_limit": 1, "difficult_level": 1, "recommend_level": 100, "target_id": "301", 
+    "battle_timelimit": 300, "hp_is_re": 0, "is_time_limit": 1, "start_time": "2020-08-11 00:00:00", 
+    "end_time": "2020-8-28 15:00:00", "cost_type": 0, "cost_item": "9,5", "mp": 4000, "ammo": 4000, "mre": 4000, 
+    "part": 4000, "is_reward": 0, "prize_reward": "61:10000,62:10000,63:10000"
   }, {
     "id": 170401, "target_type": 3, "name": "예고르", 
-    "target_des": "특수표적 - 예고르, 표적 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.", "code": "mission_targettrain_04", 
-    "rank": 1, "rank_type": 0, "rank_inorder": 1, "hit_rank": 1, "hit_rank_type": 0, "hit_rank_inorder": 1, 
-    "difficult_level_limit": 1, "difficult_level": 1, "recommend_level": 100, "target_id": "401", "battle_timelimit": 300, 
-    "hp_is_re": 0, "is_time_limit": 1, "start_time": "2020-08-11 00:00:00", "end_time": "2020-8-28 15:00:00", "cost_type": 0, 
-    "cost_item": "9,5", "mp": 4000, "ammo": 4000, "mre": 4000, "part": 4000, "is_reward": 0, 
-    "prize_reward": "61:10000,62:10000,63:10000"
+    "target_des": "특수표적 - 예고르, 표적 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.", 
+    "code": "mission_targettrain_04", "rank": 1, "rank_type": 0, "rank_inorder": 1, "hit_rank": 1, "hit_rank_type": 0, 
+    "hit_rank_inorder": 1, "difficult_level_limit": 1, "difficult_level": 1, "recommend_level": 100, "target_id": "401", 
+    "battle_timelimit": 300, "hp_is_re": 0, "is_time_limit": 1, "start_time": "2020-08-11 00:00:00", 
+    "end_time": "2020-8-28 15:00:00", "cost_type": 0, "cost_item": "9,5", "mp": 4000, "ammo": 4000, "mre": 4000, 
+    "part": 4000, "is_reward": 0, "prize_reward": "61:10000,62:10000,63:10000"
   }, {
     "id": 170501, "target_type": 3, "name": "실격이성질체", 
-    "target_des": "특수표적 - 실격이성질체, 표적 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.", "code": "mission_targettrain_05", 
-    "rank": 1, "rank_type": 0, "rank_inorder": 1, "hit_rank": 1, "hit_rank_type": 0, "hit_rank_inorder": 1, 
-    "difficult_level_limit": 1, "difficult_level": 1, "recommend_level": 100, "target_id": "501", "battle_timelimit": 300, 
-    "hp_is_re": 0, "is_time_limit": 1, "start_time": "2020-08-11 00:00:00", "end_time": "2020-8-28 15:00:00", "cost_type": 0, 
-    "cost_item": "9,5", "mp": 4000, "ammo": 4000, "mre": 4000, "part": 4000, "is_reward": 0, 
-    "prize_reward": "61:10000,62:10000,63:10000"
+    "target_des": "특수표적 - 실격이성질체, 표적 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.", 
+    "code": "mission_targettrain_05", "rank": 1, "rank_type": 0, "rank_inorder": 1, "hit_rank": 1, "hit_rank_type": 0, 
+    "hit_rank_inorder": 1, "difficult_level_limit": 1, "difficult_level": 1, "recommend_level": 100, "target_id": "501", 
+    "battle_timelimit": 300, "hp_is_re": 0, "is_time_limit": 1, "start_time": "2020-08-11 00:00:00", 
+    "end_time": "2020-8-28 15:00:00", "cost_type": 0, "cost_item": "9,5", "mp": 4000, "ammo": 4000, "mre": 4000, 
+    "part": 4000, "is_reward": 0, "prize_reward": "61:10000,62:10000,63:10000"
   }, {
     "id": 170601, "target_type": 3, "name": "M16A1!", 
-    "target_des": "특수표적 - M16A1！, 표적 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.", "code": "mission_targettrain_06", 
-    "rank": 1, "rank_type": 0, "rank_inorder": 1, "hit_rank": 1, "hit_rank_type": 0, "hit_rank_inorder": 1, 
-    "difficult_level_limit": 1, "difficult_level": 1, "recommend_level": 100, "target_id": "601", "battle_timelimit": 300, 
-    "hp_is_re": 0, "is_time_limit": 1, "start_time": "2020-08-11 00:00:00", "end_time": "2020-8-28 15:00:00", "cost_type": 0, 
-    "cost_item": "9,5", "mp": 4000, "ammo": 4000, "mre": 4000, "part": 4000, "is_reward": 0, 
-    "prize_reward": "61:10000,62:10000,63:10000"
+    "target_des": "특수표적 - M16A1！, 표적 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.", 
+    "code": "mission_targettrain_06", "rank": 1, "rank_type": 0, "rank_inorder": 1, "hit_rank": 1, "hit_rank_type": 0, 
+    "hit_rank_inorder": 1, "difficult_level_limit": 1, "difficult_level": 1, "recommend_level": 100, "target_id": "601", 
+    "battle_timelimit": 300, "hp_is_re": 0, "is_time_limit": 1, "start_time": "2020-08-11 00:00:00", 
+    "end_time": "2020-8-28 15:00:00", "cost_type": 0, "cost_item": "9,5", "mp": 4000, "ammo": 4000, "mre": 4000, 
+    "part": 4000, "is_reward": 0, "prize_reward": "61:10000,62:10000,63:10000"
   }, {
     "id": 170701, "target_type": 3, "name": "차단중대", 
-    "target_des": "특수표적 - 차단중대, 표적 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.", "code": "mission_targettrain_07", 
-    "rank": 1, "rank_type": 0, "rank_inorder": 1, "hit_rank": 1, "hit_rank_type": 0, "hit_rank_inorder": 1, 
-    "difficult_level_limit": 1, "difficult_level": 1, "recommend_level": 100, "target_id": "701", "battle_timelimit": 300, 
-    "hp_is_re": 0, "is_time_limit": 1, "start_time": "2020-08-11 00:00:00", "end_time": "2020-8-28 15:00:00", "cost_type": 0, 
-    "cost_item": "9,5", "mp": 4000, "ammo": 4000, "mre": 4000, "part": 4000, "is_reward": 0, 
-    "prize_reward": "61:10000,62:10000,63:10000"
+    "target_des": "특수표적 - 차단중대, 표적 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.", 
+    "code": "mission_targettrain_07", "rank": 1, "rank_type": 0, "rank_inorder": 1, "hit_rank": 1, "hit_rank_type": 0, 
+    "hit_rank_inorder": 1, "difficult_level_limit": 1, "difficult_level": 1, "recommend_level": 100, "target_id": "701", 
+    "battle_timelimit": 300, "hp_is_re": 0, "is_time_limit": 1, "start_time": "2020-08-11 00:00:00", 
+    "end_time": "2020-8-28 15:00:00", "cost_type": 0, "cost_item": "9,5", "mp": 4000, "ammo": 4000, "mre": 4000, 
+    "part": 4000, "is_reward": 0, "prize_reward": "61:10000,62:10000,63:10000"
   }, {
     "id": 170801, "target_type": 3, "name": "01: 난수 봄버", 
     "target_des": "[이중난수]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.", 
@@ -163,7 +163,8 @@
     "end_time": "2020-10-02 15:00:00", "cost_type": 0, "cost_item": "9,5", "mp": 4000, "ammo": 4000, "mre": 4000, 
     "part": 4000, "is_reward": 0, "prize_reward": "61:10000,62:10000,63:10000"
   }, {
-    "id": 171401, "target_type": 4, "name": "저장된 표적", "target_des": "작전 지역에서 적 부대를 표적으로 저장해 반복 연습을 통해, 전투 능력을 심화할 수 있습니다.", 
+    "id": 171401, "target_type": 4, "name": "저장된 표적", 
+    "target_des": "작전 지역에서 적 부대를 표적으로 저장해 반복 연습을 통해, 전투 능력을 심화할 수 있습니다.", 
     "code": "mission_targettrain_collect", "rank": 0, "rank_type": 0, "rank_inorder": 0, "hit_rank": 0, "hit_rank_type": 0, 
     "hit_rank_inorder": 0, "difficult_level_limit": 1, "difficult_level": 1, "recommend_level": 100, "target_id": "0", 
     "battle_timelimit": 300, "hp_is_re": 1, "is_time_limit": 0, "start_time": "", "end_time": "", "cost_type": 0, 

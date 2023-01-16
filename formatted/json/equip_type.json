@@ -34,7 +34,8 @@
     "type": 11, "name": "방탄삽판", "category": 3, "code": "ArmorPlate", "fit_gun_type": "6", 
     "des": "인형의 <color=#FFB400FF>장갑</color> 상승, 대신 <color=#FFB400FF>회피</color> 감소"
   }, {
-    "type": 12, "name": "훈장", "category": 3, "code": "Medal", "fit_gun_type": "0", "des": "특별한 인형 장비, 타입에 따라 능력치 변동도 다름."
+    "type": 12, "name": "훈장", "category": 3, "code": "Medal", "fit_gun_type": "0", 
+    "des": "특별한 인형 장비, 타입에 따라 능력치 변동도 다름."
   }, {
     "type": 13, "name": "소음기", "category": 1, "code": "Suppressor", "fit_gun_type": "1,2,3,4", 
     "des": "인형의 <color=#FFB400FF>치명률</color> 및 <color=#FFB400FF>회피</color> 상승"

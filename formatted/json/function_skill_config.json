@@ -9,12 +9,12 @@
     "function_skill": "battle_speed_up"
   }, {
     "id": 103, "name": "매력", "level": 1, "group_id": 0, "code": "function_skill_icon_103", 
-    "description": "전투로 발생하는 인형, 혼합세력 호감도 상승치 {0}% 상승 {1}", "arguments": 3, "max_level": 5, "is_show": 1, "type": 1, 
-    "function_skill": "battle_favor_up"
+    "description": "전투로 발생하는 인형, 혼합세력 호감도 상승치 {0}% 상승 {1}", "arguments": 3, "max_level": 5, 
+    "is_show": 1, "type": 1, "function_skill": "battle_favor_up"
   }, {
     "id": 104, "name": "브리핑 능력", "level": 1, "group_id": 0, "code": "function_skill_icon_104", 
-    "description": "전투에서 얻는 인형, 혼합세력 경험치 {0}% 상승 {1}", "arguments": 3, "max_level": 5, "is_show": 1, "type": 1, 
-    "function_skill": "battle_gun_exp_up"
+    "description": "전투에서 얻는 인형, 혼합세력 경험치 {0}% 상승 {1}", "arguments": 3, "max_level": 5, "is_show": 1, 
+    "type": 1, "function_skill": "battle_gun_exp_up"
   }, {
     "id": 105, "name": "집중력", "level": 1, "group_id": 0, "code": "function_skill_icon_105", 
     "description": "전투에서 얻는 지휘관 경험치 {0}% 상승 {1}", "arguments": 5, "max_level": 3, "is_show": 1, "type": 1, 
@@ -29,12 +29,12 @@
     "function_skill": "battle_squad_exp_up"
   }, {
     "id": 108, "name": "자장가", "level": 1, "group_id": 0, "code": "function_skill_icon_108", 
-    "description": "인형, 중장비, 혼합세력 수복 시간  {0}% 감소{1}", "arguments": 10, "max_level": 3, "is_show": 1, "type": 1, 
-    "function_skill": "repair_time_reduce"
+    "description": "인형, 중장비, 혼합세력 수복 시간  {0}% 감소{1}", "arguments": 10, "max_level": 3, "is_show": 1, 
+    "type": 1, "function_skill": "repair_time_reduce"
   }, {
     "id": 109, "name": "기록 보조", "level": 1, "group_id": 0, "code": "function_skill_icon_109", 
-    "description": "작전보고서, 특수작전보고서 작성 시간 {0}% 단축 {1}", "arguments": 1, "max_level": 5, "is_show": 1, "type": 1, 
-    "function_skill": "report_time_reduce"
+    "description": "작전보고서, 특수작전보고서 작성 시간 {0}% 단축 {1}", "arguments": 1, "max_level": 5, "is_show": 1, 
+    "type": 1, "function_skill": "report_time_reduce"
   }, {
     "id": 110, "name": "낙관적", "level": 1, "group_id": 0, "code": "function_skill_icon_110", 
     "description": "전진기지 탐색 복귀 보상 수량 {0}% 상승 {1}", "arguments": 5, "max_level": 3, "is_show": 0, "type": 1, 
@@ -45,8 +45,8 @@
     "function_skill": "exploration_mid_rate_up"
   }, {
     "id": 112, "name": "속성 훈련", "level": 1, "group_id": 0, "code": "function_skill_icon_112", 
-    "description": "인형, 요정, 중장비, 혼합세력 스킬훈련 시간 {0}% 단축 {1}", "arguments": 3, "max_level": 5, "is_show": 1, "type": 1, 
-    "function_skill": "skill_time_reduce"
+    "description": "인형, 요정, 중장비, 혼합세력 스킬훈련 시간 {0}% 단축 {1}", "arguments": 3, "max_level": 5, "is_show": 1, 
+    "type": 1, "function_skill": "skill_time_reduce"
   }, {
     "id": 113, "name": "고효율 개조", "level": 1, "group_id": 0, "code": "function_skill_icon_113", 
     "description": "장비가 제공하는 장비 강화 수치 {0}% 상승 {1}", "arguments": 1, "max_level": 5, "is_show": 1, "type": 1, 
@@ -81,8 +81,8 @@
     "function_skill": "coalitiondrill_reward_up"
   }, {
     "id": 126, "name": "스킬 훈련 시간 단축", "level": 1, "group_id": 0, "code": "function_skill_icon_112", 
-    "description": "스킬 훈련(인형, 요정, 중장비, 혼합세력 포함) 소요 시간 {0}% 단축 {1}", "arguments": 1, "max_level": 10, "is_show": 0, "type": 2, 
-    "function_skill": "skill_time_reduce"
+    "description": "스킬 훈련(인형, 요정, 중장비, 혼합세력 포함) 소요 시간 {0}% 단축 {1}", "arguments": 1, "max_level": 10, 
+    "is_show": 0, "type": 2, "function_skill": "skill_time_reduce"
   }, {
     "id": 127, "name": "전지 회복량 상승", "level": 1, "group_id": 0, "code": "function_skill_icon_115", 
     "description": "전지 자연생성량 {0}% 상승 {1}", "arguments": 1, "max_level": 10, "is_show": 0, "type": 2, 
@@ -117,8 +117,8 @@
     "function_skill": "coalitiondrill_reward_up"
   }, {
     "id": 135, "name": "스킬 훈련 시간 단축", "level": 1, "group_id": 0, "code": "function_skill_icon_112", 
-    "description": "스킬 훈련(인형, 요정, 중장비, 혼합세력 포함) 소요 시간 {0}% 단축 {1}", "arguments": 2, "max_level": 10, "is_show": 0, "type": 2, 
-    "function_skill": "skill_time_reduce"
+    "description": "스킬 훈련(인형, 요정, 중장비, 혼합세력 포함) 소요 시간 {0}% 단축 {1}", "arguments": 2, "max_level": 10, 
+    "is_show": 0, "type": 2, "function_skill": "skill_time_reduce"
   }, {
     "id": 136, "name": "전지 회복량 상승", "level": 1, "group_id": 0, "code": "function_skill_icon_115", 
     "description": "전지 자연생성량 {0}% 상승 {1}", "arguments": 2, "max_level": 10, "is_show": 0, "type": 2, 

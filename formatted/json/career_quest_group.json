@@ -1,6 +1,7 @@
 [
   {
-    "id": 1, "type": 1, "sub_type": 0, "title": "작전능력", "sub_title": "career_quest_group-20000001", "function_control_id": 0
+    "id": 1, "type": 1, "sub_type": 0, "title": "작전능력", "sub_title": "career_quest_group-20000001", 
+    "function_control_id": 0
   }, 
   {"id": 2, "type": 1, "sub_type": 1, "title": "작전능력", "sub_title": "전술인형", "function_control_id": 0}, 
   {"id": 3, "type": 1, "sub_type": 2, "title": "작전능력", "sub_title": "인형장비", "function_control_id": 2}, 
@@ -8,7 +9,8 @@
   {"id": 5, "type": 1, "sub_type": 4, "title": "작전능력", "sub_title": "중장비 부대", "function_control_id": 15}, 
   {"id": 6, "type": 1, "sub_type": 5, "title": "작전능력", "sub_title": "혼합세력", "function_control_id": 21}, 
   {
-    "id": 7, "type": 2, "sub_type": 0, "title": "지휘경험", "sub_title": "career_quest_group-20000007", "function_control_id": 0
+    "id": 7, "type": 2, "sub_type": 0, "title": "지휘경험", "sub_title": "career_quest_group-20000007", 
+    "function_control_id": 0
   }, 
   {"id": 8, "type": 2, "sub_type": 1, "title": "지휘경험", "sub_title": "작전지휘", "function_control_id": 0}, 
   {"id": 9, "type": 2, "sub_type": 2, "title": "지휘경험", "sub_title": "보급능력", "function_control_id": 0}, 

@@ -1,57 +1,73 @@
 [
   {"id": 1, "type": "cumulative_login", "title": "누적 로그인", "content": "누적 {0}일 로그인", "function_control_id": 0}, 
   {
-    "id": 2, "type": "friend_praise", "title": "우정의 돛단배", "content": "이벤트 기간 동안 칭찬 {0}회 받기", "function_control_id": 0
+    "id": 2, "type": "friend_praise", "title": "우정의 돛단배", "content": "이벤트 기간 동안 칭찬 {0}회 받기", 
+    "function_control_id": 0
   }, {
-    "id": 3, "type": "consume_iop_contract", "title": "인형 제조", "content": "인형제조계약 {0}장 소모", "function_control_id": 0
+    "id": 3, "type": "consume_iop_contract", "title": "인형 제조", "content": "인형제조계약 {0}장 소모", 
+    "function_control_id": 0
   }, 
   {"id": 4, "type": "consume_coin1", "title": "훈련 자료", "content": "초급훈련자료 {0}개 소모", "function_control_id": 0}, 
   {"id": 5, "type": "consume_coin2", "title": "훈련 자료", "content": "중급훈련자료 {0}개 소모", "function_control_id": 0}, 
   {"id": 6, "type": "consume_coin3", "title": "훈련 자료", "content": "고급훈련자료 {0}개 소모", "function_control_id": 0}, 
   {
-    "id": 7, "type": "consume_fight_report", "title": "작전보고서", "content": "작전보고서 {0}개 소모", "function_control_id": 0
+    "id": 7, "type": "consume_fight_report", "title": "작전보고서", "content": "작전보고서 {0}개 소모", 
+    "function_control_id": 0
   }, 
   {"id": 8, "type": "develop_gun_rank4", "title": "혈통 인증", "content": "4성 인형 {0}기 제조", "function_control_id": 0}, 
   {"id": 9, "type": "develop_gun_rank5", "title": "혈통 인증", "content": "5성 인형 {0}기 제조", "function_control_id": 0}, 
   {"id": 10, "type": "get_build_coin", "title": "전지 수집", "content": "누적 전지 {0}개 획득", "function_control_id": 0}, 
   {
-    "id": 11, "type": "mission_win", "title": "전역승리", "content": "임의의 전역 {0}회 클리어(자율작전 제외)", "function_control_id": 0
+    "id": 11, "type": "mission_win", "title": "전역승리", "content": "임의의 전역 {0}회 클리어(자율작전 제외)", 
+    "function_control_id": 0
   }, 
   {"id": 12, "type": "upgrade", "title": "스킬 훈련", "content": "인형/요정 스킬 {0}회 훈련", "function_control_id": 0}, 
   {
-    "id": 13, "type": "borrow_friend_team", "title": "지원 제대", "content": "지원 제대 {0}회 배치", "function_control_id": 0
-  }, {
-    "id": 14, "type": "operation_duration", "title": "군수지원", "content": "군수지원 누적 {0}시간", "function_control_id": 0
-  }, {
-    "id": 15, "type": "collect_gun", "title": "인형 구조", "content": "임의의 전투 혹은 전역에서 인형 {0}기 구조(자율작전 제외)", 
+    "id": 13, "type": "borrow_friend_team", "title": "지원 제대", "content": "지원 제대 {0}회 배치", 
     "function_control_id": 0
   }, {
-    "id": 16, "type": "consume_furniture_coin", "title": "한정 구매", "content": "구매 토큰 {0}개 소모", "function_control_id": 0
+    "id": 14, "type": "operation_duration", "title": "군수지원", "content": "군수지원 누적 {0}시간", 
+    "function_control_id": 0
   }, {
-    "id": 17, "type": "fix_gun", "title": "수복 작업", "content": "인형 또는 혼합세력유닛을 {0}회 수복", "function_control_id": 0
+    "id": 15, "type": "collect_gun", "title": "인형 구조", 
+    "content": "임의의 전투 혹은 전역에서 인형 {0}기 구조(자율작전 제외)", "function_control_id": 0
   }, {
-    "id": 18, "type": "consume_bp", "title": "모의점수 소모(추가 점수 포함)", "content": "모의점수 {0}점 소모", "function_control_id": 0
+    "id": 16, "type": "consume_furniture_coin", "title": "한정 구매", "content": "구매 토큰 {0}개 소모", 
+    "function_control_id": 0
+  }, {
+    "id": 17, "type": "fix_gun", "title": "수복 작업", "content": "인형 또는 혼합세력유닛을 {0}회 수복", 
+    "function_control_id": 0
+  }, {
+    "id": 18, "type": "consume_bp", "title": "모의점수 소모(추가 점수 포함)", "content": "모의점수 {0}점 소모", 
+    "function_control_id": 0
   }, 
   {"id": 19, "type": "consume_voucher", "title": "교정권", "content": "교정권 {0}장 소모", "function_control_id": 0}, 
   {
-    "id": 20, "type": "upvote", "title": "칭찬의 사자", "content": "이벤트 기간동안 {0}회 칭찬하기", "function_control_id": 0
+    "id": 20, "type": "upvote", "title": "칭찬의 사자", "content": "이벤트 기간동안 {0}회 칭찬하기", 
+    "function_control_id": 0
   }, 
   {"id": 21, "type": "consume_ammo", "title": "탄약 소모", "content": "탄약 누적 {0} 소모", "function_control_id": 0}, 
   {
-    "id": 22, "type": "mission_common_win", "title": "일반 전역", "content": "일반 전역 {0}회 클리어", "function_control_id": 0
+    "id": 22, "type": "mission_common_win", "title": "일반 전역", "content": "일반 전역 {0}회 클리어", 
+    "function_control_id": 0
   }, {
-    "id": 23, "type": "mission_emergent_win", "title": "긴급 전역", "content": "긴급 전역 {0}회 클리어", "function_control_id": 0
+    "id": 23, "type": "mission_emergent_win", "title": "긴급 전역", "content": "긴급 전역 {0}회 클리어", 
+    "function_control_id": 0
   }, {
-    "id": 24, "type": "mission_night_win", "title": "야간 전역", "content": "야간 전역 {0}회 클리어", "function_control_id": 0
+    "id": 24, "type": "mission_night_win", "title": "야간 전역", "content": "야간 전역 {0}회 클리어", 
+    "function_control_id": 0
   }, 
   {"id": 25, "type": "s_win", "title": "S 승리 도전", "content": "S등급으로 전투 {0}회 승리", "function_control_id": 0}, 
   {"id": 26, "type": "operation", "title": "군수지원", "content": "군수지원 {0}회", "function_control_id": 0}, 
   {
-    "id": 27, "type": "mission_duplicate_type1", "title": "경험특훈", "content": "모의작전 - 경험특훈 {0}회", "function_control_id": 0
+    "id": 27, "type": "mission_duplicate_type1", "title": "경험특훈", "content": "모의작전 - 경험특훈 {0}회", 
+    "function_control_id": 0
   }, {
-    "id": 28, "type": "mission_duplicate_type2", "title": "강화연습", "content": "모의작전 - 강화연습 {0}회", "function_control_id": 0
+    "id": 28, "type": "mission_duplicate_type2", "title": "강화연습", "content": "모의작전 - 강화연습 {0}회", 
+    "function_control_id": 0
   }, {
-    "id": 29, "type": "mission_duplicate_type3", "title": "자료추출", "content": "모의작전 - 자료추출 {0}회", "function_control_id": 0
+    "id": 29, "type": "mission_duplicate_type3", "title": "자료추출", "content": "모의작전 - 자료추출 {0}회", 
+    "function_control_id": 0
   }, {
     "id": 30, "type": "gun_level_up_count", "title": "인형 육성", "content": "인형 레벨 업 {0}회", "function_control_id": 0
   }, 
@@ -61,9 +77,11 @@
   {"id": 34, "type": "develop_gun", "title": "인형 제조 횟수", "content": "인형 {0}회 제조", "function_control_id": 0}, 
   {"id": 35, "type": "develop_equip", "title": "장비 제조", "content": "일반 장비 제조 {0}회", "function_control_id": 0}, 
   {
-    "id": 36, "type": "develop_equip_rank4", "title": "혈통인증_장비", "content": "4성 장비 {0}개 제조", "function_control_id": 0
+    "id": 36, "type": "develop_equip_rank4", "title": "혈통인증_장비", "content": "4성 장비 {0}개 제조", 
+    "function_control_id": 0
   }, {
-    "id": 37, "type": "develop_equip_rank5", "title": "혈통인증_장비", "content": "5성 장비 {0}개 제조", "function_control_id": 0
+    "id": 37, "type": "develop_equip_rank5", "title": "혈통인증_장비", "content": "5성 장비 {0}개 제조", 
+    "function_control_id": 0
   }, 
   {"id": 38, "type": "consume_mp", "title": "인력 소모", "content": "인력 누적 {0} 소모", "function_control_id": 0}, 
   {"id": 39, "type": "consume_mre", "title": "식량 소모", "content": "식량 누적 {0} 소모", "function_control_id": 0}, 
@@ -71,38 +89,46 @@
   {"id": 41, "type": "buy_bp_count", "title": "체력 구매", "content": "체력 {0}회 구매", "function_control_id": 0}, 
   {"id": 42, "type": "consume_core", "title": "코어 소모", "content": "코어 {0}개 소모", "function_control_id": 0}, 
   {
-    "id": 43, "type": "consume_exchange_coin", "title": "교환권 소모", "content": "교환권 {0}장 소모", "function_control_id": 0
+    "id": 43, "type": "consume_exchange_coin", "title": "교환권 소모", "content": "교환권 {0}장 소모", 
+    "function_control_id": 0
   }, {
-    "id": 44, "type": "consume_skin_exchange", "title": "블랙 카드 소모", "content": "블랙 카드 {0}장 소모", "function_control_id": 0
+    "id": 44, "type": "consume_skin_exchange", "title": "블랙 카드 소모", "content": "블랙 카드 {0}장 소모", 
+    "function_control_id": 0
   }, 
   {"id": 45, "type": "open_gift", "title": "선물 주기", "content": "인형에게 {0}회 선물주기", "function_control_id": 0}, 
   {
-    "id": 46, "type": "gasha_count", "title": "구매 횟수", "content": "구매 {0}회(10연속 구매는 11회로 계산)", "function_control_id": 0
+    "id": 46, "type": "gasha_count", "title": "구매 횟수", "content": "구매 {0}회(10연속 구매는 11회로 계산)", 
+    "function_control_id": 0
   }, 
   {"id": 47, "type": "consume_capsule", "title": "증폭캡슐", "content": "증폭캡슐 {0}개 소모", "function_control_id": 0}, 
   {
-    "id": 48, "type": "consume_quick_training", "title": "쾌속훈련계약", "content": "쾌속훈련계약 {0}장 소모", "function_control_id": 0
+    "id": 48, "type": "consume_quick_training", "title": "쾌속훈련계약", "content": "쾌속훈련계약 {0}장 소모", 
+    "function_control_id": 0
   }, {
-    "id": 49, "type": "consume_quick_reinforce", "title": "쾌속수복계약", "content": "쾌속수복계약 {0}장 소모", "function_control_id": 0
+    "id": 49, "type": "consume_quick_reinforce", "title": "쾌속수복계약", "content": "쾌속수복계약 {0}장 소모", 
+    "function_control_id": 0
   }, 
   {"id": 50, "type": "consume_gem", "title": "보석 소모", "content": "보석 {0}개 소모", "function_control_id": 0}, 
   {
-    "id": 51, "type": "cumulative_recharge_amount", "title": "충전 액수", "content": "누적 {0}원 충전", "function_control_id": 0
+    "id": 51, "type": "cumulative_recharge_amount", "title": "충전 액수", "content": "누적 {0}원 충전", 
+    "function_control_id": 0
   }, {
     "id": 52, "type": "cumulative_recharge_days", "title": "누적 충전 일수", 
     "content": "누적 {0}일 충전（충전액 불문. 횟수와 상관 없이 충전 기록이 있는 날짜만 집계）", "function_control_id": 0
   }, 
   {"id": 53, "type": "special_develop_gun", "title": "중형제조", "content": "중형제조 {0}회", "function_control_id": 0}, 
   {
-    "id": 54, "type": "adjust_equip", "title": "장비교정", "content": "carnival_task_type-20000054", "function_control_id": 0
+    "id": 54, "type": "adjust_equip", "title": "장비교정", "content": "carnival_task_type-20000054", 
+    "function_control_id": 0
   }, {
-    "id": 55, "type": "trial_mission", "title": "방어훈련", "content": "모의작전-방어훈련 {0}회 완료", "function_control_id": 0
+    "id": 55, "type": "trial_mission", "title": "방어훈련", "content": "모의작전-방어훈련 {0}회 완료", 
+    "function_control_id": 0
   }, {
     "id": 56, "type": "win_hunter", "title": "carnival_task_type-10000056", "content": "철혈 BOSS 헌터 {0}회 처치", 
     "function_control_id": 0
   }, {
-    "id": 57, "type": "win_executioner", "title": "carnival_task_type-10000057", "content": "철혈 BOSS 익스큐서너 {0}회 처치", 
-    "function_control_id": 0
+    "id": 57, "type": "win_executioner", "title": "carnival_task_type-10000057", 
+    "content": "철혈 BOSS 익스큐서너 {0}회 처치", "function_control_id": 0
   }, {
     "id": 58, "type": "win_architect", "title": "carnival_task_type-10000058", "content": "철혈 BOSS 아키텍트 {0}회 처치", 
     "function_control_id": 0
@@ -110,25 +136,28 @@
     "id": 59, "type": "win_ouroboros", "title": "carnival_task_type-10000059", "content": "철혈 BOSS 우로보로스 {0}회 처치", 
     "function_control_id": 0
   }, {
-    "id": 60, "type": "get_friend_points", "title": "carnival_task_type-10000060", "content": "기간 동안 우정 포인트 {0}점 획득", 
-    "function_control_id": 0
+    "id": 60, "type": "get_friend_points", "title": "carnival_task_type-10000060", 
+    "content": "기간 동안 우정 포인트 {0}점 획득", "function_control_id": 0
   }, {
-    "id": 61, "type": "consume_friend_points", "title": "carnival_task_type-10000061", "content": "기간 동안 우정 포인트 {0}점 소모", 
-    "function_control_id": 0
+    "id": 61, "type": "consume_friend_points", "title": "carnival_task_type-10000061", 
+    "content": "기간 동안 우정 포인트 {0}점 소모", "function_control_id": 0
   }, {
-    "id": 62, "type": "consume_build_coin", "title": "carnival_task_type-10000062", "content": "기간 동안 건설 자료 {0} 소모", 
-    "function_control_id": 0
+    "id": 62, "type": "consume_build_coin", "title": "carnival_task_type-10000062", 
+    "content": "기간 동안 건설 자료 {0} 소모", "function_control_id": 0
   }, {
     "id": 63, "type": "win_jammer", "title": "수배령", "content": "철혈 BOSS 인트루더 {0}회 처치", "function_control_id": 0
   }, {
-    "id": 64, "type": "win_destroyer", "title": "수배령", "content": "철혈 BOSS 디스트로이어 {0}회 처치", "function_control_id": 0
+    "id": 64, "type": "win_destroyer", "title": "수배령", "content": "철혈 BOSS 디스트로이어 {0}회 처치", 
+    "function_control_id": 0
   }, {
-    "id": 65, "type": "win_alchemist", "title": "수배령", "content": "철혈 BOSS 알케미스트 {0}회 처치", "function_control_id": 0
+    "id": 65, "type": "win_alchemist", "title": "수배령", "content": "철혈 BOSS 알케미스트 {0}회 처치", 
+    "function_control_id": 0
   }, {
     "id": 66, "type": "consume_quick_develop", "title": "carnival_task_type-10000066", "content": "쾌속제조계약 {0}장 소모", 
     "function_control_id": 0
   }, {
-    "id": 67, "type": "operation_big_success", "title": "군수 대성공", "content": "군수지원 대성공 {0}회", "function_control_id": 0
+    "id": 67, "type": "operation_big_success", "title": "군수 대성공", "content": "군수지원 대성공 {0}회", 
+    "function_control_id": 0
   }, {
     "id": 68, "type": "mystery_mission_1", "title": "특수작전", "content": "도전 전역 \"테스트 전역 E\" {0}회 클리어", 
     "function_control_id": 0
@@ -163,8 +192,8 @@
     "id": 78, "type": "special_develop_equip", "title": "carnival_task_type-10000078", "content": "장비중형제조", 
     "function_control_id": 0
   }, {
-    "id": 79, "type": "mission_activities_win", "title": "carnival_task_type-10000079", "content": "일반 혹은 이벤트 전역 도전", 
-    "function_control_id": 0
+    "id": 79, "type": "mission_activities_win", "title": "carnival_task_type-10000079", 
+    "content": "일반 혹은 이벤트 전역 도전", "function_control_id": 0
   }, {
     "id": 80, "type": "mind_update", "title": "carnival_task_type-10000080", "content": "마인드맵 업그레이드 {0}회", 
     "function_control_id": 0
@@ -207,57 +236,71 @@
     "id": 93, "type": "squad_chip_rank5_by_analyse", "title": "혈통인증", "content": "정보 분석으로 5성 칩셋 {0}개 획득", 
     "function_control_id": 0
   }, {
-    "id": 94, "type": "squad_level_up_times", "title": "중장비 부대 육성", "content": "중장비 부대 레벨 {0} 상승", "function_control_id": 0
+    "id": 94, "type": "squad_level_up_times", "title": "중장비 부대 육성", "content": "중장비 부대 레벨 {0} 상승", 
+    "function_control_id": 0
   }, {
     "id": 95, "type": "squad_strengthen_times", "title": "증장비 부대 강화", "content": "증폭캡슐 {0}개로 중장비 부대 강화", 
     "function_control_id": 0
   }, {
-    "id": 96, "type": "squad_train_and_skill_times", "title": "중장비 부대 훈련", "content": "중장비 부대 {0}회 훈련(경험/스킬 양쪽 가능)", 
+    "id": 96, "type": "squad_train_and_skill_times", "title": "중장비 부대 훈련", 
+    "content": "중장비 부대 {0}회 훈련(경험/스킬 양쪽 가능)", "function_control_id": 0
+  }, {
+    "id": 97, "type": "squad_up_rank", "title": "중장비 부대 승진", "content": "중장비 부대 {0}회 승진", 
     "function_control_id": 0
   }, {
-    "id": 97, "type": "squad_up_rank", "title": "중장비 부대 승진", "content": "중장비 부대 {0}회 승진", "function_control_id": 0
+    "id": 98, "type": "squad_up_advanced_times", "title": "중장비 부대 버전 업", "content": "버전 업 {0}회", 
+    "function_control_id": 0
   }, {
-    "id": 98, "type": "squad_up_advanced_times", "title": "중장비 부대 버전 업", "content": "버전 업 {0}회", "function_control_id": 0
-  }, {
-    "id": 99, "type": "squad_eat_chip_num", "title": "칩셋 강화", "content": "칩셋 강화에 칩셋 {0}개 소모", "function_control_id": 0
+    "id": 99, "type": "squad_eat_chip_num", "title": "칩셋 강화", "content": "칩셋 강화에 칩셋 {0}개 소모", 
+    "function_control_id": 0
   }, 
   {"id": 100, "type": "combine_gun", "title": "편제확장", "content": "편제확장 {0}회", "function_control_id": 0}, 
   {
-    "id": 101, "type": "win_armorrobot", "title": "철혈장갑기계", "content": "철혈장갑기계 유닛 {0}기 처치", "function_control_id": 0
+    "id": 101, "type": "win_armorrobot", "title": "철혈장갑기계", "content": "철혈장갑기계 유닛 {0}기 처치", 
+    "function_control_id": 0
   }, {
-    "id": 102, "type": "win_robot", "title": "철혈일반기계", "content": "철혈일반기계 유닛 {0}기 처치", "function_control_id": 0
+    "id": 102, "type": "win_robot", "title": "철혈일반기계", "content": "철혈일반기계 유닛 {0}기 처치", 
+    "function_control_id": 0
   }, {
-    "id": 103, "type": "win_person", "title": "철혈일반인형", "content": "철혈일반인형 유닛 {0}기 처치", "function_control_id": 0
+    "id": 103, "type": "win_person", "title": "철혈일반인형", "content": "철혈일반인형 유닛 {0}기 처치", 
+    "function_control_id": 0
   }, 
   {"id": 104, "type": "win_boss", "title": "BOSS 처치", "content": "BOSS {0}기 처치", "function_control_id": 0}, 
   {
-    "id": 105, "type": "from_friend_build_coin", "title": "전지 수령", "content": "친구 숙소 전지 {0}회 받기", "function_control_id": 0
-  }, {
-    "id": 106, "type": "finish_squad_daily_task", "title": "정보임무 완수", "content": "정보임무 {0}회 달성", "function_control_id": 0
-  }, {
-    "id": 107, "type": "consume_quick_analyse", "title": "쾌속분석계약", "content": "쾌속분석계약 {0}장 소모", "function_control_id": 0
-  }, {
-    "id": 108, "type": "get_squad_fragment_type1", "title": "혈통인증_BGM-71", "content": "대전차무기 핵심 데이터 {0}개 획득", 
+    "id": 105, "type": "from_friend_build_coin", "title": "전지 수령", "content": "친구 숙소 전지 {0}회 받기", 
     "function_control_id": 0
+  }, {
+    "id": 106, "type": "finish_squad_daily_task", "title": "정보임무 완수", "content": "정보임무 {0}회 달성", 
+    "function_control_id": 0
+  }, {
+    "id": 107, "type": "consume_quick_analyse", "title": "쾌속분석계약", "content": "쾌속분석계약 {0}장 소모", 
+    "function_control_id": 0
+  }, {
+    "id": 108, "type": "get_squad_fragment_type1", "title": "혈통인증_BGM-71", 
+    "content": "대전차무기 핵심 데이터 {0}개 획득", "function_control_id": 0
   }, {
     "id": 109, "type": "get_squad_fragment_type2", "title": "혈통인증_2B14", "content": "박격포 핵심 데이터 {0}개 획득", 
     "function_control_id": 0
   }, {
-    "id": 110, "type": "get_squad_fragment_type3", "title": "혈통인증_AGS-30", "content": "유탄발사기 핵심 데이터 {0}개 획득", 
+    "id": 110, "type": "get_squad_fragment_type3", "title": "혈통인증_AGS-30", 
+    "content": "유탄발사기 핵심 데이터 {0}개 획득", "function_control_id": 0
+  }, {
+    "id": 111, "type": "get_base_data", "title": "원시 데이터 샘플", "content": "원시 데이터 샘플 {0}개 획득", 
     "function_control_id": 0
   }, {
-    "id": 111, "type": "get_base_data", "title": "원시 데이터 샘플", "content": "원시 데이터 샘플 {0}개 획득", "function_control_id": 0
-  }, {
-    "id": 112, "type": "get_senior_data", "title": "순정 데이터 샘플", "content": "순정 데이터 샘플 {0}개 획득", "function_control_id": 0
-  }, {
-    "id": 113, "type": "get_fight_report", "title": "작전보고서 작성", "content": "작전보고서 {0}개 작성(특수작전보고서도 포함)", 
+    "id": 112, "type": "get_senior_data", "title": "순정 데이터 샘플", "content": "순정 데이터 샘플 {0}개 획득", 
     "function_control_id": 0
+  }, {
+    "id": 113, "type": "get_fight_report", "title": "작전보고서 작성", 
+    "content": "작전보고서 {0}개 작성(특수작전보고서도 포함)", "function_control_id": 0
   }, 
   {"id": 114, "type": "explore_has_time", "title": "탐색 완료", "content": "탐색 {0}시간 완료", "function_control_id": 0}, 
   {
-    "id": 115, "type": "buy_commander_uniform", "title": "지휘관 의상 구매", "content": "지휘관 의상 {0}벌 구매", "function_control_id": 0
+    "id": 115, "type": "buy_commander_uniform", "title": "지휘관 의상 구매", "content": "지휘관 의상 {0}벌 구매", 
+    "function_control_id": 0
   }, {
-    "id": 116, "type": "get_commander_uniform", "title": "지휘관 의상 획득", "content": "지휘관 의상 {0}벌 획득", "function_control_id": 0
+    "id": 116, "type": "get_commander_uniform", "title": "지휘관 의상 획득", "content": "지휘관 의상 {0}벌 획득", 
+    "function_control_id": 0
   }, {
     "id": 117, "type": "buy_random_dye", "title": "랜덤염색약", "content": "랜덤염색약 {0}개 구매", "function_control_id": 0
   }, {
@@ -265,33 +308,40 @@
   }, 
   {"id": 119, "type": "use_dye", "title": "염색하기", "content": "염색약 {0}개 사용", "function_control_id": 0}, 
   {
-    "id": 120, "type": "sangvis_daily_retrieval", "title": "일반회수", "content": "통합작전 일반회수 {0}회 실행", "function_control_id": 0
+    "id": 120, "type": "sangvis_daily_retrieval", "title": "일반회수", "content": "통합작전 일반회수 {0}회 실행", 
+    "function_control_id": 0
   }, {
-    "id": 121, "type": "sangvis_aided_retrieval", "title": "협력회수", "content": "통합작전 협력회수 {0}회 실행", "function_control_id": 0
+    "id": 121, "type": "sangvis_aided_retrieval", "title": "협력회수", "content": "통합작전 협력회수 {0}회 실행", 
+    "function_control_id": 0
   }, {
-    "id": 122, "type": "sangvis_exercise", "title": "혼합훈련", "content": "모의전 혼합훈련 {0}회 실행", "function_control_id": 0
+    "id": 122, "type": "sangvis_exercise", "title": "혼합훈련", "content": "모의전 혼합훈련 {0}회 실행", 
+    "function_control_id": 0
   }, {
     "id": 123, "type": "sangvis_exercise_exp", "title": "방어구사특훈", "content": "모의전 혼합훈련-방어구사특훈 {0}회 실행", 
     "function_control_id": 0
   }, {
-    "id": 124, "type": "sangvis_exercise_star", "title": "개발조절훈련", "content": "모의전 혼합훈련-개발조절훈련 {0}회 실행", 
-    "function_control_id": 0
+    "id": 124, "type": "sangvis_exercise_star", "title": "개발조절훈련", 
+    "content": "모의전 혼합훈련-개발조절훈련 {0}회 실행", "function_control_id": 0
   }, {
-    "id": 125, "type": "sangvis_exercise_analysis", "title": "해석연산연습", "content": "모의전 혼합훈련-해석연산연습 {0}회 실행", 
-    "function_control_id": 0
+    "id": 125, "type": "sangvis_exercise_analysis", "title": "해석연산연습", 
+    "content": "모의전 혼합훈련-해석연산연습 {0}회 실행", "function_control_id": 0
   }, {
-    "id": 126, "type": "consume_sangvis_exp_item", "title": "급속성장", "content": "급속성장디스크 {0}개 소모", "function_control_id": 0
+    "id": 126, "type": "consume_sangvis_exp_item", "title": "급속성장", "content": "급속성장디스크 {0}개 소모", 
+    "function_control_id": 0
   }, {
     "id": 127, "type": "consume_sangvis_advance_item", "title": "이더넷 개발", "content": "개발 디스크 {0}개 소모", 
     "function_control_id": 0
   }, {
-    "id": 128, "type": "consume_sangvis_skill_coin1", "title": "훈련코드", "content": "초급훈련코드 {0}개 소모", "function_control_id": 0
-  }, {
-    "id": 129, "type": "consume_sangvis_skill_coin2", "title": "훈련코드", "content": "고급훈련코드 {0}개 소모", "function_control_id": 0
-  }, {
-    "id": 130, "type": "consume_sangvis_material1_coin", "title": "혼합점수(추가혼합점수 포함)", "content": "혼합점수 {0}점 소모", 
+    "id": 128, "type": "consume_sangvis_skill_coin1", "title": "훈련코드", "content": "초급훈련코드 {0}개 소모", 
     "function_control_id": 0
   }, {
-    "id": 131, "type": "special_develop_fairy", "title": "요정중형제조", "content": "요정중형제조 {0}회", "function_control_id": 1
+    "id": 129, "type": "consume_sangvis_skill_coin2", "title": "훈련코드", "content": "고급훈련코드 {0}개 소모", 
+    "function_control_id": 0
+  }, {
+    "id": 130, "type": "consume_sangvis_material1_coin", "title": "혼합점수(추가혼합점수 포함)", 
+    "content": "혼합점수 {0}점 소모", "function_control_id": 0
+  }, {
+    "id": 131, "type": "special_develop_fairy", "title": "요정중형제조", "content": "요정중형제조 {0}회", 
+    "function_control_id": 1
   }
 ]

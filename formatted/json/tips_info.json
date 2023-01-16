@@ -2,13 +2,15 @@
   {
     "id": "1", "title": "tips_TeamLabelDrag(Clone)", "regTarget": "Formation://Canvas", 
     "targetPath": "Formation://Canvas/Formation/Left/Scroller/Team/TeamLabelDrag(Clone)", 
-    "tipsManagePath": "Formation://Canvas/Top/TopBackground/TipsManage", "tipsID": "<color=#e57006>제대</color>를 골라 다양한 전투가능", 
-    "bg_path": "Tips/Tips_BG_Right", "tipPos": "222,0,0", "tipSize": "244,250"
+    "tipsManagePath": "Formation://Canvas/Top/TopBackground/TipsManage", 
+    "tipsID": "<color=#e57006>제대</color>를 골라 다양한 전투가능", "bg_path": "Tips/Tips_BG_Right", "tipPos": "222,0,0", 
+    "tipSize": "244,250"
   }, {
     "id": "2", "title": "tips_FormationCharacterLabel (1)", "regTarget": "Formation://Canvas", 
     "targetPath": "Formation://Canvas/Formation/Main/Labels/FormationCharacterLabel (1)", 
-    "tipsManagePath": "Formation://Canvas/Top/TopBackground/TipsManage", "tipsID": "인형을 눌러<color=#e57006>교체</color>가능", 
-    "bg_path": "Tips/Tips_BG_Left", "tipPos": "-229,0,0", "tipSize": "140,250"
+    "tipsManagePath": "Formation://Canvas/Top/TopBackground/TipsManage", 
+    "tipsID": "인형을 눌러<color=#e57006>교체</color>가능", "bg_path": "Tips/Tips_BG_Left", "tipPos": "-229,0,0", 
+    "tipSize": "140,250"
   }, {
     "id": "3", "title": "tips_ButtonFormation", "regTarget": "Formation://Canvas", 
     "targetPath": "Formation://Canvas/Formation/Main/Right/ButtonFormation", 
@@ -22,29 +24,30 @@
   }, {
     "id": "5", "title": "tips_CurrentRoom", "regTarget": "Dorm://Canvas/RoomSelect/DarkRoom", 
     "targetPath": "Dorm://Canvas/RoomSelect/DarkRoom", "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", 
-    "tipsID": "참신함이 느껴지는 <color=#e57006>각양각색의 방</color>", "bg_path": "Tips/Tips_BG_Bottom", "tipPos": "10.5,-153,0", 
-    "tipSize": "255,200"
+    "tipsID": "참신함이 느껴지는 <color=#e57006>각양각색의 방</color>", "bg_path": "Tips/Tips_BG_Bottom", 
+    "tipPos": "10.5,-153,0", "tipSize": "255,200"
   }, {
     "id": "6", "title": "Tip", "regTarget": "Dorm://Canvas", "targetPath": "Dorm://Canvas/Home/ChangeLayout", 
     "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", "tipsID": "인형의 <color=#e57006>코스튬</color>설정", 
     "bg_path": "Tips/Tips_BG_Bottom", "tipPos": "-45,-140,0", "tipSize": "250,200"
   }, {
     "id": "7", "title": "Tip", "regTarget": "Dorm://Canvas", "targetPath": "Dorm://Canvas/Home/Edit", 
-    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", "tipsID": "나만의 숙소 꾸미기", "bg_path": "Tips/Tips_BG_Bottom", 
-    "tipPos": "55,-140,0", "tipSize": "250,200"
+    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", "tipsID": "나만의 숙소 꾸미기", 
+    "bg_path": "Tips/Tips_BG_Bottom", "tipPos": "55,-140,0", "tipSize": "250,200"
   }, {
     "id": "8", "title": "Tip", "regTarget": "Dorm://Canvas", "targetPath": "Dorm://Canvas/Home/Visit", 
-    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", "tipsID": "다른 유저의 숙소를 방문", "bg_path": "Tips/Tips_BG_Top", 
-    "tipPos": "-1.525879E-05,160,0", "tipSize": "250,200"
+    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", "tipsID": "다른 유저의 숙소를 방문", 
+    "bg_path": "Tips/Tips_BG_Top", "tipPos": "-1.525879E-05,160,0", "tipSize": "250,200"
   }, {
     "id": "9", "title": "Tip", "regTarget": "Dorm://Canvas", "targetPath": "Dorm://Canvas/Home/Supply", 
-    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", "tipsID": "<color=#e57006>아이템을 구매</color>하여 숙소에 배치", 
-    "bg_path": "Tips/Tips_BG_Top", "tipPos": "0,160,0", "tipSize": "250,200"
+    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", 
+    "tipsID": "<color=#e57006>아이템을 구매</color>하여 숙소에 배치", "bg_path": "Tips/Tips_BG_Top", "tipPos": "0,160,0", 
+    "tipSize": "250,200"
   }, {
     "id": "10", "title": "Tip", "regTarget": "Dorm://Canvas", "targetPath": "Dorm://Canvas/Home/Boxes", 
     "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", 
-    "tipsID": "<color=#e57006>가구</color>와 <color=#e57006>선물</color>을 보관", "bg_path": "Tips/Tips_BG_Top", "tipPos": "0,160,0", 
-    "tipSize": "250,200"
+    "tipsID": "<color=#e57006>가구</color>와 <color=#e57006>선물</color>을 보관", "bg_path": "Tips/Tips_BG_Top", 
+    "tipPos": "0,160,0", "tipSize": "250,200"
   }, {
     "id": "11", "title": "Tip", "regTarget": "Deployment://Canvas/DeploymentUIController", 
     "targetPath": "Deployment://Canvas/DeploymentUIController/Top/Return", 
@@ -58,23 +61,27 @@
   }, {
     "id": "13", "title": "Tip", "regTarget": "Factory://Canvas/DevelopMain", 
     "targetPath": "Factory://Canvas/DevelopMain/MainFrame/Slots/FactorySlotUnlocked(Clone)/IOPInProgress", 
-    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "이곳에서 <color=#e57006>보통 인형</color> 제조 가능", 
-    "bg_path": "Tips/Tips_BG_Right", "tipPos": "471,0,0", "tipSize": "244,300"
+    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", 
+    "tipsID": "이곳에서 <color=#e57006>보통 인형</color> 제조 가능", "bg_path": "Tips/Tips_BG_Right", "tipPos": "471,0,0", 
+    "tipSize": "244,300"
   }, {
     "id": "14", "title": "Tip", "regTarget": "Factory://Canvas/CombineMain", 
     "targetPath": "Factory://Canvas/CombineMain/CombineMainItem", 
-    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "<color=#e57006>편제확대</color>가 필요한 인형을 올려둠", 
-    "bg_path": "Tips/Tips_BG_Right", "tipPos": "227,208,0", "tipSize": "244,300"
+    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", 
+    "tipsID": "<color=#e57006>편제확대</color>가 필요한 인형을 올려둠", "bg_path": "Tips/Tips_BG_Right", 
+    "tipPos": "227,208,0", "tipSize": "244,300"
   }, {
     "id": "15", "title": "Tip", "regTarget": "Factory://Canvas/DevelopMain", 
     "targetPath": "Factory://Canvas/DevelopMain/MainFrame/Slots/FactorySlotUnlocked(Clone)/16InProgress", 
-    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "이곳에서 <color=#e57006>고급 인형</color> 제조 가능", 
-    "bg_path": "Tips/Tips_BG_Bottom", "tipPos": "0,-154,0", "tipSize": "244,300"
+    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", 
+    "tipsID": "이곳에서 <color=#e57006>고급 인형</color> 제조 가능", "bg_path": "Tips/Tips_BG_Bottom", "tipPos": "0,-154,0", 
+    "tipSize": "244,300"
   }, {
     "id": "16", "title": "Tip", "regTarget": "Factory://Canvas", 
     "targetPath": "Factory://Canvas/FeedMain/FeedCharacterLabel", 
-    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "<color=#e57006>강화</color>가 필요한 인형을 올려둠", 
-    "bg_path": "Tips/Tips_BG_Right", "tipPos": "264,47,0", "tipSize": "244,300"
+    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", 
+    "tipsID": "<color=#e57006>강화</color>가 필요한 인형을 올려둠", "bg_path": "Tips/Tips_BG_Right", "tipPos": "264,47,0", 
+    "tipSize": "244,300"
   }, {
     "id": "17", "title": "Tip", "regTarget": "Factory://Canvas", 
     "targetPath": "Factory://Canvas/FeedMain/MainPanel/Panel/SmallEmptyItem", 
@@ -84,23 +91,26 @@
     "id": "18", "title": "Tip", "regTarget": "Factory://Canvas", 
     "targetPath": "Factory://Canvas/FeedMain/Capsule/NumberFrame", 
     "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", 
-    "tipsID": "<color=#e57006>증폭캡슐</color>이 있는 경우 이곳에서 추가 가능", "bg_path": "Tips/Tips_BG_Top", "tipPos": "0,169,0", 
-    "tipSize": "244,300"
+    "tipsID": "<color=#e57006>증폭캡슐</color>이 있는 경우 이곳에서 추가 가능", "bg_path": "Tips/Tips_BG_Top", 
+    "tipPos": "0,169,0", "tipSize": "244,300"
   }, {
     "id": "19", "title": "Tip", "regTarget": "Factory://Canvas/RetireMain", 
     "targetPath": "Factory://Canvas/RetireMain/MainPanel/Panel/SmallEmptyItem (1)", 
-    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "<color=#e57006>해체</color>를 진행하려면 여기를 선택", 
-    "bg_path": "Tips/Tips_BG_Bottom", "tipPos": "0,-197,0", "tipSize": "244,300"
+    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", 
+    "tipsID": "<color=#e57006>해체</color>를 진행하려면 여기를 선택", "bg_path": "Tips/Tips_BG_Bottom", "tipPos": "0,-197,0", 
+    "tipSize": "244,300"
   }, {
     "id": "20", "title": "Tip", "regTarget": "Factory://Canvas", 
     "targetPath": "Factory://Canvas/EqiupmentDevelopMain/MainFrame/Slots/FactorySlotUnlocked(Clone)/IOPInProgress", 
-    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "이곳에서 <color=#e57006>보통 장비</color> 제조 가능", 
-    "bg_path": "Tips/Tips_BG_Right", "tipPos": "461,0,0", "tipSize": "244,300"
+    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", 
+    "tipsID": "이곳에서 <color=#e57006>보통 장비</color> 제조 가능", "bg_path": "Tips/Tips_BG_Right", "tipPos": "461,0,0", 
+    "tipSize": "244,300"
   }, {
     "id": "21", "title": "Tip", "regTarget": "Factory://Canvas", 
     "targetPath": "Factory://Canvas/EqiupmentDevelopMain/MainFrame/Slots/FactorySlotUnlocked(Clone)/16InProgress", 
-    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "이곳에서 <color=#e57006>고급 장비</color> 제조 가능", 
-    "bg_path": "Tips/Tips_BG_Bottom", "tipPos": "0,-235,0", "tipSize": "244,300"
+    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", 
+    "tipsID": "이곳에서 <color=#e57006>고급 장비</color> 제조 가능", "bg_path": "Tips/Tips_BG_Bottom", "tipPos": "0,-235,0", 
+    "tipSize": "244,300"
   }, {
     "id": "22", "title": "Tip", 
     "regTarget": "Research://Canvas/Main/SkillTrainingMain/SkillTrainingController/ScrollRect/Items/ResearchBar(Clone)", 
@@ -160,23 +170,28 @@
   }, {
     "id": "33", "title": "Tip", "regTarget": "MissionSelection://Canvas", 
     "targetPath": "MissionSelection://Canvas/SecondaryMenu/ToggleGroup/CombatSelection", 
-    "tipsManagePath": "MissionSelection://Canvas/Top/TopBackground/TipsManage", "tipsID": "<color=#e57006>임무종별</color> 선택", 
-    "bg_path": "Tips/Tips_BG_Bottom", "tipPos": "0,-129,0", "tipSize": "244,200"
+    "tipsManagePath": "MissionSelection://Canvas/Top/TopBackground/TipsManage", 
+    "tipsID": "<color=#e57006>임무종별</color> 선택", "bg_path": "Tips/Tips_BG_Bottom", "tipPos": "0,-129,0", 
+    "tipSize": "244,200"
   }, {
     "id": "34", "title": "Tip", "regTarget": "MissionSelection://Canvas", 
     "targetPath": "MissionSelection://Canvas/Sub/Campaign/ToggleGroup/CampaignLabel(Clone)", 
-    "tipsManagePath": "MissionSelection://Canvas/Top/TopBackground/TipsManage", "tipsID": "<color=#e57006>전투구역</color> 선택", 
-    "bg_path": "Tips/Tips_BG_Right", "tipPos": "225,0,0", "tipSize": "180,250"
+    "tipsManagePath": "MissionSelection://Canvas/Top/TopBackground/TipsManage", 
+    "tipsID": "<color=#e57006>전투구역</color> 선택", "bg_path": "Tips/Tips_BG_Right", "tipPos": "225,0,0", 
+    "tipSize": "180,250"
   }, {
     "id": "35", "title": "Tip", "regTarget": "MissionSelection://Canvas/Combat", 
     "targetPath": "MissionSelection://Canvas/Combat/Introduce/Background", 
-    "tipsManagePath": "MissionSelection://Canvas/Top/TopBackground/TipsManage", "tipsID": "<color=#e57006>전역종류</color> 선택", 
-    "bg_path": "Tips/Tips_BG_Bottom", "tipPos": "708,-166,0", "tipSize": "244,200"
+    "tipsManagePath": "MissionSelection://Canvas/Top/TopBackground/TipsManage", 
+    "tipsID": "<color=#e57006>전역종류</color> 선택", "bg_path": "Tips/Tips_BG_Bottom", "tipPos": "708,-166,0", 
+    "tipSize": "244,200"
   }, {
-    "id": "36", "title": "tips_战斗力按钮", "regTarget": "Formation://Canvas/Formation/Main/Labels/FormationCharacterLabel (1)", 
+    "id": "36", "title": "tips_战斗力按钮", 
+    "regTarget": "Formation://Canvas/Formation/Main/Labels/FormationCharacterLabel (1)", 
     "targetPath": "Formation://Canvas/Formation/Main/Labels/FormationCharacterLabel (1)/CharacterLabel/Normal/战斗力按钮", 
-    "tipsManagePath": "Formation://Canvas/Top/TopBackground/TipsManage", "tipsID": "인형의 <color=#e57006>상세정보</color> 보기", 
-    "bg_path": "Tips/Tips_BG_Top", "tipPos": "0,151,0", "tipSize": "244,180"
+    "tipsManagePath": "Formation://Canvas/Top/TopBackground/TipsManage", 
+    "tipsID": "인형의 <color=#e57006>상세정보</color> 보기", "bg_path": "Tips/Tips_BG_Top", "tipPos": "0,151,0", 
+    "tipSize": "244,180"
   }, {
     "id": "37", "title": "Tip", "regTarget": "Research://Canvas/Main/MindUpdate(Clone)", 
     "targetPath": "Research://Canvas/Main/MindUpdate(Clone)/Left/CommonCharacterLabel/Empty", 
@@ -201,8 +216,9 @@
     "id": "41", "title": "Tip", 
     "regTarget": "Dorm://Canvas/SquadFormation(Clone)/Formation/Left/SquadPageNode/SquadPage(Clone)", 
     "targetPath": "Dorm://Canvas/SquadFormation(Clone)/Formation/Left/SquadPageNode/SquadPage(Clone)/Is_Open", 
-    "tipsManagePath": "Dorm://Canvas/SquadFormation(Clone)/Top/TipsHolder/TipsManage", "tipsID": "눌러 중장비 부대의 세부정보 확인", 
-    "bg_path": "Tips/Tips_BG_Bottom", "tipPos": "601,-109,0", "tipSize": "250,200"
+    "tipsManagePath": "Dorm://Canvas/SquadFormation(Clone)/Top/TipsHolder/TipsManage", 
+    "tipsID": "눌러 중장비 부대의 세부정보 확인", "bg_path": "Tips/Tips_BG_Bottom", "tipPos": "601,-109,0", 
+    "tipSize": "250,200"
   }, {
     "id": "42", "title": "Tip", "regTarget": "Dorm://Canvas/SquadFormation(Clone)", 
     "targetPath": "Dorm://Canvas/SquadFormation(Clone)/Formation/Left/SquadPageNode/SquadPage(Clone)", 
@@ -212,40 +228,45 @@
   }, {
     "id": "43", "title": "tips_UI_AddButton", "regTarget": "Dorm://Canvas/DataAnalysisNode(Clone)", 
     "targetPath": "Dorm://Canvas/DataAnalysisNode(Clone)/Upper/Image_TitleBG", 
-    "tipsManagePath": "Dorm://Canvas/DataAnalysisNode(Clone)/TipsManage", "tipsID": "<color=#e57006>분석기</color> 시설레벨 상승", 
-    "bg_path": "Tips/Tips_BG_Right", "tipPos": "412.8,-2,0", "tipSize": "160,250"
+    "tipsManagePath": "Dorm://Canvas/DataAnalysisNode(Clone)/TipsManage", 
+    "tipsID": "<color=#e57006>분석기</color> 시설레벨 상승", "bg_path": "Tips/Tips_BG_Right", "tipPos": "412.8,-2,0", 
+    "tipSize": "160,250"
   }, {
     "id": "44", "title": "Tip", "regTarget": "Dorm://Canvas/DataAnalysisNode(Clone)", 
     "targetPath": "Dorm://Canvas/DataAnalysisNode(Clone)/Center/ScrollViewRect/Grid/SquadAnalysisSlot(Clone)", 
     "tipsManagePath": "Dorm://Canvas/DataAnalysisNode(Clone)/TipsManage", 
-    "tipsID": "<color=#e57006>정보분석</color>으로 칩셋 및 중장비 부대의 핵심 데이터 획득", "bg_path": "Tips/Tips_BG_Bottom", "tipPos": "7,-93,0", 
-    "tipSize": "300,250"
+    "tipsID": "<color=#e57006>정보분석</color>으로 칩셋 및 중장비 부대의 핵심 데이터 획득", "bg_path": "Tips/Tips_BG_Bottom", 
+    "tipPos": "7,-93,0", "tipSize": "300,250"
   }, {
     "id": "45", "title": "tips_ScrollViewRect", 
     "regTarget": "Dorm://Canvas/DataAnalysisNode(Clone)/Lower/ScrollViewRect/Grid/SquadAnalysisLabel(Clone)", 
     "targetPath": "Dorm://Canvas/DataAnalysisNode(Clone)/Lower/ScrollViewRect/Grid/SquadAnalysisLabel(Clone)", 
-    "tipsManagePath": "Dorm://Canvas/DataAnalysisNode(Clone)/TipsManage", "tipsID": "중장비 부대의 <color=#e57006>개방수준</color> 보기", 
-    "bg_path": "Tips/Tips_BG_Bottom", "tipPos": "26,-110.2,0", "tipSize": "250,200"
+    "tipsManagePath": "Dorm://Canvas/DataAnalysisNode(Clone)/TipsManage", 
+    "tipsID": "중장비 부대의 <color=#e57006>개방수준</color> 보기", "bg_path": "Tips/Tips_BG_Bottom", 
+    "tipPos": "26,-110.2,0", "tipSize": "250,200"
   }, {
     "id": "46", "title": "tips_UI_Button_Depot", "regTarget": "Dorm://Canvas/DataAnalysisNode(Clone)", 
     "targetPath": "Dorm://Canvas/DataAnalysisNode(Clone)/Lower", 
-    "tipsManagePath": "Dorm://Canvas/DataAnalysisNode(Clone)/TipsManage", "tipsID": "보유한 <color=#e57006>칩셋</color> 보기", 
-    "bg_path": "Tips/Tips_BG_Left", "tipPos": "590.1,80.7,0", "tipSize": "200,250"
+    "tipsManagePath": "Dorm://Canvas/DataAnalysisNode(Clone)/TipsManage", 
+    "tipsID": "보유한 <color=#e57006>칩셋</color> 보기", "bg_path": "Tips/Tips_BG_Left", "tipPos": "590.1,80.7,0", 
+    "tipSize": "200,250"
   }, {
     "id": "47", "title": "Tip", "regTarget": "Dorm://Canvas", 
     "targetPath": "Dorm://Canvas/HomePlus/SubRooms/Room_5/Button_Analysis", 
-    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", "tipsID": "<color=#e57006>데이터 샘플</color>로 중장비 부대 개방", 
-    "bg_path": "Tips/Tips_BG_Top", "tipPos": "-190,214.45,0", "tipSize": "330,220"
+    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", 
+    "tipsID": "<color=#e57006>데이터 샘플</color>로 중장비 부대 개방", "bg_path": "Tips/Tips_BG_Top", 
+    "tipPos": "-190,214.45,0", "tipSize": "330,220"
   }, {
     "id": "48", "title": "Tip", "regTarget": "Dorm://Canvas", 
     "targetPath": "Dorm://Canvas/HomePlus/SubRooms/Room_5/Button_Daily", 
-    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", "tipsID": "연구임무를 달성해 <color=#e57006>데이터 샘플 획득</color>", 
-    "bg_path": "Tips/Tips_BG_Top", "tipPos": "-190,212.45,0", "tipSize": "330,220"
+    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", 
+    "tipsID": "연구임무를 달성해 <color=#e57006>데이터 샘플 획득</color>", "bg_path": "Tips/Tips_BG_Top", 
+    "tipPos": "-190,212.45,0", "tipSize": "330,220"
   }, {
     "id": "49", "title": "Tip", "regTarget": "Dorm://Canvas", 
     "targetPath": "Dorm://Canvas/HomePlus/SubRooms/Room_6/Button_SquadList", 
-    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", "tipsID": "보유한 중장비 부대 보기", "bg_path": "Tips/Tips_BG_Top", 
-    "tipPos": "-190,195.95,0", "tipSize": "250,200"
+    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", "tipsID": "보유한 중장비 부대 보기", 
+    "bg_path": "Tips/Tips_BG_Top", "tipPos": "-190,195.95,0", "tipSize": "250,200"
   }, {
     "id": "50", "title": "Tip", "regTarget": "Dorm://Canvas", 
     "targetPath": "Dorm://Canvas/HomePlus/SubRooms/Room_6/ButtomNode/Button_ChipList", 
@@ -254,8 +275,9 @@
   }, {
     "id": "51", "title": "Tip", "regTarget": "Dorm://Canvas", 
     "targetPath": "Dorm://Canvas/HomePlus/SubRooms/Room_6/ButtomNode/Button_Confidentiality", 
-    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", "tipsID": "보유한 <color=#e57006>핵심 데이터</color> 보기 혹은 해체", 
-    "bg_path": "Tips/Tips_BG_Right", "tipPos": "154.5,92.5,0", "tipSize": "180,330"
+    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", 
+    "tipsID": "보유한 <color=#e57006>핵심 데이터</color> 보기 혹은 해체", "bg_path": "Tips/Tips_BG_Right", 
+    "tipPos": "154.5,92.5,0", "tipSize": "180,330"
   }, {
     "id": "52", "title": "Tip", "regTarget": "Dorm://Canvas/SquadSkillExpTraining(Clone)", 
     "targetPath": "Dorm://Canvas/SquadSkillExpTraining(Clone)/Main/Title/Btn_EXPTraining", 
@@ -265,13 +287,14 @@
     "id": "53", "title": "Tip", "regTarget": "Dorm://Canvas/SquadSkillExpTraining(Clone)/Main/Nodes/ChooseEXP", 
     "targetPath": "Dorm://Canvas/SquadSkillExpTraining(Clone)/Main/Nodes/ChooseEXP/TimeInfo/Image_BGNode", 
     "tipsManagePath": "Dorm://Canvas/SquadSkillExpTraining(Clone)/Main/Title/Btn_EXPTraining/TipsManage", 
-    "tipsID": "<color=#e57006>훈련시간</color> 선택", "bg_path": "Tips/Tips_BG_Right", "tipPos": "818,0,0", "tipSize": "200,350"
+    "tipsID": "<color=#e57006>훈련시간</color> 선택", "bg_path": "Tips/Tips_BG_Right", "tipPos": "818,0,0", 
+    "tipSize": "200,350"
   }, {
     "id": "54", "title": "Tip", "regTarget": "Dorm://Canvas/SquadSkillExpTraining(Clone)/Main/Nodes/ChooseEXP", 
     "targetPath": "Dorm://Canvas/SquadSkillExpTraining(Clone)/Main/Nodes/ChooseEXP/GainExpInfo", 
     "tipsManagePath": "Dorm://Canvas/SquadSkillExpTraining(Clone)/Main/Title/Btn_EXPTraining/TipsManage", 
-    "tipsID": "훈련에는 <color=#e57006>특수작전보고서</color>와<color=#e57006>전지</color>가 필요", "bg_path": "Tips/Tips_BG_Right", 
-    "tipPos": "824,0,0", "tipSize": "200,350"
+    "tipsID": "훈련에는 <color=#e57006>특수작전보고서</color>와<color=#e57006>전지</color>가 필요", 
+    "bg_path": "Tips/Tips_BG_Right", "tipPos": "824,0,0", "tipSize": "200,350"
   }, {
     "id": "55", "title": "Tip", "regTarget": "Formation://Canvas/SquadSkillExpTraining(Clone)", 
     "targetPath": "Formation://Canvas/SquadSkillExpTraining(Clone)/Main/Title/Btn_EXPTraining", 
@@ -281,13 +304,14 @@
     "id": "56", "title": "Tip", "regTarget": "Formation://Canvas/SquadSkillExpTraining(Clone)/Main/Nodes/ChooseEXP", 
     "targetPath": "Formation://Canvas/SquadSkillExpTraining(Clone)/Main/Nodes/ChooseEXP/TimeInfo/Image_BGNode", 
     "tipsManagePath": "Formation://Canvas/SquadSkillExpTraining(Clone)/Main/Title/Btn_EXPTraining/TipsManage", 
-    "tipsID": "<color=#e57006>훈련시간</color> 선택", "bg_path": "Tips/Tips_BG_Right", "tipPos": "818,0,0", "tipSize": "200,350"
+    "tipsID": "<color=#e57006>훈련시간</color> 선택", "bg_path": "Tips/Tips_BG_Right", "tipPos": "818,0,0", 
+    "tipSize": "200,350"
   }, {
     "id": "57", "title": "Tip", "regTarget": "Formation://Canvas/SquadSkillExpTraining(Clone)/Main/Nodes/ChooseEXP", 
     "targetPath": "Formation://Canvas/SquadSkillExpTraining(Clone)/Main/Nodes/ChooseEXP/GainExpInfo", 
     "tipsManagePath": "Formation://Canvas/SquadSkillExpTraining(Clone)/Main/Title/Btn_EXPTraining/TipsManage", 
-    "tipsID": "훈련에는 <color=#e57006>특수작전보고서</color>와<color=#e57006>전지</color>가 필요", "bg_path": "Tips/Tips_BG_Right", 
-    "tipPos": "824,0,0", "tipSize": "200,350"
+    "tipsID": "훈련에는 <color=#e57006>특수작전보고서</color>와<color=#e57006>전지</color>가 필요", 
+    "bg_path": "Tips/Tips_BG_Right", "tipPos": "824,0,0", "tipSize": "200,350"
   }, {
     "id": "58", "title": "tips_UI_Button_Confirm", "regTarget": "Dorm://Canvas/SquadTranscribeList(Clone)", 
     "targetPath": "Dorm://Canvas/SquadTranscribeList(Clone)/Right/ChipDismantling/ButtomNode", 
@@ -324,8 +348,9 @@
   }, {
     "id": "63", "title": "Tips_Formation_Squad", "regTarget": "Formation://Canvas", 
     "targetPath": "Formation://Canvas/Top/ToggleNode/Btn_Squad", 
-    "tipsManagePath": "Formation://Canvas/Top/TopBackground/TipsManage", "tipsID": "<color=#e57006>중장비 부대</color> 목록 보기", 
-    "bg_path": "Tips/Tips_BG_Default", "tipPos": "0,-123,0", "tipSize": "250,200"
+    "tipsManagePath": "Formation://Canvas/Top/TopBackground/TipsManage", 
+    "tipsID": "<color=#e57006>중장비 부대</color> 목록 보기", "bg_path": "Tips/Tips_BG_Default", "tipPos": "0,-123,0", 
+    "tipSize": "250,200"
   }, {
     "id": "64", "title": "Tips_Formation_Fairy", "regTarget": "Formation://Canvas/Formation/Main/Right/FairyFormation", 
     "targetPath": "Formation://Canvas/Formation/Main/Right/FairyFormation/UI_Button_Select", 
@@ -341,8 +366,8 @@
   }, {
     "id": "66", "title": "Tips_Formation_Equipmentswitch_02", "regTarget": "Formation://Canvas", 
     "targetPath": "Formation://Canvas/Formation/Main/Right/Eqiupmentswitch (1)/ON", 
-    "tipsManagePath": "Formation://Canvas/Formation/Main/Right/Eqiupmentswitch (1)/ON/TipsManage", "tipsID": "장비 목록 닫기", 
-    "bg_path": "Tips/Tips_BG_Top", "tipPos": "0,125.35,0", "tipSize": "200,200"
+    "tipsManagePath": "Formation://Canvas/Formation/Main/Right/Eqiupmentswitch (1)/ON/TipsManage", 
+    "tipsID": "장비 목록 닫기", "bg_path": "Tips/Tips_BG_Top", "tipPos": "0,125.35,0", "tipSize": "200,200"
   }, {
     "id": "67", "title": "Tips_Formation_Remove_01", "regTarget": "Formation://Canvas/CharacterList", 
     "targetPath": "Formation://Canvas/CharacterList/Items/CharacterListLabelEmpty(Clone)", 
@@ -417,8 +442,8 @@
     "id": "81", "title": "Tips_Factory_Recommend", "regTarget": "Factory://Canvas/SetResource", 
     "targetPath": "Factory://Canvas/SetResource/Background/建造日志", 
     "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", 
-    "tipsID": "<color=#e57006>추천공식</color>, 다른 지휘관의 <color=#e57006>제조공식</color> 보기", "bg_path": "Tips/Tips_BG_Top", 
-    "tipPos": "6.5,127.2,0", "tipSize": "300,200"
+    "tipsID": "<color=#e57006>추천공식</color>, 다른 지휘관의 <color=#e57006>제조공식</color> 보기", 
+    "bg_path": "Tips/Tips_BG_Top", "tipPos": "6.5,127.2,0", "tipSize": "300,200"
   }, {
     "id": "82", "title": "Tips_Factory_Recommend_02", "regTarget": "Factory://Canvas/SetResource", 
     "targetPath": "Factory://Canvas/SetResource/Background/BatchDevelop", 
@@ -427,18 +452,21 @@
   }, {
     "id": "83", "title": "Tips_Factory_Manpower", "regTarget": "Factory://Canvas/SetResource", 
     "targetPath": "Factory://Canvas/SetResource/Background/NormalPanel/按钮儿/人力", 
-    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "제조에 투입할 <color=#e57006>자원량</color> 선택", 
-    "bg_path": "Tips/Tips_BG_Top", "tipPos": "-245,425,0", "tipSize": "240,220"
+    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", 
+    "tipsID": "제조에 투입할 <color=#e57006>자원량</color> 선택", "bg_path": "Tips/Tips_BG_Top", "tipPos": "-245,425,0", 
+    "tipSize": "240,220"
   }, {
     "id": "84", "title": "Tips_Factory_Manpower_02", "regTarget": "Factory://Canvas/SetResource", 
     "targetPath": "Factory://Canvas/SetResource/Background/SpecialPanel/四项资源/人力", 
-    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "제조에 투입할 <color=#e57006>자원량</color> 선택", 
-    "bg_path": "Tips/Tips_BG_Top", "tipPos": "-96,220.5,0", "tipSize": "240,220"
+    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", 
+    "tipsID": "제조에 투입할 <color=#e57006>자원량</color> 선택", "bg_path": "Tips/Tips_BG_Top", "tipPos": "-96,220.5,0", 
+    "tipSize": "240,220"
   }, {
     "id": "85", "title": "Tips_Factory_Extra_02", "regTarget": "Factory://Canvas/SetResource", 
     "targetPath": "Factory://Canvas/SetResource/Background/SpecialPanel/附加资源", 
-    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "투입할 <color=#e57006>코어와 계약 수량</color> 선택", 
-    "bg_path": "Tips/Tips_BG_Top", "tipPos": "480,-220,0", "tipSize": "240,220"
+    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", 
+    "tipsID": "투입할 <color=#e57006>코어와 계약 수량</color> 선택", "bg_path": "Tips/Tips_BG_Top", "tipPos": "480,-220,0", 
+    "tipSize": "240,220"
   }, {
     "id": "86", "title": "Tips_Factory_Character", "regTarget": "Factory://Canvas/CharacterList", 
     "targetPath": "Factory://Canvas/CharacterList/Items/CharacterListLabelHolder(Clone)", 
@@ -452,18 +480,18 @@
   }, {
     "id": "88", "title": "Tips_Factory_Order", "regTarget": "Factory://Canvas/CharacterList", 
     "targetPath": "Factory://Canvas/CharacterList/Left/Background/ButtonOrder", 
-    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "정렬방식\n선택", "bg_path": "Tips/Tips_BG_Left", 
-    "tipPos": "-218,0,0", "tipSize": "130,220"
+    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "정렬방식\n선택", 
+    "bg_path": "Tips/Tips_BG_Left", "tipPos": "-218,0,0", "tipSize": "130,220"
   }, {
     "id": "89", "title": "Tips_Factory_Fliter", "regTarget": "Factory://Canvas/CharacterList", 
     "targetPath": "Factory://Canvas/CharacterList/Left/Background/ButtonTypeFliter", 
-    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "필터방식\n선택", "bg_path": "Tips/Tips_BG_Left", 
-    "tipPos": "-218,0,0", "tipSize": "130,220"
+    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "필터방식\n선택", 
+    "bg_path": "Tips/Tips_BG_Left", "tipPos": "-218,0,0", "tipSize": "130,220"
   }, {
     "id": "90", "title": "Tips_Factory_Lock", "regTarget": "Factory://Canvas/CharacterList", 
     "targetPath": "Factory://Canvas/CharacterList/Left/Background/ButtonLock", 
-    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "잠금 모드\n켜기", "bg_path": "Tips/Tips_BG_Left", 
-    "tipPos": "-218,0,0", "tipSize": "130,220"
+    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "잠금 모드\n켜기", 
+    "bg_path": "Tips/Tips_BG_Left", "tipPos": "-218,0,0", "tipSize": "130,220"
   }, {
     "id": "91", "title": "Tips_Factory_Remove_02", "regTarget": "Factory://Canvas/EquipmentList", 
     "targetPath": "Factory://Canvas/EquipmentList/Items/EquipmentListLabelEmpty(Clone)", 
@@ -477,18 +505,18 @@
   }, {
     "id": "93", "title": "Tips_Factory_Order_02", "regTarget": "Factory://Canvas/EquipmentList", 
     "targetPath": "Factory://Canvas/EquipmentList/Right/Background/VerticalGrid/ButtonOrder", 
-    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "정렬방식\n선택", "bg_path": "Tips/Tips_BG_Left", 
-    "tipPos": "-218,0,0", "tipSize": "130,220"
+    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "정렬방식\n선택", 
+    "bg_path": "Tips/Tips_BG_Left", "tipPos": "-218,0,0", "tipSize": "130,220"
   }, {
     "id": "94", "title": "Tips_Factory_Fliter_02", "regTarget": "Factory://Canvas/EquipmentList", 
     "targetPath": "Factory://Canvas/EquipmentList/Right/Background/VerticalGrid/ButtonTypeFliter", 
-    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "필터방식\n선택", "bg_path": "Tips/Tips_BG_Left", 
-    "tipPos": "-218,0,0", "tipSize": "130,220"
+    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "필터방식\n선택", 
+    "bg_path": "Tips/Tips_BG_Left", "tipPos": "-218,0,0", "tipSize": "130,220"
   }, {
     "id": "95", "title": "Tips_Factory_Lock_02", "regTarget": "Factory://Canvas/EquipmentList", 
     "targetPath": "Factory://Canvas/EquipmentList/Right/Background/VerticalGrid/ButtonLock", 
-    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "잠금 모드\n켜기", "bg_path": "Tips/Tips_BG_Left", 
-    "tipPos": "-218,0,0", "tipSize": "130,220"
+    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "잠금 모드\n켜기", 
+    "bg_path": "Tips/Tips_BG_Left", "tipPos": "-218,0,0", "tipSize": "130,220"
   }, {
     "id": "96", "title": "Tips_Factory_Remove_03", "regTarget": "Factory://Canvas/FairyList(Clone)", 
     "targetPath": "Factory://Canvas/FairyList(Clone)/Items/Holder/FairyListLabel(Clone)/Normal", 
@@ -497,18 +525,18 @@
   }, {
     "id": "97", "title": "Tips_Factory_Order_03", "regTarget": "Factory://Canvas/FairyList(Clone)", 
     "targetPath": "Factory://Canvas/FairyList(Clone)/Left/Background/ButtonOrder", 
-    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "정렬방식\n선택", "bg_path": "Tips/Tips_BG_Left", 
-    "tipPos": "-218,0,0", "tipSize": "130,220"
+    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "정렬방식\n선택", 
+    "bg_path": "Tips/Tips_BG_Left", "tipPos": "-218,0,0", "tipSize": "130,220"
   }, {
     "id": "98", "title": "Tips_Factory_Fliter_03", "regTarget": "Factory://Canvas/FairyList(Clone)", 
     "targetPath": "Factory://Canvas/FairyList(Clone)/Left/Background/ButtonTypeFliter", 
-    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "필터방식\n선택", "bg_path": "Tips/Tips_BG_Left", 
-    "tipPos": "-218,0,0", "tipSize": "130,220"
+    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "필터방식\n선택", 
+    "bg_path": "Tips/Tips_BG_Left", "tipPos": "-218,0,0", "tipSize": "130,220"
   }, {
     "id": "99", "title": "Tips_Factory_Lock_03", "regTarget": "Factory://Canvas/FairyList(Clone)", 
     "targetPath": "Factory://Canvas/FairyList(Clone)/Left/Background/ButtonLock", 
-    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "잠금 모드\n켜기", "bg_path": "Tips/Tips_BG_Left", 
-    "tipPos": "-218,0,0", "tipSize": "130,220"
+    "tipsManagePath": "Factory://Canvas/Top/TopBackground/TipsManage", "tipsID": "잠금 모드\n켜기", 
+    "bg_path": "Tips/Tips_BG_Left", "tipPos": "-218,0,0", "tipSize": "130,220"
   }, {
     "id": "100", "title": "Tips_Factory_Equipment_02", "regTarget": "Factory://Canvas/CharacterList", 
     "targetPath": "Factory://Canvas/EquipmentList/Right/Background/IntelligentConfirm", 
@@ -517,13 +545,14 @@
   }, {
     "id": "101", "title": "Tips_Dorm_Battery", "regTarget": "Dorm://Canvas/InteractionArea/BatteryPanel(Clone)", 
     "targetPath": "Dorm://Canvas/InteractionArea/BatteryPanel(Clone)", 
-    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", "tipsID": "점심 또는 저녁에 컨덴서의 <color=#e57006>전지</color> 수령", 
-    "bg_path": "Tips/Tips_BG_Right", "tipPos": "22,-135,0", "tipSize": "160,250"
+    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", 
+    "tipsID": "점심 또는 저녁에 컨덴서의 <color=#e57006>전지</color> 수령", "bg_path": "Tips/Tips_BG_Right", 
+    "tipPos": "22,-135,0", "tipSize": "160,250"
   }, {
     "id": "102", "title": "Tips_Dorm_RoomList", "regTarget": "Dorm://Canvas", 
     "targetPath": "Dorm://Canvas/RoomSelect/CurrentRoom", "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", 
-    "tipsID": "<color=#e57006>숙소 방</color> 번호는 제대 번호와 일치", "bg_path": "Tips/Tips_BG_Default", "tipPos": "0,-142,0", 
-    "tipSize": "260,200"
+    "tipsID": "<color=#e57006>숙소 방</color> 번호는 제대 번호와 일치", "bg_path": "Tips/Tips_BG_Default", 
+    "tipPos": "0,-142,0", "tipSize": "260,200"
   }, {
     "id": "103", "title": "Tips_Dorm_Comfort", "regTarget": "Dorm://Canvas", "targetPath": "Dorm://Canvas/HomeComfort", 
     "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", "tipsID": "현재 숙소의 <color=#e57006>안락도</color> 보기", 
@@ -532,13 +561,15 @@
     "id": "104", "title": "Tips_Gasha_Preview", 
     "regTarget": "Dorm://GashaponController(Clone)/MainCotentRoot/PrizePoolPrivewBtn", 
     "targetPath": "Dorm://GashaponController(Clone)/MainCotentRoot/PrizePoolPrivewBtn", 
-    "tipsManagePath": "Dorm://GashaponController(Clone)/TipsManage", "tipsID": "현재 구매의 <color=#e57006>구성품</color> 보기", 
-    "bg_path": "Tips/Tips_BG_Top", "tipPos": "-39,94,0", "tipSize": "250,200"
+    "tipsManagePath": "Dorm://GashaponController(Clone)/TipsManage", 
+    "tipsID": "현재 구매의 <color=#e57006>구성품</color> 보기", "bg_path": "Tips/Tips_BG_Top", "tipPos": "-39,94,0", 
+    "tipSize": "250,200"
   }, {
     "id": "105", "title": "Tips_Gasha_Exchange", "regTarget": "Dorm://GashaponController(Clone)/Bottom/SkinExchangeBtn", 
     "targetPath": "Dorm://GashaponController(Clone)/Bottom/SkinExchangeBtn", 
-    "tipsManagePath": "Dorm://GashaponController(Clone)/TipsManage", "tipsID": "<color=#e57006>블랙카드로</color> 가구와 코스튬 교환", 
-    "bg_path": "Tips/Tips_BG_Top", "tipPos": "0,73,0", "tipSize": "250,200"
+    "tipsManagePath": "Dorm://GashaponController(Clone)/TipsManage", 
+    "tipsID": "<color=#e57006>블랙카드로</color> 가구와 코스튬 교환", "bg_path": "Tips/Tips_BG_Top", "tipPos": "0,73,0", 
+    "tipSize": "250,200"
   }, {
     "id": "106", "title": "Tips_Dorm_Furniture_01", 
     "regTarget": "Dorm://Canvas/BoxPanel/FurnitureList(Clone)/Items/Holder/FurnitureListLabel(Clone)", 
@@ -548,8 +579,9 @@
   }, {
     "id": "107", "title": "Tips_Dorm_FairyCommand", "regTarget": "Dorm://Canvas/HomePlus/HomePlusComfort", 
     "targetPath": "Dorm://Canvas/HomePlus/HomePlusComfort/FairyCommand", 
-    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", "tipsID": "<color=#e57006>요정 지령</color>의 수와 회복속도 보기", 
-    "bg_path": "Tips/Tips_BG_Default", "tipPos": "0,-126.15,0", "tipSize": "260,220"
+    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", 
+    "tipsID": "<color=#e57006>요정 지령</color>의 수와 회복속도 보기", "bg_path": "Tips/Tips_BG_Default", 
+    "tipPos": "0,-126.15,0", "tipSize": "260,220"
   }, {
     "id": "108", "title": "tips_UI_AddButton", "regTarget": "Dorm://Canvas/DataAnalysisNode(Clone)", 
     "targetPath": "Dorm://Canvas/DataAnalysisNode(Clone)/Upper/Image_TitleBG", 
@@ -558,8 +590,9 @@
   }, {
     "id": "109", "title": "tips_UI_Button_Depot", "regTarget": "Dorm://Canvas/DataAnalysisNode(Clone)", 
     "targetPath": "Dorm://Canvas/DataAnalysisNode(Clone)/Lower", 
-    "tipsManagePath": "Dorm://Canvas/DataAnalysisNode(Clone)/TipsManage", "tipsID": "보유한 <color=#e57006>칩셋</color> 보기", 
-    "bg_path": "Tips/Tips_BG_Left", "tipPos": "590.1,80.7,0", "tipSize": "200,250"
+    "tipsManagePath": "Dorm://Canvas/DataAnalysisNode(Clone)/TipsManage", 
+    "tipsID": "보유한 <color=#e57006>칩셋</color> 보기", "bg_path": "Tips/Tips_BG_Left", "tipPos": "590.1,80.7,0", 
+    "tipSize": "200,250"
   }, {
     "id": "110", "title": "Tips_Dorm_SquadAnalysis", 
     "regTarget": "Dorm://Canvas/DataAnalysisNode(Clone)/Center/ScrollViewRect/Mask/Grid/SquadAnalysisSlot(Clone)", 
@@ -580,8 +613,8 @@
   }, {
     "id": "113", "title": "Tips_Research_Character_02", "regTarget": "Research://Canvas/Main/CharacterList", 
     "targetPath": "Research://Canvas/Main/CharacterList/Left/Background/IntelligentConfirm", 
-    "tipsManagePath": "Research://Canvas/Top/TipsManage", "tipsID": "낮은 레어도 인형 자동 선택", "bg_path": "Tips/Tips_BG_Left", 
-    "tipPos": "-244.5,0,0", "tipSize": "180,280"
+    "tipsManagePath": "Research://Canvas/Top/TipsManage", "tipsID": "낮은 레어도 인형 자동 선택", 
+    "bg_path": "Tips/Tips_BG_Left", "tipPos": "-244.5,0,0", "tipSize": "180,280"
   }, {
     "id": "114", "title": "Tips_Research_Order", "regTarget": "Research://Canvas/Main/CharacterList", 
     "targetPath": "Research://Canvas/Main/CharacterList/Left/Background/ButtonOrder", 
@@ -640,8 +673,8 @@
   }, {
     "id": "125", "title": "Tips_Research_Equipment_02", "regTarget": "Research://Canvas/EquipmentList(Clone)", 
     "targetPath": "Research://Canvas/EquipmentList(Clone)/Right/Background/IntelligentConfirm", 
-    "tipsManagePath": "Research://Canvas/Top/TipsManage", "tipsID": "낮은 레어도 장비 자동 선택", "bg_path": "Tips/Tips_BG_Left", 
-    "tipPos": "-244.5,0,0", "tipSize": "180,280"
+    "tipsManagePath": "Research://Canvas/Top/TipsManage", "tipsID": "낮은 레어도 장비 자동 선택", 
+    "bg_path": "Tips/Tips_BG_Left", "tipPos": "-244.5,0,0", "tipSize": "180,280"
   }, {
     "id": "126", "title": "Tips_Dorm_Furniture_02", 
     "regTarget": "Dorm://Canvas/BoxPanel/FurnitureList(Clone)/Items/Holder/FurnitureListLabel(Clone)", 
@@ -672,8 +705,9 @@
     "id": "131", "title": "Tips_Dorm_Furniture_07", 
     "regTarget": "Dorm://Canvas/BoxPanel/GiftList/Items/Holder/GiftListLabel(Clone)", 
     "targetPath": "Dorm://Canvas/BoxPanel/GiftList/Items/Holder/GiftListLabel(Clone)", 
-    "tipsManagePath": "Dorm://Canvas/BoxPanel/Top/TipsManage", "tipsID": "선물을 선택해\n인형에게 <color=#e57006>선물</color>", 
-    "bg_path": "Tips/Tips_BG_Right", "tipPos": "236.5,-196,0", "tipSize": "180,280"
+    "tipsManagePath": "Dorm://Canvas/BoxPanel/Top/TipsManage", 
+    "tipsID": "선물을 선택해\n인형에게 <color=#e57006>선물</color>", "bg_path": "Tips/Tips_BG_Right", 
+    "tipPos": "236.5,-196,0", "tipSize": "180,280"
   }, {
     "id": "132", "title": "Tip_Battle_Support", "regTarget": "MissionSelection://Canvas", 
     "targetPath": "MissionSelection://Canvas/Operation/CurrentOperationCount", 
@@ -712,8 +746,9 @@
   }, {
     "id": "138", "title": "Tip_UserDressup_homepage_04", "regTarget": "UserDressup://Canvas/UserDressUPMenu/DressUpPreview", 
     "targetPath": "UserDressup://Canvas/UserDressUPMenu/DressUpPreview", 
-    "tipsManagePath": "UserDressup://Canvas/Top/TipsManage", "tipsID": "의상을 터치해 <color=#e57706ff>환복 화면</color> 이동", 
-    "bg_path": "Tips/Tips_BG_Right", "tipPos": "397,2.5,0", "tipSize": "150,300"
+    "tipsManagePath": "UserDressup://Canvas/Top/TipsManage", 
+    "tipsID": "의상을 터치해 <color=#e57706ff>환복 화면</color> 이동", "bg_path": "Tips/Tips_BG_Right", 
+    "tipPos": "397,2.5,0", "tipSize": "150,300"
   }, {
     "id": "139", "title": "Tip_UserDressup_homepage_04", "regTarget": "UserDressup://Canvas/UserDressUPMenu/DressUpPreview", 
     "targetPath": "UserDressup://Canvas/UserDressUPMenu/DressUpPreview/PresetBtn", 
@@ -723,14 +758,16 @@
     "id": "140", "title": "Tip_UserDressup_change_01", 
     "regTarget": "UserDressup://Canvas/UserDressUpChangeClothesMain(Clone)/DressUPChooseColor/Gride/DressUPChooseColorItem2", 
     "targetPath": "UserDressup://Canvas/UserDressUpChangeClothesMain(Clone)/DressUPChooseColor/Gride/DressUPChooseColorItem2", 
-    "tipsManagePath": "UserDressup://Canvas/Top/TipsManage", "tipsID": "현재 의상과 다른 <color=#e57706ff>색상</color>을 볼 수 있습니다", 
-    "bg_path": "Tips/Tips_BG_Default", "tipPos": "477,-78,0", "tipSize": "300,200"
+    "tipsManagePath": "UserDressup://Canvas/Top/TipsManage", 
+    "tipsID": "현재 의상과 다른 <color=#e57706ff>색상</color>을 볼 수 있습니다", "bg_path": "Tips/Tips_BG_Default", 
+    "tipPos": "477,-78,0", "tipSize": "300,200"
   }, {
     "id": "141", "title": "Tip_UserDressup_change_02", 
     "regTarget": "UserDressup://Canvas/UserDressUpChangeClothesMain(Clone)/DressUPChooseColor", 
     "targetPath": "UserDressup://Canvas/UserDressUpChangeClothesMain(Clone)/DressUPChooseColor/Btn_ColorantRandom", 
-    "tipsManagePath": "UserDressup://Canvas/Top/TipsManage", "tipsID": "<color=#e57706ff>염색약</color>으로 해당 의상의 다른 색상을 획득", 
-    "bg_path": "Tips/Tips_BG_Right", "tipPos": "198.5,-9.5,0", "tipSize": "180,350"
+    "tipsManagePath": "UserDressup://Canvas/Top/TipsManage", 
+    "tipsID": "<color=#e57706ff>염색약</color>으로 해당 의상의 다른 색상을 획득", "bg_path": "Tips/Tips_BG_Right", 
+    "tipPos": "198.5,-9.5,0", "tipSize": "180,350"
   }, {
     "id": "142", "title": "Tip_UserDressup_change_03", 
     "regTarget": "UserDressup://Canvas/UserDressUpChangeClothesMain(Clone)/DressUpChangeClothes", 
@@ -748,8 +785,8 @@
     "regTarget": "UserDressup://Canvas/UserDressUpChangeClothesMain(Clone)/DressUPGetClothes(Clone)", 
     "targetPath": "UserDressup://Canvas/UserDressUpChangeClothesMain(Clone)/DressUPGetClothes(Clone)/Title/Btn_Set", 
     "tipsManagePath": "UserDressup://Canvas/Top/TipsManage", 
-    "tipsID": "옷장에서 <color=#e57706ff>낱개</color> 또는 <color=#e57706ff>세트</color> 목록 보기", "bg_path": "Tips/Tips_BG_Bottom", 
-    "tipPos": "-35.5,-159,0", "tipSize": "200,300"
+    "tipsID": "옷장에서 <color=#e57706ff>낱개</color> 또는 <color=#e57706ff>세트</color> 목록 보기", 
+    "bg_path": "Tips/Tips_BG_Bottom", "tipPos": "-35.5,-159,0", "tipSize": "200,300"
   }, {
     "id": "145", "title": "Tip_UserDressup_change_06", 
     "regTarget": "UserDressup://Canvas/UserDressUpChangeClothesMain(Clone)", 
@@ -767,8 +804,8 @@
     "id": "147", "title": "Tips_Mall_ClothesShop_02", "regTarget": "Mall://Canvas/ClothingStore(Clone)", 
     "targetPath": "Mall://Canvas/ClothingStore(Clone)/DressUpChangeClothes", 
     "tipsManagePath": "Mall://Canvas/ClothingStore(Clone)/Diamonds/Icon/TipsManage", 
-    "tipsID": "다른 부위를 터치해 각 <color=#e57706ff>부위 목록</color> 보기", "bg_path": "Tips/Tips_BG_Right", "tipPos": "252,118,0", 
-    "tipSize": "180,250"
+    "tipsID": "다른 부위를 터치해 각 <color=#e57706ff>부위 목록</color> 보기", "bg_path": "Tips/Tips_BG_Right", 
+    "tipPos": "252,118,0", "tipSize": "180,250"
   }, {
     "id": "148", "title": "Tips_Mall_ClothesShop_03", "regTarget": "Mall://Canvas/ClothingStore(Clone)", 
     "targetPath": "Mall://Canvas/ClothingStore(Clone)/ClothesList/Filter/SingleTitle", 
@@ -783,8 +820,8 @@
     "id": "150", "title": "Tips_Mall_ClothesShop_04", "regTarget": "Mall://Canvas/ClothingStore(Clone)", 
     "targetPath": "Mall://Canvas/ClothingStore(Clone)/ClothesList/Filter/Btn_Set", 
     "tipsManagePath": "Mall://Canvas/ClothingStore(Clone)/Diamonds/Icon/TipsManage", 
-    "tipsID": "옷장에서 <color=#e57706ff>낱개</color> 또는 <color=#e57706ff>세트</color> 목록 보기", "bg_path": "Tips/Tips_BG_Default", 
-    "tipPos": "-34.5,-139,0", "tipSize": "200,300"
+    "tipsID": "옷장에서 <color=#e57706ff>낱개</color> 또는 <color=#e57706ff>세트</color> 목록 보기", 
+    "bg_path": "Tips/Tips_BG_Default", "tipPos": "-34.5,-139,0", "tipSize": "200,300"
   }, {
     "id": "151", "title": "Tips_Mall_ClothesShop_05", "regTarget": "Mall://Canvas/ClothingStore(Clone)", 
     "targetPath": "Mall://Canvas/ClothingStore(Clone)/UserPreview/Btn_Clear", 
@@ -795,8 +832,8 @@
     "id": "152", "title": "Tips_Mall_ClothesShop_06", "regTarget": "Mall://Canvas/ClothingStore(Clone)", 
     "targetPath": "Mall://Canvas/ClothingStore(Clone)/UserPreview/Btn_Buy", 
     "tipsManagePath": "Mall://Canvas/ClothingStore(Clone)/Diamonds/Icon/TipsManage", 
-    "tipsID": "터치해 선택한 <color=#e57706ff>낱개</color> 또는 <color=#e57706ff>복수</color> 의상 구매", "bg_path": "Tips/Tips_BG_Top", 
-    "tipPos": "25.5,182,0", "tipSize": "300,200"
+    "tipsID": "터치해 선택한 <color=#e57706ff>낱개</color> 또는 <color=#e57706ff>복수</color> 의상 구매", 
+    "bg_path": "Tips/Tips_BG_Top", "tipPos": "25.5,182,0", "tipSize": "300,200"
   }, {
     "id": "153", "title": "Tips_Mall_ClothesShop_07", "regTarget": "Mall://Canvas/ClothingStore(Clone)", 
     "targetPath": "Mall://Canvas/ClothingStore(Clone)/UserPreview/Wardrobe", 
@@ -823,17 +860,18 @@
   }, {
     "id": "157", "title": "tips(Clone)", "regTarget": "Dorm://Canvas/InteractionArea/EstablishUIHolder/804", 
     "targetPath": "Dorm://Canvas/InteractionArea/EstablishUIHolder/804", 
-    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", "tipsID": "탐색 보상으로 <color=#e57006ff>여러 보상 교환</color>", 
-    "bg_path": "Tips/Tips_BG_Top", "tipPos": "88,86,0", "tipSize": "240,200"
+    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", 
+    "tipsID": "탐색 보상으로 <color=#e57006ff>여러 보상 교환</color>", "bg_path": "Tips/Tips_BG_Top", "tipPos": "88,86,0", 
+    "tipSize": "240,200"
   }, {
     "id": "158", "title": "tips(Clone)", "regTarget": "Dorm://Canvas/InteractionArea/EstablishUIHolder/801", 
     "targetPath": "Dorm://Canvas/InteractionArea/EstablishUIHolder/801", 
-    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", "tipsID": "탐색대 편집\n탐색 시간 선택", "bg_path": "Tips/Tips_BG_Top", 
-    "tipPos": "-2,78,0", "tipSize": "240,200"
+    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", "tipsID": "탐색대 편집\n탐색 시간 선택", 
+    "bg_path": "Tips/Tips_BG_Top", "tipPos": "-2,78,0", "tipSize": "240,200"
   }, {
     "id": "159", "title": "tips(Clone)", "regTarget": "Dorm://Canvas/InteractionArea/EstablishUIHolder/803", 
     "targetPath": "Dorm://Canvas/InteractionArea/EstablishUIHolder/803", 
-    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", "tipsID": "탐색 보상 보관\n터치해 수령", "bg_path": "Tips/Tips_BG_Top", 
-    "tipPos": "-10,74,0", "tipSize": "240,200"
+    "tipsManagePath": "Dorm://Canvas/TipsHolder/TipsManage", "tipsID": "탐색 보상 보관\n터치해 수령", 
+    "bg_path": "Tips/Tips_BG_Top", "tipPos": "-10,74,0", "tipSize": "240,200"
   }
 ]

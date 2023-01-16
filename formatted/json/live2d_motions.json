@@ -41,8 +41,8 @@
     "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE1"
   }, {
     "id": 507, "type": 200, "motion_name": "motions/touch_4.mtn", "touch_area": "leg", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|M1903|PHRASE", "text": "GUN|M1903|PHRASE", "expression": "", "face_motion": "", "name": "대화4", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "PHRASE"
+    "voice": "GUN|M1903|PHRASE", "text": "GUN|M1903|PHRASE", "expression": "", "face_motion": "", "name": "대화4", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "PHRASE"
   }, {
     "id": 508, "type": 200, "motion_name": "motions/touch_5.mtn", "touch_area": "leg", "hold_time": "0", "probability": 1.0, 
     "voice": "GUN|M1903|DIALOGUE2", "text": "GUN|M1903|DIALOGUE2", "expression": "", "face_motion": "", "name": "대화5", 
@@ -57,8 +57,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 511, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|M1903|HELLO", "text": "GUN|M1903|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|M1903|HELLO", "text": "GUN|M1903|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 512, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -94,8 +94,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 519, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|M1903|HELLO", "text": "GUN|M1903|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|M1903|HELLO", "text": "GUN|M1903|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 601, "type": 101, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -122,8 +122,8 @@
     "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 607, "type": 200, "motion_name": "motions/touch_4.mtn", "touch_area": "head", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|WA2000|ACCEPT", "text": "", "expression": "", "face_motion": "", "name": "대화4", "camera": 1, "is_hurt": 0, 
-    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "ACCEPT"
+    "voice": "GUN|WA2000|ACCEPT", "text": "", "expression": "", "face_motion": "", "name": "대화4", "camera": 1, 
+    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "ACCEPT"
   }, {
     "id": 608, "type": 200, "motion_name": "motions/touch_5.mtn", "touch_area": "ghost", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|WA2000|ALLHALLOWS", "text": "GUN|WA2000|ALLHALLOWS", "expression": "", 
@@ -136,16 +136,17 @@
     "next_motions": "", "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 610, "type": 500, "motion_name": "motions/wedding.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|WA2000|SOULCONTRACT", "text": "GUN|WA2000|SOULCONTRACT", "expression": "", "face_motion": "", "name": "서약", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "SOULCONTRACT"
+    "voice": "GUN|WA2000|SOULCONTRACT", "text": "GUN|WA2000|SOULCONTRACT", "expression": "", "face_motion": "", 
+    "name": "서약", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "SOULCONTRACT"
   }, {
     "id": 611, "type": 300, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|WA2000|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 0, 
-    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
+    "voice": "GUN|WA2000|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, 
+    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
   }, {
     "id": 612, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|WA2000|HELLO", "text": "GUN|WA2000|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|WA2000|HELLO", "text": "GUN|WA2000|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 613, "type": 402, "motion_name": "motions/broken_1.mtn", "touch_area": "body", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|WA2000|LOWMOOD", "text": "GUN|WA2000|LOWMOOD", "expression": "", "face_motion": "", 
@@ -253,8 +254,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 905, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|G11|DIALOGUEWEDDING", "text": "GUN|G11|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|G11|DIALOGUEWEDDING", "text": "GUN|G11|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 906, "type": 401, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -274,8 +275,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 910, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|G11|DIALOGUEWEDDING", "text": "GUN|G11|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|G11|DIALOGUEWEDDING", "text": "GUN|G11|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 911, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -296,8 +297,8 @@
   }, {
     "id": 1000, "type": 1000, "motion_name": "motions/touch_arm.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "NPC|NPC_Kalina|kanban_musume_043", "text": "NPC|adjutant|kanban_musume_043", 
-    "expression": "", "face_motion": "", "name": "로그인", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, 
-    "next_motions": "", "voice_code": ""
+    "expression": "", "face_motion": "", "name": "로그인", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, 
+    "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 1001, "type": 101, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -309,18 +310,18 @@
   }, {
     "id": 1003, "type": 200, "motion_name": "motions/kalina_043.mtn", "touch_area": "head", "hold_time": "0", 
     "probability": 1.0, "voice": "NPC|NPC_Kalina|kanban_musume_043", "text": "NPC|adjutant|kanban_musume_043", 
-    "expression": "", "face_motion": "", "name": "대화1", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, 
-    "next_motions": "", "voice_code": ""
+    "expression": "", "face_motion": "", "name": "대화1", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, 
+    "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 1004, "type": 200, "motion_name": "motions/kalina_035.mtn", "touch_area": "body", "hold_time": "0", 
     "probability": 1.0, "voice": "NPC|NPC_Kalina|kanban_musume_035", "text": "NPC|adjutant|kanban_musume_035", 
-    "expression": "", "face_motion": "", "name": "대화2", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, 
-    "next_motions": "", "voice_code": ""
+    "expression": "", "face_motion": "", "name": "대화2", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, 
+    "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 1005, "type": 200, "motion_name": "motions/kalina_027.mtn", "touch_area": "arm", "hold_time": "0", 
     "probability": 1.0, "voice": "NPC|NPC_Kalina|kanban_musume_027", "text": "NPC|adjutant|kanban_musume_027", 
-    "expression": "", "face_motion": "", "name": "대화3", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, 
-    "next_motions": "", "voice_code": ""
+    "expression": "", "face_motion": "", "name": "대화3", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, 
+    "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 1006, "type": 600, "motion_name": "motions/touch_head.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "NPC|NPC_Kalina|kanban_musume_001", "text": "NPC|mall|kanban_musume_001", "expression": "", 
@@ -754,16 +755,17 @@
     "next_motions": "", "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 30611, "type": 500, "motion_name": "motions/wedding.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|WA2000|SOULCONTRACT", "text": "GUN|WA2000|SOULCONTRACT", "expression": "", "face_motion": "", "name": "서약", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "SOULCONTRACT"
+    "voice": "GUN|WA2000|SOULCONTRACT", "text": "GUN|WA2000|SOULCONTRACT", "expression": "", "face_motion": "", 
+    "name": "서약", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "SOULCONTRACT"
   }, {
     "id": 30612, "type": 300, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|WA2000|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 0, 
-    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
+    "voice": "GUN|WA2000|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, 
+    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
   }, {
     "id": 30613, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|WA2000|HELLO", "text": "GUN|WA2000|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|WA2000|HELLO", "text": "GUN|WA2000|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 30614, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -795,12 +797,12 @@
     "voice_code": "DIALOGUE2"
   }, {
     "id": 30620, "type": 301, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|WA2000|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 1, 
-    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
+    "voice": "GUN|WA2000|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, 
+    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
   }, {
     "id": 30621, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|WA2000|HELLO", "text": "GUN|WA2000|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|WA2000|HELLO", "text": "GUN|WA2000|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 31001, "type": 101, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -953,8 +955,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 40519, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|95type|HELLO", "text": "GUN|95type|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|95type|HELLO", "text": "GUN|95type|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 40520, "type": 401, "motion_name": "motions/daiji_idle_02.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -975,8 +977,8 @@
     "voice_code": "BREAK"
   }, {
     "id": 40524, "type": 1001, "motion_name": "motions/login_2.mtn", "touch_area": "", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|95type|HELLO", "text": "GUN|95type|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|95type|HELLO", "text": "GUN|95type|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 40525, "type": 301, "motion_name": "motions/shake_broken.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, 
@@ -1033,12 +1035,12 @@
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 40611, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|97type|HELLO", "text": "GUN|97type|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|97type|HELLO", "text": "GUN|97type|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 40612, "type": 1001, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|97type|HELLO", "text": "GUN|97type|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|97type|HELLO", "text": "GUN|97type|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 40613, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
     "voice": "GUN|97type|NEWYEAR", "text": "GUN|97type|NEWYEAR", "expression": "", "face_motion": "", "name": "대기", 
@@ -1169,8 +1171,8 @@
   }, {
     "id": 55107, "type": 200, "motion_name": "motions/touch_4.mtn", "touch_area": "body", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|M4 SOPMOD II|OPERATIONOVER", "text": "GUN|M4 SOPMOD II|OPERATIONOVER", 
-    "expression": "", "face_motion": "", "name": "대화4", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, 
-    "next_motions": "", "voice_code": "OPERATIONOVER"
+    "expression": "", "face_motion": "", "name": "대화4", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, 
+    "delay": 0, "next_motions": "", "voice_code": "OPERATIONOVER"
   }, {
     "id": 55108, "type": 200, "motion_name": "motions/touch_5.mtn", "touch_area": "leg", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|M4 SOPMOD II|SKILL3", "text": "GUN|M4 SOPMOD II|SKILL3", "expression": "", 
@@ -1192,8 +1194,9 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 55112, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|M4 SOPMOD II|HELLO", "text": "GUN|M4 SOPMOD II|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 570, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|M4 SOPMOD II|HELLO", "text": "GUN|M4 SOPMOD II|HELLO", "expression": "", "face_motion": "", 
+    "name": "로그인", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 570, "next_motions": "", 
+    "voice_code": "HELLO"
   }, {
     "id": 55113, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -1229,8 +1232,9 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 55120, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|M4 SOPMOD II|HELLO", "text": "GUN|M4 SOPMOD II|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|M4 SOPMOD II|HELLO", "text": "GUN|M4 SOPMOD II|HELLO", "expression": "", "face_motion": "", 
+    "name": "로그인", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "HELLO"
   }, {
     "id": 55601, "type": 101, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -1255,8 +1259,9 @@
     "voice_code": "DIALOGUE2"
   }, {
     "id": 55606, "type": 200, "motion_name": "motions/touch_3.mtn", "touch_area": "body", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|UMP9|WIN", "text": "GUN|UMP9|WIN", "expression": "", "face_motion": "", "name": "대화3", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "WIN"
+    "probability": 1.0, "voice": "GUN|UMP9|WIN", "text": "GUN|UMP9|WIN", "expression": "", "face_motion": "", 
+    "name": "대화3", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "WIN"
   }, {
     "id": 55607, "type": 200, "motion_name": "motions/touch_4.mtn", "touch_area": "body", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|UMP9|OPERATIONBEGIN", "text": "GUN|UMP9|OPERATIONBEGIN", "expression": "", 
@@ -1300,12 +1305,14 @@
     "voice_code": "RETREAT"
   }, {
     "id": 55616, "type": 402, "motion_name": "motions/broken_3.mtn", "touch_area": "body", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|UMP9|TIP", "text": "GUN|UMP9|TIP", "expression": "", "face_motion": "", "name": "대화3", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "TIP"
+    "probability": 1.0, "voice": "GUN|UMP9|TIP", "text": "GUN|UMP9|TIP", "expression": "", "face_motion": "", 
+    "name": "대화3", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "TIP"
   }, {
     "id": 55617, "type": 402, "motion_name": "motions/broken_4.mtn", "touch_area": "leg", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|UMP9|FIX", "text": "GUN|UMP9|FIX", "expression": "", "face_motion": "", "name": "대화4", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "FIX"
+    "probability": 1.0, "voice": "GUN|UMP9|FIX", "text": "GUN|UMP9|FIX", "expression": "", "face_motion": "", 
+    "name": "대화4", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "FIX"
   }, {
     "id": 55618, "type": 402, "motion_name": "motions/broken_5.mtn", "touch_area": "head", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|UMP9|OPERATIONOVER", "text": "GUN|UMP9|OPERATIONOVER", "expression": "", 
@@ -1652,8 +1659,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 58412, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|UMP45|HELLO", "text": "GUN|UMP45|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 1000, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|UMP45|HELLO", "text": "GUN|UMP45|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 1000, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 58413, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -1685,8 +1692,8 @@
     "voice_code": "FIX"
   }, {
     "id": 58419, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|UMP45|HELLO", "text": "GUN|UMP45|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 1000, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|UMP45|HELLO", "text": "GUN|UMP45|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 1000, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 58420, "type": 301, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 1, "level": 0, 
@@ -1737,16 +1744,17 @@
     "next_motions": "", "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 60417, "type": 500, "motion_name": "motions/wedding.mtn", "touch_area": "", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|MLEMK1|SOULCONTRACT", "text": "GUN|MLEMK1|SOULCONTRACT", "expression": "", "face_motion": "", "name": "서약", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "SOULCONTRACT"
+    "voice": "GUN|MLEMK1|SOULCONTRACT", "text": "GUN|MLEMK1|SOULCONTRACT", "expression": "", "face_motion": "", 
+    "name": "서약", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "SOULCONTRACT"
   }, {
     "id": 60418, "type": 300, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 0, "level": 0, 
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 60419, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|MLEMK1|HELLO", "text": "GUN|MLEMK1|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|MLEMK1|HELLO", "text": "GUN|MLEMK1|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 60420, "type": 401, "motion_name": "motions/daiji_idle_02.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -1844,8 +1852,9 @@
     "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
   }, {
     "id": 65014, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|HK416Mod_Live2D|HELLO", "text": "GUN|HK416Mod|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|HK416Mod_Live2D|HELLO", "text": "GUN|HK416Mod|HELLO", "expression": "", "face_motion": "", 
+    "name": "로그인", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "HELLO"
   }, {
     "id": 65015, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -1977,8 +1986,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 80512, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|HK416|HELLO", "text": "GUN|HK416|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|HK416|HELLO", "text": "GUN|HK416|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 80513, "type": 401, "motion_name": "motions/daiji_idle_02.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -2318,12 +2327,12 @@
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 110611, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|WA2000|HELLO", "text": "GUN|WA2000|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|WA2000|HELLO", "text": "GUN|WA2000|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 110612, "type": 1001, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|WA2000|HELLO", "text": "GUN|WA2000|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|WA2000|HELLO", "text": "GUN|WA2000|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 110701, "type": 101, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, 
@@ -2392,8 +2401,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 120105, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|PKP|DIALOGUEWEDDING", "text": "GUN|PKP|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|PKP|DIALOGUEWEDDING", "text": "GUN|PKP|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 120106, "type": 401, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -2413,8 +2422,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 120110, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|PKP|DIALOGUEWEDDING", "text": "GUN|PKP|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|PKP|DIALOGUEWEDDING", "text": "GUN|PKP|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 120111, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -2616,16 +2625,17 @@
     "next_motions": "", "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 122010, "type": 500, "motion_name": "motions/wedding.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|G11Mod|SOULCONTRACT", "text": "GUN|G11Mod|SOULCONTRACT", "expression": "", "face_motion": "", "name": "서약", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "SOULCONTRACT"
+    "voice": "GUN|G11Mod|SOULCONTRACT", "text": "GUN|G11Mod|SOULCONTRACT", "expression": "", "face_motion": "", 
+    "name": "서약", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "SOULCONTRACT"
   }, {
     "id": 122011, "type": 300, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 0, "level": 0, 
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 122012, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|G11Mod|HELLO", "text": "GUN|G11Mod|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|G11Mod|HELLO", "text": "GUN|G11Mod|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 122013, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -2661,12 +2671,12 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 122020, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|G11Mod|HELLO", "text": "GUN|G11Mod|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 1, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|G11Mod|HELLO", "text": "GUN|G11Mod|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 1, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 122021, "type": 104, "motion_name": "motions/yanwu.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 1, "level": 0, 
-    "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
+    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 1, 
+    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 140101, "type": 101, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -2710,16 +2720,17 @@
     "next_motions": "", "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 140115, "type": 500, "motion_name": "motions/wedding.mtn", "touch_area": "", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Welrod|SOULCONTRACT", "text": "GUN|Welrod|SOULCONTRACT", "expression": "", "face_motion": "", "name": "서약", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "SOULCONTRACT"
+    "voice": "GUN|Welrod|SOULCONTRACT", "text": "GUN|Welrod|SOULCONTRACT", "expression": "", "face_motion": "", 
+    "name": "서약", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "SOULCONTRACT"
   }, {
     "id": 140116, "type": 300, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 0, "level": 0, 
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 140117, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Welrod|HELLO", "text": "GUN|Welrod|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|Welrod|HELLO", "text": "GUN|Welrod|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 140118, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -2800,12 +2811,12 @@
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 140211, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|79type|HELLO", "text": "GUN|79type|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|79type|HELLO", "text": "GUN|79type|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 140212, "type": 1001, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|79type|HELLO", "text": "GUN|79type|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|79type|HELLO", "text": "GUN|79type|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 140213, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
     "voice": "GUN|79type|ALLHALLOWS", "text": "GUN|79type|ALLHALLOWS", "expression": "", "face_motion": "", "name": "대기1", 
@@ -2924,12 +2935,14 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 140513, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Spitfire|ALLHALLOWS", "text": "GUN|Spitfire|ALLHALLOWS", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "ALLHALLOWS"
+    "voice": "GUN|Spitfire|ALLHALLOWS", "text": "GUN|Spitfire|ALLHALLOWS", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "ALLHALLOWS"
   }, {
     "id": 140514, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Spitfire|ALLHALLOWS", "text": "GUN|Spitfire|ALLHALLOWS", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "ALLHALLOWS"
+    "voice": "GUN|Spitfire|ALLHALLOWS", "text": "GUN|Spitfire|ALLHALLOWS", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "ALLHALLOWS"
   }, {
     "id": 143001, "type": 101, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -3155,12 +3168,12 @@
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 150511, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|AEK999|HELLO", "text": "GUN|AEK999|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|AEK999|HELLO", "text": "GUN|AEK999|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 150512, "type": 1001, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|AEK999|HELLO", "text": "GUN|AEK999|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|AEK999|HELLO", "text": "GUN|AEK999|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 160101, "type": 101, "motion_name": "motions/daiji_idle.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -3267,8 +3280,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 160205, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|G11|DIALOGUEWEDDING", "text": "GUN|G11|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|G11|DIALOGUEWEDDING", "text": "GUN|G11|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 160206, "type": 401, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -3288,8 +3301,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 160210, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|G11|DIALOGUEWEDDING", "text": "GUN|G11|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|G11|DIALOGUEWEDDING", "text": "GUN|G11|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 160211, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -3363,8 +3376,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 180113, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|DSR50|HELLO", "text": "GUN|DSR50|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|DSR50|HELLO", "text": "GUN|DSR50|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 180114, "type": 200, "motion_name": "motions/newyear.mtn", "touch_area": "leg", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|DSR50|NEWYEAR", "text": "GUN|DSR50|NEWYEAR", "expression": "", "face_motion": "", 
@@ -3454,12 +3467,12 @@
     "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 180613, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|M590|NEWYEAR", "text": "GUN|M590|NEWYEAR", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "NEWYEAR"
+    "voice": "GUN|M590|NEWYEAR", "text": "GUN|M590|NEWYEAR", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "NEWYEAR"
   }, {
     "id": 180614, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|M590|NEWYEAR", "text": "GUN|M590|NEWYEAR", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "NEWYEAR"
+    "voice": "GUN|M590|NEWYEAR", "text": "GUN|M590|NEWYEAR", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "NEWYEAR"
   }, {
     "id": 180901, "type": 101, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -3515,8 +3528,8 @@
     "next_motions": "", "voice_code": "SOULCONTRACT"
   }, {
     "id": 180912, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|88type|HELLO", "text": "GUN|88type|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|88type|HELLO", "text": "GUN|88type|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 180913, "type": 300, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 0, "level": 0, 
@@ -3619,8 +3632,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 190112, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Vector|HELLO", "text": "GUN|Vector|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|Vector|HELLO", "text": "GUN|Vector|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 190113, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -3666,8 +3679,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 190405, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|G36|DIALOGUEWEDDING", "text": "GUN|G36|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|G36|DIALOGUEWEDDING", "text": "GUN|G36|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 190406, "type": 401, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -3687,8 +3700,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 190410, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|G36|DIALOGUEWEDDING", "text": "GUN|G36|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|G36|DIALOGUEWEDDING", "text": "GUN|G36|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 190411, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -3758,8 +3771,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 210112, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|DSR50|HELLO", "text": "GUN|DSR50|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|DSR50|HELLO", "text": "GUN|DSR50|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 210113, "type": 200, "motion_name": "motions/newyear.mtn", "touch_area": "leg", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|DSR50|NEWYEAR", "text": "GUN|DSR50|NEWYEAR", "expression": "", "face_motion": "", 
@@ -3799,8 +3812,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 210121, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|DSR50|HELLO", "text": "GUN|DSR50|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|DSR50|HELLO", "text": "GUN|DSR50|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 210201, "type": 101, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -3939,12 +3952,12 @@
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 210311, "type": 1000, "motion_name": "login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Welrod|HELLO", "text": "GUN|Welrod|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|Welrod|HELLO", "text": "GUN|Welrod|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 210312, "type": 1001, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Welrod|HELLO", "text": "GUN|Welrod|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|Welrod|HELLO", "text": "GUN|Welrod|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 210401, "type": 101, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, 
@@ -4155,12 +4168,14 @@
     "next_motions": "", "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 220111, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Carcano1891_0|HELLO", "text": "GUN|Carcano1891_0|HELLO", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|Carcano1891_0|HELLO", "text": "GUN|Carcano1891_0|HELLO", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "HELLO"
   }, {
     "id": 220112, "type": 1001, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Carcano1891_0|HELLO", "text": "GUN|Carcano1891_0|HELLO", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|Carcano1891_0|HELLO", "text": "GUN|Carcano1891_0|HELLO", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "HELLO"
   }, {
     "id": 220201, "type": 101, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, 
@@ -4211,12 +4226,14 @@
     "next_motions": "", "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 220211, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Carcano1938_0|HELLO", "text": "GUN|Carcano1938_0|HELLO", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|Carcano1938_0|HELLO", "text": "GUN|Carcano1938_0|HELLO", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "HELLO"
   }, {
     "id": 220212, "type": 1001, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Carcano1938_0|HELLO", "text": "GUN|Carcano1938_0|HELLO", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|Carcano1938_0|HELLO", "text": "GUN|Carcano1938_0|HELLO", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "HELLO"
   }, {
     "id": 220301, "type": 101, "motion_name": "motions/idle.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, 
@@ -4410,8 +4427,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 230112, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|NTW20|HELLO", "text": "GUN|NTW20|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|NTW20|HELLO", "text": "GUN|NTW20|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 230113, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -4446,24 +4463,27 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 230120, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|NTW20|HELLO", "text": "GUN|NTW20|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|NTW20|HELLO", "text": "GUN|NTW20|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 230201, "type": 101, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, 
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 230202, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Contender|DIALOGUE1", "text": "GUN|Contender|DIALOGUE1", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE1"
+    "voice": "GUN|Contender|DIALOGUE1", "text": "GUN|Contender|DIALOGUE1", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "DIALOGUE1"
   }, {
     "id": 230203, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Contender|DIALOGUE2", "text": "GUN|Contender|DIALOGUE2", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE2"
+    "voice": "GUN|Contender|DIALOGUE2", "text": "GUN|Contender|DIALOGUE2", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "DIALOGUE2"
   }, {
     "id": 230204, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Contender|DIALOGUE3", "text": "GUN|Contender|DIALOGUE3", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
+    "voice": "GUN|Contender|DIALOGUE3", "text": "GUN|Contender|DIALOGUE3", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "DIALOGUE3"
   }, {
     "id": 230205, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
     "voice": "GUN|Contender|DIALOGUEWEDDING", "text": "GUN|Contender|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
@@ -4475,16 +4495,19 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 230207, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Contender|DIALOGUE1", "text": "GUN|Contender|DIALOGUE1", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE1"
+    "voice": "GUN|Contender|DIALOGUE1", "text": "GUN|Contender|DIALOGUE1", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "DIALOGUE1"
   }, {
     "id": 230208, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Contender|DIALOGUE2", "text": "GUN|Contender|DIALOGUE2", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE2"
+    "voice": "GUN|Contender|DIALOGUE2", "text": "GUN|Contender|DIALOGUE2", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "DIALOGUE2"
   }, {
     "id": 230209, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Contender|DIALOGUE3", "text": "GUN|Contender|DIALOGUE3", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
+    "voice": "GUN|Contender|DIALOGUE3", "text": "GUN|Contender|DIALOGUE3", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "DIALOGUE3"
   }, {
     "id": 230210, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
     "voice": "GUN|Contender|DIALOGUEWEDDING", "text": "GUN|Contender|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
@@ -4808,8 +4831,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 240505, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|MP7|DIALOGUEWEDDING", "text": "GUN|MP7|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|MP7|DIALOGUEWEDDING", "text": "GUN|MP7|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 240506, "type": 401, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -4829,8 +4852,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 240510, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|MP7|DIALOGUEWEDDING", "text": "GUN|MP7|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|MP7|DIALOGUEWEDDING", "text": "GUN|MP7|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 240511, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -4858,8 +4881,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 240705, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|G36|DIALOGUEWEDDING", "text": "GUN|G36|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|G36|DIALOGUEWEDDING", "text": "GUN|G36|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 240706, "type": 401, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -4879,8 +4902,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 240710, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|G36|DIALOGUEWEDDING", "text": "GUN|G36|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|G36|DIALOGUEWEDDING", "text": "GUN|G36|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 240711, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -4938,12 +4961,12 @@
     "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "SOULCONTRACT"
   }, {
     "id": 260111, "type": 300, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|SAT8|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "흔들기 대화", "camera": 1, "is_hurt": 0, 
-    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
+    "voice": "GUN|SAT8|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "흔들기 대화", "camera": 1, 
+    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
   }, {
     "id": 260112, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|SAT8|HELLO", "text": "GUN|SAT8|HELLO", "expression": "", "face_motion": "", "name": "로그인 대화", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|SAT8|HELLO", "text": "GUN|SAT8|HELLO", "expression": "", "face_motion": "", "name": "로그인 대화", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 260113, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -4974,12 +4997,12 @@
     "voice_code": "RETREAT"
   }, {
     "id": 260119, "type": 301, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|SAT8|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "흔들기 대화", "camera": 1, "is_hurt": 1, 
-    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
+    "voice": "GUN|SAT8|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "흔들기 대화", "camera": 1, 
+    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
   }, {
     "id": 260120, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|SAT8|HELLO", "text": "GUN|SAT8|HELLO", "expression": "", "face_motion": "", "name": "로그인 대화", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|SAT8|HELLO", "text": "GUN|SAT8|HELLO", "expression": "", "face_motion": "", "name": "로그인 대화", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 260201, "type": 101, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, 
@@ -5056,8 +5079,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 260305, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|MDR|DIALOGUEWEDDING", "text": "GUN|MDR|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|MDR|DIALOGUEWEDDING", "text": "GUN|MDR|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 260306, "type": 401, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -5077,8 +5100,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 260310, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|MDR|DIALOGUEWEDDING", "text": "GUN|MDR|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|MDR|DIALOGUEWEDDING", "text": "GUN|MDR|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 260311, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -5145,8 +5168,8 @@
     "voice_code": "SOULCONTRACT"
   }, {
     "id": 280111, "type": 300, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기 대화", "camera": 1, "is_hurt": 0, "level": 0, 
-    "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
+    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기 대화", "camera": 1, "is_hurt": 0, 
+    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 280112, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "GUN|Px4Storm|HELLO", "text": "GUN|Px4Storm|HELLO", "expression": "", "face_motion": "", "name": "로그인 대화", 
@@ -5215,8 +5238,8 @@
     "next_motions": "", "voice_code": "CHRISTMAS"
   }, {
     "id": 280126, "type": 301, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기 대화", "camera": 1, "is_hurt": 1, "level": 0, 
-    "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
+    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기 대화", "camera": 1, "is_hurt": 1, 
+    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 280127, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "GUN|Px4Storm|HELLO", "text": "GUN|Px4Storm|HELLO", "expression": "", "face_motion": "", "name": "로그인 대화", 
@@ -5239,8 +5262,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 280205, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|P90|DIALOGUEWEDDING", "text": "GUN|P90|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|P90|DIALOGUEWEDDING", "text": "GUN|P90|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 280206, "type": 401, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -5260,8 +5283,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 280210, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|P90|DIALOGUEWEDDING", "text": "GUN|P90|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|P90|DIALOGUEWEDDING", "text": "GUN|P90|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 280211, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -5328,12 +5351,13 @@
     "voice_code": "SOULCONTRACT"
   }, {
     "id": 290111, "type": 300, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기 대화", "camera": 1, "is_hurt": 0, "level": 0, 
-    "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
+    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기 대화", "camera": 1, "is_hurt": 0, 
+    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 290112, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Type64-AR|HELLO", "text": "GUN|Type64-AR|HELLO", "expression": "", "face_motion": "", "name": "로그인 대화", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|Type64-AR|HELLO", "text": "GUN|Type64-AR|HELLO", "expression": "", "face_motion": "", 
+    "name": "로그인 대화", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "HELLO"
   }, {
     "id": 290113, "type": 401, "motion_name": "motions/daiji_idle.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -5365,12 +5389,13 @@
     "next_motions": "", "voice_code": "COMBINE"
   }, {
     "id": 290119, "type": 301, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기 대화", "camera": 1, "is_hurt": 1, "level": 0, 
-    "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
+    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기 대화", "camera": 1, "is_hurt": 1, 
+    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 290120, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Type64-AR|HELLO", "text": "GUN|Type64-AR|HELLO", "expression": "", "face_motion": "", "name": "로그인 대화", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|Type64-AR|HELLO", "text": "GUN|Type64-AR|HELLO", "expression": "", "face_motion": "", 
+    "name": "로그인 대화", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "HELLO"
   }, {
     "id": 290401, "type": 101, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, 
@@ -5429,12 +5454,14 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 290413, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Carcano1938|NEWYEAR", "text": "GUN|Carcano1938|NEWYEAR", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "NEWYEAR"
+    "voice": "GUN|Carcano1938|NEWYEAR", "text": "GUN|Carcano1938|NEWYEAR", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "NEWYEAR"
   }, {
     "id": 290414, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Carcano1938|NEWYEAR", "text": "GUN|Carcano1938|NEWYEAR", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "NEWYEAR"
+    "voice": "GUN|Carcano1938|NEWYEAR", "text": "GUN|Carcano1938|NEWYEAR", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "NEWYEAR"
   }, {
     "id": 290501, "type": 101, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, 
@@ -5493,12 +5520,14 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 290513, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Carcano1891|NEWYEAR", "text": "GUN|Carcano1891|NEWYEAR", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "NEWYEAR"
+    "voice": "GUN|Carcano1891|NEWYEAR", "text": "GUN|Carcano1891|NEWYEAR", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "NEWYEAR"
   }, {
     "id": 290514, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Carcano1891|NEWYEAR", "text": "GUN|Carcano1891|NEWYEAR", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "NEWYEAR"
+    "voice": "GUN|Carcano1891|NEWYEAR", "text": "GUN|Carcano1891|NEWYEAR", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "NEWYEAR"
   }, {
     "id": 300101, "type": 101, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -5637,24 +5666,26 @@
     "voice_code": "VALENTINE"
   }, {
     "id": 310111, "type": 500, "motion_name": "motions/wedding.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|KP31|SOULCONTRACT", "text": "GUN|KP31|SOULCONTRACT", "expression": "", "face_motion": "", "name": "서약 모션", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "SOULCONTRACT"
+    "voice": "GUN|KP31|SOULCONTRACT", "text": "GUN|KP31|SOULCONTRACT", "expression": "", "face_motion": "", 
+    "name": "서약 모션", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "SOULCONTRACT"
   }, {
     "id": 310112, "type": 300, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "GUN|KP31|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 0, 
     "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
   }, {
     "id": 310113, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|KP31|HELLO", "text": "GUN|KP31|HELLO", "expression": "", "face_motion": "", "name": "로그인 대화", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|KP31|HELLO", "text": "GUN|KP31|HELLO", "expression": "", "face_motion": "", "name": "로그인 대화", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 310114, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
     "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 310115, "type": 402, "motion_name": "motions/broken_1.mtn", "touch_area": "head", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|KP31|WIN", "text": "GUN|KP31|WIN", "expression": "", "face_motion": "", "name": "대화1", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "WIN"
+    "probability": 1.0, "voice": "GUN|KP31|WIN", "text": "GUN|KP31|WIN", "expression": "", "face_motion": "", 
+    "name": "대화1", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "WIN"
   }, {
     "id": 310116, "type": 402, "motion_name": "motions/broken_2.mtn", "touch_area": "body", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|KP31|BUILDOVER", "text": "GUN|KP31|BUILDOVER", "expression": "", "face_motion": "", 
@@ -5667,8 +5698,9 @@
     "voice_code": "BLACKACTION"
   }, {
     "id": 310118, "type": 402, "motion_name": "motions/broken_4.mtn", "touch_area": "leg", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|KP31|FIX", "text": "GUN|KP31|FIX", "expression": "", "face_motion": "", "name": "대화4", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "FIX"
+    "probability": 1.0, "voice": "GUN|KP31|FIX", "text": "GUN|KP31|FIX", "expression": "", "face_motion": "", 
+    "name": "대화4", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "FIX"
   }, {
     "id": 310119, "type": 402, "motion_name": "motions/broken_5.mtn", "touch_area": "leg", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|KP31|FORMATION", "text": "GUN|KP31|FORMATION", "expression": "", "face_motion": "", 
@@ -5680,8 +5712,8 @@
     "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
   }, {
     "id": 310121, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|KP31|HELLO", "text": "GUN|KP31|HELLO", "expression": "", "face_motion": "", "name": "로그인 대화", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|KP31|HELLO", "text": "GUN|KP31|HELLO", "expression": "", "face_motion": "", "name": "로그인 대화", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 310301, "type": 101, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, 
@@ -5822,12 +5854,12 @@
     "voice_code": "DIALOGUE2"
   }, {
     "id": 330106, "type": 200, "motion_name": "motions/touch_3.mtn", "touch_area": "body", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|K2|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "대화3", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
+    "probability": 1.0, "voice": "GUN|K2|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "대화3", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
   }, {
     "id": 330107, "type": 200, "motion_name": "motions/touch_4.mtn", "touch_area": "body", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|K2|MOOD1", "text": "", "expression": "", "face_motion": "", "name": "대화4", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD1"
+    "probability": 1.0, "voice": "GUN|K2|MOOD1", "text": "", "expression": "", "face_motion": "", "name": "대화4", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD1"
   }, {
     "id": 330108, "type": 200, "motion_name": "motions/touch_5.mtn", "touch_area": "leg", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|K2|DIALOGUE3", "text": "GUN|K2|DIALOGUE3", "expression": "", "face_motion": "", 
@@ -5870,8 +5902,9 @@
     "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "FIX"
   }, {
     "id": 330117, "type": 402, "motion_name": "motions/broken_4.mtn", "touch_area": "leg", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|K2|BREAK", "text": "GUN|K2|BREAK", "expression": "", "face_motion": "", "name": "대화4", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "BREAK"
+    "probability": 1.0, "voice": "GUN|K2|BREAK", "text": "GUN|K2|BREAK", "expression": "", "face_motion": "", 
+    "name": "대화4", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "BREAK"
   }, {
     "id": 330118, "type": 402, "motion_name": "motions/broken_5.mtn", "touch_area": "leg", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|K2|DEFENSE", "text": "GUN|K2|DEFENSE", "expression": "", "face_motion": "", 
@@ -6003,8 +6036,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 330405, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|M99|DIALOGUEWEDDING", "text": "GUN|M99|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|M99|DIALOGUEWEDDING", "text": "GUN|M99|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 330406, "type": 401, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -6024,8 +6057,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 330410, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|M99|DIALOGUEWEDDING", "text": "GUN|M99|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|M99|DIALOGUEWEDDING", "text": "GUN|M99|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 330411, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -6084,8 +6117,8 @@
     "voice_code": "SOULCONTRACT"
   }, {
     "id": 340111, "type": 300, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기 대화", "camera": 1, "is_hurt": 0, "level": 0, 
-    "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
+    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기 대화", "camera": 1, "is_hurt": 0, 
+    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 340112, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "GUN|HK416_0|HELLO", "text": "GUN|HK416_0|HELLO", "expression": "", "face_motion": "", "name": "로그인 대화", 
@@ -6121,8 +6154,8 @@
     "voice_code": "SKILL3"
   }, {
     "id": 340119, "type": 301, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기 대화", "camera": 1, "is_hurt": 1, "level": 0, 
-    "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
+    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기 대화", "camera": 1, "is_hurt": 1, 
+    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 340120, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "GUN|HK416_0|HELLO", "text": "GUN|HK416_0|HELLO", "expression": "", "face_motion": "", "name": "로그인 대화", 
@@ -6221,12 +6254,12 @@
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 340411, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|UMP9_0|HELLO", "text": "GUN|UMP9_0|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|UMP9_0|HELLO", "text": "GUN|UMP9_0|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 340412, "type": 1001, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|UMP9_0|HELLO", "text": "GUN|UMP9_0|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|UMP9_0|HELLO", "text": "GUN|UMP9_0|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 350101, "type": 101, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -6256,8 +6289,9 @@
     "voice_code": "COMBINE"
   }, {
     "id": 350107, "type": 200, "motion_name": "motions/touch_4.mtn", "touch_area": "leg", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|R93|MEET", "text": "GUN|R93|MEET", "expression": "", "face_motion": "", "name": "대화4", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MEET"
+    "probability": 1.0, "voice": "GUN|R93|MEET", "text": "GUN|R93|MEET", "expression": "", "face_motion": "", 
+    "name": "대화4", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "MEET"
   }, {
     "id": 350108, "type": 200, "motion_name": "motions/touch_5.mtn", "touch_area": "leg", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|R93|DIALOGUE3", "text": "GUN|R93|DIALOGUE3", "expression": "", "face_motion": "", 
@@ -6270,8 +6304,9 @@
     "next_motions": "", "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 350110, "type": 500, "motion_name": "motions/wedding.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|R93|SOULCONTRACT", "text": "GUN|R93|SOULCONTRACT", "expression": "", "face_motion": "", "name": "서약 모션", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "SOULCONTRACT"
+    "voice": "GUN|R93|SOULCONTRACT", "text": "GUN|R93|SOULCONTRACT", "expression": "", "face_motion": "", 
+    "name": "서약 모션", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "SOULCONTRACT"
   }, {
     "id": 350111, "type": 300, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 0, "level": 0, 
@@ -6460,12 +6495,12 @@
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 350411, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Type88|HELLO", "text": "GUN|Type88|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|Type88|HELLO", "text": "GUN|Type88|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 350412, "type": 1001, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Type88|HELLO", "text": "GUN|Type88|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|Type88|HELLO", "text": "GUN|Type88|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 360101, "type": 101, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, 
@@ -6484,8 +6519,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 360105, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|ADS|DIALOGUEWEDDING", "text": "GUN|ADS|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|ADS|DIALOGUEWEDDING", "text": "GUN|ADS|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 360106, "type": 401, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -6505,8 +6540,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 360110, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|ADS|DIALOGUEWEDDING", "text": "GUN|ADS|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|ADS|DIALOGUEWEDDING", "text": "GUN|ADS|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 360111, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -6610,8 +6645,9 @@
     "next_motions": "", "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 370110, "type": 500, "motion_name": "motions/wedding.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|PA15|SOULCONTRACT", "text": "GUN|PA15|SOULCONTRACT", "expression": "", "face_motion": "", "name": "서약 모션", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "SOULCONTRACT"
+    "voice": "GUN|PA15|SOULCONTRACT", "text": "GUN|PA15|SOULCONTRACT", "expression": "", "face_motion": "", 
+    "name": "서약 모션", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "SOULCONTRACT"
   }, {
     "id": 370111, "type": 300, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 0, "level": 0, 
@@ -6636,8 +6672,9 @@
     "voice_code": "BREAK"
   }, {
     "id": 370116, "type": 402, "motion_name": "motions/broken_3.mtn", "touch_area": "body", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|PA15|FIX", "text": "GUN|PA15|FIX", "expression": "", "face_motion": "", "name": "대화3", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "FIX"
+    "probability": 1.0, "voice": "GUN|PA15|FIX", "text": "GUN|PA15|FIX", "expression": "", "face_motion": "", 
+    "name": "대화3", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "FIX"
   }, {
     "id": 370117, "type": 402, "motion_name": "motions/broken_4.mtn", "touch_area": "leg", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|PA15|DEFENSE", "text": "GUN|PA15|DEFENSE", "expression": "", "face_motion": "", 
@@ -6700,12 +6737,12 @@
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 370211, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|95type|HELLO", "text": "GUN|95type|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|95type|HELLO", "text": "GUN|95type|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 370212, "type": 1001, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|95type|HELLO", "text": "GUN|95type|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|95type|HELLO", "text": "GUN|95type|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 370213, "type": 102, "motion_name": "wait_01.mtn", "touch_area": "0", "hold_time": "20,22", "probability": 0.3, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "특수대기1", "camera": 1, "is_hurt": 0, "level": 0, 
@@ -6758,12 +6795,12 @@
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 370311, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|97type|HELLO", "text": "GUN|97type|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|97type|HELLO", "text": "GUN|97type|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 370312, "type": 1001, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|97type|HELLO", "text": "GUN|97type|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|97type|HELLO", "text": "GUN|97type|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 370401, "type": 101, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, 
@@ -6871,8 +6908,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 380113, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|QBU88|HELLO", "text": "GUN|QBU88|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|QBU88|HELLO", "text": "GUN|QBU88|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 380114, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -6908,8 +6945,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 380121, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|QBU88|HELLO", "text": "GUN|QBU88|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|QBU88|HELLO", "text": "GUN|QBU88|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 380201, "type": 101, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -6985,8 +7022,9 @@
     "voice_code": "RETREAT"
   }, {
     "id": 380217, "type": 402, "motion_name": "motions/broken_3.mtn", "touch_area": "body", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|G36C|FIX", "text": "GUN|G36C|FIX", "expression": "", "face_motion": "", "name": "대화3", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "FIX"
+    "probability": 1.0, "voice": "GUN|G36C|FIX", "text": "GUN|G36C|FIX", "expression": "", "face_motion": "", 
+    "name": "대화3", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "FIX"
   }, {
     "id": 380218, "type": 402, "motion_name": "motions/broken_4.mtn", "touch_area": "leg", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|G36C|COMBINE", "text": "GUN|G36C|COMBINE", "expression": "", "face_motion": "", 
@@ -7113,8 +7151,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 390205, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|P22|DIALOGUEWEDDING", "text": "GUN|P22|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|P22|DIALOGUEWEDDING", "text": "GUN|P22|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 390206, "type": 401, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -7134,8 +7172,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 390210, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|P22|DIALOGUEWEDDING", "text": "GUN|P22|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|P22|DIALOGUEWEDDING", "text": "GUN|P22|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 390211, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -7202,8 +7240,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 400113, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Lewis|HELLO", "text": "GUN|Lewis|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|Lewis|HELLO", "text": "GUN|Lewis|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 400114, "type": 401, "motion_name": "motions/daiji_idle.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -7238,8 +7276,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 400121, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Lewis|HELLO", "text": "GUN|Lewis|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|Lewis|HELLO", "text": "GUN|Lewis|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 400301, "type": 101, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, 
@@ -7284,12 +7322,12 @@
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 400311, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|HKCAWS|HELLO", "text": "GUN|HKCAWS|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|HKCAWS|HELLO", "text": "GUN|HKCAWS|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 400312, "type": 1001, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|HKCAWS|HELLO", "text": "GUN|HKCAWS|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|HKCAWS|HELLO", "text": "GUN|HKCAWS|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 400313, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
     "voice": "GUN|HKCAWS|CHRISTMAS", "text": "GUN|HKCAWS|CHRISTMAS", "expression": "", "face_motion": "", "name": "대기", 
@@ -7354,8 +7392,8 @@
     "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
   }, {
     "id": 410113, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|SR3MP|HELLO", "text": "GUN|SR3MP|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|SR3MP|HELLO", "text": "GUN|SR3MP|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 410114, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -7390,8 +7428,8 @@
     "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
   }, {
     "id": 410121, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|SR3MP|HELLO", "text": "GUN|SR3MP|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|SR3MP|HELLO", "text": "GUN|SR3MP|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 410201, "type": 101, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, 
@@ -7410,8 +7448,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 410205, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|G11|DIALOGUEWEDDING", "text": "GUN|G11|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|G11|DIALOGUEWEDDING", "text": "GUN|G11|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 410206, "type": 401, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -7431,8 +7469,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 410210, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|G11|DIALOGUEWEDDING", "text": "GUN|G11|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|G11|DIALOGUEWEDDING", "text": "GUN|G11|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 410211, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -7525,8 +7563,9 @@
     "voice_code": "BREAK"
   }, {
     "id": 420117, "type": 402, "motion_name": "motions/broken_3.mtn", "touch_area": "body", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|DP12|FIX", "text": "GUN|DP12|FIX", "expression": "", "face_motion": "", "name": "대화3", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "FIX"
+    "probability": 1.0, "voice": "GUN|DP12|FIX", "text": "GUN|DP12|FIX", "expression": "", "face_motion": "", 
+    "name": "대화3", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "FIX"
   }, {
     "id": 420118, "type": 402, "motion_name": "motions/broken_4.mtn", "touch_area": "leg", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|DP12|SKILL2", "text": "GUN|DP12|SKILL2", "expression": "", "face_motion": "", 
@@ -7534,8 +7573,9 @@
     "voice_code": "SKILL2"
   }, {
     "id": 420119, "type": 402, "motion_name": "motions/broken_5.mtn", "touch_area": "leg", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|DP12|TIP", "text": "GUN|DP12|TIP", "expression": "", "face_motion": "", "name": "대화5", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "TIP"
+    "probability": 1.0, "voice": "GUN|DP12|TIP", "text": "GUN|DP12|TIP", "expression": "", "face_motion": "", 
+    "name": "대화5", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "TIP"
   }, {
     "id": 420120, "type": 301, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 1, "level": 0, 
@@ -7674,8 +7714,9 @@
     "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD1"
   }, {
     "id": 430108, "type": 200, "motion_name": "motions/touch_5.mtn", "touch_area": "leg", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|98K|FEED", "text": "GUN|98K|FEED", "expression": "", "face_motion": "", "name": "대화5", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "FEED"
+    "probability": 1.0, "voice": "GUN|98K|FEED", "text": "GUN|98K|FEED", "expression": "", "face_motion": "", 
+    "name": "대화5", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "FEED"
   }, {
     "id": 430109, "type": 200, "motion_name": "motions/touch_6.mtn", "touch_area": "body", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|98K|VALENTINE", "text": "GUN|98K|VALENTINE", "expression": "", "face_motion": "", 
@@ -7735,8 +7776,8 @@
     "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 430122, "type": 103, "motion_name": "motions/flower.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, "level": 0, 
-    "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
+    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, 
+    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 430123, "type": 104, "motion_name": "motions/daiji_idle_SINCE.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, 
@@ -7799,8 +7840,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 430213, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|M950A|HELLO", "text": "GUN|M950A|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|M950A|HELLO", "text": "GUN|M950A|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 430214, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -7835,8 +7876,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 430221, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|M950A|HELLO", "text": "GUN|M950A|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|M950A|HELLO", "text": "GUN|M950A|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 430401, "type": 101, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -7944,12 +7985,12 @@
     "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "SOULCONTRACT"
   }, {
     "id": 450111, "type": 300, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|OTs14|MOOD2", "text": "GUN|OTs14|MOOD2", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
+    "voice": "GUN|OTs14|MOOD2", "text": "GUN|OTs14|MOOD2", "expression": "", "face_motion": "", "name": "흔들기", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
   }, {
     "id": 450112, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|OTs14|HELLO", "text": "GUN|OTs14|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 1, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|OTs14|HELLO", "text": "GUN|OTs14|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 1, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 450113, "type": 401, "motion_name": "motions/daiji_01_idle.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -7985,12 +8026,12 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 450120, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|OTs14|HELLO", "text": "GUN|OTs14|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|OTs14|HELLO", "text": "GUN|OTs14|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 450121, "type": 103, "motion_name": "motions/scene_1.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, "level": 0, 
-    "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
+    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, 
+    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 450401, "type": 101, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, 
@@ -8615,8 +8656,9 @@
     "voice_code": "DIALOGUE3"
   }, {
     "id": 470315, "type": 402, "motion_name": "motions/broken_3.mtn", "touch_area": "body", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|ZB26|FIX", "text": "GUN|ZB26|FIX", "expression": "", "face_motion": "", "name": "대화3", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "FIX"
+    "probability": 1.0, "voice": "GUN|ZB26|FIX", "text": "GUN|ZB26|FIX", "expression": "", "face_motion": "", 
+    "name": "대화3", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "FIX"
   }, {
     "id": 470316, "type": 402, "motion_name": "motions/broken_4.mtn", "touch_area": "body", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|ZB26|DIALOGUE2", "text": "GUN|ZB26|DIALOGUE2", "expression": "", "face_motion": "", 
@@ -8653,8 +8695,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 470405, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|SL8|DIALOGUEWEDDING", "text": "GUN|SL8|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|SL8|DIALOGUEWEDDING", "text": "GUN|SL8|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 470406, "type": 401, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -8674,8 +8716,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 470410, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|SL8|DIALOGUEWEDDING", "text": "GUN|SL8|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|SL8|DIALOGUEWEDDING", "text": "GUN|SL8|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 470411, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -8826,8 +8868,8 @@
     "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 480221, "type": 103, "motion_name": "motions/raining.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, "level": 0, 
-    "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
+    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, 
+    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 480401, "type": 101, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, 
@@ -8946,8 +8988,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 490205, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|MG5|DIALOGUEWEDDING", "text": "GUN|MG5|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|MG5|DIALOGUEWEDDING", "text": "GUN|MG5|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 490206, "type": 401, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -8967,8 +9009,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 490210, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|MG5|DIALOGUEWEDDING", "text": "GUN|MG5|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|MG5|DIALOGUEWEDDING", "text": "GUN|MG5|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 490211, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -9116,12 +9158,12 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 490420, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|R93_Live2D|FEED", "text": "GUN|R93|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "FEED"
+    "voice": "GUN|R93_Live2D|FEED", "text": "GUN|R93|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "FEED"
   }, {
     "id": 490421, "type": 103, "motion_name": "motions/shining.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, "level": 0, 
-    "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
+    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, 
+    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 490501, "type": 101, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, 
@@ -9449,8 +9491,9 @@
     "voice_code": "DIALOGUE3"
   }, {
     "id": 520117, "type": 402, "motion_name": "motions/broken_4.mtn", "touch_area": "body", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|G36C|FIX", "text": "GUN|G36C|FIX", "expression": "", "face_motion": "", "name": "대화4", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "FIX"
+    "probability": 1.0, "voice": "GUN|G36C|FIX", "text": "GUN|G36C|FIX", "expression": "", "face_motion": "", 
+    "name": "대화4", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "FIX"
   }, {
     "id": 520118, "type": 402, "motion_name": "motions/broken_5.mtn", "touch_area": "leg", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|G36C|GOATTACK", "text": "GUN|G36C|GOATTACK", "expression": "", "face_motion": "", 
@@ -9482,8 +9525,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 520305, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|VHS|DIALOGUEWEDDING", "text": "GUN|VHS|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|VHS|DIALOGUEWEDDING", "text": "GUN|VHS|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 520306, "type": 401, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -9503,8 +9546,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 520310, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|VHS|DIALOGUEWEDDING", "text": "GUN|VHS|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|VHS|DIALOGUEWEDDING", "text": "GUN|VHS|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 520311, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -9532,8 +9575,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 520505, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|SAF|DIALOGUEWEDDING", "text": "GUN|SAF|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|SAF|DIALOGUEWEDDING", "text": "GUN|SAF|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 520506, "type": 401, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -9553,8 +9596,8 @@
     "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "DIALOGUE3"
   }, {
     "id": 520510, "type": 402, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|SAF|DIALOGUEWEDDING", "text": "GUN|SAF|DIALOGUEWEDDING", "expression": "", "face_motion": "", "name": "대기", 
-    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice": "GUN|SAF|DIALOGUEWEDDING", "text": "GUN|SAF|DIALOGUEWEDDING", "expression": "", "face_motion": "", 
+    "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 520511, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
@@ -9616,8 +9659,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 530212, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|R5RGP|HELLO", "text": "GUN|R5RGP|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|R5RGP|HELLO", "text": "GUN|R5RGP|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 530213, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -9653,8 +9696,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 530220, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|R5RGP|HELLO", "text": "GUN|R5RGP|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|R5RGP|HELLO", "text": "GUN|R5RGP|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 530501, "type": 101, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, 
@@ -9766,8 +9809,9 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 530812, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|88typeMod_Live2D|HELLO", "text": "GUN|88typeMod|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|88typeMod_Live2D|HELLO", "text": "GUN|88typeMod|HELLO", "expression": "", "face_motion": "", 
+    "name": "로그인", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "HELLO"
   }, {
     "id": 530813, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -9864,8 +9908,8 @@
     "voice_code": "SOULCONTRACT"
   }, {
     "id": 540211, "type": 300, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Saiga12|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 0, 
-    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
+    "voice": "GUN|Saiga12|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, 
+    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
   }, {
     "id": 540212, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "GUN|Saiga12|HELLO", "text": "GUN|Saiga12|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
@@ -9909,8 +9953,8 @@
     "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 540221, "type": 103, "motion_name": "motions/Flowers.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, "level": 0, 
-    "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
+    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, 
+    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 540501, "type": 101, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, 
@@ -10058,8 +10102,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 550120, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Lewis|HELLO", "text": "GUN|Lewis|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|Lewis|HELLO", "text": "GUN|Lewis|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 550201, "type": 101, "motion_name": "daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, "is_hurt": 0, "level": 0, 
@@ -10175,8 +10219,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 560213, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|OTs14|HELLO", "text": "GUN|OTs14|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 1330, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|OTs14|HELLO", "text": "GUN|OTs14|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 1330, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 560214, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -10212,8 +10256,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 560221, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|OTs14|HELLO", "text": "GUN|OTs14|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|OTs14|HELLO", "text": "GUN|OTs14|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 560301, "type": 101, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -10243,8 +10287,9 @@
     "voice_code": "DIALOGUE3"
   }, {
     "id": 560307, "type": 200, "motion_name": "motions/touch_4.mtn", "touch_area": "body", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|ZB26|WIN", "text": "GUN|ZB26|WIN", "expression": "", "face_motion": "", "name": "대화4", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "WIN"
+    "probability": 1.0, "voice": "GUN|ZB26|WIN", "text": "GUN|ZB26|WIN", "expression": "", "face_motion": "", 
+    "name": "대화4", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "WIN"
   }, {
     "id": 560308, "type": 200, "motion_name": "motions/touch_5.mtn", "touch_area": "body", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|ZB26|FORMATION", "text": "GUN|ZB26|FORMATION", "expression": "", "face_motion": "", 
@@ -10283,8 +10328,9 @@
     "voice_code": "RETREAT"
   }, {
     "id": 560316, "type": 402, "motion_name": "motions/broken_3.mtn", "touch_area": "body", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|ZB26|FIX", "text": "GUN|ZB26|FIX", "expression": "", "face_motion": "", "name": "대화3", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "FIX"
+    "probability": 1.0, "voice": "GUN|ZB26|FIX", "text": "GUN|ZB26|FIX", "expression": "", "face_motion": "", 
+    "name": "대화3", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "FIX"
   }, {
     "id": 560317, "type": 402, "motion_name": "motions/broken_4.mtn", "touch_area": "body", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|ZB26|DIALOGUE2", "text": "GUN|ZB26|DIALOGUE2", "expression": "", "face_motion": "", 
@@ -10347,12 +10393,12 @@
     "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 560411, "type": 1000, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|95type|HELLO", "text": "GUN|95type|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|95type|HELLO", "text": "GUN|95type|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 560412, "type": 1001, "motion_name": "", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|95type|HELLO", "text": "GUN|95type|HELLO", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|95type|HELLO", "text": "GUN|95type|HELLO", "expression": "", "face_motion": "", "name": "대기", 
+    "camera": 0, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 560413, "type": 200, "motion_name": "", "touch_area": "body", "hold_time": "0", "probability": 1.0, 
     "voice": "GUN|95type|VALENTINE", "text": "GUN|95type|VALENTINE", "expression": "", "face_motion": "", "name": "대기", 
@@ -10583,8 +10629,9 @@
     "voice_code": "BLACKACTION"
   }, {
     "id": 580218, "type": 402, "motion_name": "motions/broken_5.mtn", "touch_area": "leg", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|PA15|FIX", "text": "GUN|PA15|FIX", "expression": "", "face_motion": "", "name": "대화5", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "FIX"
+    "probability": 1.0, "voice": "GUN|PA15|FIX", "text": "GUN|PA15|FIX", "expression": "", "face_motion": "", 
+    "name": "대화5", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "FIX"
   }, {
     "id": 580219, "type": 301, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 1, "level": 0, 
@@ -11088,16 +11135,17 @@
     "next_motions": "", "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 640109, "type": 500, "motion_name": "motions/wedding.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|95type|SOULCONTRACT", "text": "GUN|95type|SOULCONTRACT", "expression": "", "face_motion": "", "name": "서약", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "SOULCONTRACT"
+    "voice": "GUN|95type|SOULCONTRACT", "text": "GUN|95type|SOULCONTRACT", "expression": "", "face_motion": "", 
+    "name": "서약", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "SOULCONTRACT"
   }, {
     "id": 640110, "type": 300, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|95type|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 0, 
-    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
+    "voice": "GUN|95type|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, 
+    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "MOOD2"
   }, {
     "id": 640111, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|95type|HELLO", "text": "GUN|95type|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|95type|HELLO", "text": "GUN|95type|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 640112, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -11129,16 +11177,16 @@
     "voice_code": "LOADING"
   }, {
     "id": 640118, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|95type|HELLO", "text": "GUN|95type|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 1, "delay": 5000, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|95type|HELLO", "text": "GUN|95type|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 1, "delay": 5000, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 640119, "type": 301, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 1, "level": 0, 
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 640120, "type": 103, "motion_name": "motions/repeat.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, "level": 0, 
-    "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
+    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, 
+    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 650301, "type": 101, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -11206,8 +11254,9 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 650315, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|88typeMod_Live2D|MOOD1", "text": "GUN|88typeMod|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 1000, "next_motions": "", "voice_code": ""
+    "voice": "GUN|88typeMod_Live2D|MOOD1", "text": "GUN|88typeMod|HELLO", "expression": "", "face_motion": "", 
+    "name": "로그인", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 1000, "next_motions": "", 
+    "voice_code": ""
   }, {
     "id": 650316, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -11347,8 +11396,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 660121, "type": 103, "motion_name": "motions/repeat.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, "level": 0, 
-    "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
+    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, 
+    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 670101, "type": 101, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -11393,16 +11442,17 @@
     "next_motions": "", "voice_code": "DIALOGUEWEDDING"
   }, {
     "id": 670110, "type": 500, "motion_name": "motions/wedding.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Vector|SOULCONTRACT", "text": "GUN|Vector|SOULCONTRACT", "expression": "", "face_motion": "", "name": "서약", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "SOULCONTRACT"
+    "voice": "GUN|Vector|SOULCONTRACT", "text": "GUN|Vector|SOULCONTRACT", "expression": "", "face_motion": "", 
+    "name": "서약", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "SOULCONTRACT"
   }, {
     "id": 670111, "type": 300, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 0, "level": 0, 
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 670112, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Vector|HELLO", "text": "GUN|Vector|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|Vector|HELLO", "text": "GUN|Vector|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 670113, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -11434,16 +11484,16 @@
     "voice_code": "COMBINE"
   }, {
     "id": 670119, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Vector|HELLO", "text": "GUN|Vector|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 500, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|Vector|HELLO", "text": "GUN|Vector|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 500, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 670120, "type": 301, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 1, "level": 0, 
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 670121, "type": 103, "motion_name": "motions/repeat.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, "level": 0, 
-    "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
+    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, 
+    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 680101, "type": 101, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -11585,8 +11635,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 690112, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Lewis|HELLO", "text": "GUN|Lewis|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|Lewis|HELLO", "text": "GUN|Lewis|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 690113, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -11618,16 +11668,16 @@
     "voice_code": "TIP"
   }, {
     "id": 690119, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Lewis|HELLO", "text": "GUN|Lewis|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
-    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 3000, "next_motions": "", "voice_code": "HELLO"
+    "voice": "GUN|Lewis|HELLO", "text": "GUN|Lewis|HELLO", "expression": "", "face_motion": "", "name": "로그인", 
+    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 3000, "next_motions": "", "voice_code": "HELLO"
   }, {
     "id": 690120, "type": 301, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 1, "level": 0, 
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 690121, "type": 103, "motion_name": "motions/repeat.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, "level": 0, 
-    "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
+    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, 
+    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 710101, "type": 101, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -11695,12 +11745,14 @@
     "voice_code": "RETREAT"
   }, {
     "id": 710115, "type": 402, "motion_name": "motions/broken_3.mtn", "touch_area": "head", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|ZB26|FIX", "text": "GUN|ZB26|FIX", "expression": "", "face_motion": "", "name": "대화3", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 500, "next_motions": "", "voice_code": "COMBINE"
+    "probability": 1.0, "voice": "GUN|ZB26|FIX", "text": "GUN|ZB26|FIX", "expression": "", "face_motion": "", 
+    "name": "대화3", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 500, "next_motions": "", 
+    "voice_code": "COMBINE"
   }, {
     "id": 710116, "type": 402, "motion_name": "motions/broken_4.mtn", "touch_area": "body", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|ZB26|TIP", "text": "GUN|ZB26|TIP", "expression": "", "face_motion": "", "name": "대화4", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "FIX"
+    "probability": 1.0, "voice": "GUN|ZB26|TIP", "text": "GUN|ZB26|TIP", "expression": "", "face_motion": "", 
+    "name": "대화4", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "FIX"
   }, {
     "id": 710117, "type": 402, "motion_name": "motions/broken_5.mtn", "touch_area": "body", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|ZB26|DIALOGUE2", "text": "GUN|ZB26|DIALOGUE2", "expression": "", "face_motion": "", 
@@ -11716,8 +11768,8 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 710120, "type": 103, "motion_name": "motions/repeat.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, "level": 0, 
-    "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
+    "voice": "", "text": "", "expression": "", "face_motion": "", "name": "시츄에이션", "camera": 0, "is_hurt": 0, 
+    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 710601, "type": 101, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -11968,8 +12020,9 @@
     "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 730312, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Sterling|BUILDOVER", "text": "GUN|Sterling|BUILDOVER", "expression": "", "face_motion": "", "name": "로그인", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 10930, "next_motions": "", "voice_code": ""
+    "voice": "GUN|Sterling|BUILDOVER", "text": "GUN|Sterling|BUILDOVER", "expression": "", "face_motion": "", 
+    "name": "로그인", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 10930, "next_motions": "", 
+    "voice_code": ""
   }, {
     "id": 730313, "type": 401, "motion_name": "motions/daiji_idle_01.mtn", "touch_area": "0", "hold_time": "0", 
     "probability": 1.0, "voice": "", "text": "", "expression": "", "face_motion": "", "name": "대기", "camera": 0, 
@@ -12025,8 +12078,9 @@
     "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 740604, "type": 200, "motion_name": "motions/touch_1.mtn", "touch_area": "head", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|G41|FEED", "text": "GUN|G41|FEED", "expression": "", "face_motion": "", "name": "대화1", 
-    "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "FEED"
+    "probability": 1.0, "voice": "GUN|G41|FEED", "text": "GUN|G41|FEED", "expression": "", "face_motion": "", 
+    "name": "대화1", "camera": 1, "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "FEED"
   }, {
     "id": 740605, "type": 200, "motion_name": "motions/touch_2.mtn", "touch_area": "head", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|G41|DIALOGUE3", "text": "GUN|G41|DIALOGUE3", "expression": "", "face_motion": "", 
@@ -12089,8 +12143,9 @@
     "voice_code": "BREAK"
   }, {
     "id": 740618, "type": 402, "motion_name": "motions/broken_5.mtn", "touch_area": "leg", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|G41|MEET", "text": "GUN|G41|MEET", "expression": "", "face_motion": "", "name": "대화5", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 1000, "next_motions": "", "voice_code": "MEET"
+    "probability": 1.0, "voice": "GUN|G41|MEET", "text": "GUN|G41|MEET", "expression": "", "face_motion": "", 
+    "name": "대화5", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 1000, "next_motions": "", 
+    "voice_code": "MEET"
   }, {
     "id": 740619, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "GUN|G41|HELLO", "text": "GUN|G41|HELLO", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
@@ -12279,12 +12334,14 @@
     "voice_code": "DIALOGUE2"
   }, {
     "id": 750117, "type": 402, "motion_name": "motions/broken_4.mtn", "touch_area": "leg", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|PA15|FIX", "text": "GUN|PA15|FIX", "expression": "", "face_motion": "", "name": "대화4", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "FIX"
+    "probability": 1.0, "voice": "GUN|PA15|FIX", "text": "GUN|PA15|FIX", "expression": "", "face_motion": "", 
+    "name": "대화4", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "FIX"
   }, {
     "id": 750118, "type": 402, "motion_name": "motions/broken_5.mtn", "touch_area": "leg", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|PA15|TIP", "text": "GUN|PA15|TIP", "expression": "", "face_motion": "", "name": "대화5", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "TIP"
+    "probability": 1.0, "voice": "GUN|PA15|TIP", "text": "GUN|PA15|TIP", "expression": "", "face_motion": "", 
+    "name": "대화5", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "TIP"
   }, {
     "id": 750119, "type": 1001, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "GUN|PA15|BREAK", "text": "GUN|PA15|BREAK", "expression": "", "face_motion": "", "name": "로그인", "camera": 1, 
@@ -12368,8 +12425,9 @@
     "voice_code": "RETREAT"
   }, {
     "id": 760117, "type": 402, "motion_name": "motions/broken_4.mtn", "touch_area": "body", "hold_time": "0", 
-    "probability": 1.0, "voice": "GUN|M327|TIP", "text": "GUN|M327|TIP", "expression": "", "face_motion": "", "name": "대화4", 
-    "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": "TIP"
+    "probability": 1.0, "voice": "GUN|M327|TIP", "text": "GUN|M327|TIP", "expression": "", "face_motion": "", 
+    "name": "대화4", "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", 
+    "voice_code": "TIP"
   }, {
     "id": 760118, "type": 402, "motion_name": "motions/broken_5.mtn", "touch_area": "body", "hold_time": "0", 
     "probability": 1.0, "voice": "GUN|M327|OPERATIONOVER", "text": "GUN|M327|OPERATIONOVER", "expression": "", 
@@ -12432,8 +12490,8 @@
     "voice_code": "SOULCONTRACT"
   }, {
     "id": 770611, "type": 300, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|56-1type|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 0, 
-    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
+    "voice": "GUN|56-1type|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, 
+    "is_hurt": 0, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }, {
     "id": 770612, "type": 1000, "motion_name": "motions/login.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
     "voice": "GUN|56-1type|FORMATION", "text": "GUN|56-1type|FORMATION", "expression": "", "face_motion": "", "name": "대기", 
@@ -12573,7 +12631,7 @@
     "camera": 1, "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 3180, "next_motions": "", "voice_code": "BREAK"
   }, {
     "id": 780122, "type": 301, "motion_name": "motions/shake.mtn", "touch_area": "0", "hold_time": "0", "probability": 1.0, 
-    "voice": "GUN|Delisle|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, "is_hurt": 1, 
-    "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
+    "voice": "GUN|Delisle|MOOD2", "text": "", "expression": "", "face_motion": "", "name": "흔들기", "camera": 1, 
+    "is_hurt": 1, "level": 0, "is_interrupt": 0, "delay": 0, "next_motions": "", "voice_code": ""
   }
 ]

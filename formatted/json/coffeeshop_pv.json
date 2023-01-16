@@ -7,7 +7,8 @@
   {"id": "6", "title": "이성질체", "description": "이성질체 PV", "cost": "506-1000", "prize_id": "5015", "item_ids": "0"}, 
   {"id": "7", "title": "연쇄분열", "description": "연쇄분열 PV", "cost": "506-1000", "prize_id": "5017", "item_ids": "0"}, 
   {
-    "id": "8", "title": "팬텀 신드롬", "description": "2019년 핼러윈 이벤트 PV", "cost": "506-1000", "prize_id": "5018", "item_ids": "0"
+    "id": "8", "title": "팬텀 신드롬", "description": "2019년 핼러윈 이벤트 PV", "cost": "506-1000", "prize_id": "5018", 
+    "item_ids": "0"
   }, {
     "id": "9", "title": "거룩한 밤 광상곡", "description": "2019년 성탄절 이벤트 PV", "cost": "506-1000", "prize_id": "5019", 
     "item_ids": "0"
@@ -25,13 +26,15 @@
     "id": "14", "title": "거울단계 - Protean", "description": "거울단계 - Protean", "cost": "506-1000", "prize_id": "5026", 
     "item_ids": "0"
   }, {
-    "id": "15", "title": "거울단계 - Decalcomanie", "description": "거울단계 - Decalcomanie", "cost": "506-1000", "prize_id": "5024", 
-    "item_ids": "0"
+    "id": "15", "title": "거울단계 - Decalcomanie", "description": "거울단계 - Decalcomanie", "cost": "506-1000", 
+    "prize_id": "5024", "item_ids": "0"
   }, 
   {"id": "16", "title": "재귀정리", "description": "재귀정리 PV", "cost": "506-1000", "prize_id": "5025", "item_ids": "0"}, 
   {
-    "id": "17", "title": "고정점", "description": "2022년 상반기 이벤트 PV", "cost": "506-1000", "prize_id": "5027", "item_ids": "0"
+    "id": "17", "title": "고정점", "description": "2022년 상반기 이벤트 PV", "cost": "506-1000", "prize_id": "5027", 
+    "item_ids": "0"
   }, {
-    "id": "18", "title": "세로변형", "description": "2022년 하반기 이벤트 PV", "cost": "506-1000", "prize_id": "5028", "item_ids": "0"
+    "id": "18", "title": "세로변형", "description": "2022년 하반기 이벤트 PV", "cost": "506-1000", "prize_id": "5028", 
+    "item_ids": "0"
   }
 ]

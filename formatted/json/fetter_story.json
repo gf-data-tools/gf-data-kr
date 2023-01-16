@@ -87,11 +87,11 @@
     "id": 308, "fetter_id": 3, "actor": "g:96;g:180;g:297;g:306;g:155", "milestone": 4, "reward": 22002, "name": "샛별", 
     "description": "\"네 모든 선택이 네 운명을 정한다.\""
   }, {
-    "id": 309, "fetter_id": 3, "actor": "g:96;g:180;g:297;g:306;g:155", "milestone": 4, "reward": 22022, "name": "레다와 백조", 
-    "description": "\"잃고 나서야 소중함을 깨달지 마.\""
+    "id": 309, "fetter_id": 3, "actor": "g:96;g:180;g:297;g:306;g:155", "milestone": 4, "reward": 22022, 
+    "name": "레다와 백조", "description": "\"잃고 나서야 소중함을 깨달지 마.\""
   }, {
-    "id": 310, "fetter_id": 3, "actor": "g:96;g:180;g:297;g:306;g:155", "milestone": 5, "reward": 22042, "name": "별들의 기억", 
-    "description": "\"형체를 지닌 건 필멸하지만, 형체 없는 의지는 불멸하다.\""
+    "id": 310, "fetter_id": 3, "actor": "g:96;g:180;g:297;g:306;g:155", "milestone": 5, "reward": 22042, 
+    "name": "별들의 기억", "description": "\"형체를 지닌 건 필멸하지만, 형체 없는 의지는 불멸하다.\""
   }, {
     "id": 401, "fetter_id": 4, "actor": "g:64;g:36", "milestone": 1, "reward": 22006, "name": "로즈마리", 
     "description": "\"저 두 사람은 그리폰 종합근무팀의 자랑. 가끔 욕심쟁이가 둘이 합치면 더 강해지지 않을까 생각합니다.\""

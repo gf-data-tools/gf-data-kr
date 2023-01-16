@@ -18,7 +18,8 @@
   {"id": 3004, "name": "설날 사자춤", "spine_code": "liondance", "scale": 100, "ai": 3004, "explore_tag": ""}, 
   {"id": 3005, "name": "성야환상 카리나", "spine_code": "Kalina_angel", "scale": 100, "ai": 3005, "explore_tag": ""}, 
   {
-    "id": 3006, "name": "만물박사가 되는 길 카리나", "spine_code": "Kalina_president", "scale": 100, "ai": 3006, "explore_tag": ""
+    "id": 3006, "name": "만물박사가 되는 길 카리나", "spine_code": "Kalina_president", "scale": 100, "ai": 3006, 
+    "explore_tag": ""
   }, 
   {"id": 3007, "name": "지하철 광고판", "spine_code": "CMboard", "scale": 100, "ai": 3007, "explore_tag": ""}, 
   {"id": 3008, "name": "달빛 무도회 카리나", "spine_code": "Kalina_DLS", "scale": 100, "ai": 3001, "explore_tag": ""}, 
@@ -44,7 +45,8 @@
   {"id": 3024, "name": "불꽃축제 시바견", "spine_code": "pet_dog8", "scale": 68, "ai": 2201, "explore_tag": "1002"}, 
   {"id": 3025, "name": "상어", "spine_code": "Shark", "scale": 100, "ai": 3016, "explore_tag": ""}, 
   {
-    "id": 3026, "name": "헤비메탈블러드 독", "spine_code": "RDinergate_RockRoll", "scale": 100, "ai": 3017, "explore_tag": ""
+    "id": 3026, "name": "헤비메탈블러드 독", "spine_code": "RDinergate_RockRoll", "scale": 100, "ai": 3017, 
+    "explore_tag": ""
   }, 
   {"id": 3027, "name": "핼러윈 좀비 캣", "spine_code": "cat_halloween", "scale": 68, "ai": 2100, "explore_tag": "1001"}, 
   {"id": 3028, "name": "핼러윈 갑옷", "spine_code": "armor_Halloween", "scale": 75, "ai": 3018, "explore_tag": ""}, 
@@ -87,12 +89,14 @@
   {
     "id": 3065, "name": "고전미인 카리나*", "spine_code": "Kalina_newyear2020", "scale": 100, "ai": 3001, "explore_tag": ""
   }, {
-    "id": 3066, "name": "주례 신부 꼬마 니토*", "spine_code": "nietuo_2020WhiteV", "scale": 100, "ai": 3044, "explore_tag": ""
+    "id": 3066, "name": "주례 신부 꼬마 니토*", "spine_code": "nietuo_2020WhiteV", "scale": 100, "ai": 3044, 
+    "explore_tag": ""
   }, 
   {"id": 3067, "name": "순백 금강앵무", "spine_code": "bird_2020V", "scale": 100, "ai": 3024, "explore_tag": "1003"}, 
   {"id": 3068, "name": "아기 공룡 아키쟝*", "spine_code": "Architect_shuiyi", "scale": 100, "ai": 3046, "explore_tag": ""}, 
   {
-    "id": 3069, "name": "주년회 촬영 헬기*", "spine_code": "helicopter_2020_Anni", "scale": 100, "ai": 3047, "explore_tag": ""
+    "id": 3069, "name": "주년회 촬영 헬기*", "spine_code": "helicopter_2020_Anni", "scale": 100, "ai": 3047, 
+    "explore_tag": ""
   }, 
   {"id": 3070, "name": "시노키오", "spine_code": "CarcanoM91_Pinocchio", "scale": 100, "ai": 3048, "explore_tag": ""}, 
   {"id": 3071, "name": "해변 순찰견", "spine_code": "dog_beach", "scale": 68, "ai": 2209, "explore_tag": "1002"}, 
@@ -104,14 +108,16 @@
   {"id": 3077, "name": "핼러윈 좀비*", "spine_code": "Halloween2020_Zombie2", "scale": 100, "ai": 3052, "explore_tag": ""}, 
   {"id": 3078, "name": "요원 boss*", "spine_code": "Agent2020_BossKing", "scale": 100, "ai": 3053, "explore_tag": ""}, 
   {
-    "id": 3079, "name": "성탄절 조각상*", "spine_code": "Christmas2020_deco_statue", "scale": 100, "ai": 3008, "explore_tag": ""
+    "id": 3079, "name": "성탄절 조각상*", "spine_code": "Christmas2020_deco_statue", "scale": 100, "ai": 3008, 
+    "explore_tag": ""
   }, 
   {"id": 3080, "name": "새해 사자*", "spine_code": "NewYear2021_Lion", "scale": 68, "ai": 3006, "explore_tag": ""}, 
   {"id": 3081, "name": "사자탈춤*", "spine_code": "2021SpringFes_Lion", "scale": 100, "ai": 3054, "explore_tag": ""}, 
   {"id": 3082, "name": "신부 아키쟝*", "spine_code": "2021WhiteV_Architect", "scale": 100, "ai": 3001, "explore_tag": ""}, 
   {"id": 3083, "name": "시상식 드론*", "spine_code": "Raverbury_medalDrone", "scale": 100, "ai": 3008, "explore_tag": ""}, 
   {
-    "id": 3084, "name": "주년 연회 열기구*", "spine_code": "Anniversary2021_balloon", "scale": 100, "ai": 3008, "explore_tag": ""
+    "id": 3084, "name": "주년 연회 열기구*", "spine_code": "Anniversary2021_balloon", "scale": 100, "ai": 3008, 
+    "explore_tag": ""
   }, {
     "id": 3085, "name": "검은 꼬리 신사", "spine_code": "2021Summer_SeaMew", "scale": 100, "ai": 3024, "explore_tag": "1003"
   }, 
@@ -121,25 +127,32 @@
   }, 
   {"id": 3088, "name": "베트", "spine_code": "Dropkick_BethPet", "scale": 68, "ai": 3001, "explore_tag": "1004"}, 
   {
-    "id": 3089, "name": "수영복 철댕이*", "spine_code": "Summer2021_deco_DinergateSP", "scale": 100, "ai": 3057, "explore_tag": ""
+    "id": 3089, "name": "수영복 철댕이*", "spine_code": "Summer2021_deco_DinergateSP", "scale": 100, "ai": 3057, 
+    "explore_tag": ""
   }, {
-    "id": 3090, "name": "불도그 펠레", "spine_code": "2021SummerActivity_dogPet", "scale": 68, "ai": 3019, "explore_tag": "1002"
+    "id": 3090, "name": "불도그 펠레", "spine_code": "2021SummerActivity_dogPet", "scale": 68, "ai": 3019, 
+    "explore_tag": "1002"
   }, {
     "id": 3091, "name": "이발사 카리나*", "spine_code": "2021Halloween_Kalina", "scale": 100, "ai": 3058, "explore_tag": ""
   }, {
-    "id": 3092, "name": "성탄절 사슴", "spine_code": "Christmas2021_DeerPet", "scale": 120, "ai": 3001, "explore_tag": "1004"
+    "id": 3092, "name": "성탄절 사슴", "spine_code": "Christmas2021_DeerPet", "scale": 120, "ai": 3001, 
+    "explore_tag": "1004"
   }, 
   {"id": 3093, "name": "기수 철댕이*", "spine_code": "WhiteV2022_ant", "scale": 68, "ai": 3059, "explore_tag": ""}, 
   {
-    "id": 3094, "name": "서빙 철댕이*", "spine_code": "Anniversary2022_waiterAnt", "scale": 55, "ai": 3000, "explore_tag": ""
+    "id": 3094, "name": "서빙 철댕이*", "spine_code": "Anniversary2022_waiterAnt", "scale": 55, "ai": 3000, 
+    "explore_tag": ""
   }, {
-    "id": 3095, "name": "테니스 카리나*", "spine_code": "Children2022_tennisKalina", "scale": 100, "ai": 3060, "explore_tag": ""
+    "id": 3095, "name": "테니스 카리나*", "spine_code": "Children2022_tennisKalina", "scale": 100, "ai": 3060, 
+    "explore_tag": ""
   }, 
   {"id": 3096, "name": "아이스 철댕이*", "spine_code": "2022Icecream_dog", "scale": 50, "ai": 3011, "explore_tag": ""}, 
   {
-    "id": 3097, "name": "스페이스 카리나*", "spine_code": "Space2022_astronautKalina", "scale": 100, "ai": 3061, "explore_tag": ""
+    "id": 3097, "name": "스페이스 카리나*", "spine_code": "Space2022_astronautKalina", "scale": 100, "ai": 3061, 
+    "explore_tag": ""
   }, {
-    "id": 3098, "name": "쇼핑 카리나*", "spine_code": "Carnival2022_shoppingKalina", "scale": 100, "ai": 3061, "explore_tag": ""
+    "id": 3098, "name": "쇼핑 카리나*", "spine_code": "Carnival2022_shoppingKalina", "scale": 100, "ai": 3061, 
+    "explore_tag": ""
   }, 
   {"id": 3099, "name": "풍선철댕이*", "spine_code": "KungFu2022_balloonDog", "scale": 68, "ai": 3062, "explore_tag": ""}, 
   {"id": 3100, "name": "엉클", "spine_code": "dog_scarL2", "scale": 100, "ai": 3063, "explore_tag": "1002"}, 

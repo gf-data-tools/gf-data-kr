@@ -9,40 +9,40 @@
     "org_introduction": "젊고 유능한 그리폰 기사, 그 앞길에 수많은 고비가 있겠지만, 항상 곁에 도움의 손길이 함께한다."
   }, {
     "id": -12, "name": "마호로", "code": "NPC_Maid", "title": "마호로", "ai": 9999, "is_adjutant": 1, 
-    "unlock_text": "긴급 11-4 전역을 클리어 시 해금", "mission_id": 114, "item_id": 0, "skin_code": "", "voice_code": "", "org_id": "", 
-    "org_introduction": "npc-39999988"
+    "unlock_text": "긴급 11-4 전역을 클리어 시 해금", "mission_id": 114, "item_id": 0, "skin_code": "", "voice_code": "", 
+    "org_id": "", "org_introduction": "npc-39999988"
   }, {
     "id": -11, "name": "K", "code": "NPC_Jason", "title": "K", "ai": 9999, "is_adjutant": 1, 
-    "unlock_text": "긴급 11-4 전역을 클리어 시 해금", "mission_id": 114, "item_id": 0, "skin_code": "", "voice_code": "", "org_id": "", 
-    "org_introduction": "npc-39999989"
+    "unlock_text": "긴급 11-4 전역을 클리어 시 해금", "mission_id": 114, "item_id": 0, "skin_code": "", "voice_code": "", 
+    "org_id": "", "org_introduction": "npc-39999989"
   }, {
     "id": -10, "name": "안젤리아", "code": "NPC_Ange", "title": "안젤리아", "ai": 9999, "is_adjutant": 1, 
-    "unlock_text": "일반 10-1 전역을 클리어 시 해금", "mission_id": 95, "item_id": 0, "skin_code": "", "voice_code": "", "org_id": "", 
-    "org_introduction": "npc-39999990"
+    "unlock_text": "일반 10-1 전역을 클리어 시 해금", "mission_id": 95, "item_id": 0, "skin_code": "", "voice_code": "", 
+    "org_id": "", "org_introduction": "npc-39999990"
   }, {
     "id": -9, "name": "하벨", "code": "NPC_Havel", "title": "하벨", "ai": 9999, "is_adjutant": 1, 
-    "unlock_text": "일반 9-2 전역을 클리어 시 해금", "mission_id": 86, "item_id": 0, "skin_code": "", "voice_code": "", "org_id": "", 
-    "org_introduction": "npc-39999991"
+    "unlock_text": "일반 9-2 전역을 클리어 시 해금", "mission_id": 86, "item_id": 0, "skin_code": "", "voice_code": "", 
+    "org_id": "", "org_introduction": "npc-39999991"
   }, {
     "id": -8, "name": "제레", "code": "NPC_Seele", "title": "제레", "ai": 9999, "is_adjutant": 1, 
-    "unlock_text": "심층투영 - 심지혼선 I 전역을 클리어 시 해금", "mission_id": 10030, "item_id": 0, "skin_code": "", "voice_code": "", 
-    "org_id": "", "org_introduction": "npc-39999992"
+    "unlock_text": "심층투영 - 심지혼선 I 전역을 클리어 시 해금", "mission_id": 10030, "item_id": 0, "skin_code": "", 
+    "voice_code": "", "org_id": "", "org_introduction": "npc-39999992"
   }, {
     "id": -7, "name": "데레", "code": "NPC_Deele", "title": "데레", "ai": 9999, "is_adjutant": 1, 
-    "unlock_text": "심층투영 - 심지혼선 I 전역을 클리어 시 해금", "mission_id": 10030, "item_id": 0, "skin_code": "", "voice_code": "", 
-    "org_id": "", "org_introduction": "npc-39999993"
+    "unlock_text": "심층투영 - 심지혼선 I 전역을 클리어 시 해금", "mission_id": 10030, "item_id": 0, "skin_code": "", 
+    "voice_code": "", "org_id": "", "org_introduction": "npc-39999993"
   }, {
     "id": -6, "name": "크루거", "code": "NPC_Kryuger", "title": "크루거", "ai": 9999, "is_adjutant": 1, 
-    "unlock_text": "일반 5-2 전역을 클리어 시 해금", "mission_id": 46, "item_id": 0, "skin_code": "", "voice_code": "", "org_id": "", 
-    "org_introduction": "npc-39999994"
+    "unlock_text": "일반 5-2 전역을 클리어 시 해금", "mission_id": 46, "item_id": 0, "skin_code": "", "voice_code": "", 
+    "org_id": "", "org_introduction": "npc-39999994"
   }, {
     "id": -5, "name": "페르시카", "code": "NPC_Persica", "title": "페르시카", "ai": 9999, "is_adjutant": 1, 
-    "unlock_text": "일반 2-4 전역을 클리어 시 해금", "mission_id": 18, "item_id": 0, "skin_code": "", "voice_code": "", "org_id": "", 
-    "org_introduction": "npc-39999995"
+    "unlock_text": "일반 2-4 전역을 클리어 시 해금", "mission_id": 18, "item_id": 0, "skin_code": "", "voice_code": "", 
+    "org_id": "", "org_introduction": "npc-39999995"
   }, {
     "id": -4, "name": "헬리안", "code": "NPC_Helianthus", "title": "헬리안", "ai": 9999, "is_adjutant": 1, 
-    "unlock_text": "일반 1-2 전역을 클리어 시 해금", "mission_id": 6, "item_id": 0, "skin_code": "", "voice_code": "", "org_id": "", 
-    "org_introduction": "npc-39999996"
+    "unlock_text": "일반 1-2 전역을 클리어 시 해금", "mission_id": 6, "item_id": 0, "skin_code": "", "voice_code": "", 
+    "org_id": "", "org_introduction": "npc-39999996"
   }, {
     "id": -3, "name": "TGS", "code": "NPC_TGS0201", "title": "TGS", "ai": 9999, "is_adjutant": 0, 
     "unlock_text": "npc-29999997", "mission_id": 0, "item_id": 0, "skin_code": "", "voice_code": "", "org_id": "", 
