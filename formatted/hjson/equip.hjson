@@ -9223,7 +9223,7 @@
     description:
       '''
       치명률+<critical_percent><%>
-      화력+<pow>$ACR 전용
+      화력+<pow> 스킬 강화$ACR 전용
       '''
     rank: 5
     category: 1
@@ -9948,7 +9948,7 @@
     bonus_type: hit:800
     passive_skill: "759065"
     max_level: 10
-    auto_select_id: 18080
+    auto_select_id: 18107
     is_show: 1
     obtain_ids: "3074"
     sp_description: equip-40000315
@@ -9983,7 +9983,7 @@
     bonus_type: hit:1000,critical_percent:1000
     passive_skill: "759066"
     max_level: 10
-    auto_select_id: 18081
+    auto_select_id: 18108
     is_show: 1
     obtain_ids: "3075"
     sp_description: equip-40000316
@@ -10058,7 +10058,7 @@
     name: PSP 특수탄
     description:
       '''
-      화력+<pow>
+      화력+<pow> 스킬 강화
       $ADS 전용
       '''
     rank: 5
@@ -10085,5 +10085,173 @@
     is_show: 1
     obtain_ids: "3081"
     sp_description: equip-40000319
+  }
+  {
+    id: 320
+    name: MAB 고성능 기동골격
+    description:
+      '''
+      화력+ <pow>
+      회피+<dodge>$PA-15 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "1,3"
+    dodge: "20,25"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: 人形_特殊_PA15
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "260"
+    equip_introduction: IOP가 PA-15를 위해 개발한 신형 기동골격으로, 마인드맵과 전투 데이터를 공유할 수 있는 칩이 내장되어 인형의 작전 효율을 크게 끌어올립니다.
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3.0
+    bonus_type: pow:700,dodge:600
+    max_level: 10
+    auto_select_id: 20051
+    is_show: 1
+    obtain_ids: "3093"
+    sp_description: equip-40000320
+  }
+  {
+    id: 321
+    name: 8mm 마우저 특수탄
+    description:
+      '''
+      관통+<armor_piercing>
+      화력+<pow> 스킬 강화$ZB-26 전용
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "1,3"
+    armor_piercing: "270,275"
+    retire_ammo: 4
+    retire_mre: 2
+    retire_part: 3
+    code: 弹匣_特殊_ZB26
+    develop_duration: 3300
+    company: IOP
+    fit_guns: "307"
+    equip_introduction: IOP가 ZB-26를 위해 단독 개발한 8mm 마우저탄, 탄두는 Patrone 88과 같은 라운드 구조를 채용하였고, IOP의 기술력 덕에 현대 탄두보다 뛰어난 살상력을 발휘합니다.
+    powerup_mp: 0.08
+    powerup_ammo: 0.5
+    powerup_mre: 0.3
+    powerup_part: 0.3
+    exclusive_rate: 3.0
+    bonus_type: armor_piercing:1000,pow:700
+    passive_skill: "759072"
+    max_level: 10
+    auto_select_id: 19048
+    is_show: 1
+    obtain_ids: "3082"
+    sp_description: equip-40000321
+  }
+  {
+    id: 322
+    name: 6.5X50mm 개량탄
+    description:
+      '''
+      관통+<armor_piercing>
+      화력+<pow>$81식 카빈 전용
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "3,5"
+    armor_piercing: "110,120"
+    retire_ammo: 4
+    retire_mre: 2
+    retire_part: 3
+    code: 弹匣_特殊_八一式马
+    develop_duration: 3300
+    company: IOP
+    fit_guns: "174"
+    equip_introduction: IOP가 개량한 81식 카빈 소총 전용 6.5x50mm 철갑탄, 안정성과 살상력 모두 보장합니다.
+    powerup_mp: 0.08
+    powerup_ammo: 0.5
+    powerup_mre: 0.3
+    powerup_part: 0.3
+    exclusive_rate: 3.0
+    bonus_type: armor_piercing:500,pow:1000
+    max_level: 10
+    auto_select_id: 19049
+    is_show: 1
+    obtain_ids: "3003"
+    sp_description: equip-40000322
+  }
+  {
+    id: 323
+    name: MHS33
+    description:
+      '''
+      치명률+<critical_percent><%>
+      화력+<pow>$HK33 전용
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    pow: "3,4"
+    critical_percent: "17,24"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_mre: 2
+    retire_part: 2
+    code: 配件_特殊_HK33
+    develop_duration: 2820
+    company: DT
+    fit_guns: "265"
+    equip_introduction: HK33의 현대화 개수를 위한 Mlok 핸드가드, 그립감과 부착물 탑재력을 크게 높였습니다.
+    powerup_mp: 0.55
+    powerup_ammo: 0.23
+    powerup_mre: 0.23
+    powerup_part: 0.23
+    exclusive_rate: 3.0
+    bonus_type: critical_percent:1000,pow:1000
+    max_level: 10
+    auto_select_id: 18109
+    is_show: 1
+    obtain_ids: "3003"
+    sp_description: equip-40000323
+  }
+  {
+    id: 324
+    name: Dreibein 34
+    description:
+      '''
+      화력+<pow> 명중+<hit>
+      치명률+<critical_percent><%>$MG34 전용
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    pow: "2,4"
+    hit: "3,5"
+    critical_percent: "19,24"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: 配件_特殊_MG34
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "87"
+    equip_introduction: IOP가 복원하고 가공한 MG34 전용 삼각대, 전투 중 더욱 안정적인 화력 지원이 가능합니다.
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3.0
+    bonus_type: pow:1000,critical_percent:1000,hit:1000
+    max_level: 10
+    auto_select_id: 18110
+    is_show: 1
+    obtain_ids: "3003"
+    sp_description: equip-40000324
   }
 ]

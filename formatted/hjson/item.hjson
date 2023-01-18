@@ -13124,6 +13124,86 @@
     detail_introduction: item-30002226
   }
   {
+    id: 2227
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2023_MK3A1
+    item_name: MK3A1 - 홍로에 취해
+    introduction: MK3A1 - 홍로에 취해
+    rank: 1
+    detail_introduction: item-30002227
+  }
+  {
+    id: 2228
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2023_Px4Storm
+    item_name: Px4 스톰 - 가을 바람의 노래
+    introduction: Px4 스톰 - 가을 바람의 노래
+    rank: 1
+    detail_introduction: item-30002228
+  }
+  {
+    id: 2229
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2023_Erma
+    item_name: Erma - 그윽한 매화향
+    introduction: Erma - 그윽한 매화향
+    rank: 1
+    detail_introduction: item-30002229
+  }
+  {
+    id: 2230
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2023_Savage99
+    item_name: Savage 99 - 유유한 옥총
+    introduction: Savage 99 - 유유한 옥총
+    rank: 1
+    detail_introduction: item-30002230
+  }
+  {
+    id: 2231
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2023_RexZero1
+    item_name: Rex-0-1 - 마당 한가득 향기
+    introduction: Rex-0-1 - 마당 한가득 향기
+    rank: 1
+    detail_introduction: item-30002231
+  }
+  {
+    id: 2232
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2023_Tabuk
+    item_name: 타부크 - 행운 한쌍
+    introduction: 타부크 - 행운 한쌍
+    rank: 1
+    detail_introduction: item-30002232
+  }
+  {
+    id: 2233
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2023_APC556
+    item_name: APC556 - 목란의 시
+    introduction: APC556 - 목란의 시
+    rank: 1
+    detail_introduction: item-30002233
+  }
+  {
+    id: 2234
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2023_DP28
+    item_name: DP28 - 나팔꽃 덩굴
+    introduction: DP28 - 나팔꽃 덩굴
+    rank: 1
+    detail_introduction: item-30002234
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -13684,6 +13764,7 @@
     code: qjyd_20220901
     item_name: 골 타임
     introduction: 끊임없이 성능을 올리고 소체를 반복해서 테스트하는 것은 전부 승부를 내기 위한 노력으로, 이 순간을 영원히 남기기 위한 것이다.
+    rank: 1
     detail_introduction: item-30007039
   }
   {
@@ -13693,6 +13774,7 @@
     code: qjyd_20220902
     item_name: 작은 서프라이즈
     introduction: 진수성찬, 축복과 담소. 폭죽을 터뜨리는 소리와 함께 철야 파티의 시작을 알립니다.
+    rank: 1
     detail_introduction: item-30007040
   }
   {
@@ -13702,7 +13784,38 @@
     code: qjyd_20220903
     item_name: 황금 전설
     introduction: 승자는 트로피를 높이 들어올려 모두의 시선을 끌어모읍니다. 눈부신 광채가 증명하는 소녀들이 창조한 또 하나의 전설입니다.
+    rank: 1
     detail_introduction: item-30007041
+  }
+  {
+    id: 7042
+    type: 7
+    arg: "7042"
+    code: qjyd_20230101
+    item_name: 자유인
+    introduction: 저쪽 진형을 봐, 별거 없어! 최소한의 수비를 빼고 우리가 할일은 단 세 가지. 공격! 공격! 오로지 공격!
+    rank: 1
+    detail_introduction: item-30007042
+  }
+  {
+    id: 7043
+    type: 7
+    arg: "7043"
+    code: qjyd_20230102
+    item_name: 해트트릭
+    introduction: 첫 골, 상대는 아직 기회를 노린다. 두 번째 골, 상대는 전략을 수정한다. 세 번째 골... 슬슬 심리과 의사라도 불러줘야 할까?
+    rank: 1
+    detail_introduction: item-30007043
+  }
+  {
+    id: 7044
+    type: 7
+    arg: "7044"
+    code: qjyd_20230103
+    item_name: 월드 웨이브
+    introduction: 골! 고오오올!! 이번 경기 가장 멋진 골입니다!!! 이 순간을 만든 주인공를 더 조명해주세요. 아아, 얼마나 눈부십니까!!!
+    rank: 1
+    detail_introduction: item-30007044
   }
   {
     id: 7201
@@ -13937,6 +14050,49 @@
     introduction: 秃洞npc卡score标记用
     rank: 1
     detail_introduction: item-30009019
+    is_hide_info: 1
+  }
+  {
+    id: 9026
+    type: 1
+    arg: "9026"
+    code: EventPT4
+    item_name: 문제상자 PT
+    introduction: 문제상자 PT
+    rank: 1
+    detail_introduction: item-30009026
+  }
+  {
+    id: 9027
+    type: 1
+    arg: "9027"
+    code: Rouge_Raid
+    item_name: 획득 후 이벤트에서 아군 제대는 연합돌격 스킬을 얻고, 사용 시 저격지원, 포격지원, 공습지원 전장효과를 얻는다.
+    introduction: 획득 후 이벤트에서 아군 제대는 연합돌격 스킬을 얻고, 사용 시 저격지원, 포격지원, 공습지원 전장효과를 얻는다.
+    rank: 1
+    detail_introduction: item-30009027
+    is_hide_info: 1
+  }
+  {
+    id: 9028
+    type: 1
+    arg: "9028"
+    code: Rouge_Focus
+    item_name: 획득 후 이벤트에서 아군 제대는 집중 스킬을 얻고, 사용 시 동명 전장효과를 얻는다.
+    introduction: 획득 후 이벤트에서 아군 제대는 집중 스킬을 얻고, 사용 시 동명 전장효과를 얻는다.
+    rank: 1
+    detail_introduction: item-30009028
+    is_hide_info: 1
+  }
+  {
+    id: 9029
+    type: 1
+    arg: "9029"
+    code: Rouge_Strengthen
+    item_name: 획득 후 이벤트에서 아군 제대는 집중 스킬을 얻고, 사용 시 동명 전장효과를 얻는다.
+    introduction: 획득 후 이벤트에서 아군 제대는 강화 스킬을 얻고, 사용 시 동명 전장효과를 얻는다.
+    rank: 1
+    detail_introduction: item-30009029
     is_hide_info: 1
   }
   {
@@ -15694,6 +15850,70 @@
     detail_introduction: item-30100168
   }
   {
+    id: 100169
+    type: 9
+    arg: "100169"
+    code: Fix_Coin
+    item_name: 수정 코인
+    introduction: 수정 코인
+    rank: 1
+    daily_limit: "60"
+    detail_introduction: item-30100169
+  }
+  {
+    id: 100170
+    type: 4
+    arg: "100170"
+    code: Nova_medal
+    item_name: 노바훈장·문제상자 가설
+    introduction: 노바훈장·문제상자 가설
+    rank: 1
+    detail_introduction: item-30100170
+  }
+  {
+    id: 100171
+    type: 4
+    arg: "100171"
+    code: Platinum_medal
+    item_name: 백금훈장·문제상자 가설
+    introduction: 백금훈장·문제상자 가설
+    rank: 1
+    detail_introduction: item-30100171
+  }
+  {
+    id: 100172
+    type: 1
+    arg: "100172"
+    code: Rouge_Raid
+    item_name: 연합돌격
+    introduction: 획득 후 이벤트에서 아군 제대는 연합돌격 스킬을 얻고, 사용 시 저격지원, 포격지원, 공습지원 전장효과를 얻는다.
+    rank: 1
+    sort: -1
+    detail_introduction: item-30100172
+  }
+  {
+    id: 100173
+    type: 1
+    arg: "100173"
+    code: Rouge_Focus
+    item_name: 집중
+    introduction: 획득 후 이벤트에서 아군 제대는 집중 스킬을 얻고, 사용 시 동명 전장효과를 얻는다.
+    rank: 1
+    sort: -1
+    detail_introduction: item-30100173
+  }
+  {
+    id: 100174
+    type: 1
+    arg: "100174"
+    code: Rouge_Strengthen
+    item_name: 강화
+    introduction: 획득 후 이벤트에서 아군 제대는 집중 스킬을 얻고, 사용 시 동명 전장효과를 얻는다.
+    rank: 1
+    sort: -1
+    detail_introduction: item-30100174
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -16242,6 +16462,16 @@
     introduction: 이벤트 점수
     rank: 1
     detail_introduction: item-30110055
+  }
+  {
+    id: 110056
+    type: 4
+    arg: "110056"
+    code: PT
+    item_name: 이벤트 점수
+    introduction: 이벤트 점수
+    rank: 1
+    detail_introduction: item-30110056
   }
   {
     id: 120001
@@ -17336,5 +17566,38 @@
     rank: 1
     sort: -1
     detail_introduction: item-31500044
+  }
+  {
+    id: 1500045
+    type: 15
+    arg: "1500045"
+    code: Bumdle_Coupons3
+    item_name: 레어 코스튬 추첨권
+    introduction: 창고에서 이 추첨권을 사용하면 출현 범위 중 보유하지 않은 코스튬 하나를 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500045
+  }
+  {
+    id: 1500046
+    type: 15
+    arg: "1500046"
+    code: Bumdle_Coupons2
+    item_name: 럭셔리 코스튬 추첨권
+    introduction: 창고에서 이 추첨권을 사용하면 출현 범위 중 보유하지 않은 코스튬 하나를 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500046
+  }
+  {
+    id: 1500047
+    type: 15
+    arg: "1500047"
+    code: Bumdle_Coupons1
+    item_name: 로얄 코스튬 추첨권
+    introduction: 창고에서 이 추첨권을 사용하면 출현 범위 중 보유하지 않은 코스튬 하나를 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500047
   }
 ]

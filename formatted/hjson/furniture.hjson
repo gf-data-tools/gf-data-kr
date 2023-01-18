@@ -19400,6 +19400,38 @@
     touch_area: "5,5,3"
   }
   {
+    id: 7238
+    name: 필승 달마
+    classes: 72
+    type: 201
+    space: "4,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 어떤 일이 있어도 쓰러지지 않는 이것은 그야말로 당신의 칠전팔기 정신의 화신이죠! 잠깐만, P7. 또 남들 한눈판 사이에 무슨 장난하려는 거지?
+    code: qjyd_20230102_deco_01
+    texture_type: "2"
+    offset: "0.000,0.136,0.031"
+    rotate: "2"
+    touch_area: "4,4,4"
+  }
+  {
+    id: 7239
+    name: 얼룩 마네키네코
+    classes: 72
+    type: 201
+    space: "5,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 수많은 고양이들이 바라는 직장, 그저 앉아서 앞발을 흔들면 상전에 모셔질 수 있죠... 다만 어깨가 빠지는 일도 있다고 하니, 집 안의 마네키네코를 소중히 다뤄주세요!
+    code: qjyd_20230101_deco_01
+    texture_type: "2"
+    offset: "0.000,0.334,0.073"
+    rotate: "2"
+    interact_point: "43"
+    interact_point_offset: *0.379,0.911,0.199
+    touch_area: "5,5,5"
+  }
+  {
     id: 7301
     name: 아쿠아리움 - 아크릴 바닥
     classes: 73
@@ -26658,6 +26690,196 @@
     code: KungFu2022_deco_16
     texture_type: "1"
     offset: "0.000,-0.219,-0.052"
+    rotate: "2"
+  }
+  {
+    id: 10901
+    name: 토끼 새해 마당 - 눈이 쌓인 땅
+    classes: 109
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 하늘아, 새하얀 눈송이로 작년의 먼지를 덮어다오. 이 깨끗한 땅에 미래를 그릴 수 있도록.
+    code: SpringFes2023_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 10902
+    name: 토끼 새해 마당 - 뜨거운 꽃밭
+    classes: 109
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 무대에 처음 오를 차례를 두고 인형들이 싸움을 벌이기 시작할 때, 요란한 곳을 좋아하는 아키텍트가 이미 불꽃놀이용 개량 주피터포를 들고서 백스테이지에 숨어들었다...
+    code: SpringFes2023_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 10903
+    name: 토끼 새해 마당 - 복맞이 대문
+    classes: 109
+    type: 201
+    position: "1,3"
+    space: "7,4,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 백스테이지로 통하는 스태프 도어에 붉은 족자를 붙이니 오늘 밤 무대에 오르는 인형들에게 집의 포근함을 더해줄 수 있었습니다.
+    code: SpringFes2023_deco_01
+    texture_type: "1"
+    offset: "0.000,-0.323,-0.073"
+    rotate: "2"
+  }
+  {
+    id: 10904
+    name: 토끼 새해 마당 - 생기 넘치는 연못
+    classes: 109
+    type: 201
+    position: "1,10"
+    space: "5,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 음악이 울리면 연못 속 똑똑한 잉어가 박자에 맞춰 꼬리를 흔듭니다... 이건 과연 실물일까요, 아니면 정교한 대형 오르골일까요?
+    code: SpringFes2023_deco_15,SpringFes2023_deco_16,SpringFes2023_pool
+    texture_type: "1,1,2"
+    sorting: "0,20,10"
+    offset: "0.000,0.000,0.000|0,0.3555607,0.0813306|0.198,0.480,0.104"
+    rotate: "2,2,2"
+  }
+  {
+    id: 10905
+    name: 토끼 새해 마당 - 새하얀 잔치상
+    classes: 109
+    type: 201
+    position: "10,9"
+    space: "9,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 약한 불에 천천히 끓여야 국물이 제대로 우려진다."가장 순수한 요리법이야말로 재료의 맛을 살릴 수 있다고!" 매운 걸 싫어하는 인형은 이렇게 말합니다.
+    code: SpringFes2023_deco_02,SpringFes2023_deco_13,SpringFes2023_deco_14
+    texture_type: "1,1,1"
+    sorting: "20,0,0"
+    offset: "0.000,0.000,0.000|-1.220,0.000,0.000|1.189,0.000,0.000"
+    rotate: "2,2,2"
+    interact_point: "14,15"
+    interact_point_offset: *3.150,1.423,-0.285|*-3.222,1.252,0.398
+  }
+  {
+    id: 10906
+    name: 토끼 새해 마당 - 시뻘건 냄비
+    classes: 109
+    type: 201
+    position: "19,11"
+    space: "9,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 펄펄 끓는 고추기름에 매운 향이 풍긴다. "갈! 자고로 매운맛을 잃는 것은 죽음을 뜻하며..." 매운맛 중독자 인형들은 이렇게 중얼거립니다.
+    code: SpringFes2023_deco_03,SpringFes2023_deco_13,SpringFes2023_deco_14
+    texture_type: "1,1,1"
+    sorting: "20,0,0"
+    offset: "0.000,0.000,0.000|-1.220,0.000,0.000|1.189,0.000,0.000"
+    rotate: "2,2,2"
+    interact_point: "14,15"
+    interact_point_offset: *3.150,1.423,-0.285|*-3.222,1.252,0.398
+  }
+  {
+    id: 10907
+    name: 토끼 새해 마당 - 불타오를 마음
+    classes: 109
+    type: 201
+    position: "7,10"
+    space: "3,4,1,1,1,0"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: '''"도화선에 불씨 하나만 붙이면 올해 가장 활기찬 축복을 받는다!" - 그리폰 담력 테스트 대회 기증품.'''
+    code: SpringFes2023_deco_04
+    texture_type: "1"
+    offset: "0.000,-0.104,-0.021"
+    rotate: "2"
+  }
+  {
+    id: 10908
+    name: 토끼 새해 마당 - 진행요정
+    classes: 109
+    type: 201
+    position: "26,3"
+    space: "2,2,1,1,1,0"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: 설경에 완전히 녹아드는 행사 진행 로봇, 원래는 추가 근무를 강요당한 전술요정이라고 합니다.
+    code: SpringFes2023_deco_05
+    texture_type: "1"
+    offset: "0.000,-0.094,-0.021"
+    rotate: "2"
+  }
+  {
+    id: 10909
+    name: 토끼 새해 마당 - 토끼 극장
+    classes: 109
+    type: 201
+    position: "9,0"
+    space: "16,4,1,1,1,0"
+    deco_rate: 1350
+    decompose_gift: 100003
+    description: 새해를 위해 특별히 준비한 대형 무대. 스포트라이트는 전부 준비됐고, 각종 개인기를 가진 달인들을 기다립니다... 취한 인형이요? 얼씬도 하지 마세요!
+    code: SpringFes2023_deco_06,SpringFes2023_deco_07,SpringFes2023_deco_11,SpringFes2023_deco_12,SpringFes2023_RabbitLantern
+    texture_type: "1,1,1,1,2"
+    sorting: "0,0,0,0,20"
+    offset: "-1.182,-0.235,-0.054|3.405,-0.235,-0.054|3.405,4.238,0.978|-1.182,4.238,0.978|0.011,1.246,-0.044"
+    rotate: "2,2,2,2,2"
+    interact_point: "28,36"
+    interact_point_offset: *3.208,0.825,-0.285|*-2.800,0.683,-0.285
+  }
+  {
+    id: 10910
+    name: 토끼 새해 마당 - 설탕가게
+    classes: 109
+    type: 201
+    position: "30,6"
+    space: "4,4,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 달콤한 주전부리를 파는 노점입니다. 얼마든지 주문해도 좋지만 충치에 주의하세요.
+    code: SpringFes2023_deco_08
+    texture_type: "1"
+    offset: "0.000,-0.250,-0.063"
+    rotate: "2"
+  }
+  {
+    id: 10911
+    name: 토끼 새해 마당 - 대롱대롱 소원
+    classes: 109
+    type: 201
+    position: "28,0"
+    space: "5,5,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 등불 가물거리는 곳에 인형들의 소원을 가득 붙인 기원의 벽은 보는 이들을 흐뭇하게 합니다. 첫 쪽지를 넘겨 보면... "지휘관이 올해에 365일 장기휴가를 줬으면 해!"
+    code: SpringFes2023_deco_09
+    texture_type: "1"
+    offset: "0.000,-0.240,0.448"
+    rotate: "2"
+  }
+  {
+    id: 10912
+    name: 토끼 새해 마당 - 불면의 파수꾼
+    classes: 109
+    type: 201
+    position: "30,11"
+    space: "3,2,1,1,1,1"
+    deco_rate: 1150
+    decompose_gift: 100003
+    description: 술 취한 인형이 새해부터 길거리에 엉덩방아를 찧지 않도록 항상 작은 등불이 묵묵히 돌아가는 길을 밝힙니다.
+    code: SpringFes2023_deco_10
+    texture_type: "1"
+    offset: "0.000,-0.271,-0.063"
     rotate: "2"
   }
   {
@@ -36965,6 +37187,126 @@
     decompose_gift: 100003
     description: Bren Ten의 포스터.
     code: poster_Christmas2022_BrenTen
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38001
+    name: MK3A1 - 홍로에 취해
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MK3A1의 포스터
+    code: poster_SpringFes2023_MK3A1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38002
+    name: Px4 스톰 - 가을 바람의 노래
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Px4 스톰의 포스터
+    code: poster_SpringFes2023_Px4Storm
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38003
+    name: Erma - 그윽한 매화향
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Erma의 포스터
+    code: poster_SpringFes2023_Erma
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38004
+    name: Savage 99 - 유유한 옥총
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Savage 99의 포스터
+    code: poster_SpringFes2023_Savage99
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38005
+    name: Rex-0-1 - 마당 한가득 향기
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Rex-0-1의 포스터
+    code: poster_SpringFes2023_RexZero1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38006
+    name: 타부크 - 행운 한쌍
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 타부크의 포스터
+    code: poster_SpringFes2023_Tabuk
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38007
+    name: APC556 - 목란의 시
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: APC556의 포스터
+    code: poster_SpringFes2023_APC556
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38008
+    name: DP28 - 나팔꽃 덩굴
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: DP28의 포스터
+    code: poster_SpringFes2023_DP28
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

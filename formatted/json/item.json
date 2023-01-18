@@ -5365,6 +5365,40 @@
     "introduction": "콜트 워커 - 살벌한 일주일", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
     "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002226", "is_hide_info": 0
   }, {
+    "id": 2227, "type": 5, "arg": "1", "code": "profilePic_SpringFes2023_MK3A1", "item_name": "MK3A1 - 홍로에 취해", 
+    "introduction": "MK3A1 - 홍로에 취해", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002227", "is_hide_info": 0
+  }, {
+    "id": 2228, "type": 5, "arg": "1", "code": "profilePic_SpringFes2023_Px4Storm", 
+    "item_name": "Px4 스톰 - 가을 바람의 노래", "introduction": "Px4 스톰 - 가을 바람의 노래", "rank": 1, "sort": 0, 
+    "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30002228", "is_hide_info": 0
+  }, {
+    "id": 2229, "type": 5, "arg": "1", "code": "profilePic_SpringFes2023_Erma", "item_name": "Erma - 그윽한 매화향", 
+    "introduction": "Erma - 그윽한 매화향", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002229", "is_hide_info": 0
+  }, {
+    "id": 2230, "type": 5, "arg": "1", "code": "profilePic_SpringFes2023_Savage99", "item_name": "Savage 99 - 유유한 옥총", 
+    "introduction": "Savage 99 - 유유한 옥총", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002230", "is_hide_info": 0
+  }, {
+    "id": 2231, "type": 5, "arg": "1", "code": "profilePic_SpringFes2023_RexZero1", 
+    "item_name": "Rex-0-1 - 마당 한가득 향기", "introduction": "Rex-0-1 - 마당 한가득 향기", "rank": 1, "sort": 0, 
+    "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30002231", "is_hide_info": 0
+  }, {
+    "id": 2232, "type": 5, "arg": "1", "code": "profilePic_SpringFes2023_Tabuk", "item_name": "타부크 - 행운 한쌍", 
+    "introduction": "타부크 - 행운 한쌍", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002232", "is_hide_info": 0
+  }, {
+    "id": 2233, "type": 5, "arg": "1", "code": "profilePic_SpringFes2023_APC556", "item_name": "APC556 - 목란의 시", 
+    "introduction": "APC556 - 목란의 시", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002233", "is_hide_info": 0
+  }, {
+    "id": 2234, "type": 5, "arg": "1", "code": "profilePic_SpringFes2023_DP28", "item_name": "DP28 - 나팔꽃 덩굴", 
+    "introduction": "DP28 - 나팔꽃 덩굴", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002234", "is_hide_info": 0
+  }, {
     "id": 4001, "type": 1, "arg": "4001", "code": "explore_loot_city", "item_name": "도시의 선물", 
     "introduction": "아주 오래전 생산된 블록 완구로, 매우 정교하게 만들어져 모조하기 힘듭니다. 여러 분쟁지에서 화폐로 쓰이며 쓸만한 물건과 교환할 수 있습니다.", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 99999, "consume_type": 0, "item_access": "", 
@@ -5642,18 +5676,33 @@
   }, {
     "id": 7039, "type": 7, "arg": "7039", "code": "qjyd_20220901", "item_name": "골 타임", 
     "introduction": "끊임없이 성능을 올리고 소체를 반복해서 테스트하는 것은 전부 승부를 내기 위한 노력으로, 이 순간을 영원히 남기기 위한 것이다.", 
-    "rank": 0, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30007039", "is_hide_info": 0
   }, {
     "id": 7040, "type": 7, "arg": "7040", "code": "qjyd_20220902", "item_name": "작은 서프라이즈", 
-    "introduction": "진수성찬, 축복과 담소. 폭죽을 터뜨리는 소리와 함께 철야 파티의 시작을 알립니다.", "rank": 0, "sort": 0, 
+    "introduction": "진수성찬, 축복과 담소. 폭죽을 터뜨리는 소리와 함께 철야 파티의 시작을 알립니다.", "rank": 1, "sort": 0, 
     "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30007040", "is_hide_info": 0
   }, {
     "id": 7041, "type": 7, "arg": "7041", "code": "qjyd_20220903", "item_name": "황금 전설", 
     "introduction": "승자는 트로피를 높이 들어올려 모두의 시선을 끌어모읍니다. 눈부신 광채가 증명하는 소녀들이 창조한 또 하나의 전설입니다.", 
-    "rank": 0, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30007041", "is_hide_info": 0
+  }, {
+    "id": 7042, "type": 7, "arg": "7042", "code": "qjyd_20230101", "item_name": "자유인", 
+    "introduction": "저쪽 진형을 봐, 별거 없어! 최소한의 수비를 빼고 우리가 할일은 단 세 가지. 공격! 공격! 오로지 공격!", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30007042", "is_hide_info": 0
+  }, {
+    "id": 7043, "type": 7, "arg": "7043", "code": "qjyd_20230102", "item_name": "해트트릭", 
+    "introduction": "첫 골, 상대는 아직 기회를 노린다. 두 번째 골, 상대는 전략을 수정한다. 세 번째 골... 슬슬 심리과 의사라도 불러줘야 할까?", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30007043", "is_hide_info": 0
+  }, {
+    "id": 7044, "type": 7, "arg": "7044", "code": "qjyd_20230103", "item_name": "월드 웨이브", 
+    "introduction": "골! 고오오올!! 이번 경기 가장 멋진 골입니다!!! 이 순간을 만든 주인공를 더 조명해주세요. 아아, 얼마나 눈부십니까!!!", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30007044", "is_hide_info": 0
   }, {
     "id": 7201, "type": 7, "arg": "7201", "code": "se_f_SpadeStorm", "item_name": "운명의 드로우", 
     "introduction": "한 치 앞을 모르는 운명 속에서 다음에 뽑을 카드로 판을 뒤집을 수 있을진 아무도 모른다.\n\"좋은 카드가 안 뽑힌다면 직접 찍어낸다!\"", 
@@ -5745,6 +5794,28 @@
     "id": 9019, "type": 1, "arg": "9019", "code": "Christmas_Coin", "item_name": "秃洞npc卡score标记用", 
     "introduction": "秃洞npc卡score标记用", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30009019", "is_hide_info": 1
+  }, {
+    "id": 9026, "type": 1, "arg": "9026", "code": "EventPT4", "item_name": "문제상자 PT", "introduction": "문제상자 PT", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30009026", "is_hide_info": 0
+  }, {
+    "id": 9027, "type": 1, "arg": "9027", "code": "Rouge_Raid", 
+    "item_name": "획득 후 이벤트에서 아군 제대는 연합돌격 스킬을 얻고, 사용 시 저격지원, 포격지원, 공습지원 전장효과를 얻는다.", 
+    "introduction": "획득 후 이벤트에서 아군 제대는 연합돌격 스킬을 얻고, 사용 시 저격지원, 포격지원, 공습지원 전장효과를 얻는다.", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30009027", "is_hide_info": 1
+  }, {
+    "id": 9028, "type": 1, "arg": "9028", "code": "Rouge_Focus", 
+    "item_name": "획득 후 이벤트에서 아군 제대는 집중 스킬을 얻고, 사용 시 동명 전장효과를 얻는다.", 
+    "introduction": "획득 후 이벤트에서 아군 제대는 집중 스킬을 얻고, 사용 시 동명 전장효과를 얻는다.", "rank": 1, "sort": 0, 
+    "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30009028", "is_hide_info": 1
+  }, {
+    "id": 9029, "type": 1, "arg": "9029", "code": "Rouge_Strengthen", 
+    "item_name": "획득 후 이벤트에서 아군 제대는 집중 스킬을 얻고, 사용 시 동명 전장효과를 얻는다.", 
+    "introduction": "획득 후 이벤트에서 아군 제대는 강화 스킬을 얻고, 사용 시 동명 전장효과를 얻는다.", "rank": 1, "sort": 0, 
+    "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30009029", "is_hide_info": 1
   }, {
     "id": 10603, "type": 1, "arg": "1", "code": "sangvis_material1_coin2", "item_name": "추가혼합점수", 
     "introduction": "혼합훈련에 쓰이는 에너지, 상점에서 구입할 수 있습니다.\"무한한 수요에 한정된 공급, 그것이 바로 시장이랍니다~\"(구매마다 단가가 20보석씩 상승하며, 매일 0시 초기화됩니다)", 
@@ -6444,6 +6515,33 @@
     "introduction": "백금 훈장·한푼차이", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30100168", "is_hide_info": 0
   }, {
+    "id": 100169, "type": 9, "arg": "100169", "code": "Fix_Coin", "item_name": "수정 코인", "introduction": "수정 코인", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "60", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30100169", "is_hide_info": 0
+  }, {
+    "id": 100170, "type": 4, "arg": "100170", "code": "Nova_medal", "item_name": "노바훈장·문제상자 가설", 
+    "introduction": "노바훈장·문제상자 가설", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30100170", "is_hide_info": 0
+  }, {
+    "id": 100171, "type": 4, "arg": "100171", "code": "Platinum_medal", "item_name": "백금훈장·문제상자 가설", 
+    "introduction": "백금훈장·문제상자 가설", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30100171", "is_hide_info": 0
+  }, {
+    "id": 100172, "type": 1, "arg": "100172", "code": "Rouge_Raid", "item_name": "연합돌격", 
+    "introduction": "획득 후 이벤트에서 아군 제대는 연합돌격 스킬을 얻고, 사용 시 저격지원, 포격지원, 공습지원 전장효과를 얻는다.", 
+    "rank": 1, "sort": -1, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30100172", "is_hide_info": 0
+  }, {
+    "id": 100173, "type": 1, "arg": "100173", "code": "Rouge_Focus", "item_name": "집중", 
+    "introduction": "획득 후 이벤트에서 아군 제대는 집중 스킬을 얻고, 사용 시 동명 전장효과를 얻는다.", "rank": 1, 
+    "sort": -1, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30100173", "is_hide_info": 0
+  }, {
+    "id": 100174, "type": 1, "arg": "100174", "code": "Rouge_Strengthen", "item_name": "강화", 
+    "introduction": "획득 후 이벤트에서 아군 제대는 집중 스킬을 얻고, 사용 시 동명 전장효과를 얻는다.", "rank": 1, 
+    "sort": -1, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30100174", "is_hide_info": 0
+  }, {
     "id": 110001, "type": 4, "arg": "110001", "code": "PT", "item_name": "카니발 활동 점수", 
     "introduction": "카니발 활동 점수", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30110001", "is_hide_info": 0
@@ -6663,6 +6761,10 @@
     "id": 110055, "type": 4, "arg": "110055", "code": "PT", "item_name": "이벤트 점수", "introduction": "이벤트 점수", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30110055", "is_hide_info": 0
+  }, {
+    "id": 110056, "type": 4, "arg": "110056", "code": "PT", "item_name": "이벤트 점수", "introduction": "이벤트 점수", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30110056", "is_hide_info": 0
   }, {
     "id": 120001, "type": 10, "arg": "1", "code": "bondage_lines_icon", "item_name": "우정담", 
     "introduction": "P38&데저트 이글", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
@@ -7122,5 +7224,20 @@
     "id": 1500044, "type": 15, "arg": "1500044", "code": "package_random", "item_name": "전선협약-추가보상", 
     "introduction": "해당 범위에서 무작위로 하나를 얻습니다.", "rank": 1, "sort": -1, "initial_num": "", "daily_limit": "", 
     "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-31500044", "is_hide_info": 0
+  }, {
+    "id": 1500045, "type": 15, "arg": "1500045", "code": "Bumdle_Coupons3", "item_name": "레어 코스튬 추첨권", 
+    "introduction": "창고에서 이 추첨권을 사용하면 출현 범위 중 보유하지 않은 코스튬 하나를 무작위로 획득합니다.", "rank": 1, 
+    "sort": -1, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-31500045", "is_hide_info": 0
+  }, {
+    "id": 1500046, "type": 15, "arg": "1500046", "code": "Bumdle_Coupons2", "item_name": "럭셔리 코스튬 추첨권", 
+    "introduction": "창고에서 이 추첨권을 사용하면 출현 범위 중 보유하지 않은 코스튬 하나를 무작위로 획득합니다.", "rank": 1, 
+    "sort": -1, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-31500046", "is_hide_info": 0
+  }, {
+    "id": 1500047, "type": 15, "arg": "1500047", "code": "Bumdle_Coupons1", "item_name": "로얄 코스튬 추첨권", 
+    "introduction": "창고에서 이 추첨권을 사용하면 출현 범위 중 보유하지 않은 코스튬 하나를 무작위로 획득합니다.", "rank": 1, 
+    "sort": -1, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-31500047", "is_hide_info": 0
   }
 ]

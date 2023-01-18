@@ -1163,4 +1163,8 @@
     obtain_id: 3092
     description: 2023년 12월 출석 보상
   }
+  {
+    obtain_id: 3093
+    description: 한정 이벤트 <문제상자 가설> 재화 교환
+  }
 ]

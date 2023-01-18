@@ -25,7 +25,7 @@
   }
   {
     id: 5
-    name: chess_map-10000005
+    name: 기묘한 경치
     code: FlightChessMap5
     unlock_item_id: 121002
   }

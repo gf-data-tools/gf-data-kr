@@ -12668,6 +12668,1118 @@
     icon: Bumdle_cashwhite
   }
   {
+    id: 1709
+    name: 수정코인6
+    item_ids: 100169-6
+    content: prize-20001709
+  }
+  {
+    id: 1710
+    name: 수정코인15+a
+    item_ids: 100169-15,100170-1
+    content: prize-20001710
+  }
+  {
+    id: 1711
+    name: 수정코인15+2a
+    item_ids: 100169-15,100170-2
+    content: prize-20001711
+  }
+  {
+    id: 1712
+    name: 수정코인8
+    item_ids: 100169-8
+    content: prize-20001712
+  }
+  {
+    id: 1713
+    name: 수정코인15+b
+    item_ids: 100169-15,100171-1
+    content: prize-20001713
+  }
+  {
+    id: 1714
+    name: 수정코인15+2b
+    item_ids: 100169-15,100171-2
+    content: prize-20001714
+  }
+  {
+    id: 1715
+    name: 수정코인10
+    item_ids: 100169-10
+    content: prize-20001715
+  }
+  {
+    id: 1716
+    name: 수정코인15
+    item_ids: 100169-15
+    content: prize-20001716
+  }
+  {
+    id: 1717
+    name: 문제상자 가설a
+    item_ids: 100170-1
+    content: prize-20001717
+  }
+  {
+    id: 1718
+    name: 문제상자 가설2a
+    item_ids: 100170-2
+    content: prize-20001718
+  }
+  {
+    id: 1719
+    name: 문제상자 가설b
+    item_ids: 100171-1
+    content: prize-20001719
+  }
+  {
+    id: 1720
+    name: 문제상자 가설2b
+    item_ids: 100171-2
+    content: prize-20001720
+  }
+  {
+    id: 1721
+    name: 페르시카 - C12H22O11
+    skin: 210
+    content: prize-20001721
+    icon: NPC_Persica_210
+  }
+  {
+    id: 1722
+    name: MAB 고성능 기동골격
+    equip_ids: "320"
+    content: prize-20001722
+  }
+  {
+    id: 1723
+    name: 2023년 2월 출석
+    gem: 90
+    equip_ids: "321"
+    content: prize-20001723
+  }
+  {
+    id: 1724
+    name: M1919A4 - 카밀라
+    gift: 7-1
+    content: prize-20001724
+  }
+  {
+    id: 1725
+    name: MP5 - 드라큘라
+    gift: 3-1
+    content: prize-20001725
+  }
+  {
+    id: 1726
+    name: Vector - 고양이 발바닥
+    gift: 2-1
+    content: prize-20001726
+  }
+  {
+    id: 1727
+    name: 마카로프 - 잭오랜턴
+    gift: 1-1
+    content: prize-20001727
+  }
+  {
+    id: 1728
+    name: M45 - 과자 배달부
+    gift: 4-1
+    content: prize-20001728
+  }
+  {
+    id: 1729
+    name: 64식 - 떠돌이 마녀
+    gift: 11-1
+    content: prize-20001729
+  }
+  {
+    id: 1730
+    name: 마이크로 우지 - 잠에서 깬 바보
+    gift: 101-1
+    content: prize-20001730
+  }
+  {
+    id: 1731
+    name: MP-446 - 고집 센 악동
+    gift: 103-1
+    content: prize-20001731
+  }
+  {
+    id: 1732
+    name: M1919A4 - 파티의 연인
+    gift: 106-1
+    content: prize-20001732
+  }
+  {
+    id: 1733
+    name: 64식 - 물 선녀복
+    gift: 104-1
+    content: prize-20001733
+  }
+  {
+    id: 1734
+    name: SVD - 겨울 선녀
+    gift: 305-1
+    content: prize-20001734
+  }
+  {
+    id: 1735
+    name: 콜트 리볼버 - 별똥별의 소원
+    gift: 301-1
+    content: prize-20001735
+  }
+  {
+    id: 1736
+    name: M21 - 성탄절 실내복
+    gift: 304-1
+    content: prize-20001736
+  }
+  {
+    id: 1737
+    name: M14 - 성탄절 퍼레이드 의상
+    gift: 303-1
+    content: prize-20001737
+  }
+  {
+    id: 1738
+    name: 59식 - 앵초
+    gift: 407-1
+    content: prize-20001738
+  }
+  {
+    id: 1739
+    name: MP-446 - 해바라기
+    gift: 402-1
+    content: prize-20001739
+  }
+  {
+    id: 1740
+    name: PTRD - 로맨틱한 임무
+    gift: 408-1
+    content: prize-20001740
+  }
+  {
+    id: 1741
+    name: UMP9 - "내가 좀 늦었지?"
+    gift: 409-1
+    content: prize-20001741
+  }
+  {
+    id: 1742
+    name: UMP45 - "이번만이야"
+    gift: 410-1
+    content: prize-20001742
+  }
+  {
+    id: 1743
+    name: 토카레프 - 두 사람의 인생
+    gift: 601-1
+    content: prize-20001743
+  }
+  {
+    id: 1744
+    name: PPsh-41 - 계약 시간
+    gift: 602-1
+    content: prize-20001744
+  }
+  {
+    id: 1745
+    name: 스텐 MkⅡ - 마음의 대답
+    gift: 603-1
+    content: prize-20001745
+  }
+  {
+    id: 1746
+    name: ST AR-15 - 계절학교에 가다
+    gift: 701-1
+    content: prize-20001746
+  }
+  {
+    id: 1747
+    name: 6P62 - 전투선원
+    gift: 704-1
+    content: prize-20001747
+  }
+  {
+    id: 1748
+    name: 스프링필드 - 등불 아래의 여왕
+    gift: 802-1
+    content: prize-20001748
+  }
+  {
+    id: 1749
+    name: M1918 - 준비된 세레나데
+    gift: 806-1
+    content: prize-20001749
+  }
+  {
+    id: 1750
+    name: 스콜피온 - 붉은 은하수
+    gift: 801-1
+    content: prize-20001750
+  }
+  {
+    id: 1751
+    name: MP40 - 엄지공주
+    gift: 902-1
+    content: prize-20001751
+  }
+  {
+    id: 1752
+    name: M1개런드 - 해변의 공주
+    gift: 1106-1
+    content: prize-20001752
+  }
+  {
+    id: 1753
+    name: MP5 - 잠들지 않는 꽃
+    gift: 1205-1
+    content: prize-20001753
+  }
+  {
+    id: 1754
+    name: M249 SAW - 북극 여우
+    gift: 1301-1
+    content: prize-20001754
+  }
+  {
+    id: 1755
+    name: MG3 - 휴일의 거리 풍경
+    gift: 1304-1
+    content: prize-20001755
+  }
+  {
+    id: 1756
+    name: G3 - 전쟁터의 제빵사
+    gift: 1303-1
+    content: prize-20001756
+  }
+  {
+    id: 1757
+    name: Super SASS - 늑대 소녀
+    gift: 1407-1
+    content: prize-20001757
+  }
+  {
+    id: 1758
+    name: FNC - 이 사탕은 이제 내 거!
+    gift: 1406-1
+    content: prize-20001758
+  }
+  {
+    id: 1759
+    name: PzB39 - 열혈 라이더
+    gift: 1506-1
+    content: prize-20001759
+  }
+  {
+    id: 1760
+    name: G36 - “바텐더”
+    gift: 1507-1
+    content: prize-20001760
+  }
+  {
+    id: 1761
+    name: AEK-999 - 광란의 질주
+    gift: 1505-1
+    content: prize-20001761
+  }
+  {
+    id: 1762
+    name: 아멜리 - 선물은 성탄절 트리
+    gift: 1605-1
+    content: prize-20001762
+  }
+  {
+    id: 1763
+    name: M1918 - 꿈꿔왔던 크리스마스
+    gift: 1606-1
+    content: prize-20001763
+  }
+  {
+    id: 1764
+    name: OTs-44 - 숲속의 어린 순록
+    gift: 1608-1
+    content: prize-20001764
+  }
+  {
+    id: 1765
+    name: Super-Shorty - 타향의 갈림길에서
+    gift: 1704-1
+    content: prize-20001765
+  }
+  {
+    id: 1766
+    name: RMB-93 - 별의 저편
+    gift: 1705-1
+    content: prize-20001766
+  }
+  {
+    id: 1767
+    name: SPP-1 - 가랑눈에 감싸여
+    gift: 1703-1
+    content: prize-20001767
+  }
+  {
+    id: 1768
+    name: 81식 카빈 - 백산차
+    gift: 1807-1
+    content: prize-20001768
+  }
+  {
+    id: 1769
+    name: LWMMG - 센토레아
+    gift: 1808-1
+    content: prize-20001769
+  }
+  {
+    id: 1770
+    name: Mk23 - 브랜디시아
+    gift: 1805-1
+    content: prize-20001770
+  }
+  {
+    id: 1771
+    name: 한양조 88식 - 동호의 연꽃
+    gift: 1809-1
+    content: prize-20001771
+  }
+  {
+    id: 1772
+    name: SV-98 - 하트를 꿰뚫어주지!
+    gift: 1906-1
+    content: prize-20001772
+  }
+  {
+    id: 1773
+    name: K5 - 둥근 달빛
+    gift: 2002-1
+    content: prize-20001773
+  }
+  {
+    id: 1774
+    name: KLIN - 추운 겨울을 넘어
+    gift: 2003-1
+    content: prize-20001774
+  }
+  {
+    id: 1775
+    name: 63식 - 현황의 봉황
+    gift: 2004-1
+    content: prize-20001775
+  }
+  {
+    id: 1776
+    name: IDW -  상자 속 고양이
+    gift: 2108-1
+    content: prize-20001776
+  }
+  {
+    id: 1777
+    name: EVO 3 - 백야의 별 이야기
+    gift: 2109-1
+    content: prize-20001777
+  }
+  {
+    id: 1778
+    name: 콜트 리볼버 - 기적의 여왕
+    gift: 2105-1
+    content: prize-20001778
+  }
+  {
+    id: 1779
+    name: PP-19 - 개구리 공주
+    gift: 2204-1
+    content: prize-20001779
+  }
+  {
+    id: 1780
+    name: 썬더 - 레이븐 네버모어
+    gift: 2206-1
+    content: prize-20001780
+  }
+  {
+    id: 1781
+    name: G28 - 맥주목장
+    gift: 2304-1
+    content: prize-20001781
+  }
+  {
+    id: 1782
+    name: 게파드 M1 - 1일 계약
+    gift: 2305-1
+    content: prize-20001782
+  }
+  {
+    id: 1783
+    name: SPAS-12 - 한여름의 열매
+    gift: 2408-1
+    content: prize-20001783
+  }
+  {
+    id: 1784
+    name: P38 - 여름보다 뜨거운 인형
+    gift: 2410-1
+    content: prize-20001784
+  }
+  {
+    id: 1785
+    name: G36 - 50일의 메이드
+    gift: 2407-1
+    content: prize-20001785
+  }
+  {
+    id: 1786
+    name: 아멜리 - 아멜리의 리시브
+    gift: 2409-1
+    content: prize-20001786
+  }
+  {
+    id: 1787
+    name: 80식 - 스틸 버터플라이
+    gift: 2504-1
+    content: prize-20001787
+  }
+  {
+    id: 1788
+    name: M1897 - 일렉트릭 위치
+    gift: 2505-1
+    content: prize-20001788
+  }
+  {
+    id: 1789
+    name: 브렌 - 잭 트리니티
+    gift: 2605-1
+    content: prize-20001789
+  }
+  {
+    id: 1790
+    name: F1 - 블랙 위치 아카데미
+    gift: 2606-1
+    content: prize-20001790
+  }
+  {
+    id: 1791
+    name: HK45 - 미라클☆스타트
+    gift: 2705-1
+    content: prize-20001791
+  }
+  {
+    id: 1792
+    name: TMP - 매우 반짝이는 귀
+    gift: 2807-1
+    content: prize-20001792
+  }
+  {
+    id: 1793
+    name: AS Val - 꿈의 불꽃놀이
+    gift: 2907-1
+    content: prize-20001793
+  }
+  {
+    id: 1794
+    name: 62식 - 축제 나들이
+    gift: 2908-1
+    content: prize-20001794
+  }
+  {
+    id: 1795
+    name: M1014 - 설월화
+    gift: 2906-1
+    content: prize-20001795
+  }
+  {
+    id: 1796
+    name: MP5 - 야지마
+    gift: 3006-1
+    content: prize-20001796
+  }
+  {
+    id: 1797
+    name: CZ52 - 네모필라
+    gift: 3007-1
+    content: prize-20001797
+  }
+  {
+    id: 1798
+    name: Mk23 - 전해진 마음
+    gift: 3105-1
+    content: prize-20001798
+  }
+  {
+    id: 1799
+    name: T-5000 - 웨딩 레인저
+    gift: 3106-1
+    content: prize-20001799
+  }
+  {
+    id: 1800
+    name: 게파드 M1 - 기대되는 내일
+    gift: 3107-1
+    content: prize-20001800
+  }
+  {
+    id: 1801
+    name: 토카레프 - 그리폰의 무희
+    gift: 3204-1
+    content: prize-20001801
+  }
+  {
+    id: 1802
+    name: IDW - 망토 두른 고양이
+    gift: 3205-1
+    content: prize-20001802
+  }
+  {
+    id: 1803
+    name: K5 - 운명의 왈츠
+    gift: 3308-1
+    content: prize-20001803
+  }
+  {
+    id: 1804
+    name: G28 - 달빛과 에메랄드
+    gift: 3307-1
+    content: prize-20001804
+  }
+  {
+    id: 1805
+    name: 썬더 - 블랙 스완의 꿈
+    gift: 3309-1
+    content: prize-20001805
+  }
+  {
+    id: 1806
+    name: KSVK - 천사의 물감
+    gift: 3405-1
+    content: prize-20001806
+  }
+  {
+    id: 1807
+    name: OTs-44 - 맑음 때때로 꿀꿀
+    gift: 3406-1
+    content: prize-20001807
+  }
+  {
+    id: 1808
+    name: 4식 - 4번함 출항
+    gift: 3505-1
+    content: prize-20001808
+  }
+  {
+    id: 1809
+    name: Z-62 - 수영 수업
+    gift: 3507-1
+    content: prize-20001809
+  }
+  {
+    id: 1810
+    name: 세르듀코프 - 까마귀 구조대원
+    gift: 3506-1
+    content: prize-20001810
+  }
+  {
+    id: 1811
+    name: M249 SAW - 달무리의 밤
+    gift: 3604-1
+    content: prize-20001811
+  }
+  {
+    id: 1812
+    name: OTs-12 - 백화요란
+    gift: 3605-1
+    content: prize-20001812
+  }
+  {
+    id: 1813
+    name: M590 - 방과 후 심심풀이
+    gift: 3706-1
+    content: prize-20001813
+  }
+  {
+    id: 1814
+    name: M500 - 수업 중 낮잠
+    gift: 3707-1
+    content: prize-20001814
+  }
+  {
+    id: 1815
+    name: Mk23 - 개학을 알리는 고양이 노래
+    gift: 3705-1
+    content: prize-20001815
+  }
+  {
+    id: 1816
+    name: TMP - 냥 프리즘 파워
+    gift: 3708-1
+    content: prize-20001816
+  }
+  {
+    id: 1817
+    name: PSG-1 - 한밤중의 습격
+    gift: 3808-1
+    content: prize-20001817
+  }
+  {
+    id: 1818
+    name: Model L - 흑야연옥찰
+    gift: 3809-1
+    content: prize-20001818
+  }
+  {
+    id: 1819
+    name: KSVK - 뒷면의 문워커
+    gift: 3805-1
+    content: prize-20001819
+  }
+  {
+    id: 1820
+    name: M2HB - 데저트 크로스
+    gift: 3904-1
+    content: prize-20001820
+  }
+  {
+    id: 1821
+    name: PPK - 터뷸런스 소닉
+    gift: 3905-1
+    content: prize-20001821
+  }
+  {
+    id: 1822
+    name: 게파드M1 - 무구한 수호자
+    gift: 4006-1
+    content: prize-20001822
+  }
+  {
+    id: 1823
+    name: LWMMG - 12월은 나의 거짓말
+    gift: 4007-1
+    content: prize-20001823
+  }
+  {
+    id: 1824
+    name: EM-2 - 라일락
+    gift: 4209-1
+    content: prize-20001824
+  }
+  {
+    id: 1825
+    name: MG34 - 복숭아 선녀
+    gift: 4210-1
+    content: prize-20001825
+  }
+  {
+    id: 1826
+    name: SPP-1 - 파란 연꽃
+    gift: 4207-1
+    content: prize-20001826
+  }
+  {
+    id: 1827
+    name: M1A1 - 백설 홍매화
+    gift: 4106-1
+    content: prize-20001827
+  }
+  {
+    id: 1828
+    name: 팔콘 - 그대 곁에서
+    gift: 4107-1
+    content: prize-20001828
+  }
+  {
+    id: 1829
+    name: RMB93 - 닿지 않는 달빛의 사랑
+    gift: 4309-1
+    content: prize-20001829
+  }
+  {
+    id: 1830
+    name: 마카로프 - 환상 같은 해바라기
+    gift: 4310-1
+    content: prize-20001830
+  }
+  {
+    id: 1831
+    name: 스테츠킨 - 미스 동백꽃의 특별 서비스
+    gift: 4306-1
+    content: prize-20001831
+  }
+  {
+    id: 1832
+    name: NS2000 - 믹스카레토끼
+    gift: 4406-1
+    content: prize-20001832
+  }
+  {
+    id: 1833
+    name: PP-19-01 - 톡톡 팝캔디
+    gift: 4405-1
+    content: prize-20001833
+  }
+  {
+    id: 1834
+    name: M4A1 - 소녀세계일주
+    gift: 530-1
+    content: prize-20001834
+  }
+  {
+    id: 1835
+    name: M4 SOPMODII - 모두의 귀염둥이
+    gift: 531-1
+    content: prize-20001835
+  }
+  {
+    id: 1836
+    name: ST AR-15 - 꽃밭의 실크햇
+    gift: 532-1
+    content: prize-20001836
+  }
+  {
+    id: 1837
+    name: M16A1 - 애꾸 백토기사
+    gift: 533-1
+    content: prize-20001837
+  }
+  {
+    id: 1838
+    name: UMP45 - 소원을 좇는 마술사
+    gift: 535-1
+    content: prize-20001838
+  }
+  {
+    id: 1839
+    name: UMP9 - 소원을 이룬 마술사
+    gift: 536-1
+    content: prize-20001839
+  }
+  {
+    id: 1840
+    name: UMP40 - 소원을 지키는 마녀
+    gift: 539-1
+    content: prize-20001840
+  }
+  {
+    id: 1841
+    name: Zas M76 - 흑야의 댄서
+    gift: 4511-1
+    content: prize-20001841
+  }
+  {
+    id: 1842
+    name: M1911 - 천공을 뚫는 자
+    gift: 4514-1
+    content: prize-20001842
+  }
+  {
+    id: 1843
+    name: EVO 3 - EVO3의 아침
+    gift: 4606-1
+    content: prize-20001843
+  }
+  {
+    id: 1844
+    name: TMP - 흑묘 유치원
+    gift: 4607-1
+    content: prize-20001844
+  }
+  {
+    id: 1845
+    name: PP-19 - 여름 얼리기
+    gift: 4705-1
+    content: prize-20001845
+  }
+  {
+    id: 1846
+    name: FN-49 - 파라솔 밑의 꿈
+    gift: 4709-1
+    content: prize-20001846
+  }
+  {
+    id: 1847
+    name: 모신나강 - 무쇠 칼날
+    gift: 4803-1
+    content: prize-20001847
+  }
+  {
+    id: 1848
+    name: M1897 - 창공 순찰자
+    gift: 4805-1
+    content: prize-20001848
+  }
+  {
+    id: 1849
+    name: wz.29 - 화조풍월
+    gift: 4907-1
+    content: prize-20001849
+  }
+  {
+    id: 1850
+    name: IDW - 오뚝이 고양이 무사
+    gift: 4908-1
+    content: prize-20001850
+  }
+  {
+    id: 1851
+    name: CF05 - 붉은 박쥐
+    gift: 5104-1
+    content: prize-20001851
+  }
+  {
+    id: 1852
+    name: M82 - 비범한 학도
+    gift: 5105-1
+    content: prize-20001852
+  }
+  {
+    id: 1853
+    name: M21 - 마경 문지기
+    gift: 5107-1
+    content: prize-20001853
+  }
+  {
+    id: 1854
+    name: Super-Shorty - 나쁜 녀석 SS
+    gift: 5204-1
+    content: prize-20001854
+  }
+  {
+    id: 1855
+    name: TEC-9 - 의문의 감청자
+    gift: 5206-1
+    content: prize-20001855
+  }
+  {
+    id: 1856
+    name: 나강 리볼버 - 눈꽃공주
+    gift: 5309-1
+    content: prize-20001856
+  }
+  {
+    id: 1857
+    name: 한양조 88식 - 메이드단의 광란질주
+    gift: 5308-1
+    content: prize-20001857
+  }
+  {
+    id: 1858
+    name: OBR - 봄을 알리는 우편부
+    gift: 5407-1
+    content: prize-20001858
+  }
+  {
+    id: 1859
+    name: EVO 3 - 첫 붉은 꽃
+    gift: 5408-1
+    content: prize-20001859
+  }
+  {
+    id: 1860
+    name: 콜트 디펜더 - 꿈에 취한 선녀
+    gift: 5505-1
+    content: prize-20001860
+  }
+  {
+    id: 1861
+    name: 92식 - 꽃봉오리에 입맞춤
+    gift: 5507-1
+    content: prize-20001861
+  }
+  {
+    id: 1862
+    name: SVD - 달맞이 단홍
+    gift: 5506-1
+    content: prize-20001862
+  }
+  {
+    id: 1863
+    name: 56식 반 - 재운 신선
+    gift: 5508-1
+    content: prize-20001863
+  }
+  {
+    id: 1864
+    name: 81식 카빈 - 동반자 모란
+    gift: 5607-1
+    content: prize-20001864
+  }
+  {
+    id: 1865
+    name: 64식 - 현악에 지저귀다
+    gift: 5608-1
+    content: prize-20001865
+  }
+  {
+    id: 1866
+    name: EM-2 - 은색의 탄환
+    gift: 5706-1
+    content: prize-20001866
+  }
+  {
+    id: 1867
+    name: 마갈 - 레이디 마갈
+    gift: 5707-1
+    content: prize-20001867
+  }
+  {
+    id: 1868
+    name: M4A1 - 소나무 사이 햇볕
+    gift: 550-1
+    content: prize-20001868
+  }
+  {
+    id: 1869
+    name: ST AR-15 - 환상의 봄바람
+    gift: 552-1
+    content: prize-20001869
+  }
+  {
+    id: 1870
+    name: M16A1 - 폐허 위의 태양
+    gift: 553-1
+    content: prize-20001870
+  }
+  {
+    id: 1871
+    name: CZ-805 - 황금빛 메모리얼
+    gift: 5807-1
+    content: prize-20001871
+  }
+  {
+    id: 1872
+    name: PPSh-41 - 풍선 저 너머에
+    gift: 5808-1
+    content: prize-20001872
+  }
+  {
+    id: 1873
+    name: CF05 - 훠궈 나라 대왕
+    gift: 5905-1
+    content: prize-20001873
+  }
+  {
+    id: 1874
+    name: M82 - 야옹이 대합주
+    gift: 5907-1
+    content: prize-20001874
+  }
+  {
+    id: 1875
+    name: Ak 5 - 무지개를 잇는 선녀
+    gift: 5906-1
+    content: prize-20001875
+  }
+  {
+    id: 1876
+    name: wz.29 - 스윗 드림 메이커
+    gift: 5908-1
+    content: prize-20001876
+  }
+  {
+    id: 1877
+    name: PPK - 연심은 그늘처럼
+    gift: 6109-1
+    content: prize-20001877
+  }
+  {
+    id: 1878
+    name: QSB91 - 둥둥 박하차
+    gift: 6108-1
+    content: prize-20001878
+  }
+  {
+    id: 1879
+    name: UMP40 - 클라인 인터루드
+    gift: 559-1
+    content: prize-20001879
+  }
+  {
+    id: 1880
+    name: UMP45 - 펜로즈 스핀
+    gift: 555-1
+    content: prize-20001880
+  }
+  {
+    id: 1881
+    name: Mk12 - 정의로운 식량털이
+    gift: 6203-1
+    content: prize-20001881
+  }
+  {
+    id: 1882
+    name: 토카레프 - 눈 내리는 오솔길
+    gift: 6205-1
+    content: prize-20001882
+  }
+  {
+    id: 1883
+    name: Ots-44 - 깊은 숲속 흰토끼
+    gift: 6207-1
+    content: prize-20001883
+  }
+  {
+    id: 1884
+    name: 타부크 - 돼지 3형제가 부동산에
+    gift: 6206-1
+    content: prize-20001884
+  }
+  {
+    id: 1885
+    name: 9A91 - 충성스러운 길동무
+    gift: 6204-1
+    content: prize-20001885
+  }
+  {
+    id: 1886
+    name: Rex Zero 1 - 두근두근 트릴로지
+    gift: 6305-1
+    content: prize-20001886
+  }
+  {
+    id: 1887
+    name: Model L - 푸른 하늘로 두둥실
+    gift: 6306-1
+    content: prize-20001887
+  }
+  {
+    id: 1888
+    name: 몬드라곤 M1908 - 안개비 내리는 밤
+    gift: 6304-1
+    content: prize-20001888
+  }
+  {
+    id: 1889
+    name: MP-443 - 미궁의 안내인
+    gift: 6405-1
+    content: prize-20001889
+  }
+  {
+    id: 1890
+    name: LWMMG - 누더기의 독백
+    gift: 6406-1
+    content: prize-20001890
+  }
+  {
+    id: 1891
+    name: F1 - 황야의 용의 시
+    gift: 6507-1
+    content: prize-20001891
+  }
+  {
+    id: 1892
+    name: Cx4 스톰 - 성탄절 풀장에서의 만남
+    gift: 6606-1
+    content: prize-20001892
+  }
+  {
+    id: 1893
+    name: SAF - 겨울 산뜻 택배
+    gift: 6607-1
+    content: prize-20001893
+  }
+  {
     id: 2001
     name: WA2000 - 고성에서의 모험
     gift: 6-1
@@ -20945,6 +22057,1851 @@
     fairy_ids: 1008-0
   }
   {
+    id: 7101
+    name: G11 - 은톨이 좀비
+    gift: 9-1
+    content: prize-20007101
+  }
+  {
+    id: 7102
+    name: 스프링필드 - 정통파 마녀
+    gift: 5-1
+    content: prize-20007102
+  }
+  {
+    id: 7103
+    name: MK23 - 스위트 데빌
+    gift: 8-1
+    content: prize-20007103
+  }
+  {
+    id: 7104
+    name: M1918 - 바니 걸
+    gift: 102-1
+    content: prize-20007104
+  }
+  {
+    id: 7105
+    name: 리-엔필드 - 제복 사냥꾼
+    gift: 10-1
+    content: prize-20007105
+  }
+  {
+    id: 7106
+    name: 그리즐리 MkⅤ - 주말 경비원
+    gift: 105-1
+    content: prize-20007106
+  }
+  {
+    id: 7107
+    name: WA2000 - 겨울날 그대를 기다리며
+    gift: 306-1
+    content: prize-20007107
+  }
+  {
+    id: 7108
+    name: MG5 - 새빨간 야간경비원
+    gift: 309-1
+    content: prize-20007108
+  }
+  {
+    id: 7109
+    name: FAL - 겨울 보급 작전
+    gift: 308-1
+    content: prize-20007109
+  }
+  {
+    id: 7110
+    name: 스프링필드 - 성스러운 밤의 축복
+    gift: 302-1
+    content: prize-20007110
+  }
+  {
+    id: 7111
+    name: NTW-20 - 루돌프
+    gift: 307-1
+    content: prize-20007111
+  }
+  {
+    id: 7112
+    name: M99 - 시클라멘
+    gift: 404-1
+    content: prize-20007112
+  }
+  {
+    id: 7113
+    name: NZ75 - 국화꽃 소녀
+    gift: 403-1
+    content: prize-20007113
+  }
+  {
+    id: 7114
+    name: 97식 - 화려한 모란
+    gift: 406-1
+    content: prize-20007114
+  }
+  {
+    id: 7115
+    name: 56-1식 - 샐비어
+    gift: 401-1
+    content: prize-20007115
+  }
+  {
+    id: 7116
+    name: 웰로드MkⅡ - 영국 연인
+    gift: 411-1
+    content: prize-20007116
+  }
+  {
+    id: 7117
+    name: P7 - 손 도장
+    gift: 606-1
+    content: prize-20007117
+  }
+  {
+    id: 7118
+    name: FAL - 최고로 중요한 날
+    gift: 607-1
+    content: prize-20007118
+  }
+  {
+    id: 7119
+    name: PK - 당신과 함께
+    gift: 605-1
+    content: prize-20007119
+  }
+  {
+    id: 7120
+    name: M950A - 당번 대표
+    gift: 702-1
+    content: prize-20007120
+  }
+  {
+    id: 7121
+    name: MG4 - 생존멤버
+    gift: 703-1
+    content: prize-20007121
+  }
+  {
+    id: 7122
+    name: WA2000 - 무도회의 쉼표
+    gift: 804-1
+    content: prize-20007122
+  }
+  {
+    id: 7123
+    name: M950A - "축제 시작이야!"
+    gift: 808-1
+    content: prize-20007123
+  }
+  {
+    id: 7124
+    name: SR-3MP - 검은토끼 마키아또
+    gift: 807-1
+    content: prize-20007124
+  }
+  {
+    id: 7125
+    name: 모신-나강 - 달빛 바다
+    gift: 803-1
+    content: prize-20007125
+  }
+  {
+    id: 7126
+    name: 리-엔필드 - 양파 저격수
+    gift: 901-1
+    content: prize-20007126
+  }
+  {
+    id: 7127
+    name: 그리즐리 MkⅤ - 변신! 테디베어!
+    gift: 903-1
+    content: prize-20007127
+  }
+  {
+    id: 7128
+    name: 네게브 - 조그만 방랑자
+    gift: 904-1
+    content: prize-20007128
+  }
+  {
+    id: 7129
+    name: G36 - 꼬마 메이드
+    gift: 905-1
+    content: prize-20007129
+  }
+  {
+    id: 7130
+    name: Five-seveN - 크루즈의 여왕님
+    gift: 1109-1
+    content: prize-20007130
+  }
+  {
+    id: 7131
+    name: G28 - 트로피컬 스톰
+    gift: 1104-1
+    content: prize-20007131
+  }
+  {
+    id: 7132
+    name: 스프링필드 - 잠에서 깬 인어
+    gift: 1107-1
+    content: prize-20007132
+  }
+  {
+    id: 7133
+    name: NTW-20 - 무더위 속 임무
+    gift: 1101-1
+    content: prize-20007133
+  }
+  {
+    id: 7134
+    name: 95식 - 여름의 풍류
+    gift: 1102-1
+    content: prize-20007134
+  }
+  {
+    id: 7135
+    name: WA2000 - 모불라 작전
+    gift: 1108-1
+    content: prize-20007135
+  }
+  {
+    id: 7136
+    name: M37 - 한여름의 순례자
+    gift: 1105-1
+    content: prize-20007136
+  }
+  {
+    id: 7137
+    name: PKP - 꽃과 물
+    gift: 1201-1
+    content: prize-20007137
+  }
+  {
+    id: 7138
+    name: OTs-14 - 흩날리는 벚꽃눈
+    gift: 1203-1
+    content: prize-20007138
+  }
+  {
+    id: 7139
+    name: KLIN - 세 마리의 까마귀
+    gift: 1204-1
+    content: prize-20007139
+  }
+  {
+    id: 7140
+    name: 9A-91 - 총알 카페
+    gift: 1302-1
+    content: prize-20007140
+  }
+  {
+    id: 7141
+    name: TAR-21 - 야간 주점
+    gift: 1305-1
+    content: prize-20007141
+  }
+  {
+    id: 7142
+    name: 79식 - 구미호
+    gift: 1402-1
+    content: prize-20007142
+  }
+  {
+    id: 7143
+    name: P7 - 마총의 수녀
+    gift: 1404-1
+    content: prize-20007143
+  }
+  {
+    id: 7144
+    name: Spitfire - 마지막 앨리스
+    gift: 1405-1
+    content: prize-20007144
+  }
+  {
+    id: 7145
+    name: IWS 2000 - 일곱 번째 봉인자
+    gift: 1403-1
+    content: prize-20007145
+  }
+  {
+    id: 7146
+    name: PKP- 걸 프롬 UNCLE
+    gift: 1503-1
+    content: prize-20007146
+  }
+  {
+    id: 7147
+    name: MG5 - 황야의 사냥꾼
+    gift: 1504-1
+    content: prize-20007147
+  }
+  {
+    id: 7148
+    name: 컨텐더 - 오페라의 유령
+    gift: 1502-1
+    content: prize-20007148
+  }
+  {
+    id: 7149
+    name: G11 - 가장 아름다운 선물
+    gift: 1602-1
+    content: prize-20007149
+  }
+  {
+    id: 7150
+    name: CZ75 - 겨울의 탐험가
+    gift: 1604-1
+    content: prize-20007150
+  }
+  {
+    id: 7151
+    name: Zas M21 - 총성을 울리는 설녀
+    gift: 1603-1
+    content: prize-20007151
+  }
+  {
+    id: 7152
+    name: M99 - 토끼반
+    gift: 1701-1
+    content: prize-20007152
+  }
+  {
+    id: 7153
+    name: NZ75 - ThanX!&Go2Hell!
+    gift: 1702-1
+    content: prize-20007153
+  }
+  {
+    id: 7154
+    name: JS05 - 제피란테스
+    gift: 1804-1
+    content: prize-20007154
+  }
+  {
+    id: 7155
+    name: M590 - 흰나팔꽃
+    gift: 1806-1
+    content: prize-20007155
+  }
+  {
+    id: 7156
+    name: S.A.T.8 - 매화 도장
+    gift: 1802-1
+    content: prize-20007156
+  }
+  {
+    id: 7157
+    name: ART556 - 양배추 소녀
+    gift: 1803-1
+    content: prize-20007157
+  }
+  {
+    id: 7158
+    name: Five-seveN - 꿈꿔왔던 미소
+    gift: 1902-1
+    content: prize-20007158
+  }
+  {
+    id: 7159
+    name: MP5 - 작은 한 걸음
+    gift: 1903-1
+    content: prize-20007159
+  }
+  {
+    id: 7160
+    name: 56-1식 - 마음을 엮는 매듭
+    gift: 1905-1
+    content: prize-20007160
+  }
+  {
+    id: 7161
+    name: G36 - 순백의 수레국화
+    gift: 1904-1
+    content: prize-20007161
+  }
+  {
+    id: 7162
+    name: K2 - 동방의 공주
+    gift: 2001-1
+    content: prize-20007162
+  }
+  {
+    id: 7163
+    name: UMP9 - 세계의 노래
+    gift: 2106-1
+    content: prize-20007163
+  }
+  {
+    id: 7164
+    name: UMP45 - 다이아몬드의 꽃
+    gift: 2107-1
+    content: prize-20007164
+  }
+  {
+    id: 7165
+    name: 웰로드 MkⅡ - 해 질 무렵의 위기
+    gift: 2103-1
+    content: prize-20007165
+  }
+  {
+    id: 7166
+    name: Zas M21 - 화이트 퀸
+    gift: 2104-1
+    content: prize-20007166
+  }
+  {
+    id: 7167
+    name: 카르카노M91/38 - 시노키오
+    gift: 2202-1
+    content: prize-20007167
+  }
+  {
+    id: 7168
+    name: C-MS - 거위의 신비한 여행
+    gift: 2205-1
+    content: prize-20007168
+  }
+  {
+    id: 7169
+    name: 카르카노M1891 - 용감한 재봉사
+    gift: 2201-1
+    content: prize-20007169
+  }
+  {
+    id: 7170
+    name: 컨텐더 - 백화집사
+    gift: 2302-1
+    content: prize-20007170
+  }
+  {
+    id: 7171
+    name: M950A - 집안일 테스트
+    gift: 2303-1
+    content: prize-20007171
+  }
+  {
+    id: 7172
+    name: AK-12 - 빙수시대
+    gift: 2402-1
+    content: prize-20007172
+  }
+  {
+    id: 7173
+    name: AA-12 - 태양을 피하는 방법
+    gift: 2403-1
+    content: prize-20007173
+  }
+  {
+    id: 7174
+    name: AN-94 - 잠수종과 인형
+    gift: 2404-1
+    content: prize-20007174
+  }
+  {
+    id: 7175
+    name: MP7 - 사탕발린 총알
+    gift: 2405-1
+    content: prize-20007175
+  }
+  {
+    id: 7176
+    name: FAL - FAL의 여름
+    gift: 2406-1
+    content: prize-20007176
+  }
+  {
+    id: 7177
+    name: MG5 - 플레이그 나이트
+    gift: 2501-1
+    content: prize-20007177
+  }
+  {
+    id: 7178
+    name: G11 - 용가리 주니어
+    gift: 2502-1
+    content: prize-20007178
+  }
+  {
+    id: 7179
+    name: M1887 - 위쳐 제너럴
+    gift: 2503-1
+    content: prize-20007179
+  }
+  {
+    id: 7180
+    name: TAC-50 - 엘프 악마사냥꾼
+    gift: 2602-1
+    content: prize-20007180
+  }
+  {
+    id: 7181
+    name: MDR - 고스트랩
+    gift: 2603-1
+    content: prize-20007181
+  }
+  {
+    id: 7182
+    name: FAMAS - 총포와 사이드박스
+    gift: 2604-1
+    content: prize-20007182
+  }
+  {
+    id: 7183
+    name: HK21 - 총알은 사슬을 꿰뚫고
+    gift: 2701-1
+    content: prize-20007183
+  }
+  {
+    id: 7184
+    name: JS05 - 이별의 연주
+    gift: 2702-1
+    content: prize-20007184
+  }
+  {
+    id: 7185
+    name: USAS-12 - VRAIN Power
+    gift: 2704-1
+    content: prize-20007185
+  }
+  {
+    id: 7186
+    name: PM-06 - 창공을 나는 법
+    gift: 2703-1
+    content: prize-20007186
+  }
+  {
+    id: 7187
+    name: 나강 리볼버 - 별들의 유대
+    gift: 2706-1
+    content: prize-20007187
+  }
+  {
+    id: 7188
+    name: ART556 - 굴뚝 청소부
+    gift: 2803-1
+    content: prize-20007188
+  }
+  {
+    id: 7189
+    name: FP-6 - 사랑의 위성
+    gift: 2804-1
+    content: prize-20007189
+  }
+  {
+    id: 7190
+    name: Five-seveN - 푸르고 푸른 성탄절
+    gift: 2805-1
+    content: prize-20007190
+  }
+  {
+    id: 7191
+    name: P90 - 스칼렛 터보
+    gift: 2802-1
+    content: prize-20007191
+  }
+  {
+    id: 7192
+    name: G36 - 아이들의 성탄절
+    gift: 2806-1
+    content: prize-20007192
+  }
+  {
+    id: 7193
+    name: RFB - 신년 최고의 플레이어
+    gift: 2902-1
+    content: prize-20007193
+  }
+  {
+    id: 7194
+    name: 카르카노 M91/38 - Insegui l'aquilone
+    gift: 2904-1
+    content: prize-20007194
+  }
+  {
+    id: 7195
+    name: 100식 - 총잡이 무녀
+    gift: 2903-1
+    content: prize-20007195
+  }
+  {
+    id: 7196
+    name: 카르카노 M1891 - 시작을 알리는 소리
+    gift: 2905-1
+    content: prize-20007196
+  }
+  {
+    id: 7197
+    name: AK-74U - 은방울
+    gift: 3002-1
+    content: prize-20007197
+  }
+  {
+    id: 7198
+    name: 88식 - 봄 난초
+    gift: 3003-1
+    content: prize-20007198
+  }
+  {
+    id: 7199
+    name: IWS 2000 - 에델바이스
+    gift: 3004-1
+    content: prize-20007199
+  }
+  {
+    id: 7200
+    name: CZ75 - 금련화
+    gift: 3005-1
+    content: prize-20007200
+  }
+  {
+    id: 7201
+    name: PKP - 실버 스타
+    gift: 3102-1
+    content: prize-20007201
+  }
+  {
+    id: 7202
+    name: G36C - 행복을 향해서
+    gift: 3103-1
+    content: prize-20007202
+  }
+  {
+    id: 7203
+    name: 컨텐더 - 사파이어의 마총사
+    gift: 3201-1
+    content: prize-20007203
+  }
+  {
+    id: 7204
+    name: SPAS-12 - 고블린 헌터
+    gift: 3203-1
+    content: prize-20007204
+  }
+  {
+    id: 7205
+    name: 네게브 - 프린세스 다크스톤
+    gift: 3202-1
+    content: prize-20007205
+  }
+  {
+    id: 7206
+    name: AN-94 - 사일런트 레드
+    gift: 3303-1
+    content: prize-20007206
+  }
+  {
+    id: 7207
+    name: M99 - 흰토끼 축제
+    gift: 3304-1
+    content: prize-20007207
+  }
+  {
+    id: 7208
+    name: MDR - 연회 관측자
+    gift: 3305-1
+    content: prize-20007208
+  }
+  {
+    id: 7209
+    name: 79식 - 별빛의 폭스트롯
+    gift: 3306-1
+    content: prize-20007209
+  }
+  {
+    id: 7210
+    name: AK-12 - 프리징 블루
+    gift: 3302-1
+    content: prize-20007210
+  }
+  {
+    id: 7211
+    name: UMP9 - 킁킁 수사관
+    gift: 3404-1
+    content: prize-20007211
+  }
+  {
+    id: 7212
+    name: UMP45 - 깡총 요원
+    gift: 3403-1
+    content: prize-20007212
+  }
+  {
+    id: 7213
+    name: K11 - 꼬마 과학자
+    gift: 3402-1
+    content: prize-20007213
+  }
+  {
+    id: 7214
+    name: C-MS - 날치 대행진
+    gift: 3503-1
+    content: prize-20007214
+  }
+  {
+    id: 7215
+    name: 88식 - 침수 방지 키트
+    gift: 3504-1
+    content: prize-20007215
+  }
+  {
+    id: 7216
+    name: 루이스 - 자외선 차단 작전
+    gift: 3502-1
+    content: prize-20007216
+  }
+  {
+    id: 7217
+    name: ADS - 물빛 청춘
+    gift: 3601-1
+    content: prize-20007217
+  }
+  {
+    id: 7218
+    name: S.A.T.8 - 소녀의 비밀 이야기
+    gift: 3602-1
+    content: prize-20007218
+  }
+  {
+    id: 7219
+    name: G36 - 달밑에서 소원을
+    gift: 3603-1
+    content: prize-20007219
+  }
+  {
+    id: 7220
+    name: 97식 - 지각 시츄에이션
+    gift: 3703-1
+    content: prize-20007220
+  }
+  {
+    id: 7221
+    name: SR-3MP - 토끼 특공대장
+    gift: 3704-1
+    content: prize-20007221
+  }
+  {
+    id: 7222
+    name: 95식 - 순백의 졸업식
+    gift: 3702-1
+    content: prize-20007222
+  }
+  {
+    id: 7223
+    name: M870 - 펌킨 포트리스
+    gift: 3803-1
+    content: prize-20007223
+  }
+  {
+    id: 7224
+    name: MG3 - 밤이 되었습니다
+    gift: 3806-1
+    content: prize-20007224
+  }
+  {
+    id: 7225
+    name: 97식 산탄총 - 97계 병법
+    gift: 3807-1
+    content: prize-20007225
+  }
+  {
+    id: 7226
+    name: P22 - 스퍼트 매그넘
+    gift: 3902-1
+    content: prize-20007226
+  }
+  {
+    id: 7227
+    name: UKM-2000 - 퀘이사 스트림
+    gift: 3903-1
+    content: prize-20007227
+  }
+  {
+    id: 7228
+    name: CAWS - 120유로의 겨울 선물
+    gift: 4003-1
+    content: prize-20007228
+  }
+  {
+    id: 7229
+    name: 100식 - 마음에 묻어둔 보물
+    gift: 4004-1
+    content: prize-20007229
+  }
+  {
+    id: 7230
+    name: HK21 - 은여우와 9분의 1 승강장
+    gift: 4002-1
+    content: prize-20007230
+  }
+  {
+    id: 7231
+    name: 허니뱃저 - 산타 공주와 무표정 오소리
+    gift: 4005-1
+    content: prize-20007231
+  }
+  {
+    id: 7232
+    name: PKP - 곧은 대나무
+    gift: 4203-1
+    content: prize-20007232
+  }
+  {
+    id: 7233
+    name: T91 - 진주 매화
+    gift: 4206-1
+    content: prize-20007233
+  }
+  {
+    id: 7234
+    name: JS9 - 황매화
+    gift: 4204-1
+    content: prize-20007234
+  }
+  {
+    id: 7235
+    name: MG36 - 히비스커스
+    gift: 4205-1
+    content: prize-20007235
+  }
+  {
+    id: 7236
+    name: 9A-91 - 꿈을 담은 화살
+    gift: 4104-1
+    content: prize-20007236
+  }
+  {
+    id: 7237
+    name: MG3 - 사자탈춤
+    gift: 4105-1
+    content: prize-20007237
+  }
+  {
+    id: 7238
+    name: G11 - 봄잠 자는 쥐
+    gift: 4102-1
+    content: prize-20007238
+  }
+  {
+    id: 7239
+    name: 4식 - 꽃 제기 치기
+    gift: 4103-1
+    content: prize-20007239
+  }
+  {
+    id: 7240
+    name: Zas M21 - 꽃에 숨은 진심
+    gift: 4304-1
+    content: prize-20007240
+  }
+  {
+    id: 7241
+    name: M1014 - 천사의 두근거림
+    gift: 4305-1
+    content: prize-20007241
+  }
+  {
+    id: 7242
+    name: 그리즐리 MkV - 유성우가 내리는 밤
+    gift: 4303-1
+    content: prize-20007242
+  }
+  {
+    id: 7243
+    name: PA-15 - 기묘한 고구마칩
+    gift: 4402-1
+    content: prize-20007243
+  }
+  {
+    id: 7244
+    name: A-91 - 화끈한 우롱차
+    gift: 4403-1
+    content: prize-20007244
+  }
+  {
+    id: 7245
+    name: P30 - 절대반지사탕
+    gift: 4404-1
+    content: prize-20007245
+  }
+  {
+    id: 7246
+    name: AA-12 - 뜬구름 사탕
+    gift: 4401-1
+    content: prize-20007246
+  }
+  {
+    id: 7247
+    name: RO635 - 논밭의 수호자
+    gift: 534-1
+    content: prize-20007247
+  }
+  {
+    id: 7248
+    name: HK416 - 천소초맛 알사탕
+    gift: 537-1
+    content: prize-20007248
+  }
+  {
+    id: 7249
+    name: G11 - 용기를 원하는 토끼
+    gift: 538-1
+    content: prize-20007249
+  }
+  {
+    id: 7250
+    name: QBU-88 - 자연의 탐험가
+    gift: 4503-1
+    content: prize-20007250
+  }
+  {
+    id: 7251
+    name: KSVK - 트루먼 여행객
+    gift: 4509-1
+    content: prize-20007251
+  }
+  {
+    id: 7252
+    name: M200 - 전장의 취재자
+    gift: 4502-1
+    content: prize-20007252
+  }
+  {
+    id: 7253
+    name: RO635 - 규율의 집행인
+    gift: 4504-1
+    content: prize-20007253
+  }
+  {
+    id: 7254
+    name: M4A1 - 세월의 정착자
+    gift: 4505-1
+    content: prize-20007254
+  }
+  {
+    id: 7255
+    name: M16A1 - 앞길의 인도자
+    gift: 4506-1
+    content: prize-20007255
+  }
+  {
+    id: 7256
+    name: M4 SOPMODII - 연석의 약탈자
+    gift: 4507-1
+    content: prize-20007256
+  }
+  {
+    id: 7257
+    name: ST AR-15 - 꿈속의 수감자
+    gift: 4508-1
+    content: prize-20007257
+  }
+  {
+    id: 7258
+    name: HP-35 - 바람 타고 씽씽
+    gift: 4602-1
+    content: prize-20007258
+  }
+  {
+    id: 7259
+    name: T-5000 - 차원의 파괴자
+    gift: 4605-1
+    content: prize-20007259
+  }
+  {
+    id: 7260
+    name: X95 - 백장미 소녀
+    gift: 4603-1
+    content: prize-20007260
+  }
+  {
+    id: 7261
+    name: FAMAS - 새와 숲지기
+    gift: 4604-1
+    content: prize-20007261
+  }
+  {
+    id: 7262
+    name: JS 9- 범고래 타고
+    gift: 4702-1
+    content: prize-20007262
+  }
+  {
+    id: 7263
+    name: Ak 5 - 남쪽의 바람
+    gift: 4707-1
+    content: prize-20007263
+  }
+  {
+    id: 7264
+    name: SL8 - 파도를 넘어
+    gift: 4704-1
+    content: prize-20007264
+  }
+  {
+    id: 7265
+    name: KAC-PDW - 달콤한 마음
+    gift: 4706-1
+    content: prize-20007265
+  }
+  {
+    id: 7266
+    name: NTW-20 - 아이언 하트
+    gift: 4801-1
+    content: prize-20007266
+  }
+  {
+    id: 7267
+    name: Mk48 - 초연의 호령
+    gift: 4804-1
+    content: prize-20007267
+  }
+  {
+    id: 7268
+    name: DP-12 - 삼도천 여관 주인
+    gift: 4901-1
+    content: prize-20007268
+  }
+  {
+    id: 7269
+    name: MG5 - 어둠에 우린 차
+    gift: 4902-1
+    content: prize-20007269
+  }
+  {
+    id: 7270
+    name: 100식 - 현의 카구라
+    gift: 4905-1
+    content: prize-20007270
+  }
+  {
+    id: 7271
+    name: MG36 - 대나무숲 검객
+    gift: 4903-1
+    content: prize-20007271
+  }
+  {
+    id: 7272
+    name: 타부크 - 혼백 주방장
+    gift: 4906-1
+    content: prize-20007272
+  }
+  {
+    id: 7273
+    name: Kord - 사일런트 댄서
+    gift: 5102-1
+    content: prize-20007273
+  }
+  {
+    id: 7274
+    name: 97식 - 마녀 그레텔
+    gift: 5103-1
+    content: prize-20007274
+  }
+  {
+    id: 7275
+    name: SL8 - 붉은 달의 추격자
+    gift: 5202-1
+    content: prize-20007275
+  }
+  {
+    id: 7276
+    name: SAF - 미스테리오 SA
+    gift: 5205-1
+    content: prize-20007276
+  }
+  {
+    id: 7277
+    name: VHS - 페이지 에이트 KP
+    gift: 5203-1
+    content: prize-20007277
+  }
+  {
+    id: 7278
+    name: VSK-94 - 성야의 형사
+    gift: 5301-1
+    content: prize-20007278
+  }
+  {
+    id: 7279
+    name: S-ACR - 달콤한 소원
+    gift: 5303-1
+    content: prize-20007279
+  }
+  {
+    id: 7280
+    name: 4식 - 노을 요정
+    gift: 5305-1
+    content: prize-20007280
+  }
+  {
+    id: 7281
+    name: HS2000 - 마음 뜨거운 양철인형
+    gift: 5304-1
+    content: prize-20007281
+  }
+  {
+    id: 7282
+    name: K5 - 소원 듣는 신데렐라
+    gift: 5306-1
+    content: prize-20007282
+  }
+  {
+    id: 7283
+    name: PM1910 - 여왕의 탑에서 축제
+    gift: 5307-1
+    content: prize-20007283
+  }
+  {
+    id: 7284
+    name: UMP45 - 고독한 여행인
+    gift: 5405-1
+    content: prize-20007284
+  }
+  {
+    id: 7285
+    name: M950A - 눈꽃에 안 지는 모란
+    gift: 5403-1
+    content: prize-20007285
+  }
+  {
+    id: 7286
+    name: ACR - 은은한 란초향
+    gift: 5401-1
+    content: prize-20007286
+  }
+  {
+    id: 7287
+    name: 시프카 - 새 시를 지을 때
+    gift: 5404-1
+    content: prize-20007287
+  }
+  {
+    id: 7288
+    name: UKM-2000 - 설원 배달부
+    gift: 5406-1
+    content: prize-20007288
+  }
+  {
+    id: 7289
+    name: QBU-88 - 구름 높이 춤추자
+    gift: 5502-1
+    content: prize-20007289
+  }
+  {
+    id: 7290
+    name: KSVK - 옥걸이 고리
+    gift: 5504-1
+    content: prize-20007290
+  }
+  {
+    id: 7291
+    name: AUG Para - 보옥을 이끄는 향
+    gift: 5503-1
+    content: prize-20007291
+  }
+  {
+    id: 7292
+    name: M37 - 이사카와 기나긴 휴일
+    gift: 5605-1
+    content: prize-20007292
+  }
+  {
+    id: 7293
+    name: XM8-玫瑰棋手的告白
+    gift: 5606-1
+    content: prize-20007293
+  }
+  {
+    id: 7294
+    name: 웨블리 리볼버 - 해가 질 무렵
+    gift: 5601-1
+    content: prize-20007294
+  }
+  {
+    id: 7295
+    name: 95식 - 리시안셔스의 계절
+    gift: 5604-1
+    content: prize-20007295
+  }
+  {
+    id: 7296
+    name: P90 - 벨기에에서 온 그녀
+    gift: 5701-1
+    content: prize-20007296
+  }
+  {
+    id: 7297
+    name: 톰슨 - 진실의 방으로
+    gift: 5703-1
+    content: prize-20007297
+  }
+  {
+    id: 7298
+    name: 몬드라곤 M1908 - 숙명의 추적자
+    gift: 5704-1
+    content: prize-20007298
+  }
+  {
+    id: 7299
+    name: RO635 - 물에 잠긴 달
+    gift: 554-1
+    content: prize-20007299
+  }
+  {
+    id: 7300
+    name: AUG Para - 제10번 세레나데
+    gift: 561-1
+    content: prize-20007300
+  }
+  {
+    id: 7301
+    name: VHS - 익살극 백조의 호수
+    gift: 562-1
+    content: prize-20007301
+  }
+  {
+    id: 7302
+    name: SL8 - 즉흥 랩소디
+    gift: 564-1
+    content: prize-20007302
+  }
+  {
+    id: 7303
+    name: G36 - 광휘의 파수꾼
+    gift: 565-1
+    content: prize-20007303
+  }
+  {
+    id: 7304
+    name: M200 - 장엄한 행진
+    gift: 560-1
+    content: prize-20007304
+  }
+  {
+    id: 7305
+    name: C-93 - 나비처럼 날아서
+    gift: 5801-1
+    content: prize-20007305
+  }
+  {
+    id: 7306
+    name: FX-05 -비를 맞으며
+    gift: 5806-1
+    content: prize-20007306
+  }
+  {
+    id: 7307
+    name: M82A1 - 심연으로부터
+    gift: 5803-1
+    content: prize-20007307
+  }
+  {
+    id: 7308
+    name: VSK-94- 은하수 흐르는 밤에
+    gift: 5804-1
+    content: prize-20007308
+  }
+  {
+    id: 7309
+    name: S-ACR - 바람 쫓는 마녀
+    gift: 5903-1
+    content: prize-20007309
+  }
+  {
+    id: 7310
+    name: PKP - 우후대장군
+    gift: 5904-1
+    content: prize-20007310
+  }
+  {
+    id: 7311
+    name: Lusa - 수비수 꿈나무
+    gift: 5902-1
+    content: prize-20007311
+  }
+  {
+    id: 7312
+    name: LTLX7000- 밀물 데이트
+    gift: 6101-1
+    content: prize-20007312
+  }
+  {
+    id: 7313
+    name: PX4스톰 - 해변 안전수칙
+    gift: 6103-1
+    content: prize-20007313
+  }
+  {
+    id: 7314
+    name: UKM-2000 - 레몬에이드 테일즈
+    gift: 6106-1
+    content: prize-20007314
+  }
+  {
+    id: 7315
+    name: PPD-40 - 분홍색 산호초
+    gift: 6105-1
+    content: prize-20007315
+  }
+  {
+    id: 7316
+    name: HK41 - 볼레로 스냅
+    gift: 557-1
+    content: prize-20007316
+  }
+  {
+    id: 7317
+    name: G11 - 카오스 심포니
+    gift: 558-1
+    content: prize-20007317
+  }
+  {
+    id: 7318
+    name: PM-9 - 백전불패 황금빛
+    gift: 6201-1
+    content: prize-20007318
+  }
+  {
+    id: 7319
+    name: AUG SMG - 가을 계곡 소풍
+    gift: 6301-1
+    content: prize-20007319
+  }
+  {
+    id: 7320
+    name: SP9 - 은하수에 잠든 꿈
+    gift: 6303-1
+    content: prize-20007320
+  }
+  {
+    id: 7321
+    name: C-MS - 요한나를 위하여
+    gift: 6403-1
+    content: prize-20007321
+  }
+  {
+    id: 7322
+    name: KAC-PDW - 불면의 사랑 도둑
+    gift: 6404-1
+    content: prize-20007322
+  }
+  {
+    id: 7323
+    name: SVCh- 스칼렛 나이트 헌터
+    gift: 6402-1
+    content: prize-20007323
+  }
+  {
+    id: 7324
+    name: SIG MCX - 스칼렛 메테오
+    gift: 6502-1
+    content: prize-20007324
+  }
+  {
+    id: 7325
+    name: MG36 - 창룡 S09에 서다
+    gift: 6504-1
+    content: prize-20007325
+  }
+  {
+    id: 7326
+    name: HK416 - 흑야의 복음
+    gift: 6505-1
+    content: prize-20007326
+  }
+  {
+    id: 7327
+    name: 데저트 이글 - 창공의 가루라
+    gift: 6501-1
+    content: prize-20007327
+  }
+  {
+    id: 7328
+    name: 콜트 파이슨 - 추위사냥
+    gift: 6603-1
+    content: prize-20007328
+  }
+  {
+    id: 7329
+    name: CR-21 - 파도 꼭대기
+    gift: 6605-1
+    content: prize-20007329
+  }
+  {
+    id: 7330
+    name: VP1915 - 페로사와 한자리
+    gift: 6604-1
+    content: prize-20007330
+  }
+  {
+    id: 7331
+    name: WA2000 - 고성에서의 모험
+    gift: 6-1
+    content: prize-20007331
+  }
+  {
+    id: 7332
+    name: 수오미 - 코르바툰투리의 눈 요정
+    gift: 310-1
+    content: prize-20007332
+  }
+  {
+    id: 7333
+    name: 95식 - 영롱한 옥
+    gift: 405-1
+    content: prize-20007333
+  }
+  {
+    id: 7334
+    name: 리-엔필드 - 평생의 수호자
+    gift: 604-1
+    content: prize-20007334
+  }
+  {
+    id: 7335
+    name: HK416 - 별에 감싸이다
+    gift: 805-1
+    content: prize-20007335
+  }
+  {
+    id: 7336
+    name: 수오미 - 한여름 밤의 요정
+    gift: 1103-1
+    content: prize-20007336
+  }
+  {
+    id: 7337
+    name: G36C - 여름·불꽃놀이·양지의 시
+    gift: 1202-1
+    content: prize-20007337
+  }
+  {
+    id: 7338
+    name: 웰로드MkⅡ - 그림자의 왕
+    gift: 1401-1
+    content: prize-20007338
+  }
+  {
+    id: 7339
+    name: 톰슨 - 데빌 헌터
+    gift: 1501-1
+    content: prize-20007339
+  }
+  {
+    id: 7340
+    name: RFB - 크리스마스를 훔친 RFB
+    gift: 1601-1
+    content: prize-20007340
+  }
+  {
+    id: 7341
+    name: DSR-50 - 비목단
+    gift: 1801-1
+    content: prize-20007341
+  }
+  {
+    id: 7342
+    name: Vector- 맹목적인 믿음
+    gift: 1901-1
+    content: prize-20007342
+  }
+  {
+    id: 7343
+    name: DSR-50 - 베스트 오퍼
+    gift: 2101-1
+    content: prize-20007343
+  }
+  {
+    id: 7344
+    name: 그리즐리 - 별이 빛나는 밤의 무도회
+    gift: 2102-1
+    content: prize-20007344
+  }
+  {
+    id: 7345
+    name: Five-seveN - 행복한 세상의 담비
+    gift: 2203-1
+    content: prize-20007345
+  }
+  {
+    id: 7346
+    name: NTW-20 - VIP 체험관
+    gift: 2301-1
+    content: prize-20007346
+  }
+  {
+    id: 7347
+    name: G41 - 비치펑크2064
+    gift: 2401-1
+    content: prize-20007347
+  }
+  {
+    id: 7348
+    name: S.A.T.8 - 호박꼬치
+    gift: 2601-1
+    content: prize-20007348
+  }
+  {
+    id: 7349
+    name: Px4 스톰 - 크리스마스 모닝퀸
+    gift: 2801-1
+    content: prize-20007349
+  }
+  {
+    id: 7350
+    name: 64식 소총 - 새해의 소망
+    gift: 2901-1
+    content: prize-20007350
+  }
+  {
+    id: 7351
+    name: OTs-14 - 크라슐라
+    gift: 3001-1
+    content: prize-20007351
+  }
+  {
+    id: 7352
+    name: 수오미 - 행복한 사명
+    gift: 3101-1
+    content: prize-20007352
+  }
+  {
+    id: 7353
+    name: K2 - 해뜨기 전에
+    gift: 3301-1
+    content: prize-20007353
+  }
+  {
+    id: 7354
+    name: HK416 - 고양이의 선물
+    gift: 3401-1
+    content: prize-20007354
+  }
+  {
+    id: 7355
+    name: R93 - 럭키 바캉스
+    gift: 3501-1
+    content: prize-20007355
+  }
+  {
+    id: 7356
+    name: PA-15 - 두근두근 하이스쿨
+    gift: 3701-1
+    content: prize-20007356
+  }
+  {
+    id: 7357
+    name: QBU-88 - 사탕 내놔라!
+    gift: 3801-1
+    content: prize-20007357
+  }
+  {
+    id: 7358
+    name: G36C - 적안의 G36C
+    gift: 3802-1
+    content: prize-20007358
+  }
+  {
+    id: 7359
+    name: Saiga-12 - 크림슨 코드라이버
+    gift: 3901-1
+    content: prize-20007359
+  }
+  {
+    id: 7360
+    name: 루이스 - 크리스마스이브의 약속
+    gift: 4001-1
+    content: prize-20007360
+  }
+  {
+    id: 7361
+    name: DP-12 - 꽃과 달 등롱
+    gift: 4201-1
+    content: prize-20007361
+  }
+  {
+    id: 7362
+    name: PA-15 - 델피니움
+    gift: 4202-1
+    content: prize-20007362
+  }
+  {
+    id: 7363
+    name: SR-3MP - 무녀의 운수대통 부적
+    gift: 4101-1
+    content: prize-20007363
+  }
+  {
+    id: 7364
+    name: Kar98k - 손안에 홍장미
+    gift: 4301-1
+    content: prize-20007364
+  }
+  {
+    id: 7365
+    name: M950A - 솔새와 장미
+    gift: 4302-1
+    content: prize-20007365
+  }
+  {
+    id: 7366
+    name: OTs-14 - 연회의 지배자
+    gift: 4501-1
+    content: prize-20007366
+  }
+  {
+    id: 7367
+    name: Saiga-12 - 노을의 재단사
+    gift: 4510-1
+    content: prize-20007367
+  }
+  {
+    id: 7368
+    name: AK-Alfa - 고양이 사냥꾼
+    gift: 4601-1
+    content: prize-20007368
+  }
+  {
+    id: 7369
+    name: ZB-26 - 그늘에 숨어
+    gift: 4703-1
+    content: prize-20007369
+  }
+  {
+    id: 7370
+    name: AUG - 전선 장의사
+    gift: 4802-1
+    content: prize-20007370
+  }
+  {
+    id: 7371
+    name: R93 - 등나무 가희
+    gift: 4904-1
+    content: prize-20007371
+  }
+  {
+    id: 7372
+    name: 류 소총 - 버드나무 여우불
+    gift: 5101-1
+    content: prize-20007372
+  }
+  {
+    id: 7373
+    name: G36C - 붉은 베레모
+    gift: 5201-1
+    content: prize-20007373
+  }
+  {
+    id: 7374
+    name: R5 - 종막의 론도
+    gift: 5302-1
+    content: prize-20007374
+  }
+  {
+    id: 7375
+    name: Saiga-12 - 꽃무리 방문객
+    gift: 5402-1
+    content: prize-20007375
+  }
+  {
+    id: 7376
+    name: 루이스 - 추위를 맞는 손님
+    gift: 5501-1
+    content: prize-20007376
+  }
+  {
+    id: 7377
+    name: OTs-14 - 하늘이 점쳐준 인연
+    gift: 5602-1
+    content: prize-20007377
+  }
+  {
+    id: 7378
+    name: ZB-26 - 1000마리 종이학
+    gift: 5603-1
+    content: prize-20007378
+  }
+  {
+    id: 7379
+    name: 64식 소총 - 그녀에게 맞지 않는 일
+    gift: 5702-1
+    content: prize-20007379
+  }
+  {
+    id: 7380
+    name: 류 소총 - 고민 많은 아침
+    gift: 563-1
+    content: prize-20007380
+  }
+  {
+    id: 7381
+    name: M4 SOPMODII - 숲의 울림
+    gift: 551-1
+    content: prize-20007381
+  }
+  {
+    id: 7382
+    name: PA-15 - 샴페인 괴도
+    gift: 5802-1
+    content: prize-20007382
+  }
+  {
+    id: 7383
+    name: 97식 산탄총 - 꽃향기에 흠뻑 취해
+    gift: 5805-1
+    content: prize-20007383
+  }
+  {
+    id: 7384
+    name: RPK-203 - 꼬마 자원봉사자
+    gift: 5901-1
+    content: prize-20007384
+  }
+  {
+    id: 7385
+    name: DP-12 - 햇살 우화
+    gift: 6102-1
+    content: prize-20007385
+  }
+  {
+    id: 7386
+    name: UMP9 - 볼레로 댄스
+    gift: 556-1
+    content: prize-20007386
+  }
+  {
+    id: 7387
+    name: 드 라일 - 코요테 블루스
+    gift: 6202-1
+    content: prize-20007387
+  }
+  {
+    id: 7388
+    name: SL8 - 세상 한 구석에서 기다릴게
+    gift: 6302-1
+    content: prize-20007388
+  }
+  {
+    id: 7389
+    name: 95식 - 티끌 없는 물결
+    gift: 6401-1
+    content: prize-20007389
+  }
+  {
+    id: 7390
+    name: 한양조 88식 - 하얀 유성은 소망을 품고
+    gift: 6503-1
+    content: prize-20007390
+  }
+  {
+    id: 7391
+    name: 89식 소총 - 순록 선언
+    gift: 6601-1
+    content: prize-20007391
+  }
+  {
+    id: 7392
+    name: 레어 코스튬 추첨권
+    item_ids: 1500045-1
+    content: prize-20007392
+    icon: Bumdle_Coupons3
+  }
+  {
+    id: 7393
+    name: 럭셔리 코스튬 추첨권
+    item_ids: 1500046-1
+    content: prize-20007393
+    icon: Bumdle_Coupons2
+  }
+  {
+    id: 7394
+    name: 로얄 코스튬 추첨권
+    item_ids: 1500047-1
+    content: prize-20007394
+    icon: Bumdle_Coupons1
+  }
+  {
+    id: 7395
+    name: 440보석
+    gem: 440
+    content: prize-20007395
+  }
+  {
+    id: 7396
+    name: 920보석
+    gem: 920
+    content: prize-20007396
+  }
+  {
+    id: 7397
+    name: 1880보석
+    gem: 1880
+    content: prize-20007397
+  }
+  {
+    id: 7398
+    name: 토끼 특가 패키지Ⅰ
+    item_ids: 41-500,45-1000
+    gift: 100003-5
+    coins: 3-1000
+    content: prize-20007398
+    icon: Bumdle_Rabbit01
+  }
+  {
+    id: 7399
+    name: 토끼 특가 패키지 Ⅱ
+    item_ids: 605-20,7-2
+    gift: 100003-5
+    coins: 3-1000
+    content: prize-20007399
+    icon: Bumdle_Rabbit02
+  }
+  {
+    id: 7400
+    name: 토끼 특가 패키지 Ⅲ
+    item_ids: 44-500
+    gift: 200001-500
+    content: prize-20007400
+    icon: Bumdle_Rabbit03
+    fairy_ids: 26-0-100-5,26-0-100-5
+  }
+  {
+    id: 7401
+    name: 레어 코스튬 추첨권
+    item_ids: 1500045-1
+    content: prize-20007401
+    icon: Bumdle_Coupons3
+  }
+  {
+    id: 7402
+    name: 럭셔리 코스튬 추첨권
+    item_ids: 1500046-1
+    content: prize-20007402
+    icon: Bumdle_Coupons2
+  }
+  {
+    id: 7403
+    name: 로얄 코스튬 추첨권
+    item_ids: 1500047-1
+    content: prize-20007403
+    icon: Bumdle_Coupons1
+  }
+  {
+    id: 7404
+    name: 토끼 축복
+    mp: 5888
+    ammo: 5888
+    mre: 5888
+    part: 5888
+    core: 88
+    item_ids: 7-1,41-888,506-888
+    gift: 100003-10
+    content: prize-20007404
+  }
+  {
     id: 8001
     name: 신규 유저 일주일 누적 충전 이벤트 1일차
     gem: 50
@@ -21689,97 +24646,97 @@
     id: 10086
     name: 카니발 보상
     mp: 100
-    item_ids: 110055-10
+    item_ids: 110056-10
     content: prize-20010086
   }
   {
     id: 10087
     name: 카니발 보상
     mp: 100
-    item_ids: 110055-30
+    item_ids: 110056-30
     content: prize-20010087
   }
   {
     id: 10088
     name: 카니발 보상
     ammo: 200
-    item_ids: 110055-20
+    item_ids: 110056-20
     content: prize-20010088
   }
   {
     id: 10089
     name: 카니발 보상
     ammo: 200
-    item_ids: 110055-30
+    item_ids: 110056-30
     content: prize-20010089
   }
   {
     id: 10090
     name: 카니발 보상
     mre: 200
-    item_ids: 110055-20
+    item_ids: 110056-20
     content: prize-20010090
   }
   {
     id: 10091
     name: 카니발 보상
     mre: 200
-    item_ids: 110055-30
+    item_ids: 110056-30
     content: prize-20010091
   }
   {
     id: 10092
     name: 카니발 보상
     mre: 200
-    item_ids: 110055-50
+    item_ids: 110056-50
     content: prize-20010092
   }
   {
     id: 10093
     name: 카니발 보상
     part: 100
-    item_ids: 110055-30
+    item_ids: 110056-30
     content: prize-20010093
   }
   {
     id: 10094
     name: 카니발 보상
     part: 100
-    item_ids: 110055-50
+    item_ids: 110056-50
     content: prize-20010094
   }
   {
     id: 10095
     name: 카니발 보상
     part: 100
-    item_ids: 110055-100
+    item_ids: 110056-100
     content: prize-20010095
   }
   {
     id: 10096
     name: 카니발 보상
     part: 200
-    item_ids: 110055-50
+    item_ids: 110056-50
     content: prize-20010096
   }
   {
     id: 10097
     name: 카니발 보상
     part: 200
-    item_ids: 110055-100
+    item_ids: 110056-100
     content: prize-20010097
   }
   {
     id: 10098
     name: 카니발 보상
     part: 300
-    item_ids: 110055-150
+    item_ids: 110056-150
     content: prize-20010098
   }
   {
     id: 10099
     name: 카니발 보상
-    item_ids: 110055-200,45-200
+    item_ids: 110056-200,45-200
     content: prize-20010099
   }
   {
@@ -21823,7 +24780,7 @@
   {
     id: 10105
     name: 이벤트 보상
-    gift: 100003-10,7809-1
+    gift: 100003-10,8008-1
     content: prize-20010105
     icon: Bumdle_bline
   }
@@ -25468,6 +28425,18 @@
     content: prize-20012197
   }
   {
+    id: 12198
+    name: 필승 달마
+    furniture: "7238"
+    content: prize-20012198
+  }
+  {
+    id: 12199
+    name: 얼룩 마네키네코
+    furniture: "7239"
+    content: prize-20012199
+  }
+  {
     id: 12201
     name: 전지
     item_ids: 506-10
@@ -26000,6 +28969,42 @@
       '''
   }
   {
+    id: 12342
+    name: 6.5X50mm 개량탄
+    equip_ids: "322"
+    content:
+      '''
+      <color=#ffb400>최대 교정 및 강화 기준</color>
+      화력+10
+      관통+180
+      81식 카빈 전용
+      '''
+  }
+  {
+    id: 12343
+    name: MHS33
+    equip_ids: "323"
+    content:
+      '''
+      <color=#ffb400>최대 교정 및 강화 기준</color>
+      화력+8
+      치명률+48%
+      HK33 전용
+      '''
+  }
+  {
+    id: 12344
+    name: Dreibein 34
+    equip_ids: "324"
+    content:
+      '''
+      <color=#ffb400>최대 교정 및 강화 기준</color>
+      화력+8 命中+10
+      치명률+48%
+      MG34 전용
+      '''
+  }
+  {
     id: 12401
     name: 사탕 주머니
     item_ids: 7001-1
@@ -26244,6 +29249,24 @@
     name: 황금 전설
     item_ids: 7041-1
     content: 승자는 트로피를 높이 들어올려 모두의 시선을 끌어모읍니다. 눈부신 광채가 증명하는 소녀들이 창조한 또 하나의 전설입니다.
+  }
+  {
+    id: 12442
+    name: 자유인
+    item_ids: 7042-1
+    content: 저쪽 진형을 봐, 별거 없어! 최소한의 수비를 빼고 우리가 할일은 단 세 가지. 공격! 공격! 오로지 공격!
+  }
+  {
+    id: 12443
+    name: 해트트릭
+    item_ids: 7043-1
+    content: 첫 골, 상대는 아직 기회를 노린다. 두 번째 골, 상대는 전략을 수정한다. 세 번째 골... 슬슬 심리과 의사라도 불러줘야 할까?
+  }
+  {
+    id: 12444
+    name: 월드 웨이브
+    item_ids: 7044-1
+    content: 골! 고오오올!! 이번 경기 가장 멋진 골입니다!!! 이 순간을 만든 주인공를 더 조명해주세요. 아아, 얼마나 눈부십니까!!!
   }
   {
     id: 12501
@@ -31712,6 +34735,87 @@
     name: 탈레스의 예언 EX - 임무 보상
     core: 10
     content: prize-20017319
+  }
+  {
+    id: 17321
+    name: 초보 추상 - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017321
+  }
+  {
+    id: 17322
+    name: 해석 추상 - 임무 보상
+    gift: 200001-50
+    content: prize-20017322
+  }
+  {
+    id: 17323
+    name: 초월 추상 - 임무 보상
+    item_ids: 46-50
+    content: prize-20017323
+  }
+  {
+    id: 17324
+    name: 보간법 분석 - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017324
+  }
+  {
+    id: 17325
+    name: 오차 분석 - 임무 보상
+    gift: 200001-50
+    content: prize-20017325
+  }
+  {
+    id: 17326
+    name: 인접 분석 - 임무 보상
+    item_ids: 46-50
+    content: prize-20017326
+  }
+  {
+    id: 17327
+    name: 조화 모의 - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017327
+  }
+  {
+    id: 17328
+    name: 강화 모의 - 임무 보상
+    gift: 200001-50
+    content: prize-20017328
+  }
+  {
+    id: 17329
+    name: 복합 모의 - 임무 보상
+    item_ids: 46-50
+    content: prize-20017329
+  }
+  {
+    id: 17330
+    name: 베이즈 추론 - 임무 보상
+    item_ids: 45-20
+    content: prize-20017330
+  }
+  {
+    id: 17331
+    name: 넘침 - 임무 보상
+    item_ids: 44-50
+    content: prize-20017331
+  }
+  {
+    id: 17332
+    name: 집합 - 임무 보상
+    core: 5
+    content: prize-20017332
   }
   {
     id: 20001
@@ -38432,6 +41536,48 @@
     fairy_ids: 22-910122
   }
   {
+    id: 40530
+    name: 50000점 보상
+    item_ids: 100172-1,9027-1
+    content: prize-20040530
+  }
+  {
+    id: 40531
+    name: 100000점 보상
+    item_ids: 45-20
+    content: prize-20040531
+  }
+  {
+    id: 40532
+    name: 150000점 보상
+    item_ids: 100173-1,9028-1
+    content: prize-20040532
+  }
+  {
+    id: 40533
+    name: 250000점 보상
+    item_ids: 45-30
+    content: prize-20040533
+  }
+  {
+    id: 40534
+    name: 350000점 보상
+    item_ids: 100174-1,9029-1
+    content: prize-20040534
+  }
+  {
+    id: 40535
+    name: 450000점 보상
+    item_ids: 45-40
+    content: prize-20040535
+  }
+  {
+    id: 40536
+    name: 550000점 보상
+    item_ids: 45-50
+    content: prize-20040536
+  }
+  {
     id: 44001
     name: 국지전 3000점 도달 보상
     mp: 500
@@ -42511,7 +45657,7 @@
   {
     id: 120058
     name: 증량보급-15레벨
-    item_ids: 41-30,1500043-1
+    item_ids: 41-30,1500041-1
     content: prize-20120058
   }
   {

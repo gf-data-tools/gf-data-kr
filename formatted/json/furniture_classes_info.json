@@ -594,6 +594,12 @@
     "bonus_description": "가구 세트를 모아 숙소에 배치하면, 특별한 일이 일어납니다.", "code": "KungFu2022_deco_11_icon", 
     "is_showed": "1", "placement": "1", "years": "2022"
   }, {
+    "id": "109", "name": "토끼 새해 마당", "rank": "5", "bonus_picture": "3103", "k_bonus": "6:2000,9:5000,12:8000", 
+    "bonus_number": "12", 
+    "description": "신년 무대를 주제로 한 가구 세트입니다. 모닥불을 지피고 반찬을 올리며, 모두가 기대하는 그리폰 설날 잔치가 뜨거운 분위기 속에서 막을 올립니다.", 
+    "bonus_description": "가구세트를 모아 숙소에 배치하면 특별한 일들이 일어납니다.", "code": "SpringFes2023_deco_06_icon", 
+    "is_showed": "1", "placement": "1", "years": "2023"
+  }, {
     "id": "299", "name": "애완동물", "rank": "5", "bonus_picture": "0", "k_bonus": "0", "bonus_number": "10", 
     "description": "furniture_classes-20000299", "bonus_description": "furniture_classes-30000299", 
     "code": "SP_CatHouseLabel01_icon", "is_showed": "0", "placement": "0", "years": "0"
