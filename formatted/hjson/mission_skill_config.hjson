@@ -19160,6 +19160,7 @@
     trigger_id: "59000100"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590011"
     is_manual: 590001
@@ -19178,6 +19179,7 @@
     trigger_id: "59000200"
     target_id: "1"
     special_spot_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
     subsidiary_mission_skill: "590012"
     is_manual: 590002
@@ -19196,6 +19198,7 @@
     trigger_id: "59000300"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590013"
     is_manual: 590003
@@ -19214,6 +19217,7 @@
     trigger_id: "59000400"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590014"
     is_manual: 590004
@@ -19236,6 +19240,7 @@
     trigger_id: "59000500"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590015"
     is_manual: 590005
@@ -19258,6 +19263,7 @@
     trigger_id: "59000600"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590016"
     is_manual: 590006
@@ -19364,6 +19370,7 @@
     trigger_id: "59010100"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590111"
     is_manual: 590101
@@ -19382,6 +19389,7 @@
     trigger_id: "59010200"
     target_id: "1"
     special_spot_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
     subsidiary_mission_skill: "590112"
     is_manual: 590102
@@ -19400,6 +19408,7 @@
     trigger_id: "59010300"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590113"
     is_manual: 590103
@@ -19418,6 +19427,7 @@
     trigger_id: "59010400"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590114"
     is_manual: 590104
@@ -19440,6 +19450,7 @@
     trigger_id: "59010500"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590115"
     is_manual: 590105
@@ -19462,6 +19473,7 @@
     trigger_id: "59010600"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590116"
     is_manual: 590106
@@ -19568,6 +19580,7 @@
     trigger_id: "59020100"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590211"
     is_manual: 590201
@@ -19586,6 +19599,7 @@
     trigger_id: "59020200"
     target_id: "1"
     special_spot_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
     subsidiary_mission_skill: "590212"
     is_manual: 590202
@@ -19604,6 +19618,7 @@
     trigger_id: "59020300"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590213"
     is_manual: 590203
@@ -19622,6 +19637,7 @@
     trigger_id: "59020400"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590214"
     is_manual: 590204
@@ -19644,6 +19660,7 @@
     trigger_id: "59020500"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590215"
     is_manual: 590205
@@ -19666,6 +19683,7 @@
     trigger_id: "59020600"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590216"
     is_manual: 590206
@@ -19772,6 +19790,7 @@
     trigger_id: "59030100"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590311"
     is_manual: 590301
@@ -19790,6 +19809,7 @@
     trigger_id: "59030200"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590312"
     is_manual: 590302
@@ -19808,6 +19828,7 @@
     trigger_id: "59030300"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590313"
     is_manual: 590303
@@ -19872,6 +19893,7 @@
     trigger_id: "59040100"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590411"
     is_manual: 590401
@@ -19890,6 +19912,7 @@
     trigger_id: "59040200"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590412"
     is_manual: 590402
@@ -19908,6 +19931,7 @@
     trigger_id: "59040300"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590413"
     is_manual: 590403
@@ -19972,6 +19996,7 @@
     trigger_id: "59050100"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590511"
     is_manual: 590501
@@ -19990,6 +20015,7 @@
     trigger_id: "59050200"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590512"
     is_manual: 590502
@@ -20008,6 +20034,7 @@
     trigger_id: "59050300"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590513"
     is_manual: 590503
@@ -20072,6 +20099,7 @@
     trigger_id: "59060100"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590611"
     is_manual: 590601
@@ -20090,6 +20118,7 @@
     trigger_id: "59060200"
     target_id: "1"
     special_spot_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
     subsidiary_mission_skill: "590612"
     is_manual: 590602
@@ -20108,6 +20137,7 @@
     trigger_id: "59060300"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590613"
     is_manual: 590603
@@ -20130,6 +20160,7 @@
     trigger_id: "59060400"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590614"
     is_manual: 590604
@@ -20148,6 +20179,7 @@
     trigger_id: "59060500"
     target_id: "1"
     special_spot_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
     subsidiary_mission_skill: "590615"
     is_manual: 590605
@@ -20170,6 +20202,7 @@
     trigger_id: "59060600"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590616"
     is_manual: 590606
@@ -20276,6 +20309,7 @@
     trigger_id: "59070100"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590711"
     is_manual: 590701
@@ -20294,6 +20328,7 @@
     trigger_id: "59070200"
     target_id: "1"
     special_spot_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
     subsidiary_mission_skill: "590712"
     is_manual: 590702
@@ -20316,6 +20351,7 @@
     trigger_id: "59070300"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590713"
     is_manual: 590703
@@ -20338,6 +20374,7 @@
     trigger_id: "59070400"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590714"
     is_manual: 590704
@@ -20356,6 +20393,7 @@
     trigger_id: "59070500"
     target_id: "1"
     special_spot_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
     subsidiary_mission_skill: "590715"
     is_manual: 590705
@@ -20378,6 +20416,7 @@
     trigger_id: "59070600"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590716"
     is_manual: 590706
@@ -20484,6 +20523,7 @@
     trigger_id: "59080100"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590811"
     is_manual: 590801
@@ -20502,6 +20542,7 @@
     trigger_id: "59080200"
     target_id: "1"
     special_spot_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
     subsidiary_mission_skill: "590812"
     is_manual: 590802
@@ -20552,6 +20593,7 @@
     trigger_id: "59090100"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "590911"
     is_manual: 590901
@@ -20570,6 +20612,7 @@
     trigger_id: "59090200"
     target_id: "1"
     special_spot_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
     subsidiary_mission_skill: "590912"
     is_manual: 590902
@@ -20620,6 +20663,7 @@
     trigger_id: 59100100&&59600210&&59600310
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "591011"
     is_manual: 591001
@@ -20642,6 +20686,7 @@
     trigger_id: 59100200&&59600210&&59600310
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "591012"
     is_manual: 591002
@@ -20664,6 +20709,7 @@
     trigger_id: 59100300&&59600210&&59600310
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "591013"
     is_manual: 591003
@@ -20686,6 +20732,7 @@
     trigger_id: 59100400&&59600210&&59600310
     target_id: "1"
     special_spot_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
     subsidiary_mission_skill: "591014"
     is_manual: 591004
@@ -20764,6 +20811,7 @@
     trigger_id: 59110100&&59600210&&59600310
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "591111"
     is_manual: 591101
@@ -20786,6 +20834,7 @@
     trigger_id: 59110200&&59600210&&59600310
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "591112"
     is_manual: 591102
@@ -20808,6 +20857,7 @@
     trigger_id: 59110300&&59600210&&59600310
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "591113"
     is_manual: 591103
@@ -20830,6 +20880,7 @@
     trigger_id: 59110400&&59600210&&59600310
     target_id: "1"
     special_spot_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
     subsidiary_mission_skill: "591114"
     is_manual: 591104
@@ -20908,6 +20959,7 @@
     trigger_id: 59120100&&59600110&&59600310
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "591211"
     is_manual: 591201
@@ -20930,6 +20982,7 @@
     trigger_id: 59120200&&59600110&&59600310
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "591212"
     is_manual: 591202
@@ -20952,6 +21005,7 @@
     trigger_id: 59120300&&59600110&&59600310
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "591213"
     is_manual: 591203
@@ -20974,6 +21028,7 @@
     trigger_id: 59120400&&59600110&&59600310
     target_id: "1"
     special_spot_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
     subsidiary_mission_skill: "591214"
     is_manual: 591204
@@ -21052,6 +21107,7 @@
     trigger_id: 59130100&&59600110&&59600310
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "591311"
     is_manual: 591301
@@ -21074,6 +21130,7 @@
     trigger_id: 59130200&&59600110&&59600310
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "591312"
     is_manual: 591302
@@ -21096,6 +21153,7 @@
     trigger_id: 59130300&&59600110&&59600310
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "591313"
     is_manual: 591303
@@ -21118,6 +21176,7 @@
     trigger_id: 59130400&&59600110&&59600310
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "591314"
     is_manual: 591304
@@ -21196,6 +21255,7 @@
     trigger_id: 59140100&&59600110&&59600210
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "591411"
     is_manual: 591401
@@ -21218,6 +21278,7 @@
     trigger_id: 59140200&&59600110&&59600210
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "591412"
     is_manual: 591402
@@ -21240,6 +21301,7 @@
     trigger_id: 59140300&&59600110&&59600210
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "591413"
     is_manual: 591403
@@ -21262,6 +21324,7 @@
     trigger_id: 59140400&&59600110&&59600210
     target_id: "1"
     special_spot_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
     subsidiary_mission_skill: "591414"
     is_manual: 591404
@@ -21340,6 +21403,7 @@
     trigger_id: 59150100&&59600110&&59600210
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "591511"
     is_manual: 591501
@@ -21362,6 +21426,7 @@
     trigger_id: 59150200&&59600110&&59600210
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "591512"
     is_manual: 591502
@@ -21384,6 +21449,7 @@
     trigger_id: 59150300&&59600110&&59600210
     target_id: "1"
     special_spot_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
     subsidiary_mission_skill: "591513"
     is_manual: 591503
@@ -21406,6 +21472,7 @@
     trigger_id: 59150400&&59600110&&59600210
     target_id: "1"
     special_spot_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
     subsidiary_mission_skill: "591514"
     is_manual: 591504
@@ -21480,6 +21547,7 @@
     trigger_id: "59200100"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "592011"
     is_manual: 592001
@@ -21502,6 +21570,7 @@
     trigger_id: "59200200"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "592012"
     is_manual: 592002
@@ -21520,6 +21589,7 @@
     trigger_id: "59200300"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "592013"
     is_manual: 592003
@@ -21542,6 +21612,7 @@
     trigger_id: "59200400"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "592014"
     is_manual: 592004
@@ -21616,6 +21687,7 @@
     trigger_id: "59210100"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "592111"
     is_manual: 592101
@@ -21638,6 +21710,7 @@
     trigger_id: "59210200"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "592112"
     is_manual: 592102
@@ -21656,6 +21729,7 @@
     trigger_id: "59210300"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "592113"
     is_manual: 592103
@@ -21674,6 +21748,7 @@
     trigger_id: "59210400"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "592114"
     is_manual: 592104
@@ -21692,6 +21767,7 @@
     trigger_id: "59210500"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "592115"
     is_manual: 592105
@@ -21710,6 +21786,7 @@
     trigger_id: "59210600"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "592116"
     is_manual: 592106
@@ -21728,6 +21805,7 @@
     trigger_id: "59210700"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "592117"
     is_manual: 592107
@@ -21746,6 +21824,7 @@
     trigger_id: "59210800"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "592118"
     is_manual: 592108
@@ -21876,6 +21955,7 @@
     trigger_id: "59220100"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "592211"
     is_manual: 592201
@@ -21894,6 +21974,7 @@
     trigger_id: "59220200"
     target_id: "1"
     special_spot_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
     subsidiary_mission_skill: "592212"
     is_manual: 592202
@@ -21912,6 +21993,7 @@
     trigger_id: "59220300"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "592213"
     is_manual: 592203
@@ -21930,6 +22012,7 @@
     trigger_id: "59220400"
     target_id: "1"
     special_spot_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
     subsidiary_mission_skill: "592214"
     is_manual: 592204
@@ -21948,6 +22031,7 @@
     trigger_id: "59220500"
     target_id: "1"
     special_spot_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597001:1,597002:1,597003:1,597004:1,597011:1,597012:1,597013:1,597014:1
     subsidiary_mission_skill: "592215"
     is_manual: 592205
@@ -21966,6 +22050,7 @@
     trigger_id: "59220600"
     target_id: "1"
     special_spot_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
+    mission_buff_add: 599910:1
     mission_buff_minus: 597005:1,597006:1,597007:1,597008:1,597015:1,597016:1,597017:1,597018:1
     subsidiary_mission_skill: "592216"
     is_manual: 592206
@@ -22573,7 +22658,7 @@
     cd_time_type: 1
     target_id: "1"
     special_spot_add: 595001:1
-    mission_buff_add: 595001:1,597021:1,597022:1,597023:1
+    mission_buff_add: 595001:1
   }
   {
     id: 595002
@@ -22863,7 +22948,7 @@
     cd_time_type: 1
     target_id: "1"
     special_spot_add: 596001:1
-    mission_buff_add: 596001:1,597021:1,597022:1,597023:1
+    mission_buff_add: 596001:1
   }
   {
     id: 596002
@@ -23467,9 +23552,8 @@
     spot_belong: "-1"
     spot_echelon: "1,301"
     cd_time_type: 1
-    trigger_id: 59000100&&59010100&&59020100
+    trigger_id: 59000100||59010100||59020100
     target_id: "1"
-    mission_buff_minus: 597021:1
     subsidiary_mission_skill: "590011,590111,590211"
     is_manual: 597021
     consumption_item: 9027:1
@@ -23488,7 +23572,6 @@
     cd_time_type: 1
     trigger_id: "59060100"
     target_id: "1"
-    mission_buff_minus: 597022:1
     subsidiary_mission_skill: "590611"
     is_manual: 597022
     consumption_item: 9028:1
@@ -23507,7 +23590,6 @@
     cd_time_type: 1
     trigger_id: "59080100"
     target_id: "1"
-    mission_buff_minus: 597023:1
     subsidiary_mission_skill: "590811"
     is_manual: 597023
     consumption_item: 9029:1
