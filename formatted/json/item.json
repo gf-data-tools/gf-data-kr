@@ -5399,6 +5399,11 @@
     "introduction": "DP28 - 나팔꽃 덩굴", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30002234", "is_hide_info": 0
   }, {
+    "id": 2235, "type": 5, "arg": "1", "code": "profilePic_sangvis_Scarecrow_SpringFes", 
+    "item_name": "아이콘: 스케어크로우-찾아온 악몽", "introduction": "아이콘: 스케어크로우-찾아온 악몽", "rank": 1, 
+    "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30002235", "is_hide_info": 0
+  }, {
     "id": 4001, "type": 1, "arg": "4001", "code": "explore_loot_city", "item_name": "도시의 선물", 
     "introduction": "아주 오래전 생산된 블록 완구로, 매우 정교하게 만들어져 모조하기 힘듭니다. 여러 분쟁지에서 화폐로 쓰이며 쓸만한 물건과 교환할 수 있습니다.", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 99999, "consume_type": 0, "item_access": "", 

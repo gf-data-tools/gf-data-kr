@@ -28208,6 +28208,20 @@
     interact_point_offset: *0.000,1.593,-0.285
   }
   {
+    id: 20085
+    name: 일정기록판
+    classes: 81
+    type: 201
+    space: "5,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 프랑슈슈의 다음 중요 일정을 기록해두는 칠판. 깜찍한 아이콘으로 참여할 멤버를 그려둡니다. 잠깐, 오른쪽 밑에 이상한 녀석이 있는데?
+    code: Saga_deco_blackboard
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
     id: 30001
     name: 마카로프 - 잭오랜턴
     classes: 300

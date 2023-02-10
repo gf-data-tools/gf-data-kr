@@ -15688,6 +15688,18 @@
     content: prize-20004316
   }
   {
+    id: 4317
+    name: 혼합세력: 스케어크로우-찾아온 악몽
+    sangvis: "1023"
+    content: prize-20004317
+  }
+  {
+    id: 4318
+    name: 아이콘: 스케어크로우-찾아온 악몽
+    item_ids: 2235-1
+    content: prize-20004318
+  }
+  {
     id: 5001
     name: 카페 PV 보상 - 16년 여름 이벤트
     furniture: "2004"
@@ -23900,6 +23912,84 @@
     item_ids: 7-1,41-888,506-888
     gift: 100003-10
     content: prize-20007404
+  }
+  {
+    id: 7405
+    name: 555보석
+    gem_pay: 555
+    content: prize-20007405
+  }
+  {
+    id: 7406
+    name: 1105보석
+    gem_pay: 1105
+    content: prize-20007406
+  }
+  {
+    id: 7407
+    name: 2270보석
+    gem_pay: 2270
+    content: prize-20007407
+  }
+  {
+    id: 7408
+    name: 아스트라 리볼버 - 아스트라의 표류기
+    gift: 4708-1
+    content: prize-20007408
+  }
+  {
+    id: 7409
+    name: AR-57 - 눈속에도 푸르게
+    gift: 6705-1
+    content: prize-20007409
+  }
+  {
+    id: 7410
+    name: V-PM5 - 첫 꿈은 제기치기
+    gift: 6706-1
+    content: prize-20007410
+  }
+  {
+    id: 7411
+    name: LTLX7000 - 하늘하늘 춤추는 무녀
+    gift: 6702-1
+    content: prize-20007411
+  }
+  {
+    id: 7412
+    name: Lusa - 죽도로 눈바닥 쓸기
+    gift: 6703-1
+    content: prize-20007412
+  }
+  {
+    id: 7413
+    name: UMP9 - 유현의 여행객
+    gift: 6704-1
+    content: prize-20007413
+  }
+  {
+    id: 7414
+    name: Vector - 눈밭을 즈려밟으며
+    gift: 6701-1
+    content: prize-20007414
+  }
+  {
+    id: 7468
+    name: 중급훈련자료*500
+    coins: 2-500
+    content: prize-20007468
+  }
+  {
+    id: 7469
+    name: 고급훈련자료*300
+    coins: 3-300
+    content: prize-20007469
+  }
+  {
+    id: 7470
+    name: 일정기록판
+    furniture: "20085"
+    content: prize-20007470
   }
   {
     id: 8001

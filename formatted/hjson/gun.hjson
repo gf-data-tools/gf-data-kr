@@ -28152,7 +28152,7 @@
     name: SPAS-15
     en_name: SPAS-15
     code: SPAS15
-    extra: u介,,
+    extra: u介,Morinaga Chitose,
     en_introduce:
       '''
       Type                       Combat shotgun
@@ -28215,7 +28215,7 @@
     name: MK3A1
     en_name: MK3A1
     code: MK3A1
-    extra: NAMYO,,
+    extra: NAMYO,Shirasu Saho,
     en_introduce:
       '''
       Type                       Shotgun
@@ -28394,7 +28394,7 @@
     name: P290
     en_name: P290
     code: P290
-    extra: sum,,
+    extra: sum,Akaneya Himika,
     en_introduce:
       '''
       Type                       Pistol
@@ -28451,7 +28451,7 @@
     name: Saiga 308
     en_name: Saiga 308
     code: Saiga308
-    extra: --,,
+    extra: --,Morinaga Chitose,
     en_introduce:
       '''
       Type                       Semi-automatic rifles
@@ -28576,7 +28576,7 @@
     name: CMR-30
     en_name: CMR-30
     code: CMR30
-    extra: キキ,,
+    extra: キキ,Akaneya Himika,
     en_introduce:
       '''
       Type                       Assault rifle
@@ -28631,7 +28631,7 @@
     name: M240L
     en_name: M240L
     code: M240L
-    extra: Nunok,,
+    extra: Nunok,Nakae Mitsuki,
     en_introduce:
       '''
       Type                       Machine Gun

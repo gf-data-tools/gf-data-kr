@@ -1591,6 +1591,7 @@ DEPLOYMENT,30498,Awaiting third party's move...,,0
 DEPLOYMENT,30499,Non-HOC unit already deployed,,0
 DEPLOYMENT,30500,Talent II activated,,0
 DEPLOYMENT,30507,即将修复以下单位(todo),,0
+DEPLOYMENT,30524,各部切换至昼战模式(todo),,0
 DORM,31000,Warehouse,,0
 DORM,31001,Warehouse,,0
 DORM,31002,Re-supply,,0
@@ -3377,6 +3378,7 @@ MISSIONSELECTION,40417,Full-Scale Expedition Successful,,0
 MISSIONSELECTION,40418,Echelon Expedition Successful,,0
 MISSIONSELECTION,40419,Rewards Unobtained,,0
 MISSIONSELECTION,40420,Battle Tips,,0
+MISSIONSELECTION,40457,日常玩法战斗记录(todo),,0
 REINFORCEMENT,50000,Select,,0
 REINFORCEMENT,50001,Locked,,0
 REINFORCEMENT,50002,LOCKED,,0
@@ -4250,6 +4252,8 @@ SEPCIALOPS,60637,山田多惠(todo),,0
 SEPCIALOPS,60638,耗时(todo),,0
 SEPCIALOPS,60639,请选择一个战场效果(todo),,0
 SEPCIALOPS,60640,选择(todo),,0
+SEPCIALOPS,60695,随着故事推进，法兰秀秀成员的个人故事会在特定能力值达标时解锁(todo),,0
+SEPCIALOPS,60696,进行训练或打工提升能力值来完成演出吧。（通关后可重置进度再次挑战解锁更多结局）(todo),,0
 GASHAPON,70000,Furniture storage capacity is insufficient(,,0
 GASHAPON,70001,)//c Please organize first before carrying out procurement!,,0
 GASHAPON,70002,Can't purchase//c not enough procurement Tokens.,,0
@@ -7387,3 +7391,9 @@ MINIGAME,280498,Currently in use,,0
 MINIGAME,280499,Not obtained,,0
 MINIGAME,280500,,,0
 MINIGAME,280501,Chessboard background locked and cannot be used.,,0
+MINIGAME,280506,昼夜交替剩余{0}回合(todo),,0
+MINIGAME,280507,资源不足无法进行探索(todo),,0
+MINIGAME,280508,不可探索的区域(todo),,0
+MINIGAME,280509,妖精未满足要求，无法进行探索(todo),,0
+MINIGAME,280510,重装未满足要求，无法进行探索(todo),,0
+MINIGAME,280511,点位攻略奖励(todo),,0

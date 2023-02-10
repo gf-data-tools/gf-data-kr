@@ -3576,7 +3576,7 @@
   }, {
     "id": 8003, "name": "Erma - 그윽한 매화향", "extra": 0, "fit_gun": 376, "ai": 0, "voice": 15, "is_hidden": 0, 
     "substitute_voice": "", 
-    "dialog": "드레스에 주머니가 없어서 끈을 하나 구해서 열쇠를 묶었어. 어라, 무슨 열쇠가 이렇게 많지? 나조차도 모르는 보물을 잔뜩 있는 것일까?", 
+    "dialog": "드레스에 주머니가 없어서 끈을 하나 구해서 열쇠를 묶었어. 어라, 무슨 열쇠가 이렇게 많지? 나한테 나조차도 모르는 보물이 잔뜩 있는 것일까?", 
     "note": "skin-30008003", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40008003", "order": 100, 
     "class_id": 85
   }, {
