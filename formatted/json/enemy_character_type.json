@@ -1700,7 +1700,7 @@
     "id": 13211, "type": 5, "name": "데스나이트", "enemy_info": "魔物杂兵近战", "code": "Dropkick_MeleeDevil", 
     "maxlife": 1550, "pow": 11, "hit": 18, "dodge": 0, "range": 3, "speed": 35, "number": 1, "angle": 180, 
     "armor_piercing": 0, "armor": 345, "shield": 0, "rate": 40, "boss_hp": 0, "def": 99999, "def_break": 0, 
-    "debuff_resistance": 0.0, "level": 100, "character": "근접,장갑", "special_attack": 0, "normal_attack": 755003, 
+    "debuff_resistance": 0.0, "level": 100, "character": "엘리트,근접,장갑", "special_attack": 0, "normal_attack": 755003, 
     "passive_skill": "", "effect_ratio": 0.41, "unable_buff_type": "", "able_buff_id": "", "voice": "", 
     "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30013211", "hit_point": "", "offset": "", 
     "lifebar_offset": "", "enemy_illustration_id": 100028, "location_offset": ""
@@ -1708,7 +1708,7 @@
     "id": 13212, "type": 4, "name": "고스트 호스", "enemy_info": "魔物杂兵远程", "code": "Dropkick_RemoteDevil", 
     "maxlife": 567, "pow": 84, "hit": 60, "dodge": 0, "range": 7, "speed": 30, "number": 1, "angle": 180, 
     "armor_piercing": 0, "armor": 345, "shield": 0, "rate": 15, "boss_hp": 0, "def": 99999, "def_break": 0, 
-    "debuff_resistance": 0.0, "level": 100, "character": "장갑", "special_attack": 0, "normal_attack": 755004, 
+    "debuff_resistance": 0.0, "level": 100, "character": "엘리트,장갑", "special_attack": 0, "normal_attack": 755004, 
     "passive_skill": "", "effect_ratio": 1.03, "unable_buff_type": "", "able_buff_id": "", "voice": "", 
     "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30013212", "hit_point": "", "offset": "", 
     "lifebar_offset": "", "enemy_illustration_id": 100029, "location_offset": ""
@@ -1716,7 +1716,7 @@
     "id": 13213, "type": 3, "name": "빙수의 요정", "enemy_info": "冰雪魔物", "code": "Dropkick_IceGhost", "maxlife": 1150, 
     "pow": 58, "hit": 70, "dodge": 18, "range": 7, "speed": 50, "number": 1, "angle": 180, "armor_piercing": 40, "armor": 0, 
     "shield": 0, "rate": 36, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
-    "character": "철갑,제어,필살", "special_attack": 0, "normal_attack": 755006, "passive_skill": "755007,755008", 
+    "character": "엘리트,철갑,제어,필살", "special_attack": 0, "normal_attack": 755006, "passive_skill": "755007,755008", 
     "effect_ratio": 0.8, "unable_buff_type": "", "able_buff_id": "", "voice": "", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30013213", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 100030, "location_offset": ""
@@ -1724,7 +1724,7 @@
     "id": 13214, "type": 3, "name": "외눈박이", "enemy_info": "怪物3近战独眼", "code": "Dropkick_CyclopsChan", 
     "maxlife": 960, "pow": 52, "hit": 30, "dodge": 60, "range": 3, "speed": 60, "number": 1, "angle": 180, 
     "armor_piercing": 0, "armor": 0, "shield": 0, "rate": 30, "boss_hp": 0, "def": 99999, "def_break": 0, 
-    "debuff_resistance": 0.0, "level": 30100, "character": "근접", "special_attack": 0, "normal_attack": 755005, 
+    "debuff_resistance": 0.0, "level": 30100, "character": "엘리트,근접", "special_attack": 0, "normal_attack": 755005, 
     "passive_skill": "", "effect_ratio": 0.8, "unable_buff_type": "", "able_buff_id": "", "voice": "", 
     "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30013214", "hit_point": "", "offset": "", 
     "lifebar_offset": "", "enemy_illustration_id": 100031, "location_offset": ""
@@ -1732,7 +1732,7 @@
     "id": 13215, "type": 3, "name": "콩콩이", "enemy_info": "怪物4远程狼牙棒", "code": "Dropkick_BeansEmissary", 
     "maxlife": 1350, "pow": 22, "hit": 46, "dodge": 42, "range": 7, "speed": 50, "number": 1, "angle": 180, 
     "armor_piercing": 0, "armor": 0, "shield": 0, "rate": 40, "boss_hp": 0, "def": 99999, "def_break": 0, 
-    "debuff_resistance": 0.0, "level": 30100, "character": "제어", "special_attack": 0, "normal_attack": 755009, 
+    "debuff_resistance": 0.0, "level": 30100, "character": "엘리트,제어", "special_attack": 0, "normal_attack": 755009, 
     "passive_skill": "", "effect_ratio": 1.0, "unable_buff_type": "", "able_buff_id": "", "voice": "", 
     "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30013215", "hit_point": "", "offset": "", 
     "lifebar_offset": "", "enemy_illustration_id": 100032, "location_offset": ""
@@ -1740,10 +1740,10 @@
     "id": 13216, "type": 2, "name": "베트", "enemy_info": "怪物5精英狗", "code": "Dropkick_Beth", "maxlife": 28000, 
     "pow": 28, "hit": 140, "dodge": 10, "range": 2, "speed": 100, "number": 1, "angle": 180, "armor_piercing": 30, 
     "armor": 0, "shield": 0, "rate": 45, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, 
-    "level": 30100, "character": "고속,격려", "special_attack": 0, "normal_attack": 755010, "passive_skill": "755011,755012", 
-    "effect_ratio": 0.7, "unable_buff_type": "", "able_buff_id": "", "voice": "", "deployment_scale": 1.0, 
-    "recommend_description": "enemy_character_type-30013216", "hit_point": "", "offset": "", "lifebar_offset": "", 
-    "enemy_illustration_id": 100033, "location_offset": ""
+    "level": 30100, "character": "엘리트,고속,격려", "special_attack": 0, "normal_attack": 755010, 
+    "passive_skill": "755011,755012", "effect_ratio": 0.7, "unable_buff_type": "", "able_buff_id": "", "voice": "", 
+    "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30013216", "hit_point": "", "offset": "", 
+    "lifebar_offset": "", "enemy_illustration_id": 100033, "location_offset": ""
   }, {
     "id": 13217, "type": 2, "name": "샤크 카니발", "enemy_info": "兵工厂-泳装2021", "code": "RecceCentreSwim", 
     "maxlife": 25000, "pow": 10, "hit": 6, "dodge": 4, "range": 15, "speed": 0, "number": 1, "angle": 180, 
@@ -1915,6 +1915,127 @@
     "passive_skill": "700101,402605", "effect_ratio": 1.0, "unable_buff_type": "", "able_buff_id": "", "voice": "", 
     "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30013237", "hit_point": "", "offset": "", 
     "lifebar_offset": "", "enemy_illustration_id": 179, "location_offset": ""
+  }, {
+    "id": 13238, "type": 3, "name": "목욕탕 자객", "enemy_info": "佐贺联动-澡堂客人黄毛", "code": "Bathhouse_guest_2", 
+    "maxlife": 3000, "pow": 18, "hit": 50, "dodge": 20, "range": 3, "speed": 35, "number": 1, "angle": 180, 
+    "armor_piercing": 0, "armor": 0, "shield": 0, "rate": 30, "boss_hp": 0, "def": 99999, "def_break": 0, 
+    "debuff_resistance": 0.0, "level": 30100, "character": "방패행진", "special_attack": 0, "normal_attack": 755273, 
+    "passive_skill": "200304,902269,755274", "effect_ratio": 0.8, "unable_buff_type": "", "able_buff_id": "", "voice": "", 
+    "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30013238", "hit_point": "", "offset": "", 
+    "lifebar_offset": "", "enemy_illustration_id": 100037, "location_offset": ""
+  }, {
+    "id": 13239, "type": 3, "name": "목욕탕 자객", "enemy_info": "佐贺联动-澡堂客人憨憨", "code": "Bathhouse_guest_1", 
+    "maxlife": 42000, "pow": 46, "hit": 46, "dodge": 10, "range": 3, "speed": 30, "number": 1, "angle": 180, 
+    "armor_piercing": 0, "armor": 90, "shield": 0, "rate": 24, "boss_hp": 0, "def": 6000, "def_break": 0, 
+    "debuff_resistance": 0.0, "level": 30100, "character": "중갑,역장,약화", "special_attack": 0, "normal_attack": 403701, 
+    "passive_skill": "200303,200304,403702,755214,403704", "effect_ratio": 1.21, "unable_buff_type": "221", 
+    "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
+    "recommend_description": "enemy_character_type-30013239", "hit_point": "", "offset": "", "lifebar_offset": "", 
+    "enemy_illustration_id": 100038, "location_offset": ""
+  }, {
+    "id": 13240, "type": 4, "name": "휠 오브 언포츈", "enemy_info": "佐贺联动-轮胎", "code": "Tyre_enemy", "maxlife": 3000, 
+    "pow": 5, "hit": 150, "dodge": 50, "range": 3, "speed": 150, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 50, 
+    "shield": 0, "rate": 30, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
+    "character": "근접,중갑", "special_attack": 0, "normal_attack": 755270, "passive_skill": "755269,200304", 
+    "effect_ratio": 1.84, "unable_buff_type": "", "able_buff_id": "", "voice": "", "deployment_scale": 1.0, 
+    "recommend_description": "enemy_character_type-30013240", "hit_point": "", "offset": "", "lifebar_offset": "", 
+    "enemy_illustration_id": 100039, "location_offset": ""
+  }, {
+    "id": 13241, "type": 4, "name": "크레이지 트럭", "enemy_info": "佐贺联动-卡车", "code": "Truck_enemy", "maxlife": 200000, 
+    "pow": 100, "hit": 250, "dodge": 10, "range": 3, "speed": 200, "number": 1, "angle": 180, "armor_piercing": 0, 
+    "armor": 400, "shield": 0, "rate": 20, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, 
+    "level": 100, "character": "엘리트,위협적", "special_attack": 0, "normal_attack": 900107, 
+    "passive_skill": "755264,755265,755266,119020", "effect_ratio": 1.0, "unable_buff_type": "221,215,205", 
+    "able_buff_id": "", "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30013241", 
+    "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 100040, "location_offset": ""
+  }, {
+    "id": 13242, "type": 4, "name": "버블 머신", "enemy_info": "佐贺联动-泡泡机", "code": "Bubble_machine", "maxlife": 60000, 
+    "pow": 10, "hit": 30, "dodge": 10, "range": 15, "speed": 0, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 30, 
+    "shield": 0, "rate": 25, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
+    "character": "중갑,생산", "special_attack": 0, "normal_attack": 900107, "passive_skill": "200304,755267", 
+    "effect_ratio": 1.41, "unable_buff_type": "221", "able_buff_id": "", "voice": "", "deployment_scale": 1.0, 
+    "recommend_description": "enemy_character_type-30013242", "hit_point": "", "offset": "", "lifebar_offset": "", 
+    "enemy_illustration_id": 100041, "location_offset": ""
+  }, {
+    "id": 13243, "type": 2, "name": "흔들리는 거품", "enemy_info": "佐贺联动-泡泡", "code": "Bubble", "maxlife": 2000, 
+    "pow": 30, "hit": 30, "dodge": 200, "range": 1, "speed": 20, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 0, 
+    "shield": 0, "rate": 50, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
+    "character": "근접,중갑", "special_attack": 0, "normal_attack": 900107, "passive_skill": "200304,755268", 
+    "effect_ratio": 0.84, "unable_buff_type": "", "able_buff_id": "", "voice": "", "deployment_scale": 1.0, 
+    "recommend_description": "enemy_character_type-30013243", "hit_point": "", "offset": "", "lifebar_offset": "", 
+    "enemy_illustration_id": 100042, "location_offset": ""
+  }, {
+    "id": 13244, "type": 2, "name": "로메로", "enemy_info": "佐贺联动-僵尸狗", "code": "saga_dog_enemy", "maxlife": 22000, 
+    "pow": 35, "hit": 200, "dodge": 100, "range": 2, "speed": 100, "number": 1, "angle": 180, "armor_piercing": 150, 
+    "armor": 0, "shield": 0, "rate": 35, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, 
+    "level": 30100, "character": "엘리트,고속,격려", "special_attack": 0, "normal_attack": 755271, 
+    "passive_skill": "755272.200304", "effect_ratio": 0.7, "unable_buff_type": "221", "able_buff_id": "", "voice": "", 
+    "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30013244", "hit_point": "", "offset": "", 
+    "lifebar_offset": "", "enemy_illustration_id": 100043, "location_offset": ""
+  }, {
+    "id": 13245, "type": 3, "name": "회색 가수", "enemy_info": "佐贺联动-格里芬人形", "code": "HK21_SagaEnemy", 
+    "maxlife": 1000, "pow": 10, "hit": 18, "dodge": 5, "range": 3, "speed": 30, "number": 1, "angle": 180, 
+    "armor_piercing": 0, "armor": 0, "shield": 0, "rate": 18, "boss_hp": 0, "def": 99999, "def_break": 0, 
+    "debuff_resistance": 0.0, "level": 30100, "character": "그리폰,견고", "special_attack": 0, "normal_attack": 755146, 
+    "passive_skill": "755145,755147,755148,200304", "effect_ratio": 1.0, "unable_buff_type": "", "able_buff_id": "", 
+    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30013245", "hit_point": "", 
+    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 100044, "location_offset": ""
+  }, {
+    "id": 13246, "type": 3, "name": "초록 가수", "enemy_info": "佐贺联动-格里芬人形", "code": "JS-127_SagaEnemy", 
+    "maxlife": 1000, "pow": 10, "hit": 18, "dodge": 5, "range": 3, "speed": 30, "number": 1, "angle": 180, 
+    "armor_piercing": 0, "armor": 0, "shield": 0, "rate": 18, "boss_hp": 0, "def": 99999, "def_break": 0, 
+    "debuff_resistance": 0.0, "level": 30100, "character": "그리폰,견고", "special_attack": 0, "normal_attack": 755146, 
+    "passive_skill": "755145,755147,755148,200304", "effect_ratio": 1.0, "unable_buff_type": "", "able_buff_id": "", 
+    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30013246", "hit_point": "", 
+    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 100045, "location_offset": ""
+  }, {
+    "id": 13247, "type": 3, "name": "붉은 가수", "enemy_info": "佐贺联动-格里芬人形", "code": "PM06_SagaEnemy", 
+    "maxlife": 1000, "pow": 10, "hit": 18, "dodge": 5, "range": 3, "speed": 30, "number": 1, "angle": 180, 
+    "armor_piercing": 0, "armor": 0, "shield": 0, "rate": 18, "boss_hp": 0, "def": 99999, "def_break": 0, 
+    "debuff_resistance": 0.0, "level": 30100, "character": "그리폰,견고", "special_attack": 0, "normal_attack": 755146, 
+    "passive_skill": "755145,755147,755148,200304", "effect_ratio": 1.0, "unable_buff_type": "", "able_buff_id": "", 
+    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30013247", "hit_point": "", 
+    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 100046, "location_offset": ""
+  }, {
+    "id": 13248, "type": 3, "name": "방탕한 보컬", "enemy_info": "佐贺联动-格里芬人形", "code": "MG5_SagaEnemy", 
+    "maxlife": 1000, "pow": 10, "hit": 18, "dodge": 5, "range": 3, "speed": 30, "number": 1, "angle": 180, 
+    "armor_piercing": 0, "armor": 0, "shield": 0, "rate": 18, "boss_hp": 0, "def": 99999, "def_break": 0, 
+    "debuff_resistance": 0.0, "level": 30100, "character": "그리폰,견고", "special_attack": 0, "normal_attack": 755146, 
+    "passive_skill": "755145,755147,755148,200304", "effect_ratio": 1.0, "unable_buff_type": "", "able_buff_id": "", 
+    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30013248", "hit_point": "", 
+    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 100047, "location_offset": ""
+  }, {
+    "id": 13249, "type": 3, "name": "불꽃 기타리스트", "enemy_info": "佐贺联动-格里芬人形", "code": "M1887_SagaEnemy", 
+    "maxlife": 1000, "pow": 10, "hit": 18, "dodge": 5, "range": 3, "speed": 30, "number": 1, "angle": 180, 
+    "armor_piercing": 0, "armor": 0, "shield": 0, "rate": 18, "boss_hp": 0, "def": 99999, "def_break": 0, 
+    "debuff_resistance": 0.0, "level": 30100, "character": "그리폰,견고", "special_attack": 0, "normal_attack": 755146, 
+    "passive_skill": "755145,755147,755148,200304", "effect_ratio": 1.0, "unable_buff_type": "", "able_buff_id": "", 
+    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30013249", "hit_point": "", 
+    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 100048, "location_offset": ""
+  }, {
+    "id": 13250, "type": 3, "name": "체이싱 드러머", "enemy_info": "佐贺联动-格里芬人形", "code": "80type_SagaEnemy", 
+    "maxlife": 1000, "pow": 10, "hit": 18, "dodge": 5, "range": 3, "speed": 30, "number": 1, "angle": 180, 
+    "armor_piercing": 0, "armor": 0, "shield": 0, "rate": 18, "boss_hp": 0, "def": 99999, "def_break": 0, 
+    "debuff_resistance": 0.0, "level": 30100, "character": "그리폰,견고", "special_attack": 0, "normal_attack": 755146, 
+    "passive_skill": "755145,755147,755148,200304", "effect_ratio": 1.0, "unable_buff_type": "", "able_buff_id": "", 
+    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30013250", "hit_point": "", 
+    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 100049, "location_offset": ""
+  }, {
+    "id": 13251, "type": 3, "name": "선글라스 베이스", "enemy_info": "佐贺联动-格里芬人形", "code": "M1897_SagaEnemy", 
+    "maxlife": 1000, "pow": 10, "hit": 18, "dodge": 5, "range": 3, "speed": 30, "number": 1, "angle": 180, 
+    "armor_piercing": 0, "armor": 0, "shield": 0, "rate": 18, "boss_hp": 0, "def": 99999, "def_break": 0, 
+    "debuff_resistance": 0.0, "level": 30100, "character": "그리폰,견고", "special_attack": 0, "normal_attack": 755146, 
+    "passive_skill": "755145,755147,755148,200304", "effect_ratio": 1.0, "unable_buff_type": "", "able_buff_id": "", 
+    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30013251", "hit_point": "", 
+    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 100050, "location_offset": ""
+  }, {
+    "id": 13252, "type": 3, "name": "미스테리 키보더", "enemy_info": "佐贺联动-格里芬人形", "code": "G11_SagaEnemy", 
+    "maxlife": 1000, "pow": 10, "hit": 18, "dodge": 5, "range": 3, "speed": 30, "number": 1, "angle": 180, 
+    "armor_piercing": 0, "armor": 0, "shield": 0, "rate": 18, "boss_hp": 0, "def": 99999, "def_break": 0, 
+    "debuff_resistance": 0.0, "level": 30100, "character": "그리폰,견고", "special_attack": 0, "normal_attack": 755146, 
+    "passive_skill": "755145,755147,755148,200304", "effect_ratio": 1.0, "unable_buff_type": "", "able_buff_id": "", 
+    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30013252", "hit_point": "", 
+    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 100051, "location_offset": ""
   }, {
     "id": 15001, "type": 5, "name": "이지스", "enemy_info": "圣盾", "code": "Aegis_SWAP", "maxlife": 2305, "pow": 12, 
     "hit": 28, "dodge": 0, "range": 3, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 35, "armor": 145, 

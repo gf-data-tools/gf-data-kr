@@ -99,6 +99,16 @@
   {"obtain_id": 251, "description": "gun_obtain-10000251", "detail": 0, "goto_page_id": 0}, 
   {"obtain_id": 252, "description": "gun_obtain-10000252", "detail": 0, "goto_page_id": 0}, 
   {"obtain_id": 253, "description": "gun_obtain-10000253", "detail": 0, "goto_page_id": 0}, 
+  {
+    "obtain_id": 254, "description": "기간 한정 이벤트 【새하얀 물결, 꽃같은 얼굴】 클리어 보상", "detail": 0, 
+    "goto_page_id": 0
+  }, {
+    "obtain_id": 255, "description": "기간 한정 이벤트 【새하얀 물결, 꽃같은 얼굴】 한정 구출", "detail": 0, 
+    "goto_page_id": 0
+  }, {
+    "obtain_id": 256, "description": "기간 한정 이벤트 【새하얀 물결, 꽃같은 얼굴】 상점 교환", "detail": 0, 
+    "goto_page_id": 0
+  }, 
   {"obtain_id": 301, "description": "기간한정 이벤트 【황금 달빛】 보상", "detail": 0, "goto_page_id": 0}, 
   {"obtain_id": 302, "description": "한가위 출석체크 이벤트 보상", "detail": 0, "goto_page_id": 0}, 
   {"obtain_id": 303, "description": "기간한정 전투구역 【헌팅 래빗 작전】 클리어 보상", "detail": 0, "goto_page_id": 0}, 
@@ -136,7 +146,7 @@
   {"obtain_id": 510, "description": "상점 패키지", "detail": 0, "goto_page_id": 0}, 
   {"obtain_id": 511, "description": "상시 이벤트 【심층투영】 랭킹 전역 보상", "detail": 0, "goto_page_id": 0}, 
   {"obtain_id": 512, "description": "상시 이벤트 【특이점】 랭킹 전역 보상", "detail": 0, "goto_page_id": 0}, 
-  {"obtain_id": 513, "description": "기간한정 이벤트 【고정점】 랭킹 전역 보상", "detail": 0, "goto_page_id": 0}, 
+  {"obtain_id": 513, "description": "기간한정 이벤트 【고정점】 랭킹전역 보상", "detail": 0, "goto_page_id": 0}, 
   {"obtain_id": 514, "description": "기간 한정 이벤트 【세로변형】 랭킹 보상", "detail": 0, "goto_page_id": 0}, 
   {"obtain_id": 1701, "description": "2017년 1월 출석보상", "detail": 0, "goto_page_id": 0}, 
   {"obtain_id": 1702, "description": "2017년 2월 출석보상", "detail": 0, "goto_page_id": 0}, 
@@ -294,5 +304,12 @@
   {"obtain_id": 3090, "description": "2023년 10월 출석 보상", "detail": 0, "goto_page_id": 0}, 
   {"obtain_id": 3091, "description": "2023년 11월 출석 보상", "detail": 0, "goto_page_id": 0}, 
   {"obtain_id": 3092, "description": "2023년 12월 출석 보상", "detail": 0, "goto_page_id": 0}, 
-  {"obtain_id": 3093, "description": "한정 이벤트 <문제상자 가설> 재화 교환", "detail": 0, "goto_page_id": 0}
+  {"obtain_id": 3093, "description": "한정 이벤트 <문제상자 가설> 재화 교환", "detail": 0, "goto_page_id": 0}, 
+  {
+    "obtain_id": 3094, "description": "기간 한정 이벤트 <새하얀 물결, 꽃같은 얼굴> 상점 교환", "detail": 0, 
+    "goto_page_id": 0
+  }, {
+    "obtain_id": 3095, "description": "기간 한정 이벤트 <새하얀 물결, 꽃같은 얼굴> 서버 응원 보상", "detail": 0, 
+    "goto_page_id": 0
+  }
 ]

@@ -209,12 +209,12 @@
     "detail_introduction": "item-30000106", "is_hide_info": 0
   }, {
     "id": 107, "type": 3, "arg": "8", "code": "Medal_2022winter", "item_name": "고정점 훈장", 
-    "introduction": "\"고정점\" 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. \"폭풍이 몰아칠 때 그대가 바로 흔들리지 않는 고정점이다.\"", 
+    "introduction": "고정점 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. \"폭풍이 몰아칠 때 그대가 바로 흔들리지 않는 고정점이다.\"", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30000107", "is_hide_info": 0
   }, {
     "id": 108, "type": 3, "arg": "9", "code": "Medal_2022winter_rank", "item_name": "지옥방문 훈장", 
-    "introduction": "\"고정점\" 랭킹 전역에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. \"지휘관님... 설마 아베르누스의 물자를 몽땅 털어버리신 건가요?\"", 
+    "introduction": "고정점 랭킹 전역에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. \"지휘관님... 설마 아베르누스의 물자를 몽땅 털어버리신 건가요?\"", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30000108", "is_hide_info": 0
   }, {
@@ -229,7 +229,7 @@
     "detail_introduction": "item-30000110", "is_hide_info": 0
   }, {
     "id": 111, "type": 3, "arg": "12", "code": "Medal_2019winter_re_rank", "item_name": "어둠을 찢는 자 훈장", 
-    "introduction": "\"혼돈폐막+\" 랭킹 전역에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. \"나의 태양, 나를 비추고 손을 높이 들어 어둠을 찢어주소서.\"", 
+    "introduction": "혼돈폐막+ 랭킹 전역에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. \"나의 태양, 나를 비추고 손을 높이 들어 어둠을 찢어주소서.\"", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30000111", "is_hide_info": 0
   }, {
@@ -262,6 +262,11 @@
     "introduction": "사로스 주기 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. \"해와 달의 교차는 선대 관측자의 기대에 종지부를 찍고 새로운 윤회가 시작된다.\"", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30000117", "is_hide_info": 0
+  }, {
+    "id": 118, "type": 3, "arg": "19", "code": "Medal_saga", "item_name": "골든 마이크 뮤즈 훈장", 
+    "introduction": "\"새하얀 물결, 꽃같은 얼굴\" 이벤트에서 멋진 공연을 선보인 지휘관 및 휘하 악단에게 수여. \"길이 아무리 험난하여도, 넘어지고서 마음 깊이 쌓여 있던 소망을 외쳐라!\"", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30000118", "is_hide_info": 0
   }, {
     "id": 301, "type": 1, "arg": "1", "code": "CentreDataBGM71", "item_name": "핵심 데이터:BGM-71", 
     "introduction": "중장비 부대 BGM-71의 데이터 조각. -\"보고, 목표 구역에 아군이 있습니다!\" -\"이런... 뭐, 행운을 빌어야지!\"", 
@@ -333,7 +338,7 @@
     "detail_introduction": "item-30000505", "is_hide_info": 0
   }, {
     "id": 506, "type": 1, "arg": "1", "code": "Battery", "item_name": "전지", 
-    "introduction": "\"전지치고는 좀 크지만, 전지권보호협회가 '좀 클 수도 있지, 왜 우리 전지 기를 죽여요!?'라고 했어요.\"", 
+    "introduction": "전지치고는 좀 크지만, 전지권보호협회가 '좀 클 수도 있지, 왜 우리 전지 기를 죽여요!?'라고 했어요.", 
     "rank": 1, "sort": 85, "initial_num": "", "daily_limit": "", "upper_limit": 9999, "consume_type": 0, 
     "item_access": "17,6,5", "detail_introduction": "숙소 부속실의 시설을 승급하고 일상 활동에 사용됩니다.", 
     "is_hide_info": 0
@@ -3273,7 +3278,7 @@
     "detail_introduction": "item-30001699", "is_hide_info": 0
   }, {
     "id": 1700, "type": 5, "arg": "1", "code": "profilePic_Fetter_cardKing", "item_name": "아이콘: 타짜", 
-    "introduction": "\"대단해! 어떻게 해도 이길 수가 없잖아!\"\n\"아니야, 이 세상에 꺾지 못할 건 없어, 난 그렇게 믿기에 지금까지 이겨왔어.\"", 
+    "introduction": "대단해! 어떻게 해도 이길 수가 없잖아!\n\"아니야, 이 세상에 꺾지 못할 건 없어, 난 그렇게 믿기에 지금까지 이겨왔어.\"", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30001700", "is_hide_info": 0
   }, {
@@ -3867,9 +3872,9 @@
     "introduction": "카드배경: 봄날 축제", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30001844", "is_hide_info": 0
   }, {
-    "id": 1845, "type": 5, "arg": "1", "code": "profilePic_DEFYTeamSP", "item_name": "\"늑대무리\"", 
-    "introduction": "\"늑대무리\"", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
-    "consume_type": 0, "item_access": "", "detail_introduction": "item-30001845", "is_hide_info": 0
+    "id": 1845, "type": 5, "arg": "1", "code": "profilePic_DEFYTeamSP", "item_name": "늑대무리", "introduction": "늑대무리", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30001845", "is_hide_info": 0
   }, {
     "id": 1846, "type": 5, "arg": "1", "code": "profilePic_Anniversary2020_coffee", "item_name": "아이콘: \"목표\"", 
     "introduction": "망설이지 마, 간섭받지 마. 잘 생각해, 너의 목표는 대체 무엇이지?", "rank": 1, "sort": 0, 
@@ -5353,6 +5358,35 @@
     "introduction": "기발한 코어 · Code7: 급류", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
     "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002216", "is_hide_info": 0
   }, {
+    "id": 2217, "type": 5, "arg": "1", "code": "profilePic_NewYear2023_A545", "item_name": "A-545 - 은나무의 헌사", 
+    "introduction": "A-545 - 은나무의 헌사", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002217", "is_hide_info": 0
+  }, {
+    "id": 2218, "type": 5, "arg": "1", "code": "profilePic_NewYear2023_SL8", "item_name": "SL8 - 푸른 눈송이 그대에게", 
+    "introduction": "SL8 - 푸른 눈송이 그대에게", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002218", "is_hide_info": 0
+  }, {
+    "id": 2219, "type": 5, "arg": "1", "code": "profilePic_NewYear2023_FX05", "item_name": "FX-05 - 별의 기행록", 
+    "introduction": "FX-05 - 별의 기행록", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002219", "is_hide_info": 0
+  }, {
+    "id": 2220, "type": 5, "arg": "1", "code": "profilePic_NewYear2023_PPD40", "item_name": "PPD-40 - 눈 내린 산 위에", 
+    "introduction": "PPD-40 - 눈 내린 산 위에", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002220", "is_hide_info": 0
+  }, {
+    "id": 2221, "type": 5, "arg": "1", "code": "profilePic_NewYear2023_OTs39", "item_name": "OTs-39 - 살구빛 몽환", 
+    "introduction": "OTs-39 - 살구빛 몽환", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002221", "is_hide_info": 0
+  }, {
+    "id": 2222, "type": 5, "arg": "1", "code": "profilePic_NewYear2023_MicroUZI", 
+    "item_name": "마이크로 우지 - 주황빛 실루엣", "introduction": "마이크로 우지 - 주황빛 실루엣", "rank": 1, "sort": 0, 
+    "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30002222", "is_hide_info": 0
+  }, {
+    "id": 2223, "type": 5, "arg": "1", "code": "profilePic_2023NewYear_JP", "item_name": "아이콘: 세계최고의 윙크", 
+    "introduction": "아이콘: 세계최고의 윙크", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002223", "is_hide_info": 0
+  }, {
     "id": 2224, "type": 5, "arg": "1", "code": "card_FixedPoint_us", "item_name": "카드배경: 고정점", 
     "introduction": "카드배경: 고정점", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30002224", "is_hide_info": 0
@@ -5403,6 +5437,111 @@
     "item_name": "아이콘: 스케어크로우-찾아온 악몽", "introduction": "아이콘: 스케어크로우-찾아온 악몽", "rank": 1, 
     "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30002235", "is_hide_info": 0
+  }, {
+    "id": 2236, "type": 5, "arg": "1", "code": "profilePic_Saga2023_Sakura", "item_name": "미나모토 사쿠라 - 반짝여라", 
+    "introduction": "미나모토 사쿠라 - 반짝여라", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002236", "is_hide_info": 0
+  }, {
+    "id": 2237, "type": 5, "arg": "1", "code": "profilePic_Saga2023_Saki", "item_name": "니카이도 사키 - 던 오브 아웃로", 
+    "introduction": "니카이도 사키 - 던 오브 아웃로", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002237", "is_hide_info": 0
+  }, {
+    "id": 2238, "type": 5, "arg": "1", "code": "profilePic_Saga2023_Ai", "item_name": "미즈노 아이 - 깨어난 DREAMER", 
+    "introduction": "미즈노 아이 - 깨어난 DREAMER", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002238", "is_hide_info": 0
+  }, {
+    "id": 2239, "type": 5, "arg": "1", "code": "profilePic_Saga2023_Junko", "item_name": "콘노 준코 - 잊을 수 없는 시절", 
+    "introduction": "콘노 준코 - 잊을 수 없는 시절", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002239", "is_hide_info": 0
+  }, {
+    "id": 2240, "type": 5, "arg": "1", "code": "profilePic_Saga2023_Yuugiri", "item_name": "유우기리 - 사가사변", 
+    "introduction": "유우기리 - 사가사변", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002240", "is_hide_info": 0
+  }, {
+    "id": 2241, "type": 5, "arg": "1", "code": "profilePic_Saga2023_Lily", "item_name": "호시카와 릴리 - To my Dearest", 
+    "introduction": "호시카와 릴리 - To my Dearest", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002241", "is_hide_info": 0
+  }, {
+    "id": 2242, "type": 5, "arg": "1", "code": "profilePic_Saga2023_Tae", "item_name": "야마다 타에 - 아레나 브레이커", 
+    "introduction": "야마다 타에 - 아레나 브레이커", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002242", "is_hide_info": 0
+  }, {
+    "id": 2243, "type": 5, "arg": "1", "code": "profilePic_SagaActivity2023_01", "item_name": "아이콘: 운명은 여기서 깨진다", 
+    "introduction": "아이콘: 운명은 여기서 깨진다", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002243", "is_hide_info": 0
+  }, {
+    "id": 2244, "type": 5, "arg": "1", "code": "profilePic_SagaActivity2023_02", "item_name": "아이콘: 영혼의 포르티시모", 
+    "introduction": "아이콘: 영혼의 포르티시모", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002244", "is_hide_info": 0
+  }, {
+    "id": 2245, "type": 5, "arg": "1", "code": "profilePic_SagaActivity2023_03", "item_name": "아이콘: 깨어나 DREAMER", 
+    "introduction": "아이콘: 깨어나 DREAMER", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002245", "is_hide_info": 0
+  }, {
+    "id": 2246, "type": 5, "arg": "1", "code": "profilePic_SagaActivity2023_04", "item_name": "아이콘: 소망을 외쳐라", 
+    "introduction": "아이콘: 소망을 외쳐라", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002246", "is_hide_info": 0
+  }, {
+    "id": 2247, "type": 5, "arg": "1", "code": "profilePic_SagaActivity2023_05", "item_name": "아이콘: 파멸하라! 족쇄여!", 
+    "introduction": "아이콘: 파멸하라! 족쇄여!", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002247", "is_hide_info": 0
+  }, {
+    "id": 2248, "type": 5, "arg": "1", "code": "profilePic_SagaActivity2023_06", "item_name": "아이콘: 비웃으면 쳐죽인다!", 
+    "introduction": "아이콘: 비웃으면 쳐죽인다!", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002248", "is_hide_info": 0
+  }, {
+    "id": 2249, "type": 5, "arg": "1", "code": "profilePic_SagaActivity2023_07", "item_name": "아이콘: 내 가장 소중한 이에", 
+    "introduction": "아이콘: 내 가장 소중한 이에", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002249", "is_hide_info": 0
+  }, {
+    "id": 2250, "type": 5, "arg": "1", "code": "profilePic_SagaActivity2023_08", "item_name": "아이콘: 나의 바람", 
+    "introduction": "아이콘: 나의 바람", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002250", "is_hide_info": 0
+  }, {
+    "id": 2251, "type": 5, "arg": "1", "code": "profilePic_SagaActivity2023_09", "item_name": "아이콘: 월! 울! 월!", 
+    "introduction": "아이콘: 월! 울! 월!", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002251", "is_hide_info": 0
+  }, {
+    "id": 2252, "type": 5, "arg": "1", "code": "profilePic_SagaActivity2023_10", "item_name": "아이콘: 오! 징! 어!", 
+    "introduction": "아이콘: 오! 징! 어!", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002252", "is_hide_info": 0
+  }, {
+    "id": 2253, "type": 5, "arg": "1", "code": "profilePic_SagaActivity2023_11", "item_name": "아이콘: 언제나 지켜봐줘", 
+    "introduction": "아이콘: 언제나 지켜봐줘", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002253", "is_hide_info": 0
+  }, {
+    "id": 2254, "type": 5, "arg": "1", "code": "card_SagaActivity2023_01", 
+    "item_name": "카드배경: 2000피트에서 사랑을 외치다", "introduction": "카드배경: 2000피트에서 사랑을 외치다", "rank": 1, 
+    "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30002254", "is_hide_info": 0
+  }, {
+    "id": 2255, "type": 5, "arg": "1", "code": "card_SagaActivity2023_02", "item_name": "카드배경: 스포트라이트 밑의 합창", 
+    "introduction": "카드배경: 스포트라이트 밑의 합창", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002255", "is_hide_info": 0
+  }, {
+    "id": 2256, "type": 5, "arg": "1", "code": "card_SagaActivity2023_03", "item_name": "카드배경: 저택의 불멸 사가", 
+    "introduction": "카드배경: 저택의 불멸 사가", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002256", "is_hide_info": 0
+  }, {
+    "id": 2257, "type": 5, "arg": "1", "code": "card_SagaActivity2023_04", "item_name": "카드배경: 네버 엔드 콘서트!", 
+    "introduction": "카드배경: 네버 엔드 콘서트!", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002257", "is_hide_info": 0
+  }, {
+    "id": 2258, "type": 5, "arg": "1", "code": "cg_SagaActivity2023_01", "item_name": "기지배경: 목욕하기 좋은 맑은 날", 
+    "introduction": "기지배경: 목욕하기 좋은 맑은 날", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002258", "is_hide_info": 0
+  }, {
+    "id": 2259, "type": 5, "arg": "1", "code": "cg_SagaActivity2023_02", "item_name": "기지배경: 심야시간", 
+    "introduction": "기지배경: 심야시간", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002259", "is_hide_info": 0
+  }, {
+    "id": 2260, "type": 5, "arg": "1", "code": "profilePic_BattlePass_scarL", "item_name": "Scar-L - 애견과 산뜻한 오후", 
+    "introduction": "Scar-L - 애견과 산뜻한 오후", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002260", "is_hide_info": 0
+  }, {
+    "id": 2261, "type": 5, "arg": "1", "code": "card_BattlePass_scarL", "item_name": "카드배경: 봄날 청결 대작전", 
+    "introduction": "카드배경: 봄날 청결 대작전", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30002261", "is_hide_info": 0
   }, {
     "id": 4001, "type": 1, "arg": "4001", "code": "explore_loot_city", "item_name": "도시의 선물", 
     "introduction": "아주 오래전 생산된 블록 완구로, 매우 정교하게 만들어져 모조하기 힘듭니다. 여러 분쟁지에서 화폐로 쓰이며 쓸만한 물건과 교환할 수 있습니다.", 
@@ -5800,6 +5939,31 @@
     "introduction": "秃洞npc卡score标记用", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30009019", "is_hide_info": 1
   }, {
+    "id": 9020, "type": 1, "arg": "9020", "code": "Saga_PT", "item_name": "응원티켓", 
+    "introduction": "서로 조금씩 모아서 내일 프랑슈슈의 콘서트를 성사시키자! 나 하나쯤이야란 생각을 품다간 지휘관이 돌아갈 날은 영영 오지 않아요!", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30009020", "is_hide_info": 0
+  }, {
+    "id": 9021, "type": 1, "arg": "9021", "code": "Saga_PT", "item_name": "보컬", 
+    "introduction": "노래방을 클리어하면 상승하는 스테이터스.", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30009021", "is_hide_info": 1
+  }, {
+    "id": 9022, "type": 1, "arg": "9022", "code": "Saga_PT", "item_name": "댄스", 
+    "introduction": "댄스룸을 클리어하면 상승하는 스테이터스.", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30009022", "is_hide_info": 1
+  }, {
+    "id": 9023, "type": 1, "arg": "9023", "code": "Saga_PT", "item_name": "자금", 
+    "introduction": "편의점을 클리어하면 상승하는 스테이터스.", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30009023", "is_hide_info": 1
+  }, {
+    "id": 9024, "type": 1, "arg": "9024", "code": "Saga_PT", "item_name": "활약", 
+    "introduction": "치킨집을 클리어하면 상승하는 스테이터스.", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30009024", "is_hide_info": 1
+  }, {
+    "id": 9025, "type": 1, "arg": "9025", "code": "Saga_PT", "item_name": "영감", 
+    "introduction": "목욕탕을 클리어하면 상승하는 스테이터스.", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
+    "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30009025", "is_hide_info": 1
+  }, {
     "id": 9026, "type": 1, "arg": "9026", "code": "EventPT4", "item_name": "문제상자 PT", "introduction": "문제상자 PT", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30009026", "is_hide_info": 0
@@ -5822,6 +5986,18 @@
     "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30009029", "is_hide_info": 1
   }, {
+    "id": 9030, "type": 1, "arg": "9030", "code": "Saga_PT", "item_name": "공연 점수", 
+    "introduction": "프랑슈슈의 공연 점수", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30009030", "is_hide_info": 1
+  }, {
+    "id": 9031, "type": 1, "arg": "9031", "code": "Saga_PT", "item_name": "공연 점수", "introduction": "그리폰의 공연 점수", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30009031", "is_hide_info": 1
+  }, {
+    "id": 9032, "type": 1, "arg": "9032", "code": "Saga_PT", "item_name": "사가훈장", "introduction": "사가훈장", "rank": 1, 
+    "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30009032", "is_hide_info": 1
+  }, {
     "id": 10603, "type": 1, "arg": "1", "code": "sangvis_material1_coin2", "item_name": "추가혼합점수", 
     "introduction": "혼합훈련에 쓰이는 에너지, 상점에서 구입할 수 있습니다.\"무한한 수요에 한정된 공급, 그것이 바로 시장이랍니다~\"(구매마다 단가가 20보석씩 상승하며, 매일 0시 초기화됩니다)", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 1, "item_access": "1", 
@@ -5838,7 +6014,7 @@
     "detail_introduction": "item-30010605", "is_hide_info": 0
   }, {
     "id": 10606, "type": 16, "arg": "10606", "code": "pass_accumulation", "item_name": "전선협약 강화 카드", 
-    "introduction": "\"이거 쓰면 더 많고 좋은 물자를 얻을 수 있다며? 어디에 있어!?\" \"바로 발밑에 있지 않습니까, 존경하는 지휘관님.\"", 
+    "introduction": "이거 쓰면 더 많고 좋은 물자를 얻을 수 있다며? 어디에 있어!? \"바로 발밑에 있지 않습니까, 존경하는 지휘관님.\"", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30010606", "is_hide_info": 0
   }, {
@@ -6547,6 +6723,15 @@
     "sort": -1, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30100174", "is_hide_info": 0
   }, {
+    "id": 100175, "type": 9, "arg": "100175", "code": "Koutarou_Coin", "item_name": "코타로 코인", 
+    "introduction": "코타로 코인", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "60", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30100175", "is_hide_info": 0
+  }, {
+    "id": 100176, "type": 4, "arg": "100176", "code": "Platinum_medal_black", 
+    "item_name": "백금훈장·새하얀 물결, 꽃같은 얼굴", "introduction": "백금훈장·새하얀 물결, 꽃같은 얼굴", "rank": 1, 
+    "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30100176", "is_hide_info": 0
+  }, {
     "id": 110001, "type": 4, "arg": "110001", "code": "PT", "item_name": "카니발 활동 점수", 
     "introduction": "카니발 활동 점수", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30110001", "is_hide_info": 0
@@ -6771,6 +6956,10 @@
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30110056", "is_hide_info": 0
   }, {
+    "id": 110057, "type": 4, "arg": "110057", "code": "PT", "item_name": "이벤트 점수", "introduction": "이벤트 점수", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30110057", "is_hide_info": 0
+  }, {
     "id": 120001, "type": 10, "arg": "1", "code": "bondage_lines_icon", "item_name": "우정담", 
     "introduction": "P38&데저트 이글", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30120001", "is_hide_info": 0
@@ -6819,7 +7008,7 @@
     "detail_introduction": "item-30130003", "is_hide_info": 0
   }, {
     "id": 130004, "type": 12, "arg": "130004", "code": "Y_Z_zhihuiguan_zoom", "item_name": "버닝 소울", 
-    "introduction": "\"지휘관님! 또 양아치들이 우리 구역에 와서 어슬렁거리지 말입니다!\"\"에이, 내버려둬.\"\n\"근데 우리 인형들한테 데이트하자고 꼬시고 있지 말입니다...\"\"어디야? 좌표 불러.\"", 
+    "introduction": "지휘관님! 또 양아치들이 우리 구역에 와서 어슬렁거리지 말입니다!\"에이, 내버려둬.\n\"근데 우리 인형들한테 데이트하자고 꼬시고 있지 말입니다...\"\"어디야? 좌표 불러.\"", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30130004", "is_hide_info": 0
   }, {
@@ -6938,6 +7127,14 @@
     "introduction": "item-20140010", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30140010", "is_hide_info": 0
   }, {
+    "id": 140011, "type": 14, "arg": "1", "code": "Y_Z_zhihuiguan_Chessman", "item_name": "*유탄포수", 
+    "introduction": "item-20140011", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30140011", "is_hide_info": 0
+  }, {
+    "id": 140012, "type": 14, "arg": "1", "code": "Y_Z_zhihuiguan_Chessman", "item_name": "*유탄포수", 
+    "introduction": "item-20140012", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30140012", "is_hide_info": 0
+  }, {
     "id": 160001, "type": 1, "arg": "1", "code": "PT", "item_name": "기능성 물품 위치", "introduction": "기능성 물품 위치", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "기능성 물품 위치", "is_hide_info": 0
@@ -7000,9 +7197,17 @@
     "introduction": "액자·날뛰는 말의 울음소리", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", 
     "upper_limit": 0, "consume_type": 0, "item_access": "", "detail_introduction": "item-30200016", "is_hide_info": 0
   }, {
+    "id": 200017, "type": 5, "arg": "1", "code": "profileFrame_2023NewYear_JP", "item_name": "아이콘 액자: 새해의 축복", 
+    "introduction": "아이콘 액자: 새해의 축복", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30200017", "is_hide_info": 0
+  }, {
     "id": 200018, "type": 5, "arg": "1", "code": "profileFrame_BattlePass_ColtWalker", "item_name": "액자·왁자지껄 넷", 
     "introduction": "액자·왁자지껄 넷", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30200018", "is_hide_info": 0
+  }, {
+    "id": 200019, "type": 5, "arg": "1", "code": "profileFrame_BattlePass_scarL", "item_name": "액자·멍멍 즐거운 하루", 
+    "introduction": "액자·멍멍 즐거운 하루", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30200019", "is_hide_info": 0
   }, {
     "id": 900030, "type": 4, "arg": "100030", "code": "Nova_medal", "item_name": "노바 훈장", 
     "introduction": "노바 훈장(일본djmax)", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
@@ -7244,5 +7449,25 @@
     "introduction": "창고에서 이 추첨권을 사용하면 출현 범위 중 보유하지 않은 코스튬 하나를 무작위로 획득합니다.", "rank": 1, 
     "sort": -1, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-31500047", "is_hide_info": 0
+  }, {
+    "id": 1500048, "type": 15, "arg": "1500048", "code": "package_choose", "item_name": "기초 장비 선택 코드", 
+    "introduction": "전선협약-산들바람과 햇살 보상, 지정 범위에서 원하는 장비를 하나 골라 획득할 수 있습니다.", "rank": 1, 
+    "sort": -1, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-31500048", "is_hide_info": 0
+  }, {
+    "id": 1500049, "type": 15, "arg": "1500049", "code": "package_choose", "item_name": "인형 장비 선택 코드", 
+    "introduction": "전선협약-산들바람과 햇살 보상, 지정 범위에서 원하는 인형 유형 장비를 하나 골라 획득할 수 있습니다.", 
+    "rank": 1, "sort": -1, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-31500049", "is_hide_info": 0
+  }, {
+    "id": 1500050, "type": 15, "arg": "1500050", "code": "package_random", "item_name": "미획득 인형 확정 코드", 
+    "introduction": "전선협약-산들바람과 햇살 보상, 범위 중 도감이 해금되지 않은 인형을 반드시 하나 획득. 전부 해금된 상태일 경우 무작위로 하나 획득.", 
+    "rank": 1, "sort": -1, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-31500050", "is_hide_info": 0
+  }, {
+    "id": 1500051, "type": 15, "arg": "1500051", "code": "package_random", "item_name": "전선협약-추가보상", 
+    "introduction": "전선협약-산들바람과 햇살 보상, 범위 중 한 가지 도구를 무작위로 획득합니다", "rank": 1, "sort": -1, 
+    "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-31500051", "is_hide_info": 0
   }
 ]

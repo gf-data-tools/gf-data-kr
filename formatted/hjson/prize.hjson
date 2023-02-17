@@ -4163,7 +4163,7 @@
   }
   {
     id: 523
-    name: '''"로딩" 플랫폼'''
+    name: 로딩 플랫폼
     furniture: "3115"
     content: prize-20000523
   }
@@ -10582,7 +10582,7 @@
     id: 1396
     name: 가구: 아이네이아스 작전 기념
     furniture: "20044"
-    content: '''"아이네이아스" 작전에 참여한 인형들을 표창하기 위해, IOP가 그녀들을 본뜬 고퀄리티 피규어를 제작하여, 그리폰 기지 안에서 큰 호평을 받았습니다.'''
+    content: 아이네이아스 작전에 참여한 인형들을 표창하기 위해, IOP가 그녀들을 본뜬 고퀄리티 피규어를 제작하여, 그리폰 기지 안에서 큰 호평을 받았습니다.
   }
   {
     id: 1397
@@ -11548,25 +11548,25 @@
   }
   {
     id: 1537
-    name: 초급훈련자료
+    name: 초급 훈련 자료
     coins: 1-30
     content: prize-20001537
   }
   {
     id: 1538
-    name: 중급훈련자료
+    name: 중급 훈련 자료
     coins: 2-30
     content: prize-20001538
   }
   {
     id: 1539
-    name: 고급훈련자료
+    name: 고급 훈련 자료
     coins: 3-30
     content: prize-20001539
   }
   {
     id: 1540
-    name: 순환선-지옥 도로
+    name: 순환선-지옥도로
     item_ids: 121001-1
     content: prize-20001540
   }
@@ -15677,13 +15677,13 @@
   }
   {
     id: 4315
-    name: 혼합세력： 타레우스
+    name: prize-10004315
     sangvis: "1022"
     content: prize-20004315
   }
   {
     id: 4316
-    name: 아이콘: 타레우스
+    name: prize-10004316
     item_ids: 2213-1
     content: prize-20004316
   }
@@ -15857,15 +15857,15 @@
   }
   {
     id: 5027
-    name: 2022년 상반기 이벤트 PV 보상
+    name: prize-10005027
     furniture: "20077"
-    content: 보상 수령
+    content: prize-20005027
   }
   {
     id: 5028
-    name: 2022년 하반기 이벤트 PV 보상
+    name: prize-10005028
     furniture: "20078"
-    content: 보상 수령
+    content: prize-20005028
   }
   {
     id: 6001
@@ -16584,7 +16584,7 @@
   }
   {
     id: 6121
-    name: '''"지원군" - 임무 보상'''
+    name: 지원군 - 임무 보상
     core: 10
     content: prize-20006121
   }
@@ -19320,7 +19320,7 @@
   }
   {
     id: 6621
-    name: '''"지원군" - 임무 보상'''
+    name: 지원군 - 임무 보상
     core: 10
     content: prize-20006621
   }
@@ -23992,6 +23992,301 @@
     content: prize-20007470
   }
   {
+    id: 7471
+    name: 사가 재화6
+    item_ids: 100175-6
+    content: prize-20007471
+  }
+  {
+    id: 7472
+    name: 사가 재화8
+    item_ids: 100175-8
+    content: prize-20007472
+  }
+  {
+    id: 7473
+    name: 사가 재화10
+    item_ids: 100175-10
+    content: prize-20007473
+  }
+  {
+    id: 7474
+    name: 사가 재화12
+    item_ids: 100175-12
+    content: prize-20007474
+  }
+  {
+    id: 7475
+    name: 사가 재화12+b+응원 포인트
+    item_ids: 100175-12,100176-1,9020-500,9025-25
+    content: prize-20007475
+  }
+  {
+    id: 7476
+    name: 사가 재화15
+    item_ids: 100175-15
+    content: prize-20007476
+  }
+  {
+    id: 7477
+    name: 사가 재화15+b
+    item_ids: 100175-15,100176-1
+    content: prize-20007477
+  }
+  {
+    id: 7478
+    name: 구출훈장b
+    item_ids: 100176-1,9020-500
+    content: prize-20007478
+  }
+  {
+    id: 7479
+    name: 유우기리 전용
+    equip_ids: "326"
+    content: prize-20007479
+  }
+  {
+    id: 7480
+    name: 호시카와 릴리 전용
+    equip_ids: "328"
+    content: prize-20007480
+  }
+  {
+    id: 7481
+    name: 야마다 타에 전용
+    equip_ids: "327"
+    content: prize-20007481
+  }
+  {
+    id: 7482
+    name: 보컬A
+    item_ids: 9020-1,9021-10
+    content: prize-20007482
+  }
+  {
+    id: 7483
+    name: 보컬S
+    item_ids: 9020-500,9021-25
+    content: prize-20007483
+  }
+  {
+    id: 7484
+    name: 댄스A
+    item_ids: 9020-1,9022-10
+    content: prize-20007484
+  }
+  {
+    id: 7485
+    name: 댄스S
+    item_ids: 9020-500,9022-25
+    content: prize-20007485
+  }
+  {
+    id: 7486
+    name: 자금A
+    item_ids: 9020-1,9023-10
+    content: prize-20007486
+  }
+  {
+    id: 7487
+    name: 자금S
+    item_ids: 9020-500,9023-25
+    content: prize-20007487
+  }
+  {
+    id: 7488
+    name: 활력A
+    item_ids: 9020-200,9024-10
+    content: prize-20007488
+  }
+  {
+    id: 7489
+    name: 활력S
+    item_ids: 9020-500,9024-25
+    content: prize-20007489
+  }
+  {
+    id: 7490
+    name: 영감A
+    item_ids: 9020-200,9025-10
+    content: prize-20007490
+  }
+  {
+    id: 7491
+    name: 영감S
+    item_ids: 9020-500,9025-25
+    content: prize-20007491
+  }
+  {
+    id: 7492
+    name: 유우기리 - 사가사변
+    gift: 591-1
+    content: prize-20007492
+    icon: Bumdle_xiwu
+  }
+  {
+    id: 7493
+    name: 호시카와 릴리 - To my Dearest
+    gift: 592-1
+    content: prize-20007493
+    icon: Bumdle_xingchuanlili
+  }
+  {
+    id: 7494
+    name: 미즈노 아이 - 깨어난 DREAMER
+    gift: 589-1
+    content: prize-20007494
+    icon: Bumdle_shuiyeai
+  }
+  {
+    id: 7495
+    name: 야마다 타에 - 아레나 브레이커
+    gift: 593-1
+    content: prize-20007495
+    icon: Bumdle_shantianduohui
+  }
+  {
+    id: 7496
+    name: 미나모토 사쿠라 - 반짝여라
+    gift: 587-1
+    content: prize-20007496
+    icon: Bumdle_yuanying
+  }
+  {
+    id: 7497
+    name: 니카이도 사키 - 던 오브 아웃로
+    gift: 588-1
+    content: prize-20007497
+    icon: Bumdle_erjietangxiao
+  }
+  {
+    id: 7498
+    name: 콘노 준코- 잊을 수 없는 시절
+    gift: 590-1
+    content: prize-20007498
+    icon: Bumdle_ganyechunzi
+  }
+  {
+    id: 7499
+    name: 미나모토 사쿠라
+    gun_id: "1037"
+    content: prize-20007499
+  }
+  {
+    id: 7500
+    name: 니카이도 사키
+    gun_id: "1041"
+    content: prize-20007500
+  }
+  {
+    id: 7501
+    name: 메가폰
+    equip_ids: "325"
+    content: prize-20007501
+  }
+  {
+    id: 7502
+    name: 리더 완장
+    equip_ids: "331"
+    content: prize-20007502
+  }
+  {
+    id: 7503
+    name: 아이 러브 벤또
+    equip_ids: "329"
+    content: prize-20007503
+  }
+  {
+    id: 7504
+    name: 오사키 인형
+    equip_ids: "330"
+    content: prize-20007504
+  }
+  {
+    id: 7505
+    name: 요정: 콧코 군
+    content: prize-20007505
+    fairy_ids: 1009-0
+  }
+  {
+    id: 7506
+    name: 펫: 로메로
+    furniture: "20091"
+    content: prize-20007506
+  }
+  {
+    id: 7507
+    name: 가구: 낡은 샹들리에
+    furniture: "20087"
+    content: prize-20007507
+  }
+  {
+    id: 7508
+    name: 가구: 우정의 잔칫상
+    furniture: "20086"
+    content: prize-20007508
+  }
+  {
+    id: 7509
+    name: 미즈노 아이
+    gun_id: "1038"
+    content: prize-20007509
+  }
+  {
+    id: 7510
+    name: 콘노 준코
+    gun_id: "1039"
+    content: prize-20007510
+  }
+  {
+    id: 7511
+    name: 10000응원 포인트 보상
+    item_ids: 45-50
+    content: prize-20007511
+  }
+  {
+    id: 7512
+    name: 20000 응원 포인트 보상
+    item_ids: 45-100
+    content: prize-20007512
+  }
+  {
+    id: 7513
+    name: 30000 응원 포인트 보상
+    item_ids: 2248-1
+    content: prize-20007513
+  }
+  {
+    id: 7514
+    name: 60000 응원 포인트 보상
+    item_ids: 2249-1
+    content: prize-20007514
+  }
+  {
+    id: 7515
+    name: 90000 응원 포인트 보상
+    item_ids: 2250-1
+    content: prize-20007515
+  }
+  {
+    id: 7516
+    name: 120000 응원 포인트 보상
+    item_ids: 2256-1
+    content: prize-20007516
+  }
+  {
+    id: 7517
+    name: 160000 응원 포인트 보상
+    item_ids: 2257-1
+    content: prize-20007517
+  }
+  {
+    id: 7518
+    name: 200000 응원 포인트 보상
+    item_ids: 2259-1
+    content: prize-20007518
+  }
+  {
     id: 8001
     name: 신규 유저 일주일 누적 충전 이벤트 1일차
     gem: 50
@@ -24339,13 +24634,13 @@
   }
   {
     id: 8308
-    name: 주간 점수 5
+    name: 주간 점수5
     item_ids: 10605-5,10606-5
     content: 보상 수령
   }
   {
     id: 8309
-    name: 주간 점수 30
+    name: 주간 점수30
     item_ids: 10605-30,10606-50
     content: 보상 수령
   }
@@ -24389,13 +24684,13 @@
   }
   {
     id: 8315
-    name: 주간 점수 5 배틀 패스X
+    name: 주간 점수5 전선협약X
     item_ids: 10605-5
     content: 보상 수령
   }
   {
     id: 8316
-    name: 주간 점수 30 배틀 패스X
+    name: 주간 점수30 전선협약X
     item_ids: 10605-30
     content: 보상 수령
   }
@@ -24412,19 +24707,19 @@
   }
   {
     id: 8501
-    name: 배틀 패스 68
+    name: 전선협약68
     item_ids: 140001-1
     content: prize-20008501
   }
   {
     id: 8503
-    name: 배틀 패스 98
+    name: 전선협약98
     item_ids: 140002-1,10606-300,200013-1,2141-1
     content: prize-20008503
   }
   {
     id: 8505
-    name: 배틀 패스 30
+    name: 전선협약30
     item_ids: 140002-1,10606-300,200013-1,2141-1
     content: prize-20008505
   }
@@ -24499,6 +24794,24 @@
     name: 전선협약30
     item_ids: 140010-1,10606-300,200018-1,2225-1
     content: prize-20008517
+  }
+  {
+    id: 8518
+    name: 시즌패스68
+    item_ids: 140011-1
+    content: prize-20008518
+  }
+  {
+    id: 8519
+    name: 시즌패스98
+    item_ids: 140012-1,10606-300,200019-1,2261-1
+    content: prize-20008519
+  }
+  {
+    id: 8520
+    name: 시즌패스30
+    item_ids: 140012-1,10606-300,200019-1,2261-1
+    content: prize-20008520
   }
   {
     id: 9101
@@ -24736,97 +25049,97 @@
     id: 10086
     name: 카니발 보상
     mp: 100
-    item_ids: 110056-10
+    item_ids: 110057-10
     content: prize-20010086
   }
   {
     id: 10087
     name: 카니발 보상
     mp: 100
-    item_ids: 110056-30
+    item_ids: 110057-30
     content: prize-20010087
   }
   {
     id: 10088
     name: 카니발 보상
     ammo: 200
-    item_ids: 110056-20
+    item_ids: 110057-20
     content: prize-20010088
   }
   {
     id: 10089
     name: 카니발 보상
     ammo: 200
-    item_ids: 110056-30
+    item_ids: 110057-30
     content: prize-20010089
   }
   {
     id: 10090
     name: 카니발 보상
     mre: 200
-    item_ids: 110056-20
+    item_ids: 110057-20
     content: prize-20010090
   }
   {
     id: 10091
     name: 카니발 보상
     mre: 200
-    item_ids: 110056-30
+    item_ids: 110057-30
     content: prize-20010091
   }
   {
     id: 10092
     name: 카니발 보상
     mre: 200
-    item_ids: 110056-50
+    item_ids: 110057-50
     content: prize-20010092
   }
   {
     id: 10093
     name: 카니발 보상
     part: 100
-    item_ids: 110056-30
+    item_ids: 110057-30
     content: prize-20010093
   }
   {
     id: 10094
     name: 카니발 보상
     part: 100
-    item_ids: 110056-50
+    item_ids: 110057-50
     content: prize-20010094
   }
   {
     id: 10095
     name: 카니발 보상
     part: 100
-    item_ids: 110056-100
+    item_ids: 110057-100
     content: prize-20010095
   }
   {
     id: 10096
     name: 카니발 보상
     part: 200
-    item_ids: 110056-50
+    item_ids: 110057-50
     content: prize-20010096
   }
   {
     id: 10097
     name: 카니발 보상
     part: 200
-    item_ids: 110056-100
+    item_ids: 110057-100
     content: prize-20010097
   }
   {
     id: 10098
     name: 카니발 보상
     part: 300
-    item_ids: 110056-150
+    item_ids: 110057-150
     content: prize-20010098
   }
   {
     id: 10099
     name: 카니발 보상
-    item_ids: 110056-200,45-200
+    item_ids: 110057-200,45-200
     content: prize-20010099
   }
   {
@@ -24870,7 +25183,7 @@
   {
     id: 10105
     name: 이벤트 보상
-    gift: 100003-10,8008-1
+    gift: 100003-10,7907-1
     content: prize-20010105
     icon: Bumdle_bline
   }
@@ -24987,7 +25300,7 @@
     name: 소령 표창
     user_exp: 30
     item_ids: 106-5,1857-1
-    content: '''"러프베리 체스β" 시즌에서 소령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*5, 지휘관 경험치*30, 아이콘 "빗발치는 총알·러프베리.β"'''
+    content: 러프베리 체스β 시즌에서 소령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*5, 지휘관 경험치*30, 아이콘 "빗발치는 총알·러프베리.β"
     icon: Medal_Chess
   }
   {
@@ -24995,7 +25308,7 @@
     name: 중령 표창
     user_exp: 60
     item_ids: 106-10
-    content: '''"러프베리 체스β" 시즌에서 중령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*10 지휘관 경험치*60'''
+    content: 러프베리 체스β 시즌에서 중령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*10 지휘관 경험치*60
     icon: Medal_Chess
   }
   {
@@ -25003,7 +25316,7 @@
     name: 대령 표창
     user_exp: 100
     item_ids: 106-20
-    content: '''"러프베리 체스β" 시즌에서 대령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*20 지휘관 경험치*100'''
+    content: 러프베리 체스β 시즌에서 대령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*20 지휘관 경험치*100
     icon: Medal_Chess
   }
   {
@@ -25011,7 +25324,7 @@
     name: 준장 표창
     user_exp: 200
     item_ids: 106-30,1858-1
-    content: '''"러프베리 체스β" 시즌에서 준장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*30, 지휘관 경험치*200, 아이콘 "강철비·러프베리.β"'''
+    content: 러프베리 체스β 시즌에서 준장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*30, 지휘관 경험치*200, 아이콘 "강철비·러프베리.β"
     icon: Medal_Chess
   }
   {
@@ -25019,7 +25332,7 @@
     name: 소장 표창
     user_exp: 500
     item_ids: 106-40
-    content: '''"러프베리 체스β" 시즌에서 소장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*40 지휘관 경험치*500'''
+    content: 러프베리 체스β 시즌에서 소장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*40 지휘관 경험치*500
     icon: Medal_Chess
   }
   {
@@ -25027,7 +25340,7 @@
     name: 중장 표창
     user_exp: 1000
     item_ids: 106-50
-    content: '''"러프베리 체스β" 시즌에서 중장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*50 지휘관 경험치*1000'''
+    content: 러프베리 체스β 시즌에서 중장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*50 지휘관 경험치*1000
     icon: Medal_Chess
   }
   {
@@ -25035,7 +25348,7 @@
     name: 대장 표창
     user_exp: 2000
     item_ids: 106-60,1859-1
-    content: '''"러프베리 체스β" 시즌에서 대장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*60, 지휘관 경험치*2000, 아이콘"메탈 패닉·러프베리.β"'''
+    content: 러프베리 체스β 시즌에서 대장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*60, 지휘관 경험치*2000, 아이콘"메탈 패닉·러프베리.β"
     icon: Medal_Chess
   }
   {
@@ -25267,7 +25580,7 @@
     name: 소령 표창
     user_exp: 30
     item_ids: 106-5,2091-1
-    content: '''"Code4: 확산" 시즌에서 소령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*5, 지휘관 경험치*30, 아이콘 "뜨거운 굉음"'''
+    content: Code4: 확산 시즌에서 소령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*5, 지휘관 경험치*30, 아이콘 "뜨거운 굉음"
     icon: Medal_Chess
   }
   {
@@ -25275,7 +25588,7 @@
     name: 중령 표창
     user_exp: 60
     item_ids: 106-10
-    content: '''"Code4: 확산" 시즌에서 중령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*10, 지휘관 경험치*60'''
+    content: Code4: 확산 시즌에서 중령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*10, 지휘관 경험치*60
     icon: Medal_Chess
   }
   {
@@ -25283,7 +25596,7 @@
     name: 대령 표창
     user_exp: 100
     item_ids: 106-20
-    content: '''"Code4: 확산" 시즌에서 대령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*20, 지휘관 경험치*100'''
+    content: Code4: 확산 시즌에서 대령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*20, 지휘관 경험치*100
     icon: Medal_Chess
   }
   {
@@ -25291,7 +25604,7 @@
     name: 준장 표창
     user_exp: 200
     item_ids: 106-30,2092-1
-    content: '''"Code4: 확산" 시즌에서 준장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*30, 지휘관 경험치*200, 아이콘 "내연기관 포효"'''
+    content: Code4: 확산 시즌에서 준장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*30, 지휘관 경험치*200, 아이콘 "내연기관 포효"
     icon: Medal_Chess
   }
   {
@@ -25299,7 +25612,7 @@
     name: 소장 표창
     user_exp: 500
     item_ids: 106-40
-    content: '''"Code4: 확산" 시즌에서 소장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*40, 지휘관 경험치*500'''
+    content: Code4: 확산 시즌에서 소장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*40, 지휘관 경험치*500
     icon: Medal_Chess
   }
   {
@@ -25307,7 +25620,7 @@
     name: 중장 표창
     user_exp: 1000
     item_ids: 106-50
-    content: '''"Code4: 확산" 시즌에서 중장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*50, 지휘관 경험치*1000'''
+    content: Code4: 확산 시즌에서 중장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*50, 지휘관 경험치*1000
     icon: Medal_Chess
   }
   {
@@ -25315,7 +25628,7 @@
     name: 대장 표창
     user_exp: 2000
     item_ids: 106-60,2093-1
-    content: '''"Code4: 확산" 시즌에서 대장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*60, 지휘관 경험치*2000, 아이콘 "터지는 고함"'''
+    content: Code4: 확산 시즌에서 대장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*60, 지휘관 경험치*2000, 아이콘 "터지는 고함"
     icon: Medal_Chess
   }
   {
@@ -25379,7 +25692,7 @@
     name: 소령 표창
     user_exp: 30
     item_ids: 106-5,2183-1,200006-1
-    content: '''"Code6:소용돌이" 시즌에서 소령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*5, 지휘관 경험치*30, 아이콘 "무장선봉"'''
+    content: Code6:소용돌이 시즌에서 소령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*5, 지휘관 경험치*30, 아이콘 "무장선봉"
     icon: Medal_Chess
   }
   {
@@ -25387,7 +25700,7 @@
     name: 중령 표창
     user_exp: 60
     item_ids: 106-10
-    content: '''"Code6:소용돌이" 시즌에서 중령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*10, 지휘관 경험치*60'''
+    content: Code6:소용돌이 시즌에서 중령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*10, 지휘관 경험치*60
     icon: Medal_Chess
   }
   {
@@ -25395,7 +25708,7 @@
     name: 대령 표창
     user_exp: 100
     item_ids: 106-20
-    content: '''"Code6:소용돌이" 시즌에서 대령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*20, 지휘관 경험치*100'''
+    content: Code6:소용돌이 시즌에서 대령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*20, 지휘관 경험치*100
     icon: Medal_Chess
   }
   {
@@ -25403,7 +25716,7 @@
     name: 준장 표창
     user_exp: 200
     item_ids: 106-30,2184-1,200007-1
-    content: '''"Code6:소용돌이" 시즌에서 준장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*30, 지휘관 경험치*200, 아이콘 "흑철전훈"'''
+    content: Code6:소용돌이 시즌에서 준장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*30, 지휘관 경험치*200, 아이콘 "흑철전훈"
     icon: Medal_Chess
   }
   {
@@ -25411,7 +25724,7 @@
     name: 소장 표창
     user_exp: 500
     item_ids: 106-40
-    content: '''"Code6:소용돌이" 시즌에서 소장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*40, 지휘관 경험치*500'''
+    content: Code6:소용돌이 시즌에서 소장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*40, 지휘관 경험치*500
     icon: Medal_Chess
   }
   {
@@ -25419,7 +25732,7 @@
     name: 중장 표창
     user_exp: 1000
     item_ids: 106-50
-    content: '''"Code6:소용돌이" 시즌에서 중장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*50, 지휘관 경험치*1000'''
+    content: Code6:소용돌이 시즌에서 중장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*50, 지휘관 경험치*1000
     icon: Medal_Chess
   }
   {
@@ -25427,7 +25740,7 @@
     name: 대장 표창
     user_exp: 2000
     item_ids: 106-60,2185-1,200008-1
-    content: '''"Code6:소용돌이" 시즌에서 대장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*60, 지휘관 경험치*2000, 아이콘 "겁없는 야심"'''
+    content: Code6:소용돌이 시즌에서 대장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*60, 지휘관 경험치*2000, 아이콘 "겁없는 야심"
     icon: Medal_Chess
   }
   {
@@ -25435,7 +25748,7 @@
     name: 소령 표창
     user_exp: 30
     item_ids: 106-5,2214-1,200008-1
-    content: '''"Code7: 급류" 시즌에서 소령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*5, 지휘관 경험치*30, 아이콘 "튜링의 불씨"'''
+    content: Code7: 급류 시즌에서 소령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*5, 지휘관 경험치*30, 아이콘 "튜링의 불씨"
     icon: Medal_Chess
   }
   {
@@ -25443,7 +25756,7 @@
     name: 중령 표창
     user_exp: 60
     item_ids: 106-10
-    content: '''"Code7: 급류" 시즌에서 중령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*10, 지휘관 경험치*60'''
+    content: Code7: 급류 시즌에서 중령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*10, 지휘관 경험치*60
     icon: Medal_Chess
   }
   {
@@ -25451,7 +25764,7 @@
     name: 대령 표창
     user_exp: 100
     item_ids: 106-20
-    content: '''"Code7: 급류" 시즌에서 대령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*20, 지휘관 경험치*100'''
+    content: Code7: 급류 시즌에서 대령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*20, 지휘관 경험치*100
     icon: Medal_Chess
   }
   {
@@ -25459,7 +25772,7 @@
     name: 준장 표창
     user_exp: 200
     item_ids: 106-30,2215-1,200007-1
-    content: '''"Code7: 급류" 시즌에서 준장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*30, 지휘관 경험치*200, 아이콘 "추리 행렬"'''
+    content: Code7: 급류 시즌에서 준장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*30, 지휘관 경험치*200, 아이콘 "추리 행렬"
     icon: Medal_Chess
   }
   {
@@ -25467,7 +25780,7 @@
     name: 소장 표창
     user_exp: 500
     item_ids: 106-40
-    content: '''"Code7: 급류" 시즌에서 소장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*40, 지휘관 경험치*500'''
+    content: Code7: 급류 시즌에서 소장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*40, 지휘관 경험치*500
     icon: Medal_Chess
   }
   {
@@ -25475,7 +25788,7 @@
     name: 중장 표창
     user_exp: 1000
     item_ids: 106-50
-    content: '''"Code7: 급류" 시즌에서 중장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*50, 지휘관 경험치*1000'''
+    content: Code7: 급류 시즌에서 중장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*50, 지휘관 경험치*1000
     icon: Medal_Chess
   }
   {
@@ -25483,7 +25796,7 @@
     name: 대장 표창
     user_exp: 2000
     item_ids: 106-60,2216-1,200006-1
-    content: '''"Code7: 급류" 시즌에서 대장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*60, 지휘관 경험치*2000, 아이콘 "기발한 코어 "'''
+    content: Code7: 급류 시즌에서 대장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*60, 지휘관 경험치*2000, 아이콘 "기발한 코어 "
     icon: Medal_Chess
   }
   {
@@ -27933,6 +28246,24 @@
     content: 보상 수령
   }
   {
+    id: 11337
+    name: 개인 임무 보상562
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: 보상 수령
+  }
+  {
+    id: 11338
+    name: 개인 임무 보상563
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: 보상 수령
+  }
+  {
     id: 12101
     name: 댄스 머신
     furniture: "7201"
@@ -29089,7 +29420,7 @@
     content:
       '''
       <color=#ffb400>최대 교정 및 강화 기준</color>
-      화력+8 命中+10
+      화력+8 명중+10
       치명률+48%
       MG34 전용
       '''
@@ -29451,7 +29782,7 @@
   }
   {
     id: 12608
-    name: '''"G"'''
+    name: G
     furniture: "2094"
     content: prize-20012608
   }
@@ -32595,6 +32926,15 @@
     content: prize-20016920
   }
   {
+    id: 16921
+    name: 맵 기빅 교습: 전장효과 - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: prize-20016921
+  }
+  {
     id: 16922
     name: 작전 요령 가이드：적의 행동패턴 보기 - 임무보상
     mp: 500
@@ -32692,6 +33032,15 @@
     mre: 500
     part: 500
     content: prize-20016932
+  }
+  {
+    id: 16933
+    name: 특수지점 교습: 수리소 - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: prize-20016933
   }
   {
     id: 16934
@@ -33118,7 +33467,7 @@
   }
   {
     id: 16988
-    name: '''"소원은 언제 이루나" - 임무 보상'''
+    name: 소원은 언제 이루나 - 임무 보상
     mp: 100
     ammo: 100
     mre: 100
@@ -33187,7 +33536,7 @@
   }
   {
     id: 16997
-    name: '''"불꽃 피어나는 순간" - 임무 보상'''
+    name: 불꽃 피어나는 순간 - 임무 보상
     mp: 100
     ammo: 100
     mre: 100
@@ -33518,7 +33867,7 @@
   }
   {
     id: 17061
-    name: '''"죽음의 바다" - 임무 보상'''
+    name: 죽음의 바다 - 임무 보상
     item_ids: 2039-1
     content: prize-20017061
   }
@@ -34815,6 +35164,376 @@
     content: prize-20017260
   }
   {
+    id: 17261
+    name: 그리폰에서 온 당신 - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017261
+  }
+  {
+    id: 17262
+    name: 도-라-미 - 임무 보상
+    coins: 1-200
+    content: prize-20017262
+  }
+  {
+    id: 17263
+    name: 으쓱 으쓱 잘한다 - 임무 보상
+    coins: 2-200
+    content: prize-20017263
+  }
+  {
+    id: 17264
+    name: 어서옵쇼! - 임무 보상
+    coins: 3-200
+    content: prize-20017264
+  }
+  {
+    id: 17265
+    name: 보글보글 - 임무 보상
+    core: 10
+    content: prize-20017265
+  }
+  {
+    id: 17266
+    name: 치익~부르릉!콰앙! - 임무 보상
+    item_ids: 45-30
+    content: prize-20017266
+  }
+  {
+    id: 17267
+    name: 누구를 위해 싸우나 - 임무 보상
+    gun_id: "1040"
+    content: prize-20017267
+  }
+  {
+    id: 17268
+    name: 천명 - 임무 보상
+    gun_id: "1036"
+    content: prize-20017268
+  }
+  {
+    id: 17269
+    name: 저녁 노을 - 임무 보상
+    gun_id: "1035"
+    content: prize-20017269
+  }
+  {
+    id: 17270
+    name: 1일차·점심 - 임무 보상
+    item_ids: 41-50
+    content: prize-20017270
+  }
+  {
+    id: 17271
+    name: 1일차·야간 - 임무 보상
+    item_ids: 46-50
+    content: prize-20017271
+  }
+  {
+    id: 17272
+    name: 2일차·점심 - 임무 보상
+    core: 10
+    content: prize-20017272
+  }
+  {
+    id: 17273
+    name: 2일차·야간 - 임무 보상
+    item_ids: 9-25
+    content: prize-20017273
+  }
+  {
+    id: 17274
+    name: 3일차·점심 - 임무 보상
+    item_ids: 45-25
+    content: prize-20017274
+  }
+  {
+    id: 17275
+    name: 3일차·야간 - 임무 보상
+    content: prize-20017275
+    fairy_ids: 1009-0
+  }
+  {
+    id: 17276
+    name: 4일차·점심 - 임무 보상
+    item_ids: 46-50
+    content: prize-20017276
+  }
+  {
+    id: 17277
+    name: 4일차·야간 - 임무 보상
+    item_ids: 41-50
+    content: prize-20017277
+  }
+  {
+    id: 17278
+    name: 5일차·점심 - 임무 보상
+    item_ids: 9-25
+    content: prize-20017278
+  }
+  {
+    id: 17279
+    name: 5일차·야간 - 임무 보상
+    item_ids: 45-25
+    content: prize-20017279
+  }
+  {
+    id: 17280
+    name: 6일차·점심 - 임무 보상
+    item_ids: 506-100
+    content: prize-20017280
+  }
+  {
+    id: 17281
+    name: 6일차·야간 - 임무 보상
+    item_ids: 45-25
+    content: prize-20017281
+  }
+  {
+    id: 17282
+    name: 7일차·점심 - 임무 보상
+    item_ids: 118-1
+    furniture: "20090"
+    content: prize-20017282
+  }
+  {
+    id: 17283
+    name: 미소와 눈물의 밤 - 임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017283
+  }
+  {
+    id: 17284
+    name: 형광색의 밤 - 임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017284
+  }
+  {
+    id: 17285
+    name: 날아오른 밤 - 임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017285
+  }
+  {
+    id: 17286
+    name: 무채색의 밤 - 임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017286
+  }
+  {
+    id: 17287
+    name: 느슨한 배경판 - 임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017287
+  }
+  {
+    id: 17288
+    name: 노래와 춤은 계속되리 - 임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017288
+  }
+  {
+    id: 17289
+    name: 어깨 사이의 거리 - 임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017289
+  }
+  {
+    id: 17290
+    name: 힘내라 알바생! - 임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017290
+  }
+  {
+    id: 17291
+    name: 에픽 드라이브! - 임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017291
+  }
+  {
+    id: 17292
+    name: 영감이 샘솟는다! - 임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    content: prize-20017292
+  }
+  {
+    id: 17293
+    name: 거리 유지! - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017293
+  }
+  {
+    id: 17294
+    name: 같은 이방인 사이 - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017294
+  }
+  {
+    id: 17295
+    name: 비 내리는 정원 - 임무 보상
+    coins: 1-100
+    content: prize-20017295
+  }
+  {
+    id: 17296
+    name: 퍼펙트 스트레인저 - 임무 보상
+    coins: 2-100
+    content: prize-20017296
+  }
+  {
+    id: 17297
+    name: 기묘한 성묘 - 임무 보상
+    coins: 3-100
+    content: prize-20017297
+  }
+  {
+    id: 17298
+    name: 시간 여행자 - 임무 보상
+    gift: 200001-50
+    content: prize-20017298
+  }
+  {
+    id: 17299
+    name: 폭주 라디오! - 임무 보상
+    furniture: "20089"
+    content: prize-20017299
+  }
+  {
+    id: 17300
+    name: 길광편우 - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017300
+  }
+  {
+    id: 17301
+    name: 달은 누굴 처음 비추나 - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017301
+  }
+  {
+    id: 17302
+    name: 에이스 에이전트 - 임무 보상
+    coins: 1-100
+    content: prize-20017302
+  }
+  {
+    id: 17303
+    name: 폭주 메모리얼! - 임무 보상
+    coins: 2-100
+    content: prize-20017303
+  }
+  {
+    id: 17304
+    name: 아낌없는 선물 - 임무 보상
+    coins: 3-100
+    content: prize-20017304
+  }
+  {
+    id: 17305
+    name: 달맞이 바다 - 임무 보상
+    gift: 200001-50
+    content: prize-20017305
+  }
+  {
+    id: 17306
+    name: 바다의 소리 - 임무 보상
+    core: 10
+    content: prize-20017306
+  }
+  {
+    id: 17307
+    name: 벚꽃 심 - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017307
+  }
+  {
+    id: 17308
+    name: 안개 낀 바다 서로 등지고 - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017308
+  }
+  {
+    id: 17309
+    name: 몸에 쌓여가는 것 - 임무 보상
+    coins: 1-100
+    content: prize-20017309
+  }
+  {
+    id: 17310
+    name: 폭주 그래듀에이션 - 임무 보상
+    coins: 2-100
+    content: prize-20017310
+  }
+  {
+    id: 17311
+    name: '''"가지 마" - 임무 보상'''
+    coins: 3-100
+    content: prize-20017311
+  }
+  {
+    id: 17312
+    name: 샤이닝 러브 - 임무 보상
+    gift: 200001-50
+    content: prize-20017312
+  }
+  {
+    id: 17313
+    name: 해가 저물 때까지 - 임무 보상
+    furniture: "20088"
+    content: prize-20017313
+  }
+  {
     id: 17318
     name: 탈레스의 예언 - 임무 보상
     core: 5
@@ -35182,7 +35901,7 @@
     id: 21919
     name: "[가구] 이번 역: 격리 시험장"
     furniture: "60019"
-    content: '''"뭐? 우리랑 같이 시험치려고?"'''
+    content: 뭐? 우리랑 같이 시험치려고?
   }
   {
     id: 21920
@@ -35200,13 +35919,13 @@
     id: 21922
     name: "[가구] 이번 역: 숙소"
     furniture: "60022"
-    content: '''"지휘관님... 3마리까지에요, 그 이상은 도저히 돌볼 수가 없어요."'''
+    content: 지휘관님... 3마리까지에요, 그 이상은 도저히 돌볼 수가 없어요.
   }
   {
     id: 21923
     name: "[가구] 이번 역: 구호소"
     furniture: "60023"
-    content: '''"그런 눈으로 보지 마! 걔네들이 3마리까지 밖에 못 돌본대잖아!"'''
+    content: 그런 눈으로 보지 마! 걔네들이 3마리까지 밖에 못 돌본대잖아!
   }
   {
     id: 21924
@@ -35432,7 +36151,7 @@
     item_ids: 1700-1
     content:
       '''
-      "대단해! 어떻게 해도 이길 수가 없잖아!"
+      대단해! 어떻게 해도 이길 수가 없잖아!
       "아니야, 이 세상에 꺾지 못할 건 없어, 난 그렇게 믿기에 지금까지 이겨왔어."
       '''
   }
@@ -35510,7 +36229,7 @@
     mre: 5000
     part: 5000
     core: 21
-    gun_id: "268"
+    gun_id: "220"
     item_ids: 4-20,6009-2,601-2
     gift: 200001-235
     coins: 1-600,2-620,3-200
@@ -44082,7 +44801,7 @@
     id: 91403
     name: 함박웃음의 밤 - "잭팟"
     item_ids: 1458-1
-    content: '''"져, 졌으면 인정해야지! 꼴지라 해도 벌칙 임무를 마지막까지 완수할 거라고!"'''
+    content: 져, 졌으면 인정해야지! 꼴지라 해도 벌칙 임무를 마지막까지 완수할 거라고!
   }
   {
     id: 91411
@@ -44168,7 +44887,7 @@
     id: 91601
     name: 꼭두각시 무도회 - "같이 놀래요?"
     furniture: "51601"
-    content: '''"언니...? 걱정 마세요, 언니를 지키는 것 말고도 참 많은 일을 할 수 있어요. 예를 들면... 헤헤, 같이 게임 어때요?"'''
+    content: 언니...? 걱정 마세요, 언니를 지키는 것 말고도 참 많은 일을 할 수 있어요. 예를 들면... 헤헤, 같이 게임 어때요?
   }
   {
     id: 91602
@@ -44180,13 +44899,13 @@
     id: 91603
     name: 꼭두각시 무도회 - "사탕 없지만 장난 치지 마"
     item_ids: 1533-1
-    content: '''"으으... 할인 쿠폰을 위해서 그렇게 노력했는데... 속인 것도 모잘라 날 이렇게 놀리다니!"'''
+    content: 으으... 할인 쿠폰을 위해서 그렇게 노력했는데... 속인 것도 모잘라 날 이렇게 놀리다니!
   }
   {
     id: 91604
     name: 꼭두각시 무도회 - 마물의 축제
     item_ids: 1534-1
-    content: '''"밤이 찾아오고, 그리폰에 숨어있던 마물들이 그림자 속에서 모습을 드러낸다...""...NG! 다시 처음부터! 똑바로 안 하면 사이다고 할인 쿠폰이고 없을 줄 알아!"'''
+    content: 밤이 찾아오고, 그리폰에 숨어있던 마물들이 그림자 속에서 모습을 드러낸다..."...NG! 다시 처음부터! 똑바로 안 하면 사이다고 할인 쿠폰이고 없을 줄 알아!
   }
   {
     id: 91611
@@ -44762,14 +45481,14 @@
   }
   {
     id: 93931
-    name: '''"야행자" 재킷'''
+    name: 야행자 재킷
     content: prize-20093931
     send_limit: 1
     commander_uniform: "3931"
   }
   {
     id: 93932
-    name: '''"기도자" 재킷'''
+    name: 기도자 재킷
     content: prize-20093932
     send_limit: 1
     commander_uniform: "3932"
@@ -44783,14 +45502,14 @@
   }
   {
     id: 93951
-    name: '''"야행자" 긴바지'''
+    name: 야행자 긴바지
     content: prize-20093951
     send_limit: 1
     commander_uniform: "3951"
   }
   {
     id: 93952
-    name: '''"기도자" 반바지'''
+    name: 기도자 반바지
     content: prize-20093952
     send_limit: 1
     commander_uniform: "3952"
@@ -45220,157 +45939,157 @@
   }
   {
     id: 110001
-    name: 협약 보급-1급
+    name: 협약보급-1레벨
     gift: 200001-40
     content: prize-20110001
   }
   {
     id: 110002
-    name: 협약 보급-3급
+    name: 협약보급-3레벨
     item_ids: 506-40
     content: prize-20110002
   }
   {
     id: 110003
-    name: 협약 보급-5급
+    name: 협약보급-5레벨
     item_ids: 601-1
     content: prize-20110003
   }
   {
     id: 110004
-    name: 협약 보급-6급
+    name: 협약보급-6레벨
     mp: 4000
     content: prize-20110004
   }
   {
     id: 110005
-    name: 협약 보급-8급
+    name: 협약보급-8레벨
     item_ids: 3-9
     content: prize-20110005
   }
   {
     id: 110006
-    name: 협약 보급-10급
+    name: 협약보급-10레벨
     item_ids: 16-6
     content: prize-20110006
   }
   {
     id: 110007
-    name: 협약 보급-12급
+    name: 협약보급-12레벨
     item_ids: 8-6
     content: prize-20110007
   }
   {
     id: 110008
-    name: 협약 보급-14급
+    name: 협약보급-14레벨
     item_ids: 46-10
     content: prize-20110008
   }
   {
     id: 110009
-    name: 협약 보급-15급
+    name: 협약보급-15레벨
     item_ids: 601-1
     content: prize-20110009
   }
   {
     id: 110010
-    name: 협약 보급-17급
+    name: 협약보급-17레벨
     mre: 4000
     content: prize-20110010
   }
   {
     id: 110011
-    name: 협약 보급-19급
+    name: 협약보급-19레벨
     gift: 200001-80
     content: prize-20110011
   }
   {
     id: 110012
-    name: 협약 보급-21급
+    name: 협약보급-21레벨
     item_ids: 506-60
     content: prize-20110012
   }
   {
     id: 110013
-    name: 협약 보급-23급
+    name: 협약보급-23레벨
     core: 30
     content: prize-20110013
   }
   {
     id: 110014
-    name: 협약 보급-25급
+    name: 협약보급-25레벨
     item_ids: 601-2
     content: prize-20110014
   }
   {
     id: 110015
-    name: 협약 보급-26급
+    name: 협약보급-26레벨
     ammo: 4000
     content: prize-20110015
   }
   {
     id: 110016
-    name: 협약 보급-28급
+    name: 협약보급-28레벨
     item_ids: 3-16
     content: prize-20110016
   }
   {
     id: 110017
-    name: 협약 보급-30급
+    name: 협약보급-30레벨
     item_ids: 51-1
     content: prize-20110017
   }
   {
     id: 110018
-    name: 협약 보급-32급
+    name: 협약보급-31레벨
     item_ids: 16-9
     content: prize-20110018
   }
   {
     id: 110019
-    name: 협약 보급-34급
+    name: 협약보급-33레벨
     item_ids: 8-9
     content: prize-20110019
   }
   {
     id: 110020
-    name: 협약 보급-35급
+    name: 협약보급-34레벨
     item_ids: 46-20
     content: prize-20110020
   }
   {
     id: 110021
-    name: 협약 보급-36급
+    name: 협약보급-35레벨
     item_ids: 601-2
     content: prize-20110021
   }
   {
     id: 110022
-    name: 협약 보급-38급
+    name: 협약보급-36레벨
     part: 4000
     content: prize-20110022
   }
   {
     id: 110023
-    name: 협약 보급-40급
+    name: 협약보급-38레벨
     gift: 200001-120
     content: prize-20110023
   }
   {
     id: 110024
-    name: 협약 보급-42급
+    name: 협약보급-40레벨
     item_ids: 506-80
     content: prize-20110024
   }
   {
     id: 110025
-    name: 협약 보급-44급
+    name: 협약보급-42레벨
     item_ids: 46-30
     content: prize-20110025
   }
   {
     id: 110026
-    name: 협약 보급-45급
+    name: 협약보급-44레벨
     core: 50
     content: prize-20110026
   }
@@ -45382,286 +46101,286 @@
   }
   {
     id: 120001
-    name: 증량 보급-1급
+    name: 증량보급-1레벨
     gift: 200001-180
     coins: 1-100
     content: prize-20120001
   }
   {
     id: 120002
-    name: 증량 보급-2급
+    name: 증량보급-2레벨
     item_ids: 2-10,44-60
     content: prize-20120002
   }
   {
     id: 120003
-    name: 증량 보급-3급
+    name: 증량보급-3레벨
     item_ids: 3-15,506-180
     content: prize-20120003
   }
   {
     id: 120004
-    name: 증량 보급-4급
+    name: 증량보급-4레벨
     core: 30
     content: prize-20120004
   }
   {
     id: 120005
-    name: 증량 보급-5급
+    name: 증량보급-5레벨
     item_ids: 602-1,41-30
     content: prize-20120005
   }
   {
     id: 120006
-    name: 증량 보급-6급
+    name: 증량보급-6레벨
     mp: 6000
     coins: 2-180
     content: prize-20120006
   }
   {
     id: 120007
-    name: 증량 보급-7급
+    name: 증량보급-7레벨
     item_ids: 1-10,50-15
     content: prize-20120007
   }
   {
     id: 120008
-    name: 증량 보급-8급
+    name: 증량보급-8레벨
     item_ids: 46-60,9-15
     content: prize-20120008
   }
   {
     id: 120009
-    name: 증량 보급-9급
+    name: 증량보급-9레벨
     item_ids: 8-10
     content: prize-20120009
   }
   {
     id: 120010
-    name: 증량 보급-10급
+    name: 증량보급-10레벨
     core: 40
     item_ids: 10604-5
     content: prize-20120010
   }
   {
     id: 120011
-    name: 증량 보급-11급
+    name: 증량보급-11레벨
     ammo: 6000
     coins: 3-80
     content: prize-20120011
   }
   {
     id: 120012
-    name: 증량 보급-12급
+    name: 증량보급-12레벨
     item_ids: 2-10,44-80
     content: prize-20120012
   }
   {
     id: 120013
-    name: 증량 보급-13급
+    name: 증량보급-13레벨
     item_ids: 16-10,506-240
     content: prize-20120013
   }
   {
     id: 120014
-    name: 증량 보급-14급
+    name: 증량보급-14레벨
     gift: 200001-280
     content: prize-20120014
   }
   {
     id: 120015
-    name: 증량 보급-15급
+    name: 증량보급-15레벨
     item_ids: 41-30,1500009-1
     content: prize-20120015
   }
   {
     id: 120016
-    name: 증량 보급-16급
+    name: 증량보급-16레벨
     mre: 6000
     coins: 1-140
     content: prize-20120016
   }
   {
     id: 120017
-    name: 증량 보급-17급
+    name: 증량보급-17레벨
     item_ids: 3-25,50-20
     content: prize-20120017
   }
   {
     id: 120018
-    name: 증량 보급-18급
+    name: 증량보급-18레벨
     item_ids: 2-10,9-20
     content: prize-20120018
   }
   {
     id: 120019
-    name: 증량 보급-19급
+    name: 증량보급-19레벨
     item_ids: 601-6
     content: prize-20120019
   }
   {
     id: 120020
-    name: 증량 보급-20급
+    name: 증량보급-20레벨
     core: 50
     item_ids: 10604-5
     content: prize-20120020
   }
   {
     id: 120021
-    name: 증량 보급-21급
+    name: 증량보급-21레벨
     part: 6000
     coins: 2-230
     content: prize-20120021
   }
   {
     id: 120022
-    name: 증량 보급-22급
+    name: 증량보급-22레벨
     item_ids: 16-15,44-100
     content: prize-20120022
   }
   {
     id: 120023
-    name: 증량 보급-23급
+    name: 증량보급-23레벨
     item_ids: 46-90,506-300
     content: prize-20120023
   }
   {
     id: 120024
-    name: 증량 보급-24급
+    name: 증량보급-24레벨
     item_ids: 8-15
     content: prize-20120024
   }
   {
     id: 120025
-    name: 증량 보급-25급
+    name: 증량보급-25레벨
     item_ids: 41-30
     gift: 30001-1
     content: prize-20120025
   }
   {
     id: 120026
-    name: 증량 보급-26급
+    name: 증량보급-26레벨
     mp: 9999
     coins: 3-120
     content: prize-20120026
   }
   {
     id: 120027
-    name: 증량 보급-27급
+    name: 증량보급-27레벨
     item_ids: 1-10,50-25
     content: prize-20120027
   }
   {
     id: 120028
-    name: 증량 보급-28급
+    name: 증량보급-28레벨
     item_ids: 2-10,9-25
     content: prize-20120028
   }
   {
     id: 120029
-    name: 증량 보급-29급
+    name: 증량보급-29레벨
     item_ids: 601-6
     content: prize-20120029
   }
   {
     id: 120030
-    name: 증량 보급-30급
+    name: 증량보급-30레벨
     item_ids: 51-1,10604-5
     content: prize-20120030
   }
   {
     id: 120031
-    name: 증량 보급-31급
+    name: 증량보급-31레벨
     mre: 9999
     coins: 1-160
     content: prize-20120031
   }
   {
     id: 120032
-    name: 증량 보급-32급
+    name: 증량보급-32레벨
     item_ids: 3-35,50-30
     content: prize-20120032
   }
   {
     id: 120033
-    name: 증량 보급-33급
+    name: 증량보급-33레벨
     gift: 200001-380
     content: prize-20120033
   }
   {
     id: 120034
-    name: 증량 보급-34급
+    name: 증량보급-34레벨
     item_ids: 2-10
     coins: 2-280
     content: prize-20120034
   }
   {
     id: 120035
-    name: 증량 보급-35급
+    name: 증량보급-35레벨
     item_ids: 41-30,1500010-1
     content: prize-20120035
   }
   {
     id: 120036
-    name: 증량 보급-36급
+    name: 증량보급-36레벨
     ammo: 9999
     coins: 3-140
     content: prize-20120036
   }
   {
     id: 120037
-    name: 증량 보급-37급
+    name: 증량보급-37레벨
     item_ids: 8-20
     content: prize-20120037
   }
   {
     id: 120038
-    name: 증량 보급-38급
+    name: 증량보급-38레벨
     item_ids: 46-130
     coins: 1-200
     content: prize-20120038
   }
   {
     id: 120039
-    name: 증량 보급-39급
+    name: 증량보급-39레벨
     item_ids: 1-10,9-30
     content: prize-20120039
   }
   {
     id: 120040
-    name: 증량 보급-40급
+    name: 증량보급-40레벨
     item_ids: 41-56,10604-5
     content: prize-20120040
   }
   {
     id: 120041
-    name: 증량 보급-41급
+    name: 증량보급-41레벨
     part: 9999
     coins: 2-330
     content: prize-20120041
   }
   {
     id: 120042
-    name: 증량 보급-42급
+    name: 증량보급-42레벨
     item_ids: 16-20,506-360
     content: prize-20120042
   }
   {
     id: 120043
-    name: 증량 보급-43급
+    name: 증량보급-43레벨
     item_ids: 601-6
     coins: 3-160
     content: prize-20120043
   }
   {
     id: 120044
-    name: 증량 보급-44급
+    name: 증량보급-44레벨
     item_ids: 2-10,44-120
     content: prize-20120044
   }
   {
     id: 120045
-    name: 증량 보급-45급
+    name: 증량보급-45레벨
     gem: 680
     item_ids: 1500013-1
     content: prize-20120045
@@ -45771,20 +46490,46 @@
     content: prize-20120061
   }
   {
+    id: 120062
+    name: 증량보급-15레벨
+    item_ids: 41-30,1500048-1
+    content: prize-20120062
+  }
+  {
+    id: 120063
+    name: 증량보급-25레벨
+    item_ids: 41-30
+    gift: 30005-1
+    content: prize-20120063
+  }
+  {
+    id: 120064
+    name: 증량보급-35레벨
+    item_ids: 41-30,1500049-1
+    content: prize-20120064
+  }
+  {
+    id: 120065
+    name: 증량보급-45레벨
+    gem: 680
+    item_ids: 1500050-1
+    content: prize-20120065
+  }
+  {
     id: 130001
-    name: 전선협약 추가 보상
+    name: 전선협약 추가보상
     item_ids: 1500014-1
     content: prize-20130001
   }
   {
     id: 130002
-    name: 기초 유료 전시 보상
+    name: 육로물자 전시 보상
     item_ids: 602-1,1500009-1,1500010-1,505-680
     content: prize-20130002
   }
   {
     id: 130003
-    name: 강화 유료 전시 보상
+    name: 공수물자 전시 보상
     item_ids: 10606-300,200013-1,2141-1
     content: prize-20130003
   }
@@ -45796,13 +46541,13 @@
   }
   {
     id: 130005
-    name: 기초결제 전시보상-2
+    name: 육로물자 전시 보상-2
     item_ids: 602-1,1500017-1,1500011-1,505-680
     content: prize-20130005
   }
   {
     id: 130006
-    name: 추가결제 전시보상-2
+    name: 공수물자 전시 보상-2
     item_ids: 10606-300,200014-1,2173-1
     content: prize-20130006
   }
@@ -45861,50 +46606,68 @@
     content: prize-20130015
   }
   {
+    id: 130016
+    name: 전선협약 추가보상-6
+    item_ids: 1500051-1
+    content: prize-20130016
+  }
+  {
+    id: 130017
+    name: 육로물자 전시보상-6
+    item_ids: 602-1,1500048-1,1500049-1,505-680
+    content: prize-20130017
+  }
+  {
+    id: 130018
+    name: 공수물자 전시보상-6
+    item_ids: 10606-300,200019-1,2261-1
+    content: prize-20130018
+  }
+  {
     id: 140001
-    name: 5성 장비 자유선택 코드
+    name: 기초 장비 선택 코드
     equip_ids: "16,20,32,44,66,72,90"
     content: prize-20140001
   }
   {
     id: 140002
-    name: 5성 부품 장비 자유선택 코드
+    name: 부속 장비 선택 코드
     equip_ids: "4,8,12,16,66,224,305,308"
     content: prize-20140002
   }
   {
     id: 140003
-    name: 5성 탄약 장비 자유선택 코드
+    name: 탄창 장비 선택 코드
     equip_ids: "20,32,72,76,80,225,227,231,235"
     content: prize-20140003
   }
   {
     id: 140004
-    name: 5성 인형 장비 자유선택 코드
+    name: 인형 장비 선택 코드
     equip_ids: "40,44,58,68,90,234,309,311,314"
     content: prize-20140004
   }
   {
     id: 140005
-    name: 미획득 인형 확정 코드(더미)
+    name: 미해금 인형 확정 코드
     item_ids: 1500013-1
     content: prize-20140005
   }
   {
     id: 140006
-    name: 전선협약 추가 보상 - 작전보고서
+    name: 전선협약 추가보상-작전보고서
     gift: 200001-10
     content: prize-20140006
   }
   {
     id: 140007
-    name: 전선협약 추가 보상 - 대체코어
+    name: 전선협약 추가보상-대체코어
     core: 5
     content: prize-20140007
   }
   {
     id: 140008
-    name: 전선협약 추가 보상 - 특수작전보고서
+    name: 전선협약 추가보상-특수작전보고서
     item_ids: 46-10
     content: prize-20140008
   }
@@ -45919,31 +46682,31 @@
   }
   {
     id: 140010
-    name: 전선협약 추가 보상 - 장비제조계약
+    name: 전선협약 추가보상-장비제조계약
     item_ids: 2-3
     content: prize-20140010
   }
   {
     id: 140011
-    name: 전선협약 추가 보상 - 인형제조계약
+    name: 전선협약 추가보상-인형제조계약
     item_ids: 1-3
     content: prize-20140011
   }
   {
     id: 140012
-    name: 전선협약 추가 보상 - 쾌속제조계약
+    name: 전선협약 추가보상-쾌속제조계약
     item_ids: 3-3
     content: prize-20140012
   }
   {
     id: 140014
-    name: 전선협약 추가 보상 - 협력의뢰서
+    name: 전선협약 추가보상-협력의뢰서
     item_ids: 605-1
     content: prize-20140014
   }
   {
     id: 140015
-    name: 전선협약 추가 보상 - 서약의 증표
+    name: 전선협약 추가보상-서약의 증표
     item_ids: 7-1
     content: prize-20140015
   }
@@ -45958,97 +46721,97 @@
   }
   {
     id: 140017
-    name: 미획득 인형 확정 코드 - SCR
+    name: 미해금 인형 확정 코드-SCR
     gun_id: "365"
     content: prize-20140017
   }
   {
     id: 140018
-    name: 미획득 인형 확정 코드 - HS.50
+    name: 미해금 인형 확정 코드-HS.50
     gun_id: "348"
     content: prize-20140018
   }
   {
     id: 140019
-    name: 미획득 인형 확정 코드 - 네게브
+    name: 미해금 인형 확정 코드-네게브
     gun_id: "112"
     content: prize-20140019
   }
   {
     id: 140020
-    name: 미획득 인형 확정 코드 - 카르카노 M91/38
+    name: 미해금 인형 확정 코드-카르카노 M91/38
     gun_id: "198"
     content: prize-20140020
   }
   {
     id: 140021
-    name: 미획득 인형 확정 코드 - 89식 소총
+    name: 미해금 인형 확정 코드-89식 소총
     gun_id: "290"
     content: prize-20140021
   }
   {
     id: 140022
-    name: 미획득 인형 확정 코드 - RFB
+    name: 미해금 인형 확정 코드-RFB
     gun_id: "172"
     content: prize-20140022
   }
   {
     id: 140023
-    name: 미획득 인형 확정 코드 - 100식
+    name: 미해금 인형 확정 코드-100식
     gun_id: "228"
     content: prize-20140023
   }
   {
     id: 140024
-    name: 미획득 인형 확정 코드 - NZ75
+    name: 미해금 인형 확정 코드-NZ75
     gun_id: "126"
     content: prize-20140024
   }
   {
     id: 140025
-    name: 미획득 인형 확정 코드-SR-2
+    name: 미해금 인형 확정 코드-SR-2
     gun_id: "347"
     content: prize-20140025
   }
   {
     id: 140026
-    name: 미획득 인형 확정 코드-MG4
+    name: 미해금 인형 확정 코드-MG4
     gun_id: "125"
     content: prize-20140026
   }
   {
     id: 140027
-    name: 미획득 인형 확정 코드-IWS 2000
+    name: 미해금 인형 확정 코드-IWS 2000
     gun_id: "148"
     content: prize-20140027
   }
   {
     id: 140028
-    name: 미획득 인형 확정 코드-PKP
+    name: 미해금 인형 확정 코드-PKP
     gun_id: "173"
     content: prize-20140028
   }
   {
     id: 140029
-    name: 미획득 인형 확정 코드-MG5
+    name: 미해금 인형 확정 코드-MG5
     gun_id: "109"
     content: prize-20140029
   }
   {
     id: 140030
-    name: 미획득 인형 확정 코드-웰로드 MkⅡ
+    name: 미해금 인형 확정 코드-웰로드 MkⅡ
     gun_id: "114"
     content: prize-20140030
   }
   {
     id: 140031
-    name: 미획득 인형 확정 코드-Kar98k
+    name: 미해금 인형 확정 코드-Kar98k
     gun_id: "46"
     content: prize-20140031
   }
   {
     id: 140032
-    name: 미획득 인형 확정 코드-Px4 스톰
+    name: 미해금 인형 확정 코드-Px4 스톰
     gun_id: "233"
     content: prize-20140032
   }
@@ -46195,5 +46958,53 @@
     name: 미해금 인형 확정 코드-WA2000
     gun_id: "48"
     content: prize-20140056
+  }
+  {
+    id: 140057
+    name: 미획득 인형 확정 코드-컨텐더
+    gun_id: "183"
+    content: prize-20140057
+  }
+  {
+    id: 140058
+    name: 미획득 인형 확정 코드-M99
+    gun_id: "128"
+    content: prize-20140058
+  }
+  {
+    id: 140059
+    name: 미획득 인형 확정 코드-RPK-16
+    gun_id: "292"
+    content: prize-20140059
+  }
+  {
+    id: 140060
+    name: 미획득 인형 확정 코드-SIG MCX
+    gun_id: "338"
+    content: prize-20140060
+  }
+  {
+    id: 140061
+    name: 미획득 인형 확정 코드-G36C
+    gun_id: "104"
+    content: prize-20140061
+  }
+  {
+    id: 140062
+    name: 미획득 인형 확정 코드-AK-Alfa
+    gun_id: "306"
+    content: prize-20140062
+  }
+  {
+    id: 140063
+    name: 미획득 인형 확정 코드-97식
+    gun_id: "130"
+    content: prize-20140063
+  }
+  {
+    id: 140064
+    name: 미획득 인형 확정 코드-Vector
+    gun_id: "20"
+    content: prize-20140064
   }
 ]

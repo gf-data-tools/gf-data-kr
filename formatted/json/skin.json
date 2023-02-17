@@ -638,6 +638,44 @@
     "note": "skin-30000586", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40000586", "order": 90, 
     "class_id": 0
   }, {
+    "id": 587, "name": "미나모토 사쿠라 - 반짝여라", "extra": 0, "fit_gun": 1037, "ai": 0, "voice": 4, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "무대 위에선 밑의 관중들의 얼굴이 잘 안 보인다고 하는데, 왜 나는 관중석과 시선이 마주칠 때면 항상 당신인 걸까...?", 
+    "note": "skin-30000587", "explore_tag": "", "gift_position": "-172,2.1", "illustrator_cv": "skin-40000587", "order": 101, 
+    "class_id": 0
+  }, {
+    "id": 588, "name": "니카이도 사키 - 던 오브 아웃로", "extra": 0, "fit_gun": 1041, "ai": 0, "voice": 4, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "전!력!질!주! 내 앞을 가로막는 놈은 몽땅 쳐날려버린다! 지휘관? 지휘관은 당연히 내 뒷좌석에 앉아 있어야지!", 
+    "note": "skin-30000588", "explore_tag": "", "gift_position": "-173.8,134.9", "illustrator_cv": "skin-40000588", 
+    "order": 101, "class_id": 0
+  }, {
+    "id": 589, "name": "미즈노 아이 - 깨어난 DREAMER", "extra": 0, "fit_gun": 1038, "ai": 0, "voice": 4, "is_hidden": 0, 
+    "substitute_voice": "", "dialog": "뜨거운 마음을 품고, 최대한의 노력으로 영혼 가장 깊숙이 닿는 기적을 창조하겠어!", 
+    "note": "skin-30000589", "explore_tag": "", "gift_position": "-117.7,6.9", "illustrator_cv": "skin-40000589", 
+    "order": 101, "class_id": 0
+  }, {
+    "id": 590, "name": "콘노 준코 - 잊을 수 없는 시절", "extra": 0, "fit_gun": 1039, "ai": 0, "voice": 4, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "걱정 말아요. 오늘 떠나보낸 노을은 내일 또 찾아오니까요. 당신만 괜찮으시다면 함께 보기로 약속해요!", 
+    "note": "skin-30000590", "explore_tag": "", "gift_position": "-115.1,1.4", "illustrator_cv": "skin-40000590", 
+    "order": 101, "class_id": 0
+  }, {
+    "id": 591, "name": "유우기리 - 사가사변", "extra": 0, "fit_gun": 1040, "ai": 0, "voice": 4, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "나비의 날개춤에 마음을 어지럽히지 말지어라, 가시밭에 걸음을 멈추지 말지어라. 첩첩산중을 넘을 용기만 있다면 지옥에 있다 할지어도 반드시 만날 날이 올 것이와요.", 
+    "note": "skin-30000591", "explore_tag": "", "gift_position": "23.6,58.5", "illustrator_cv": "skin-40000591", 
+    "order": 101, "class_id": 0
+  }, {
+    "id": 592, "name": "호시카와 릴리 - To my Dearest", "extra": 0, "fit_gun": 1036, "ai": 0, "voice": 4, "is_hidden": 0, 
+    "substitute_voice": "", "dialog": "릴리가 사랑와 그리움을 반짝 빛나는 마법으로 만들어 그 사람의 마음에 전해줄 거야~!", 
+    "note": "skin-30000592", "explore_tag": "", "gift_position": "-112.6,189", "illustrator_cv": "skin-40000592", 
+    "order": 101, "class_id": 0
+  }, {
+    "id": 593, "name": "야마다 타에 - 아레나 브레이커", "extra": 0, "fit_gun": 1035, "ai": 0, "voice": 4, "is_hidden": 0, 
+    "substitute_voice": "", "dialog": "어아어아, 으아아아아아!!(모든 것을 박살낼 기세로 가득하다!)", "note": "skin-30000593", 
+    "explore_tag": "", "gift_position": "-352.1,67.5", "illustrator_cv": "skin-40000593", "order": 101, "class_id": 0
+  }, {
     "id": 601, "name": "토카레프 - 두 사람의 인생", "extra": 0, "fit_gun": 6, "ai": 40601, "voice": 16, "is_hidden": 0, 
     "substitute_voice": "", "dialog": "저희 둘의... 관계에 대해? 잘 모르겠습니다만...가르쳐 주시겠어요?", 
     "note": "skin-30000601", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40000601", "order": 7, 
@@ -3562,6 +3600,42 @@
     "note": "skin-30007809", "explore_tag": "", "gift_position": "", "illustrator_cv": "小星,Sato Arise,", "order": 98, 
     "class_id": 83
   }, {
+    "id": 7902, "name": "A-545 - 은나무의 헌사", "extra": 0, "fit_gun": 356, "ai": 0, "voice": 15, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "새해 액막이라고 한다면, 그냥 제기보다 이 소형 유탄이 훨씬 낫지 않나? 놀란 거 봐라, 이건 그냥 보드카를 담은 작은 술병일 뿐이야.", 
+    "note": "skin-30007902", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40007902", "order": 99, 
+    "class_id": 84
+  }, {
+    "id": 7903, "name": "SL8 - 푸른 눈송이 그대에게", "extra": 0, "fit_gun": 296, "ai": 0, "voice": 15, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "에이, 쫄지 말아! 방금 흔든 건 발포주가 아니라 벚꽃잎 담은 병이야! 자, 아직 다 안 뿌렸을 때 새해 소원하나 빌지 그래?", 
+    "note": "skin-30007903", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40007903", "order": 99, 
+    "class_id": 84
+  }, {
+    "id": 7904, "name": "FX-05 - 별의 기행록", "extra": 0, "fit_gun": 330, "ai": 0, "voice": 15, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "새해 첫 해돋이보다는 당신과 함께 별이 가득한 첫 밤하늘을 감상하고 싶어요... 지휘관님, 지도를 챙기고 함께 가주실 거죠?", 
+    "note": "skin-30007904", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40007904", "order": 99, 
+    "class_id": 84
+  }, {
+    "id": 7905, "name": "PPD-40 - 눈 내린 산 위에", "extra": 0, "fit_gun": 336, "ai": 0, "voice": 15, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "기지의 장식이 너무 소박해서 새해 분위기가 전혀 안 나... 그래서 내가 특별히 조경을 한 세트 통째로 주문했지. 이러고 새해 인사를 해야 느낌이 있지 않겠어?", 
+    "note": "skin-30007905", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40007905", "order": 99, 
+    "class_id": 84
+  }, {
+    "id": 7906, "name": "OTs-39 - 살구빛 몽환", "extra": 0, "fit_gun": 209, "ai": 0, "voice": 15, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "지휘관, 지난 한해 수고가 많았다! 이 술은 내가 신경 써서 고른 것으로 피로 해소에 딱 좋지... 바로 한 잔 따라줄까?", 
+    "note": "skin-30007906", "explore_tag": "", "gift_position": "", "illustrator_cv": "巫目目,Sowa Harumi,", "order": 99, 
+    "class_id": 84
+  }, {
+    "id": 7907, "name": "마이크로 우지 - 주황빛 실루엣", "extra": 0, "fit_gun": 32, "ai": 0, "voice": 15, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "지휘관, 내가 표시해둔 길한 말 아래에서 멋진 포즈만 잡으면 내년 계획하는 모든 일이 순조롭고 술술 풀릴 거야!", 
+    "note": "skin-30007907", "explore_tag": "", "gift_position": "", "illustrator_cv": "人力,Onishi Saori,", "order": 99, 
+    "class_id": 84
+  }, {
     "id": 8001, "name": "MK3A1 - 홍로에 취해", "extra": 0, "fit_gun": 367, "ai": 0, "voice": 15, "is_hidden": 0, 
     "substitute_voice": "", 
     "dialog": "다녀오셨어요, 지휘관님? 아, 이 로봇 토끼요? 지휘관님 기다리는 동안 만든 거예요. 엄청 귀엽죠? 새해 복 많이 받으세요! 새해에도 함께 많은 걸 발명해요~", 
@@ -3632,6 +3706,11 @@
     "substitute_voice": "", 
     "dialog": "어서와, 지휘관. 게임 규칙을 마지막으로 한 번 말해줄게. 7일 후, 이 모든 상금은 나를 붙잡은 사람의 것이다... 그럼, 사냥을 시작하지.", 
     "note": "skin-30030004", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40030004", "order": 99, 
+    "class_id": 0
+  }, {
+    "id": 30005, "name": "Scar-L - 애견과 산뜻한 오후", "extra": 0, "fit_gun": 378, "ai": 0, "voice": 4, "is_hidden": 0, 
+    "substitute_voice": "", "dialog": "오후 해살이 좋아 개들의 털을 빗어주기 좋아요. 사모도 그렇다는데, 너도 그렇지 엉클?", 
+    "note": "skin-30030005", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40030005", "order": 102, 
     "class_id": 0
   }
 ]

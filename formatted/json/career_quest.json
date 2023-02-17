@@ -1734,19 +1734,19 @@
     "unlock_course": "", "new_type": 1, "grade_id": 12, "sort": 100, "condition": "100", "new_unlock_ids": ""
   }, {
     "id": 554, "type": "special_develop_fairy", "unlock_lv": "", "unlock_ids": "", "unlock_label": "", "count": 1, 
-    "prize_id": 11137, "title": "공방 임무: 요정중형제조", "content": "\"공방 - 요정제조\"에서 요정중형제조 1회 완료", 
+    "prize_id": 11137, "title": "공방 임무: 요정제조", "content": "\"공방-요정제조\"에서 요정중형제조를 1회 실행", 
     "unlock_course": "", "new_type": 1, "grade_id": 23, "sort": 173, "condition": "", "new_unlock_ids": ""
   }, {
     "id": 555, "type": "special_develop_fairy", "unlock_lv": "", "unlock_ids": "", "unlock_label": "", "count": 5, 
-    "prize_id": 11138, "title": "공방 임무: 요정중형제조", "content": "\"공방 - 요정제조\"에서 요정중형제조 5회 완료", 
+    "prize_id": 11138, "title": "공방 임무: 요정제조", "content": "\"공방-요정제조\"에서 요정중형제조를 5회 실행", 
     "unlock_course": "", "new_type": 1, "grade_id": 24, "sort": 177, "condition": "", "new_unlock_ids": ""
   }, {
     "id": 556, "type": "special_develop_fairy", "unlock_lv": "", "unlock_ids": "", "unlock_label": "", "count": 10, 
-    "prize_id": 11139, "title": "공방 임무: 요정중형제조", "content": "\"공방 - 요정제조\"에서 요정중형제조 10회 완료", 
+    "prize_id": 11139, "title": "공방 임무: 요정제조", "content": "\"공방-요정제조\"에서 요정중형제조를 10회 실행", 
     "unlock_course": "", "new_type": 1, "grade_id": 25, "sort": 182, "condition": "", "new_unlock_ids": ""
   }, {
     "id": 557, "type": "special_develop_fairy_notexp", "unlock_lv": "", "unlock_ids": "", "unlock_label": "", "count": 1, 
-    "prize_id": 765, "title": "요정: 요정 획득", "content": "\"공방 - 요정제조\"를 통해 요정을 하나 획득", 
+    "prize_id": 765, "title": "요정: 요정 획득", "content": "\"공방-요정제조\"를 통해서 요정을 하나 획득한다.", 
     "unlock_course": "170", "new_type": 1, "grade_id": 23, "sort": 168, "condition": "", "new_unlock_ids": ""
   }
 ]

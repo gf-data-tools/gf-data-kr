@@ -5768,6 +5768,38 @@
     no_battle_damage: -1
   }
   {
+    id: 105601
+    name: 구경꾼
+    guns: "1,2,3,4,5"
+    enemy_team_id: 570505
+    initial_type: 2
+    ai: 0;0;103
+    ai_content: 0;0;0
+    transform_condition: "4"
+    transform_number: "570501"
+    transform_result: 1:9106-1
+    betray_result_enemy: "570505"
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 105602
+    name: 구경꾼
+    guns: "1,2,3,4,5"
+    enemy_team_id: 570504
+    ai: 0;0;0
+    ai_content: 0;0;0
+    betray_condition: "1"
+    betray_number: "2"
+    betray_result: "2"
+    transform_condition: "4"
+    transform_number: "570502,570501"
+    transform_result: 1:9106-1,1:9106-1
+    betray_result_enemy: "570504"
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
     id: 316001
     name: 철혈부대
     guns: "100791"
@@ -13534,6 +13566,207 @@
     enemy_team_id: 1
     initial_type: 1
     ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 570001
+    name: 미즈노 아이
+    guns: "570001"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 570002
+    name: 콘노 준코
+    guns: "570002"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 570003
+    name: 호시카와 릴리
+    guns: "570003"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 570004
+    name: 니카이도 사키
+    guns: "570004"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 570005
+    name: 유우기리
+    guns: "570005"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 570006
+    name: 미나모토 사쿠라
+    guns: "570006"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 570007
+    name: 야마다 타에
+    guns: "570007"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 570008
+    name: 지휘관
+    guns: "570011"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;2010;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 570009
+    name: 회색 가수
+    guns: "570011"
+    enemy_team_id: 570001
+    initial_type: 2
+    ai: 0;1;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
+    id: 570010
+    name: 초록 가수
+    guns: "570011"
+    enemy_team_id: 570002
+    initial_type: 2
+    ai: 0;1;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
+    id: 570011
+    name: 붉은 가수
+    guns: "570011"
+    enemy_team_id: 570003
+    initial_type: 2
+    ai: 0;1;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
+    id: 570012
+    name: 방탕한 보컬
+    guns: "570011"
+    enemy_team_id: 570004
+    initial_type: 2
+    ai: 0;1;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
+    id: 570013
+    name: 불꽃 기타리스트
+    guns: "570011"
+    enemy_team_id: 570005
+    initial_type: 2
+    ai: 0;1;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
+    id: 570014
+    name: 체이싱 드러머
+    guns: "570011"
+    enemy_team_id: 570006
+    initial_type: 2
+    ai: 0;1;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
+    id: 570015
+    name: 선글라스 베이스
+    guns: "570011"
+    enemy_team_id: 570007
+    initial_type: 2
+    ai: 0;1;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
+    id: 570016
+    name: 미스테리 키보더
+    guns: "570011"
+    enemy_team_id: 570008
+    initial_type: 2
+    ai: 0;1;0
+    ai_content: 0;0;0
+    no_battle_damage: -1
+  }
+  {
+    id: 575001
+    name: 미나모토 사쿠라
+    guns: "570010"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;1;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 575002
+    name: 야마다 타에
+    guns: "570009"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;1;0
+    ai_content: 0;0;0
+    enemy_panel_type: 1
+    no_battle_damage: -1
+  }
+  {
+    id: 575003
+    name: 니카이도 사키
+    guns: "570008"
+    enemy_team_id: 1
+    initial_type: 1
+    ai: 0;1;0
     ai_content: 0;0;0
     enemy_panel_type: 1
     no_battle_damage: -1

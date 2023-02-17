@@ -211,4 +211,17 @@
     decorate_code: Logo_Events
     if_elite_medal: "1"
   }
+  {
+    id: "19"
+    name: 골든 마이크 뮤즈 훈장
+    order: "81"
+    evo_step: "1"
+    appearance_id: "106"
+    item_id: "118"
+    medal_obtain: 한정 이벤트 "새하얀 물결, 꽃같은 얼굴"의 모든 전역을 클리어한 지휘관님께 수여합니다.
+    medal_color: "#ff0000"
+    is_date: "2"
+    decorate_code: Logo_Events
+    if_elite_medal: "1"
+  }
 ]

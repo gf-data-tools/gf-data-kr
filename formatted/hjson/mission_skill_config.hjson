@@ -5553,7 +5553,7 @@
   {
     id: 381434
     name: mission_skill_config-10381434
-    description: '''"택배가 도착했습니다, 좋은 업무 평가 부탁드립니다."'''
+    description: 택배가 도착했습니다, 좋은 업무 평가 부탁드립니다.
     lvup_description: mission_skill_config-30381434
     skill_group_id: 381434
     level: 1
@@ -5569,7 +5569,7 @@
   {
     id: 381435
     name: mission_skill_config-10381435
-    description: '''"택배가 도착했습니다, 좋은 업무 평가 부탁드립니다."'''
+    description: 택배가 도착했습니다, 좋은 업무 평가 부탁드립니다.
     lvup_description: mission_skill_config-30381435
     skill_group_id: 381435
     level: 1
@@ -5584,7 +5584,7 @@
   {
     id: 381436
     name: mission_skill_config-10381436
-    description: '''"택배가 도착했습니다, 좋은 업무 평가 부탁드립니다."'''
+    description: 택배가 도착했습니다, 좋은 업무 평가 부탁드립니다.
     lvup_description: mission_skill_config-30381436
     skill_group_id: 381436
     level: 1
@@ -5599,7 +5599,7 @@
   {
     id: 381437
     name: mission_skill_config-10381437
-    description: '''"택배가 도착했습니다, 좋은 업무 평가 부탁드립니다."'''
+    description: 택배가 도착했습니다, 좋은 업무 평가 부탁드립니다.
     lvup_description: mission_skill_config-30381437
     skill_group_id: 381437
     level: 1
@@ -5614,7 +5614,7 @@
   {
     id: 381438
     name: mission_skill_config-10381438
-    description: '''"택배가 도착했습니다, 좋은 업무 평가 부탁드립니다."'''
+    description: 택배가 도착했습니다, 좋은 업무 평가 부탁드립니다.
     lvup_description: mission_skill_config-30381438
     skill_group_id: 381438
     level: 1
@@ -14196,7 +14196,7 @@
   {
     id: 500007
     name: 초코툴루
-    description: '''"오늘부터 우린 영원한 베스트 프렌드야" —— WA2000'''
+    description: 오늘부터 우린 영원한 베스트 프렌드야 —— WA2000
     lvup_description: mission_skill_config-30500007
     skill_group_id: 500007
     level: 1
@@ -15326,7 +15326,7 @@
   {
     id: 500407
     name: 초코툴루
-    description: '''"오늘부터 우린 영원한 베스트 프렌드야" —— WA2000'''
+    description: 오늘부터 우린 영원한 베스트 프렌드야 —— WA2000
     lvup_description: mission_skill_config-30500407
     skill_group_id: 500407
     level: 1
@@ -19141,6 +19141,3691 @@
     cd_time_type: 1
     target_id: "1"
     mission_buff_minus: 544212:1
+  }
+  {
+    id: 570000
+    name: Fever
+    description: mission_skill_config-20570000
+    lvup_description: mission_skill_config-30570000
+    skill_group_id: 570000
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: 57009120&&57201300
+    special_spot_add: 572012:1
+    special_spot_minus: 570091:100
+    mission_buff_add: 570000:1
+  }
+  {
+    id: 570001
+    name: 清+
+    description: mission_skill_config-20570001
+    lvup_description: mission_skill_config-30570001
+    skill_group_id: 570001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_minus: 570001:1
+  }
+  {
+    id: 570002
+    name: 清-
+    description: mission_skill_config-20570002
+    lvup_description: mission_skill_config-30570002
+    skill_group_id: 570002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_minus: 570002:1
+  }
+  {
+    id: 570003
+    name: 쿨다운
+    description: mission_skill_config-20570003
+    lvup_description: mission_skill_config-30570003
+    skill_group_id: 570003
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 570003:1
+    subsidiary_mission_skill: "570004"
+  }
+  {
+    id: 570004
+    name: 쿨다운 카운트
+    description: mission_skill_config-20570004
+    lvup_description: mission_skill_config-30570004
+    skill_group_id: 570004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "57000501"
+    special_spot_add: 570004:1
+    subsidiary_mission_skill: "570007"
+  }
+  {
+    id: 570005
+    name: 피버 표식
+    description: mission_skill_config-20570005
+    lvup_description: mission_skill_config-30570005
+    skill_group_id: 570005
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570005:1
+    drop_item: 9030:-50000
+  }
+  {
+    id: 570006
+    name: 승리 표식
+    description: mission_skill_config-20570006
+    lvup_description: mission_skill_config-30570006
+    skill_group_id: 570006
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570006:1,570191:20
+    drop_item: 9031:-50000
+  }
+  {
+    id: 570007
+    name: 清쿨다운
+    description: mission_skill_config-20570007
+    lvup_description: mission_skill_config-30570007
+    skill_group_id: 570007
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: "57000407"
+    special_spot_minus: 570004:7
+    mission_buff_minus: 570003:1
+  }
+  {
+    id: 570008
+    name: 清Fever
+    description: mission_skill_config-20570008
+    lvup_description: mission_skill_config-30570008
+    skill_group_id: 570008
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    mission_buff_minus: 570000:1
+  }
+  {
+    id: 570009
+    name: mission_skill_config-10570009
+    description: mission_skill_config-20570009
+    lvup_description: mission_skill_config-30570009
+    skill_group_id: 570009
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: 57009120&&57201301
+    special_spot_add: 573012:1
+    special_spot_minus: 570091:100
+    mission_buff_add: 570000:1
+  }
+  {
+    id: 570010
+    name: 미즈노 아이
+    description: mission_skill_config-20570010
+    lvup_description: mission_skill_config-30570010
+    skill_group_id: 570010
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 570010:1
+  }
+  {
+    id: 570011
+    name: 각성의 보이스
+    description: 불확정한 퍼포먼스로 라이벌을 하나 긴장에 빠뜨린다. 이미 긴장했거나 텐션이 높은 상대에게 사용할 수 없다.
+    lvup_description: mission_skill_config-30570011
+    skill_group_id: 570011
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 9
+    trigger_id: 57000300&&57000000&&57000100&&57000200&&1
+    target_id: 57000100&&57000200
+    mission_buff_add: 570002:1
+    subsidiary_mission_skill: "570003,572021,570091,570191,570301"
+    is_manual: 570011
+    ap_cost: 1
+  }
+  {
+    id: 570012
+    name: 각성의 보이스
+    description: 불확정한 퍼포먼스로 라이벌을 하나 긴장에 빠뜨린다. 이미 긴장했거나 텐션이 높은 상대에게 사용할 수 없다.
+    lvup_description: mission_skill_config-30570012
+    skill_group_id: 570012
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 9
+    trigger_id: 57000300&&57000000&&57000101&&1
+    target_id: 57000100&&57000200
+    mission_buff_add: 570002:1
+    subsidiary_mission_skill: "570003,572021,570001,570092,570192,570302"
+    is_manual: 570011
+    ap_cost: 1
+  }
+  {
+    id: 570013
+    name: 각성의 보이스
+    description: 불확정한 퍼포먼스로 라이벌을 하나 긴장에 빠뜨린다. 이미 긴장했거나 텐션이 높은 상대에게 사용할 수 없다.
+    lvup_description: mission_skill_config-30570013
+    skill_group_id: 570013
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 9
+    trigger_id: 57000300&&57000000&&57000201&&1
+    target_id: 57000100&&57000200
+    mission_buff_add: 570002:1
+    subsidiary_mission_skill: "570003,572021,570002,570093,570193,570303"
+    is_manual: 570011
+    ap_cost: 1
+  }
+  {
+    id: 570020
+    name: 콘노 준코
+    description: mission_skill_config-20570020
+    lvup_description: mission_skill_config-30570020
+    skill_group_id: 570020
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 570020:1
+  }
+  {
+    id: 570021
+    name: 스트롱 코드
+    description: 안정적인 퍼포먼스로 긴장 상태를 무시할 수 있다. 동료 한 명의 텐션을 올려주고 긴장을 풀어줄 수 있다.
+    lvup_description: mission_skill_config-30570021
+    skill_group_id: 570021
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "301"
+    cd_time_type: 1
+    start_range: 9
+    trigger_id: 57000300&&57000000&&57000100&&57000200&&1
+    mission_buff_add: 570001:1
+    mission_buff_minus: 570002:1
+    subsidiary_mission_skill: "570003,572022,570091,570191,570301"
+    is_manual: 570021
+    ap_cost: 1
+  }
+  {
+    id: 570022
+    name: 스트롱 코드
+    description: 안정적인 퍼포먼스로 긴장 상태를 무시할 수 있다. 동료 한 명의 텐션을 올려주고 긴장을 풀어줄 수 있다.
+    lvup_description: mission_skill_config-30570022
+    skill_group_id: 570022
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "301"
+    cd_time_type: 1
+    start_range: 9
+    trigger_id: 57000300&&57000000&&57000101&&1
+    mission_buff_add: 570001:1
+    mission_buff_minus: 570002:1
+    subsidiary_mission_skill: "570003,572022,570001,570092,570192,570302"
+    is_manual: 570021
+    ap_cost: 1
+  }
+  {
+    id: 570023
+    name: 스트롱 코드
+    description: 안정적인 퍼포먼스로 긴장 상태를 무시할 수 있다. 동료 한 명의 텐션을 올려주고 긴장을 풀어줄 수 있다.
+    lvup_description: mission_skill_config-30570023
+    skill_group_id: 570023
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "301"
+    cd_time_type: 1
+    start_range: 9
+    trigger_id: 57000300&&57000000&&57000201&&1
+    mission_buff_add: 570001:1
+    mission_buff_minus: 570002:1
+    subsidiary_mission_skill: "570003,572022,570002,570091,570191,570303"
+    is_manual: 570021
+    ap_cost: 1
+  }
+  {
+    id: 570030
+    name: 호시카와 릴리
+    description: mission_skill_config-20570030
+    lvup_description: mission_skill_config-30570030
+    skill_group_id: 570030
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 570030:1
+  }
+  {
+    id: 570031
+    name: 별님 광선
+    description: 깜찍한 퍼포먼스로 주위 2칸 안의 라이벌을 긴장에 빠뜨린다.
+    lvup_description: mission_skill_config-30570031
+    skill_group_id: 570031
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000000&&57000100&&57000200&&1
+    target_id: "1"
+    special_spot_add: 570031:1
+    subsidiary_mission_skill: "570003,572023,570091,570191,570301"
+    is_manual: 570031
+    ap_cost: 1
+  }
+  {
+    id: 570032
+    name: 별님 광선
+    description: 깜찍한 퍼포먼스로 주위 2칸 안의 라이벌을 긴장에 빠뜨린다.
+    lvup_description: mission_skill_config-30570032
+    skill_group_id: 570032
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000000&&57000101&&1
+    target_id: "1"
+    special_spot_add: 570031:1
+    subsidiary_mission_skill: "570003,572023,570001,570092,570192,570302"
+    is_manual: 570031
+    ap_cost: 1
+  }
+  {
+    id: 570033
+    name: 별님 광선
+    description: 깜찍한 퍼포먼스로 주위 2칸 안의 라이벌을 긴장에 빠뜨린다.
+    lvup_description: mission_skill_config-30570033
+    skill_group_id: 570033
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000000&&57000201&&1
+    target_id: "1"
+    special_spot_add: 570031:1
+    subsidiary_mission_skill: "570003,572023,570002,570093,570193,570303"
+    is_manual: 570031
+    ap_cost: 1
+  }
+  {
+    id: 570040
+    name: 니카이도 사키
+    description: mission_skill_config-20570040
+    lvup_description: mission_skill_config-30570040
+    skill_group_id: 570040
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 570040:1
+  }
+  {
+    id: 570041
+    name: 폭주 엔트리
+    description: 격렬한 퍼포먼스. 피버 상태일 경우 점수를 추가 50%를 얻으며 필드 전체의 피버 상태를 종료시킨다.
+    lvup_description: mission_skill_config-30570041
+    skill_group_id: 570041
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000000&&57000100&&57000200&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570003,572024,570091,570191,570301"
+    is_manual: 570041
+    ap_cost: 1
+  }
+  {
+    id: 570042
+    name: 폭주 엔트리
+    description: 격렬한 퍼포먼스. 피버 상태일 경우 점수를 추가 50%를 얻으며 필드 전체의 피버 상태를 종료시킨다.
+    lvup_description: mission_skill_config-30570042
+    skill_group_id: 570042
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000000&&57000101&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570003,572024,570001,570092,570192,570302"
+    is_manual: 570041
+    ap_cost: 1
+  }
+  {
+    id: 570043
+    name: 폭주 엔트리
+    description: 격렬한 퍼포먼스. 피버 상태일 경우 점수를 추가 50%를 얻으며 필드 전체의 피버 상태를 종료시킨다.
+    lvup_description: mission_skill_config-30570043
+    skill_group_id: 570043
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000000&&57000201&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570003,572024,570002,570093,570193,570303"
+    is_manual: 570041
+    ap_cost: 1
+  }
+  {
+    id: 570050
+    name: 유우기리
+    description: mission_skill_config-20570050
+    lvup_description: mission_skill_config-30570050
+    skill_group_id: 570050
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 570050:1
+  }
+  {
+    id: 570051
+    name: 삼현십자참
+    description: 우아한 퍼포먼스로 동료 한 명의 텐션을 높인다. 긴장했거나 이미 텐션이 높은 상대에게 사용할 수 없다.
+    lvup_description: mission_skill_config-30570051
+    skill_group_id: 570051
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "301"
+    cd_time_type: 1
+    start_range: 9
+    trigger_id: 57000300&&57000000&&57000100&&57000200&&1
+    target_id: "57000100"
+    mission_buff_add: 570001:1
+    subsidiary_mission_skill: "570003,572026,570091,570191,570301"
+    is_manual: 570051
+    ap_cost: 1
+  }
+  {
+    id: 570052
+    name: 삼현십자참
+    description: 우아한 퍼포먼스로 동료 한 명의 텐션을 높인다. 긴장했거나 이미 텐션이 높은 상대에게 사용할 수 없다.
+    lvup_description: mission_skill_config-30570052
+    skill_group_id: 570052
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "301"
+    cd_time_type: 1
+    start_range: 9
+    trigger_id: 57000300&&57000000&&57000101&&1
+    target_id: "57000100"
+    mission_buff_add: 570001:1
+    subsidiary_mission_skill: "570003,572026,570001,570092,570192,570302"
+    is_manual: 570051
+    ap_cost: 1
+  }
+  {
+    id: 570053
+    name: 삼현십자참
+    description: 우아한 퍼포먼스로 동료 한 명의 텐션을 높인다. 긴장했거나 이미 텐션이 높은 상대에게 사용할 수 없다.
+    lvup_description: mission_skill_config-30570053
+    skill_group_id: 570053
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "301"
+    cd_time_type: 1
+    start_range: 9
+    trigger_id: 57000300&&57000000&&57000201&&1
+    target_id: "57000100"
+    mission_buff_add: 570001:1
+    subsidiary_mission_skill: "570003,572026,570002,570093,570193,570303"
+    is_manual: 570051
+    ap_cost: 1
+  }
+  {
+    id: 570060
+    name: 미나모토 사쿠라
+    description: mission_skill_config-20570060
+    lvup_description: mission_skill_config-30570060
+    skill_group_id: 570060
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 570060:1
+  }
+  {
+    id: 570061
+    name: 불행 스트라이크
+    description: 열심히 퍼포먼스를 보인다. 높은 텐션의 효과가 100%로 강화되고, 긴장한 상태일 경우 점수를 얻지 못한다.
+    lvup_description: mission_skill_config-30570061
+    skill_group_id: 570061
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000000&&57000100&&57000200&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570003,572027,570091,570191,570301"
+    is_manual: 570061
+    ap_cost: 1
+  }
+  {
+    id: 570062
+    name: 불행 스트라이크
+    description: 열심히 퍼포먼스를 보인다. 높은 텐션의 효과가 100%로 강화되고, 긴장한 상태일 경우 점수를 얻지 못한다.
+    lvup_description: mission_skill_config-30570062
+    skill_group_id: 570062
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000000&&57000101&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570003,572028,570001,570094,570194,570302"
+    is_manual: 570061
+    ap_cost: 1
+  }
+  {
+    id: 570063
+    name: 불행 스트라이크
+    description: 열심히 퍼포먼스를 보인다. 높은 텐션의 효과가 100%로 강화되고, 긴장한 상태일 경우 점수를 얻지 못한다.
+    lvup_description: mission_skill_config-30570063
+    skill_group_id: 570063
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000000&&57000201&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570003,572029,570002,570303"
+    is_manual: 570061
+    ap_cost: 1
+  }
+  {
+    id: 570070
+    name: 야마다 타에
+    description: mission_skill_config-20570070
+    lvup_description: mission_skill_config-30570070
+    skill_group_id: 570070
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 570070:1
+  }
+  {
+    id: 570071
+    name: 로메로 응원한다 멍!
+    description: 소름끼치는 퍼포먼스. 피버 상태일 경우 필드 전체의 피버 상태를 종료하고 모든 라이벌을 긴장에 빠뜨린다.
+    lvup_description: mission_skill_config-30570071
+    skill_group_id: 570071
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000000&&57000100&&57000200&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570003,572030,570091,570191,570301"
+    is_manual: 570071
+    ap_cost: 1
+  }
+  {
+    id: 570072
+    name: 로메로 응원한다 멍!
+    description: 소름끼치는 퍼포먼스. 피버 상태일 경우 필드 전체의 피버 상태를 종료하고 모든 라이벌을 긴장에 빠뜨린다.
+    lvup_description: mission_skill_config-30570072
+    skill_group_id: 570072
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000000&&57000101&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570003,572030,570001,570092,570192,570302"
+    is_manual: 570071
+    ap_cost: 1
+  }
+  {
+    id: 570073
+    name: 로메로 응원한다 멍!
+    description: 소름끼치는 퍼포먼스. 피버 상태일 경우 필드 전체의 피버 상태를 종료하고 모든 라이벌을 긴장에 빠뜨린다.
+    lvup_description: mission_skill_config-30570073
+    skill_group_id: 570073
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000000&&57000201&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570003,572030,570002,570093,570193,570303"
+    is_manual: 570071
+    ap_cost: 1
+  }
+  {
+    id: 570091
+    name: 피버 표식1000
+    description: mission_skill_config-20570091
+    lvup_description: mission_skill_config-30570091
+    skill_group_id: 570091
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    effect_self: "1000125"
+    target_id: "57000501"
+    special_spot_add: 570091:2
+    subsidiary_mission_skill: "570000,570009"
+  }
+  {
+    id: 570092
+    name: 피버 표식1500
+    description: mission_skill_config-20570092
+    lvup_description: mission_skill_config-30570092
+    skill_group_id: 570092
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    effect_self: "1000126"
+    target_id: "57000501"
+    special_spot_add: 570091:3
+    subsidiary_mission_skill: "570000,570009"
+  }
+  {
+    id: 570093
+    name: 피버 표식500
+    description: mission_skill_config-20570093
+    lvup_description: mission_skill_config-30570093
+    skill_group_id: 570093
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    effect_self: "1000127"
+    target_id: "57000501"
+    special_spot_add: 570091:1
+    subsidiary_mission_skill: "570000,570009"
+  }
+  {
+    id: 570094
+    name: 피버 표식2000
+    description: mission_skill_config-20570094
+    lvup_description: mission_skill_config-30570094
+    skill_group_id: 570094
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    effect_self: "1000128"
+    target_id: "57000501"
+    special_spot_add: 570091:4
+    subsidiary_mission_skill: "570000,570009"
+  }
+  {
+    id: 570095
+    name: 피버 표식3000
+    description: mission_skill_config-20570095
+    lvup_description: mission_skill_config-30570095
+    skill_group_id: 570095
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    effect_self: "1000129"
+    target_id: "57000501"
+    special_spot_add: 570091:6
+    subsidiary_mission_skill: "570000,570009"
+  }
+  {
+    id: 570096
+    name: 피버 표식4500
+    description: mission_skill_config-20570096
+    lvup_description: mission_skill_config-30570096
+    skill_group_id: 570096
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    effect_self: "1000130"
+    target_id: "57000501"
+    special_spot_add: 570091:9
+    subsidiary_mission_skill: "570000,570009"
+  }
+  {
+    id: 570097
+    name: 피버 표식4000
+    description: mission_skill_config-20570097
+    lvup_description: mission_skill_config-30570097
+    skill_group_id: 570097
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    effect_self: "1000131"
+    target_id: "57000501"
+    special_spot_add: 570091:8
+    subsidiary_mission_skill: "570000,570009"
+  }
+  {
+    id: 570111
+    name: 각성의 보이스
+    description: 불확정한 퍼포먼스로 라이벌을 하나 긴장에 빠뜨린다. 이미 긴장했거나 텐션이 높은 상대에게 사용할 수 없다.
+    lvup_description: mission_skill_config-30570111
+    skill_group_id: 570111
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 9
+    trigger_id: 57000300&&57000001&&57000100&&57000200&&1
+    target_id: 57000100&&57000200
+    mission_buff_add: 570002:1
+    subsidiary_mission_skill: "570003,572021,570094,570194,570301"
+    is_manual: 570011
+    ap_cost: 1
+  }
+  {
+    id: 570112
+    name: 각성의 보이스
+    description: 불확정한 퍼포먼스로 라이벌을 하나 긴장에 빠뜨린다. 이미 긴장했거나 텐션이 높은 상대에게 사용할 수 없다.
+    lvup_description: mission_skill_config-30570112
+    skill_group_id: 570112
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 9
+    trigger_id: 57000300&&57000001&&57000101&&1
+    target_id: 57000100&&57000200
+    mission_buff_add: 570002:1
+    subsidiary_mission_skill: "570003,572021,570001,570095,570195,570302"
+    is_manual: 570011
+    ap_cost: 1
+  }
+  {
+    id: 570113
+    name: 각성의 보이스
+    description: 불확정한 퍼포먼스로 라이벌을 하나 긴장에 빠뜨린다. 이미 긴장했거나 텐션이 높은 상대에게 사용할 수 없다.
+    lvup_description: mission_skill_config-30570113
+    skill_group_id: 570113
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 9
+    trigger_id: 57000300&&57000001&&57000201&&1
+    target_id: 57000100&&57000200
+    mission_buff_add: 570002:1
+    subsidiary_mission_skill: "570003,572021,570002,570091,570191,570303"
+    is_manual: 570011
+    ap_cost: 1
+  }
+  {
+    id: 570121
+    name: 스트롱 코드
+    description: 안정적인 퍼포먼스로 긴장 상태를 무시할 수 있다. 동료 한 명의 텐션을 올려주고 긴장을 풀어줄 수 있다.
+    lvup_description: mission_skill_config-30570121
+    skill_group_id: 570121
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "301"
+    cd_time_type: 1
+    start_range: 9
+    trigger_id: 57000300&&57000001&&57000100&&57000200&&1
+    mission_buff_add: 570001:1
+    mission_buff_minus: 570002:1
+    subsidiary_mission_skill: "570003,572022,570094,570194,570301"
+    is_manual: 570021
+    ap_cost: 1
+  }
+  {
+    id: 570122
+    name: 스트롱 코드
+    description: 안정적인 퍼포먼스로 긴장 상태를 무시할 수 있다. 동료 한 명의 텐션을 올려주고 긴장을 풀어줄 수 있다.
+    lvup_description: mission_skill_config-30570122
+    skill_group_id: 570122
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "301"
+    cd_time_type: 1
+    start_range: 9
+    trigger_id: 57000300&&57000001&&57000101&&1
+    mission_buff_add: 570001:1
+    mission_buff_minus: 570002:1
+    subsidiary_mission_skill: "570003,572022,570001,570095,570195,570302"
+    is_manual: 570021
+    ap_cost: 1
+  }
+  {
+    id: 570123
+    name: 스트롱 코드
+    description: 안정적인 퍼포먼스로 긴장 상태를 무시할 수 있다. 동료 한 명의 텐션을 올려주고 긴장을 풀어줄 수 있다.
+    lvup_description: mission_skill_config-30570123
+    skill_group_id: 570123
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "301"
+    cd_time_type: 1
+    start_range: 9
+    trigger_id: 57000300&&57000001&&57000201&&1
+    mission_buff_add: 570001:1
+    mission_buff_minus: 570002:1
+    subsidiary_mission_skill: "570003,572022,570002,570094,570194,570303"
+    is_manual: 570021
+    ap_cost: 1
+  }
+  {
+    id: 570131
+    name: 별님 광선
+    description: 깜찍한 퍼포먼스로 주위 2칸 안의 라이벌을 긴장에 빠뜨린다.
+    lvup_description: mission_skill_config-30570131
+    skill_group_id: 570131
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000001&&57000100&&57000200&&1
+    target_id: "1"
+    special_spot_add: 570031:1
+    subsidiary_mission_skill: "570003,572023,570094,570194,570301"
+    is_manual: 570031
+    ap_cost: 1
+  }
+  {
+    id: 570132
+    name: 별님 광선
+    description: 깜찍한 퍼포먼스로 주위 2칸 안의 라이벌을 긴장에 빠뜨린다.
+    lvup_description: mission_skill_config-30570132
+    skill_group_id: 570132
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000001&&57000101&&1
+    target_id: "1"
+    special_spot_add: 570031:1
+    subsidiary_mission_skill: "570003,572023,570001,570095,570195,570302"
+    is_manual: 570031
+    ap_cost: 1
+  }
+  {
+    id: 570133
+    name: 별님 광선
+    description: 깜찍한 퍼포먼스로 주위 2칸 안의 라이벌을 긴장에 빠뜨린다.
+    lvup_description: mission_skill_config-30570133
+    skill_group_id: 570133
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000001&&57000201&&1
+    target_id: "1"
+    special_spot_add: 570031:1
+    subsidiary_mission_skill: "570003,572023,570002,570091,570191,570303"
+    is_manual: 570031
+    ap_cost: 1
+  }
+  {
+    id: 570141
+    name: 폭주 엔트리
+    description: 격렬한 퍼포먼스. 피버 상태일 경우 점수를 추가 50%를 얻으며 필드 전체의 피버 상태를 종료시킨다.
+    lvup_description: mission_skill_config-30570141
+    skill_group_id: 570141
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000001&&57000100&&57000200&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570003,572025,570008,570095,570195,570301"
+    is_manual: 570041
+    ap_cost: 1
+  }
+  {
+    id: 570142
+    name: 폭주 엔트리
+    description: 격렬한 퍼포먼스. 피버 상태일 경우 점수를 추가 50%를 얻으며 필드 전체의 피버 상태를 종료시킨다.
+    lvup_description: mission_skill_config-30570142
+    skill_group_id: 570142
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000001&&57000101&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570003,572025,570001,570008,570096,570196,570302"
+    is_manual: 570041
+    ap_cost: 1
+  }
+  {
+    id: 570143
+    name: 폭주 엔트리
+    description: 격렬한 퍼포먼스. 피버 상태일 경우 점수를 추가 50%를 얻으며 필드 전체의 피버 상태를 종료시킨다.
+    lvup_description: mission_skill_config-30570143
+    skill_group_id: 570143
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000001&&57000201&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570003,572025,570002,570008,570092,570192,570303"
+    is_manual: 570041
+    ap_cost: 1
+  }
+  {
+    id: 570151
+    name: 삼현십자참
+    description: 우아한 퍼포먼스로 동료 한 명의 텐션을 높인다. 긴장했거나 이미 텐션이 높은 상대에게 사용할 수 없다.
+    lvup_description: mission_skill_config-30570151
+    skill_group_id: 570151
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "301"
+    cd_time_type: 1
+    start_range: 9
+    trigger_id: 57000300&&57000001&&57000100&&57000200&&1
+    target_id: "57000100"
+    mission_buff_add: 570001:1
+    subsidiary_mission_skill: "570003,572026,570094,570194,570301"
+    is_manual: 570051
+    ap_cost: 1
+  }
+  {
+    id: 570152
+    name: 삼현십자참
+    description: 우아한 퍼포먼스로 동료 한 명의 텐션을 높인다. 긴장했거나 이미 텐션이 높은 상대에게 사용할 수 없다.
+    lvup_description: mission_skill_config-30570152
+    skill_group_id: 570152
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "301"
+    cd_time_type: 1
+    start_range: 9
+    trigger_id: 57000300&&57000001&&57000101&&1
+    target_id: "57000100"
+    mission_buff_add: 570001:1
+    subsidiary_mission_skill: "570003,572026,570001,570095,570195,570302"
+    is_manual: 570051
+    ap_cost: 1
+  }
+  {
+    id: 570153
+    name: 삼현십자참
+    description: 우아한 퍼포먼스로 동료 한 명의 텐션을 높인다. 긴장했거나 이미 텐션이 높은 상대에게 사용할 수 없다.
+    lvup_description: mission_skill_config-30570153
+    skill_group_id: 570153
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "301"
+    cd_time_type: 1
+    start_range: 9
+    trigger_id: 57000300&&57000001&&57000201&&1
+    target_id: "57000100"
+    mission_buff_add: 570001:1
+    subsidiary_mission_skill: "570003,572026,570002,570091,570191,570303"
+    is_manual: 570051
+    ap_cost: 1
+  }
+  {
+    id: 570161
+    name: 불행 스트라이크
+    description: 열심히 퍼포먼스를 보인다. 높은 텐션의 효과가 100%로 강화되고, 긴장한 상태일 경우 점수를 얻지 못한다.
+    lvup_description: mission_skill_config-30570161
+    skill_group_id: 570161
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000001&&57000100&&57000200&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570003,572027,570094,570194,570301"
+    is_manual: 570061
+    ap_cost: 1
+  }
+  {
+    id: 570162
+    name: 불행 스트라이크
+    description: 열심히 퍼포먼스를 보인다. 높은 텐션의 효과가 100%로 강화되고, 긴장한 상태일 경우 점수를 얻지 못한다.
+    lvup_description: mission_skill_config-30570162
+    skill_group_id: 570162
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000001&&57000101&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570003,572028,570001,570097,570197,570302"
+    is_manual: 570061
+    ap_cost: 1
+  }
+  {
+    id: 570163
+    name: 불행 스트라이크
+    description: 열심히 퍼포먼스를 보인다. 높은 텐션의 효과가 100%로 강화되고, 긴장한 상태일 경우 점수를 얻지 못한다.
+    lvup_description: mission_skill_config-30570163
+    skill_group_id: 570163
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000001&&57000201&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570003,572029,570002,570303"
+    is_manual: 570061
+    ap_cost: 1
+  }
+  {
+    id: 570171
+    name: 로메로 응원한다 멍!
+    description: 소름끼치는 퍼포먼스. 피버 상태일 경우 필드 전체의 피버 상태를 종료하고 모든 라이벌을 긴장에 빠뜨린다.
+    lvup_description: mission_skill_config-30570171
+    skill_group_id: 570171
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000001&&57000100&&57000200&&1
+    target_id: "1"
+    special_spot_add: 570171:1
+    subsidiary_mission_skill: "570003,572031,570008,570094,570194,570301"
+    is_manual: 570071
+    ap_cost: 1
+  }
+  {
+    id: 570172
+    name: 로메로 응원한다 멍!
+    description: 소름끼치는 퍼포먼스. 피버 상태일 경우 필드 전체의 피버 상태를 종료하고 모든 라이벌을 긴장에 빠뜨린다.
+    lvup_description: mission_skill_config-30570172
+    skill_group_id: 570172
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000001&&57000101&&1
+    target_id: "1"
+    special_spot_add: 570171:1
+    subsidiary_mission_skill: "570003,572031,570001,570008,570095,570195,570302"
+    is_manual: 570071
+    ap_cost: 1
+  }
+  {
+    id: 570173
+    name: 로메로 응원한다 멍!
+    description: 소름끼치는 퍼포먼스. 피버 상태일 경우 필드 전체의 피버 상태를 종료하고 모든 라이벌을 긴장에 빠뜨린다.
+    lvup_description: mission_skill_config-30570173
+    skill_group_id: 570173
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57000300&&57000001&&57000201&&1
+    target_id: "1"
+    special_spot_add: 570171:1
+    subsidiary_mission_skill: "570003,572031,570002,570008,570091,570191,570303"
+    is_manual: 570071
+    ap_cost: 1
+  }
+  {
+    id: 570191
+    name: 승리 표식1000
+    description: mission_skill_config-20570191
+    lvup_description: mission_skill_config-30570191
+    skill_group_id: 570191
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "57000601"
+    special_spot_add: 570191:2
+    subsidiary_mission_skill: "570391"
+    drop_item: 9030:1000
+  }
+  {
+    id: 570192
+    name: 승리 표식1500
+    description: mission_skill_config-20570192
+    lvup_description: mission_skill_config-30570192
+    skill_group_id: 570192
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "57000601"
+    special_spot_add: 570191:3
+    subsidiary_mission_skill: "570392"
+    drop_item: 9030:1500
+  }
+  {
+    id: 570193
+    name: 승리 표식500
+    description: mission_skill_config-20570193
+    lvup_description: mission_skill_config-30570193
+    skill_group_id: 570193
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "57000601"
+    special_spot_add: 570191:1
+    subsidiary_mission_skill: "570393"
+    drop_item: 9030:500
+  }
+  {
+    id: 570194
+    name: 승리 표식2000
+    description: mission_skill_config-20570194
+    lvup_description: mission_skill_config-30570194
+    skill_group_id: 570194
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "57000601"
+    special_spot_add: 570191:4
+    subsidiary_mission_skill: "570394"
+    drop_item: 9030:2000
+  }
+  {
+    id: 570195
+    name: 승리 표식3000
+    description: mission_skill_config-20570195
+    lvup_description: mission_skill_config-30570195
+    skill_group_id: 570195
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "57000601"
+    special_spot_add: 570191:6
+    subsidiary_mission_skill: "570395"
+    drop_item: 9030:3000
+  }
+  {
+    id: 570196
+    name: 승리 표식4500
+    description: mission_skill_config-20570196
+    lvup_description: mission_skill_config-30570196
+    skill_group_id: 570196
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "57000601"
+    special_spot_add: 570191:9
+    subsidiary_mission_skill: "570396"
+    drop_item: 9030:4500
+  }
+  {
+    id: 570197
+    name: 승리 표식4000
+    description: mission_skill_config-20570197
+    lvup_description: mission_skill_config-30570197
+    skill_group_id: 570197
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "57000601"
+    special_spot_add: 570191:8
+    subsidiary_mission_skill: "570397"
+    drop_item: 9030:4000
+  }
+  {
+    id: 570291
+    name: 승리 표식-1000
+    description: mission_skill_config-20570291
+    lvup_description: mission_skill_config-30570291
+    skill_group_id: 570291
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "57000601"
+    special_spot_minus: 570191:2
+    subsidiary_mission_skill: "570491"
+    drop_item: 9031:1000
+  }
+  {
+    id: 570292
+    name: 승리 표식-1500
+    description: mission_skill_config-20570292
+    lvup_description: mission_skill_config-30570292
+    skill_group_id: 570292
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "57000601"
+    special_spot_minus: 570191:3
+    subsidiary_mission_skill: "570492"
+    drop_item: 9031:1500
+  }
+  {
+    id: 570293
+    name: 승리 표식-500
+    description: mission_skill_config-20570293
+    lvup_description: mission_skill_config-30570293
+    skill_group_id: 570293
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "57000601"
+    special_spot_minus: 570191:1
+    subsidiary_mission_skill: "570493"
+    drop_item: 9031:500
+  }
+  {
+    id: 570294
+    name: 승리 표식-2000
+    description: mission_skill_config-20570294
+    lvup_description: mission_skill_config-30570294
+    skill_group_id: 570294
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "57000601"
+    special_spot_minus: 570191:4
+    subsidiary_mission_skill: "570494"
+    drop_item: 9031:2000
+  }
+  {
+    id: 570295
+    name: 승리 표식-3000
+    description: mission_skill_config-20570295
+    lvup_description: mission_skill_config-30570295
+    skill_group_id: 570295
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "57000601"
+    special_spot_minus: 570191:6
+    subsidiary_mission_skill: "570495"
+    drop_item: 9031:3000
+  }
+  {
+    id: 570296
+    name: 승리 표식-4500
+    description: mission_skill_config-20570296
+    lvup_description: mission_skill_config-30570296
+    skill_group_id: 570296
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "57000601"
+    special_spot_minus: 570191:9
+    subsidiary_mission_skill: "570496"
+    drop_item: 9031:4500
+  }
+  {
+    id: 570297
+    name: 승리 표식-4000
+    description: mission_skill_config-20570297
+    lvup_description: mission_skill_config-30570297
+    skill_group_id: 570297
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "57000601"
+    special_spot_minus: 570191:8
+    subsidiary_mission_skill: "570497"
+    drop_item: 9031:4000
+  }
+  {
+    id: 570301
+    name: 평범한 퍼포먼스
+    description: mission_skill_config-20570301
+    lvup_description: mission_skill_config-30570301
+    skill_group_id: 570301
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570301:1
+  }
+  {
+    id: 570302
+    name: 퍼포먼스 대성공
+    description: mission_skill_config-20570302
+    lvup_description: mission_skill_config-30570302
+    skill_group_id: 570302
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570302:1
+  }
+  {
+    id: 570303
+    name: 퍼포먼스 대실패
+    description: mission_skill_config-20570303
+    lvup_description: mission_skill_config-30570303
+    skill_group_id: 570303
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570303:1
+  }
+  {
+    id: 570311
+    name: 평범한 퍼포먼스
+    description: mission_skill_config-20570311
+    lvup_description: mission_skill_config-30570311
+    skill_group_id: 570311
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570311:1
+  }
+  {
+    id: 570312
+    name: 퍼포먼스 대성공
+    description: mission_skill_config-20570312
+    lvup_description: mission_skill_config-30570312
+    skill_group_id: 570312
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570312:1
+  }
+  {
+    id: 570313
+    name: 퍼포먼스 대실패
+    description: mission_skill_config-20570313
+    lvup_description: mission_skill_config-30570313
+    skill_group_id: 570313
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570313:1
+  }
+  {
+    id: 570391
+    name: 팝업 1000
+    description: mission_skill_config-20570391
+    lvup_description: mission_skill_config-30570391
+    skill_group_id: 570391
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570391:1
+  }
+  {
+    id: 570392
+    name: 팝업 1500
+    description: mission_skill_config-20570392
+    lvup_description: mission_skill_config-30570392
+    skill_group_id: 570392
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570392:1
+  }
+  {
+    id: 570393
+    name: 팝업 500
+    description: mission_skill_config-20570393
+    lvup_description: mission_skill_config-30570393
+    skill_group_id: 570393
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570393:1
+  }
+  {
+    id: 570394
+    name: 팝업 2000
+    description: mission_skill_config-20570394
+    lvup_description: mission_skill_config-30570394
+    skill_group_id: 570394
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570394:1
+  }
+  {
+    id: 570395
+    name: 팝업 3000
+    description: mission_skill_config-20570395
+    lvup_description: mission_skill_config-30570395
+    skill_group_id: 570395
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570395:1
+  }
+  {
+    id: 570396
+    name: 팝업 4500
+    description: mission_skill_config-20570396
+    lvup_description: mission_skill_config-30570396
+    skill_group_id: 570396
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570396:1
+  }
+  {
+    id: 570397
+    name: 팝업 4000
+    description: mission_skill_config-20570397
+    lvup_description: mission_skill_config-30570397
+    skill_group_id: 570397
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570397:1
+  }
+  {
+    id: 570491
+    name: 팝업 1000
+    description: mission_skill_config-20570491
+    lvup_description: mission_skill_config-30570491
+    skill_group_id: 570491
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570491:1
+  }
+  {
+    id: 570492
+    name: 팝업 1500
+    description: mission_skill_config-20570492
+    lvup_description: mission_skill_config-30570492
+    skill_group_id: 570492
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570492:1
+  }
+  {
+    id: 570493
+    name: 팝업 500
+    description: mission_skill_config-20570493
+    lvup_description: mission_skill_config-30570493
+    skill_group_id: 570493
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570493:1
+  }
+  {
+    id: 570494
+    name: 팝업 2000
+    description: mission_skill_config-20570494
+    lvup_description: mission_skill_config-30570494
+    skill_group_id: 570494
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570494:1
+  }
+  {
+    id: 570495
+    name: 팝업 3000
+    description: mission_skill_config-20570495
+    lvup_description: mission_skill_config-30570495
+    skill_group_id: 570495
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570495:1
+  }
+  {
+    id: 570496
+    name: 팝업 4500
+    description: mission_skill_config-20570496
+    lvup_description: mission_skill_config-30570496
+    skill_group_id: 570496
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570496:1
+  }
+  {
+    id: 570497
+    name: 팝업 4000
+    description: mission_skill_config-20570497
+    lvup_description: mission_skill_config-30570497
+    skill_group_id: 570497
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570497:1
+  }
+  {
+    id: 570501
+    name: 작전 종료
+    code: "1"
+    description: 버블 머신을 정지하여 임무를 마칩니다.
+    lvup_description: mission_skill_config-30570501
+    skill_group_id: 570501
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time: 10
+    cd_time_type: 1
+    trigger_id: "570503"
+    special_spot_minus: 570501:1
+    is_manual: 570501
+  }
+  {
+    id: 570502
+    name: 【标记】泡泡机初始化
+    code: "1"
+    description: mission_skill_config-20570502
+    lvup_description: mission_skill_config-30570502
+    skill_group_id: 570502
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    special_spot_add: 570501:1
+  }
+  {
+    id: 570503
+    name: 【标记】敌人加速
+    code: "1"
+    description: mission_skill_config-20570503
+    lvup_description: mission_skill_config-30570503
+    skill_group_id: 570503
+    level: 1
+    spot_type: "-2"
+    spot_belong: "-2"
+    spot_echelon: "2"
+    cd_time_type: 1
+    mission_buff_add: 570501:1
+  }
+  {
+    id: 570504
+    name: 【标记】버블 머신 팁
+    code: "1"
+    description: 이것이 모든 혼란의 근원인 것 같습니다. 장비를 정지합시다.
+    lvup_description: mission_skill_config-30570504
+    skill_group_id: 570504
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+  }
+  {
+    id: 570505
+    name: 【标记】打捞得分
+    code: "1"
+    description: mission_skill_config-20570505
+    lvup_description: mission_skill_config-30570505
+    skill_group_id: 570505
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    special_spot_add: 570505:1
+  }
+  {
+    id: 570601
+    name: 【标记】罗梅罗初始化
+    code: "1"
+    description: mission_skill_config-20570601
+    lvup_description: mission_skill_config-30570601
+    skill_group_id: 570601
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    special_spot_add: 570601:1
+  }
+  {
+    id: 570602
+    name: 【标记】顾客初始化
+    code: "1"
+    description: mission_skill_config-20570602
+    lvup_description: mission_skill_config-30570602
+    skill_group_id: 570602
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    special_spot_add: 570602:1
+  }
+  {
+    id: 570603
+    name: 【标记】鱿鱼丝初始化
+    code: "1"
+    description: mission_skill_config-20570603
+    lvup_description: mission_skill_config-30570603
+    skill_group_id: 570603
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    special_spot_add: 570603:1
+  }
+  {
+    id: 570604
+    name: 【标记】外卖初始化
+    code: "1"
+    description: mission_skill_config-20570604
+    lvup_description: mission_skill_config-30570604
+    skill_group_id: 570604
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    special_spot_add: 570604:1
+  }
+  {
+    id: 570605
+    name: 먹이 투척
+    code: "1"
+    description: 길을 양보하게 합니다.
+    lvup_description: mission_skill_config-30570605
+    skill_group_id: 570605
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    target_id: "57060501"
+    special_spot_minus: 570601:1,570614:1
+    subsidiary_mission_skill: "570611"
+    is_manual: 570605
+  }
+  {
+    id: 570606
+    name: 배달 왔습니다
+    code: "1"
+    description: 물건을 건네고 길을 양보받는다.
+    lvup_description: mission_skill_config-30570606
+    skill_group_id: 570606
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    target_id: "57060601"
+    special_spot_minus: 570602:1
+    is_manual: 570606
+  }
+  {
+    id: 570607
+    name: 오징어채줍기
+    code: "1"
+    description: 로메로에게 먹일 수 있는 음식
+    lvup_description: mission_skill_config-30570607
+    skill_group_id: 570607
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "570607"
+    target_id: "570607"
+    special_spot_minus: 570603:1
+    mission_buff_add: 570601:1
+    is_manual: 570607
+  }
+  {
+    id: 570608
+    name: 배달음식줍기
+    code: "1"
+    description: 고객에게 배달해서 별점 5개 받자
+    lvup_description: mission_skill_config-30570608
+    skill_group_id: 570608
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "570608"
+    target_id: "570608"
+    special_spot_minus: 570604:1
+    mission_buff_add: 570602:1
+    is_manual: 570608
+  }
+  {
+    id: 570609
+    name: 【标记】체크点 초기화
+    code: "1"
+    description: mission_skill_config-20570609
+    lvup_description: mission_skill_config-30570609
+    skill_group_id: 570609
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    special_spot_add: 570605:1
+  }
+  {
+    id: 570610
+    name: 작전 종료
+    code: "1"
+    description: 휴식한다
+    lvup_description: mission_skill_config-30570610
+    skill_group_id: 570610
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "570610"
+    target_id: "570610"
+    special_spot_minus: 570605:1
+    subsidiary_mission_skill: "570620,570621"
+    is_manual: 570610
+  }
+  {
+    id: 570611
+    name: 먹이 투척
+    code: "1"
+    description: 다 뺏기지 않게 조심하자
+    lvup_description: mission_skill_config-30570611
+    skill_group_id: 570611
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    mission_buff_minus: 570601:1
+  }
+  {
+    id: 570612
+    name: 【标记】로메로 팁
+    code: "1"
+    description: 왜 여기에 나타난 것인지 알 수 없지만 뭐라도 먹을 걸 던져봅시다.
+    lvup_description: mission_skill_config-30570612
+    skill_group_id: 570612
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+  }
+  {
+    id: 570613
+    name: 【标记】고객 팁
+    code: "1"
+    description: 분노한 고객님. 배달음식을 받지 못하면 길을 비켜주지 않을 것이다.
+    lvup_description: mission_skill_config-30570613
+    skill_group_id: 570613
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+  }
+  {
+    id: 570620
+    name: 【标记】得分S
+    code: "1"
+    description: mission_skill_config-20570620
+    lvup_description: mission_skill_config-30570620
+    skill_group_id: 570620
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "570620"
+    special_spot_add: 570612:2
+  }
+  {
+    id: 570621
+    name: 【标记】得分A
+    code: "1"
+    description: mission_skill_config-20570621
+    lvup_description: mission_skill_config-30570621
+    skill_group_id: 570621
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "570621"
+    special_spot_add: 570612:1
+  }
+  {
+    id: 570622
+    name: 【标记】得分B
+    code: "1"
+    description: mission_skill_config-20570622
+    lvup_description: mission_skill_config-30570622
+    skill_group_id: 570622
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "570622"
+    special_spot_add: 570612:1
+  }
+  {
+    id: 570623
+    name: 【标记】得分 초기화
+    code: "1"
+    description: mission_skill_config-20570623
+    lvup_description: mission_skill_config-30570623
+    skill_group_id: 570623
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    special_spot_add: 570610:1
+  }
+  {
+    id: 570624
+    name: 【标记】打捞점
+    code: "1"
+    description: mission_skill_config-20570624
+    lvup_description: mission_skill_config-30570624
+    skill_group_id: 570624
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 570613:1
+  }
+  {
+    id: 571000
+    name: 清自己
+    description: mission_skill_config-20571000
+    lvup_description: mission_skill_config-30571000
+    skill_group_id: 571000
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100001&&1
+    target_id: "1"
+    mission_buff_minus: 571000:1
+  }
+  {
+    id: 571001
+    name: 1~2
+    description: mission_skill_config-20571001
+    lvup_description: mission_skill_config-30571001
+    skill_group_id: 571001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 5
+    trigger_id: 57100001&&1
+    target_id: "57102001"
+    special_spot_add: 571000:1
+    subsidiary_mission_skill: "571000"
+  }
+  {
+    id: 571002
+    name: 2~3
+    description: mission_skill_config-20571002
+    lvup_description: mission_skill_config-30571002
+    skill_group_id: 571002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 5
+    trigger_id: 57100001&&1
+    target_id: "57103001"
+    special_spot_add: 571000:1
+    subsidiary_mission_skill: "571000"
+  }
+  {
+    id: 571003
+    name: 3~4
+    description: mission_skill_config-20571003
+    lvup_description: mission_skill_config-30571003
+    skill_group_id: 571003
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 5
+    trigger_id: 57100001&&1
+    target_id: "57104001"
+    special_spot_add: 571000:1
+    subsidiary_mission_skill: "571000"
+  }
+  {
+    id: 571004
+    name: 4~5
+    description: mission_skill_config-20571004
+    lvup_description: mission_skill_config-30571004
+    skill_group_id: 571004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 5
+    trigger_id: 57100001&&1
+    target_id: "57105001"
+    special_spot_add: 571000:1
+    subsidiary_mission_skill: "571000"
+  }
+  {
+    id: 571005
+    name: 5~6
+    description: mission_skill_config-20571005
+    lvup_description: mission_skill_config-30571005
+    skill_group_id: 571005
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 5
+    trigger_id: 57100001&&1
+    target_id: "57106001"
+    special_spot_add: 571000:1
+    subsidiary_mission_skill: "571000"
+  }
+  {
+    id: 571006
+    name: 6~7
+    description: mission_skill_config-20571006
+    lvup_description: mission_skill_config-30571006
+    skill_group_id: 571006
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 5
+    trigger_id: 57100001&&1
+    target_id: "57107001"
+    special_spot_add: 571000:1
+    subsidiary_mission_skill: "571000"
+  }
+  {
+    id: 571007
+    name: 7~1
+    description: mission_skill_config-20571007
+    lvup_description: mission_skill_config-30571007
+    skill_group_id: 571007
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 5
+    trigger_id: 57100001&&1
+    target_id: "57101001"
+    special_spot_add: 571000:1
+    subsidiary_mission_skill: "571000"
+  }
+  {
+    id: 571008
+    name: CD
+    description: mission_skill_config-20571008
+    lvup_description: mission_skill_config-30571008
+    skill_group_id: 571008
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 571008:1
+  }
+  {
+    id: 571010
+    name: 라이벌 1号
+    description: mission_skill_config-20571010
+    lvup_description: mission_skill_config-30571010
+    skill_group_id: 571010
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 571010:1
+    mission_buff_add: 571000:1
+  }
+  {
+    id: 571011
+    name: 총알은 사슬을 꿰뚫고
+    description: 퍼포먼스를 한 번 한다. 긴장한 상태에서 득점이 감소하지 않고 오히려 50% 상승한다.
+    lvup_description: mission_skill_config-30571011
+    skill_group_id: 571011
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000100&&57000200&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570091,570291,570311,571008,572001"
+  }
+  {
+    id: 571012
+    name: 총알은 사슬을 꿰뚫고
+    description: 퍼포먼스를 한 번 한다. 긴장한 상태에서 득점이 감소하지 않고 오히려 50% 상승한다.
+    lvup_description: mission_skill_config-30571012
+    skill_group_id: 571012
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000101&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570001,570092,570292,570312,571008,572001"
+  }
+  {
+    id: 571013
+    name: 총알은 사슬을 꿰뚫고
+    description: 퍼포먼스를 한 번 한다. 긴장한 상태에서 득점이 감소하지 않고 오히려 50% 상승한다.
+    lvup_description: mission_skill_config-30571013
+    skill_group_id: 571013
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000201&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570002,570092,570292,570313,571008,572009"
+  }
+  {
+    id: 571014
+    name: HK21퍼포먼스紧张
+    description: mission_skill_config-20571014
+    lvup_description: mission_skill_config-30571014
+    skill_group_id: 571014
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    target_id: "1"
+  }
+  {
+    id: 571020
+    name: 라이벌 2号
+    description: mission_skill_config-20571020
+    lvup_description: mission_skill_config-30571020
+    skill_group_id: 571020
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 571020:1
+  }
+  {
+    id: 571021
+    name: 이별의 연주
+    description: 거리 3칸 안의 텐션이 높아진 라이벌의 버프를 해제하고 긴장에 빠뜨린다.
+    lvup_description: mission_skill_config-30571021
+    skill_group_id: 571021
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000100&&57000200&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570091,570291,571024,570311,571008,572002"
+  }
+  {
+    id: 571022
+    name: 이별의 연주
+    description: 거리 3칸 안의 텐션이 높아진 라이벌의 버프를 해제하고 긴장에 빠뜨린다.
+    lvup_description: mission_skill_config-30571022
+    skill_group_id: 571022
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000101&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570001,570092,570292,571024,570312,571008,572002"
+  }
+  {
+    id: 571023
+    name: 이별의 연주
+    description: 거리 3칸 안의 텐션이 높아진 라이벌의 버프를 해제하고 긴장에 빠뜨린다.
+    lvup_description: mission_skill_config-30571023
+    skill_group_id: 571023
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000201&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570002,570093,570293,571024,570313,571008,572002"
+  }
+  {
+    id: 571024
+    name: JS05퍼포먼스紧张
+    description: mission_skill_config-20571024
+    lvup_description: mission_skill_config-30571024
+    skill_group_id: 571024
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "301"
+    cd_time_type: 1
+    start_range: 3
+    target_id: "57000101"
+    mission_buff_add: 570002:1
+    mission_buff_minus: 570001:1
+  }
+  {
+    id: 571030
+    name: 라이벌 3号
+    description: mission_skill_config-20571030
+    lvup_description: mission_skill_config-30571030
+    skill_group_id: 571030
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 571030:1
+  }
+  {
+    id: 571031
+    name: 창공을 나는 법
+    description: 퍼포먼스를 한 번 한다. 그리고 자신은 텐션이 상승한다.
+    lvup_description: mission_skill_config-30571031
+    skill_group_id: 571031
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000100&&57000200&&57100001&&1
+    target_id: "1"
+    mission_buff_add: 570001:1
+    subsidiary_mission_skill: "570091,570291,570311,571008,572003"
+  }
+  {
+    id: 571032
+    name: 창공을 나는 법
+    description: 퍼포먼스를 한 번 한다. 그리고 자신은 텐션이 상승한다.
+    lvup_description: mission_skill_config-30571032
+    skill_group_id: 571032
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000101&&57100001&&1
+    target_id: "1"
+    mission_buff_add: 570001:1
+    subsidiary_mission_skill: "570001,570092,570292,570312,571008,572003"
+  }
+  {
+    id: 571033
+    name: 창공을 나는 법
+    description: 퍼포먼스를 한 번 한다. 그리고 자신은 텐션이 상승한다.
+    lvup_description: mission_skill_config-30571033
+    skill_group_id: 571033
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000201&&57100001&&1
+    target_id: "1"
+    mission_buff_add: 570001:1
+    subsidiary_mission_skill: "570002,570093,570293,570313,571008,572003"
+  }
+  {
+    id: 571040
+    name: 라이벌 4号
+    description: mission_skill_config-20571040
+    lvup_description: mission_skill_config-30571040
+    skill_group_id: 571040
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 571040:1
+  }
+  {
+    id: 571041
+    name: 플레이그 나이트
+    description: 퍼포먼스를 한 번 한다. 텐션이 높을 때 득점이 100% 상승한다.
+    lvup_description: mission_skill_config-30571041
+    skill_group_id: 571041
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000100&&57000200&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570091,570291,570311,571008,572004"
+  }
+  {
+    id: 571042
+    name: 플레이그 나이트
+    description: 퍼포먼스를 한 번 한다. 텐션이 높을 때 득점이 100% 상승한다.
+    lvup_description: mission_skill_config-30571042
+    skill_group_id: 571042
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000101&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570001,570094,570294,570312,571008,572010"
+  }
+  {
+    id: 571043
+    name: 플레이그 나이트
+    description: 퍼포먼스를 한 번 한다. 텐션이 높을 때 득점이 100% 상승한다.
+    lvup_description: mission_skill_config-30571043
+    skill_group_id: 571043
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000201&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570002,570093,570293,570313,571008,572004"
+  }
+  {
+    id: 571050
+    name: 라이벌 5号
+    description: mission_skill_config-20571050
+    lvup_description: mission_skill_config-30571050
+    skill_group_id: 571050
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 571050:1
+  }
+  {
+    id: 571051
+    name: 위쳐 제네럴
+    description: 퍼포먼스를 한 번 한다. 그리고 거리 2칸 이내의 라이벌을 긴장에 빠드린다.
+    lvup_description: mission_skill_config-30571051
+    skill_group_id: 571051
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000100&&57000200&&57100001&&1
+    subsidiary_mission_skill: "570091,570291,570311,571054,571008,572005"
+  }
+  {
+    id: 571052
+    name: 위쳐 제네럴
+    description: 퍼포먼스를 한 번 한다. 그리고 거리 2칸 이내의 라이벌을 긴장에 빠드린다.
+    lvup_description: mission_skill_config-30571052
+    skill_group_id: 571052
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000101&&57100001&&1
+    subsidiary_mission_skill: "570001,570092,570292,570312,571054,571008,572005"
+  }
+  {
+    id: 571053
+    name: 위쳐 제네럴
+    description: 퍼포먼스를 한 번 한다. 그리고 거리 2칸 이내의 라이벌을 긴장에 빠드린다.
+    lvup_description: mission_skill_config-30571053
+    skill_group_id: 571053
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000201&&57100001&&1
+    subsidiary_mission_skill: "570002,570093,570293,570313,571054,571008,572005"
+  }
+  {
+    id: 571054
+    name: M1887퍼포먼스紧张
+    description: mission_skill_config-20571054
+    lvup_description: mission_skill_config-30571054
+    skill_group_id: 571054
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "301"
+    cd_time_type: 1
+    start_range: 2
+    mission_buff_add: 570002:1
+    mission_buff_minus: 570001:1
+  }
+  {
+    id: 571060
+    name: 라이벌 6号
+    description: mission_skill_config-20571060
+    lvup_description: mission_skill_config-30571060
+    skill_group_id: 571060
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 571060:1
+  }
+  {
+    id: 571061
+    name: 스틸 버터플라이
+    description: 퍼포먼스를 한 번 한다. 그리고 거리 2칸 이내의 긴장하지 않은 동료의 텐션을 높인다.
+    lvup_description: mission_skill_config-30571061
+    skill_group_id: 571061
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000100&&57000200&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570091,570291,571064,570311,571008,572006"
+  }
+  {
+    id: 571062
+    name: 스틸 버터플라이
+    description: 퍼포먼스를 한 번 한다. 그리고 거리 2칸 이내의 긴장하지 않은 동료의 텐션을 높인다.
+    lvup_description: mission_skill_config-30571062
+    skill_group_id: 571062
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000101&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570001,570092,570292,571064,570312,571008,572006"
+  }
+  {
+    id: 571063
+    name: 스틸 버터플라이
+    description: 퍼포먼스를 한 번 한다. 그리고 거리 2칸 이내의 긴장하지 않은 동료의 텐션을 높인다.
+    lvup_description: mission_skill_config-30571063
+    skill_group_id: 571063
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000201&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570002,570093,570293,571064,570313,571008,572006"
+  }
+  {
+    id: 571064
+    name: 80式퍼포먼스兴奋
+    description: 퍼포먼스를 한 번 한다. 그리고 거리 2칸 이내의 긴장하지 않은 동료의 텐션을 높인다.
+    lvup_description: mission_skill_config-30571064
+    skill_group_id: 571064
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 2
+    target_id: "57000200"
+    mission_buff_add: 570001:1
+  }
+  {
+    id: 571070
+    name: 라이벌 7号
+    description: mission_skill_config-20571070
+    lvup_description: mission_skill_config-30571070
+    skill_group_id: 571070
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 571070:1
+  }
+  {
+    id: 571071
+    name: 일렉트릭 위치
+    description: 퍼포먼스를 한 번 한다. 피버 상태일 경우 점수를 추가로 50% 더 얻는다.
+    lvup_description: mission_skill_config-30571071
+    skill_group_id: 571071
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000100&&57000200&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570091,570291,570311,571008,572007"
+  }
+  {
+    id: 571072
+    name: 일렉트릭 위치
+    description: 퍼포먼스를 한 번 한다. 피버 상태일 경우 점수를 추가로 50% 더 얻는다.
+    lvup_description: mission_skill_config-30571072
+    skill_group_id: 571072
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000101&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570001,570092,570292,570312,571008,572007"
+  }
+  {
+    id: 571073
+    name: 일렉트릭 위치
+    description: 퍼포먼스를 한 번 한다. 피버 상태일 경우 점수를 추가로 50% 더 얻는다.
+    lvup_description: mission_skill_config-30571073
+    skill_group_id: 571073
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000201&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570002,570093,570293,570313,571008,572007"
+  }
+  {
+    id: 571080
+    name: 라이벌 8号
+    description: mission_skill_config-20571080
+    lvup_description: mission_skill_config-30571080
+    skill_group_id: 571080
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 571080:1
+    mission_buff_add: 571000:1
+  }
+  {
+    id: 571081
+    name: 용가리 주니어
+    description: 턴마다 퍼포먼스를 한 번 한다. 컨디션의 영향을 무시한다.
+    lvup_description: mission_skill_config-30571081
+    skill_group_id: 571081
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000100&&57000200&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570091,570291,571008,572008"
+  }
+  {
+    id: 571082
+    name: 용가리 주니어
+    description: 턴마다 퍼포먼스를 한 번 한다. 컨디션의 영향을 무시한다.
+    lvup_description: mission_skill_config-30571082
+    skill_group_id: 571082
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000101&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570001,570091,570291,571008,572008"
+  }
+  {
+    id: 571083
+    name: 용가리 주니어
+    description: 턴마다 퍼포먼스를 한 번 한다. 컨디션의 영향을 무시한다.
+    lvup_description: mission_skill_config-30571083
+    skill_group_id: 571083
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000000&&57000201&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570002,570091,570291,571008,572008"
+  }
+  {
+    id: 571111
+    name: 총알은 사슬을 꿰뚫고
+    description: 퍼포먼스를 한 번 한다. 긴장한 상태에서 득점이 감소하지 않고 오히려 50% 상승한다.
+    lvup_description: mission_skill_config-30571111
+    skill_group_id: 571111
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000100&&57000200&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570094,570294,570311,571008,572001"
+  }
+  {
+    id: 571112
+    name: 총알은 사슬을 꿰뚫고
+    description: 퍼포먼스를 한 번 한다. 긴장한 상태에서 득점이 감소하지 않고 오히려 50% 상승한다.
+    lvup_description: mission_skill_config-30571112
+    skill_group_id: 571112
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000101&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570001,570095,570295,570312,571008,572001"
+  }
+  {
+    id: 571113
+    name: 총알은 사슬을 꿰뚫고
+    description: 퍼포먼스를 한 번 한다. 긴장한 상태에서 득점이 감소하지 않고 오히려 50% 상승한다.
+    lvup_description: mission_skill_config-30571113
+    skill_group_id: 571113
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000201&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570002,570095,570295,570313,571008,572009"
+  }
+  {
+    id: 571121
+    name: 이별의 연주
+    description: 거리 3칸 안의 텐션이 높아진 라이벌의 버프를 해제하고 긴장에 빠뜨린다.
+    lvup_description: mission_skill_config-30571121
+    skill_group_id: 571121
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000100&&57000200&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570094,570294,571024,570311,571008,572002"
+  }
+  {
+    id: 571122
+    name: 이별의 연주
+    description: 거리 3칸 안의 텐션이 높아진 라이벌의 버프를 해제하고 긴장에 빠뜨린다.
+    lvup_description: mission_skill_config-30571122
+    skill_group_id: 571122
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000101&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570001,570095,570295,571024,570312,571008,572002"
+  }
+  {
+    id: 571123
+    name: 이별의 연주
+    description: 거리 3칸 안의 텐션이 높아진 라이벌의 버프를 해제하고 긴장에 빠뜨린다.
+    lvup_description: mission_skill_config-30571123
+    skill_group_id: 571123
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000201&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570002,570091,570291,571024,570313,571008,572002"
+  }
+  {
+    id: 571131
+    name: 창공을 나는 법
+    description: 퍼포먼스를 한 번 한다. 그리고 자신은 텐션이 상승한다.
+    lvup_description: mission_skill_config-30571131
+    skill_group_id: 571131
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000100&&57000200&&57100001&&1
+    target_id: "1"
+    mission_buff_add: 570001:1
+    subsidiary_mission_skill: "570094,570294,570311,571008,572003"
+  }
+  {
+    id: 571132
+    name: 창공을 나는 법
+    description: 퍼포먼스를 한 번 한다. 그리고 자신은 텐션이 상승한다.
+    lvup_description: mission_skill_config-30571132
+    skill_group_id: 571132
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000101&&57100001&&1
+    target_id: "1"
+    mission_buff_add: 570001:1
+    subsidiary_mission_skill: "570001,570095,570295,570312,571008,572003"
+  }
+  {
+    id: 571133
+    name: 창공을 나는 법
+    description: 퍼포먼스를 한 번 한다. 그리고 자신은 텐션이 상승한다.
+    lvup_description: mission_skill_config-30571133
+    skill_group_id: 571133
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000201&&57100001&&1
+    target_id: "1"
+    mission_buff_add: 570001:1
+    subsidiary_mission_skill: "570002,570091,570291,570313,571008,572003"
+  }
+  {
+    id: 571141
+    name: 플레이그 나이트
+    description: 퍼포먼스를 한 번 한다. 텐션이 높을 때 득점이 100% 상승한다.
+    lvup_description: mission_skill_config-30571141
+    skill_group_id: 571141
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000100&&57000200&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570094,570294,570311,571008,572004"
+  }
+  {
+    id: 571142
+    name: 플레이그 나이트
+    description: 퍼포먼스를 한 번 한다. 텐션이 높을 때 득점이 100% 상승한다.
+    lvup_description: mission_skill_config-30571142
+    skill_group_id: 571142
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000101&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570001,570097,570297,570312,571008,572010"
+  }
+  {
+    id: 571143
+    name: 플레이그 나이트
+    description: 퍼포먼스를 한 번 한다. 텐션이 높을 때 득점이 100% 상승한다.
+    lvup_description: mission_skill_config-30571143
+    skill_group_id: 571143
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000201&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570002,570091,570291,570313,571008,572004"
+  }
+  {
+    id: 571151
+    name: 위쳐 제네럴
+    description: 퍼포먼스를 한 번 한다. 그리고 거리 2칸 이내의 라이벌을 긴장에 빠드린다.
+    lvup_description: mission_skill_config-30571151
+    skill_group_id: 571151
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000100&&57000200&&57100001&&1
+    subsidiary_mission_skill: "570094,570294,570311,571054,571008,572005"
+  }
+  {
+    id: 571152
+    name: 위쳐 제네럴
+    description: 퍼포먼스를 한 번 한다. 그리고 거리 2칸 이내의 라이벌을 긴장에 빠드린다.
+    lvup_description: mission_skill_config-30571152
+    skill_group_id: 571152
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000101&&57100001&&1
+    subsidiary_mission_skill: "570001,570095,570295,570312,571054,571008,572005"
+  }
+  {
+    id: 571153
+    name: 위쳐 제네럴
+    description: 퍼포먼스를 한 번 한다. 그리고 거리 2칸 이내의 라이벌을 긴장에 빠드린다.
+    lvup_description: mission_skill_config-30571153
+    skill_group_id: 571153
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000201&&57100001&&1
+    subsidiary_mission_skill: "570002,570091,570291,570313,571054,571008,572005"
+  }
+  {
+    id: 571161
+    name: 스틸 버터플라이
+    description: 퍼포먼스를 한 번 한다. 그리고 거리 2칸 이내의 긴장하지 않은 동료의 텐션을 높인다.
+    lvup_description: mission_skill_config-30571161
+    skill_group_id: 571161
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000100&&57000200&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570094,570294,571064,570311,571008,572006"
+  }
+  {
+    id: 571162
+    name: 스틸 버터플라이
+    description: 퍼포먼스를 한 번 한다. 그리고 거리 2칸 이내의 긴장하지 않은 동료의 텐션을 높인다.
+    lvup_description: mission_skill_config-30571162
+    skill_group_id: 571162
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000101&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570001,570095,570295,571064,570312,571008,572006"
+  }
+  {
+    id: 571163
+    name: 스틸 버터플라이
+    description: 퍼포먼스를 한 번 한다. 그리고 거리 2칸 이내의 긴장하지 않은 동료의 텐션을 높인다.
+    lvup_description: mission_skill_config-30571163
+    skill_group_id: 571163
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000201&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570002,570091,570291,571064,570313,571008,572006"
+  }
+  {
+    id: 571171
+    name: 일렉트릭 위치
+    description: 퍼포먼스를 한 번 한다. 피버 상태일 경우 점수를 추가로 50% 더 얻는다.
+    lvup_description: mission_skill_config-30571171
+    skill_group_id: 571171
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000100&&57000200&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570095,570295,570311,571008,572011"
+  }
+  {
+    id: 571172
+    name: 일렉트릭 위치
+    description: 퍼포먼스를 한 번 한다. 피버 상태일 경우 점수를 추가로 50% 더 얻는다.
+    lvup_description: mission_skill_config-30571172
+    skill_group_id: 571172
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000101&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570001,570096,570296,570312,571008,572011"
+  }
+  {
+    id: 571173
+    name: 일렉트릭 위치
+    description: 퍼포먼스를 한 번 한다. 피버 상태일 경우 점수를 추가로 50% 더 얻는다.
+    lvup_description: mission_skill_config-30571173
+    skill_group_id: 571173
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000201&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570002,570092,570292,570313,571008,572011"
+  }
+  {
+    id: 571181
+    name: 용가리 주니어
+    description: 턴마다 퍼포먼스를 한 번 한다. 컨디션의 영향을 무시한다.
+    lvup_description: mission_skill_config-30571181
+    skill_group_id: 571181
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000100&&57000200&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570094,570294,571008,572008"
+  }
+  {
+    id: 571182
+    name: 용가리 주니어
+    description: 턴마다 퍼포먼스를 한 번 한다. 컨디션의 영향을 무시한다.
+    lvup_description: mission_skill_config-30571182
+    skill_group_id: 571182
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000101&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570001,570094,570294,571008,572008"
+  }
+  {
+    id: 571183
+    name: 용가리 주니어
+    description: 턴마다 퍼포먼스를 한 번 한다. 컨디션의 영향을 무시한다.
+    lvup_description: mission_skill_config-30571183
+    skill_group_id: 571183
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 57100800&&57000001&&57000201&&57100001&&1
+    target_id: "1"
+    subsidiary_mission_skill: "570002,570094,570294,571008,572008"
+  }
+  {
+    id: 572001
+    name: "[avg]-57-EXT-7-41"
+    description: mission_skill_config-20572001
+    lvup_description: mission_skill_config-30572001
+    skill_group_id: 572001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100900"
+    target_id: "1"
+    special_spot_add: 572001:1
+  }
+  {
+    id: 572002
+    name: "[avg]-57-EXT-7-42"
+    description: mission_skill_config-20572002
+    lvup_description: mission_skill_config-30572002
+    skill_group_id: 572002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100900"
+    target_id: "1"
+    special_spot_add: 572002:1
+  }
+  {
+    id: 572003
+    name: "[avg]-57-EXT-7-43"
+    description: mission_skill_config-20572003
+    lvup_description: mission_skill_config-30572003
+    skill_group_id: 572003
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100900"
+    target_id: "1"
+    special_spot_add: 572003:1
+  }
+  {
+    id: 572004
+    name: "[avg]-57-EXT-7-44"
+    description: mission_skill_config-20572004
+    lvup_description: mission_skill_config-30572004
+    skill_group_id: 572004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100900"
+    target_id: "1"
+    special_spot_add: 572004:1
+  }
+  {
+    id: 572005
+    name: "[avg]-57-EXT-7-45"
+    description: mission_skill_config-20572005
+    lvup_description: mission_skill_config-30572005
+    skill_group_id: 572005
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100900"
+    target_id: "1"
+    special_spot_add: 572005:1
+  }
+  {
+    id: 572006
+    name: "[avg]-57-EXT-7-46"
+    description: mission_skill_config-20572006
+    lvup_description: mission_skill_config-30572006
+    skill_group_id: 572006
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100900"
+    target_id: "1"
+    special_spot_add: 572006:1
+  }
+  {
+    id: 572007
+    name: "[avg]-57-EXT-7-47"
+    description: mission_skill_config-20572007
+    lvup_description: mission_skill_config-30572007
+    skill_group_id: 572007
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100900"
+    target_id: "1"
+    special_spot_add: 572007:1
+  }
+  {
+    id: 572008
+    name: "[avg]-57-EXT-7-48"
+    description: mission_skill_config-20572008
+    lvup_description: mission_skill_config-30572008
+    skill_group_id: 572008
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100900"
+    target_id: "1"
+    special_spot_add: 572008:1
+  }
+  {
+    id: 572009
+    name: "[avg]-57-EXT-7-51"
+    description: mission_skill_config-20572009
+    lvup_description: mission_skill_config-30572009
+    skill_group_id: 572009
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100900"
+    target_id: "1"
+    special_spot_add: 572009:1
+  }
+  {
+    id: 572010
+    name: "[avg]-57-EXT-7-54"
+    description: mission_skill_config-20572010
+    lvup_description: mission_skill_config-30572010
+    skill_group_id: 572010
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100900"
+    target_id: "1"
+    special_spot_add: 572010:1
+  }
+  {
+    id: 572011
+    name: "[avg]-57-EXT-7-57"
+    description: mission_skill_config-20572011
+    lvup_description: mission_skill_config-30572011
+    skill_group_id: 572011
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100900"
+    target_id: "1"
+    special_spot_add: 572011:1
+  }
+  {
+    id: 572012
+    name: "[avg]-57-EXT-7-00"
+    description: mission_skill_config-20572012
+    lvup_description: mission_skill_config-30572012
+    skill_group_id: 572012
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: 57201300&&57000501
+    special_spot_add: 572012:1
+  }
+  {
+    id: 572021
+    name: mission_skill_config-10572021
+    description: mission_skill_config-20572021
+    lvup_description: mission_skill_config-30572021
+    skill_group_id: 572021
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 572021:1
+  }
+  {
+    id: 572022
+    name: mission_skill_config-10572022
+    description: mission_skill_config-20572022
+    lvup_description: mission_skill_config-30572022
+    skill_group_id: 572022
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 572022:1
+  }
+  {
+    id: 572023
+    name: mission_skill_config-10572023
+    description: mission_skill_config-20572023
+    lvup_description: mission_skill_config-30572023
+    skill_group_id: 572023
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 572023:1
+  }
+  {
+    id: 572024
+    name: mission_skill_config-10572024
+    description: mission_skill_config-20572024
+    lvup_description: mission_skill_config-30572024
+    skill_group_id: 572024
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 572024:1
+  }
+  {
+    id: 572025
+    name: mission_skill_config-10572025
+    description: mission_skill_config-20572025
+    lvup_description: mission_skill_config-30572025
+    skill_group_id: 572025
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 572025:1
+  }
+  {
+    id: 572026
+    name: mission_skill_config-10572026
+    description: mission_skill_config-20572026
+    lvup_description: mission_skill_config-30572026
+    skill_group_id: 572026
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 572026:1
+  }
+  {
+    id: 572027
+    name: mission_skill_config-10572027
+    description: mission_skill_config-20572027
+    lvup_description: mission_skill_config-30572027
+    skill_group_id: 572027
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 572027:1
+  }
+  {
+    id: 572028
+    name: mission_skill_config-10572028
+    description: mission_skill_config-20572028
+    lvup_description: mission_skill_config-30572028
+    skill_group_id: 572028
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 572028:1
+  }
+  {
+    id: 572029
+    name: mission_skill_config-10572029
+    description: mission_skill_config-20572029
+    lvup_description: mission_skill_config-30572029
+    skill_group_id: 572029
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 572029:1
+  }
+  {
+    id: 572030
+    name: mission_skill_config-10572030
+    description: mission_skill_config-20572030
+    lvup_description: mission_skill_config-30572030
+    skill_group_id: 572030
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 572030:1
+  }
+  {
+    id: 572031
+    name: mission_skill_config-10572031
+    description: mission_skill_config-20572031
+    lvup_description: mission_skill_config-30572031
+    skill_group_id: 572031
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 572031:1
+  }
+  {
+    id: 572041
+    name: 지휘관
+    description: 양쪽의 퍼포먼스 효과를 봅니다
+    lvup_description: mission_skill_config-30572041
+    skill_group_id: 572041
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    is_manual: 572041
+  }
+  {
+    id: 572042
+    name: 지휘관
+    description: 우리의 퍼포먼스 효과를 봅니다
+    lvup_description: mission_skill_config-30572042
+    skill_group_id: 572042
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    is_manual: 572042
+  }
+  {
+    id: 572043
+    name: 지휘관
+    description: 상대의 퍼포먼스 효과를 봅니다
+    lvup_description: mission_skill_config-30572043
+    skill_group_id: 572043
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    is_manual: 572043
+  }
+  {
+    id: 573001
+    name: "[avg]-57-EXT-7-61"
+    description: mission_skill_config-20573001
+    lvup_description: mission_skill_config-30573001
+    skill_group_id: 573001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100901"
+    target_id: "1"
+    special_spot_add: 573001:1
+  }
+  {
+    id: 573002
+    name: "[avg]-57-EXT-7-62"
+    description: mission_skill_config-20573002
+    lvup_description: mission_skill_config-30573002
+    skill_group_id: 573002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100901"
+    target_id: "1"
+    special_spot_add: 573002:1
+  }
+  {
+    id: 573003
+    name: "[avg]-57-EXT-7-63"
+    description: mission_skill_config-20573003
+    lvup_description: mission_skill_config-30573003
+    skill_group_id: 573003
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100901"
+    target_id: "1"
+    special_spot_add: 573003:1
+  }
+  {
+    id: 573004
+    name: "[avg]-57-EXT-7-64"
+    description: mission_skill_config-20573004
+    lvup_description: mission_skill_config-30573004
+    skill_group_id: 573004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100901"
+    target_id: "1"
+    special_spot_add: 573004:1
+  }
+  {
+    id: 573005
+    name: "[avg]-57-EXT-7-65"
+    description: mission_skill_config-20573005
+    lvup_description: mission_skill_config-30573005
+    skill_group_id: 573005
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100901"
+    target_id: "1"
+    special_spot_add: 573005:1
+  }
+  {
+    id: 573006
+    name: "[avg]-57-EXT-7-66"
+    description: mission_skill_config-20573006
+    lvup_description: mission_skill_config-30573006
+    skill_group_id: 573006
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100901"
+    target_id: "1"
+    special_spot_add: 573006:1
+  }
+  {
+    id: 573007
+    name: "[avg]-57-EXT-7-67"
+    description: mission_skill_config-20573007
+    lvup_description: mission_skill_config-30573007
+    skill_group_id: 573007
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100901"
+    target_id: "1"
+    special_spot_add: 573007:1
+  }
+  {
+    id: 573008
+    name: "[avg]-57-EXT-7-68"
+    description: mission_skill_config-20573008
+    lvup_description: mission_skill_config-30573008
+    skill_group_id: 573008
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100901"
+    target_id: "1"
+    special_spot_add: 573008:1
+  }
+  {
+    id: 573009
+    name: "[avg]-57-EXT-7-71"
+    description: mission_skill_config-20573009
+    lvup_description: mission_skill_config-30573009
+    skill_group_id: 573009
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100901"
+    target_id: "1"
+    special_spot_add: 573009:1
+  }
+  {
+    id: 573010
+    name: "[avg]-57-EXT-7-74"
+    description: mission_skill_config-20573010
+    lvup_description: mission_skill_config-30573010
+    skill_group_id: 573010
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100901"
+    target_id: "1"
+    special_spot_add: 573010:1
+  }
+  {
+    id: 573011
+    name: "[avg]-57-EXT-7-77"
+    description: mission_skill_config-20573011
+    lvup_description: mission_skill_config-30573011
+    skill_group_id: 573011
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "57100901"
+    target_id: "1"
+    special_spot_add: 573011:1
+  }
+  {
+    id: 573012
+    name: "[avg]-57-EXT-7-01"
+    description: mission_skill_config-20573012
+    lvup_description: mission_skill_config-30573012
+    skill_group_id: 573012
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: 57201301&&57000501
+    special_spot_add: 573012:1
+  }
+  {
+    id: 574001
+    name: Fever计数 초기화
+    description: mission_skill_config-20574001
+    lvup_description: mission_skill_config-30574001
+    skill_group_id: 574001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    target_id: "1"
+    special_spot_add: 570005:1,570091:16
+    subsidiary_mission_skill: "574003"
+    drop_item: 9030:-50000
+  }
+  {
+    id: 574002
+    name: Fever计数 초기화2
+    description: mission_skill_config-20574002
+    lvup_description: mission_skill_config-30574002
+    skill_group_id: 574002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    target_id: "1"
+    special_spot_add: 570006:1,570191:20
+    subsidiary_mission_skill: "574004"
+    drop_item: 9031:-50000
+  }
+  {
+    id: 574003
+    name: Fever计数 초기화3
+    description: mission_skill_config-20574003
+    lvup_description: mission_skill_config-30574003
+    skill_group_id: 574003
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    target_id: "1"
+    drop_item: 9030:4000
+  }
+  {
+    id: 574004
+    name: Fever计数 초기화4
+    description: mission_skill_config-20574004
+    lvup_description: mission_skill_config-30574004
+    skill_group_id: 574004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    target_id: "1"
+    drop_item: 9031:4000
+  }
+  {
+    id: 575001
+    name: 결산
+    description: mission_skill_config-20575001
+    lvup_description: mission_skill_config-30575001
+    skill_group_id: 575001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 3
+    target_id: "1"
+    special_spot_add: 575001:1
+  }
+  {
+    id: 575002
+    name: 전투승리
+    description: mission_skill_config-20575002
+    lvup_description: mission_skill_config-30575002
+    skill_group_id: 575002
+    level: 1
+    spot_type: "3"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 3
+    special_spot_add: 575002:1
   }
   {
     id: 590001
@@ -33811,7 +37496,7 @@
     code: "1"
     description:
       '''
-      "전기의 실용화는 인류의 2차 산업혁명을 추진했다."
+      전기의 실용화는 인류의 2차 산업혁명을 추진했다.
       변전소를 가동해 일부 시설에 전기를 공급할 수 있습니다.
       '''
     lvup_description: mission_skill_config-32000012
@@ -33827,7 +37512,7 @@
     code: "1"
     description:
       '''
-      "9, 그거 알아? 전자제품은 불을 안 붙여도 불꽃놀이를 보여줄 수 있어."
+      9, 그거 알아? 전자제품은 불을 안 붙여도 불꽃놀이를 보여줄 수 있어.
        주변의 적을 마비시키고 연결된 변전소를 과부하시킵니다.
       '''
     lvup_description: mission_skill_config-32000013
@@ -33843,7 +37528,7 @@
     code: "1"
     description:
       '''
-      "진정한 인형은 폭발을 뒤돌아보지 않지!"
+      진정한 인형은 폭발을 뒤돌아보지 않지!
       기폭장치를 가동해 폐건물에 매설한 폭탄을 터뜨립니다.
       '''
     lvup_description: mission_skill_config-32000014
@@ -33859,7 +37544,7 @@
     code: "1"
     description:
       '''
-      "안에 있으면 나가고 싶고, 나가면 들어오고 싶다."
+      안에 있으면 나가고 싶고, 나가면 들어오고 싶다.
       버려진 지 오래되어 보이는 건물입니다. 어느 정도 엄폐를 제공할 수 있습니다.
       '''
     lvup_description: mission_skill_config-32000015
@@ -33875,7 +37560,7 @@
     code: "1"
     description:
       '''
-      "500년이나 지났다..."
+      500년이나 지났다...
        건물의 잔해가 길을 막았습니다. 중화기로 치울 수 있어보입니다.
       '''
     lvup_description: mission_skill_config-32000016
@@ -33920,7 +37605,7 @@
     name: 【표식】护盾发生器描述
     description:
       '''
-      "나는 지원을 멈추지 않는다, 내가 멈추지 않는 이상 희생은 늘어나지 않는다."
+      나는 지원을 멈추지 않는다, 내가 멈추지 않는 이상 희생은 늘어나지 않는다.
       전투 중 주기적으로 아군에게 보호막을 생성합니다.
       '''
     lvup_description: mission_skill_config-32000019
@@ -33935,7 +37620,7 @@
     name: 【표식】枪支 부품箱描述
     description:
       '''
-      "상하차에 중독된 종업자는 배달을 끝내고 또 화물을 탈취해 다시 배달합니다."
+      상하차에 중독된 종업자는 배달을 끝내고 또 화물을 탈취해 다시 배달합니다.
       부품을 모으면 작업대에서 총기를 조립할 수 있습니다.
       '''
     lvup_description: mission_skill_config-32000021
@@ -33950,7 +37635,7 @@
     name: 【표식】엘리베이터通用描述
     description:
       '''
-      "올라가다 멈추고, 내려가다 멈춘다."
+      올라가다 멈추고, 내려가다 멈춘다.
       다른 층으로 이동할 수 있습니다.
       '''
     lvup_description: mission_skill_config-32000022
@@ -33981,7 +37666,7 @@
     name: 【标记】防毒面具箱子
     description:
       '''
-      "작업대"
+      작업대
       방독면을 만들 수 있습니다.
       '''
     lvup_description: mission_skill_config-32000024
@@ -35342,6 +39027,25 @@
     special_spot_add: 1000010:1,1040100:1
   }
   {
+    id: 5706101
+    name: 작전 종료
+    code: "1"
+    description: 휴식한다
+    lvup_description: mission_skill_config-35706101
+    skill_group_id: 5706101
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "570610"
+    target_id: "570610"
+    special_spot_add: 570612:1
+    special_spot_minus: 570605:1
+    subsidiary_mission_skill: "570620,570621"
+    is_manual: 570610
+  }
+  {
     id: 6000001
     name: 【标记】胜利标记
     code: "1"
@@ -35871,6 +39575,50 @@
     start_range: 7
     target_id: "603014101"
     special_spot_add: 6030144:1
+  }
+  {
+    id: 6040401
+    name: 【标记】제어콘솔 초기화
+    code: "1"
+    description: mission_skill_config-26040401
+    lvup_description: mission_skill_config-36040401
+    skill_group_id: 6040401
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    special_spot_add: 6040401:1
+  }
+  {
+    id: 6040402
+    name: 【标记】爆炸点 초기화
+    code: "1"
+    description: mission_skill_config-26040402
+    lvup_description: mission_skill_config-36040402
+    skill_group_id: 6040402
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    target_id: "1"
+    special_spot_add: 6040402:1
+  }
+  {
+    id: 6040403
+    name: 전장효과 획득
+    code: "1"
+    description: 전장효과: 화력전개 획득
+    lvup_description: mission_skill_config-36040403
+    skill_group_id: 6040403
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    trigger_id: "604040131"
+    target_id: "1"
+    special_spot_minus: 6040401:1
+    is_manual: 6000011
   }
   {
     id: 6350001
@@ -53374,7 +57122,7 @@
     name: 【표식】护盾发生器描述
     description:
       '''
-      "나는 지원을 멈추지 않는다, 내가 멈추지 않는 이상 희생은 늘어나지 않는다."
+      나는 지원을 멈추지 않는다, 내가 멈추지 않는 이상 희생은 늘어나지 않는다.
       전투 중 주기적으로 아군에게 보호막을 생성합니다.
       '''
     lvup_description: mission_skill_config-39130116

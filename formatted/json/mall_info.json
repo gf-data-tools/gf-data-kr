@@ -15540,6 +15540,188 @@
     "prize_id": "0", "pay_type": "0", "itemprice": "0", "on_sale_days": "0", "price_up": "0", "classification_id": "3002", 
     "description": "", "special_daily_quota": "0"
   }, {
+    "id": "11206", "type": "8", "sort": "0", "item_ids": "", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", "part": "0", 
+    "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", "if_cheap": "0", 
+    "quota": "2001", "giftbag_name": "미나모토 사쿠라", "event_code": "dailyGiftbag", "icon": "", "daily_quota": "0", 
+    "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", "prize_id": "7499", 
+    "pay_type": "1", "itemprice": "100175-120", "on_sale_days": "0", "price_up": "0", "classification_id": "1004", 
+    "description": "", "special_daily_quota": "0"
+  }, {
+    "id": "11207", "type": "8", "sort": "0", "item_ids": "", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", "part": "0", 
+    "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", "if_cheap": "0", 
+    "quota": "2001", "giftbag_name": "니카이도 사키", "event_code": "dailyGiftbag", "icon": "", "daily_quota": "0", 
+    "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", "prize_id": "7500", 
+    "pay_type": "1", "itemprice": "100175-120", "on_sale_days": "0", "price_up": "0", "classification_id": "1004", 
+    "description": "", "special_daily_quota": "0"
+  }, {
+    "id": "11208", "type": "8", "sort": "0", "item_ids": "", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", "part": "0", 
+    "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", "if_cheap": "0", 
+    "quota": "2001", "giftbag_name": "메가폰", "event_code": "dailyGiftbag", "icon": "", "daily_quota": "0", "tips": "", 
+    "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", "prize_id": "7501", "pay_type": "1", 
+    "itemprice": "100175-70", "on_sale_days": "0", "price_up": "0", "classification_id": "1004", "description": "", 
+    "special_daily_quota": "0"
+  }, {
+    "id": "11209", "type": "8", "sort": "0", "item_ids": "", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", "part": "0", 
+    "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", "if_cheap": "0", 
+    "quota": "2001", "giftbag_name": "리더 완장", "event_code": "dailyGiftbag", "icon": "", "daily_quota": "0", "tips": "", 
+    "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", "prize_id": "7502", "pay_type": "1", 
+    "itemprice": "100175-70", "on_sale_days": "0", "price_up": "0", "classification_id": "1004", "description": "", 
+    "special_daily_quota": "0"
+  }, {
+    "id": "11210", "type": "8", "sort": "0", "item_ids": "", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", "part": "0", 
+    "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", "if_cheap": "0", 
+    "quota": "2001", "giftbag_name": "아이 러브 벤또", "event_code": "dailyGiftbag", "icon": "", "daily_quota": "0", 
+    "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", "prize_id": "7503", 
+    "pay_type": "1", "itemprice": "100175-70", "on_sale_days": "0", "price_up": "0", "classification_id": "1004", 
+    "description": "", "special_daily_quota": "0"
+  }, {
+    "id": "11211", "type": "8", "sort": "0", "item_ids": "", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", "part": "0", 
+    "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", "if_cheap": "0", 
+    "quota": "2001", "giftbag_name": "오사키 인형", "event_code": "dailyGiftbag", "icon": "", "daily_quota": "0", "tips": "", 
+    "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", "prize_id": "7504", "pay_type": "1", 
+    "itemprice": "100175-70", "on_sale_days": "0", "price_up": "0", "classification_id": "1004", "description": "", 
+    "special_daily_quota": "0"
+  }, {
+    "id": "11212", "type": "8", "sort": "0", "item_ids": "2254-1", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", 
+    "part": "0", "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", 
+    "if_cheap": "0", "quota": "2001", "giftbag_name": "카드배경: 2000피트에서 사랑을 외치다", "event_code": "dailyGiftbag", 
+    "icon": "", "daily_quota": "0", "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", 
+    "prize_id": "0", "pay_type": "1", "itemprice": "100175-40", "on_sale_days": "0", "price_up": "0", 
+    "classification_id": "1004", "description": "", "special_daily_quota": "0"
+  }, {
+    "id": "11213", "type": "8", "sort": "0", "item_ids": "2255-1", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", 
+    "part": "0", "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", 
+    "if_cheap": "0", "quota": "2001", "giftbag_name": "카드배경: 스포트라이트 밑의 합창", "event_code": "dailyGiftbag", 
+    "icon": "", "daily_quota": "0", "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", 
+    "prize_id": "0", "pay_type": "1", "itemprice": "100175-40", "on_sale_days": "0", "price_up": "0", 
+    "classification_id": "1004", "description": "", "special_daily_quota": "0"
+  }, {
+    "id": "11214", "type": "8", "sort": "0", "item_ids": "2243-1", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", 
+    "part": "0", "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", 
+    "if_cheap": "0", "quota": "2001", "giftbag_name": "아이콘: 운명은 여기서 깨진다", "event_code": "dailyGiftbag", 
+    "icon": "", "daily_quota": "0", "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", 
+    "prize_id": "0", "pay_type": "1", "itemprice": "100175-20", "on_sale_days": "0", "price_up": "0", 
+    "classification_id": "1004", "description": "", "special_daily_quota": "0"
+  }, {
+    "id": "11215", "type": "8", "sort": "0", "item_ids": "2244-1", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", 
+    "part": "0", "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", 
+    "if_cheap": "0", "quota": "2001", "giftbag_name": "아이콘: 영혼의 포르티시모", "event_code": "dailyGiftbag", "icon": "", 
+    "daily_quota": "0", "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", 
+    "prize_id": "0", "pay_type": "1", "itemprice": "100175-20", "on_sale_days": "0", "price_up": "0", 
+    "classification_id": "1004", "description": "", "special_daily_quota": "0"
+  }, {
+    "id": "11216", "type": "8", "sort": "0", "item_ids": "2245-1", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", 
+    "part": "0", "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", 
+    "if_cheap": "0", "quota": "2001", "giftbag_name": "아이콘: 깨어나 DREAMER", "event_code": "dailyGiftbag", "icon": "", 
+    "daily_quota": "0", "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", 
+    "prize_id": "0", "pay_type": "1", "itemprice": "100175-20", "on_sale_days": "0", "price_up": "0", 
+    "classification_id": "1004", "description": "", "special_daily_quota": "0"
+  }, {
+    "id": "11217", "type": "8", "sort": "0", "item_ids": "2246-1", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", 
+    "part": "0", "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", 
+    "if_cheap": "0", "quota": "2001", "giftbag_name": "아이콘: 소망을 외쳐라", "event_code": "dailyGiftbag", "icon": "", 
+    "daily_quota": "0", "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", 
+    "prize_id": "0", "pay_type": "1", "itemprice": "100175-20", "on_sale_days": "0", "price_up": "0", 
+    "classification_id": "1004", "description": "", "special_daily_quota": "0"
+  }, {
+    "id": "11218", "type": "8", "sort": "0", "item_ids": "2247-1", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", 
+    "part": "0", "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", 
+    "if_cheap": "0", "quota": "2001", "giftbag_name": "아이콘: 파멸하라! 족쇄여!", "event_code": "dailyGiftbag", "icon": "", 
+    "daily_quota": "0", "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", 
+    "prize_id": "0", "pay_type": "1", "itemprice": "100175-20", "on_sale_days": "0", "price_up": "0", 
+    "classification_id": "1004", "description": "", "special_daily_quota": "0"
+  }, {
+    "id": "11219", "type": "8", "sort": "0", "item_ids": "2251-1", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", 
+    "part": "0", "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", 
+    "if_cheap": "0", "quota": "2001", "giftbag_name": "아이콘: 월! 울! 월!", "event_code": "dailyGiftbag", "icon": "", 
+    "daily_quota": "0", "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", 
+    "prize_id": "0", "pay_type": "1", "itemprice": "100175-20", "on_sale_days": "0", "price_up": "0", 
+    "classification_id": "1004", "description": "", "special_daily_quota": "0"
+  }, {
+    "id": "11220", "type": "8", "sort": "0", "item_ids": "2252-1", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", 
+    "part": "0", "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", 
+    "if_cheap": "0", "quota": "2001", "giftbag_name": "아이콘: 오! 징! 어!", "event_code": "dailyGiftbag", "icon": "", 
+    "daily_quota": "0", "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", 
+    "prize_id": "0", "pay_type": "1", "itemprice": "100175-20", "on_sale_days": "0", "price_up": "0", 
+    "classification_id": "1004", "description": "", "special_daily_quota": "0"
+  }, {
+    "id": "11221", "type": "8", "sort": "0", "item_ids": "2253-1", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", 
+    "part": "0", "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", 
+    "if_cheap": "0", "quota": "2001", "giftbag_name": "아이콘: 언제나 지켜봐줘", "event_code": "dailyGiftbag", "icon": "", 
+    "daily_quota": "0", "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", 
+    "prize_id": "0", "pay_type": "1", "itemprice": "100175-20", "on_sale_days": "0", "price_up": "0", 
+    "classification_id": "1004", "description": "", "special_daily_quota": "0"
+  }, {
+    "id": "11222", "type": "8", "sort": "0", "item_ids": "2258-1", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", 
+    "part": "0", "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", 
+    "if_cheap": "0", "quota": "2001", "giftbag_name": "기지배경: 목욕하기 좋은 맑은 날", "event_code": "dailyGiftbag", 
+    "icon": "", "daily_quota": "0", "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", 
+    "prize_id": "0", "pay_type": "1", "itemprice": "100175-100", "on_sale_days": "0", "price_up": "0", 
+    "classification_id": "1004", "description": "", "special_daily_quota": "0"
+  }, {
+    "id": "11223", "type": "8", "sort": "0", "item_ids": "", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", "part": "0", 
+    "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", "if_cheap": "0", 
+    "quota": "2002", "giftbag_name": "요정: 콧코 군", "event_code": "dailyGiftbag", "icon": "", "daily_quota": "0", 
+    "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", "prize_id": "7505", 
+    "pay_type": "1", "itemprice": "100175-70", "on_sale_days": "0", "price_up": "0", "classification_id": "1004", 
+    "description": "", "special_daily_quota": "0"
+  }, {
+    "id": "11224", "type": "8", "sort": "0", "item_ids": "", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", "part": "0", 
+    "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", "if_cheap": "0", 
+    "quota": "2001", "giftbag_name": "펫: 로메로", "event_code": "dailyGiftbag", "icon": "", "daily_quota": "0", "tips": "", 
+    "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", "prize_id": "7506", "pay_type": "1", 
+    "itemprice": "100175-60", "on_sale_days": "0", "price_up": "0", "classification_id": "1004", "description": "", 
+    "special_daily_quota": "0"
+  }, {
+    "id": "11225", "type": "8", "sort": "0", "item_ids": "", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", "part": "0", 
+    "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", "if_cheap": "0", 
+    "quota": "2001", "giftbag_name": "가구: 낡은 샹들리에", "event_code": "dailyGiftbag", "icon": "", "daily_quota": "0", 
+    "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", "prize_id": "7507", 
+    "pay_type": "1", "itemprice": "100175-60", "on_sale_days": "0", "price_up": "0", "classification_id": "1004", 
+    "description": "", "special_daily_quota": "0"
+  }, {
+    "id": "11226", "type": "8", "sort": "0", "item_ids": "", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", "part": "0", 
+    "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", "if_cheap": "0", 
+    "quota": "2001", "giftbag_name": "가구: 우정의 잔칫상", "event_code": "dailyGiftbag", "icon": "", "daily_quota": "0", 
+    "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", "prize_id": "7508", 
+    "pay_type": "1", "itemprice": "100175-60", "on_sale_days": "0", "price_up": "0", "classification_id": "1004", 
+    "description": "", "special_daily_quota": "0"
+  }, {
+    "id": "11227", "type": "8", "sort": "0", "item_ids": "", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", "part": "0", 
+    "bp_pay": "0", "skin": "0", "gift": "200021-1", "gemprice": "0", "original_price": "0", "pointprice": "0", 
+    "if_cheap": "0", "quota": "2010", "giftbag_name": "보이스 오브 사가", "event_code": "dailyGiftbag", "icon": "", 
+    "daily_quota": "0", "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", 
+    "prize_id": "0", "pay_type": "1", "itemprice": "100175-2", "on_sale_days": "0", "price_up": "0", 
+    "classification_id": "1004", "description": "", "special_daily_quota": "0"
+  }, {
+    "id": "11228", "type": "8", "sort": "0", "item_ids": "", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", "part": "0", 
+    "bp_pay": "0", "skin": "0", "gift": "100021-1", "gemprice": "0", "original_price": "0", "pointprice": "0", 
+    "if_cheap": "0", "quota": "2010", "giftbag_name": "댄싱 사가", "event_code": "dailyGiftbag", "icon": "", 
+    "daily_quota": "0", "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", 
+    "prize_id": "0", "pay_type": "1", "itemprice": "100175-2", "on_sale_days": "0", "price_up": "0", 
+    "classification_id": "1004", "description": "", "special_daily_quota": "0"
+  }, {
+    "id": "11229", "type": "8", "sort": "0", "item_ids": "", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", "part": "0", 
+    "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", "if_cheap": "0", 
+    "quota": "2001", "giftbag_name": "미즈노 아이", "event_code": "dailyGiftbag", "icon": "", "daily_quota": "0", "tips": "", 
+    "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", "prize_id": "7509", "pay_type": "1", 
+    "itemprice": "100176-500", "on_sale_days": "0", "price_up": "0", "classification_id": "1003", "description": "", 
+    "special_daily_quota": "0"
+  }, {
+    "id": "11230", "type": "8", "sort": "0", "item_ids": "", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", "part": "0", 
+    "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "0", "original_price": "0", "pointprice": "0", "if_cheap": "0", 
+    "quota": "2001", "giftbag_name": "콘노 준코", "event_code": "dailyGiftbag", "icon": "", "daily_quota": "0", "tips": "", 
+    "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", "prize_id": "7510", "pay_type": "1", 
+    "itemprice": "100176-500", "on_sale_days": "0", "price_up": "0", "classification_id": "1003", "description": "", 
+    "special_daily_quota": "0"
+  }, {
+    "id": "11231", "type": "8", "sort": "0", "item_ids": "", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", "part": "0", 
+    "bp_pay": "0", "skin": "0", "gift": "100003-1", "gemprice": "0", "original_price": "0", "pointprice": "0", 
+    "if_cheap": "0", "quota": "2200", "giftbag_name": "딸기치즈케익", "event_code": "dailyGiftbag", "icon": "", 
+    "daily_quota": "0", "tips": "", "discount": "1.00", "sale_starttime": "0", "sale_endtime": "0", "label": "0", 
+    "prize_id": "0", "pay_type": "1", "itemprice": "100176-5", "on_sale_days": "0", "price_up": "0", 
+    "classification_id": "1003", "description": "", "special_daily_quota": "0"
+  }, {
     "id": "99001", "type": "102", "sort": "0", "item_ids": "", "gem": "0", "mp": "0", "ammo": "0", "mre": "0", "part": "0", 
     "bp_pay": "0", "skin": "0", "gift": "", "gemprice": "980", "original_price": "0", "pointprice": "0", "if_cheap": "0", 
     "quota": "2001", "giftbag_name": "장비제조 패키지", "event_code": "dailyGiftbag", "icon": "Bumdle_Equip", 

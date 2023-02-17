@@ -82,5 +82,6 @@
   { "id": 81, "theme_type":  7, "name": "마물 침공 경보"          }, 
   { "id": 82, "theme_type":  9, "name": "여걸풍운록"              }, 
   { "id": 83, "theme_type":  8, "name": "난로 옆의 꿈"            }, 
+  { "id": 84, "theme_type":  2, "name": "서리낀 겨울의 꿈"        }, 
   { "id": 85, "theme_type":  1, "name": "화창한 꽃밭"             }
 ]

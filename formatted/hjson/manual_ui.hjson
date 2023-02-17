@@ -1732,6 +1732,147 @@
     is_manual_target: 2
   }
   {
+    id: 570011
+    code_a: ZLSR_570011
+    description_a: 미즈노 아이
+    description_b: 각성의 보이스
+    description_c: 퍼포먼스
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 570021
+    code_a: ZLSR_570021
+    description_a: 콘노 준코
+    description_b: 스트롱 코드
+    description_c: 퍼포먼스
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 570031
+    code_a: ZLSR_570031
+    description_a: 호시카와 릴리
+    description_b: 별님 광선
+    description_c: 퍼포먼스
+    code_b: Console_Icon
+  }
+  {
+    id: 570041
+    code_a: ZLSR_570041
+    description_a: 니카이도 사키
+    description_b: 폭주 엔트리
+    description_c: 퍼포먼스
+    code_b: Console_Icon
+  }
+  {
+    id: 570051
+    code_a: ZLSR_570051
+    description_a: 유우기리
+    description_b: 삼현십자참
+    description_c: 퍼포먼스
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 570061
+    code_a: ZLSR_570061
+    description_a: 미나모토 사쿠라
+    description_b: 불행 스트라이크
+    description_c: 퍼포먼스
+    code_b: Console_Icon
+  }
+  {
+    id: 570071
+    code_a: ZLSR_570071
+    description_a: 야마다 타에
+    description_b: 로메로 응원한다 멍!
+    description_c: 퍼포먼스
+    code_b: Console_Icon
+  }
+  {
+    id: 570501
+    code_a: Bubble_machine
+    description_a: 아군제대
+    description_b: 버블 머신
+    description_c: 정지
+    code_b: Console_Icon
+  }
+  {
+    id: 570605
+    code_a: DriedSquid
+    description_a: 아군제대
+    description_b: 오징어채
+    description_c: 투척
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 570606
+    code_a: TakeOut
+    description_a: 아군제대
+    description_b: 배달음식
+    description_c: 배달
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 570607
+    code_a: DriedSquid
+    description_a: 아군제대
+    description_b: 오징어채
+    description_c: 줍기
+    code_b: Console_Icon
+  }
+  {
+    id: 570608
+    code_a: TakeOut
+    description_a: 아군제대
+    description_b: 배달음식
+    description_c: 줍기
+    code_b: Console_Icon
+  }
+  {
+    id: 570610
+    code_a: Console
+    description_a: 아군제대
+    description_b: 제어콘솔
+    description_c: 체크
+    code_b: Console_Icon
+  }
+  {
+    id: 572041
+    code_a: ZLSP
+    description_a: 지휘관
+    description_b: 공연 선수
+    description_c: 스킬 보기
+    code_b: Console_Icon
+  }
+  {
+    id: 572042
+    code_a: ZLSP
+    description_a: 지휘관
+    description_b: 아군 선수
+    description_c: 스킬 보기
+    code_b: Console_Icon
+  }
+  {
+    id: 572043
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 상대 선수
+    description_c: 스킬 보기
+    code_b: Console_Icon
+  }
+  {
+    id: 575001
+    code_a: ZLSP
+    description_a: 결산대
+    description_b: 연습 결산
+    description_c: 결산
+    code_b: Console_Icon
+  }
+  {
     id: 590001
     code_a: Rouge_590001
     description_a: 아군 제대
@@ -4367,6 +4508,14 @@
     description_b: 전송포트
     description_c: 전송
     code_b: Squad_Icon
+  }
+  {
+    id: 6000011
+    code_a: Console
+    description_a: 아군제대
+    description_b: 제어콘솔
+    description_c: ON
+    code_b: Console_Icon
   }
   {
     id: 6380201

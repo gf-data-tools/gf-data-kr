@@ -1582,6 +1582,104 @@
     detail_introduction: gift_item-40000586
   }
   {
+    id: 587
+    name: 미나모토 사쿠라 - 반짝여라
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 1037
+    skin: 587
+    poster: 30587
+    code: gift_bundle_Saga2023_Sakura
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    detail_introduction: gift_item-40000587
+  }
+  {
+    id: 588
+    name: 니카이도 사키 - 던 오브 아웃로
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 1041
+    skin: 588
+    poster: 30588
+    code: gift_bundle_Saga2023_Saki
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    detail_introduction: gift_item-40000588
+  }
+  {
+    id: 589
+    name: 미즈노 아이 - 깨어난 DREAMER
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 1038
+    skin: 589
+    poster: 30589
+    code: gift_bundle_Saga2023_Ai
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    detail_introduction: gift_item-40000589
+  }
+  {
+    id: 590
+    name: 콘노 준코 - 잊을 수 없는 시절
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 1039
+    skin: 590
+    poster: 30590
+    code: gift_bundle_Saga2023_Junko
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    detail_introduction: gift_item-40000590
+  }
+  {
+    id: 591
+    name: 유우기리 - 사가사변
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 1040
+    skin: 591
+    poster: 30591
+    code: gift_bundle_Saga2023_Yuugiri
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    detail_introduction: gift_item-40000591
+  }
+  {
+    id: 592
+    name: 호시카와 릴리 - To my Dearest
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 1036
+    skin: 592
+    poster: 30592
+    code: gift_bundle_Saga2023_Lily
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    detail_introduction: gift_item-40000592
+  }
+  {
+    id: 593
+    name: 야마다 타에 - 아레나 브레이커
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 1035
+    skin: 593
+    poster: 30593
+    code: gift_bundle_Saga2023_Tae
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    detail_introduction: gift_item-40000593
+  }
+  {
     id: 601
     name: 토카레프 - 두 사람의 인생
     type: 2
@@ -8386,6 +8484,90 @@
     detail_introduction: gift_item-40007809
   }
   {
+    id: 7902
+    name: A-545 - 은나무의 헌사
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 356
+    skin: 7902
+    poster: 37902
+    code: gift_bundle_NewYear2023_A545
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    detail_introduction: gift_item-40007902
+  }
+  {
+    id: 7903
+    name: SL8 - 푸른 눈송이 그대에게
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 296
+    skin: 7903
+    poster: 37903
+    code: gift_bundle_NewYear2023_SL8
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    detail_introduction: gift_item-40007903
+  }
+  {
+    id: 7904
+    name: FX-05 - 별의 기행록
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 330
+    skin: 7904
+    poster: 37904
+    code: gift_bundle_NewYear2023_FX05
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    detail_introduction: gift_item-40007904
+  }
+  {
+    id: 7905
+    name: PPD-40 - 눈 내린 산 위에
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 336
+    skin: 7905
+    poster: 37905
+    code: gift_bundle_NewYear2023_PPD40
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    detail_introduction: gift_item-40007905
+  }
+  {
+    id: 7906
+    name: OTs-39 - 살구빛 몽환
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 209
+    skin: 7906
+    poster: 37906
+    code: gift_bundle_NewYear2023_OTs39
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    detail_introduction: gift_item-40007906
+  }
+  {
+    id: 7907
+    name: 마이크로 우지 - 주황빛 실루엣
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 32
+    skin: 7907
+    poster: 37907
+    code: gift_bundle_NewYear2023_MicroUZI
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    detail_introduction: gift_item-40007907
+  }
+  {
     id: 8001
     name: MK3A1 - 홍로에 취해
     type: 2
@@ -8554,6 +8736,20 @@
     detail_introduction: gift_item-40030004
   }
   {
+    id: 30005
+    name: Scar-L - 애견과 산뜻한 오후
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 378
+    skin: 30005
+    poster: 330005
+    code: gift_bundle_BattlePass_scarL
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    detail_introduction: gift_item-40030005
+  }
+  {
     id: 100001
     name: 막대사탕
     type: 1
@@ -8658,6 +8854,19 @@
     sort: -1014
   }
   {
+    id: 100021
+    name: 댄싱 사가
+    type: 1
+    rank: 5
+    favor: 30000
+    code: gift_item_glowstick
+    bonus_description: gift_item-20100021
+    description: 선물받은 인형의 호감도가 3 상승합니다.
+    item_access: "2"
+    detail_introduction: 응원이란, 말도 표정도 필요 없이 오로지 손에 든 형광봉과 가지런한 응원춤만으로도, 무대 위의 우상들에게 그들과 자신 사이에 끊을 수 없는 연결고리가 있음을 알려주는 것이다.
+    sort: -1015
+  }
+  {
     id: 200001
     name: 작전보고서
     type: 3
@@ -8734,6 +8943,19 @@
     item_access: "2"
     detail_introduction: 소문에 의하면 사탄 님의 마도 연구 중 생성된 부산물로, 악마가 마시면 강해집니다. 하지만 사용 후기가 너무 처참했던 탓에 악성 재고가 되어 억지로 끼워파는 사은품이 되었습니다.
     sort: -1013
+  }
+  {
+    id: 200021
+    name: 보이스 오브 사가
+    type: 3
+    rank: 5
+    code: gift_item_Sagamic
+    bonus_description: gift_item-20200021
+    description: 숙소에서 인형에게 선물 시, 경험치가 10000 상승합니다.
+    exp: 10000
+    item_access: "2"
+    detail_introduction: 아이돌이 되는 길에 지름길은 없고, 오로지 꾸준한 연습을 통해야만 무대에 올라 관객들이 뒤돌아보게 할 수 있다.
+    sort: -1016
   }
   {
     id: 400001

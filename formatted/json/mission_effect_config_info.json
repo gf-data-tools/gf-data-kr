@@ -540,6 +540,115 @@
     "duration": "1.00", "delay": "0.00", "size": "0.02", "offset": "0,0", "sound": "0", "spine": "0", "if_starting": "0", 
     "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
   }, {
+    "id": "1000114", "name": "평범한 퍼포먼스", "code": "zhgq_by_01", "description": "평범한 퍼포먼스", "priority": "5", 
+    "duration": "1.50", "delay": "0.50", "size": "2.50", "offset": "0,0", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "1", "use_ease": "0"
+  }, {
+    "id": "1000115", "name": "퍼포먼스 대성공", "code": "zhgq_by_02", "description": "퍼포먼스 대성공", "priority": "5", 
+    "duration": "1.50", "delay": "0.50", "size": "3.00", "offset": "0,0", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "1", "use_ease": "0"
+  }, {
+    "id": "1000116", "name": "퍼포먼스 대실패", "code": "zhgq_by_03", "description": "퍼포먼스 대실패", "priority": "5", 
+    "duration": "1.50", "delay": "0.50", "size": "2.50", "offset": "0,80", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "1", "use_ease": "0"
+  }, {
+    "id": "1000117", "name": "긴장함", "code": "zhgq_by_bq01", "description": "긴장함", "priority": "5", "duration": "1.50", 
+    "delay": "1.50", "size": "1.00", "offset": "0,0", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000118", "name": "텐션오름", "code": "zhgq_by_bq02", "description": "텐션오름", "priority": "5", 
+    "duration": "1.50", "delay": "1.50", "size": "1.00", "offset": "0,0", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000119", "name": "느낌표", "code": "zhgq_by_th", "description": "느낌표", "priority": "0", "duration": "0.00", 
+    "delay": "0.00", "size": "1.00", "offset": "0,0", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000120", "name": "평범한 퍼포먼스", "code": "zhgq_by_01", "description": "평범한 퍼포먼스", "priority": "5", 
+    "duration": "1.50", "delay": "1.50", "size": "2.50", "offset": "0,0", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "1", "use_ease": "0"
+  }, {
+    "id": "1000121", "name": "퍼포먼스 대성공", "code": "zhgq_by_02", "description": "퍼포먼스 대성공", "priority": "5", 
+    "duration": "1.50", "delay": "1.50", "size": "3.00", "offset": "0,0", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "1", "use_ease": "0"
+  }, {
+    "id": "1000122", "name": "퍼포먼스 대실패", "code": "zhgq_by_03", "description": "퍼포먼스 대실패", "priority": "5", 
+    "duration": "1.50", "delay": "1.50", "size": "2.50", "offset": "0,80", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "1", "use_ease": "0"
+  }, {
+    "id": "1000123", "name": "피버", "code": "zhgq_by_02", "description": "피버", "priority": "5", "duration": "1.50", 
+    "delay": "3.50", "size": "3.00", "offset": "0,0", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000124", "name": "[Emoji]오징어채", "code": "qipao_yys", "description": "Fever", "priority": "5", 
+    "duration": "0.00", "delay": "0.00", "size": "1.00", "offset": "-200,250;0,0", "sound": "", "spine": "0", 
+    "if_starting": "0", "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000125", "name": "1000점", "code": "tnub_1000", "description": "1000점", "priority": "5", "duration": "1.50", 
+    "delay": "0.50", "size": "1.50", "offset": "0,50", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000126", "name": "1500점", "code": "tnub_1500", "description": "1500점", "priority": "5", "duration": "1.50", 
+    "delay": "0.50", "size": "1.50", "offset": "0,50", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000127", "name": "500점", "code": "tnub_500", "description": "500점", "priority": "5", "duration": "1.50", 
+    "delay": "0.50", "size": "1.50", "offset": "0,50", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000128", "name": "2000점", "code": "tnub_2000", "description": "2000점", "priority": "5", "duration": "1.50", 
+    "delay": "0.50", "size": "1.50", "offset": "0,50", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000129", "name": "3000점", "code": "tnub_3000", "description": "3000점", "priority": "5", "duration": "1.50", 
+    "delay": "0.50", "size": "1.50", "offset": "0,50", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000130", "name": "4500점", "code": "tnub_4500", "description": "4500점", "priority": "5", "duration": "1.50", 
+    "delay": "0.50", "size": "1.50", "offset": "0,50", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000131", "name": "4000점", "code": "tnub_4000", "description": "4000점", "priority": "5", "duration": "1.50", 
+    "delay": "0.50", "size": "1.50", "offset": "0,50", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000132", "name": "1000점", "code": "tnub_1000", "description": "1000점", "priority": "5", "duration": "1.50", 
+    "delay": "1.50", "size": "1.50", "offset": "0,50", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000133", "name": "1500점", "code": "tnub_1500", "description": "1500점", "priority": "5", "duration": "1.50", 
+    "delay": "1.50", "size": "1.50", "offset": "0,50", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000134", "name": "500점", "code": "tnub_500", "description": "500점", "priority": "5", "duration": "1.50", 
+    "delay": "1.50", "size": "1.50", "offset": "0,50", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000135", "name": "2000점", "code": "tnub_2000", "description": "2000점", "priority": "5", "duration": "1.50", 
+    "delay": "1.50", "size": "1.50", "offset": "0,50", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000136", "name": "3000점", "code": "tnub_3000", "description": "3000점", "priority": "5", "duration": "1.50", 
+    "delay": "1.50", "size": "1.50", "offset": "0,50", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000137", "name": "4500점", "code": "tnub_4500", "description": "4500점", "priority": "5", "duration": "1.50", 
+    "delay": "1.50", "size": "1.50", "offset": "0,50", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000138", "name": "4000점", "code": "tnub_4000", "description": "4000점", "priority": "5", "duration": "1.50", 
+    "delay": "1.50", "size": "1.50", "offset": "0,50", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000139", "name": "지연", "code": "Empty", "description": "지연", "priority": "0", "duration": "2.50", 
+    "delay": "0.00", "size": "1.00", "offset": "0,0", "sound": "", "spine": "0", "if_starting": "0", 
+    "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"
+  }, {
+    "id": "1000140", "name": "mission_effect_config-11000140", "code": "Empty", 
+    "description": "mission_effect_config-21000140", "priority": "0", "duration": "1.50", "delay": "0.00", "size": "1.00", 
+    "offset": "0,0", "sound": "", "spine": "0", "if_starting": "0", "relative_position": "0", "rotation_offset": "", 
+    "is_focus": "0", "use_ease": "0"
+  }, {
     "id": "9490401", "name": "【표식】반짝반짝", "code": "ddl_xingxing", "description": "mission_effect_config-29490401", 
     "priority": "0", "duration": "1.00", "delay": "0.00", "size": "0.02", "offset": "0,0", "sound": "", "spine": "0", 
     "if_starting": "0", "relative_position": "0", "rotation_offset": "", "is_focus": "0", "use_ease": "0"

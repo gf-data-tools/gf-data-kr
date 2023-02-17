@@ -2342,7 +2342,11 @@
     difficulty_recommend: 15000;85
     difficulty_recommend_addendum: 요정 수요 없음
     limit_sangvis: 4
-    mission_tip: mission-40000075
+    mission_tip:
+      '''
+      추천 부대편성:
+      균형 편성
+      '''
   }
   {
     id: 76
@@ -2370,7 +2374,11 @@
     difficulty_recommend: 15500;86
     difficulty_recommend_addendum: 요정 수요 없음
     limit_sangvis: 4
-    mission_tip: mission-40000076
+    mission_tip:
+      '''
+      추천 부대편성:
+      균형 편성
+      '''
   }
   {
     id: 77
@@ -2398,7 +2406,11 @@
     difficulty_recommend: 16000;88
     difficulty_recommend_addendum: 요정 수요 없음
     limit_sangvis: 4
-    mission_tip: mission-40000077
+    mission_tip:
+      '''
+      추천 부대편성:
+      균형 편성
+      '''
   }
   {
     id: 78
@@ -2426,7 +2438,12 @@
     difficulty_recommend: 17000;90
     difficulty_recommend_addendum: 요정 수요 없음
     limit_sangvis: 4
-    mission_tip: mission-40000078
+    mission_tip:
+      '''
+      추천 부대편성:
+      균형 편성
+      일점사 편성
+      '''
   }
   {
     id: 79
@@ -2454,7 +2471,12 @@
     difficulty_recommend: 18000;92
     difficulty_recommend_addendum: 요정 수요 없음
     limit_sangvis: 4
-    mission_tip: mission-40000079
+    mission_tip:
+      '''
+      추천 부대편성:
+      균형 편성
+      일격필살 편성
+      '''
   }
   {
     id: 80
@@ -2483,7 +2505,11 @@
     difficulty_recommend: 20000;95
     difficulty_recommend_addendum: 요정 수요 없음
     limit_sangvis: 4
-    mission_tip: 드리머는 초장거리 사격이 가능합니다. 전진 중 피해를 최소화하도록 제대 이동속도를 주의하세요.
+    mission_tip:
+      '''
+      추천 부대편성:
+      균형 편성
+      '''
   }
   {
     id: 81
@@ -2512,7 +2538,12 @@
     difficulty_recommend: 18000;95
     difficulty_recommend_addendum: 요정 수요 없음
     limit_sangvis: 4
-    mission_tip: mission-40000081
+    mission_tip:
+      '''
+      추천 부대편성:
+      균형 편성
+      광역 공격 편성
+      '''
   }
   {
     id: 82
@@ -2541,7 +2572,11 @@
     difficulty_recommend: 20000;96
     difficulty_recommend_addendum: 요정 수요 없음
     limit_sangvis: 4
-    mission_tip: mission-40000082
+    mission_tip:
+      '''
+      추천 부대편성:
+      균형 편성
+      '''
   }
   {
     id: 83
@@ -2570,7 +2605,13 @@
     difficulty_recommend: 21000;97
     difficulty_recommend_addendum: 요정 수요 없음
     limit_sangvis: 4
-    mission_tip: mission-40000083
+    mission_tip:
+      '''
+      추천 부대편성:
+      균형 편성
+      광역 공격 편성
+      일점사 편성
+      '''
   }
   {
     id: 84
@@ -2600,7 +2641,12 @@
     difficulty_recommend: 22000;98
     difficulty_recommend_addendum: 요정 수요 없음
     limit_sangvis: 4
-    mission_tip: 드리머는 초장거리 사격이 가능합니다. 전진 중 피해를 최소화하도록 제대 이동속도를 주의하세요.
+    mission_tip:
+      '''
+      추천 부대편성:
+      균형 편성
+      광역 공격 편성
+      '''
   }
   {
     id: 85
@@ -2629,7 +2675,11 @@
     difficulty_recommend: 18000;90
     difficulty_recommend_addendum: 요정 수요 없음
     limit_sangvis: 4
-    mission_tip: mission-40000085
+    mission_tip:
+      '''
+      추천 부대편성:
+      균형 편성
+      '''
   }
   {
     id: 86
@@ -2658,7 +2708,11 @@
     difficulty_recommend: 19000;92
     difficulty_recommend_addendum: 요정 수요 없음
     limit_sangvis: 4
-    mission_tip: mission-40000086
+    mission_tip:
+      '''
+      추천 부대편성:
+      균형 편성
+      '''
   }
   {
     id: 87
@@ -2687,7 +2741,11 @@
     difficulty_recommend: 20000;94
     difficulty_recommend_addendum: 요정 수요 없음
     limit_sangvis: 4
-    mission_tip: mission-40000087
+    mission_tip:
+      '''
+      추천 부대편성:
+      균형 편성
+      '''
   }
   {
     id: 88
@@ -2716,7 +2774,11 @@
     difficulty_recommend: 21000;96
     difficulty_recommend_addendum: 요정 수요 없음
     limit_sangvis: 4
-    mission_tip: mission-40000088
+    mission_tip:
+      '''
+      추천 부대편성:
+      균형 편성
+      '''
   }
   {
     id: 89
@@ -2745,7 +2807,11 @@
     difficulty_recommend: 22000;98
     difficulty_recommend_addendum: 요정 수요 없음
     limit_sangvis: 4
-    mission_tip: mission-40000089
+    mission_tip:
+      '''
+      추천 부대편성:
+      균형 편성
+      '''
   }
   {
     id: 90
@@ -2777,8 +2843,8 @@
     limit_sangvis: 4
     mission_tip:
       '''
-      저화력 고사속 유닛을 상대 시 산탄총이 방어에 적합합니다.
-      저지는 동시에 두 인형을 공격하니, 전열 유닛 수량을 주의하십시오.
+      추천 부대편성:
+      균형 편성
       '''
   }
   {
@@ -2808,7 +2874,11 @@
     difficulty_recommend: 22000;95
     difficulty_recommend_addendum: 요정 수요 없음
     limit_sangvis: 4
-    mission_tip: mission-40000091
+    mission_tip:
+      '''
+      추천 부대편성:
+      균형 편성
+      '''
   }
   {
     id: 92
@@ -2837,7 +2907,11 @@
     difficulty_recommend: 23000;97
     difficulty_recommend_addendum: 요정 수요 없음
     limit_sangvis: 4
-    mission_tip: mission-40000092
+    mission_tip:
+      '''
+      추천 부대편성:
+      균형 편성
+      '''
   }
   {
     id: 93
@@ -2867,7 +2941,11 @@
     difficulty_recommend: 24000;98
     difficulty_recommend_addendum: 요정 수요 없음
     limit_sangvis: 4
-    mission_tip: mission-40000093
+    mission_tip:
+      '''
+      추천 부대편성:
+      균형 편성
+      '''
   }
   {
     id: 94
@@ -2900,8 +2978,9 @@
     limit_sangvis: 4
     mission_tip:
       '''
-      저화력 고사속 유닛을 상대 시 산탄총이 방어에 적합합니다.
-      저지는 동시에 두 인형을 공격하니, 전열 유닛 수량을 주의하십시오.
+      추천 부대편성:
+      균형 편성
+      경량 혼합 편성
       '''
   }
   {
@@ -2930,7 +3009,11 @@
     difficulty_recommend: 22000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥1</Color>, 레어도<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000095
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      '''
   }
   {
     id: 96
@@ -2961,7 +3044,11 @@
     difficulty_recommend: 23000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥1</Color>, 레어도<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000096
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      '''
   }
   {
     id: 97
@@ -2992,7 +3079,12 @@
     difficulty_recommend: 24000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥2</Color>, 레어도<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000097
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      광역 공격 편성
+      '''
   }
   {
     id: 98
@@ -3023,7 +3115,12 @@
     difficulty_recommend: 25000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥3</Color>, 레어도<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000098
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      일격필살 편성
+      '''
   }
   {
     id: 99
@@ -3054,7 +3151,12 @@
     difficulty_recommend: 26000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥4</Color>, 레어도<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000099
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      일점사 편성
+      '''
   }
   {
     id: 100
@@ -3086,7 +3188,11 @@
     difficulty_recommend: 27000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥5</Color>, 레어도<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000100
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      '''
   }
   {
     id: 101
@@ -3118,7 +3224,12 @@
     difficulty_recommend: 29000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥4</Color>, 레어도<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000101
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      일격필살 편성
+      '''
   }
   {
     id: 102
@@ -3150,7 +3261,11 @@
     difficulty_recommend: 30000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥6</Color>, 레어도<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000102
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      '''
   }
   {
     id: 103
@@ -3182,7 +3297,11 @@
     difficulty_recommend: 31000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥8</Color>, 레어도<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000103
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      '''
   }
   {
     id: 104
@@ -3216,7 +3335,12 @@
     difficulty_recommend: 32000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥10</Color>, 레어도<Color=#FFB400FF>≥1</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000104
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      일격필살 편성
+      '''
   }
   {
     id: 105
@@ -3601,7 +3725,11 @@
     difficulty_recommend: 38000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥30</Color>, 레어도<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000115
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      '''
   }
   {
     id: 116
@@ -3636,8 +3764,9 @@
     limit_sangvis: 4
     mission_tip:
       '''
-      적의 왜곡방벽은 피해량을 차감합니다. 중장비의 지원으로 효과적인 타격이 가능합니다.
-      <Color=#FFB400FF>중장비를 꼭 챙기세요!</Color>
+      추천 부대편성:
+      고속 혼합 편성
+      일격필살 편성
       '''
   }
   {
@@ -3671,8 +3800,8 @@
     limit_sangvis: 4
     mission_tip:
       '''
-      적의 왜곡방벽은 피해량을 차감합니다. 중장비의 지원으로 효과적인 타격이 가능합니다.
-      <Color=#FFB400FF>중장비를 꼭 챙기세요!</Color>
+      추천 부대편성:
+      고속 혼합 편성
       '''
   }
   {
@@ -3704,7 +3833,11 @@
     difficulty_recommend: 41000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥36</Color>, 레어도<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 1
-    mission_tip: mission-40000118
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      '''
   }
   {
     id: 119
@@ -3737,8 +3870,9 @@
     limit_sangvis: 1
     mission_tip:
       '''
-      적의 왜곡방벽은 피해량을 차감합니다. 중장비의 지원으로 효과적인 타격이 가능합니다.
-      <Color=#FFB400FF>중장비를 꼭 챙기세요!</Color>
+      추천 부대편성:
+      고속 혼합 편성
+      일격필살 편성
       '''
   }
   {
@@ -3773,7 +3907,11 @@
     difficulty_recommend: 43000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥40</Color>, 레어도<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 2
-    mission_tip: mission-40000120
+    mission_tip:
+      '''
+      추천 부대편성:
+      일격필살 편성
+      '''
   }
   {
     id: 121
@@ -3805,7 +3943,11 @@
     difficulty_recommend: 42000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥35</Color>, 레어도<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 2
-    mission_tip: mission-40000121
+    mission_tip:
+      '''
+      추천 부대편성:
+      광역 공격 편성
+      '''
   }
   {
     id: 122
@@ -3839,8 +3981,8 @@
     limit_sangvis: 1
     mission_tip:
       '''
-      적의 왜곡방벽은 피해량을 차감합니다. 중장비의 지원으로 효과적인 타격이 가능합니다.
-      <Color=#FFB400FF>중장비를 꼭 챙기세요!</Color>
+      추천 부대편성:
+      광역 공격 편성
       '''
   }
   {
@@ -3875,8 +4017,8 @@
     limit_sangvis: 1
     mission_tip:
       '''
-      적의 왜곡방벽은 피해량을 차감합니다. 중장비의 지원으로 효과적인 타격이 가능합니다.
-      <Color=#FFB400FF>중장비를 꼭 챙기세요!</Color>
+      추천 부대편성:
+      고속 혼합 편성
       '''
   }
   {
@@ -3907,7 +4049,12 @@
     difficulty_recommend: 45000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥45</Color>, 레어도<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000124
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      광역 공격 편성
+      '''
   }
   {
     id: 125
@@ -3938,7 +4085,11 @@
     difficulty_recommend: 30000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥45</Color>, 레어도<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 1
-    mission_tip: mission-40000125
+    mission_tip:
+      '''
+      추천 부대편성:
+      일격필살 편성
+      '''
   }
   {
     id: 126
@@ -3970,7 +4121,12 @@
     difficulty_recommend: 34000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥45</Color>, 레어도<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000126
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      일격필살 편성
+      '''
   }
   {
     id: 127
@@ -4002,7 +4158,12 @@
     difficulty_recommend: 38000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥45</Color>, 레어도<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000127
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      일격필살 편성
+      '''
   }
   {
     id: 128
@@ -4034,7 +4195,11 @@
     difficulty_recommend: 42000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥70</Color>, 레어도<Color=#FFB400FF>≥4</Color>
     limit_sangvis: 1
-    mission_tip: mission-40000128
+    mission_tip:
+      '''
+      추천 부대편성:
+      광역 공격 편성
+      '''
   }
   {
     id: 129
@@ -4064,7 +4229,12 @@
     difficulty_recommend: 44000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥70</Color>, 레어도<Color=#FFB400FF>≥4</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000129
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      일격필살 편성
+      '''
   }
   {
     id: 130
@@ -4096,7 +4266,12 @@
     difficulty_recommend: 46000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥45</Color>, 레어도<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000130
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      일격필살 편성
+      '''
   }
   {
     id: 131
@@ -4129,7 +4304,11 @@
     difficulty_recommend: 38000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥45</Color>, 레어도<Color=#FFB400FF>≥3</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000131
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      '''
   }
   {
     id: 132
@@ -4162,7 +4341,11 @@
     difficulty_recommend: 42000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥45</Color>, 레어도<Color=#FFB400FF>≥3</Color>
     limit_sangvis: -1
-    mission_tip: mission-40000132
+    mission_tip:
+      '''
+      추천 부대편성:
+      기본 저격 편성
+      '''
   }
   {
     id: 133
@@ -4194,7 +4377,12 @@
     difficulty_recommend: 44000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥70</Color>, 레어도<Color=#FFB400FF>≥4</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000133
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      일격필살 편성
+      '''
   }
   {
     id: 134
@@ -4226,7 +4414,12 @@
     difficulty_recommend: 46000;99
     difficulty_recommend_addendum: 권장 요정 레벨<Color=#FFB400FF>≥70</Color>, 레어도<Color=#FFB400FF>≥4</Color>
     limit_sangvis: 4
-    mission_tip: mission-40000134
+    mission_tip:
+      '''
+      추천 부대편성:
+      고속 혼합 편성
+      일격필살 편성
+      '''
   }
   {
     id: 1101
@@ -5782,11 +5975,7 @@
     difficulty_recommend: 2000;20
     difficulty_recommend_addendum: mission-30010005
     limit_sangvis: 4
-    mission_tip:
-      '''
-      mission-40010005,추천 부대편성:
-      고속 혼합 편성
-      '''
+    mission_tip: mission-40010005,
   }
   {
     id: 10006
@@ -5816,11 +6005,7 @@
     difficulty_recommend: 3000;32
     difficulty_recommend_addendum: mission-30010006
     limit_sangvis: 4
-    mission_tip:
-      '''
-      mission-40010005,추천 부대편성:
-      고속 혼합 편성
-      '''
+    mission_tip: mission-40010005,
   }
   {
     id: 10007
@@ -5850,11 +6035,7 @@
     difficulty_recommend: 4000;40
     difficulty_recommend_addendum: mission-30010007
     limit_sangvis: 4
-    mission_tip:
-      '''
-      mission-40010005,추천 부대편성:
-      고속 혼합 편성
-      '''
+    mission_tip: mission-40010005,
   }
   {
     id: 10008
@@ -5883,11 +6064,7 @@
     difficulty_recommend: 5500;55
     difficulty_recommend_addendum: mission-30010008
     limit_sangvis: 4
-    mission_tip:
-      '''
-      mission-40010005,추천 부대편성:
-      고속 혼합 편성
-      '''
+    mission_tip: mission-40010005,
   }
   {
     id: 10009
@@ -8436,7 +8613,7 @@
     drop_mission_key: "0,0,10082"
     mission_group_id: 3
     open_mission_keys: 10069:1;10073:1;10077:1;10081:1
-    mission_describe: 06:00
+    mission_describe: 6:00
     round_config: 1:1,2:2,3:3
     reset_drop_key_once: 1
     limit_squad: -1
@@ -8471,7 +8648,7 @@
     drop_mission_key: "0,0,10083"
     mission_group_id: 3
     open_mission_keys: 10082:1
-    mission_describe: 08:00
+    mission_describe: 8:00
     force_type: "1"
     round_config: 1:1,2:2,3:3
     reset_drop_key_once: 1
@@ -8506,7 +8683,7 @@
     drop_mission_key: "0,0,10084"
     mission_group_id: 3
     open_mission_keys: 10083:1
-    mission_describe: 09:00
+    mission_describe: 9:00
     round_config: 1:1,2:2,3:3
     reset_drop_key_once: 1
     limit_squad: -1
@@ -9652,7 +9829,7 @@
     campaign: -25
     sub: 2
     if_emergency: -1
-    name: '''"지원군"'''
+    name: 지원군
     difficulty: 12000
     exp_parameter: 42
     type: 6;11
@@ -22941,7 +23118,7 @@
     sub: 62
     if_emergency: -1
     special_type: 9
-    name: 5-6
+    name: 6-May
     difficulty: 1000
     exp_parameter: 50
     type: "3"
@@ -22966,7 +23143,7 @@
     sub: 63
     if_emergency: -1
     special_type: 9
-    name: 5-7
+    name: 7-May
     difficulty: 1000
     exp_parameter: 50
     type: "3"
@@ -22991,7 +23168,7 @@
     sub: 64
     if_emergency: -1
     special_type: 9
-    name: 5-8
+    name: 8-May
     difficulty: 1000
     exp_parameter: 50
     type: "3"
@@ -32992,6 +33169,33 @@
     mission_tip: mission-40010920
   }
   {
+    id: 10921
+    campaign: -10005
+    sub: 17
+    if_emergency: -1
+    name: 맵 기믹 교습: 전장효과
+    difficulty: 25000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS5_Y
+    map_information: "10000,10000|4000,4000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    mission_group_id: 20
+    open_mission_keys: 1091500:1
+    mission_describe: mission-20010921
+    round_config: 1:1,2:2,3:3
+    win_type: "1092101"
+    difficulty_recommend: 25000;100
+    difficulty_recommend_addendum: mission-30010921
+    limit_sangvis: -1
+    mission_tip: mission-40010921
+    environment_transform_config: 1092101;1092102
+  }
+  {
     id: 10922
     campaign: -10005
     sub: 5
@@ -33297,6 +33501,32 @@
     difficulty_recommend_addendum: mission-30010932
     limit_sangvis: -1
     mission_tip: mission-40010932
+  }
+  {
+    id: 10933
+    campaign: -10005
+    sub: 18
+    if_emergency: -1
+    name: 특수지점 교습: 수리소
+    difficulty: 25000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_team: "-1"
+    map_res_name: OPS5_Y
+    map_information: "10000,10000|2000,2000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    mission_group_id: 20
+    open_mission_keys: 1091500:1
+    mission_describe: mission-20010933
+    round_config: 1:1,2:2,3:3
+    win_type: "1093301"
+    difficulty_recommend: 25000;100
+    difficulty_recommend_addendum: mission-30010933
+    limit_sangvis: -1
+    mission_tip: mission-40010933
   }
   {
     id: 10934
@@ -34974,7 +35204,7 @@
     sub: 1
     if_emergency: -1
     special_type: 9
-    name: '''"소원은 언제 이루나"'''
+    name: 소원은 언제 이루나
     difficulty: 1000
     type: "3"
     enemy_ai_type: 4
@@ -35208,7 +35438,7 @@
     sub: 10
     if_emergency: -1
     special_type: 9
-    name: '''"불꽃 피어나는 순간"'''
+    name: 불꽃 피어나는 순간
     difficulty: 1000
     type: "3"
     enemy_ai_type: 4
@@ -37153,7 +37383,7 @@
     sub: 60
     if_emergency: -1
     special_type: 9
-    name: '''"죽음의 바다"'''
+    name: 죽음의 바다
     difficulty: 1000
     type: "3"
     enemy_ai_type: 4
@@ -42975,6 +43205,1365 @@
     difficulty_recommend: 1000;5
     difficulty_recommend_addendum: mission-30011260
     mission_tip: mission-40011260
+  }
+  {
+    id: 11261
+    campaign: -57
+    sub: 1
+    if_emergency: -1
+    special_type: 9
+    name: 그리폰에서 온 당신
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1126100:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011261
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011261
+    mission_tip: mission-40011261
+  }
+  {
+    id: 11262
+    campaign: -57
+    sub: 2
+    if_emergency: -1
+    name: 도-라-미
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 1
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS56_Y
+    map_information: "12000,12000|6000,6000|0,2100"
+    fog_length: "0,1000"
+    fog_color: "#000000FF"
+    draw_event_s_id: "727"
+    drop_mission_key: "0,0,1126200:1;0,0,1126200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011262
+    force_type: "2"
+    round_config: 1:27,2:28,3:3
+    win_type: 1126201|1126202
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011262
+    mission_tip: mission-40011262
+    event_score: 0|999999,0,0,0,0,0,0,0,0,0,0,0,0,0,999999,575003:100;575002:300,0,0,0,0
+    score_prize: 3|100:7482,200:7483
+  }
+  {
+    id: 11263
+    campaign: -57
+    sub: 3
+    if_emergency: -1
+    name: 으쓱 으쓱 잘한다
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 1
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS56_Y
+    map_information: "12000,12000|6000,6000|0,2100"
+    fog_length: "0,1000"
+    fog_color: "#000000FF"
+    draw_event_s_id: "728"
+    drop_mission_key: "0,0,1126200:1;0,0,1126200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011263
+    force_type: "2"
+    round_config: 1:27,2:28,3:3
+    win_type: 1126301|1126302
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011263
+    mission_tip: mission-40011263
+    event_score: 0|999999,0,0,0,0,0,0,0,0,0,0,0,0,0,999999,575003:100;575002:300,0,0,0,0
+    score_prize: 3|100:7484,200:7485
+  }
+  {
+    id: 11264
+    campaign: -57
+    sub: 4
+    if_emergency: -1
+    name: 어서옵쇼!
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 1
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS100_Y
+    map_information: "6000,6000|6000,6000|0,0"
+    fog_length: "0,1000"
+    fog_color: "#000000FF"
+    draw_event_s_id: "729"
+    drop_mission_key: "0,0,1126200:1;0,0,1126200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011264
+    force_type: "2"
+    round_config: 1:27,2:28,3:3
+    win_type: 1126401|1126402
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011264
+    mission_tip: mission-40011264
+    event_score: 0|999999,0,0,0,0,0,0,0,0,0,0,0,0,0,999999,575003:100;575002:300,0,0,0,0
+    score_prize: 3|100:7486,200:7487
+  }
+  {
+    id: 11265
+    campaign: -57
+    sub: 5
+    if_emergency: -1
+    name: 보글보글
+    difficulty: 26000
+    exp_parameter: 51
+    type: "3"
+    enemy_ai_type: 4
+    expect_enemy_die_num: 3
+    expect_gun_die_num: 3
+    boss_team_id: "1"
+    turn_duration: 360000000
+    turn_limit: 7
+    limit_gun_pool: "1038"
+    map_res_name: OPS99_Y
+    map_information: "4000,4000|4000,4000|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "731"
+    expect_hostage_num: "0,2"
+    drop_mission_key: "0,0,1126200:1;0,0,1126200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011265
+    force_type: "2"
+    round_config: 1:27,2:30,3:3
+    difficulty_recommend: 26000;110
+    difficulty_recommend_addendum: mission-30011265
+    mission_tip: mission-40011265
+    event_score: 0|999999,0,0,0,0,0,0,0,0,0,0,-300,0,0,999999,0,0,0,570501:1000;570502:1000;570505:5000,0
+    score_prize: 3|1500:7490,3000:7491
+    environment_transform_config: "570501"
+  }
+  {
+    id: 11266
+    campaign: -57
+    sub: 6
+    if_emergency: -1
+    name: 치익~부르릉!콰앙!
+    difficulty: 26000
+    exp_parameter: 51
+    type: "3"
+    enemy_ai_type: 4
+    expect_turn: 5
+    boss_team_id: "1"
+    turn_duration: 360000000
+    limit_gun_pool: "1039"
+    map_res_name: OPS100_Y
+    map_information: "8000,8000|8000,8000|0,10"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "733"
+    drop_mission_key: "0,0,1126200:1;0,0,1126200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011266
+    round_config: 1:27,2:30,3:3
+    difficulty_recommend: 26000;110
+    difficulty_recommend_addendum: mission-30011266
+    mission_tip: mission-40011266
+    event_score: 0|999999,0,0,0,0,0,0,0,0,0,0,0,0,0,999999,570612:100;570613:500,0,0,0,0
+    score_prize: 3|100:7488,200:7489
+  }
+  {
+    id: 11267
+    campaign: -57
+    sub: 7
+    if_emergency: -1
+    name: 누구를 위해 싸우나
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS56_Y
+    map_information: "12000,12000|6000,6000|300,1600"
+    fog_length: "0,1500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "729"
+    drop_mission_key: "0,0,1126700:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011267
+    round_config: 1:27,2:29,3:3
+    win_type: "1126701"
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011267
+    mission_tip: mission-40011267
+  }
+  {
+    id: 11268
+    campaign: -57
+    sub: 8
+    if_emergency: -1
+    name: 천명
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS56_Y
+    map_information: "12000,12000|6000,6000|200,2000"
+    fog_length: "0,1500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "730"
+    drop_mission_key: "0,0,1126800:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011268
+    round_config: 1:27,2:29,3:3
+    win_type: "1126801"
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011268
+    mission_tip: mission-40011268
+  }
+  {
+    id: 11269
+    campaign: -57
+    sub: 9
+    if_emergency: -1
+    name: 저녁 노을
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: OPS56_Y
+    map_information: "16000,16000|6000,6000|200,2000"
+    fog_length: "0,1500"
+    fog_color: "#000000FF"
+    draw_event_s_id: "732"
+    drop_mission_key: "0,0,1126900:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011269
+    round_config: 1:27,2:29,3:3
+    win_type: "1126901,1126902"
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011269
+    mission_tip: mission-40011269
+    lose_type: "1126901,1126903"
+  }
+  {
+    id: 11270
+    campaign: -57
+    sub: 10
+    if_emergency: -1
+    special_type: 9
+    name: 1일차·점심
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1126200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011270
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011270
+    mission_tip: mission-40011270
+  }
+  {
+    id: 11271
+    campaign: -57
+    sub: 11
+    if_emergency: -1
+    special_type: 9
+    name: 1일차·야간
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1126200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011271
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011271
+    mission_tip: mission-40011271
+  }
+  {
+    id: 11272
+    campaign: -57
+    sub: 12
+    if_emergency: -1
+    special_type: 9
+    name: 2일차·점심
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1126200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011272
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011272
+    mission_tip: mission-40011272
+  }
+  {
+    id: 11273
+    campaign: -57
+    sub: 13
+    if_emergency: -1
+    special_type: 9
+    name: 2일차·야간
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1126200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011273
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011273
+    mission_tip: mission-40011273
+  }
+  {
+    id: 11274
+    campaign: -57
+    sub: 14
+    if_emergency: -1
+    special_type: 9
+    name: 3일차·점심
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1126200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011274
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011274
+    mission_tip: mission-40011274
+  }
+  {
+    id: 11275
+    campaign: -57
+    sub: 15
+    if_emergency: -1
+    special_type: 9
+    name: 3일차·야간
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1126200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011275
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011275
+    mission_tip: mission-40011275
+  }
+  {
+    id: 11276
+    campaign: -57
+    sub: 16
+    if_emergency: -1
+    special_type: 9
+    name: 4일차·점심
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1126200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011276
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011276
+    mission_tip: mission-40011276
+  }
+  {
+    id: 11277
+    campaign: -57
+    sub: 17
+    if_emergency: -1
+    special_type: 9
+    name: 4일차·야간
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1126200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011277
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011277
+    mission_tip: mission-40011277
+  }
+  {
+    id: 11278
+    campaign: -57
+    sub: 18
+    if_emergency: -1
+    special_type: 9
+    name: 5일차·점심
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1126200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011278
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011278
+    mission_tip: mission-40011278
+  }
+  {
+    id: 11279
+    campaign: -57
+    sub: 19
+    if_emergency: -1
+    special_type: 9
+    name: 5일차·야간
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1126200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011279
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011279
+    mission_tip: mission-40011279
+  }
+  {
+    id: 11280
+    campaign: -57
+    sub: 20
+    if_emergency: -1
+    special_type: 9
+    name: 6일차·점심
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1126200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011280
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011280
+    mission_tip: mission-40011280
+  }
+  {
+    id: 11281
+    campaign: -57
+    sub: 21
+    if_emergency: -1
+    special_type: 9
+    name: 6일차·야간
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1126200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011281
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011281
+    mission_tip: mission-40011281
+  }
+  {
+    id: 11282
+    campaign: -57
+    sub: 22
+    if_emergency: -1
+    special_type: 9
+    name: 7일차·점심
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1126200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011282
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011282
+    mission_tip: mission-40011282
+  }
+  {
+    id: 11283
+    campaign: -57
+    sub: 23
+    if_emergency: -1
+    special_type: 9
+    name: 미소와 눈물의 밤
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1128300:1|1128301:1|1128302:1"
+    mission_group_id: 24
+    open_mission_keys: 1126900:1
+    mission_describe: mission-20011283
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011283
+    mission_tip: mission-40011283
+  }
+  {
+    id: 11284
+    campaign: -57
+    sub: 24
+    if_emergency: -1
+    special_type: 9
+    name: 형광색의 밤
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1128400:1|1128301:1|1128302:1"
+    mission_group_id: 24
+    open_mission_keys: 1126900:1
+    mission_describe: mission-20011284
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011284
+    mission_tip: mission-40011284
+  }
+  {
+    id: 11285
+    campaign: -57
+    sub: 25
+    if_emergency: -1
+    special_type: 9
+    name: 날아오른 밤
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1128500:1|1128301:1|1128302:1"
+    mission_group_id: 24
+    open_mission_keys: 1126900:1
+    mission_describe: mission-20011285
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011285
+    mission_tip: mission-40011285
+  }
+  {
+    id: 11286
+    campaign: -57
+    sub: 26
+    if_emergency: -1
+    special_type: 9
+    name: 무채색의 밤
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1128600:1|1128301:1|1128302:1"
+    mission_group_id: 24
+    open_mission_keys: 1126900:1
+    mission_describe: mission-20011286
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011286
+    mission_tip: mission-40011286
+  }
+  {
+    id: 11287
+    campaign: -57
+    sub: 27
+    if_emergency: -1
+    special_type: 9
+    name: 느슨한 배경판
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1128700:1|1128301:1|1128302:1"
+    mission_group_id: 24
+    open_mission_keys: 1126900:1
+    mission_describe: mission-20011287
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011287
+    mission_tip: mission-40011287
+  }
+  {
+    id: 11288
+    campaign: -57
+    sub: 28
+    if_emergency: -1
+    special_type: 9
+    name: 노래와 춤은 계속되리
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1128800:1|1128301:1|1128302:1"
+    mission_group_id: 24
+    open_mission_keys: 1126900:1
+    mission_describe: mission-20011288
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011288
+    mission_tip: mission-40011288
+  }
+  {
+    id: 11289
+    campaign: -57
+    sub: 29
+    if_emergency: -1
+    special_type: 9
+    name: 어깨 사이의 거리
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1128900:1|1128301:1|1128302:1"
+    mission_group_id: 24
+    open_mission_keys: 1126900:1
+    mission_describe: mission-20011289
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011289
+    mission_tip: mission-40011289
+  }
+  {
+    id: 11290
+    campaign: -57
+    sub: 30
+    if_emergency: -1
+    special_type: 9
+    name: 힘내라 알바생!
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1129000:1|1128301:1|1128302:1"
+    mission_group_id: 24
+    open_mission_keys: 1126900:1
+    mission_describe: mission-20011290
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011290
+    mission_tip: mission-40011290
+  }
+  {
+    id: 11291
+    campaign: -57
+    sub: 31
+    if_emergency: -1
+    special_type: 9
+    name: 에픽 드라이브!
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1129100:1|1128301:1|1128302:1"
+    mission_group_id: 24
+    open_mission_keys: 1126900:1
+    mission_describe: mission-20011291
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011291
+    mission_tip: mission-40011291
+  }
+  {
+    id: 11292
+    campaign: -57
+    sub: 32
+    if_emergency: -1
+    special_type: 9
+    name: 영감이 샘솟는다!
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1129200:1|1128301:1|1128302:1"
+    mission_group_id: 24
+    open_mission_keys: 1126900:1
+    mission_describe: mission-20011292
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011292
+    mission_tip: mission-40011292
+  }
+  {
+    id: 11293
+    campaign: -57
+    sub: 33
+    if_emergency: -1
+    special_type: 9
+    name: 거리 유지!
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1129300:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011293
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011293
+    mission_tip: mission-40011293
+  }
+  {
+    id: 11294
+    campaign: -57
+    sub: 34
+    if_emergency: -1
+    special_type: 9
+    name: 같은 이방인 사이
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1129400:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011294
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011294
+    mission_tip: mission-40011294
+  }
+  {
+    id: 11295
+    campaign: -57
+    sub: 35
+    if_emergency: -1
+    special_type: 9
+    name: 비 내리는 정원
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1129500:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011295
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011295
+    mission_tip: mission-40011295
+  }
+  {
+    id: 11296
+    campaign: -57
+    sub: 36
+    if_emergency: -1
+    special_type: 9
+    name: 퍼펙트 스트레인저
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1129600:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011296
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011296
+    mission_tip: mission-40011296
+  }
+  {
+    id: 11297
+    campaign: -57
+    sub: 37
+    if_emergency: -1
+    special_type: 9
+    name: 기묘한 성묘
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1129700:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011297
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011297
+    mission_tip: mission-40011297
+  }
+  {
+    id: 11298
+    campaign: -57
+    sub: 38
+    if_emergency: -1
+    special_type: 9
+    name: 시간 여행자
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1129800:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011298
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011298
+    mission_tip: mission-40011298
+  }
+  {
+    id: 11299
+    campaign: -57
+    sub: 39
+    if_emergency: -1
+    special_type: 9
+    name: 폭주 라디오!
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1129900:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011299
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011299
+    mission_tip: mission-40011299
+  }
+  {
+    id: 11300
+    campaign: -57
+    sub: 40
+    if_emergency: -1
+    special_type: 9
+    name: 길광편우
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1130000:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011300
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011300
+    mission_tip: mission-40011300
+  }
+  {
+    id: 11301
+    campaign: -57
+    sub: 41
+    if_emergency: -1
+    special_type: 9
+    name: 달은 누굴 처음 비추나
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1130100:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011301
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011301
+    mission_tip: mission-40011301
+  }
+  {
+    id: 11302
+    campaign: -57
+    sub: 42
+    if_emergency: -1
+    special_type: 9
+    name: 에이스 에이전트
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1130200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011302
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011302
+    mission_tip: mission-40011302
+  }
+  {
+    id: 11303
+    campaign: -57
+    sub: 43
+    if_emergency: -1
+    special_type: 9
+    name: 폭주 메모리얼!
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1130300:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011303
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011303
+    mission_tip: mission-40011303
+  }
+  {
+    id: 11304
+    campaign: -57
+    sub: 44
+    if_emergency: -1
+    special_type: 9
+    name: 아낌없는 선물
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1130400:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011304
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011304
+    mission_tip: mission-40011304
+  }
+  {
+    id: 11305
+    campaign: -57
+    sub: 45
+    if_emergency: -1
+    special_type: 9
+    name: 달맞이 바다
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1130500:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011305
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011305
+    mission_tip: mission-40011305
+  }
+  {
+    id: 11306
+    campaign: -57
+    sub: 46
+    if_emergency: -1
+    special_type: 9
+    name: 바다의 소리
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1130600:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011306
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011306
+    mission_tip: mission-40011306
+  }
+  {
+    id: 11307
+    campaign: -57
+    sub: 47
+    if_emergency: -1
+    special_type: 9
+    name: 벚꽃 심
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1130700:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011307
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011307
+    mission_tip: mission-40011307
+  }
+  {
+    id: 11308
+    campaign: -57
+    sub: 48
+    if_emergency: -1
+    special_type: 9
+    name: 안개 낀 바다 서로 등지고
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1130800:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011308
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011308
+    mission_tip: mission-40011308
+  }
+  {
+    id: 11309
+    campaign: -57
+    sub: 49
+    if_emergency: -1
+    special_type: 9
+    name: 몸에 쌓여가는 것
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1130900:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011309
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011309
+    mission_tip: mission-40011309
+  }
+  {
+    id: 11310
+    campaign: -57
+    sub: 50
+    if_emergency: -1
+    special_type: 9
+    name: 폭주 그래듀에이션
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1131000:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011310
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011310
+    mission_tip: mission-40011310
+  }
+  {
+    id: 11311
+    campaign: -57
+    sub: 51
+    if_emergency: -1
+    special_type: 9
+    name: '''"가지 마"'''
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1131100:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011311
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011311
+    mission_tip: mission-40011311
+  }
+  {
+    id: 11312
+    campaign: -57
+    sub: 52
+    if_emergency: -1
+    special_type: 9
+    name: 샤이닝 러브
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1131200:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011312
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011312
+    mission_tip: mission-40011312
+  }
+  {
+    id: 11313
+    campaign: -57
+    sub: 53
+    if_emergency: -1
+    special_type: 9
+    name: 해가 저물 때까지
+    difficulty: 1000
+    type: "3"
+    enemy_ai_type: 4
+    boss_team_id: "1"
+    turn_duration: 360000000
+    map_res_name: Chapter1_Y
+    map_information: "3000,2625|2000,1600|0,0"
+    fog_length: "0,500"
+    fog_color: "#000000FF"
+    drop_mission_key: "0,0,1131300:1"
+    mission_group_id: 24
+    open_mission_keys: 1126100:1
+    mission_describe: mission-20011313
+    round_config: 1:1,2:2,3:3
+    difficulty_recommend: 1000;10
+    difficulty_recommend_addendum: mission-30011313
+    mission_tip: mission-40011313
   }
   {
     id: 11318

@@ -844,10 +844,25 @@
     explore_tag: "1002"
   }
   {
+    id: 3102
+    name: *새해 괴도 너구리
+    spine_code: 2023Newyeartanuki
+    scale: 120
+    ai: 3060
+  }
+  {
     id: 3103
     name: 눈 굴리는 철댕이*
     spine_code: 2023SpringFes_dog
     scale: 68
     ai: 3064
+  }
+  {
+    id: 3104
+    name: 로메로
+    spine_code: saga_dog_pet
+    scale: 150
+    ai: 3060
+    explore_tag: "1002"
   }
 ]

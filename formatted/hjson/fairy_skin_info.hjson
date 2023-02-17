@@ -1133,4 +1133,31 @@
     ai: "1000"
     strengthen_lv: "3"
   }
+  {
+    id: "134"
+    name: 콧코 군
+    skin_name: 1단계 기본 형태
+    pic_id: DRBird_1
+    gift_fairy: "1009"
+    ai: "1000"
+    strengthen_lv: "1"
+  }
+  {
+    id: "135"
+    name: 콧코 군
+    skin_name: 2단계 기본 형태
+    pic_id: DRBird_2
+    gift_fairy: "1009"
+    ai: "1000"
+    strengthen_lv: "2"
+  }
+  {
+    id: "136"
+    name: 콧코 군
+    skin_name: 3단계 기본 형태
+    pic_id: DRBird_3
+    gift_fairy: "1009"
+    ai: "1000"
+    strengthen_lv: "3"
+  }
 ]
