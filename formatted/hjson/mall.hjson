@@ -590,7 +590,7 @@
     gift: 1-1
     gemprice: 388
     quota: 2001
-    giftbag_name: 마카로프 핼러윈 코스튬 패키지
+    giftbag_name: 마카로프 - 잭오랜턴
     event_code: dailyGiftbag
     icon: Bumdle_halloween
     discount: 1.0
@@ -604,7 +604,7 @@
     gift: 4-1
     gemprice: 588
     quota: 2001
-    giftbag_name: m45 핼러윈 코스튬 패키지
+    giftbag_name: M45 - 과자 배달부
     event_code: dailyGiftbag
     icon: Bumdle_halloween
     discount: 1.0
@@ -618,7 +618,7 @@
     gift: 8-1
     gemprice: 988
     quota: 2001
-    giftbag_name: Mk23 핼러윈 코스튬 패키지
+    giftbag_name: MK23 - 스위트 데빌
     event_code: dailyGiftbag
     icon: Bumdle_halloween
     discount: 1.0
@@ -740,7 +740,7 @@
     gift: 303-1
     gemprice: 588
     quota: 2001
-    giftbag_name: M14 성탄절 코스튬 패키지
+    giftbag_name: M14 - 성탄절 퍼레이드 의상
     event_code: dailyGiftbag
     icon: Bumdle_Christmas
     discount: 1.0
@@ -754,7 +754,7 @@
     gift: 302-1
     gemprice: 988
     quota: 2001
-    giftbag_name: 스프링필드 성탄절 코스튬 패키지
+    giftbag_name: 스프링필드 - 성스러운 밤의 축복
     event_code: dailyGiftbag
     icon: Bumdle_Christmas
     discount: 1.0
@@ -768,7 +768,7 @@
     gift: 308-1
     gemprice: 1488
     quota: 2001
-    giftbag_name: FAL 성탄절 코스튬 패키지
+    giftbag_name: FAL - 겨울 보급 작전
     event_code: dailyGiftbag
     icon: Bumdle_Christmas
     discount: 1.0
@@ -840,7 +840,7 @@
     gift: 406-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: 97식 설날 코스튬 패키지
+    giftbag_name: 97식 - 화려한 모란
     event_code: dailyGiftbag
     icon: Bumdle_Spring
     discount: 1.0
@@ -930,7 +930,7 @@
     gift: 605-1
     gemprice: 1888
     quota: 2001
-    giftbag_name: PK 서약 코스튬 패키지
+    giftbag_name: PK - 당신과 함께
     event_code: dailyGiftbag
     icon: Bumdle_whiteValentine
     discount: 1.0
@@ -1053,7 +1053,7 @@
     gift: 807-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: SR-3MP 무도회 코스튬 패키지
+    giftbag_name: SR-3MP - 검은토끼 마키아또
     event_code: dailyGiftbag
     icon: Bumdle_1yearpackage
     discount: 1.0
@@ -1067,7 +1067,7 @@
     gift: 803-1
     gemprice: 1888
     quota: 2001
-    giftbag_name: 모신나강 무도회 코스튬 패키지
+    giftbag_name: 모신-나강 - 달빛 바다
     event_code: dailyGiftbag
     icon: Bumdle_1yearpackage
     discount: 1.0
@@ -1081,7 +1081,7 @@
     gift: 801-1
     gemprice: 1288
     quota: 2001
-    giftbag_name: 스콜피온 무도회 코스튬 패키지
+    giftbag_name: 스콜피온 - 붉은 은하수
     event_code: dailyGiftbag
     icon: Bumdle_1yearpackage
     discount: 1.0
@@ -1207,7 +1207,7 @@
     gift: 1102-1
     gemprice: 2468
     quota: 2001
-    giftbag_name: 95식 수영복 코스튬 패키지
+    giftbag_name: 95식 - 여름의 풍류
     event_code: dailyGiftbag
     icon: Bumdle_black
     discount: 1.0
@@ -1221,7 +1221,7 @@
     gift: 1108-1
     gemprice: 1888
     quota: 2001
-    giftbag_name: WA2000 수영복 코스튬 패키지
+    giftbag_name: WA2000 - 모불라 작전
     event_code: dailyGiftbag
     icon: Bumdle_black
     discount: 1.0
@@ -1249,7 +1249,7 @@
     gift: 1101-1
     gemprice: 1388
     quota: 2001
-    giftbag_name: NTW-20 수영복 코스튬 패키지
+    giftbag_name: NTW-20 - 무더위 속 임무
     event_code: dailyGiftbag
     icon: Bumdle_black
     discount: 1.0
@@ -1587,7 +1587,7 @@
     gift: 1403-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: IWS2000 핼러윈 코스튬 패키지
+    giftbag_name: IWS 2000 - 일곱 번째 봉인자
     event_code: dailyGiftbag
     icon: Bumdle_halloween2017
     discount: 1.0
@@ -1872,7 +1872,7 @@
     gift: 1502-1
     gemprice: 1988
     quota: 2001
-    giftbag_name: 컨텐더 왕자전선 코스튬 패키지
+    giftbag_name: 컨텐더 - 오페라의 유령
     event_code: dailyGiftbag
     icon: Bumdle_black
     discount: 1.0
@@ -1886,7 +1886,7 @@
     gift: 1505-1
     gemprice: 1588
     quota: 2001
-    giftbag_name: AEK-999 왕자전선 코스튬 패키지
+    giftbag_name: AEK-999 - 광란의 질주
     event_code: dailyGiftbag
     icon: Bumdle_black
     discount: 1.0
@@ -2234,7 +2234,7 @@
     gift: 1603-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: Zas M21 성탄절 코스튬 패키지
+    giftbag_name: Zas M21 - 총성을 울리는 설녀
     event_code: dailyGiftbag
     icon: Bumdle_Christmas2017
     discount: 1.0
@@ -2275,7 +2275,7 @@
     gift: 1204-1
     gemprice: 1188
     quota: 2001
-    giftbag_name: KLIN 민속 코스튬 패키지
+    giftbag_name: KLIN - 추운 겨울을 넘어
     event_code: dailyGiftbag
     icon: Bumdle_black
     discount: 1.0
@@ -2405,7 +2405,7 @@
     gift: 1805-1
     gemprice: 1299
     quota: 2001
-    giftbag_name: MK23 설날 코스튬 패키지
+    giftbag_name: Mk23 - 브랜디시아
     event_code: dailyGiftbag
     icon: Bumdle_Spring2018
     discount: 1.0
@@ -2419,7 +2419,7 @@
     gift: 1802-1
     gemprice: 1699
     quota: 2001
-    giftbag_name: S.A.T.8 설날 코스튬 패키지
+    giftbag_name: S.A.T.8 - 매화 도장
     event_code: dailyGiftbag
     icon: Bumdle_Spring2018
     discount: 1.0
@@ -2433,7 +2433,7 @@
     gift: 1803-1
     gemprice: 1999
     quota: 2001
-    giftbag_name: ART556 설날 코스튬 패키지
+    giftbag_name: ART556 - 양배추 소녀
     event_code: dailyGiftbag
     icon: Bumdle_Spring2018
     discount: 1.0
@@ -2486,7 +2486,7 @@
     gift: 1904-1
     gemprice: 1888
     quota: 2001
-    giftbag_name: G36 서약 코스튬 패키지
+    giftbag_name: G36 - 순백의 수레국화
     event_code: dailyGiftbag
     icon: Bumdle_whiteValentine
     discount: 1.0
@@ -3714,7 +3714,7 @@
     gift: 2201-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: 카르카노M1891 어린이날 코스튬 패키지
+    giftbag_name: 카르카노M1891 - 용감한 재봉사
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: 1.0
@@ -4160,7 +4160,7 @@
     gift: 2406-1
     gemprice: 1699
     quota: 2001
-    giftbag_name: FAL 수영복 코스튬 패키지
+    giftbag_name: FAL - FAL의 여름
     event_code: dailyGiftbag
     icon: Bumdle_skin02
     discount: 1.0
@@ -4174,7 +4174,7 @@
     gift: 2405-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: MP7 수영복 코스튬 패키지
+    giftbag_name: MP7 - 사탕발린 총알
     event_code: dailyGiftbag
     icon: Bumdle_skin02
     discount: 1.0
@@ -4188,7 +4188,7 @@
     gift: 2404-1
     gemprice: 1999
     quota: 2001
-    giftbag_name: AN-94 수영복 코스튬 패키지
+    giftbag_name: AN-94 - 잠수종과 인형
     event_code: dailyGiftbag
     icon: Bumdle_skin02
     discount: 1.0
@@ -4202,7 +4202,7 @@
     gift: 2407-1
     gemprice: 1299
     quota: 2001
-    giftbag_name: G36 수영복 코스튬 패키지
+    giftbag_name: G36 - 50일의 메이드
     event_code: dailyGiftbag
     icon: Bumdle_skin02
     discount: 1.0
@@ -4476,7 +4476,7 @@
     gift: 2703-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: PM-06 아이돌 코스튬 패키지
+    giftbag_name: PM-06 - 창공을 나는 법
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: 1.0
@@ -4586,7 +4586,7 @@
     gift: 2802-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: P90 성탄절 코스튬 패키지
+    giftbag_name: P90 - 스칼렛 터보
     event_code: dailyGiftbag
     icon: Bumdle_Christmas
     discount: 1.0
@@ -5485,7 +5485,7 @@
     gift: 3004-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: IWS 2000 설날 코스튬 패키지
+    giftbag_name: IWS 2000 - 에델바이스
     event_code: dailyGiftbag
     icon: Bumdle_Spring2018
     discount: 1.0
@@ -5752,7 +5752,7 @@
     gift: 3103-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: G36C 서약 코스튬 패키지
+    giftbag_name: G36C - 행복을 향해서
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: 1.0
@@ -5889,7 +5889,7 @@
     gift: 3202-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: 네게브 다크 판타지 코스튬 패키지
+    giftbag_name: 네게브 - 프린세스 다크스톤
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: 1.0
@@ -6653,7 +6653,7 @@
     gift: 3307-1
     gemprice: 1299
     quota: 2001
-    giftbag_name: G28 무도회 코스튬 패키지
+    giftbag_name: G28 - 달빛과 에메랄드
     event_code: dailyGiftbag
     icon: Bumdle_cn3year
     discount: 1.0
@@ -6667,7 +6667,7 @@
     gift: 3309-1
     gemprice: 1588
     quota: 2001
-    giftbag_name: 썬더 무도회 코스튬 패키지
+    giftbag_name: 썬더 - 블랙 스완의 꿈
     event_code: dailyGiftbag
     icon: Bumdle_cn3year
     discount: 1.0
@@ -6681,7 +6681,7 @@
     gift: 3302-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: AK-12 무도회 코스튬 패키지
+    giftbag_name: AK-12 - 프리징 블루
     event_code: dailyGiftbag
     icon: Bumdle_cn3year
     discount: 1.0
@@ -6695,7 +6695,7 @@
     gift: 3306-1
     gemprice: 1988
     quota: 2001
-    giftbag_name: 79식 무도회 코스튬 패키지
+    giftbag_name: 79식 - 별빛의 폭스트롯
     event_code: dailyGiftbag
     icon: Bumdle_cn3year
     discount: 1.0
@@ -7024,7 +7024,7 @@
     gift: 3402-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: K11 어린이 코스튬 패키지
+    giftbag_name: K11 - 꼬마 과학자
     event_code: dailyGiftbag
     icon: Bumdle_summer
     discount: 1.0
@@ -7277,7 +7277,7 @@
     gift: 3502-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: 루이스 수영복 코스튬 패키지
+    giftbag_name: 루이스 - 자외선 차단 작전
     event_code: dailyGiftbag
     icon: Bumdle_natsu
     discount: 1.0
@@ -8073,7 +8073,7 @@
     gift: 3702-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: 95식 학원 코스튬 패키지
+    giftbag_name: 95식 - 순백의 졸업식
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: 1.0
@@ -8087,7 +8087,7 @@
     gift: 3705-1
     gemprice: 1588
     quota: 2001
-    giftbag_name: Mk23 학원 코스튬 패키지
+    giftbag_name: Mk23 - 개학을 알리는 고양이 노래
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: 1.0
@@ -8101,7 +8101,7 @@
     gift: 3708-1
     gemprice: 999
     quota: 2001
-    giftbag_name: TMP 학원 코스튬 패키지
+    giftbag_name: TMP - 냥 프리즘 파워
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: 1.0
@@ -8394,7 +8394,7 @@
     gift: 3807-1
     gemprice: 2180
     quota: 2001
-    giftbag_name: 97식 산탄총 핼러윈 코스튬 패키지
+    giftbag_name: 97식 산탄총 - 97계 병법
     event_code: dailyGiftbag
     icon: Bumdle_halloween2019
     discount: 1.0
@@ -8683,7 +8683,7 @@
     gift: 4002-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: HK21 성탄절 코스튬 패키지
+    giftbag_name: HK21 - 은여우와 9분의 1 승강장
     event_code: dailyGiftbag
     icon: Bumdle_Christmas
     discount: 1.0
@@ -9920,7 +9920,7 @@
     gift: 4204-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: JS 9 설날 코스튬 패키지
+    giftbag_name: JS9 - 황매화
     event_code: dailyGiftbag
     icon: Bumdle_Spingfestival
     discount: 1.0
@@ -9934,7 +9934,7 @@
     gift: 4205-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: MG36 설날 코스튬 패키지
+    giftbag_name: MG36 - 히비스커스
     event_code: dailyGiftbag
     icon: Bumdle_Spingfestival
     discount: 1.0
@@ -10031,7 +10031,7 @@
     gift: 4102-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: G11 신년 코스튬 패키지
+    giftbag_name: G11 - 봄잠 자는 쥐
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: 1.0
@@ -10045,7 +10045,7 @@
     gift: 4103-1
     gemprice: 1288
     quota: 2001
-    giftbag_name: 4식 신년 코스튬 패키지
+    giftbag_name: 4식 - 꽃 제기 치기
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: 1.0
@@ -10097,7 +10097,7 @@
     gift: 4303-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: 그리즐리 Mk V 서약 코스튬 패키지
+    giftbag_name: 그리즐리 MkV - 유성우가 내리는 밤
     event_code: dailyGiftbag
     icon: Bumdle_314
     discount: 1.0
@@ -10111,7 +10111,7 @@
     gift: 4306-1
     gemprice: 1888
     quota: 2001
-    giftbag_name: 스테츠킨 서약 코스튬 패키지
+    giftbag_name: 스테츠킨 - 미스 동백꽃의 특별 서비스
     event_code: dailyGiftbag
     icon: Bumdle_314
     discount: 1.0
@@ -10369,7 +10369,7 @@
     item_ids: 506-100,515-700,516-300
     gemprice: 128
     quota: 2001
-    giftbag_name: 혼합세력 육성 일일 패키지
+    giftbag_name: 4월 일일 패키지
     event_code: dailyGiftbag
     icon: Bumdle_black
     daily_quota: 1
@@ -10381,7 +10381,7 @@
     type: 8
     gemprice: 998
     quota: 2001
-    giftbag_name: 10연속 지정폭격 특가 패키지
+    giftbag_name: 4월 특별 패키지
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: 1.0
@@ -10409,7 +10409,7 @@
     gift: 4401-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: AA-12 잠옷 코스튬 패키지
+    giftbag_name: AA-12 - 뜬구름 사탕
     event_code: dailyGiftbag
     icon: Bumdle_package
     discount: 1.0
@@ -13191,7 +13191,7 @@
     gemprice: 400
     original_price: 500
     quota: 2001
-    giftbag_name: 경면 우주
+    giftbag_name: 리듬 따라 질주
     event_code: dailyGiftbag
     discount: 1.0
     prize_id: 94911
@@ -13204,7 +13204,7 @@
     gemprice: 400
     original_price: 500
     quota: 2001
-    giftbag_name: 천외 성계
+    giftbag_name: 꿈을 걸고서
     event_code: dailyGiftbag
     discount: 1.0
     prize_id: 94912
@@ -13217,7 +13217,7 @@
     gemprice: 400
     original_price: 500
     quota: 2001
-    giftbag_name: 천문관 기념품
+    giftbag_name: 땀이 쏟아질 때
     event_code: dailyGiftbag
     discount: 1.0
     prize_id: 94920
@@ -13230,7 +13230,7 @@
     gemprice: 400
     original_price: 500
     quota: 2001
-    giftbag_name: 하늘의 별 따기
+    giftbag_name: 터질듯한 영혼
     event_code: dailyGiftbag
     discount: 1.0
     prize_id: 94931
@@ -13243,7 +13243,7 @@
     gemprice: 400
     original_price: 500
     quota: 2001
-    giftbag_name: 성간 항행
+    giftbag_name: 날아갈 듯 박차고
     event_code: dailyGiftbag
     discount: 1.0
     prize_id: 94932
@@ -13256,7 +13256,7 @@
     gemprice: 400
     original_price: 500
     quota: 2001
-    giftbag_name: 생명 보장 시스템
+    giftbag_name: 신체단련기
     event_code: dailyGiftbag
     discount: 1.0
     prize_id: 94940
@@ -13269,7 +13269,7 @@
     gemprice: 400
     original_price: 500
     quota: 2001
-    giftbag_name: 순항 공간
+    giftbag_name: 최고속 스텝
     event_code: dailyGiftbag
     discount: 1.0
     prize_id: 94951
@@ -13282,7 +13282,7 @@
     gemprice: 400
     original_price: 500
     quota: 2001
-    giftbag_name: 광년 도약
+    giftbag_name: 활기찬 덤블링
     event_code: dailyGiftbag
     discount: 1.0
     prize_id: 94952
@@ -13479,7 +13479,7 @@
     gift: 4502-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: M200 무도회 코스튬 패키지
+    giftbag_name: M200 - 전장의 취재자
     event_code: dailyGiftbag
     icon: Bumdle_newskin04
     discount: 1.0
@@ -13493,7 +13493,7 @@
     gift: 4504-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: RO635 무도회 코스튬 패키지
+    giftbag_name: RO635 - 규율의 집행인
     event_code: dailyGiftbag
     icon: Bumdle_newskin04
     discount: 1.0
@@ -13507,7 +13507,7 @@
     gift: 4508-1
     gemprice: 1888
     quota: 2001
-    giftbag_name: ST AR-15 무도회 코스튬 패키지
+    giftbag_name: ST AR-15 - 꿈속의 수감자
     event_code: dailyGiftbag
     icon: Bumdle_newskin04
     discount: 1.0
@@ -13521,7 +13521,7 @@
     gift: 4505-1
     gemprice: 1888
     quota: 2001
-    giftbag_name: M4A1 무도회 코스튬 패키지
+    giftbag_name: M4A1 - 세월의 정착자
     event_code: dailyGiftbag
     icon: Bumdle_newskin04
     discount: 1.0
@@ -13535,7 +13535,7 @@
     gift: 4506-1
     gemprice: 1888
     quota: 2001
-    giftbag_name: M16A1 무도회 코스튬 패키지
+    giftbag_name: M16A1 - 앞길의 인도자
     event_code: dailyGiftbag
     icon: Bumdle_newskin04
     discount: 1.0
@@ -13549,7 +13549,7 @@
     gift: 4507-1
     gemprice: 1888
     quota: 2001
-    giftbag_name: M4 SOPMODII 무도회 코스튬 패키지
+    giftbag_name: M4 SOPMODII - 연석의 약탈자
     event_code: dailyGiftbag
     icon: Bumdle_newskin04
     discount: 1.0
@@ -13589,7 +13589,7 @@
     gift: 4603-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: X95 어린이 코스튬 패키지
+    giftbag_name: X95 - 백장미 소녀
     event_code: dailyGiftbag
     icon: Bumdle_newskin03
     discount: 1.0
@@ -13603,7 +13603,7 @@
     gift: 4604-1
     gemprice: 1288
     quota: 2001
-    giftbag_name: FAMAS 어린이 코스튬 패키지
+    giftbag_name: FAMAS - 새와 숲지기
     event_code: dailyGiftbag
     icon: Bumdle_newskin03
     discount: 1.0
@@ -14334,7 +14334,7 @@
     gift: 4706-1
     gemprice: 1888
     quota: 2001
-    giftbag_name: KAC-PDW 수영복 코스튬 패키지
+    giftbag_name: KAC-PDW - 달콤한 마음
     event_code: dailyGiftbag
     icon: Bumdle_newskin07
     discount: 1.0
@@ -14348,7 +14348,7 @@
     gift: 4704-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: SL8 수영복 코스튬 패키지
+    giftbag_name: SL8 - 파도를 넘어
     event_code: dailyGiftbag
     icon: Bumdle_newskin07
     discount: 1.0
@@ -16684,7 +16684,7 @@
     gift: 5203-1
     gemprice: 2588
     quota: 2001
-    giftbag_name: VHS 특공대 코스튬 패키지
+    giftbag_name: VHS - 페이지 에이트 KP
     event_code: dailyGiftbag
     icon: Bumdle_Division
     discount: 1.0
@@ -24477,8 +24477,8 @@
     event_code: dailyGiftbag
     discount: 1.0
     pay_type: 1
-    itemprice: 100136-150
-    classification_id: 1004
+    itemprice: 100179-150
+    classification_id: 1007
   }
   {
     id: 10860
@@ -24489,8 +24489,8 @@
     event_code: dailyGiftbag
     discount: 1.0
     pay_type: 1
-    itemprice: 100136-50
-    classification_id: 1004
+    itemprice: 100179-50
+    classification_id: 1007
   }
   {
     id: 10861
@@ -24501,8 +24501,8 @@
     event_code: dailyGiftbag
     discount: 1.0
     pay_type: 1
-    itemprice: 100136-30
-    classification_id: 1004
+    itemprice: 100179-30
+    classification_id: 1007
   }
   {
     id: 10862
@@ -24513,8 +24513,8 @@
     event_code: dailyGiftbag
     discount: 1.0
     pay_type: 1
-    itemprice: 100136-30
-    classification_id: 1004
+    itemprice: 100179-30
+    classification_id: 1007
   }
   {
     id: 10863
@@ -24525,8 +24525,8 @@
     event_code: dailyGiftbag
     discount: 1.0
     pay_type: 1
-    itemprice: 100136-30
-    classification_id: 1004
+    itemprice: 100179-30
+    classification_id: 1007
   }
   {
     id: 10864
@@ -24537,8 +24537,8 @@
     discount: 1.0
     prize_id: 1431
     pay_type: 1
-    itemprice: 100136-80
-    classification_id: 1004
+    itemprice: 100179-80
+    classification_id: 1007
   }
   {
     id: 10865
@@ -24549,8 +24549,8 @@
     event_code: dailyGiftbag
     discount: 1.0
     pay_type: 1
-    itemprice: 100136-3
-    classification_id: 1004
+    itemprice: 100179-3
+    classification_id: 1007
   }
   {
     id: 10866
@@ -24561,8 +24561,8 @@
     event_code: dailyGiftbag
     discount: 1.0
     pay_type: 1
-    itemprice: 100136-2
-    classification_id: 1004
+    itemprice: 100179-2
+    classification_id: 1007
   }
   {
     id: 10867
@@ -24573,8 +24573,8 @@
     event_code: dailyGiftbag
     discount: 1.0
     pay_type: 1
-    itemprice: 100136-2
-    classification_id: 1004
+    itemprice: 100179-2
+    classification_id: 1007
   }
   {
     id: 10868
@@ -24585,8 +24585,8 @@
     event_code: dailyGiftbag
     discount: 1.0
     pay_type: 1
-    itemprice: 100136-2
-    classification_id: 1004
+    itemprice: 100179-2
+    classification_id: 1007
   }
   {
     id: 10869
@@ -24597,8 +24597,8 @@
     discount: 1.0
     prize_id: 652
     pay_type: 1
-    itemprice: 100135-500
-    classification_id: 1003
+    itemprice: 100178-500
+    classification_id: 1008
   }
   {
     id: 10870
@@ -24609,8 +24609,8 @@
     discount: 1.0
     prize_id: 651
     pay_type: 1
-    itemprice: 100135-500
-    classification_id: 1003
+    itemprice: 100178-500
+    classification_id: 1008
   }
   {
     id: 10871
@@ -24621,8 +24621,8 @@
     discount: 1.0
     prize_id: 40230
     pay_type: 1
-    itemprice: 100134-400
-    classification_id: 1003
+    itemprice: 100177-400
+    classification_id: 1008
   }
   {
     id: 10872
@@ -24633,8 +24633,8 @@
     discount: 1.0
     prize_id: 1289
     pay_type: 1
-    itemprice: 100134-400
-    classification_id: 1003
+    itemprice: 100177-400
+    classification_id: 1008
   }
   {
     id: 10873
@@ -24645,8 +24645,8 @@
     event_code: dailyGiftbag
     discount: 1.0
     pay_type: 1
-    itemprice: 100134-5
-    classification_id: 1003
+    itemprice: 100177-5
+    classification_id: 1008
   }
   {
     id: 10874
@@ -24657,8 +24657,8 @@
     event_code: dailyGiftbag
     discount: 1.0
     pay_type: 1
-    itemprice: 100135-5
-    classification_id: 1003
+    itemprice: 100178-5
+    classification_id: 1008
   }
   {
     id: 10875
@@ -29278,6 +29278,20 @@
     discount: 1.0
     prize_id: 1542
     classification_id: 3002
+  }
+  {
+    id: 11234
+    type: 8
+    item_ids: 7-1,41-100
+    gift: 8102-1
+    gemprice: 2588
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: SP9 - 거품 같은 흰눈
+    event_code: dailyGiftbag
+    icon: Bumdle_whiteValentine
+    discount: 1.0
+    classification_id: 3003
   }
   {
     id: 99001

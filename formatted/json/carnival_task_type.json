@@ -121,7 +121,7 @@
     "id": 54, "type": "adjust_equip", "title": "장비교정", "content": "carnival_task_type-20000054", 
     "function_control_id": 0
   }, {
-    "id": 55, "type": "trial_mission", "title": "방어훈련", "content": "모의작전-방어훈련 {0}회 완료", 
+    "id": 55, "type": "trial_mission", "title": "방어훈련", "content": "모의작전-방어연습 누적 {0}회 완료", 
     "function_control_id": 0
   }, {
     "id": 56, "type": "win_hunter", "title": "carnival_task_type-10000056", "content": "철혈 BOSS 헌터 {0}회 처치", 
@@ -136,11 +136,11 @@
     "id": 59, "type": "win_ouroboros", "title": "carnival_task_type-10000059", "content": "철혈 BOSS 우로보로스 {0}회 처치", 
     "function_control_id": 0
   }, {
-    "id": 60, "type": "get_friend_points", "title": "carnival_task_type-10000060", 
-    "content": "기간 동안 우정 포인트 {0}점 획득", "function_control_id": 0
+    "id": 60, "type": "get_friend_points", "title": "우정 획득", "content": "기간 동안 우정 포인트 {0}점 획득", 
+    "function_control_id": 0
   }, {
-    "id": 61, "type": "consume_friend_points", "title": "carnival_task_type-10000061", 
-    "content": "기간 동안 우정 포인트 {0}점 소모", "function_control_id": 0
+    "id": 61, "type": "consume_friend_points", "title": "우정 소모", "content": "기간 동안 우정 포인트 {0}점 소모", 
+    "function_control_id": 0
   }, {
     "id": 62, "type": "consume_build_coin", "title": "carnival_task_type-10000062", 
     "content": "기간 동안 건설 자료 {0} 소모", "function_control_id": 0
@@ -341,7 +341,7 @@
     "id": 130, "type": "consume_sangvis_material1_coin", "title": "혼합점수(추가혼합점수 포함)", 
     "content": "혼합점수 {0}점 소모", "function_control_id": 0
   }, {
-    "id": 131, "type": "special_develop_fairy", "title": "요정중형제조", "content": "요정중형제조 {0}회", 
+    "id": 131, "type": "special_develop_fairy", "title": "중형요정제조", "content": "요정제조 누적 {0}회 진행", 
     "function_control_id": 1
   }
 ]

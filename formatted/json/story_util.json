@@ -2576,51 +2576,57 @@
     "step_end_story": ""
   }, {
     "id": 525, "mission_id": "10474", "description": "story_util-10000525", "scripts": "", "campaign": -36, 
-    "bgm": "BGM_Frontline", "title": "탈출가속도 EX-II", "is_util": 1, "start": "-36-5-EX", "round": "", "point": "", 
+    "bgm": "BGM_Frontline", "title": "탈출 가속도 EX-II", "is_util": 1, "start": "-36-5-EX", "round": "", "point": "", 
     "first": "", "mid": "", "end": "", "fail": "", "step_start_story": "", "step_end_story": ""
   }, {
-    "id": 526, "mission_id": "10475", "description": "사진관 미스테리test", "scripts": "-37-2-1", "campaign": -37, 
-    "bgm": "BGM_Frontline", "title": "빈집", "is_util": 0, "start": "-37-2-1", "round": "", "point": "", "first": "", 
-    "mid": "", "end": "", "fail": "", "step_start_story": "", "step_end_story": ""
+    "id": 526, "mission_id": "10481", 
+    "description": "\"버려진 건물 치곤 유지보수가 너무 잘 되어있다. 썩은 냄새도 없고 정문 앞의 카펫 마저 깨끗하다.\"", 
+    "scripts": "-37-1-1", "campaign": -37, "bgm": "BGM_Frontline", "title": "빈집", "is_util": 0, "start": "-37-1-1", 
+    "round": "", "point": "", "first": "", "mid": "", "end": "", "fail": "", "step_start_story": "", "step_end_story": ""
   }, {
-    "id": 527, "mission_id": "10476", "description": "사진관 미스테리test", 
+    "id": 527, "mission_id": "10475", "description": "\"전원이 끊어지고, 사태는 가장 끔찍한 상황까지 발전했다.\"", 
+    "scripts": "-37-2-1", "campaign": -37, "bgm": "BGM_Frontline", "title": "그리폰의 건축가", "is_util": 0, 
+    "start": "-37-2-1", "round": "", "point": "", "first": "", "mid": "", "end": "", "fail": "", "step_start_story": "", 
+    "step_end_story": ""
+  }, {
+    "id": 528, "mission_id": "10476", "description": "\"세월이 아무리 지나도 그대는 여전히 아름답구나.\"", 
     "scripts": "-37-3-1First,-37-3-4-Point70626,-37-3-4-Point70633,-37-3-2End", "campaign": -37, "bgm": "BGM_Frontline", 
-    "title": "그리폰의 건축가", "is_util": 0, "start": "-37-3-1First", "round": "", 
+    "title": "MDR의 실종", "is_util": 0, "start": "-37-3-1First", "round": "", 
     "point": "70626:-37-3-4-Point70626,70633:-37-3-4-Point70633", "first": "-37-3-2End", "mid": "", "end": "-37-3-2End", 
     "fail": "", "step_start_story": "", "step_end_story": ""
   }, {
-    "id": 528, "mission_id": "10477", "description": "사진관 미스테리test", "scripts": "-37-4-1,-37-4-4-Point70712", 
-    "campaign": -37, "bgm": "BGM_Frontline", "title": "MDR의 실종", "is_util": 0, "start": "-37-4-1", "round": "", 
-    "point": "70712:-37-4-4-Point70712", "first": "", "mid": "", "end": "", "fail": "", "step_start_story": "", 
-    "step_end_story": ""
+    "id": 529, "mission_id": "10477", "description": "\"으슥한 양관 안에 숨은 적이 리엔필드 일행의 등을 주시한다.\"", 
+    "scripts": "-37-4-1,-37-4-4-Point70712", "campaign": -37, "bgm": "BGM_Frontline", "title": "곱사등이", "is_util": 0, 
+    "start": "-37-4-1", "round": "", "point": "70712:-37-4-4-Point70712", "first": "", "mid": "", "end": "", "fail": "", 
+    "step_start_story": "", "step_end_story": ""
   }, {
-    "id": 529, "mission_id": "10478", "description": "사진관 미스테리test", "scripts": "-37-5-1First,-37-5-2End", 
-    "campaign": -37, "bgm": "BGM_Frontline", "title": "곱사등이", "is_util": 0, "start": "-37-5-1First", "round": "", 
-    "point": "", "first": "-37-5-2End", "mid": "", "end": "-37-5-2End", "fail": "", "step_start_story": "", 
-    "step_end_story": ""
+    "id": 530, "mission_id": "10478", "description": "\"유령 살인이란 건 사람이 속임수로 만들어낸 거짓에 불과하다.\"", 
+    "scripts": "-37-5-1First,-37-5-2End", "campaign": -37, "bgm": "BGM_Frontline", "title": "귤씨 7개", "is_util": 0, 
+    "start": "-37-5-1First", "round": "", "point": "", "first": "-37-5-2End", "mid": "", "end": "-37-5-2End", "fail": "", 
+    "step_start_story": "", "step_end_story": ""
   }, {
-    "id": 530, "mission_id": "10479", "description": "사진관 미스테리test", 
+    "id": 531, "mission_id": "10479", 
+    "description": "\"거기에 쓰러져 있는 PK를 보면서 리엔필드는... 참으로 아름답다는 생각을 금치 못했다.\"", 
     "scripts": "-37-6-1,-37-6-4-Point70901,-37-6-4-Point70905,-37-6-4-Point70906,-37-6-4-Point70912,-37-6-4-Point70918,-37-6-4-Point70919,-37-6-4-Point70923", 
-    "campaign": -37, "bgm": "BGM_Frontline", "title": "귤씨 7개", "is_util": 0, "start": "-37-6-1", "round": "", 
+    "campaign": -37, "bgm": "BGM_Frontline", "title": "2번째 마인드맵", "is_util": 0, "start": "-37-6-1", "round": "", 
     "point": "70901:-37-6-4-Point70901,70905:-37-6-4-Point70905,70906:-37-6-4-Point70906,70912:-37-6-4-Point70912,70918:-37-6-4-Point70918,70919:-37-6-4-Point70919,70923:-37-6-4-Point70923", 
     "first": "", "mid": "", "end": "", "fail": "", "step_start_story": "", "step_end_story": ""
   }, {
-    "id": 531, "mission_id": "10480", "description": "사진관 미스테리test", 
+    "id": 532, "mission_id": "10480", 
+    "description": "\"근처 주민들의 소문으론 이 버려진 양관에서 틈틈이 소음이 들려와, 한이 맺힌 신부의 유령이 떠도는 것이란 전설이 생겼다.\"", 
     "scripts": "-37-7-1First,-37-7-4-Point71024,-37-7-2End", "campaign": -37, "bgm": "BGM_Frontline", 
-    "title": "2번째 마인드맵", "is_util": 0, "start": "-37-7-1First", "round": "", "point": "71024:-37-7-4-Point71024", 
+    "title": "유령 별장의 소문", "is_util": 0, "start": "-37-7-1First", "round": "", "point": "71024:-37-7-4-Point71024", 
     "first": "-37-7-2End", "mid": "", "end": "-37-7-2End", "fail": "", "step_start_story": "", "step_end_story": ""
   }, {
-    "id": 532, "mission_id": "10481", "description": "사진관 미스테리test", "scripts": "-37-1-1", "campaign": -37, 
-    "bgm": "BGM_Frontline", "title": "유령 별장의 소문", "is_util": 0, "start": "-37-1-1", "round": "", "point": "", 
-    "first": "", "mid": "", "end": "", "fail": "", "step_start_story": "", "step_end_story": ""
+    "id": 533, "mission_id": "10482", "description": "\"이건 판타지가 아니라 삼류 추리 소설이다.\"", "scripts": "-37-8-1", 
+    "campaign": -37, "bgm": "BGM_Frontline", "title": "리엔필드의 인사 Ⅰ", "is_util": 0, "start": "-37-8-1", "round": "", 
+    "point": "", "first": "", "mid": "", "end": "", "fail": "", "step_start_story": "", "step_end_story": ""
   }, {
-    "id": 533, "mission_id": "10482", "description": "사진관 미스테리test", "scripts": "-37-8-1", "campaign": -37, 
-    "bgm": "BGM_Frontline", "title": "리엔필드의 안부 Ⅰ", "is_util": 0, "start": "-37-8-1", "round": "", "point": "", 
-    "first": "", "mid": "", "end": "", "fail": "", "step_start_story": "", "step_end_story": ""
-  }, {
-    "id": 534, "mission_id": "10483", "description": "사진관 미스테리test", "scripts": "-37-9-1", "campaign": -37, 
-    "bgm": "BGM_Frontline", "title": "리엔필드의 안부 Ⅱ", "is_util": 0, "start": "-37-9-1", "round": "", "point": "", 
-    "first": "", "mid": "", "end": "", "fail": "", "step_start_story": "", "step_end_story": ""
+    "id": 534, "mission_id": "10483", 
+    "description": "\"예술가의 평생에서 작품을 단 두 명에게 전할 수만 있다면 족하다. 그 매력에 현혹되지 않는 자와 그 매력을 이해할 수 있는 자.\"", 
+    "scripts": "-37-9-1", "campaign": -37, "bgm": "BGM_Frontline", "title": "리엔필드의 안부 Ⅱ", "is_util": 0, 
+    "start": "-37-9-1", "round": "", "point": "", "first": "", "mid": "", "end": "", "fail": "", "step_start_story": "", 
+    "step_end_story": ""
   }, {
     "id": 535, "mission_id": "125", 
     "description": "404 소대는 합류하자마자 포위당한 지휘관을 구하는 동시에 안젤리아가 맡긴 어린 니토들을 지키기 위해 또 갈라져야 했다.", 

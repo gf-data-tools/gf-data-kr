@@ -13554,6 +13554,116 @@
     detail_introduction: item-30002261
   }
   {
+    id: 2262
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2023_DP12
+    item_name: DP-12 - 은혜 갚는 백조
+    introduction: DP-12 - 은혜 갚는 백조
+    rank: 1
+    detail_introduction: item-30002262
+  }
+  {
+    id: 2263
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2023_SP9
+    item_name: SP9 - 거품 같은 흰눈
+    introduction: SP9 - 거품 같은 흰눈
+    rank: 1
+    detail_introduction: item-30002263
+  }
+  {
+    id: 2264
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2023_AUG
+    item_name: AUG - 블루 메디테이션
+    introduction: AUG - 블루 메디테이션
+    rank: 1
+    detail_introduction: item-30002264
+  }
+  {
+    id: 2265
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2023_MondragonM1908
+    item_name: 몬드라곤 M1908 - 등나무 몽환경
+    introduction: 몬드라곤 M1908 - 등나무 몽환경
+    rank: 1
+    detail_introduction: item-30002265
+  }
+  {
+    id: 2266
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2023_TAR21
+    item_name: TAR-21 - 길 잃은 3월의 토끼
+    introduction: TAR-21 - 길 잃은 3월의 토끼
+    rank: 1
+    detail_introduction: item-30002266
+  }
+  {
+    id: 2267
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2023_357
+    item_name: 아스트라 리볼버 - 꽃향기와 나비
+    introduction: 아스트라 리볼버 - 꽃향기와 나비
+    rank: 1
+    detail_introduction: item-30002267
+  }
+  {
+    id: 2268
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2023_MP443
+    item_name: MP-443 - 이승에서의 소망
+    introduction: MP-443 - 이승에서의 소망
+    rank: 1
+    detail_introduction: item-30002268
+  }
+  {
+    id: 2269
+    type: 5
+    arg: "1"
+    code: profilePic_ChessBonus_M1897
+    item_name: M1897 - 게이밍 버드
+    introduction: M1897 - 게이밍 버드
+    rank: 1
+    detail_introduction: item-30002269
+  }
+  {
+    id: 2270
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season10_1
+    item_name: 블랙잭 · Code8: 극선
+    introduction: 블랙잭 · Code8: 극선
+    rank: 1
+    detail_introduction: item-30002270
+  }
+  {
+    id: 2271
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season10_2
+    item_name: 유커 트릭 · Code8: 극선
+    introduction: 유커 트릭 · Code8: 극선
+    rank: 1
+    detail_introduction: item-30002271
+  }
+  {
+    id: 2272
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season10_3
+    item_name: 트릭스터 · Code8: 극선
+    introduction: 트릭스터 · Code8: 극선
+    rank: 1
+    detail_introduction: item-30002272
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -16383,6 +16493,37 @@
     detail_introduction: item-30100176
   }
   {
+    id: 100177
+    type: 4
+    arg: "100177"
+    code: Nova_medal
+    item_name: 노바훈장·사랑의 조리법
+    introduction: 노바훈장·사랑의 조리법
+    rank: 1
+    detail_introduction: item-30100177
+  }
+  {
+    id: 100178
+    type: 4
+    arg: "100178"
+    code: Platinum_medal
+    item_name: 백금훈장·사랑의 조리법
+    introduction: 백금훈장·사랑의 조리법
+    rank: 1
+    detail_introduction: item-30100178
+  }
+  {
+    id: 100179
+    type: 9
+    arg: "100179"
+    code: Roasted_Cocoa
+    item_name: 베이킹 코코아
+    introduction: 베이킹 코코아
+    rank: 1
+    daily_limit: "60"
+    detail_introduction: item-30100179
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -16957,10 +17098,20 @@
     type: 4
     arg: "110058"
     code: PT
-    item_name: item-10110058
-    introduction: item-20110058
+    item_name: 이벤트 점수
+    introduction: 이벤트 점수
     rank: 1
     detail_introduction: item-30110058
+  }
+  {
+    id: 110059
+    type: 4
+    arg: "110059"
+    code: PT
+    item_name: 이벤트 점수
+    introduction: 이벤트 점수
+    rank: 1
+    detail_introduction: item-30110059
   }
   {
     id: 120001

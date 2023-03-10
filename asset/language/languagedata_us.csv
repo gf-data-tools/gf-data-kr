@@ -1219,6 +1219,7 @@ DEPLOYMENT,30116,Entering Night battle,,0
 DEPLOYMENT,30117,Number of Echelons deployed,,0
 DEPLOYMENT,30118,Turns left,,0
 DEPLOYMENT,30119,Emergency Repair consumes twice as much resources!,,0
+DEPLOYMENT,30120,Gold medals can't be obtained after using Emergency Repair,,0
 DEPLOYMENT,30121,Classified as:,,0
 DEPLOYMENT,30122,No Handguns(HG) in this Echelon//c the Echelon will have no vision in night battle!,,0
 DEPLOYMENT,30123,Daily Support Echelon limit exceeded!,,0
@@ -4499,6 +4500,7 @@ MALL,71156,Potential Energy sold out for today,,0
 MALL,71157,Buy Sim Energy,,0
 MALL,71158,Buy Potential Energy,,0
 MALL,71159,Content Preview,,0
+MALL,71166,当前价格:(todo),,0
 DOWNLOAD,80000,Resuming download of incomplete data files.,,0
 DOWNLOAD,80001,Please ensure that your device has at least ,,0
 DOWNLOAD,80002, memory! Continue?,,0

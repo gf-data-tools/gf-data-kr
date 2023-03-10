@@ -676,6 +676,12 @@
     "substitute_voice": "", "dialog": "어아어아, 으아아아아아!!(모든 것을 박살낼 기세로 가득하다!)", "note": "skin-30000593", 
     "explore_tag": "", "gift_position": "-352.1,67.5", "illustrator_cv": "skin-40000593", "order": 101, "class_id": 0
   }, {
+    "id": 594, "name": "M1897 - 게이밍 버드", "extra": 0, "fit_gun": 152, "ai": 0, "voice": 4, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "지, 지휘관님! 들키고 말았네요. 저 이 둘을 전혀 이기지 못하겠어요... 하아, 지휘관님은 정말 대단해요. 눈깜짝할 사이에 형세를 뒤집어 상대의 말을 모조리 해치우시다니!", 
+    "note": "skin-30000594", "explore_tag": "", "gift_position": "-352.1,67.5", "illustrator_cv": "skin-40000594", 
+    "order": 101, "class_id": 0
+  }, {
     "id": 601, "name": "토카레프 - 두 사람의 인생", "extra": 0, "fit_gun": 6, "ai": 40601, "voice": 16, "is_hidden": 0, 
     "substitute_voice": "", "dialog": "저희 둘의... 관계에 대해? 잘 모르겠습니다만...가르쳐 주시겠어요?", 
     "note": "skin-30000601", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40000601", "order": 7, 
@@ -3683,6 +3689,48 @@
     "dialog": "새해 소원? 흠, 소원이라... 어머나, 그렇게 가까이 오고선, 내 소원을 엿듣고 싶은 거니? 내가 귓가에 속삭여줄까? ...우리 귀염둥이가 매일 건강하고 무사하길 바랄게.", 
     "note": "skin-30008008", "explore_tag": "", "gift_position": "", "illustrator_cv": "YoYo,Ikadai Kanae,", "order": 100, 
     "class_id": 85
+  }, {
+    "id": 8101, "name": "DP-12 - 은혜 갚는 백조", "extra": 0, "fit_gun": 282, "ai": 48101, "voice": 16, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "호숫가에서 한 약속대로, 오늘 밤 사람이 되어 만나러 왔답니다... 음? 왜 그런 얼굴로 보시나요? 가짜 백조라 해도 당신을 향한 마음은 진실이랍니다.", 
+    "note": "skin-30008101", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40008101", "order": 103, 
+    "class_id": 86
+  }, {
+    "id": 8102, "name": "SP9 - 거품 같은 흰눈", "extra": 0, "fit_gun": 341, "ai": 48102, "voice": 16, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "예전엔 어떻게 이토록 남을 쉽게 믿고 위험에 뛰어들 사람이 있을 줄 몰랐어... 당신을 만나고서야 깨달았어, 행복으로 가는 길이 가시밭길일 뿐이라면 나도 똑같이 남을 쉽게 믿을 것이라고.", 
+    "note": "skin-30008102", "explore_tag": "", "gift_position": "-194.3,62.6", "illustrator_cv": "skin-40008102", 
+    "order": 103, "class_id": 86
+  }, {
+    "id": 8103, "name": "AUG - 블루 메디테이션", "extra": 0, "fit_gun": 73, "ai": 48103, "voice": 16, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "여길 잔뜩 뒤져봤지만 멀쩡한 건 이 첼로뿐인 것 같더군요... 잠깐 저주받은 왕자 역할을 맡아, 무겁고 잔잔한 선율에 맞춰 함께 한 곡 춤을 추시겠나요?", 
+    "note": "skin-30008103", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40008103", "order": 103, 
+    "class_id": 86
+  }, {
+    "id": 8105, "name": "몬드라곤 M1908 - 등나무 몽환경", "extra": 0, "fit_gun": 317, "ai": 48105, "voice": 16, 
+    "is_hidden": 0, "substitute_voice": "", 
+    "dialog": "저주의 기한이 찾아오면 왕궁을 감싼 가시덩굴은 그 운명의 사람을 위해 길을 열어준다... 저는 이 이야기의 질서를 참 좋아합니다. 지휘관님께서 1초 차이 없이 약속시간에 맞춰 온 것처럼요.", 
+    "note": "skin-30008105", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40008105", "order": 103, 
+    "class_id": 86
+  }, {
+    "id": 8106, "name": "TAR-21 - 길 잃은 3월의 토끼", "extra": 0, "fit_gun": 72, "ai": 48106, "voice": 16, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "지휘관님, 예약하신 \"판타지 나무굴 커플 투어\"가 곧 출발합니다~ 안심하세요, 날짜를 앞당긴 게 아니라 교통비를 절약하기 위해 거기까지 걸어가는 거예요.", 
+    "note": "skin-30008106", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40008106", "order": 103, 
+    "class_id": 86
+  }, {
+    "id": 8107, "name": "아스트라 리볼버 - 꽃향기와 나비", "extra": 0, "fit_gun": 14, "ai": 48107, "voice": 16, 
+    "is_hidden": 0, "substitute_voice": "", 
+    "dialog": "똑똑똑~ 나비 선녀님이 소원을 들어주러 왔어! 약속에 따라서 오늘 당신의 시간은 전부 내가 계획한 대로... 어... 일단 식사부터 할까?", 
+    "note": "skin-30008107", "explore_tag": "", "gift_position": "", "illustrator_cv": "小星,Amamiya Sora,", "order": 103, 
+    "class_id": 86
+  }, {
+    "id": 8108, "name": "MP-443 - 이승에서의 소망", "extra": 0, "fit_gun": 220, "ai": 48108, "voice": 16, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "봄의 진흙 요정들아, 내 곁에 날아오너라! 내가 가장 예쁜 돌멩이를 줄 테니, 너희는 눈부신 새옷을 다오. 지휘관의 시선이 평생 내게서 떨어지지 않도록!", 
+    "note": "skin-30008108", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40008108", "order": 103, 
+    "class_id": 86
   }, {
     "id": 30001, "name": "ST AR-15 - 여름의 솔솔 바람", "extra": 0, "fit_gun": 57, "ai": 0, "voice": 4, "is_hidden": 0, 
     "substitute_voice": "", 

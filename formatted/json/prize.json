@@ -17420,6 +17420,51 @@
     "skin": 0, "content": "prize-20007519", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", "chip": "", 
     "commander_uniform": ""
   }, {
+    "id": 7520, "name": "의뢰 조력 패키지", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "41-100,605-5", "furniture": "", "gift": "100003-5", 
+    "equip_ids": "", "coins": "3-500", "skin": 0, "content": "prize-20007520", "send_limit": 0, "icon": "", "bp_pay": 0, 
+    "fairy_ids": "", "chip": "", "commander_uniform": ""
+  }, {
+    "id": 7521, "name": "베이킹 코코아*10+훈장A", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, 
+    "gem": 0, "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "100177-1,100179-10", "furniture": "", "gift": "", 
+    "equip_ids": "", "coins": "", "skin": 0, "content": "prize-20007521", "send_limit": 0, "icon": "", "bp_pay": 0, 
+    "fairy_ids": "", "chip": "", "commander_uniform": ""
+  }, {
+    "id": 7522, "name": "베이킹 코코아*15+훈장B", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, 
+    "gem": 0, "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "100178-1,100179-15", "furniture": "", "gift": "", 
+    "equip_ids": "", "coins": "", "skin": 0, "content": "prize-20007522", "send_limit": 0, "icon": "", "bp_pay": 0, 
+    "fairy_ids": "", "chip": "", "commander_uniform": ""
+  }, {
+    "id": 7523, "name": "베이킹 코코아*15+훈장A+B", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, 
+    "gem": 0, "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "100177-1,100178-1,100179-15", "furniture": "", 
+    "gift": "", "equip_ids": "", "coins": "", "skin": 0, "content": "prize-20007523", "send_limit": 0, "icon": "", 
+    "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
+  }, {
+    "id": 7524, "name": "훈장A", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, "gem_pay": 0, 
+    "gun_id": "0", "sangvis": "", "item_ids": "100177-1", "furniture": "", "gift": "", "equip_ids": "", "coins": "", 
+    "skin": 0, "content": "prize-20007524", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", "chip": "", 
+    "commander_uniform": ""
+  }, {
+    "id": 7525, "name": "훈장B", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, "gem_pay": 0, 
+    "gun_id": "0", "sangvis": "", "item_ids": "100178-1", "furniture": "", "gift": "", "equip_ids": "", "coins": "", 
+    "skin": 0, "content": "prize-20007525", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", "chip": "", 
+    "commander_uniform": ""
+  }, {
+    "id": 7526, "name": "베이킹 코코아*10", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "100179-10", "furniture": "", "gift": "", "equip_ids": "", 
+    "coins": "", "skin": 0, "content": "prize-20007526", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
+    "chip": "", "commander_uniform": ""
+  }, {
+    "id": 7527, "name": "베이킹 코코아*15", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "100179-15", "furniture": "", "gift": "", "equip_ids": "", 
+    "coins": "", "skin": 0, "content": "prize-20007527", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
+    "chip": "", "commander_uniform": ""
+  }, {
+    "id": 7528, "name": "훈장A+B", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, "gem_pay": 0, 
+    "gun_id": "0", "sangvis": "", "item_ids": "100177-1,100178-1", "furniture": "", "gift": "", "equip_ids": "", "coins": "", 
+    "skin": 0, "content": "prize-20007528", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", "chip": "", 
+    "commander_uniform": ""
+  }, {
     "id": 8001, "name": "신규 유저 일주일 누적 충전 이벤트 1일차", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, 
     "core": 0, "gem": 50, "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "", "gift": "", 
     "equip_ids": "", "coins": "", "skin": 0, "content": "초회 충전 보급 패키지", "send_limit": 0, "icon": "", "bp_pay": 0, 
@@ -17952,72 +17997,72 @@
     "commander_uniform": ""
   }, {
     "id": 10086, "name": "카니발 보상", "user_exp": 0, "mp": 100, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
-    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110057-10", "furniture": "", "gift": "", "equip_ids": "", 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110059-10", "furniture": "", "gift": "", "equip_ids": "", 
     "coins": "", "skin": 0, "content": "prize-20010086", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
     "chip": "", "commander_uniform": ""
   }, {
     "id": 10087, "name": "카니발 보상", "user_exp": 0, "mp": 100, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
-    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110057-30", "furniture": "", "gift": "", "equip_ids": "", 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110059-30", "furniture": "", "gift": "", "equip_ids": "", 
     "coins": "", "skin": 0, "content": "prize-20010087", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
     "chip": "", "commander_uniform": ""
   }, {
     "id": 10088, "name": "카니발 보상", "user_exp": 0, "mp": 0, "ammo": 200, "mre": 0, "part": 0, "core": 0, "gem": 0, 
-    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110057-20", "furniture": "", "gift": "", "equip_ids": "", 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110059-20", "furniture": "", "gift": "", "equip_ids": "", 
     "coins": "", "skin": 0, "content": "prize-20010088", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
     "chip": "", "commander_uniform": ""
   }, {
     "id": 10089, "name": "카니발 보상", "user_exp": 0, "mp": 0, "ammo": 200, "mre": 0, "part": 0, "core": 0, "gem": 0, 
-    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110057-30", "furniture": "", "gift": "", "equip_ids": "", 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110059-30", "furniture": "", "gift": "", "equip_ids": "", 
     "coins": "", "skin": 0, "content": "prize-20010089", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
     "chip": "", "commander_uniform": ""
   }, {
     "id": 10090, "name": "카니발 보상", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 200, "part": 0, "core": 0, "gem": 0, 
-    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110057-20", "furniture": "", "gift": "", "equip_ids": "", 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110059-20", "furniture": "", "gift": "", "equip_ids": "", 
     "coins": "", "skin": 0, "content": "prize-20010090", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
     "chip": "", "commander_uniform": ""
   }, {
     "id": 10091, "name": "카니발 보상", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 200, "part": 0, "core": 0, "gem": 0, 
-    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110057-30", "furniture": "", "gift": "", "equip_ids": "", 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110059-30", "furniture": "", "gift": "", "equip_ids": "", 
     "coins": "", "skin": 0, "content": "prize-20010091", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
     "chip": "", "commander_uniform": ""
   }, {
     "id": 10092, "name": "카니발 보상", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 200, "part": 0, "core": 0, "gem": 0, 
-    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110057-50", "furniture": "", "gift": "", "equip_ids": "", 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110059-50", "furniture": "", "gift": "", "equip_ids": "", 
     "coins": "", "skin": 0, "content": "prize-20010092", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
     "chip": "", "commander_uniform": ""
   }, {
     "id": 10093, "name": "카니발 보상", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 100, "core": 0, "gem": 0, 
-    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110057-30", "furniture": "", "gift": "", "equip_ids": "", 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110059-30", "furniture": "", "gift": "", "equip_ids": "", 
     "coins": "", "skin": 0, "content": "prize-20010093", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
     "chip": "", "commander_uniform": ""
   }, {
     "id": 10094, "name": "카니발 보상", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 100, "core": 0, "gem": 0, 
-    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110057-50", "furniture": "", "gift": "", "equip_ids": "", 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110059-50", "furniture": "", "gift": "", "equip_ids": "", 
     "coins": "", "skin": 0, "content": "prize-20010094", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
     "chip": "", "commander_uniform": ""
   }, {
     "id": 10095, "name": "카니발 보상", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 100, "core": 0, "gem": 0, 
-    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110057-100", "furniture": "", "gift": "", "equip_ids": "", 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110059-100", "furniture": "", "gift": "", "equip_ids": "", 
     "coins": "", "skin": 0, "content": "prize-20010095", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
     "chip": "", "commander_uniform": ""
   }, {
     "id": 10096, "name": "카니발 보상", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 200, "core": 0, "gem": 0, 
-    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110057-50", "furniture": "", "gift": "", "equip_ids": "", 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110059-50", "furniture": "", "gift": "", "equip_ids": "", 
     "coins": "", "skin": 0, "content": "prize-20010096", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
     "chip": "", "commander_uniform": ""
   }, {
     "id": 10097, "name": "카니발 보상", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 200, "core": 0, "gem": 0, 
-    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110057-100", "furniture": "", "gift": "", "equip_ids": "", 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110059-100", "furniture": "", "gift": "", "equip_ids": "", 
     "coins": "", "skin": 0, "content": "prize-20010097", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
     "chip": "", "commander_uniform": ""
   }, {
     "id": 10098, "name": "카니발 보상", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 300, "core": 0, "gem": 0, 
-    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110057-150", "furniture": "", "gift": "", "equip_ids": "", 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110059-150", "furniture": "", "gift": "", "equip_ids": "", 
     "coins": "", "skin": 0, "content": "prize-20010098", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
     "chip": "", "commander_uniform": ""
   }, {
     "id": 10099, "name": "카니발 보상", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
-    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110057-200,45-200", "furniture": "", "gift": "", 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "110059-200,45-200", "furniture": "", "gift": "", 
     "equip_ids": "", "coins": "", "skin": 0, "content": "prize-20010099", "send_limit": 0, "icon": "", "bp_pay": 0, 
     "fairy_ids": "", "chip": "", "commander_uniform": ""
   }, {
@@ -18047,7 +18092,7 @@
     "fairy_ids": "", "chip": "", "commander_uniform": ""
   }, {
     "id": 10105, "name": "이벤트 보상", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
-    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "", "gift": "100003-10,7907-1", "equip_ids": "", 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "", "gift": "100003-10,8107-1", "equip_ids": "", 
     "coins": "", "skin": 0, "content": "prize-20010105", "send_limit": 0, "icon": "Bumdle_bline", "bp_pay": 0, 
     "fairy_ids": "", "chip": "", "commander_uniform": ""
   }, {
@@ -18490,6 +18535,48 @@
     "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "106-60,2216-1,200006-1", "furniture": "", "gift": "", 
     "equip_ids": "", "coins": "", "skin": 0, 
     "content": "Code7: 급류 시즌에서 대장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*60, 지휘관 경험치*2000, 아이콘 \"기발한 코어 \"", 
+    "send_limit": 0, "icon": "Medal_Chess", "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
+  }, {
+    "id": 10764, "name": "소령 표창", "user_exp": 30, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "106-5,2270-1,200008-1", "furniture": "", "gift": "", 
+    "equip_ids": "", "coins": "", "skin": 0, 
+    "content": "\"Code8: 극선\" 시즌에서 소령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*5, 지휘관 경험치*30, 아이콘 \"블랙잭\"", 
+    "send_limit": 0, "icon": "Medal_Chess", "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
+  }, {
+    "id": 10765, "name": "중령 표창", "user_exp": 60, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "106-10", "furniture": "", "gift": "", "equip_ids": "", 
+    "coins": "", "skin": 0, 
+    "content": "\"Code8: 극선\" 시즌에서 중령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*10, 지휘관 경험치*60", 
+    "send_limit": 0, "icon": "Medal_Chess", "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
+  }, {
+    "id": 10766, "name": "대령 표창", "user_exp": 100, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "106-20", "furniture": "", "gift": "", "equip_ids": "", 
+    "coins": "", "skin": 0, 
+    "content": "\"Code8: 극선\" 시즌에서 대령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*20, 지휘관 경험치*100", 
+    "send_limit": 0, "icon": "Medal_Chess", "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
+  }, {
+    "id": 10767, "name": "준장 표창", "user_exp": 200, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "106-30,2271-1,200007-1", "furniture": "", "gift": "", 
+    "equip_ids": "", "coins": "", "skin": 0, 
+    "content": "\"Code8: 극선\" 시즌에서 준장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*30, 지휘관 경험치*200, 아이콘 \"유커 트릭\"", 
+    "send_limit": 0, "icon": "Medal_Chess", "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
+  }, {
+    "id": 10768, "name": "소장 표창", "user_exp": 500, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "106-40", "furniture": "", "gift": "", "equip_ids": "", 
+    "coins": "", "skin": 0, 
+    "content": "\"Code8: 극선\" 시즌에서 소장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*40, 지휘관 경험치*500", 
+    "send_limit": 0, "icon": "Medal_Chess", "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
+  }, {
+    "id": 10769, "name": "중장 표창", "user_exp": 1000, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "106-50", "furniture": "", "gift": "", "equip_ids": "", 
+    "coins": "", "skin": 0, 
+    "content": "\"Code8: 극선\" 시즌에서 중장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*50, 지휘관 경험치*1000", 
+    "send_limit": 0, "icon": "Medal_Chess", "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
+  }, {
+    "id": 10770, "name": "대장 표창", "user_exp": 2000, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "106-60,2272-1,200006-1", "furniture": "", "gift": "", 
+    "equip_ids": "", "coins": "", "skin": 0, 
+    "content": "\"Code8: 극선\" 시즌에서 대장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*60, 지휘관 경험치*2000, 아이콘 \"트릭스터 \"", 
     "send_limit": 0, "icon": "Medal_Chess", "bp_pay": 0, "fairy_ids": "", "chip": "", "commander_uniform": ""
   }, {
     "id": 11000, "name": "옷걸이를 다오", "user_exp": 30, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
@@ -21291,6 +21378,11 @@
     "id": 12614, "name": "성탄 디너게이트", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
     "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "2052", "gift": "", "equip_ids": "", 
     "coins": "", "skin": 0, "content": "prize-20012614", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
+    "chip": "", "commander_uniform": ""
+  }, {
+    "id": 12615, "name": "드레스 전시대", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 
+    "gem_pay": 0, "gun_id": "0", "sangvis": "", "item_ids": "", "furniture": "2056", "gift": "", "equip_ids": "", 
+    "coins": "", "skin": 0, "content": "prize-20012615", "send_limit": 0, "icon": "", "bp_pay": 0, "fairy_ids": "", 
     "chip": "", "commander_uniform": ""
   }, {
     "id": 14101, "name": "중간 보상 - 장비 청1", "user_exp": 0, "mp": 0, "ammo": 0, "mre": 0, "part": 0, "core": 0, "gem": 0, 

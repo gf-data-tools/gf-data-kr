@@ -12004,6 +12004,11 @@
     "code": "poster_Saga2023_Tae", "texture_type": "1", "sorting": "5", "offset": "0,0,0", "rotate": "3", 
     "interact_point": "0", "interact_point_offset": "0", "furniture_bgm": "0", "touch_area": "0", "bonus_id": 0, "ai": 0
   }, {
+    "id": 30594, "name": "M1897 - 게이밍 버드", "classes": 300, "type": 303, "position": "0", "space": "3,6,1,1,1,0", 
+    "deco_rate": 750, "decompose_gift": 100003, "description": "M1897의 포스터", "code": "poster_ChessBonus_M1897", 
+    "texture_type": "1", "sorting": "5", "offset": "0,0,0", "rotate": "3", "interact_point": "0", 
+    "interact_point_offset": "0", "furniture_bgm": "0", "touch_area": "0", "bonus_id": 0, "ai": 0
+  }, {
     "id": 30601, "name": "토카레프 - 두 사람의 인생", "classes": 300, "type": 303, "position": "0", "space": "3,6,1,1,1,0", 
     "deco_rate": 750, "decompose_gift": 100003, "description": "토카레프의 포스터.", "code": "poster_tt33_wedding", 
     "texture_type": "1", "sorting": "5", "offset": "0,0,0", "rotate": "3", "interact_point": "0", 
@@ -14501,6 +14506,41 @@
   }, {
     "id": 38008, "name": "DP28 - 나팔꽃 덩굴", "classes": 300, "type": 303, "position": "0", "space": "3,6,1,1,1,0", 
     "deco_rate": 750, "decompose_gift": 100003, "description": "DP28의 포스터", "code": "poster_SpringFes2023_DP28", 
+    "texture_type": "1", "sorting": "5", "offset": "0,0,0", "rotate": "3", "interact_point": "0", 
+    "interact_point_offset": "0", "furniture_bgm": "0", "touch_area": "0", "bonus_id": 0, "ai": 0
+  }, {
+    "id": 38101, "name": "DP-12 - 은혜 갚는 백조", "classes": 300, "type": 303, "position": "0", "space": "3,6,1,1,1,0", 
+    "deco_rate": 750, "decompose_gift": 100003, "description": "DP-12의 포스터", "code": "poster_WhiteV2023_DP12", 
+    "texture_type": "1", "sorting": "5", "offset": "0,0,0", "rotate": "3", "interact_point": "0", 
+    "interact_point_offset": "0", "furniture_bgm": "0", "touch_area": "0", "bonus_id": 0, "ai": 0
+  }, {
+    "id": 38102, "name": "SP9 - 거품 같은 흰눈", "classes": 300, "type": 303, "position": "0", "space": "3,6,1,1,1,0", 
+    "deco_rate": 750, "decompose_gift": 100003, "description": "SP9의 포스터", "code": "poster_WhiteV2023_SP9", 
+    "texture_type": "1", "sorting": "5", "offset": "0,0,0", "rotate": "3", "interact_point": "0", 
+    "interact_point_offset": "0", "furniture_bgm": "0", "touch_area": "0", "bonus_id": 0, "ai": 0
+  }, {
+    "id": 38103, "name": "AUG - 블루 메디테이션", "classes": 300, "type": 303, "position": "0", "space": "3,6,1,1,1,0", 
+    "deco_rate": 750, "decompose_gift": 100003, "description": "AUG의 포스터", "code": "poster_WhiteV2023_AUG", 
+    "texture_type": "1", "sorting": "5", "offset": "0,0,0", "rotate": "3", "interact_point": "0", 
+    "interact_point_offset": "0", "furniture_bgm": "0", "touch_area": "0", "bonus_id": 0, "ai": 0
+  }, {
+    "id": 38105, "name": "몬드라곤 M1908 - 등나무 몽환경", "classes": 300, "type": 303, "position": "0", 
+    "space": "3,6,1,1,1,0", "deco_rate": 750, "decompose_gift": 100003, "description": "몬드라곤 M1908의 포스터", 
+    "code": "poster_WhiteV2023_MondragonM1908", "texture_type": "1", "sorting": "5", "offset": "0,0,0", "rotate": "3", 
+    "interact_point": "0", "interact_point_offset": "0", "furniture_bgm": "0", "touch_area": "0", "bonus_id": 0, "ai": 0
+  }, {
+    "id": 38106, "name": "TAR-21 - 길 잃은 3월의 토끼", "classes": 300, "type": 303, "position": "0", "space": "3,6,1,1,1,0", 
+    "deco_rate": 750, "decompose_gift": 100003, "description": "TAR-21의 포스터", "code": "poster_WhiteV2023_TAR21", 
+    "texture_type": "1", "sorting": "5", "offset": "0,0,0", "rotate": "3", "interact_point": "0", 
+    "interact_point_offset": "0", "furniture_bgm": "0", "touch_area": "0", "bonus_id": 0, "ai": 0
+  }, {
+    "id": 38107, "name": "아스트라 리볼버 - 꽃향기와 나비", "classes": 300, "type": 303, "position": "0", 
+    "space": "3,6,1,1,1,0", "deco_rate": 750, "decompose_gift": 100003, "description": "아스트라 리볼버의 포스터", 
+    "code": "poster_WhiteV2023_357", "texture_type": "1", "sorting": "5", "offset": "0,0,0", "rotate": "3", 
+    "interact_point": "0", "interact_point_offset": "0", "furniture_bgm": "0", "touch_area": "0", "bonus_id": 0, "ai": 0
+  }, {
+    "id": 38108, "name": "MP-443 - 이승에서의 소망", "classes": 300, "type": 303, "position": "0", "space": "3,6,1,1,1,0", 
+    "deco_rate": 750, "decompose_gift": 100003, "description": "MP-443의 포스터", "code": "poster_WhiteV2023_MP443", 
     "texture_type": "1", "sorting": "5", "offset": "0,0,0", "rotate": "3", "interact_point": "0", 
     "interact_point_offset": "0", "furniture_bgm": "0", "touch_area": "0", "bonus_id": 0, "ai": 0
   }, {

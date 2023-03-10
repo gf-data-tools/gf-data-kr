@@ -327,7 +327,7 @@
     id: 55
     type: trial_mission
     title: 방어훈련
-    content: 모의작전-방어훈련 {0}회 완료
+    content: 모의작전-방어연습 누적 {0}회 완료
   }
   {
     id: 56
@@ -356,13 +356,13 @@
   {
     id: 60
     type: get_friend_points
-    title: carnival_task_type-10000060
+    title: 우정 획득
     content: 기간 동안 우정 포인트 {0}점 획득
   }
   {
     id: 61
     type: consume_friend_points
-    title: carnival_task_type-10000061
+    title: 우정 소모
     content: 기간 동안 우정 포인트 {0}점 소모
   }
   {
@@ -782,8 +782,8 @@
   {
     id: 131
     type: special_develop_fairy
-    title: 요정중형제조
-    content: 요정중형제조 {0}회
+    title: 중형요정제조
+    content: 요정제조 누적 {0}회 진행
     function_control_id: 1
   }
 ]
