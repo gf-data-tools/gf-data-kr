@@ -694,7 +694,7 @@ COMMON,1691,装备中(todo),,0
 COMMON,1692,装备(todo),,0
 COMMON,1693,未拥有(todo),,0
 COMMON,1694,该人形无法适配(todo),,0
-COMMON,1695,装备 {0}/{1}(todo),,0
+COMMON,1695,装备 {0}/{1}件(todo),,0
 COMMON,1696,套装效果(todo),,0
 COMMON,1697,当前装备 {0}(todo),,0
 COMMON,1698,可激活(todo),,0
@@ -4745,7 +4745,6 @@ MALL,71156,今天的势能已全部售罄(todo),,0
 MALL,71157,购买动能(todo),,0
 MALL,71158,购买势能(todo),,0
 MALL,71159,内容预览(todo),,0
-MALL,71166,当前价格:(todo),,0
 DOWNLOAD,80000,完了していないデータのダウンロードを続行します,,0
 DOWNLOAD,80001,ローカルに,,0
 DOWNLOAD,80002,以上の空き容量があることを確認してください。続けますか？,,0

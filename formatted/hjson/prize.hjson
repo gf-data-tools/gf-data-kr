@@ -13780,6 +13780,17 @@
     content: prize-20001893
   }
   {
+    id: 1894
+    name: 특가 자원 보급
+    mp: 20000
+    ammo: 20000
+    mre: 20000
+    part: 20000
+    item_ids: 1-20,3-20
+    content: prize-20001894
+    icon: Bumdle_black
+  }
+  {
     id: 2001
     name: WA2000 - 고성에서의 모험
     gift: 6-1
@@ -24348,6 +24359,34 @@
     name: 훈장A+B
     item_ids: 100177-1,100178-1
     content: prize-20007528
+  }
+  {
+    id: 7529
+    name: 스위트 화이트데이 보급Ⅰ
+    item_ids: 41-500,7-2
+    gift: 100003-5
+    coins: 3-1000
+    content: prize-20007529
+    icon: Bumdle_Valentine2018
+  }
+  {
+    id: 7530
+    name: 스위트 화이트데이 보급Ⅱ
+    item_ids: 41-200,7-1
+    gift: 100003-5
+    content: prize-20007530
+    icon: Bumdle_Valentine
+  }
+  {
+    id: 7531
+    name: 스위트 화이트데이 보급Ⅲ
+    mp: 20000
+    ammo: 20000
+    mre: 20000
+    part: 20000
+    item_ids: 1-20,3-20
+    content: prize-20007531
+    icon: Bumdle_314
   }
   {
     id: 8001
