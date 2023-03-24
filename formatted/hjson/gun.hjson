@@ -23410,7 +23410,7 @@
     rank_display: 5
     gun_detail_bg: nation_German
     org_id: 10802
-    show_damage_skin: ",5801,0,"
+    show_damage_skin: ",5801,0,30006,"
   }
   {
     id: 286
@@ -28286,7 +28286,7 @@
     name: UTS-15
     en_name: UTS-15
     code: UTS15
-    extra: 原子Dan,,
+    extra: 原子Dan,Shirosaki Rinko,
     en_introduce:
       '''
       Type                       Shotgun
@@ -28344,7 +28344,7 @@
     name: M327
     en_name: M327
     code: M327
-    extra: whoisshe,,
+    extra: whoisshe,Hikisaka Rie,
     en_introduce:
       '''
       Type                       Pistol
@@ -28520,7 +28520,7 @@
     name: AR-18
     en_name: AR-18
     code: AR18
-    extra: K箱,,
+    extra: K箱,Hikisaka Rie,
     en_introduce:
       '''
       Type                       Assault rifle

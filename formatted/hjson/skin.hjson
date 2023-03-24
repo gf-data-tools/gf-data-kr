@@ -1497,7 +1497,7 @@
     note: skin-30000594
     gift_position: "-352.1,67.5"
     illustrator_cv: skin-40000594
-    order: 101
+    order: 104
   }
   {
     id: 601
@@ -8168,5 +8168,15 @@
     note: skin-30030005
     illustrator_cv: skin-40030005
     order: 102
+  }
+  {
+    id: 30006
+    name: C-93 - 알록달록한 해후
+    fit_gun: 285
+    voice: 4
+    dialog: 지휘관, 여기가 내가 말했던 그 가게야! 나비 표본과 꽃 향기에 둘러싸여 즐기는 애프터눈티... 그런데 왜 유명하지 않은 걸까?
+    note: skin-30030006
+    illustrator_cv: skin-40030006
+    order: 105
   }
 ]

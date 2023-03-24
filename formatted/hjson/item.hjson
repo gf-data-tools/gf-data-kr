@@ -13664,6 +13664,26 @@
     detail_introduction: item-30002272
   }
   {
+    id: 2277
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_C93
+    item_name: C-93 - 알록달록한 해후
+    introduction: C-93 - 알록달록한 해후
+    rank: 1
+    detail_introduction: item-30002277
+  }
+  {
+    id: 2278
+    type: 5
+    arg: "1"
+    code: card_BattlePass_C93
+    item_name: 카드 배경: 달콤하고 따스한 시간
+    introduction: 카드 배경: 달콤하고 따스한 시간
+    rank: 1
+    detail_introduction: item-30002278
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -17508,6 +17528,26 @@
     detail_introduction: item-30140012
   }
   {
+    id: 140013
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *유탄 포수
+    introduction: item-20140013
+    rank: 1
+    detail_introduction: item-30140013
+  }
+  {
+    id: 140014
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *유탄 포수
+    introduction: item-20140014
+    rank: 1
+    detail_introduction: item-30140014
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -17686,6 +17726,16 @@
     introduction: 액자·멍멍 즐거운 하루
     rank: 1
     detail_introduction: item-30200019
+  }
+  {
+    id: 200020
+    type: 5
+    arg: "1"
+    code: profileFrame_BattlePass_C93
+    item_name: 액자·나비 날갯짓
+    introduction: 액자·나비 날갯짓
+    rank: 1
+    detail_introduction: item-30200020
   }
   {
     id: 900030
@@ -18323,5 +18373,49 @@
     rank: 1
     sort: -1
     detail_introduction: item-31500051
+  }
+  {
+    id: 1500052
+    type: 15
+    arg: "1500052"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약-휴일무드 보상, 지정 범위에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500052
+  }
+  {
+    id: 1500053
+    type: 15
+    arg: "1500053"
+    code: package_choose
+    item_name: 인형 장비 선택 코드
+    introduction: 전선협약-휴일무드 보상, 지정 범위에서 원하는 인형 유형 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500053
+  }
+  {
+    id: 1500054
+    type: 15
+    arg: "1500054"
+    code: package_random
+    item_name: 미해금 인형 확정 코드
+    introduction: 전선협약-휴일무드 보상, 목록 중 도감을 해금하지 않은 인형을 하나 확정으로 획득합니다. 전부 해금한 경우 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500054
+  }
+  {
+    id: 1500055
+    type: 15
+    arg: "1500055"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-휴일무드 보상, 목록 중 무작위 한 가지 보상을 얻습니다.
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500055
   }
 ]
