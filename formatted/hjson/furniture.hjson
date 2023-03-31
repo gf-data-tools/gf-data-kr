@@ -30320,6 +30320,21 @@
     rotate: "3"
   }
   {
+    id: 30595
+    name: 리버레이터 - 순금 컬렉터
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 리버레이터의 포스터
+    code: poster_AprilFool2023_Liberator
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 30601
     name: 토카레프 - 두 사람의 인생
     classes: 300

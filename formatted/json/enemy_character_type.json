@@ -225,25 +225,25 @@
     "hit": 350, "dodge": 0, "range": 20, "speed": 35, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 90, 
     "shield": 0, "rate": 350, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 10100, 
     "character": "엘리트,고위협,장갑,관통", "special_attack": 0, "normal_attack": 900107, 
-    "passive_skill": "200303,403001,403006,119019,755000", "effect_ratio": 0.06, "unable_buff_type": "", "able_buff_id": "", 
-    "voice": "", "deployment_scale": 0.8, "recommend_description": "enemy_character_type-30010030", "hit_point": "", 
-    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 43, "location_offset": ""
+    "passive_skill": "200303,403001,403006,119019,755000,740089", "effect_ratio": 0.06, "unable_buff_type": "", 
+    "able_buff_id": "", "voice": "", "deployment_scale": 0.8, "recommend_description": "enemy_character_type-30010030", 
+    "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 43, "location_offset": ""
   }, {
     "id": 10031, "type": 4, "name": "티폰", "enemy_info": "电磁炮II", "code": "Typhon", "maxlife": 18000, "pow": 100, 
     "hit": 350, "dodge": 0, "range": 20, "speed": 35, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 90, 
     "shield": 0, "rate": 350, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 10100, 
     "character": "엘리트,고위협,장갑,관통", "special_attack": 0, "normal_attack": 900107, 
-    "passive_skill": "200303,403009,403014,119019,755000", "effect_ratio": 0.06, "unable_buff_type": "", "able_buff_id": "", 
-    "voice": "", "deployment_scale": 0.8, "recommend_description": "enemy_character_type-30010031", "hit_point": "", 
-    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 43, "location_offset": ""
+    "passive_skill": "200303,403009,403014,119019,755000,740089", "effect_ratio": 0.06, "unable_buff_type": "", 
+    "able_buff_id": "", "voice": "", "deployment_scale": 0.8, "recommend_description": "enemy_character_type-30010031", 
+    "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 43, "location_offset": ""
   }, {
     "id": 10032, "type": 4, "name": "티폰", "enemy_info": "电磁炮III", "code": "Typhon", "maxlife": 18000, "pow": 100, 
     "hit": 350, "dodge": 0, "range": 20, "speed": 35, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 90, 
     "shield": 0, "rate": 350, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 10100, 
     "character": "엘리트,고위협,장갑,관통", "special_attack": 0, "normal_attack": 900107, 
-    "passive_skill": "200303,403017,403022,119019,755000", "effect_ratio": 0.06, "unable_buff_type": "", "able_buff_id": "", 
-    "voice": "", "deployment_scale": 0.8, "recommend_description": "enemy_character_type-30010032", "hit_point": "", 
-    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 43, "location_offset": ""
+    "passive_skill": "200303,403017,403022,119019,755000,740089", "effect_ratio": 0.06, "unable_buff_type": "", 
+    "able_buff_id": "", "voice": "", "deployment_scale": 0.8, "recommend_description": "enemy_character_type-30010032", 
+    "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 43, "location_offset": ""
   }, {
     "id": 10033, "type": 4, "name": "다크틸", "enemy_info": "蜘蛛雷", "code": "Dactyl", "maxlife": 800, "pow": 100, 
     "hit": 100, "dodge": 0, "range": 20, "speed": 40, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 20, 
@@ -272,7 +272,7 @@
     "pow": 18, "hit": 36, "dodge": 0, "range": 6, "speed": 20, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 90, 
     "shield": 0, "rate": 35, "boss_hp": 0, "def": 500, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
     "character": "고위협,장갑,왜곡방벽,범위 피해", "special_attack": 0, "normal_attack": 404001, 
-    "passive_skill": "200303,404024,200304,119019", "effect_ratio": 1.21, "unable_buff_type": "221", 
+    "passive_skill": "200303,404024,200304,119019,740089", "effect_ratio": 1.21, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 0.8, 
     "recommend_description": "enemy_character_type-30010036", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 48, "location_offset": ""
@@ -297,7 +297,7 @@
     "dodge": 0, "range": 7, "speed": 35, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 90, "shield": 0, 
     "rate": 30, "boss_hp": 0, "def": 600, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
     "character": "엘리트,장갑,왜곡방벽", "special_attack": 0, "normal_attack": 404003, 
-    "passive_skill": "200303,404004,404007,755000", "effect_ratio": 1.16, "unable_buff_type": "221", 
+    "passive_skill": "200303,404004,404007,755000,740089", "effect_ratio": 1.16, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 0.8, 
     "recommend_description": "enemy_character_type-30010039", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 49, "location_offset": ""
@@ -314,7 +314,7 @@
     "pow": 12, "hit": 36, "dodge": 10, "range": 6, "speed": 20, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 150, 
     "shield": 0, "rate": 30, "boss_hp": 0, "def": 2250, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
     "character": "고위협,장갑,왜곡방벽,범위 피해", "special_attack": 0, "normal_attack": 404001, 
-    "passive_skill": "200303,404024,200304,119019", "effect_ratio": 1.38, "unable_buff_type": "221", 
+    "passive_skill": "200303,404024,200304,119019,740089", "effect_ratio": 1.38, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 0.8, 
     "recommend_description": "enemy_character_type-30010041", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 48, "location_offset": ""
@@ -323,7 +323,7 @@
     "dodge": 10, "range": 7, "speed": 35, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 150, "shield": 0, 
     "rate": 30, "boss_hp": 0, "def": 3750, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
     "character": "엘리트,장갑,왜곡방벽", "special_attack": 0, "normal_attack": 404003, 
-    "passive_skill": "200303,404004,404007,755000", "effect_ratio": 1.38, "unable_buff_type": "221", 
+    "passive_skill": "200303,404004,404007,755000,740089", "effect_ratio": 1.38, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 0.8, 
     "recommend_description": "enemy_character_type-30010042", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 49, "location_offset": ""
@@ -347,7 +347,7 @@
     "maxlife": 9800, "pow": 12, "hit": 36, "dodge": 10, "range": 6, "speed": 20, "number": 1, "angle": 180, 
     "armor_piercing": 0, "armor": 150, "shield": 0, "rate": 30, "boss_hp": 0, "def": 2250, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "고위협,장갑,왜곡방벽,범위 피해", "special_attack": 0, 
-    "normal_attack": 711101, "passive_skill": "200303,711102,200304,711103,711003,711004,711005,711006,711002,119019", 
+    "normal_attack": 711101, "passive_skill": "200303,711102,200304,711103,711003,711004,711005,711006,711002,119019,740089", 
     "effect_ratio": 1.38, "unable_buff_type": "221", "able_buff_id": "133,135,136,137,3918,8034", "voice": "", 
     "deployment_scale": 0.8, "recommend_description": "enemy_character_type-30010045", "hit_point": "", "offset": "", 
     "lifebar_offset": "", "enemy_illustration_id": 48, "location_offset": ""
@@ -355,10 +355,10 @@
     "id": 10046, "type": 4, "name": "맨티코어", "enemy_info": "强无敌19夏活加强版", "code": "Manticore", "maxlife": 12000, 
     "pow": 120, "hit": 55, "dodge": 0, "range": 5, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 60, 
     "shield": 0, "rate": 42, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
-    "character": "고위협,장갑,위험", "special_attack": 0, "normal_attack": 300301, "passive_skill": "200303,200304,119019", 
-    "effect_ratio": 1.09, "unable_buff_type": "", "able_buff_id": "", "voice": "", "deployment_scale": 1.0, 
-    "recommend_description": "enemy_character_type-30010046", "hit_point": "", "offset": "", "lifebar_offset": "", 
-    "enemy_illustration_id": 16, "location_offset": ""
+    "character": "고위협,장갑,위험", "special_attack": 0, "normal_attack": 300301, 
+    "passive_skill": "200303,200304,119019,740089", "effect_ratio": 1.09, "unable_buff_type": "", "able_buff_id": "", 
+    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30010046", "hit_point": "", 
+    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 16, "location_offset": ""
   }, {
     "id": 10047, "type": 4, "name": "히드라", "enemy_info": "绿无敌19夏活加强版", "code": "Hydra", "maxlife": 15000, 
     "pow": 350, "hit": 55, "dodge": 0, "range": 4, "speed": 20, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 199, 
@@ -372,8 +372,8 @@
     "maxlife": 15000, "pow": 18, "hit": 36, "dodge": 10, "range": 6, "speed": 20, "number": 1, "angle": 180, 
     "armor_piercing": 0, "armor": 150, "shield": 0, "rate": 30, "boss_hp": 0, "def": 2250, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "고위협,장갑,왜곡방벽,범위 피해", "special_attack": 0, 
-    "normal_attack": 404001, "passive_skill": "200303,404024,200304,119019", "effect_ratio": 1.38, "unable_buff_type": "221", 
-    "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 0.8, 
+    "normal_attack": 404001, "passive_skill": "200303,404024,200304,119019,740089", "effect_ratio": 1.38, 
+    "unable_buff_type": "221", "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 0.8, 
     "recommend_description": "enemy_character_type-30010048", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 48, "location_offset": ""
   }, {
@@ -381,7 +381,7 @@
     "hit": 90, "dodge": 10, "range": 7, "speed": 35, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 150, 
     "shield": 0, "rate": 30, "boss_hp": 0, "def": 3750, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
     "character": "엘리트,장갑,왜곡방벽", "special_attack": 0, "normal_attack": 404003, 
-    "passive_skill": "200303,404004,404007,755000", "effect_ratio": 1.38, "unable_buff_type": "221", 
+    "passive_skill": "200303,404004,404007,755000,740089", "effect_ratio": 1.38, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 0.8, 
     "recommend_description": "enemy_character_type-30010049", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 49, "location_offset": ""
@@ -390,7 +390,7 @@
     "pow": 46, "hit": 46, "dodge": 10, "range": 2, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 150, 
     "shield": 0, "rate": 20, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
     "character": "근접,장갑,피해차감", "special_attack": 0, "normal_attack": 403801, 
-    "passive_skill": "200303,200304,403802,403803,200303,403903", "effect_ratio": 1.74, "unable_buff_type": "221", 
+    "passive_skill": "200303,200304,403802,403803,200303,403903,740089", "effect_ratio": 1.74, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30010050", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 73, "location_offset": ""
@@ -431,7 +431,7 @@
     "pow": 46, "hit": 46, "dodge": 8, "range": 3, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 60, 
     "shield": 0, "rate": 24, "boss_hp": 0, "def": 6000, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
     "character": "장갑,왜곡방벽,약화", "special_attack": 0, "normal_attack": 403701, 
-    "passive_skill": "200303,200304,403702,403703,403704", "effect_ratio": 1.12, "unable_buff_type": "221", 
+    "passive_skill": "200303,200304,403702,403703,403704,740089", "effect_ratio": 1.12, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30010055", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 63, "location_offset": ""
@@ -440,7 +440,7 @@
     "hit": 140, "dodge": 50, "range": 9, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 90, 
     "shield": 0, "rate": 40, "boss_hp": 0, "def": 5000, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
     "character": "엘리트,장갑,보호막,철갑", "special_attack": 0, "normal_attack": 403503, 
-    "passive_skill": "200303,403501,403502,403504,755000", "effect_ratio": 1.93, "unable_buff_type": "221", 
+    "passive_skill": "200303,403501,403502,403504,755000,740089", "effect_ratio": 1.93, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30010056", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 64, "location_offset": ""
@@ -465,9 +465,9 @@
     "pow": 35, "hit": 55, "dodge": 0, "range": 18, "speed": 0, "number": 1, "angle": 180, "armor_piercing": 20, "armor": 30, 
     "shield": 0, "rate": 20, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
     "character": "치명,자동방어시설,지원", "special_attack": 0, "normal_attack": 900107, 
-    "passive_skill": "200304,405210,405201,755000", "effect_ratio": 1.05, "unable_buff_type": "221", "able_buff_id": "", 
-    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30010059", "hit_point": "", 
-    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 74, "location_offset": "0.9,-1.2,3.32"
+    "passive_skill": "200304,405210,405201,755000,740089", "effect_ratio": 1.05, "unable_buff_type": "221", 
+    "able_buff_id": "", "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30010059", 
+    "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 74, "location_offset": "0.9,-1.2,3.32"
   }, {
     "id": 10061, "type": 2, "name": "불명 세력", "enemy_info": "轨道炮R1炮", "code": "GustafR_1", "maxlife": 15000, 
     "pow": 35, "hit": 55, "dodge": 0, "range": 18, "speed": 0, "number": 1, "angle": 180, "armor_piercing": 20, "armor": 30, 
@@ -481,7 +481,7 @@
     "pow": 30, "hit": 20, "dodge": 0, "range": 18, "speed": 0, "number": 1, "angle": 180, "armor_piercing": 20, "armor": 30, 
     "shield": 0, "rate": 50, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
     "character": "치명,자동방어시설,지원", "special_attack": 0, "normal_attack": 405206, 
-    "passive_skill": "200304,405210,405207,405213,755000", "effect_ratio": 1.05, "unable_buff_type": "221", 
+    "passive_skill": "200304,405210,405207,405213,755000,740089", "effect_ratio": 1.05, "unable_buff_type": "221", 
     "able_buff_id": "", "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30010062", 
     "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 75, "location_offset": "-0.59,0,-0.36"
   }, {
@@ -497,9 +497,9 @@
     "pow": 35, "hit": 55, "dodge": 0, "range": 18, "speed": 0, "number": 1, "angle": 180, "armor_piercing": 20, "armor": 30, 
     "shield": 0, "rate": 50, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
     "character": "치명,자동방어시설,지원", "special_attack": 0, "normal_attack": 900107, 
-    "passive_skill": "200304,405210,405201,755000", "effect_ratio": 1.05, "unable_buff_type": "221", "able_buff_id": "", 
-    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30010064", "hit_point": "", 
-    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 76, "location_offset": "0.54,0,0"
+    "passive_skill": "200304,405210,405201,755000,740089", "effect_ratio": 1.05, "unable_buff_type": "221", 
+    "able_buff_id": "", "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30010064", 
+    "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 76, "location_offset": "0.54,0,0"
   }, {
     "id": 10065, "type": 2, "name": "불명 세력", "enemy_info": "轨道炮R3炮", "code": "GustafR_3", "maxlife": 13500, 
     "pow": 35, "hit": 55, "dodge": 0, "range": 18, "speed": 0, "number": 1, "angle": 180, "armor_piercing": 20, "armor": 30, 
@@ -545,7 +545,7 @@
     "pow": 80, "hit": 90, "dodge": 5, "range": 3, "speed": 28, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 90, 
     "shield": 0, "rate": 35, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
     "character": "엘리트,근접,장갑,보호막", "special_attack": 0, "normal_attack": 900460, 
-    "passive_skill": "900461,900464,900463", "effect_ratio": 0.95, "unable_buff_type": "221", 
+    "passive_skill": "900461,900464,900463,740089", "effect_ratio": 0.95, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 0.8, 
     "recommend_description": "enemy_character_type-30010071", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 77, "location_offset": ""
@@ -562,9 +562,9 @@
     "hit": 140, "dodge": 15, "range": 20, "speed": 35, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 60, 
     "shield": 0, "rate": 35, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
     "character": "엘리트,고위협,장갑,제압,약화", "special_attack": 0, "normal_attack": 900107, 
-    "passive_skill": "900478,900479,900480,119019,755000", "effect_ratio": 1.11, "unable_buff_type": "", "able_buff_id": "", 
-    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30010073", "hit_point": "", 
-    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 79, "location_offset": ""
+    "passive_skill": "900478,900479,900480,119019,755000,740089", "effect_ratio": 1.11, "unable_buff_type": "", 
+    "able_buff_id": "", "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30010073", 
+    "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 79, "location_offset": ""
   }, {
     "id": 10074, "type": 3, "name": "폭도", "enemy_info": "游民暴徒", "code": "Mobster", "maxlife": 1260, "pow": 26, 
     "hit": 30, "dodge": 12, "range": 5, "speed": 60, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 0, "shield": 0, 
@@ -611,7 +611,7 @@
     "pow": 46, "hit": 46, "dodge": 10, "range": 3, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 90, 
     "shield": 0, "rate": 24, "boss_hp": 0, "def": 6000, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
     "character": "장갑,왜곡방벽,약화", "special_attack": 0, "normal_attack": 403701, 
-    "passive_skill": "200303,200304,403702,403703,403704", "effect_ratio": 1.21, "unable_buff_type": "221", 
+    "passive_skill": "200303,200304,403702,403703,403704,740089", "effect_ratio": 1.21, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30010079", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 118, "location_offset": ""
@@ -620,7 +620,7 @@
     "hit": 180, "dodge": 50, "range": 9, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 130, 
     "shield": 0, "rate": 60, "boss_hp": 0, "def": 5000, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
     "character": "엘리트,장갑,보호막,철갑", "special_attack": 0, "normal_attack": 403503, 
-    "passive_skill": "200303,403501,403502,403504,755000", "effect_ratio": 2.19, "unable_buff_type": "221", 
+    "passive_skill": "200303,403501,403502,403504,755000,740089", "effect_ratio": 2.19, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30010080", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 119, "location_offset": ""
@@ -661,9 +661,10 @@
     "maxlife": 18000, "pow": 26, "hit": 90, "dodge": 52, "range": 7, "speed": 35, "number": 1, "angle": 180, 
     "armor_piercing": 0, "armor": 0, "shield": 0, "rate": 15, "boss_hp": 0, "def": 3500, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "엘리트,관통", "special_attack": 0, "normal_attack": 755051, 
-    "passive_skill": "755056", "effect_ratio": 0.97, "unable_buff_type": "221", "able_buff_id": "133,135,136,137,3918,8034", 
-    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30010085", "hit_point": "", 
-    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 130, "location_offset": ""
+    "passive_skill": "755056,740089", "effect_ratio": 0.97, "unable_buff_type": "221", 
+    "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
+    "recommend_description": "enemy_character_type-30010085", "hit_point": "", "offset": "", "lifebar_offset": "", 
+    "enemy_illustration_id": 130, "location_offset": ""
   }, {
     "id": 10086, "type": 3, "name": "라이엇가드", "enemy_info": "白教警备士(多编)", "code": "Riotguard", "maxlife": 3550, 
     "pow": 10, "hit": 26, "dodge": 12, "range": 3, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 0, 
@@ -685,7 +686,7 @@
     "pow": 42, "hit": 55, "dodge": 0, "range": 3, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 30, 
     "shield": 0, "rate": 30, "boss_hp": 0, "def": 6000, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
     "character": "거대,보호막,지속피해", "special_attack": 0, "normal_attack": 755042, 
-    "passive_skill": "755043,755044,755045,755046,200304", "effect_ratio": 1.05, "unable_buff_type": "221", 
+    "passive_skill": "755043,755044,755045,755046,200304,740089", "effect_ratio": 1.05, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30010088", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 133, "location_offset": ""
@@ -804,7 +805,7 @@
     "hit": 40, "dodge": 15, "range": 20, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 20, "armor": 60, 
     "shield": 0, "rate": 30, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
     "character": "고위협,산탄,범위살상", "special_attack": 0, "normal_attack": 755226, 
-    "passive_skill": "755218,200304,119019", "effect_ratio": 1.0, "unable_buff_type": "221", 
+    "passive_skill": "755218,200304,119019,740089", "effect_ratio": 1.0, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30010102", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 168, "location_offset": ""
@@ -813,7 +814,7 @@
     "pow": 32, "hit": 60, "dodge": 15, "range": 20, "speed": 35, "number": 1, "angle": 180, "armor_piercing": 0, 
     "armor": 120, "shield": 0, "rate": 20, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, 
     "level": 100, "character": "엘리트,고위협", "special_attack": 0, "normal_attack": 755229, 
-    "passive_skill": "755219,755220,755227,755228,755230,119020", "effect_ratio": 1.0, "unable_buff_type": "221", 
+    "passive_skill": "755219,755220,755227,755228,755230,119020,740089", "effect_ratio": 1.0, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30010103", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 169, "location_offset": ""
@@ -1057,7 +1058,7 @@
     "pow": 46, "hit": 46, "dodge": 5, "range": 2, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 150, 
     "shield": 0, "rate": 20, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
     "character": "근접,장갑,피해차감", "special_attack": 0, "normal_attack": 403801, 
-    "passive_skill": "200303,200304,403802,403803,200303,403903", "effect_ratio": 1.74, "unable_buff_type": "221", 
+    "passive_skill": "200303,200304,403802,403803,200303,403903,740089", "effect_ratio": 1.74, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30012050", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 73, "location_offset": ""
@@ -1098,7 +1099,7 @@
     "pow": 46, "hit": 46, "dodge": 4, "range": 3, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 60, 
     "shield": 0, "rate": 24, "boss_hp": 0, "def": 6000, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
     "character": "장갑,왜곡방벽,약화", "special_attack": 0, "normal_attack": 403701, 
-    "passive_skill": "200303,200304,403702,403703,403704", "effect_ratio": 1.12, "unable_buff_type": "221", 
+    "passive_skill": "200303,200304,403702,403703,403704,740089", "effect_ratio": 1.12, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30012055", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 63, "location_offset": ""
@@ -1107,7 +1108,7 @@
     "hit": 140, "dodge": 10, "range": 9, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 90, 
     "shield": 0, "rate": 40, "boss_hp": 0, "def": 5000, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
     "character": "엘리트,장갑,보호막,철갑", "special_attack": 0, "normal_attack": 403503, 
-    "passive_skill": "200303,403501,403502,403504,755000", "effect_ratio": 1.92, "unable_buff_type": "221", 
+    "passive_skill": "200303,403501,403502,403504,755000,740089", "effect_ratio": 1.92, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30012056", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 64, "location_offset": ""
@@ -1132,7 +1133,7 @@
     "pow": 55, "hit": 100, "dodge": 0, "range": 18, "speed": 0, "number": 1, "angle": 180, "armor_piercing": 25, "armor": 40, 
     "shield": 0, "rate": 35, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
     "character": "치명,자동방어시설,지원", "special_attack": 0, "normal_attack": 900107, 
-    "passive_skill": "200304,405210,405201,755000", "effect_ratio": 1.07, "unable_buff_type": "", "able_buff_id": "", 
+    "passive_skill": "200304,405210,405201,755000,740089", "effect_ratio": 1.07, "unable_buff_type": "", "able_buff_id": "", 
     "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30012059", "hit_point": "", 
     "offset": "", "lifebar_offset": "", "enemy_illustration_id": 74, "location_offset": "0.4,-1.2,2.24"
   }, {
@@ -1148,9 +1149,9 @@
     "pow": 40, "hit": 30, "dodge": 0, "range": 18, "speed": 0, "number": 1, "angle": 180, "armor_piercing": 25, "armor": 40, 
     "shield": 0, "rate": 50, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
     "character": "치명,자동방어시설,지원", "special_attack": 0, "normal_attack": 405206, 
-    "passive_skill": "200304,405210,405207,405213,755000", "effect_ratio": 1.07, "unable_buff_type": "", "able_buff_id": "", 
-    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30012062", "hit_point": "", 
-    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 75, "location_offset": "0.12,0, 0.79"
+    "passive_skill": "200304,405210,405207,405213,755000,740089", "effect_ratio": 1.07, "unable_buff_type": "", 
+    "able_buff_id": "", "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30012062", 
+    "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 75, "location_offset": "0.12,0, 0.79"
   }, {
     "id": 12063, "type": 2, "name": "불명 세력", "enemy_info": "N轨道炮R2机枪*2", "code": "GustafR_2", "maxlife": 45000, 
     "pow": 40, "hit": 30, "dodge": 0, "range": 18, "speed": 0, "number": 1, "angle": 180, "armor_piercing": 25, "armor": 40, 
@@ -1164,7 +1165,7 @@
     "pow": 55, "hit": 100, "dodge": 0, "range": 18, "speed": 0, "number": 1, "angle": 180, "armor_piercing": 25, "armor": 40, 
     "shield": 0, "rate": 50, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
     "character": "치명,자동방어시설,지원", "special_attack": 0, "normal_attack": 900107, 
-    "passive_skill": "200304,405210,405201,755000", "effect_ratio": 1.07, "unable_buff_type": "", "able_buff_id": "", 
+    "passive_skill": "200304,405210,405201,755000,740089", "effect_ratio": 1.07, "unable_buff_type": "", "able_buff_id": "", 
     "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30012064", "hit_point": "", 
     "offset": "", "lifebar_offset": "", "enemy_illustration_id": 76, "location_offset": "0.23,0,0.58"
   }, {
@@ -1188,7 +1189,7 @@
     "pow": 46, "hit": 46, "dodge": 5, "range": 3, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 90, 
     "shield": 0, "rate": 24, "boss_hp": 0, "def": 6000, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
     "character": "장갑,왜곡방벽,약화", "special_attack": 0, "normal_attack": 403701, 
-    "passive_skill": "200303,200304,403702,403703,403704", "effect_ratio": 1.21, "unable_buff_type": "221", 
+    "passive_skill": "200303,200304,403702,403703,403704,740089", "effect_ratio": 1.21, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30012067", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 118, "location_offset": ""
@@ -1197,7 +1198,7 @@
     "pow": 60, "hit": 180, "dodge": 10, "range": 9, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, 
     "armor": 130, "shield": 0, "rate": 60, "boss_hp": 0, "def": 5000, "def_break": 0, "debuff_resistance": 0.0, 
     "level": 30100, "character": "엘리트,장갑,보호막,철갑", "special_attack": 0, "normal_attack": 403503, 
-    "passive_skill": "200303,403501,403502,403504,755000", "effect_ratio": 2.17, "unable_buff_type": "221", 
+    "passive_skill": "200303,403501,403502,403504,755000,740089", "effect_ratio": 2.17, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30012068", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 119, "location_offset": ""
@@ -1247,9 +1248,10 @@
     "maxlife": 15000, "pow": 26, "hit": 90, "dodge": 40, "range": 7, "speed": 35, "number": 1, "angle": 180, 
     "armor_piercing": 0, "armor": 0, "shield": 0, "rate": 15, "boss_hp": 0, "def": 3500, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "엘리트,관통", "special_attack": 0, "normal_attack": 755051, 
-    "passive_skill": "755056", "effect_ratio": 0.97, "unable_buff_type": "221", "able_buff_id": "133,135,136,137,3918,8034", 
-    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30012074", "hit_point": "", 
-    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 130, "location_offset": ""
+    "passive_skill": "755056,740089", "effect_ratio": 0.97, "unable_buff_type": "221", 
+    "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
+    "recommend_description": "enemy_character_type-30012074", "hit_point": "", "offset": "", "lifebar_offset": "", 
+    "enemy_illustration_id": 130, "location_offset": ""
   }, {
     "id": 12075, "type": 3, "name": "라이엇가드", "enemy_info": "白教警备士(多编夜战)", "code": "Riotguard", "maxlife": 2850, 
     "pow": 10, "hit": 26, "dodge": 10, "range": 3, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 0, 
@@ -1271,7 +1273,7 @@
     "maxlife": 51000, "pow": 36, "hit": 48, "dodge": 0, "range": 3, "speed": 30, "number": 1, "angle": 180, 
     "armor_piercing": 0, "armor": 30, "shield": 0, "rate": 30, "boss_hp": 0, "def": 6000, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 30100, "character": "거대,보호막,지속피해", "special_attack": 0, 
-    "normal_attack": 755042, "passive_skill": "755043,755044,755045,755046,200304", "effect_ratio": 1.05, 
+    "normal_attack": 755042, "passive_skill": "755043,755044,755045,755046,200304,740089", "effect_ratio": 1.05, 
     "unable_buff_type": "221", "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30012077", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 133, "location_offset": ""
@@ -1338,7 +1340,7 @@
     "hit": 40, "dodge": 6, "range": 20, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 20, "armor": 60, 
     "shield": 0, "rate": 30, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
     "character": "고위협,산탄,범위살상", "special_attack": 0, "normal_attack": 755226, 
-    "passive_skill": "755218,200304,119019", "effect_ratio": 1.0, "unable_buff_type": "221", 
+    "passive_skill": "755218,200304,119019,740089", "effect_ratio": 1.0, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30012102", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 168, "location_offset": ""
@@ -1347,7 +1349,7 @@
     "pow": 32, "hit": 60, "dodge": 6, "range": 20, "speed": 35, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 120, 
     "shield": 0, "rate": 20, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
     "character": "엘리트,고위협", "special_attack": 0, "normal_attack": 755229, 
-    "passive_skill": "755219,755220,755227,755228,755230,119020", "effect_ratio": 1.0, "unable_buff_type": "221", 
+    "passive_skill": "755219,755220,755227,755228,755230,119020,740089", "effect_ratio": 1.0, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30012103", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 169, "location_offset": ""
@@ -1869,7 +1871,7 @@
     "pow": 46, "hit": 46, "dodge": 10, "range": 3, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 90, 
     "shield": 0, "rate": 24, "boss_hp": 0, "def": 6000, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
     "character": "장갑,역장,약화", "special_attack": 0, "normal_attack": 403701, 
-    "passive_skill": "200303,200304,403702,755214,403704", "effect_ratio": 1.21, "unable_buff_type": "221", 
+    "passive_skill": "200303,200304,403702,755214,403704,740089", "effect_ratio": 1.21, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918,8034", "voice": "", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30013232", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 163, "location_offset": ""
@@ -2175,7 +2177,7 @@
     "hit": 140, "dodge": 50, "range": 9, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 90, 
     "shield": 0, "rate": 40, "boss_hp": 0, "def": 5000, "def_break": 0, "debuff_resistance": 0.0, "level": 30100, 
     "character": "보호막,회피,형태전환", "special_attack": 0, "normal_attack": 403503, 
-    "passive_skill": "200303,403501,403502,403504,755000", "effect_ratio": 1.6, "unable_buff_type": "221", 
+    "passive_skill": "200303,403501,403502,403504,755000,740089", "effect_ratio": 1.6, "unable_buff_type": "221", 
     "able_buff_id": "133,135,136,137,3918", "voice": "", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30015018", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 64, "location_offset": ""
@@ -2628,10 +2630,10 @@
     "id": 800009, "type": 2, "name": "미스 이브", "enemy_info": "伊芙-100昼战区", "code": "Nyto_mecha", "maxlife": 450000, 
     "pow": 52, "hit": 50, "dodge": 60, "range": 6, "speed": 50, "number": 1, "angle": 180, "armor_piercing": 50, "armor": 0, 
     "shield": 0, "rate": 40, "boss_hp": 0, "def": 6000, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
-    "character": "엘리트,관통", "special_attack": 0, "normal_attack": 755238, "passive_skill": "755239,755240,755241,119029", 
-    "effect_ratio": 1.0, "unable_buff_type": "", "able_buff_id": "", "voice": "1,2,3", "deployment_scale": 1.0, 
-    "recommend_description": "enemy_character_type-30800009", "hit_point": "", "offset": "", "lifebar_offset": "", 
-    "enemy_illustration_id": 173, "location_offset": ""
+    "character": "엘리트,관통", "special_attack": 0, "normal_attack": 755238, 
+    "passive_skill": "755239,755240,755241,119029,740089", "effect_ratio": 1.0, "unable_buff_type": "", "able_buff_id": "", 
+    "voice": "1,2,3", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30800009", "hit_point": "", 
+    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 173, "location_offset": ""
   }, {
     "id": 800010, "type": 2, "name": "류바 할멈", "enemy_info": "柳芭老妈-100昼战区", "code": "Oldlady_boss", 
     "maxlife": 300000, "pow": 150, "hit": 150, "dodge": 10, "range": 9, "speed": 30, "number": 1, "angle": 180, 
@@ -2756,34 +2758,34 @@
     "id": 900025, "type": 4, "name": "맨티코어", "enemy_info": "捕食者", "code": "Manticore", "maxlife": 8000, "pow": 81, 
     "hit": 45, "dodge": 0, "range": 5, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 34, "shield": 0, 
     "rate": 42, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
-    "character": "고위협,장갑,위험", "special_attack": 0, "normal_attack": 300301, "passive_skill": "200303,200304,119019", 
-    "effect_ratio": 1.04, "unable_buff_type": "", "able_buff_id": "", "voice": "", "deployment_scale": 1.0, 
-    "recommend_description": "enemy_character_type-30900025", "hit_point": "", "offset": "", "lifebar_offset": "", 
-    "enemy_illustration_id": 16, "location_offset": ""
+    "character": "고위협,장갑,위험", "special_attack": 0, "normal_attack": 300301, 
+    "passive_skill": "200303,200304,119019,740089", "effect_ratio": 1.04, "unable_buff_type": "", "able_buff_id": "", 
+    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900025", "hit_point": "", 
+    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 16, "location_offset": ""
   }, {
     "id": 900026, "type": 4, "name": "맨티코어", "enemy_info": "捕食者", "code": "Manticore", "maxlife": 10000, "pow": 102, 
     "hit": 55, "dodge": 0, "range": 5, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 42, "shield": 0, 
     "rate": 42, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
-    "character": "고위협,장갑,위험", "special_attack": 0, "normal_attack": 300301, "passive_skill": "200303,200304,119019", 
-    "effect_ratio": 1.06, "unable_buff_type": "", "able_buff_id": "", "voice": "", "deployment_scale": 1.0, 
-    "recommend_description": "enemy_character_type-30900026", "hit_point": "", "offset": "", "lifebar_offset": "", 
-    "enemy_illustration_id": 16, "location_offset": ""
+    "character": "고위협,장갑,위험", "special_attack": 0, "normal_attack": 300301, 
+    "passive_skill": "200303,200304,119019,740089", "effect_ratio": 1.06, "unable_buff_type": "", "able_buff_id": "", 
+    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900026", "hit_point": "", 
+    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 16, "location_offset": ""
   }, {
     "id": 900027, "type": 4, "name": "맨티코어", "enemy_info": "捕食者", "code": "Manticore", "maxlife": 6000, "pow": 30, 
     "hit": 30, "dodge": 14, "range": 5, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 22, 
     "shield": 0, "rate": 45, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
-    "character": "고위협,장갑,위험", "special_attack": 0, "normal_attack": 300301, "passive_skill": "200303,200304,119019", 
-    "effect_ratio": 1.03, "unable_buff_type": "", "able_buff_id": "", "voice": "", "deployment_scale": 1.0, 
-    "recommend_description": "enemy_character_type-30900027", "hit_point": "", "offset": "", "lifebar_offset": "", 
-    "enemy_illustration_id": 16, "location_offset": ""
+    "character": "고위협,장갑,위험", "special_attack": 0, "normal_attack": 300301, 
+    "passive_skill": "200303,200304,119019,740089", "effect_ratio": 1.03, "unable_buff_type": "", "able_buff_id": "", 
+    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900027", "hit_point": "", 
+    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 16, "location_offset": ""
   }, {
     "id": 900028, "type": 4, "name": "맨티코어", "enemy_info": "装饰用捕食者（后）", "code": "Manticore", "maxlife": 2550, 
     "pow": 12, "hit": 30, "dodge": 12, "range": 10, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 22, 
     "shield": 0, "rate": 45, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
-    "character": "고위협,장갑,위험", "special_attack": 0, "normal_attack": 300301, "passive_skill": "200303,200304,119019", 
-    "effect_ratio": 1.03, "unable_buff_type": "", "able_buff_id": "", "voice": "", "deployment_scale": 1.0, 
-    "recommend_description": "enemy_character_type-30900028", "hit_point": "", "offset": "", "lifebar_offset": "", 
-    "enemy_illustration_id": 16, "location_offset": ""
+    "character": "고위협,장갑,위험", "special_attack": 0, "normal_attack": 300301, 
+    "passive_skill": "200303,200304,119019,740089", "effect_ratio": 1.03, "unable_buff_type": "", "able_buff_id": "", 
+    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900028", "hit_point": "", 
+    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 16, "location_offset": ""
   }, {
     "id": 900029, "type": 2, "name": "드론형 과녁기", "enemy_info": "靶机一", "code": "Drone", "maxlife": 10000, "pow": 0, 
     "hit": 0, "dodge": 0, "range": 0, "speed": 0, "number": 1, "angle": 0, "armor_piercing": 0, "armor": 0, "shield": 0, 
@@ -2812,10 +2814,10 @@
     "id": 900032, "type": 4, "name": "맨티코어", "enemy_info": "捕食者", "code": "Manticore", "maxlife": 11500, "pow": 132, 
     "hit": 60, "dodge": 0, "range": 5, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 42, "shield": 0, 
     "rate": 42, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
-    "character": "고위협,장갑,위험", "special_attack": 0, "normal_attack": 300301, "passive_skill": "200303,200304,119019", 
-    "effect_ratio": 1.05, "unable_buff_type": "", "able_buff_id": "", "voice": "", "deployment_scale": 1.0, 
-    "recommend_description": "enemy_character_type-30900032", "hit_point": "", "offset": "", "lifebar_offset": "", 
-    "enemy_illustration_id": 16, "location_offset": ""
+    "character": "고위협,장갑,위험", "special_attack": 0, "normal_attack": 300301, 
+    "passive_skill": "200303,200304,119019,740089", "effect_ratio": 1.05, "unable_buff_type": "", "able_buff_id": "", 
+    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900032", "hit_point": "", 
+    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 16, "location_offset": ""
   }, {
     "id": 900033, "type": 1, "name": "알케미스트", "enemy_info": "第六章BOSS", "code": "Alchemist", "maxlife": 20000, 
     "pow": 162, "hit": 40, "dodge": 22, "range": 6, "speed": 45, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 0, 
@@ -2843,10 +2845,10 @@
     "id": 900036, "type": 4, "name": "맨티코어", "enemy_info": "捕食者", "code": "Manticore", "maxlife": 10200, "pow": 95, 
     "hit": 40, "dodge": 12, "range": 5, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 25, 
     "shield": 0, "rate": 55, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
-    "character": "고위협,장갑,위험", "special_attack": 0, "normal_attack": 300301, "passive_skill": "200303,200304,119019", 
-    "effect_ratio": 1.03, "unable_buff_type": "", "able_buff_id": "", "voice": "", "deployment_scale": 1.0, 
-    "recommend_description": "enemy_character_type-30900036", "hit_point": "", "offset": "", "lifebar_offset": "", 
-    "enemy_illustration_id": 16, "location_offset": ""
+    "character": "고위협,장갑,위험", "special_attack": 0, "normal_attack": 300301, 
+    "passive_skill": "200303,200304,119019,740089", "effect_ratio": 1.03, "unable_buff_type": "", "able_buff_id": "", 
+    "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900036", "hit_point": "", 
+    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 16, "location_offset": ""
   }, {
     "id": 900037, "type": 1, "name": "게이저", "enemy_info": "BOSS-冬活", "code": "BossGager", "maxlife": 10200, "pow": 95, 
     "hit": 40, "dodge": 12, "range": 5, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 25, 
@@ -2964,7 +2966,7 @@
     "hit": 200, "dodge": 0, "range": 18, "speed": 0, "number": 1, "angle": 180, "armor_piercing": 0, "armor": 20, 
     "shield": 0, "rate": 50, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 20200, 
     "character": "고위협,장갑,자동방어시설", "special_attack": 0, "normal_attack": 300310, 
-    "passive_skill": "300319,200301,200302,200303,119029,755000", "effect_ratio": 1.53, "unable_buff_type": "", 
+    "passive_skill": "300319,200301,200302,200303,119029,755000,740089", "effect_ratio": 1.53, "unable_buff_type": "", 
     "able_buff_id": "", "voice": "", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900051", 
     "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 25, "location_offset": ""
   }, {
@@ -3502,7 +3504,7 @@
     "pow": 32, "hit": 60, "dodge": 10, "range": 12, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 20, "armor": 0, 
     "shield": 0, "rate": 50, "boss_hp": 225000, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
     "character": "엘리트,위험", "special_attack": 0, "normal_attack": 404014, 
-    "passive_skill": "404008,404010,404011,404019,404012,404013,404015,404016,404017,404018,404022,404023,404020,404021,119029", 
+    "passive_skill": "404008,404010,404011,404019,404012,404013,404015,404016,404017,404018,404022,404023,404020,404021,119029,740089", 
     "effect_ratio": 1.0, "unable_buff_type": "221,756", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900117", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 54, "location_offset": ""
@@ -3930,7 +3932,7 @@
     "pow": 22, "hit": 40, "dodge": 10, "range": 12, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 20, "armor": 0, 
     "shield": 0, "rate": 50, "boss_hp": 11500, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
     "character": "엘리트,위험", "special_attack": 0, "normal_attack": 404014, 
-    "passive_skill": "404008,404010,404011,404019,404025,404026,404015,404016,404017,404018,404022,404023,404020,404021,119029", 
+    "passive_skill": "404008,404010,404011,404019,404025,404026,404015,404016,404017,404018,404022,404023,404020,404021,119029,740089", 
     "effect_ratio": 1.0, "unable_buff_type": "221,756", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900166", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 54, "location_offset": ""
@@ -3939,7 +3941,7 @@
     "pow": 32, "hit": 60, "dodge": 30, "range": 12, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 20, "armor": 0, 
     "shield": 0, "rate": 50, "boss_hp": 245000, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
     "character": "엘리트,위험", "special_attack": 0, "normal_attack": 404014, 
-    "passive_skill": "404008,404010,404011,404019,404012,404013,404015,404016,404017,404018,404022,404023,404020,404021,119029", 
+    "passive_skill": "404008,404010,404011,404019,404012,404013,404015,404016,404017,404018,404022,404023,404020,404021,119029,740089", 
     "effect_ratio": 1.0, "unable_buff_type": "221,756", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900167", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 54, "location_offset": ""
@@ -4044,7 +4046,7 @@
     "maxlife": 195000, "pow": 32, "hit": 60, "dodge": 20, "range": 12, "speed": 30, "number": 1, "angle": 180, 
     "armor_piercing": 20, "armor": 0, "shield": 0, "rate": 50, "boss_hp": 195000, "def": 99999, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "엘리트,위험", "special_attack": 0, "normal_attack": 404014, 
-    "passive_skill": "404008,404010,404011,404019,404012,404013,404015,404016,404017,404018,404022,404023,404020,404021,119029", 
+    "passive_skill": "404008,404010,404011,404019,404012,404013,404015,404016,404017,404018,404022,404023,404020,404021,119029,740089", 
     "effect_ratio": 1.0, "unable_buff_type": "221,756", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900179", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 54, "location_offset": ""
@@ -4189,7 +4191,7 @@
     "maxlife": 245000, "pow": 45, "hit": 60, "dodge": 20, "range": 12, "speed": 30, "number": 1, "angle": 180, 
     "armor_piercing": 20, "armor": 0, "shield": 0, "rate": 50, "boss_hp": 245000, "def": 99999, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "엘리트,위험", "special_attack": 0, "normal_attack": 404014, 
-    "passive_skill": "404008,404010,404011,404019,404012,404013,404015,404016,404017,404018,404022,404023,404020,404021,119029", 
+    "passive_skill": "404008,404010,404011,404019,404012,404013,404015,404016,404017,404018,404022,404023,404020,404021,119029,740089", 
     "effect_ratio": 1.0, "unable_buff_type": "221,756", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900195", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 54, "location_offset": ""
@@ -4256,8 +4258,8 @@
     "hit": 40, "dodge": 5, "range": 20, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 20, "armor": 50, 
     "shield": 0, "rate": 40, "boss_hp": 46000, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
     "character": "엘리트,장갑,지원,약화", "special_attack": 0, "normal_attack": 406304, 
-    "passive_skill": "406301,406302,406309,406310,406303,406305,406306,406307,406308,406311,119029", "effect_ratio": 0.66, 
-    "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
+    "passive_skill": "406301,406302,406309,406310,406303,406305,406306,406307,406308,406311,119029,740089", 
+    "effect_ratio": 0.66, "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900203", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 80, "location_offset": ""
   }, {
@@ -4265,8 +4267,8 @@
     "pow": 42, "hit": 60, "dodge": 10, "range": 20, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 20, 
     "armor": 120, "shield": 0, "rate": 40, "boss_hp": 260000, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, 
     "level": 100, "character": "엘리트,장갑,지원,약화", "special_attack": 0, "normal_attack": 406304, 
-    "passive_skill": "406301,406302,406309,406310,406303,406305,406306,406307,406308,406311,119029", "effect_ratio": 0.8, 
-    "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
+    "passive_skill": "406301,406302,406309,406310,406303,406305,406306,406307,406308,406311,119029,740089", 
+    "effect_ratio": 0.8, "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900204", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 80, "location_offset": ""
   }, {
@@ -4333,7 +4335,7 @@
     "pow": 32, "hit": 40, "dodge": 15, "range": 20, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 20, 
     "armor": 50, "shield": 0, "rate": 40, "boss_hp": 46000, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, 
     "level": 100, "character": "엘리트,장갑,지원,약화", "special_attack": 0, "normal_attack": 406304, 
-    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,119029,755000", 
+    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,119029,755000,740089", 
     "effect_ratio": 0.66, "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900212", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 80, "location_offset": ""
@@ -4342,7 +4344,7 @@
     "pow": 46, "hit": 60, "dodge": 25, "range": 20, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 20, 
     "armor": 120, "shield": 0, "rate": 40, "boss_hp": 320000, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, 
     "level": 100, "character": "엘리트,장갑,지원,약화", "special_attack": 0, "normal_attack": 406304, 
-    "passive_skill": "406301,406302,406309,406310,406303,406305,406306,406307,406308,406311,119029,755000", 
+    "passive_skill": "406301,406302,406309,406310,406303,406305,406306,406307,406308,406311,119029,755000,740089", 
     "effect_ratio": 0.8, "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900213", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 80, "location_offset": ""
@@ -4351,7 +4353,7 @@
     "pow": 42, "hit": 60, "dodge": 10, "range": 20, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 20, 
     "armor": 120, "shield": 0, "rate": 40, "boss_hp": 260000, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, 
     "level": 100, "character": "엘리트,장갑,지원,약화", "special_attack": 0, "normal_attack": 406304, 
-    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,119029,755000", 
+    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,119029,755000,740089", 
     "effect_ratio": 0.8, "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900214", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 80, "location_offset": ""
@@ -4360,7 +4362,7 @@
     "pow": 42, "hit": 60, "dodge": 20, "range": 20, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 20, 
     "armor": 120, "shield": 0, "rate": 40, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, 
     "level": 100, "character": "엘리트,장갑,지원,약화", "special_attack": 0, "normal_attack": 406304, 
-    "passive_skill": "406301,406302,406309,406310,406303,406305,406306,406307,406308,406311,119029,755000", 
+    "passive_skill": "406301,406302,406309,406310,406303,406305,406306,406307,406308,406311,119029,755000,740089", 
     "effect_ratio": 0.8, "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900215", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 80, "location_offset": ""
@@ -4369,7 +4371,7 @@
     "pow": 52, "hit": 60, "dodge": 30, "range": 20, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 20, 
     "armor": 120, "shield": 0, "rate": 40, "boss_hp": 0, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, 
     "level": 100, "character": "엘리트,장갑,지원,약화", "special_attack": 0, "normal_attack": 406304, 
-    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,119029,755000", 
+    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,119029,755000,740089", 
     "effect_ratio": 0.8, "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900216", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 80, "location_offset": ""
@@ -4395,8 +4397,8 @@
     "pow": 38, "hit": 50, "dodge": 15, "range": 20, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 20, 
     "armor": 120, "shield": 0, "rate": 40, "boss_hp": 220000, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, 
     "level": 100, "character": "엘리트,장갑,지원,약화", "special_attack": 0, "normal_attack": 406304, 
-    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,119029", "effect_ratio": 0.8, 
-    "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
+    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,119029,740089", 
+    "effect_ratio": 0.8, "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900219", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 80, "location_offset": ""
   }, {
@@ -4452,7 +4454,7 @@
     "maxlife": 85000, "pow": 35, "hit": 60, "dodge": 20, "range": 12, "speed": 30, "number": 1, "angle": 180, 
     "armor_piercing": 20, "armor": 0, "shield": 0, "rate": 50, "boss_hp": 85000, "def": 99999, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "엘리트,위험", "special_attack": 0, "normal_attack": 404014, 
-    "passive_skill": "404008,404010,404011,404019,404012,404013,404015,404016,404017,404018,404022,404023,404020,404021,119029", 
+    "passive_skill": "404008,404010,404011,404019,404012,404013,404015,404016,404017,404018,404022,404023,404020,404021,119029,740089", 
     "effect_ratio": 1.0, "unable_buff_type": "221,756", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900226", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 54, "location_offset": ""
@@ -4891,7 +4893,7 @@
     "maxlife": 245000, "pow": 32, "hit": 60, "dodge": 30, "range": 12, "speed": 30, "number": 1, "angle": 180, 
     "armor_piercing": 20, "armor": 0, "shield": 0, "rate": 50, "boss_hp": 245000, "def": 99999, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "엘리트,위험", "special_attack": 0, "normal_attack": 404014, 
-    "passive_skill": "404008,404010,404011,404019,404012,404013,404015,404016,404017,404018,404022,404023,404020,404021,119029", 
+    "passive_skill": "404008,404010,404011,404019,404012,404013,404015,404016,404017,404018,404022,404023,404020,404021,119029,740089", 
     "effect_ratio": 1.0, "unable_buff_type": "221,756", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900278", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 54, "location_offset": ""
@@ -4936,8 +4938,8 @@
     "pow": 26, "hit": 40, "dodge": 10, "range": 20, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 20, 
     "armor": 50, "shield": 0, "rate": 40, "boss_hp": 32000, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, 
     "level": 100, "character": "엘리트,장갑,지원,약화", "special_attack": 0, "normal_attack": 406304, 
-    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,119029", "effect_ratio": 0.66, 
-    "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
+    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,119029,740089", 
+    "effect_ratio": 0.66, "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900283", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 80, "location_offset": ""
   }, {
@@ -4945,8 +4947,8 @@
     "pow": 36, "hit": 40, "dodge": 15, "range": 20, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 20, 
     "armor": 50, "shield": 0, "rate": 40, "boss_hp": 58000, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, 
     "level": 100, "character": "엘리트,장갑,지원,약화", "special_attack": 0, "normal_attack": 406304, 
-    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,119029", "effect_ratio": 0.66, 
-    "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
+    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,119029,740089", 
+    "effect_ratio": 0.66, "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900284", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 80, "location_offset": ""
   }, {
@@ -5029,7 +5031,7 @@
     "pow": 16, "hit": 30, "dodge": 5, "range": 12, "speed": 0, "number": 1, "angle": 180, "armor_piercing": 20, "armor": 20, 
     "shield": 0, "rate": 100, "boss_hp": 1200, "def": 200, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
     "character": "엘리트,실명,관통공격,장갑", "special_attack": 0, "normal_attack": 755062, 
-    "passive_skill": "755059,755060,755061,755063,755064,119029", "effect_ratio": 0.69, "unable_buff_type": "221", 
+    "passive_skill": "755059,755060,755061,755063,755064,119029,740089", "effect_ratio": 0.69, "unable_buff_type": "221", 
     "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900294", 
     "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 137, "location_offset": ""
   }, {
@@ -5037,7 +5039,7 @@
     "pow": 20, "hit": 40, "dodge": 8, "range": 12, "speed": 0, "number": 1, "angle": 180, "armor_piercing": 20, "armor": 30, 
     "shield": 0, "rate": 100, "boss_hp": 2200, "def": 300, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
     "character": "엘리트,실명,관통공격,장갑", "special_attack": 0, "normal_attack": 755062, 
-    "passive_skill": "755059,755060,755061,755063,755064,119029", "effect_ratio": 0.7, "unable_buff_type": "221", 
+    "passive_skill": "755059,755060,755061,755063,755064,119029,740089", "effect_ratio": 0.7, "unable_buff_type": "221", 
     "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900295", 
     "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 137, "location_offset": ""
   }, {
@@ -5045,7 +5047,7 @@
     "pow": 26, "hit": 60, "dodge": 12, "range": 12, "speed": 0, "number": 1, "angle": 180, "armor_piercing": 20, "armor": 40, 
     "shield": 0, "rate": 100, "boss_hp": 5800, "def": 600, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
     "character": "엘리트,실명,관통공격,장갑", "special_attack": 0, "normal_attack": 755062, 
-    "passive_skill": "755059,755060,755061,755063,755064,119029", "effect_ratio": 0.71, "unable_buff_type": "221", 
+    "passive_skill": "755059,755060,755061,755063,755064,119029,740089", "effect_ratio": 0.71, "unable_buff_type": "221", 
     "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900296", 
     "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 137, "location_offset": ""
   }, {
@@ -5053,7 +5055,7 @@
     "pow": 36, "hit": 80, "dodge": 20, "range": 12, "speed": 0, "number": 1, "angle": 180, "armor_piercing": 20, "armor": 50, 
     "shield": 0, "rate": 100, "boss_hp": 18000, "def": 1000, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
     "character": "엘리트,실명,관통공격,장갑", "special_attack": 0, "normal_attack": 755062, 
-    "passive_skill": "755059,755060,755061,755063,755064,119029", "effect_ratio": 0.72, "unable_buff_type": "221", 
+    "passive_skill": "755059,755060,755061,755063,755064,119029,740089", "effect_ratio": 0.72, "unable_buff_type": "221", 
     "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900297", 
     "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 137, "location_offset": ""
   }, {
@@ -5061,7 +5063,7 @@
     "pow": 52, "hit": 90, "dodge": 25, "range": 12, "speed": 0, "number": 1, "angle": 180, "armor_piercing": 20, "armor": 60, 
     "shield": 0, "rate": 100, "boss_hp": 220000, "def": 3000, "def_break": 0, "debuff_resistance": 0.0, "level": 100, 
     "character": "엘리트,실명,관통공격,장갑", "special_attack": 0, "normal_attack": 755062, 
-    "passive_skill": "755059,755060,755061,755063,755064,119029", "effect_ratio": 0.73, "unable_buff_type": "221", 
+    "passive_skill": "755059,755060,755061,755063,755064,119029,740089", "effect_ratio": 0.73, "unable_buff_type": "221", 
     "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900298", 
     "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 137, "location_offset": ""
   }, {
@@ -5069,7 +5071,7 @@
     "pow": 65, "hit": 120, "dodge": 30, "range": 12, "speed": 0, "number": 1, "angle": 180, "armor_piercing": 20, 
     "armor": 120, "shield": 0, "rate": 100, "boss_hp": 350000, "def": 6000, "def_break": 0, "debuff_resistance": 0.0, 
     "level": 100, "character": "엘리트,실명,관통공격,장갑", "special_attack": 0, "normal_attack": 755062, 
-    "passive_skill": "755059,755060,755061,755063,755064,119029", "effect_ratio": 0.73, "unable_buff_type": "221", 
+    "passive_skill": "755059,755060,755061,755063,755064,119029,740089", "effect_ratio": 0.73, "unable_buff_type": "221", 
     "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900299", 
     "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 137, "location_offset": ""
   }, {
@@ -5132,7 +5134,7 @@
     "armor_piercing": 20, "armor": 50, "shield": 0, "rate": 40, "boss_hp": 52000, "def": 99999, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "엘리트,장갑,지원,약화", "special_attack": 0, 
     "normal_attack": 406304, 
-    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,756119,756121,119029,755000", 
+    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,756119,756121,119029,755000,740089", 
     "effect_ratio": 0.66, "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900306", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 80, "location_offset": ""
@@ -5142,7 +5144,7 @@
     "armor_piercing": 20, "armor": 120, "shield": 0, "rate": 40, "boss_hp": 260000, "def": 99999, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "엘리트,장갑,지원,약화", "special_attack": 0, 
     "normal_attack": 406304, 
-    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,756120,756121,119029,755000", 
+    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,756120,756121,119029,755000,740089", 
     "effect_ratio": 0.8, "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900307", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 80, "location_offset": ""
@@ -5206,7 +5208,7 @@
     "armor_piercing": 20, "armor": 120, "shield": 0, "rate": 40, "boss_hp": 0, "def": 99999, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "엘리트,장갑,지원,약화", "special_attack": 0, 
     "normal_attack": 406304, 
-    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,756120,756121,119029,755000", 
+    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,756120,756121,119029,755000,740089", 
     "effect_ratio": 0.8, "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900314", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 80, "location_offset": ""
@@ -5562,7 +5564,7 @@
     "maxlife": 205000, "pow": 26, "hit": 60, "dodge": 30, "range": 12, "speed": 30, "number": 1, "angle": 180, 
     "armor_piercing": 20, "armor": 50, "shield": 0, "rate": 50, "boss_hp": 205000, "def": 99999, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "엘리트,위험", "special_attack": 0, "normal_attack": 755203, 
-    "passive_skill": "755197,755199,755200,755201,755202,755204,755205,755206,755207,755208,755209,755210,755211,755212,755213,119029", 
+    "passive_skill": "755197,755199,755200,755201,755202,755204,755205,755206,755207,755208,755209,755210,755211,755212,755213,119029,740089", 
     "effect_ratio": 1.0, "unable_buff_type": "221,756", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900353", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 54, "location_offset": ""
@@ -5571,7 +5573,7 @@
     "maxlife": 465000, "pow": 42, "hit": 90, "dodge": 50, "range": 12, "speed": 30, "number": 1, "angle": 180, 
     "armor_piercing": 20, "armor": 80, "shield": 0, "rate": 50, "boss_hp": 465000, "def": 99999, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "엘리트,위험", "special_attack": 0, "normal_attack": 755203, 
-    "passive_skill": "755197,755199,755200,755201,755202,755204,755205,755206,755207,755208,755209,755210,755211,755212,755213,119029", 
+    "passive_skill": "755197,755199,755200,755201,755202,755204,755205,755206,755207,755208,755209,755210,755211,755212,755213,119029,740089", 
     "effect_ratio": 1.0, "unable_buff_type": "221,756", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900354", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 54, "location_offset": ""
@@ -5599,7 +5601,7 @@
     "pow": 99, "hit": 99, "dodge": 99, "range": 20, "speed": 30, "number": 1, "angle": 180, "armor_piercing": 180, 
     "armor": 50, "shield": 0, "rate": 40, "boss_hp": 990000, "def": 99999, "def_break": 0, "debuff_resistance": 0.0, 
     "level": 100, "character": "엘리트,장갑,지원,약화", "special_attack": 0, "normal_attack": 406304, 
-    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,119029,755248,755249", 
+    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,119029,755248,755249,740089", 
     "effect_ratio": 0.66, "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900357", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 80, "location_offset": ""
@@ -5608,31 +5610,31 @@
     "maxlife": 8200, "pow": 22, "hit": 20, "dodge": 30, "range": 6, "speed": 50, "number": 1, "angle": 180, 
     "armor_piercing": 50, "armor": 0, "shield": 0, "rate": 40, "boss_hp": 8200, "def": 300, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "엘리트,관통", "special_attack": 0, "normal_attack": 755238, 
-    "passive_skill": "755239,755240,755241,755250,119029", "effect_ratio": 1.0, "unable_buff_type": "", "able_buff_id": "", 
-    "voice": "1,2,3", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900358", "hit_point": "", 
-    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 173, "location_offset": ""
+    "passive_skill": "755239,755240,755241,755250,119029,740089", "effect_ratio": 1.0, "unable_buff_type": "", 
+    "able_buff_id": "", "voice": "1,2,3", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900358", 
+    "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 173, "location_offset": ""
   }, {
     "id": 900359, "type": 1, "name": "미스 이브", "enemy_info": "105级20%提升版30%血撤退", "code": "Nyto_mecha", 
     "maxlife": 160000, "pow": 52, "hit": 50, "dodge": 60, "range": 6, "speed": 50, "number": 1, "angle": 180, 
     "armor_piercing": 50, "armor": 0, "shield": 0, "rate": 40, "boss_hp": 160000, "def": 5000, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "엘리트,관통", "special_attack": 0, "normal_attack": 755238, 
-    "passive_skill": "755239,755240,755241,755250,119029", "effect_ratio": 1.0, "unable_buff_type": "", "able_buff_id": "", 
-    "voice": "1,2,3", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900359", "hit_point": "", 
-    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 173, "location_offset": ""
+    "passive_skill": "755239,755240,755241,755250,119029,740089", "effect_ratio": 1.0, "unable_buff_type": "", 
+    "able_buff_id": "", "voice": "1,2,3", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900359", 
+    "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 173, "location_offset": ""
   }, {
     "id": 900360, "type": 1, "name": "미스 이브", "enemy_info": "140级20%提升版30%血撤退", "code": "Nyto_mecha", 
     "maxlife": 520000, "pow": 65, "hit": 80, "dodge": 70, "range": 6, "speed": 50, "number": 1, "angle": 180, 
     "armor_piercing": 50, "armor": 0, "shield": 0, "rate": 40, "boss_hp": 520000, "def": 7000, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "엘리트,관통", "special_attack": 0, "normal_attack": 755238, 
-    "passive_skill": "755239,755240,755241,755250,119029", "effect_ratio": 1.0, "unable_buff_type": "", "able_buff_id": "", 
-    "voice": "1,2,3", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900360", "hit_point": "", 
-    "offset": "", "lifebar_offset": "", "enemy_illustration_id": 173, "location_offset": ""
+    "passive_skill": "755239,755240,755241,755250,119029,740089", "effect_ratio": 1.0, "unable_buff_type": "", 
+    "able_buff_id": "", "voice": "1,2,3", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900360", 
+    "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 173, "location_offset": ""
   }, {
     "id": 900361, "type": 1, "name": "미스 이브", "enemy_info": "130级-22年夏活夜战秃洞", "code": "Nyto_mecha", 
     "maxlife": 220000, "pow": 52, "hit": 50, "dodge": 30, "range": 6, "speed": 50, "number": 1, "angle": 180, 
     "armor_piercing": 50, "armor": 0, "shield": 0, "rate": 40, "boss_hp": 220000, "def": 6000, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "엘리트,관통", "special_attack": 0, "normal_attack": 755238, 
-    "passive_skill": "755239,755240,755241,119029", "effect_ratio": 1.0, "unable_buff_type": "", "able_buff_id": "", 
+    "passive_skill": "755239,755240,755241,119029,740089", "effect_ratio": 1.0, "unable_buff_type": "", "able_buff_id": "", 
     "voice": "1,2,3", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900361", "hit_point": "", 
     "offset": "", "lifebar_offset": "", "enemy_illustration_id": 173, "location_offset": ""
   }, {
@@ -5641,7 +5643,7 @@
     "armor_piercing": 20, "armor": 50, "shield": 0, "rate": 40, "boss_hp": 420000, "def": 99999, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "엘리트,장갑,지원,약화", "special_attack": 0, 
     "normal_attack": 406304, 
-    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,119029,755248", 
+    "passive_skill": "406301,406302,406320,406321,406303,406305,406306,406307,406308,406311,119029,755248,740089", 
     "effect_ratio": 0.66, "unable_buff_type": "221", "able_buff_id": "", "voice": "1,2", "deployment_scale": 1.0, 
     "recommend_description": "enemy_character_type-30900362", "hit_point": "", "offset": "", "lifebar_offset": "", 
     "enemy_illustration_id": 80, "location_offset": ""
@@ -5650,7 +5652,7 @@
     "maxlife": 12000, "pow": 30, "hit": 30, "dodge": 45, "range": 4, "speed": 100, "number": 1, "angle": 180, 
     "armor_piercing": 50, "armor": 0, "shield": 0, "rate": 40, "boss_hp": 12000, "def": 500, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "엘리트,관통", "special_attack": 0, "normal_attack": 755238, 
-    "passive_skill": "755239,755240,755241,755249,755250,119029", "effect_ratio": 1.0, "unable_buff_type": "", 
+    "passive_skill": "755239,755240,755241,755249,755250,119029,740089", "effect_ratio": 1.0, "unable_buff_type": "", 
     "able_buff_id": "", "voice": "1,2,3", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900363", 
     "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 173, "location_offset": ""
   }, {
@@ -5658,7 +5660,7 @@
     "maxlife": 185000, "pow": 30, "hit": 30, "dodge": 45, "range": 4, "speed": 100, "number": 1, "angle": 180, 
     "armor_piercing": 50, "armor": 0, "shield": 0, "rate": 40, "boss_hp": 185000, "def": 5000, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "엘리트,관통", "special_attack": 0, "normal_attack": 755238, 
-    "passive_skill": "755239,755240,755241,755249,755250,119029", "effect_ratio": 1.0, "unable_buff_type": "", 
+    "passive_skill": "755239,755240,755241,755249,755250,119029,740089", "effect_ratio": 1.0, "unable_buff_type": "", 
     "able_buff_id": "", "voice": "1,2,3", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900364", 
     "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 173, "location_offset": ""
   }, {
@@ -5666,7 +5668,7 @@
     "maxlife": 520000, "pow": 65, "hit": 80, "dodge": 70, "range": 6, "speed": 50, "number": 1, "angle": 180, 
     "armor_piercing": 50, "armor": 0, "shield": 0, "rate": 40, "boss_hp": 520000, "def": 7000, "def_break": 0, 
     "debuff_resistance": 0.0, "level": 100, "character": "엘리트,관통", "special_attack": 0, "normal_attack": 755238, 
-    "passive_skill": "755239,755240,755241,755249,755250,119029", "effect_ratio": 1.0, "unable_buff_type": "", 
+    "passive_skill": "755239,755240,755241,755249,755250,119029,740089", "effect_ratio": 1.0, "unable_buff_type": "", 
     "able_buff_id": "", "voice": "1,2,3", "deployment_scale": 1.0, "recommend_description": "enemy_character_type-30900365", 
     "hit_point": "", "offset": "", "lifebar_offset": "", "enemy_illustration_id": 173, "location_offset": ""
   }, {

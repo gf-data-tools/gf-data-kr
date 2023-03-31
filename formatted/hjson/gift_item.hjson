@@ -1694,6 +1694,20 @@
     detail_introduction: gift_item-40000594
   }
   {
+    id: 595
+    name: 리버레이터 - 순금 컬렉터
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 283
+    skin: 595
+    poster: 30595
+    code: gift_bundle_AprilFool2023_Liberator
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    detail_introduction: gift_item-40000595
+  }
+  {
     id: 601
     name: 토카레프 - 두 사람의 인생
     type: 2

@@ -429,4 +429,9 @@
     theme_type: 3
     name: 인형의 정원
   }
+  {
+    id: 99
+    theme_type: 9
+    name: 기타
+  }
 ]

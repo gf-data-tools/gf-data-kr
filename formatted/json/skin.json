@@ -682,6 +682,12 @@
     "note": "skin-30000594", "explore_tag": "", "gift_position": "-352.1,67.5", "illustrator_cv": "skin-40000594", 
     "order": 104, "class_id": 0
   }, {
+    "id": 595, "name": "리버레이터 - 순금 컬렉터", "extra": 0, "fit_gun": 283, "ai": 0, "voice": 4, "is_hidden": 0, 
+    "substitute_voice": "", 
+    "dialog": "고전 레코드판을 좋아하니까 의외야? 헤헤, 난 그냥 바늘이 검은 레코드판 위를 무차별적으로 훑는 균형감과 격식감을 좋아하는 거야! 지휘관도 같이 듣지 않을래?", 
+    "note": "skin-30000595", "explore_tag": "", "gift_position": "", "illustrator_cv": "--,Asahina Madoka,", "order": 106, 
+    "class_id": 99
+  }, {
     "id": 601, "name": "토카레프 - 두 사람의 인생", "extra": 0, "fit_gun": 6, "ai": 40601, "voice": 16, "is_hidden": 0, 
     "substitute_voice": "", "dialog": "저희 둘의... 관계에 대해? 잘 모르겠습니다만...가르쳐 주시겠어요?", 
     "note": "skin-30000601", "explore_tag": "", "gift_position": "", "illustrator_cv": "skin-40000601", "order": 7, 
@@ -2517,6 +2523,22 @@
     "id": 5065, "name": "56-1식 - 오리지널", "extra": 0, "fit_gun": 20066, "ai": 0, "voice": 4, "is_hidden": 2, 
     "substitute_voice": "", "dialog": "기본 외형", "note": "기본 외형", "explore_tag": "", "gift_position": "", 
     "illustrator_cv": "skin-40005065", "order": 0, "class_id": 0
+  }, {
+    "id": 5066, "name": "M1919A4 - 오리지널", "extra": 0, "fit_gun": 20080, "ai": 0, "voice": 4, "is_hidden": 2, 
+    "substitute_voice": "", "dialog": "오리지널", "note": "오리지널", "explore_tag": "", "gift_position": "", 
+    "illustrator_cv": "AS109,Yoshida Sachiyo,", "order": 0, "class_id": 0
+  }, {
+    "id": 5067, "name": "K5 - 오리지널", "extra": 0, "fit_gun": 20212, "ai": 0, "voice": 4, "is_hidden": 2, 
+    "substitute_voice": "", "dialog": "오리지널", "note": "오리지널", "explore_tag": "", "gift_position": "", 
+    "illustrator_cv": "skin-40005067", "order": 0, "class_id": 0
+  }, {
+    "id": 5068, "name": "100식 - 오리지널", "extra": 0, "fit_gun": 20228, "ai": 0, "voice": 4, "is_hidden": 2, 
+    "substitute_voice": "", "dialog": "오리지널", "note": "오리지널", "explore_tag": "", "gift_position": "", 
+    "illustrator_cv": "skin-40005068", "order": 0, "class_id": 0
+  }, {
+    "id": 5069, "name": "DP-12 - 오리지널", "extra": 0, "fit_gun": 20282, "ai": 0, "voice": 4, "is_hidden": 2, 
+    "substitute_voice": "", "dialog": "오리지널", "note": "오리지널", "explore_tag": "", "gift_position": "", 
+    "illustrator_cv": "skin-40005069", "order": 0, "class_id": 0
   }, {
     "id": 5101, "name": "류 소총 - 버드나무 여우불", "extra": 0, "fit_gun": 316, "ai": 0, "voice": 18, "is_hidden": 0, 
     "substitute_voice": "", "dialog": "잠이 안 오세요? 그럼 여우의 주술로... 얍! 안녕히 주무세요~", "note": "skin-30005101", 
