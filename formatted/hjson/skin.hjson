@@ -8171,6 +8171,73 @@
     class_id: 86
   }
   {
+    id: 8201
+    name: Kord - 코드 선장
+    fit_gun: 276
+    voice: 4
+    dialog: 새로운 섬을 발견한 것을 축하하며 함께 한잔! 이 섬의 이름을 지을 기회를 당신에게 드릴게요.
+    note: skin-30008201
+    illustrator_cv: umo,Yuuki Kana,
+    order: 107
+    class_id: 87
+  }
+  {
+    id: 8202
+    name: KH2002 - 블랙 바로네스
+    fit_gun: 342
+    voice: 4
+    dialog: 내 조타수야, 드디어 왔구나. 펠레가 방금 이 선장을 도촬하고 그불게에 올리려고 한 MDR을 붙잡았어. 선내 규칙 제11조에 따라서 녀석을 상어한테 던져주겠어!
+    note: skin-30008202
+    gift_position: "-187,125.2"
+    illustrator_cv: skin-40008202
+    order: 107
+    class_id: 87
+  }
+  {
+    id: 8203
+    name: SIG MCX - 크라켄 헌터
+    fit_gun: 338
+    voice: 4
+    dialog: 요, 지휘관. 전설의 크라켄이 바다에 나타났다고 해. 다리 한 가닥만 해도 수십 미터나 된다는데, 같이 사냥하러 가자!
+    note: skin-30008203
+    illustrator_cv: skin-40008203
+    order: 107
+    class_id: 87
+  }
+  {
+    id: 8204
+    name: PTRD - 피의 소용돌이
+    fit_gun: 42
+    voice: 4
+    dialog: 해협은 내가 뛰노는 장소. 파도의 울부짖음에도 익숙하고, 바다 위 생활도 익숙해졌지... 내게 함대를 빌려줘, 지휘관. 적들을 비명지르게 해줄게.
+    note: skin-30008204
+    illustrator_cv: Luuuo,Shimizu Ai,
+    order: 107
+    class_id: 87
+  }
+  {
+    id: 8205
+    name: TS12 - 붉은 머리 드라코
+    fit_gun: 321
+    voice: 4
+    dialog: 바람의 안내를 따라 함대는 이미 출항했다. 병력이 부족해? 바다 위의 사정은 다 배로 해결하지 병력하곤 관계 없어. 넌 항구에서 내가 돌아오기만을 기다려.
+    note: skin-30008205
+    illustrator_cv: skin-40008205
+    order: 107
+    class_id: 87
+  }
+  {
+    id: 8206
+    name: MP41 - 라스트 커세어
+    fit_gun: 267
+    voice: 4
+    dialog: 히히, 키드 선장의 4장의 보물지도롤 찾아냈어요. 이제 이 숫자의 수수께끼만 풀면 돼요. 44-10-66-18, 이게 대체 무슨 뜻일까요...
+    note: skin-30008206
+    illustrator_cv: skin-40008206
+    order: 107
+    class_id: 87
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     fit_gun: 57

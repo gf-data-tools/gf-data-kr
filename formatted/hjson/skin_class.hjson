@@ -430,6 +430,11 @@
     name: 인형의 정원
   }
   {
+    id: 87
+    theme_type: 9
+    name: 푸른 바다 위 검은 돛
+  }
+  {
     id: 99
     theme_type: 9
     name: 기타

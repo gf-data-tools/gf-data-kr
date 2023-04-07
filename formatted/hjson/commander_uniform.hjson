@@ -3027,6 +3027,146 @@
     color_icon_id: "894,895,896,897,898,899"
   }
   {
+    id: 5111
+    name: 바르바로사
+    description: 이 상징적인 수염은 원수놈들의 악몽이 되리라. 대신 매일 3시간 수염을 가꾸는 시간은 너의 악몽이 되리라.
+    code: Head1
+    icon: commander_5111_icon
+    type: 1
+    gender: 1
+    uniform_class: "51"
+    color_normal: Commander_5111_N
+    color_0: Commander_5111_0
+    color_1: Commander_5111_1
+    color_2: Commander_5111_2
+    color_3: Commander_5111_3
+    color_4: Commander_5111_4
+    color_icon_id: "900,901,902,903,904,905"
+  }
+  {
+    id: 5112
+    name: 카탈리나
+    description: 적이 칼에 쓰러질 때, 그 목숨 마지막 순간에 보는 것은 파도처럼 치명적인 장발이어라.
+    code: Head2
+    icon: commander_5112_icon
+    type: 1
+    gender: 2
+    uniform_class: "51"
+    color_normal: Commander_5112_N
+    color_0: Commander_5112_0
+    color_1: Commander_5112_1
+    color_2: Commander_5112_2
+    color_3: Commander_5112_3
+    color_4: Commander_5112_4
+    color_icon_id: "906,907,908,909,910,911"
+  }
+  {
+    id: 5120
+    name: 현상 존엄
+    description: 선장님, 이걸 쓰십쇼! 수배령의 얼굴이 더 위엄 넘치게 보일 겁니다! 앵무새도 필요하십니까? 바로 잡아드리겠습니다!
+    code: HeadAcco
+    icon: commander_5120_icon
+    type: 2
+    uniform_class: "51"
+    color_normal: Commander_5120_N
+    color_0: Commander_5120_0
+    color_1: Commander_5120_1
+    color_2: Commander_5120_2
+    color_3: Commander_5120_3
+    color_4: Commander_5120_4
+    bone_name: HairBinder1
+    scale: 0.2
+    position: "-0.044,0.146"
+    color_icon_id: "912,913,914,915,916,917"
+  }
+  {
+    id: 5131
+    name: 파도 베기
+    description: 아무리 험난할지어도, 이 우뚝 서있는 모습만 보면 선원들은 100배 기운을 내어 어느 바다도 정복하리라!
+    code: Body1
+    icon: commander_5131_icon
+    type: 3
+    gender: 1
+    uniform_class: "51"
+    color_normal: Commander_5131_N
+    color_0: Commander_5131_0
+    color_1: Commander_5131_1
+    color_2: Commander_5131_2
+    color_3: Commander_5131_3
+    color_4: Commander_5131_4
+    color_icon_id: "918,919,920,921,922,923"
+  }
+  {
+    id: 5132
+    name: 휘모는 바람
+    description: 미인어? 술상대? 온몸에 구멍나기 전에 바닷물에 그 머리를 헹구도록 해. 아니면 어디 두고보자고.
+    code: Body2
+    icon: commander_5132_icon
+    type: 3
+    gender: 2
+    uniform_class: "51"
+    color_normal: Commander_5132_N
+    color_0: Commander_5132_0
+    color_1: Commander_5132_1
+    color_2: Commander_5132_2
+    color_3: Commander_5132_3
+    color_4: Commander_5132_4
+    color_icon_id: "924,925,926,927,928,929"
+  }
+  {
+    id: 5140
+    name: 바다살이 비결
+    description: 이제 눈치 있는 놈은 이 배의 두목이 누군지 한눈에 알 겁니다! 다만 언제나 물건을 꺼내고 다니면 언제 원수가 몰래 등을 찌를지 조심하셔야 합니다!
+    code: BodyAcco
+    icon: commander_5140_icon
+    type: 4
+    uniform_class: "51"
+    color_normal: Commander_5140_N
+    color_0: Commander_5140_0
+    color_1: Commander_5140_1
+    color_2: Commander_5140_2
+    color_3: Commander_5140_3
+    color_4: Commander_5140_4
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "-0.120,0.068"
+    color_icon_id: "930,931,932,933,934,935"
+  }
+  {
+    id: 5151
+    name: 썩은 돛대
+    description: 깔끔하군, 좋다! 애들아! 곧 백병전이 시작되니 로프를 꽉 잡고, 놈들의 배에 올라타 근접해서 승부를 보자!
+    code: Foot1
+    icon: commander_5151_icon
+    type: 5
+    gender: 1
+    uniform_class: "51"
+    color_normal: Commander_5151_N
+    color_0: Commander_5151_0
+    color_1: Commander_5151_1
+    color_2: Commander_5151_2
+    color_3: Commander_5151_3
+    color_4: Commander_5151_4
+    color_icon_id: "936,937,938,939,940,941"
+  }
+  {
+    id: 5152
+    name: 부서진 갑판
+    description: 머리 숙여! 저번에 심부름 실수한 녀석은 이미 상어밥으로 던져줬다. 너도 그렇게 되기 싫으면 배를 깨끗하게 닦도록 해!
+    code: Foot2
+    icon: commander_5152_icon
+    type: 5
+    gender: 2
+    uniform_class: "51"
+    color_normal: Commander_5152_N
+    color_0: Commander_5152_0
+    color_1: Commander_5152_1
+    color_2: Commander_5152_2
+    color_3: Commander_5152_3
+    color_4: Commander_5152_4
+    color_icon_id: "942,943,944,945,946,947"
+  }
+  {
     id: 9920
     name: 활기찬 위장
     description: 언제나 가장 좋은 모습으로.

@@ -268,6 +268,16 @@
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30000118", "is_hide_info": 0
   }, {
+    "id": 119, "type": 3, "arg": "20", "code": "Medal_Theater10th", "item_name": "10차 국지전 개척자 훈장", 
+    "introduction": "제10차 국지전에서 꾸준한 노력으로 뛰어난 성적을 얻은 지휘관 및 휘하 인형에게 수여합니다. \"폭풍이 깃발을 아무리 찢을지라도, 폭우가 몸에 아무리 쏟아져도, 앞으로 나아가라, 승리를 거머쥘 때까지.\"", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30000119", "is_hide_info": 0
+  }, {
+    "id": 120, "type": 3, "arg": "21", "code": "Medal_Theater10th_rank", "item_name": "10차 국지전 정복자 훈장", 
+    "introduction": "제10차 국지전에서 남다른 전공을 올린 지휘관 및 휘하 인형에게 수여합니다. \"어둠이 모든 것을 집어삼켜도, 그대는 여명을 되찾으리라.\"", 
+    "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30000120", "is_hide_info": 0
+  }, {
     "id": 301, "type": 1, "arg": "1", "code": "CentreDataBGM71", "item_name": "핵심 데이터:BGM-71", 
     "introduction": "중장비 부대 BGM-71의 데이터 조각. -\"보고, 목표 구역에 아군이 있습니다!\" -\"이런... 뭐, 행운을 빌어야지!\"", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
@@ -5616,6 +5626,30 @@
     "introduction": "리버레이터 - 순금 컬렉터", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
     "consume_type": 0, "item_access": "", "detail_introduction": "item-30002279", "is_hide_info": 0
   }, {
+    "id": 2280, "type": 5, "arg": "1", "code": "profilePic_Piracy2023_Kord", "item_name": "Kord - 코드 선장", 
+    "introduction": "Kord - 코드 선장", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002280", "is_hide_info": 0
+  }, {
+    "id": 2281, "type": 5, "arg": "1", "code": "profilePic_Piracy2023_KH2002", "item_name": "KH2002 - 블랙 바로네스", 
+    "introduction": "KH2002 - 블랙 바로네스", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002281", "is_hide_info": 0
+  }, {
+    "id": 2282, "type": 5, "arg": "1", "code": "profilePic_Piracy2023_SIGMCX", "item_name": "SIG MCX - 크라켄 헌터", 
+    "introduction": "SIG MCX - 크라켄 헌터", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002282", "is_hide_info": 0
+  }, {
+    "id": 2283, "type": 5, "arg": "1", "code": "profilePic_Piracy2023_PTRD", "item_name": "PTRD - 피의 소용돌이", 
+    "introduction": "PTRD - 피의 소용돌이", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002283", "is_hide_info": 0
+  }, {
+    "id": 2284, "type": 5, "arg": "1", "code": "profilePic_Piracy2023_TavorTS12", "item_name": "TS12 - 붉은 머리 드라코", 
+    "introduction": "TS12 - 붉은 머리 드라코", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002284", "is_hide_info": 0
+  }, {
+    "id": 2285, "type": 5, "arg": "1", "code": "profilePic_Piracy2023_MP41", "item_name": "MP41 - 라스트 커세어", 
+    "introduction": "MP41 - 라스트 커세어", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
+    "consume_type": 0, "item_access": "", "detail_introduction": "item-30002285", "is_hide_info": 0
+  }, {
     "id": 4001, "type": 1, "arg": "4001", "code": "explore_loot_city", "item_name": "도시의 선물", 
     "introduction": "아주 오래전 생산된 블록 완구로, 매우 정교하게 만들어져 모조하기 힘듭니다. 여러 분쟁지에서 화폐로 쓰이며 쓸만한 물건과 교환할 수 있습니다.", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 99999, "consume_type": 0, "item_access": "", 
@@ -7183,6 +7217,11 @@
     "introduction": "일맥상전 내공비법, 맞는 것처럼 보여도 상대의 내부를 파괴하는 살법일지니... 코피가 난다고? 그냥 사소한 부작용이다!", 
     "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
     "detail_introduction": "item-30130019", "is_hide_info": 0
+  }, {
+    "id": 130020, "type": 12, "arg": "130020", "code": "Y_Z_zhihuiguan_Cannon", "item_name": "포탄의 포물선", 
+    "introduction": "화약 채워! 포탄 장전! 빨리 빨리! 좋아, 목표 조준. 놈들은 박살낸다... 발사!", "rank": 1, "sort": 0, 
+    "initial_num": "", "daily_limit": "", "upper_limit": 0, "consume_type": 0, "item_access": "", 
+    "detail_introduction": "item-30130020", "is_hide_info": 0
   }, {
     "id": 140001, "type": 14, "arg": "1", "code": "Y_Z_zhihuiguan_Chessman", "item_name": "*유탄 포수", 
     "introduction": "item-20140001", "rank": 1, "sort": 0, "initial_num": "", "daily_limit": "", "upper_limit": 0, 
