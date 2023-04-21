@@ -1,0 +1,193 @@
+[
+  {
+    id: 1
+    name: 획득
+    code: _GAIN_JP
+  }
+  {
+    id: 2
+    name: 인사
+    code: _HELLO_JP
+  }
+  {
+    id: 3
+    name: 제대편성
+    code: _FORMATION_JP
+  }
+  {
+    id: 4
+    name: 강화완료
+    code: _FEED_JP
+  }
+  {
+    id: 5
+    name: 대화1
+    code: _DIALOGUE1_JP
+  }
+  {
+    id: 6
+    name: 대화2
+    code: _DIALOGUE2_JP
+  }
+  {
+    id: 7
+    name: 대화3
+    code: _DIALOGUE3_JP
+  }
+  {
+    id: 9
+    name: 출격
+    code: _GOATTACK_JP
+  }
+  {
+    id: 10
+    name: 적 조우
+    code: _MEET_JP
+  }
+  {
+    id: 13
+    name: 중상
+    code: _BREAK_JP
+  }
+  {
+    id: 14
+    name: 승리
+    code: _WIN_JP
+  }
+  {
+    id: 15
+    name: 퇴각
+    code: _RETREAT_JP
+  }
+  {
+    id: 16
+    name: 새해
+    code: _NEWYEAR_JP
+    is_skin: 1
+  }
+  {
+    id: 17
+    name: 발렌타인 데이
+    code: _VALENTINE_JP
+    is_skin: 1
+  }
+  {
+    id: 18
+    name: 칠석
+    code: _TANABATA_JP
+    is_skin: 1
+  }
+  {
+    id: 19
+    name: 할로윈
+    code: _ALLHALLOWS_JP
+    is_skin: 1
+  }
+  {
+    id: 20
+    name: 성탄절
+    code: _CHRISTMAS_JP
+    is_skin: 1
+  }
+  {
+    id: 21
+    name: 스킬1
+    code: _SKILL1_JP
+  }
+  {
+    id: 22
+    name: 스킬2
+    code: _SKILL2_JP
+  }
+  {
+    id: 23
+    name: 스킬3
+    code: _SKILL3_JP
+  }
+  {
+    id: 24
+    name: 군수지원 출발
+    code: _OPERATIONBEGIN_JP
+  }
+  {
+    id: 25
+    name: 군수지원 복귀
+    code: _OPERATIONOVER_JP
+  }
+  {
+    id: 26
+    name: 수복
+    code: _FIX_JP
+  }
+  {
+    id: 27
+    name: 편제확대
+    code: _COMBINE_JP
+  }
+  {
+    id: 28
+    name: 자율작전
+    code: _BLACKACTION_JP
+  }
+  {
+    id: 29
+    name: 서약
+    code: _SOULCONTRACT_JP
+  }
+  {
+    id: 30
+    name: 게임 타이틀
+    code: _TITLECALL_JP
+  }
+  {
+    id: 31
+    name: 대화4
+    code: _DIALOGUEWEDDING_JP
+  }
+  {
+    id: 41
+    name: 로딩
+    code: _LOADING_JP
+  }
+  {
+    id: 42
+    name: 우정담 - 데저트 이글
+    code: _FETTER1_JP
+    is_fetter: 1
+  }
+  {
+    id: 43
+    name: 우정담 - HK45
+    code: _FETTER1_JP
+    is_fetter: 2
+  }
+  {
+    id: 44
+    name: 우정담 - Spectre M4
+    code: _FETTER1_JP
+    is_fetter: 3
+  }
+  {
+    id: 45
+    name: 우정담 - HK45
+    code: _FETTER1_JP
+    is_fetter: 4
+  }
+  {
+    id: 46
+    name: 우정담 - 데저트 이글
+    code: _FETTER1_JP
+    is_fetter: 5
+  }
+  {
+    id: 47
+    name: 우정담 - 데저트 이글
+    code: _FETTER1_JP
+    is_fetter: 6
+  }
+  {
+    id: 48
+    name: 말버릇
+    code: _PHRASE_JP
+  }
+]

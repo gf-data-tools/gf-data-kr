@@ -1,0 +1,32 @@
+[
+  {
+    id: 1
+    name: 보조형
+    en_name: Support
+  }
+  {
+    id: 2
+    name: 버프형
+    en_name: Buff
+  }
+  {
+    id: 3
+    name: 수비형
+    en_name: Defense
+  }
+  {
+    id: 4
+    name: 광폭형
+    en_name: Rampage
+  }
+  {
+    id: 5
+    name: 증원형
+    en_name: Reinforce
+  }
+  {
+    id: 6
+    name: 전역형
+    en_name: Battle
+  }
+]

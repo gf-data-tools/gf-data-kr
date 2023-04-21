@@ -1,0 +1,937 @@
+[
+  {
+    id: 101
+    name: 제식표적
+    des: 제식표적
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950046
+    log_fitter_name: 제식표적
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 102
+    name: 제식표적
+    des: 제식표적
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950047
+    log_fitter_name: 제식표적
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 103
+    name: 제식표적
+    des: 제식표적
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950048
+    log_fitter_name: 제식표적
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 104
+    name: 제식표적
+    des: 제식표적
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950049
+    log_fitter_name: 제식표적
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 105
+    name: 제식표적
+    des: 제식표적
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950050
+    log_fitter_name: 제식표적
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 301
+    name: 가름
+    des: 특수표적 - 가름, 표적 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.
+    power: 126250
+    recommend_power: 126250
+    enemy_team_id: 2371
+    log_fitter_name: 가름
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 401
+    name: 예고르
+    des: 특수표적 - 예고르, 표적 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.
+    power: 143733
+    recommend_power: 143733
+    enemy_team_id: 9130301
+    log_fitter_name: 예고르
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 501
+    name: 실격이성질체
+    des: 특수표적 - 실격이성질체, 표적 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.
+    power: 154709
+    recommend_power: 154709
+    enemy_team_id: 337257
+    log_fitter_name: 실격이성질체
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 601
+    name: M16A1!
+    des: 특수표적 - M16A1！, 표적 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.
+    power: 169976
+    recommend_power: 169976
+    enemy_team_id: 317907
+    log_fitter_name: M16A1!
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 701
+    name: 차단중대
+    des: 특수표적 - 차단중대, 표적 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.
+    power: 175920
+    recommend_power: 175920
+    enemy_team_id: 1770
+    log_fitter_name: 차단중대
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 801
+    name: 01：난수 봄버
+    des: "[이중난수]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 73800
+    recommend_power: 73800
+    enemy_team_id: 9411205
+    log_fitter_name: 01：난수 봄버
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 901
+    name: 02：난수 거신
+    des: "[이중난수]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 91475
+    recommend_power: 91475
+    enemy_team_id: 9410318
+    log_fitter_name: 02：난수 거신
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 1001
+    name: 03：난수 종말
+    des: "[이중난수]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 100248
+    recommend_power: 100248
+    enemy_team_id: 9411206
+    log_fitter_name: 03：난수 종말
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 1101
+    name: 04：난수 단절
+    des: "[이중난수]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 80829
+    recommend_power: 80829
+    enemy_team_id: 9411407
+    log_fitter_name: 04：난수 단절
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 1201
+    name: 05：난수 철벽
+    des: "[이중난수]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 248736
+    recommend_power: 248736
+    enemy_team_id: 9411408
+    log_fitter_name: 05：난수 철벽
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 1301
+    name: 06：난수 독사
+    des: "[이중난수]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 407438
+    recommend_power: 407438
+    enemy_team_id: 9411422
+    log_fitter_name: 06：난수 독사
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 1501
+    name: 카르카노
+    des: "[몽중극]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 407438
+    recommend_power: 407438
+    enemy_team_id: 381901
+    log_fitter_name: 카르카노
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 1601
+    name: 01: 열정의 야수들
+    des: "[국지전]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 40866
+    recommend_power: 40866
+    enemy_team_id: 336405
+    log_fitter_name: 01: 열정의 야수들
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 1701
+    name: 02: 불굴의 철칙
+    des: "[국지전]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 70480
+    recommend_power: 70480
+    enemy_team_id: 390149
+    log_fitter_name: 02: 불굴의 철칙
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 1801
+    name: 03: 벌새 소용돌이
+    des: "[국지전]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 88645
+    recommend_power: 88645
+    enemy_team_id: 9411418
+    log_fitter_name: 03: 벌새 소용돌이
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 1901
+    name: 04: 거대 전차
+    des: "[국지전]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 55346
+    recommend_power: 55346
+    enemy_team_id: 9130113
+    log_fitter_name: 04: 거대 전차
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2001
+    name: 01： 갈림길 이정표
+    des: "[이성질체]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 169976
+    recommend_power: 169976
+    enemy_team_id: 317907
+    log_fitter_name: 01： 갈림길 이정표
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2101
+    name: 02：폭우 속 노래꾼
+    des: "[이성질체]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 172301
+    recommend_power: 172301
+    enemy_team_id: 317993
+    log_fitter_name: 02：폭우 속 노래꾼
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2201
+    name: 03：이성질 탄환
+    des: "[이성질체]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 244970
+    recommend_power: 244970
+    enemy_team_id: 317994
+    log_fitter_name: 03：이성질 탄환
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2301
+    name: 이성질체
+    des: 강력한 유닛. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.
+    power: 409215
+    recommend_power: 409215
+    enemy_team_id: 337399
+    log_fitter_name: 이성질체
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2401
+    name: 01：역설·혼돈
+    des: "[거울단계]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 124783
+    recommend_power: 124783
+    enemy_team_id: 6441807
+    log_fitter_name: 01：역설·혼돈
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2402
+    name: 02：역설·전갈
+    des: "[거울단계]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 237147
+    recommend_power: 237147
+    enemy_team_id: 44400003
+    log_fitter_name: 02：역설·전갈
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2403
+    name: 03：역설·말벌
+    des: "[거울단계]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 418751
+    recommend_power: 418751
+    enemy_team_id: 6441801
+    log_fitter_name: 03：역설·말벌
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2404
+    name: 01: 연쇄분열·폭군
+    des: "[연쇄분열]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 77122
+    recommend_power: 77122
+    enemy_team_id: 334701
+    log_fitter_name: 01: 연쇄분열
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2405
+    name: 02: 연쇄분열·사냥꾼
+    des: "[연쇄분열]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 73455
+    recommend_power: 73455
+    enemy_team_id: 336807
+    log_fitter_name: 02: 연쇄분열
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2406
+    name: 03: 연쇄분열·역병
+    des: "[연쇄분열]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 251937
+    recommend_power: 251937
+    enemy_team_id: 336901
+    log_fitter_name: 03: 연쇄분열
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2407
+    name: 폭렬·마녀
+    des: "[사신짱 전선]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 272650
+    recommend_power: 272650
+    enemy_team_id: 461008
+    log_fitter_name: 폭렬·마녀
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2408
+    name: 대지·십자가의 길
+    des: "[편극광]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 219183
+    recommend_power: 219183
+    enemy_team_id: 363099
+    log_fitter_name: 대지·십자가의 길
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2409
+    name: 철혈·엘렉트라
+    des: "[편극광]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 149503
+    recommend_power: 149503
+    enemy_team_id: 362921
+    log_fitter_name: 철혈·엘렉트라
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2410
+    name: 철혈·되돌아오지 않는 자
+    des: "[편극광]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 34544
+    recommend_power: 34544
+    enemy_team_id: 362801
+    log_fitter_name: 철혈·되돌아오지 않는 자
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2411
+    name: 01엔탈피·서리가시
+    des: "[재귀정리]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 360000
+    recommend_power: 360000
+    enemy_team_id: 480142
+    log_fitter_name: 01엔탈피·서리가시
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2412
+    name: 02엔탈피·달무리
+    des: "[재귀정리]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 480000
+    recommend_power: 480000
+    enemy_team_id: 480143
+    log_fitter_name: 02엔탈피·달무리
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2413
+    name: 03엔탈피·뿌연 안개
+    des: "[재귀정리]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 184845
+    recommend_power: 184845
+    enemy_team_id: 6486203
+    log_fitter_name: 03엔탈피·뿌연 안개
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2414
+    name: I 돌풍: 환골
+    des: "[고정점]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 800000
+    recommend_power: 800000
+    enemy_team_id: 6519904
+    log_fitter_name: I 돌풍: 환골
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2415
+    name: II 돌풍: 낙엽나방
+    des: "[고정점]에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다."
+    power: 800000
+    recommend_power: 800000
+    enemy_team_id: 6519906
+    log_fitter_name: II 돌풍: 낙엽나방
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2416
+    name: 01：변형 - 극악무도
+    des: 【세로변형】에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.
+    power: 139240
+    recommend_power: 139240
+    enemy_team_id: 6549105
+    log_fitter_name: 01：변형 - 극악무도
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2417
+    name: 02：변형 - 피의 맹세
+    des: 【세로변형】에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.
+    power: 170593
+    recommend_power: 170593
+    enemy_team_id: 6543401
+    log_fitter_name: 02：변형 - 피의 맹세
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2418
+    name: 03：변형 - 어둠의 포효
+    des: 【세로변형】에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.
+    power: 117720
+    recommend_power: 117720
+    enemy_team_id: 6549205
+    log_fitter_name: 03：변형 - 어둠의 포효
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 2419
+    name: 04：변형 - 역광
+    des: 【세로변형】에서 얻은 정보를 통해, [표적훈련]에서 특히 강한 유닛을 재현했습니다. 연습을 통해 사전 준비를 할 수 있고, 공개 기간 모두의 도전 시간 및 도전 데이터를 기록하여 서로 참고할 수 있도록 합니다.
+    power: 156342
+    recommend_power: 156342
+    enemy_team_id: 6549206
+    log_fitter_name: 04：변형 - 역광
+    code: Targettrain_SingleTarget
+  }
+  {
+    id: 20101
+    name: 오합지졸
+    des: 작전능력이 충분하면 쉽게 이길 수 있습니다.。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950001
+    log_fitter_id: 201
+    log_fitter_name: 경갑 일반 체력 적군
+    code: Targettrain_950001
+  }
+  {
+    id: 20102
+    name: 나이트메어 무리
+    des: 악몽은 그야말로 공포 덩어리죠, 악몽을 부수기 위해선 단숨에 해치워야 합니다.(범위 타격 능력이 있는 부대로 상대하는 것을 권장합니다.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950006
+    log_fitter_id: 202
+    log_fitter_name: 높은 체력 밀집 적군
+    code: Targettrain_950006
+  }
+  {
+    id: 20103
+    name: 딜탱조합
+    des: 방패는 참 성가신 존재지만, 창이 없으면 방패도 의미가 없습니다.(후열을 우선 공격하는 부대로 상대하는 것을 권장합니다.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950011
+    log_fitter_id: 203
+    log_fitter_name: 방패-저격 조합
+    code: Targettrain_950011
+  }
+  {
+    id: 20104
+    name: 왜곡된 신앙
+    des: 믿음이 확고한 적을 꺾지 못할 경우, 먼저 그 믿음의 기반을 무너뜨리세요. 역장부터 부수는 겁니다.(체력 높은 단일 적을 대응할 유닛과 역장 파쇄 능력을 지닌 제대를 권장합니다.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950016
+    log_fitter_id: 204
+    log_fitter_name: 하얀 적군
+    code: Targettrain_950016
+  }
+  {
+    id: 20105
+    name: 기뢰 주의!
+    des: 악몽을 파해하는 최선책은 바로 깨어나는 거나, 악몽이 닥치기 전에 목졸라 죽이는 것이죠.(초반 압살력이 강한 제대로 상대하길 추천합니다.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950021
+    log_fitter_id: 205
+    log_fitter_name: 일촉즉발
+    code: Targettrain_950021
+  }
+  {
+    id: 20106
+    name: 무쇠장갑
+    des: 정면으로 돌파하기 힘들다면, 저 성가신 껍질을 뚫어버리세요!(단일 높은 체력을 상대하기 위한 유닛, 수비력이 강한 유닛, 그리고 파쇄능력을 지닌 조합으로 상대하세요.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950026
+    log_fitter_id: 206
+    log_fitter_name: 정예 탱커
+    code: Targettrain_950026
+  }
+  {
+    id: 20107
+    name: 파멸의 폭풍
+    des: 맨티코어 무리와 정면으로 맞서는 건 현명하지 않습니다. 이미 노련한 경험을 쌓아 그들의 약점을 안 다면 예외지만요.
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950031
+    log_fitter_id: 207
+    log_fitter_name: 무적 편대
+    code: Targettrain_950031
+  }
+  {
+    id: 20108
+    name: 예리한 사냥꾼
+    des: 버려진 패트롤러들이 당신을 쓰러뜨려 아직 자신들이 쓸모가 있다는 것을 증명하려 합니다. 초보라면 놈들을 피해가세요.
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950036
+    log_fitter_id: 208
+    log_fitter_name: 거신 강림
+    code: Targettrain_950036
+  }
+  {
+    id: 20109
+    name: 코이오스!
+    des: 잔머리로 압도할 생각은 접으세요, 놈은 압도 그 자체입니다.
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950041
+    log_fitter_id: 209
+    log_fitter_name: 코이오스!
+    code: Targettrain_950041
+  }
+  {
+    id: 20201
+    name: 오합지졸
+    des: 작전능력이 충분하면 쉽게 이길 수 있습니다.。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950002
+    log_fitter_id: 201
+    log_fitter_name: 경갑 일반 체력 적군
+    code: Targettrain_950002
+  }
+  {
+    id: 20202
+    name: 나이트메어 무리
+    des: 악몽은 그야말로 공포 덩어리죠, 악몽을 부수기 위해선 단숨에 해치워야 합니다.(범위 타격 능력이 있는 부대로 상대하는 것을 권장합니다.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950007
+    log_fitter_id: 202
+    log_fitter_name: 높은 체력 밀집 적군
+    code: Targettrain_950007
+  }
+  {
+    id: 20203
+    name: 딜탱조합
+    des: 방패는 참 성가신 존재지만, 창이 없으면 방패도 의미가 없습니다.(후열을 우선 공격하는 부대로 상대하는 것을 권장합니다.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950012
+    log_fitter_id: 203
+    log_fitter_name: 방패-저격 조합
+    code: Targettrain_950012
+  }
+  {
+    id: 20204
+    name: 왜곡된 신앙
+    des: 믿음이 확고한 적을 꺾지 못할 경우, 먼저 그 믿음의 기반을 무너뜨리세요. 역장부터 부수는 겁니다.(체력 높은 단일 적을 대응할 유닛과 역장 파쇄 능력을 지닌 제대를 권장합니다.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950017
+    log_fitter_id: 204
+    log_fitter_name: 하얀 적군
+    code: Targettrain_950017
+  }
+  {
+    id: 20205
+    name: 기뢰 주의!
+    des: 악몽을 파해하는 최선책은 바로 깨어나는 거나, 악몽이 닥치기 전에 목졸라 죽이는 것이죠.(초반 압살력이 강한 제대로 상대하길 추천합니다.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950022
+    log_fitter_id: 205
+    log_fitter_name: 일촉즉발
+    code: Targettrain_950022
+  }
+  {
+    id: 20206
+    name: 무쇠장갑
+    des: 정면으로 돌파하기 힘들다면, 저 성가신 껍질을 뚫어버리세요!(단일 높은 체력을 상대하기 위한 유닛, 수비력이 강한 유닛, 그리고 파쇄능력을 지닌 조합으로 상대하세요.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950027
+    log_fitter_id: 206
+    log_fitter_name: 정예 탱커
+    code: Targettrain_950027
+  }
+  {
+    id: 20207
+    name: 파멸의 폭풍
+    des: 맨티코어 무리와 정면으로 맞서는 건 현명하지 않습니다. 이미 노련한 경험을 쌓아 그들의 약점을 안 다면 예외지만요.
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950032
+    log_fitter_id: 207
+    log_fitter_name: 무적 편대
+    code: Targettrain_950032
+  }
+  {
+    id: 20208
+    name: 예리한 사냥꾼
+    des: 버려진 패트롤러들이 당신을 쓰러뜨려 아직 자신들이 쓸모가 있다는 것을 증명하려 합니다. 초보라면 놈들을 피해가세요.
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950037
+    log_fitter_id: 208
+    log_fitter_name: 거신 강림
+    code: Targettrain_950037
+  }
+  {
+    id: 20209
+    name: 코이오스!
+    des: 잔머리로 압도할 생각은 접으세요, 놈은 압도 그 자체입니다.
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950042
+    log_fitter_id: 209
+    log_fitter_name: 코이오스!
+    code: Targettrain_950042
+  }
+  {
+    id: 20301
+    name: 오합지졸
+    des: 작전능력이 충분하면 쉽게 이길 수 있습니다.。
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950003
+    log_fitter_id: 201
+    log_fitter_name: 경갑 일반 체력 적군
+    code: Targettrain_950003
+  }
+  {
+    id: 20302
+    name: 나이트메어 무리
+    des: 악몽은 그야말로 공포 덩어리죠, 악몽을 부수기 위해선 단숨에 해치워야 합니다.(범위 타격 능력이 있는 부대로 상대하는 것을 권장합니다.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950008
+    log_fitter_id: 202
+    log_fitter_name: 높은 체력 밀집 적군
+    code: Targettrain_950008
+  }
+  {
+    id: 20303
+    name: 딜탱조합
+    des: 방패는 참 성가신 존재지만, 창이 없으면 방패도 의미가 없습니다.(후열을 우선 공격하는 부대로 상대하는 것을 권장합니다.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950013
+    log_fitter_id: 203
+    log_fitter_name: 방패-저격 조합
+    code: Targettrain_950013
+  }
+  {
+    id: 20304
+    name: 왜곡된 신앙
+    des: 믿음이 확고한 적을 꺾지 못할 경우, 먼저 그 믿음의 기반을 무너뜨리세요. 역장부터 부수는 겁니다.(체력 높은 단일 적을 대응할 유닛과 역장 파쇄 능력을 지닌 제대를 권장합니다.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950018
+    log_fitter_id: 204
+    log_fitter_name: 하얀 적군
+    code: Targettrain_950018
+  }
+  {
+    id: 20305
+    name: 기뢰 주의!
+    des: 악몽을 파해하는 최선책은 바로 깨어나는 거나, 악몽이 닥치기 전에 목졸라 죽이는 것이죠.(초반 압살력이 강한 제대로 상대하길 추천합니다.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950023
+    log_fitter_id: 205
+    log_fitter_name: 일촉즉발
+    code: Targettrain_950023
+  }
+  {
+    id: 20306
+    name: 무쇠장갑
+    des: 정면으로 돌파하기 힘들다면, 저 성가신 껍질을 뚫어버리세요!(단일 높은 체력을 상대하기 위한 유닛, 수비력이 강한 유닛, 그리고 파쇄능력을 지닌 조합으로 상대하세요.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950028
+    log_fitter_id: 206
+    log_fitter_name: 정예 탱커
+    code: Targettrain_950028
+  }
+  {
+    id: 20307
+    name: 파멸의 폭풍
+    des: 맨티코어 무리와 정면으로 맞서는 건 현명하지 않습니다. 이미 노련한 경험을 쌓아 그들의 약점을 안 다면 예외지만요.
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950033
+    log_fitter_id: 207
+    log_fitter_name: 무적 편대
+    code: Targettrain_950033
+  }
+  {
+    id: 20308
+    name: 예리한 사냥꾼
+    des: 버려진 패트롤러들이 당신을 쓰러뜨려 아직 자신들이 쓸모가 있다는 것을 증명하려 합니다. 초보라면 놈들을 피해가세요.
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950038
+    log_fitter_id: 208
+    log_fitter_name: 거신 강림
+    code: Targettrain_950038
+  }
+  {
+    id: 20309
+    name: 코이오스!
+    des: 잔머리로 압도할 생각은 접으세요, 놈은 압도 그 자체입니다.
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950043
+    log_fitter_id: 209
+    log_fitter_name: 코이오스!
+    code: Targettrain_950043
+  }
+  {
+    id: 20401
+    name: 오합지졸
+    des: 우매한 자와 겁쟁이를 농락하려면 유연한 전술과 유연한 인형이 필요합니다.
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950004
+    log_fitter_id: 201
+    log_fitter_name: 경갑 일반 체력 적군
+    code: Targettrain_950004
+  }
+  {
+    id: 20402
+    name: 나이트메어 무리
+    des: 악몽은 그야말로 공포 덩어리죠, 악몽을 부수기 위해선 단숨에 해치워야 합니다.(범위 타격 능력이 있는 부대로 상대하는 것을 권장합니다.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950009
+    log_fitter_id: 202
+    log_fitter_name: 높은 체력 밀집 적군
+    code: Targettrain_950009
+  }
+  {
+    id: 20403
+    name: 완전군장 행군
+    des: 적의 갑옷을 뚫지 못한다면 아무리 공격을 쏟아부어도 헛수고입니다.(적의 후열을 우선 타격하고 장갑 관통 능력이 있는 조합으로 상대하세요.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950014
+    log_fitter_id: 203
+    log_fitter_name: 방패-저격 조합
+    code: Targettrain_950014
+  }
+  {
+    id: 20404
+    name: 왜곡된 신앙
+    des: 믿음이 확고한 적을 꺾지 못할 경우, 먼저 그 믿음의 기반을 무너뜨리세요. 역장부터 부수는 겁니다.(체력 높은 단일 적을 대응할 유닛과 역장 파쇄 능력을 지닌 제대를 권장합니다.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950019
+    log_fitter_id: 204
+    log_fitter_name: 하얀 적군
+    code: Targettrain_950019
+  }
+  {
+    id: 20405
+    name: 기뢰 주의!
+    des: 악몽을 파해하는 최선책은 바로 깨어나는 거나, 악몽이 닥치기 전에 목졸라 죽이는 것이죠.(초반 압살력이 강한 제대로 상대하길 추천합니다.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950024
+    log_fitter_id: 205
+    log_fitter_name: 일촉즉발
+    code: Targettrain_950024
+  }
+  {
+    id: 20406
+    name: 무쇠장갑
+    des: 정면으로 돌파하기 힘들다면, 저 성가신 껍질을 뚫어버리세요!(단일 높은 체력을 상대하기 위한 유닛, 수비력이 강한 유닛, 그리고 철갑 능력을 지닌 조합으로 상대하세요.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950029
+    log_fitter_id: 206
+    log_fitter_name: 정예 탱커
+    code: Targettrain_950029
+  }
+  {
+    id: 20407
+    name: 파멸의 폭풍
+    des: 히드라 무리와 정면으로 맞서는 건 현명하지 않습니다. 수많은 경험으로 그들의 약점을 알아냈다면 예외지만요.
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950034
+    log_fitter_id: 207
+    log_fitter_name: 무적 편대
+    code: Targettrain_950034
+  }
+  {
+    id: 20408
+    name: 예리한 사냥꾼
+    des: 버려진 패트롤러들이 당신을 쓰러뜨려 아직 자신들이 쓸모가 있다는 것을 증명하려 합니다. 초보라면 놈들을 피해가세요.
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950039
+    log_fitter_id: 208
+    log_fitter_name: 거신 강림
+    code: Targettrain_950039
+  }
+  {
+    id: 20409
+    name: 코이오스!
+    des: 잔머리로 압도할 생각은 접으세요, 놈은 압도 그 자체입니다.
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950044
+    log_fitter_id: 209
+    log_fitter_name: 코이오스!
+    code: Targettrain_950044
+  }
+  {
+    id: 20501
+    name: 오합지졸
+    des: 우매한 자와 겁쟁이를 농락하려면 유연한 전술과 유연한 인형이 필요합니다.
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950005
+    log_fitter_id: 201
+    log_fitter_name: 경갑 일반 체력 적군
+    code: Targettrain_950005
+  }
+  {
+    id: 20502
+    name: 나이트메어 무리
+    des: 악몽은 그야말로 공포 덩어리죠, 악몽을 부수기 위해선 단숨에 해치워야 합니다.(범위 타격 능력이 있는 부대로 상대하는 것을 권장합니다.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950010
+    log_fitter_id: 202
+    log_fitter_name: 높은 체력 밀집 적군
+    code: Targettrain_950010
+  }
+  {
+    id: 20503
+    name: 사슴 야캐요
+    des: 적의 갑옷을 뚫지 못한다면 아무리 공격을 쏟아부어도 헛수고입니다.(적의 후열을 우선 타격하고 장갑 관통 능력이 있는 조합으로 상대하세요.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950015
+    log_fitter_id: 203
+    log_fitter_name: 방패-저격 조합
+    code: Targettrain_950015
+  }
+  {
+    id: 20504
+    name: 왜곡된 신앙
+    des: 믿음이 확고한 적을 꺾지 못할 경우, 먼저 그 믿음의 기반을 무너뜨리세요. 역장부터 부수는 겁니다.(체력 높은 단일 적을 대응할 유닛과 역장 파쇄 능력을 지닌 제대를 권장합니다.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950020
+    log_fitter_id: 204
+    log_fitter_name: 하얀 적군
+    code: Targettrain_950020
+  }
+  {
+    id: 20505
+    name: 기뢰 주의!
+    des: 악몽을 파해하는 최선책은 바로 깨어나는 거나, 악몽이 닥치기 전에 목졸라 죽이는 것이죠.(초반 압살력이 강한 제대로 상대하길 추천합니다.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950025
+    log_fitter_id: 205
+    log_fitter_name: 일촉즉발
+    code: Targettrain_950025
+  }
+  {
+    id: 20506
+    name: 무쇠장갑
+    des: 정면으로 돌파하기 힘들다면, 저 성가신 껍질을 뚫어버리세요!(단일 높은 체력을 상대하기 위한 유닛, 수비력이 강한 유닛, 그리고 철갑 능력을 지닌 조합으로 상대하세요.)
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950030
+    log_fitter_id: 206
+    log_fitter_name: 정예 탱커
+    code: Targettrain_950030
+  }
+  {
+    id: 20507
+    name: 파멸의 폭풍
+    des: 히드라 무리와 정면으로 맞서는 건 현명하지 않습니다. 수많은 경험으로 그들의 약점을 알아냈다면 예외지만요.
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950035
+    log_fitter_id: 207
+    log_fitter_name: 무적 편대
+    code: Targettrain_950035
+  }
+  {
+    id: 20508
+    name: 예리한 사냥꾼
+    des: 버려진 패트롤러들이 당신을 쓰러뜨려 아직 자신들이 쓸모가 있다는 것을 증명하려 합니다. 초보라면 놈들을 피해가세요.
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950040
+    log_fitter_id: 208
+    log_fitter_name: 거신 강림
+    code: Targettrain_950040
+  }
+  {
+    id: 20509
+    name: 공포의 포진
+    des: 적의 탱크부대가 다가오고 있습니다. 이대로 무너질지 아니면 먼저 적을 부술지, 신병에게는 너무 어려운 선택입니다.
+    power: 3000
+    recommend_power: 3000
+    enemy_team_id: 950045
+    log_fitter_id: 209
+    log_fitter_name: 코이오스!
+    code: Targettrain_950045
+  }
+]

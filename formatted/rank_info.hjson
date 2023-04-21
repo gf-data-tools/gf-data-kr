@@ -1,0 +1,1113 @@
+[
+  {
+    id: "1"
+    name: 수렵 랭킹
+    type: "1"
+    refresh: month:1:0
+    title: 매일 4시 갱신
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "20000"
+    every_table_num: "20000"
+  }
+  {
+    id: "2"
+    name: 자료추출 초급 랭킹
+    type: "2"
+    sub_type: "1"
+    refresh: week:7:0
+    title: 매일 4시 갱신
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "20000"
+    every_table_num: "20000"
+  }
+  {
+    id: "3"
+    name: 자료추출 중급 랭킹
+    type: "2"
+    sub_type: "2"
+    refresh: week:7:0
+    title: 매일 4시 갱신
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "20000"
+    every_table_num: "20000"
+  }
+  {
+    id: "4"
+    name: 자료추출 고급 랭킹
+    type: "2"
+    sub_type: "3"
+    refresh: week:7:0
+    title: 매일 4시 갱신
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "20000"
+    every_table_num: "20000"
+  }
+  {
+    id: "5"
+    name: 방어훈련 랭킹
+    type: "3"
+    refresh: week:7:0
+    title: 매일 4시 갱신
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "20000"
+    every_table_num: "20000"
+  }
+  {
+    id: "6"
+    name: 인형수집 랭킹
+    type: "4"
+    refresh: month:1:0
+    title: 매일 4시 갱신
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "20000"
+    every_table_num: "20000"
+  }
+  {
+    id: "7"
+    name: 가구수집 랭킹
+    type: "5"
+    refresh: month:1:0
+    title: 매일 4시 갱신
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "20000"
+    every_table_num: "20000"
+  }
+  {
+    id: "8"
+    name: 이벤트 점수 랭킹
+    type: "6"
+    sub_type: "11320"
+    refresh: end:2022-12-30 15:00:00
+    title: <종언의 꽃밭+> 득점 랭킹（12월 23일 보상 지급）
+    top_rewards: 1:40514,2:40515,3:40516,4:40517,5:40518,6:40519,7:40520,8:40521,9:40522,10:40523,100:40524
+    visable_rank: "100"
+    visable_count: "100"
+    score_rewards: 350000:40525,600000:40526,800000:40527,900000:40528,1100000:40529
+    ranking_onlist_number: "80000"
+    every_table_num: "30000"
+    rank_list_num: "1"
+    begin_refresh_time: 2022-11-21
+    end_refresh_time: 2022-12-30
+    begin_show_time: 2022-11-21 00:00:00
+    end_show_time: 2022-12-30 15:00:00
+    event_rank_id: "8"
+    prize_preview: https://www.girlsfrontline.co.kr/pages/rank/index.html
+  }
+  {
+    id: "101"
+    name: 국지전 일일 랭킹
+    type: "101"
+    refresh: test
+    title: test
+    top_rewards: 1:104101,2:104102,3:104103,4:104104,5:104105,6:104106,7:104107,8:104108,9:104109,10:104110,100:104111
+    percentage_rewards: 5:104112,10:104113,15:104114,20:104115,30:104116,40:104117,50:104118,100:104119
+    visable_rank: "100"
+    visable_count: "300"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "102"
+    name: 요새 랭킹
+    type: "102"
+    refresh: test
+    title: test
+    visable_rank: "100"
+    visable_count: "300"
+    ranking_onlist_number: "120"
+    every_table_num: "120"
+  }
+  {
+    id: "112"
+    name: 최종전 랭킹
+    type: "112"
+    refresh: test
+    title: test
+    top_rewards: 1:104201,2:104202,3:104203,4:104204,5:104205,6:104206,7:104207,8:104208,9:104209,10:104210,100:104211
+    percentage_rewards: 5:104212,10:104213,15:104214,20:104215,30:104216,40:104217,50:104218,100:104219
+    visable_rank: "100"
+    visable_count: "300"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "122"
+    name: 가름
+    type: "113"
+    sub_type: "1703"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "123"
+    name: 예고르
+    type: "113"
+    sub_type: "1704"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "124"
+    name: 실격 이성질체
+    type: "113"
+    sub_type: "1705"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "125"
+    name: M16A1!
+    type: "113"
+    sub_type: "1706"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "126"
+    name: 차단중대
+    type: "113"
+    sub_type: "1707"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "127"
+    name: 가름
+    type: "114"
+    sub_type: "1703"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "128"
+    name: 예고르
+    type: "114"
+    sub_type: "1704"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "129"
+    name: 실격 이성질체
+    type: "114"
+    sub_type: "1705"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "130"
+    name: M16A1!
+    type: "114"
+    sub_type: "1706"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "131"
+    name: 차단중대
+    type: "114"
+    sub_type: "1707"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "132"
+    name: 모의전: 이중난수 01
+    type: "113"
+    sub_type: "1708"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "133"
+    name: 모의전: 이중난수 02
+    type: "113"
+    sub_type: "1709"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "134"
+    name: 모의전: 이중난수 03
+    type: "113"
+    sub_type: "1710"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "135"
+    name: 모의전: 이중난수 01
+    type: "114"
+    sub_type: "1708"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "136"
+    name: 모의전: 이중난수 02
+    type: "114"
+    sub_type: "1709"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "137"
+    name: 모의전: 이중난수 03
+    type: "114"
+    sub_type: "1710"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "138"
+    name: 모의전: 이중난수 04
+    type: "113"
+    sub_type: "1711"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "139"
+    name: 모의전: 이중난수 05
+    type: "113"
+    sub_type: "1712"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "140"
+    name: 모의전: 이중난수 06
+    type: "113"
+    sub_type: "1713"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "141"
+    name: 모의전: 이중난수 04
+    type: "114"
+    sub_type: "1711"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "142"
+    name: 모의전: 이중난수 05
+    type: "114"
+    sub_type: "1712"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "143"
+    name: 모의전: 이중난수 06
+    type: "114"
+    sub_type: "1713"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "144"
+    name: 필중의 거짓말
+    type: "113"
+    sub_type: "1715"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "145"
+    name: 필중의 거짓말
+    type: "114"
+    sub_type: "1715"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "146"
+    name: 01: 열정의 야수들
+    type: "113"
+    sub_type: "1716"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "147"
+    name: 02: 불굴의 철칙
+    type: "113"
+    sub_type: "1717"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "148"
+    name: 03: 벌새 소용돌이
+    type: "113"
+    sub_type: "1718"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "149"
+    name: 01: 열정의 야수들
+    type: "114"
+    sub_type: "1716"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "150"
+    name: 02: 불굴의 철칙
+    type: "114"
+    sub_type: "1717"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "151"
+    name: 03: 벌새 소용돌이
+    type: "114"
+    sub_type: "1718"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "152"
+    name: 04: 코이오스
+    type: "113"
+    sub_type: "1719"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "153"
+    name: 04: 코이오스
+    type: "114"
+    sub_type: "1719"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "154"
+    name: 이성질체01
+    type: "113"
+    sub_type: "1720"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "155"
+    name: 이성질체02
+    type: "113"
+    sub_type: "1721"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "156"
+    name: 이성질체03
+    type: "113"
+    sub_type: "1722"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "157"
+    name: 이성질체01
+    type: "114"
+    sub_type: "1720"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "158"
+    name: 이성질체02
+    type: "114"
+    sub_type: "1721"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "159"
+    name: 이성질체03
+    type: "114"
+    sub_type: "1722"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "160"
+    name: 흑백니토
+    type: "113"
+    sub_type: "1723"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "161"
+    name: 흑백니토
+    type: "114"
+    sub_type: "1723"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "162"
+    name: 탑급 기사
+    type: "8"
+    refresh: test
+    title: 탑급 기사 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "20000"
+    every_table_num: "20000"
+  }
+  {
+    id: "163"
+    name: 01：그레이
+    type: "113"
+    sub_type: "1724"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "164"
+    name: 02：나르시스
+    type: "113"
+    sub_type: "1725"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "165"
+    name: 03：몰리도
+    type: "113"
+    sub_type: "1726"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "166"
+    name: 01：그레이
+    type: "114"
+    sub_type: "1724"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "167"
+    name: 02：나르시스
+    type: "114"
+    sub_type: "1725"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "168"
+    name: 03：몰리도
+    type: "114"
+    sub_type: "1726"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "169"
+    name: 01: 연쇄분열
+    type: "113"
+    sub_type: "1727"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "170"
+    name: 02: 연쇄분열
+    type: "113"
+    sub_type: "1728"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "171"
+    name: 03: 연쇄분열
+    type: "113"
+    sub_type: "1729"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "172"
+    name: 01: 연쇄분열
+    type: "114"
+    sub_type: "1727"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "173"
+    name: 02: 연쇄분열
+    type: "114"
+    sub_type: "1728"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "174"
+    name: 03: 연쇄분열
+    type: "114"
+    sub_type: "1729"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "175"
+    name: 폭렬·마녀
+    type: "113"
+    sub_type: "1730"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "176"
+    name: 폭렬·마녀
+    type: "114"
+    sub_type: "1730"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "177"
+    name: 탑급 기사
+    type: "9"
+    refresh: test
+    title: 탑급 기사 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "178"
+    name: 대지·십자가의 길
+    type: "113"
+    sub_type: "1731"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "179"
+    name: 철혈·엘렉트라
+    type: "113"
+    sub_type: "1732"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "180"
+    name: 철혈·되돌아오지 않는 자
+    type: "113"
+    sub_type: "1733"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "181"
+    name: 대지·십자가의 길
+    type: "114"
+    sub_type: "1731"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "182"
+    name: 철혈·엘렉트라
+    type: "114"
+    sub_type: "1732"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "183"
+    name: 철혈·되돌아오지 않는 자
+    type: "114"
+    sub_type: "1733"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "184"
+    name: 01:엔탈피·서리가시
+    type: "113"
+    sub_type: "1734"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "185"
+    name: 02:엔탈피·달무리
+    type: "113"
+    sub_type: "1735"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "186"
+    name: 03:엔탈피·뿌연 안개
+    type: "113"
+    sub_type: "1736"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "187"
+    name: 01:엔탈피·서리가시
+    type: "114"
+    sub_type: "1734"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "188"
+    name: 02:엔탈피·달무리
+    type: "114"
+    sub_type: "1735"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "189"
+    name: 03:엔탈피·뿌연 안개
+    type: "114"
+    sub_type: "1736"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "190"
+    name: I 돌풍: 환골
+    type: "113"
+    sub_type: "1737"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "191"
+    name: II 돌풍: 낙엽나방
+    type: "113"
+    sub_type: "1738"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "192"
+    name: I 돌풍: 환골
+    type: "114"
+    sub_type: "1737"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "193"
+    name: II 돌풍: 낙엽나방
+    type: "114"
+    sub_type: "1738"
+    refresh: test
+    title: 손상 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "194"
+    name: 01：변형 - 극악무도
+    type: "113"
+    sub_type: "1739"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "195"
+    name: 02：변형 - 피의 맹세
+    type: "113"
+    sub_type: "1740"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "196"
+    name: 03：변형 - 어둠의 포효
+    type: "113"
+    sub_type: "1741"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "197"
+    name: 04：변형 - 역광
+    type: "113"
+    sub_type: "1742"
+    refresh: test
+    title: 도전 시간
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "198"
+    name: 01：변형 - 극악무도
+    type: "114"
+    sub_type: "1739"
+    refresh: test
+    title: 피해 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "199"
+    name: 02：변형 - 피의 맹세
+    type: "114"
+    sub_type: "1740"
+    refresh: test
+    title: 피해 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "200"
+    name: 03：변형 - 어둠의 포효
+    type: "114"
+    sub_type: "1741"
+    refresh: test
+    title: 피해 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "201"
+    name: 04：변형 - 역광
+    type: "114"
+    sub_type: "1742"
+    refresh: test
+    title: 피해 랭킹
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+  }
+  {
+    id: "1001"
+    name: 사가 응원판
+    type: "1001"
+    refresh: test
+    title: 매일 4시 갱신
+    visable_rank: "10"
+    visable_count: "300"
+    ranking_onlist_number: "160000"
+    every_table_num: "40000"
+    begin_refresh_time: 2023-02-14
+    end_refresh_time: 2023-03-10
+    begin_show_time: 2023-02-14 00:00:00
+    end_show_time: 2023-03-10 15:00:00
+  }
+]

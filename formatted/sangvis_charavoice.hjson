@@ -1,0 +1,210 @@
+[
+  {
+    id: 1
+    name: 획득1
+    code: _GAIN01_JP
+  }
+  {
+    id: 2
+    name: 획득2
+    code: _GAIN02_JP
+  }
+  {
+    id: 3
+    name: 로그인
+    code: _HELLO_JP
+  }
+  {
+    id: 4
+    name: 제대 편성1
+    code: _FORMATION01_JP
+  }
+  {
+    id: 5
+    name: 제대 편성2
+    code: _FORMATION02_JP
+  }
+  {
+    id: 6
+    name: 제대 편성3
+    code: _FORMATION03_JP
+  }
+  {
+    id: 7
+    name: 강화 완료1
+    code: _FEED01_JP
+    is_hidden: 1
+  }
+  {
+    id: 8
+    name: 강화 완료2
+    code: _FEED02_JP
+    is_hidden: 1
+  }
+  {
+    id: 9
+    name: 개발 완료1
+    code: _BREAKTHROUGH01_JP
+  }
+  {
+    id: 10
+    name: 개발 완료2
+    code: _BREAKTHROUGH02_JP
+  }
+  {
+    id: 11
+    name: 분석 상승1
+    code: _UPGRADE01_JP
+  }
+  {
+    id: 12
+    name: 분석 상승2
+    code: _UPGRADE02_JP
+  }
+  {
+    id: 13
+    name: 대화1
+    code: _DIALOGUE01_JP
+  }
+  {
+    id: 14
+    name: 대화2
+    code: _DIALOGUE02_JP
+  }
+  {
+    id: 15
+    name: 대화3
+    code: _DIALOGUE03_JP
+  }
+  {
+    id: 16
+    name: 출격
+    code: _GOATTACK_JP
+  }
+  {
+    id: 17
+    name: 적 조우
+    code: _MEET_JP
+  }
+  {
+    id: 18
+    name: 공격 진형
+    code: _ATTACK_JP
+  }
+  {
+    id: 19
+    name: 수비 진형
+    code: _DEFENSE_JP
+  }
+  {
+    id: 20
+    name: 승리
+    code: _WIN_JP
+  }
+  {
+    id: 21
+    name: 후퇴
+    code: _RETREAT_JP
+  }
+  {
+    id: 22
+    name: 패배1
+    code: _DEAD01_JP
+  }
+  {
+    id: 23
+    name: 패배2
+    code: _DEAD02_JP
+  }
+  {
+    id: 24
+    name: 스킬1
+    code: _SKILL01_JP
+  }
+  {
+    id: 25
+    name: 스킬2
+    code: _SKILL02_JP
+  }
+  {
+    id: 26
+    name: 스킬3
+    code: _SKILL03_JP
+  }
+  {
+    id: 27
+    name: 수복
+    code: _FIX_JP
+  }
+  {
+    id: 28
+    name: 자율작전
+    code: _BLACKACTION_JP
+    is_hidden: 1
+  }
+  {
+    id: 29
+    name: 서약
+    code: _SOULCONTRACT_JP
+  }
+  {
+    id: 30
+    name: 대화4
+    code: _DIALOGUEWEDDING_JP
+  }
+  {
+    id: 31
+    name: 타이틀
+    code: _TITLECALL_JP
+  }
+  {
+    id: 32
+    name: 말버릇
+    code: _PHRASE_JP
+  }
+  {
+    id: 33
+    name: 웃음
+    code: _MOOD1_JP
+  }
+  {
+    id: 34
+    name: 놀람
+    code: _MOOD2_JP
+  }
+  {
+    id: 35
+    name: 실망
+    code: _LOWMOOD_JP
+  }
+  {
+    id: 36
+    name: 칭찬
+    code: _APPRECIATE_JP
+  }
+  {
+    id: 37
+    name: 건성
+    code: _AGREE_JP
+  }
+  {
+    id: 38
+    name: 동의
+    code: _ACCEPT_JP
+  }
+  {
+    id: 39
+    name: 공명
+    code: _FEELING_JP
+  }
+  {
+    id: 40
+    name: 힌트
+    code: _TIP_JP
+  }
+  {
+    id: 41
+    name: 로딩
+    code: _LOADING_JP
+  }
+]

@@ -1,0 +1,420 @@
+[
+  {
+    id: 1
+    group: 2
+    content: YES! YES! YES!
+    type: 1
+    type_name: 잡담
+  }
+  {
+    id: 2
+    group: 2
+    content: 다음에 봐요
+    type: 1
+  }
+  {
+    id: 3
+    group: 2
+    content: 안녕하세요~
+    type: 1
+  }
+  {
+    id: 4
+    group: 2
+    content: 잠깐!
+    type: 1
+  }
+  {
+    id: 5
+    group: 2
+    content: (빼꼼
+    type: 1
+  }
+  {
+    id: 6
+    group: 2
+    content: 뉴비애용~ 잘 부탁해용~
+    type: 1
+  }
+  {
+    id: 7
+    group: 2
+    content: 으아아 군손실 온다
+    type: 1
+  }
+  {
+    id: 8
+    group: 2
+    content: 준비됐나요~?
+    type: 2
+    type_name: 재촉
+  }
+  {
+    id: 9
+    group: 2
+    content: 듀얼 개시를 선언해라!
+    type: 2
+  }
+  {
+    id: 10
+    group: 2
+    content: 빨리 빨리!
+    type: 2
+  }
+  {
+    id: 11
+    group: 2
+    content: 빨리! 나 스킬칩 캐야 돼!
+    type: 2
+  }
+  {
+    id: 12
+    group: 2
+    content: 똑똑똑, 방장 계세요?
+    type: 2
+  }
+  {
+    id: 13
+    group: 2
+    content: 아침까지 달린다!
+    type: 3
+    type_name: 초대
+  }
+  {
+    id: 14
+    group: 2
+    content: 한판 더 할까요?
+    type: 3
+  }
+  {
+    id: 15
+    group: 2
+    content: 실컷 싸우자!
+    type: 3
+  }
+  {
+    id: 16
+    group: 2
+    content: 여기까지 하죠.
+    type: 3
+  }
+  {
+    id: 17
+    group: 2
+    content: 한판 더해!
+    type: 3
+  }
+  {
+    id: 18
+    group: 2
+    content: 내가 진정한 체스킹이다!
+    type: 4
+    type_name: 도발
+  }
+  {
+    id: 19
+    group: 2
+    content: 누가 최강의 기사인지 알려주마!
+    type: 4
+  }
+  {
+    id: 20
+    group: 2
+    content: 그래, 바로 나다!
+    type: 4
+  }
+  {
+    id: 21
+    group: 2
+    content: 나중에 잘 써먹을 거다
+    type: 4
+  }
+  {
+    id: 22
+    group: 3
+    content: 맞아 맞아 맞아!
+    type: 1
+    type_name: 잡담
+  }
+  {
+    id: 23
+    group: 3
+    content: ?
+    type: 1
+  }
+  {
+    id: 24
+    group: 3
+    content: ......
+    type: 1
+  }
+  {
+    id: 25
+    group: 3
+    content: 방심했다.
+    type: 1
+  }
+  {
+    id: 26
+    group: 3
+    content: 저를 마주치다니 운이 나쁘시군요!
+    type: 1
+  }
+  {
+    id: 27
+    group: 3
+    content: 신호가 안 좋아? 카리나 부를까?
+    type: 1
+  }
+  {
+    id: 28
+    group: 3
+    content: 뭤이!? (ÒωÓױ)
+    type: 1
+  }
+  {
+    id: 29
+    group: 3
+    content: 열세를 단숨에 뒤집다니, 과연 지휘관님이에요.
+    type: 1
+  }
+  {
+    id: 30
+    group: 3
+    content: (빼꼼
+    type: 1
+  }
+  {
+    id: 31
+    group: 3
+    content: 감사합니다!
+    type: 1
+  }
+  {
+    id: 32
+    group: 3
+    content: 좋아요~
+    type: 1
+  }
+  {
+    id: 33
+    group: 3
+    content: 시간 주의합시다
+    type: 2
+    type_name: 재촉
+  }
+  {
+    id: 34
+    group: 3
+    content: 빨리! 더 빨리!
+    type: 2
+  }
+  {
+    id: 35
+    group: 3
+    content: 1위 견제!
+    type: 3
+    type_name: 국면
+  }
+  {
+    id: 36
+    group: 3
+    content: 그건 착한 인형이 할 짓이 아니야!
+    type: 3
+  }
+  {
+    id: 37
+    group: 3
+    content: 1 좋고~
+    type: 3
+  }
+  {
+    id: 38
+    group: 3
+    content: 2 좋고~
+    type: 3
+  }
+  {
+    id: 39
+    group: 3
+    content: 3 좋고~
+    type: 3
+  }
+  {
+    id: 40
+    group: 3
+    content: 4 좋고~
+    type: 3
+  }
+  {
+    id: 41
+    group: 3
+    content: 5 좋고~
+    type: 3
+  }
+  {
+    id: 42
+    group: 3
+    content: 6 좋고~
+    type: 3
+  }
+  {
+    id: 43
+    group: 3
+    content: 훌륭하군
+    type: 3
+  }
+  {
+    id: 44
+    group: 3
+    content: 저, 전설의 슈퍼 고인물...!
+    type: 4
+    type_name: 구걸
+  }
+  {
+    id: 45
+    group: 3
+    content: 주인장 여기 붕괴액 한 사발 줍쇼
+    type: 4
+  }
+  {
+    id: 46
+    group: 3
+    content: 인형에겐 죄가 없으니 살려줍쇼
+    type: 4
+  }
+  {
+    id: 47
+    group: 3
+    content: 우리 한 팀해요! 쏘지 말아요!
+    type: 4
+  }
+  {
+    id: 48
+    group: 3
+    content: 안 하겠소, 닸씨는!
+    type: 4
+  }
+  {
+    id: 49
+    group: 3
+    content: 꿈은 죽어서 실컷 보라고! 그러니까 죽어!
+    type: 5
+    type_name: 도발
+  }
+  {
+    id: 50
+    group: 3
+    content: 정말 구시대적인 발상이군
+    type: 5
+  }
+  {
+    id: 51
+    group: 3
+    content: 어디 주사위 좀 던져봐라.
+    type: 5
+  }
+  {
+    id: 52
+    group: 3
+    content: 우리 군수팀이 더 잘하겠다
+    type: 5
+  }
+  {
+    id: 53
+    group: 3
+    content: 내가 주피터포로 머리통을 날려버리겠어!
+    type: 5
+  }
+  {
+    id: 54
+    group: 3
+    content: 내 사거리 안에 들어왔구나!
+    type: 5
+  }
+  {
+    id: 55
+    group: 3
+    content: 나머지는 스바로그에게 맞기자.
+    type: 5
+  }
+  {
+    id: 56
+    group: 3
+    content: 나는 항상 두 수 앞을 바라본다!
+    type: 5
+  }
+  {
+    id: 57
+    group: 3
+    content: 질래 질 수가 없네~
+    type: 5
+  }
+  {
+    id: 58
+    group: 3
+    content: 너의 파멸이 눈에 선하구나.
+    type: 5
+  }
+  {
+    id: 59
+    group: 3
+    content: 나 풀피인데 때려볼래?
+    type: 5
+  }
+  {
+    id: 60
+    group: 3
+    content: 와봐, 정면승부다.
+    type: 6
+    type_name: 반격
+  }
+  {
+    id: 61
+    group: 3
+    content: 이건 몰랐지?
+    type: 6
+  }
+  {
+    id: 62
+    group: 3
+    content: 운명은... 우리 손 안에 있어!
+    type: 6
+  }
+  {
+    id: 63
+    group: 3
+    content: 아직 한 발 남았다.
+    type: 6
+  }
+  {
+    id: 64
+    group: 3
+    content: 내 차례다!
+    type: 6
+  }
+  {
+    id: 65
+    group: 3
+    content: 6 나오기만 하면 다 죽었어.
+    type: 6
+  }
+  {
+    id: 66
+    group: 3
+    content: 괜찮아, 이것도 전술이야.
+    type: 6
+  }
+  {
+    id: 67
+    group: 3
+    content: 미안하게 됐슴다!
+    type: 6
+  }
+  {
+    id: 68
+    group: 3
+    content: 아직 내 차례는 끝나지 않았어!
+    type: 6
+  }
+]

@@ -1,0 +1,4804 @@
+[
+  {
+    establish_id: "10001"
+    establish_name: 구호소벽지
+    room_id: "1"
+    description: 구호소벽지
+    furniture_id: "40001"
+    update_furniture_id: "40001"
+    furniture_postion: "3,3"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "10002"
+    establish_name: 구호소 바닥재
+    room_id: "1"
+    description: 구호소 바닥재
+    furniture_id: "40002"
+    update_furniture_id: "40002"
+    furniture_postion: "3,3"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "10005"
+    establish_name: 적십자
+    room_id: "1"
+    description: 적십자
+    furniture_id: "40012"
+    update_furniture_id: "40012"
+    furniture_postion: "9,10"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "10006"
+    establish_name: 반투명 액자
+    room_id: "1"
+    description: 반투명 액자
+    furniture_id: "40013"
+    update_furniture_id: "40013"
+    furniture_postion: "20,10"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "10007"
+    establish_name: 구호용 전등
+    room_id: "1"
+    description: 구호용 전등
+    furniture_id: "40007"
+    update_furniture_id: "40007"
+    furniture_postion: "18,6"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "10100"
+    establish_name: 지저분한 작업대
+    room_id: "1"
+    description: 오랫동안 방치되어 온 것으로 보이는 작업대로, 조금 손본다면 떠돌이 동물들을 돌볼 수 있을 것 같습니다.
+    furniture_id: "41010"
+    update_furniture_id: "41010"
+    furniture_postion: "6,8"
+    establish_type: "101"
+  }
+  {
+    establish_id: "10101"
+    establish_name: 간이 작업대
+    room_id: "1"
+    description: 현미경이 설치되어 있어, 눈이 나쁜 지휘관도 편히 이용할 수있고, 컴퓨터도 있어 의학자료를 열람할 수 있습니다. 치료에 앞서 손을 씻고 소독하는 것을 잊으면 안돼요!
+    furniture_id: "41011"
+    update_furniture_id: "41011"
+    furniture_postion: "6,8"
+    establish_type: "101"
+    establish_lv: "1"
+    upgrade_coin: "10"
+    upgrade_time: "60"
+  }
+  {
+    establish_id: "10102"
+    establish_name: 간이 작업대
+    room_id: "1"
+    description: 현미경이 설치되어 있어, 눈이 나쁜 지휘관도 편히 이용할 수있고, 컴퓨터도 있어 의학자료를 열람할 수 있습니다. 치료에 앞서 손을 씻고 소독하는 것을 잊으면 안돼요!
+    furniture_id: "41011"
+    update_furniture_id: "41011"
+    furniture_postion: "6,8"
+    establish_type: "101"
+    establish_lv: "2"
+    upgrade_coin: "75"
+    upgrade_time: "300"
+    upgrade_condition: "10201,10301"
+  }
+  {
+    establish_id: "10103"
+    establish_name: 간이 작업대
+    room_id: "1"
+    description: 현미경이 설치되어 있어, 눈이 나쁜 지휘관도 편히 이용할 수있고, 컴퓨터도 있어 의학자료를 열람할 수 있습니다. 치료에 앞서 손을 씻고 소독하는 것을 잊으면 안돼요!
+    furniture_id: "41011"
+    update_furniture_id: "41011"
+    furniture_postion: "6,8"
+    establish_type: "101"
+    establish_lv: "3"
+    upgrade_coin: "150"
+    upgrade_time: "1800"
+    upgrade_condition: "10202,10302"
+  }
+  {
+    establish_id: "10104"
+    establish_name: 간이 작업대
+    room_id: "1"
+    description: 현미경이 설치되어 있어, 눈이 나쁜 지휘관도 편히 이용할 수있고, 컴퓨터도 있어 의학자료를 열람할 수 있습니다. 치료에 앞서 손을 씻고 소독하는 것을 잊으면 안돼요!
+    furniture_id: "41011"
+    update_furniture_id: "41011"
+    furniture_postion: "6,8"
+    establish_type: "101"
+    establish_lv: "4"
+    upgrade_coin: "225"
+    upgrade_time: "3600"
+    upgrade_condition: "10203,10303"
+  }
+  {
+    establish_id: "10105"
+    establish_name: 간이 작업대
+    room_id: "1"
+    description: 현미경이 설치되어 있어, 눈이 나쁜 지휘관도 편히 이용할 수있고, 컴퓨터도 있어 의학자료를 열람할 수 있습니다. 치료에 앞서 손을 씻고 소독하는 것을 잊으면 안돼요!
+    furniture_id: "41011"
+    update_furniture_id: "41011"
+    furniture_postion: "6,8"
+    establish_type: "101"
+    establish_lv: "5"
+    upgrade_coin: "300"
+    upgrade_time: "7200"
+    upgrade_condition: "10204,10304"
+  }
+  {
+    establish_id: "10106"
+    establish_name: 다용도 작업대
+    room_id: "1"
+    description: 승급후, 작업대에 신형 관리감독 시스템이 설치되어, 좀 더 전문적인 수술을 진행할 수 있게 됩니다.
+    furniture_id: "41012"
+    update_furniture_id: "41012"
+    furniture_postion: "6,8"
+    establish_type: "101"
+    establish_lv: "6"
+    upgrade_coin: "375"
+    upgrade_time: "14400"
+    upgrade_condition: "10205,10305"
+  }
+  {
+    establish_id: "10107"
+    establish_name: 다용도 작업대
+    room_id: "1"
+    description: 승급후, 작업대에 신형 관리감독 시스템이 설치되어, 좀 더 전문적인 수술을 진행할 수 있게 됩니다.
+    furniture_id: "41012"
+    update_furniture_id: "41012"
+    furniture_postion: "6,8"
+    establish_type: "101"
+    establish_lv: "7"
+    upgrade_coin: "525"
+    upgrade_time: "28800"
+    upgrade_condition: "10206,10306"
+  }
+  {
+    establish_id: "10108"
+    establish_name: 다용도 작업대
+    room_id: "1"
+    description: 승급후, 작업대에 신형 관리감독 시스템이 설치되어, 좀 더 전문적인 수술을 진행할 수 있게 됩니다.
+    furniture_id: "41012"
+    update_furniture_id: "41012"
+    furniture_postion: "6,8"
+    establish_type: "101"
+    establish_lv: "8"
+    upgrade_coin: "675"
+    upgrade_time: "43200"
+    upgrade_condition: "10207,10307"
+  }
+  {
+    establish_id: "10109"
+    establish_name: 다용도 작업대
+    room_id: "1"
+    description: 승급후, 작업대에 신형 관리감독 시스템이 설치되어, 좀 더 전문적인 수술을 진행할 수 있게 됩니다.
+    furniture_id: "41012"
+    update_furniture_id: "41012"
+    furniture_postion: "6,8"
+    establish_type: "101"
+    establish_lv: "9"
+    upgrade_coin: "900"
+    upgrade_time: "64800"
+    upgrade_condition: "10208,10308"
+  }
+  {
+    establish_id: "10110"
+    establish_name: 최신형 특수 작업대
+    room_id: "1"
+    description: 그리폰의 최신 기술이 접목된 작업대로, 대형 무영등과 자동화 수술 도구가 설치되어있어, 동물치료는 물론이고 다친 지휘관도 거뜬히 치료할 수 있습니다.
+    furniture_id: "41013"
+    update_furniture_id: "41013"
+    furniture_postion: "6,8"
+    establish_type: "101"
+    establish_lv: "10"
+    upgrade_coin: "1200"
+    upgrade_time: "86400"
+    upgrade_condition: "10209,10309"
+  }
+  {
+    establish_id: "10200"
+    establish_name: 방치된 고양이 집
+    room_id: "1"
+    description: 누군가 두고간 낡은 고양이 집으로, 고양이가 편히 쉬기 위해선 우선 깨끗하게 청소해주세요.
+    furniture_id: "41020"
+    update_furniture_id: "41020"
+    furniture_postion: "22,9"
+    establish_type: "102"
+    parameter_1: "0,1000,600,600"
+  }
+  {
+    establish_id: "10201"
+    establish_name: 소박한 고양이 집
+    room_id: "1"
+    description: 정성껏 준비한 고양이 집인데, 고양이들이 탄약상자에 들어가 쉬는 걸 보고 지휘관님이 슬퍼하시네요 "어서 저 상자 치워버려!"
+    furniture_id: "41021"
+    update_furniture_id: "41021"
+    furniture_postion: "22,9"
+    establish_type: "102"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    upgrade_condition: "10101"
+    parameter_1: "0,600,600,600|40101,400,600,600"
+    parameter_2: "0,2101"
+  }
+  {
+    establish_id: "10202"
+    establish_name: 소박한 고양이 집
+    room_id: "1"
+    description: 정성껏 준비한 고양이 집인데, 고양이들이 탄약상자에 들어가 쉬는 걸 보고 지휘관님이 슬퍼하시네요 "어서 저 상자 치워버려!"
+    furniture_id: "41021"
+    update_furniture_id: "41021"
+    furniture_postion: "22,9"
+    establish_type: "102"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    upgrade_condition: "10102"
+    parameter_1: "0,550,600,600|40101,360,600,600|40102,90,600,600"
+    parameter_2: "0,2101,2102"
+  }
+  {
+    establish_id: "10203"
+    establish_name: 소박한 고양이 집
+    room_id: "1"
+    description: 정성껏 준비한 고양이 집인데, 고양이들이 탄약상자에 들어가 쉬는 걸 보고 지휘관님이 슬퍼하시네요 "어서 저 상자 치워버려!"
+    furniture_id: "41021"
+    update_furniture_id: "41021"
+    furniture_postion: "22,9"
+    establish_type: "102"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    upgrade_condition: "10103"
+    parameter_1: "0,500,600,600|40101,300,600,600|40102,200,600,600"
+    parameter_2: "0,2101,2102"
+  }
+  {
+    establish_id: "10204"
+    establish_name: 소박한 고양이 집
+    room_id: "1"
+    description: 정성껏 준비한 고양이 집인데, 고양이들이 탄약상자에 들어가 쉬는 걸 보고 지휘관님이 슬퍼하시네요 "어서 저 상자 치워버려!"
+    furniture_id: "41021"
+    update_furniture_id: "41021"
+    furniture_postion: "22,9"
+    establish_type: "102"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    upgrade_condition: "10104"
+    parameter_1: "0,450,600,600|40101,300,600,600|40102,200,600,600|40103,600,600,600"
+    parameter_2: "0,2101,2102,2103"
+  }
+  {
+    establish_id: "10205"
+    establish_name: 소박한 고양이 집
+    room_id: "1"
+    description: 정성껏 준비한 고양이 집인데, 고양이들이 탄약상자에 들어가 쉬는 걸 보고 지휘관님이 슬퍼하시네요 "어서 저 상자 치워버려!"
+    furniture_id: "41021"
+    update_furniture_id: "41021"
+    furniture_postion: "22,9"
+    establish_type: "102"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    upgrade_condition: "10105"
+    parameter_1: "0,400,600,600|40101,285,600,600|40102,190,600,600|40103,125,600,600"
+    parameter_2: "0,2101,2102,2103"
+  }
+  {
+    establish_id: "10206"
+    establish_name: 분리형 캣타워
+    room_id: "1"
+    description: 지휘관님이 꾹 참고, 오랫동안 모은 전지로 제작한 캣타워로, 유리로 칸막이를 만들었지만 야옹이는 유유하게 빠져나가 돌아오지 않았어요.
+    furniture_id: "41022"
+    update_furniture_id: "41022"
+    furniture_postion: "22,9"
+    establish_type: "102"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    upgrade_condition: "10106"
+    parameter_1: "0,400,600,600|40101,210,600,600|40102,210,600,600|40103,150,600,600|40104,30,600,600"
+    parameter_2: "0,2101,2102,2103,2104"
+  }
+  {
+    establish_id: "10207"
+    establish_name: 분리형 캣타워
+    room_id: "1"
+    description: 지휘관님이 꾹 참고, 오랫동안 모은 전지로 제작한 캣타워로, 유리로 칸막이를 만들었지만 야옹이는 유유하게 빠져나가 돌아오지 않았어요.
+    furniture_id: "41022"
+    update_furniture_id: "41022"
+    furniture_postion: "22,9"
+    establish_type: "102"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    upgrade_condition: "10107"
+    parameter_1: "0,350,600,600|40101,210,600,600|40102,210,600,600|40103,150,600,600|40104,80,600,600"
+    parameter_2: "0,2101,2102,2103,2104"
+  }
+  {
+    establish_id: "10208"
+    establish_name: 분리형 캣타워
+    room_id: "1"
+    description: 지휘관님이 꾹 참고, 오랫동안 모은 전지로 제작한 캣타워로, 유리로 칸막이를 만들었지만 야옹이는 유유하게 빠져나가 돌아오지 않았어요.
+    furniture_id: "41022"
+    update_furniture_id: "41022"
+    furniture_postion: "22,9"
+    establish_type: "102"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    upgrade_condition: "10108"
+    parameter_1: "0,350,600,600|40101,200,600,600|40102,210,600,600|40103,150,600,600|40104,80,600,600|40105,10,600,600"
+    parameter_2: "0,2101,2102,2103,2104,2105"
+  }
+  {
+    establish_id: "10209"
+    establish_name: 분리형 캣타워
+    room_id: "1"
+    description: 지휘관님이 꾹 참고, 오랫동안 모은 전지로 제작한 캣타워로, 유리로 칸막이를 만들었지만 야옹이는 유유하게 빠져나가 돌아오지 않았어요.
+    furniture_id: "41022"
+    update_furniture_id: "41022"
+    furniture_postion: "22,9"
+    establish_type: "102"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    upgrade_condition: "10109"
+    parameter_1: "0,300,600,600|40101,200,600,600|40102,210,600,600|40103,175,600,600|40104,90,600,600|40105,25,600,600"
+    parameter_2: "0,2101,2102,2103,2104,2105"
+  }
+  {
+    establish_id: "10210"
+    establish_name: 대형 캐슬 캣타워
+    room_id: "1"
+    description: 대형 캐슬 캣타워도 빈 성이 된 후, 지휘관님은 이미 체념한 듯 고양이를 잡아 안에다가 집어 넣고는 순식간에 사진을 찍고 사진을 뿌렸어요. "아무도 모를거야...후후후"
+    furniture_id: "41023"
+    update_furniture_id: "41023"
+    furniture_postion: "22,9"
+    establish_type: "102"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    upgrade_condition: "10110"
+    parameter_1: "0,150,600,600|40101,150,600,600|40102,200,600,600|40103,200,600,600|40104,100,600,600|40105,600,600,600|2015,100,600,600|2028,100,600,600|2031,100,600,600"
+    parameter_2: "0,2101,2102,2103,2104,2105,3022,3027,3031"
+  }
+  {
+    establish_id: "10300"
+    establish_name: 방치된 개 사육장
+    room_id: "1"
+    description: 누군가 두고간 낡은 개 사육장으로, 강아지가 편히 쉬기 위해선 우선 깨끗하게 청소해주세요.
+    furniture_id: "41030"
+    update_furniture_id: "41030"
+    furniture_postion: "13,2"
+    establish_type: "103"
+    parameter_1: "0,1000,600,600"
+  }
+  {
+    establish_id: "10301"
+    establish_name: 간소한 개 집
+    room_id: "1"
+    description: 온도 유지 시스템이 달려있는 개 집으로, 강아지가 가지고 놀 수 있는 뼈다귀가 있습니다. 지휘관님 매일 산책시키는 거 잊으면 안 돼요!
+    furniture_id: "41031"
+    update_furniture_id: "41031"
+    furniture_postion: "13,2"
+    establish_type: "103"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    upgrade_condition: "10101"
+    parameter_1: "0,600,600,600|40201,400,600,600"
+    parameter_2: "0,2201"
+  }
+  {
+    establish_id: "10302"
+    establish_name: 간소한 개 집
+    room_id: "1"
+    description: 온도 유지 시스템이 달려있는 개 집으로, 강아지가 가지고 놀 수 있는 뼈다귀가 있습니다. 지휘관님 매일 산책시키는 거 잊으면 안 돼요!
+    furniture_id: "41031"
+    update_furniture_id: "41031"
+    furniture_postion: "13,2"
+    establish_type: "103"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    upgrade_condition: "10102"
+    parameter_1: "0,550,600,600|40201,360,600,600|40202,90,600,600"
+    parameter_2: "0,2201,2202"
+  }
+  {
+    establish_id: "10303"
+    establish_name: 간소한 개 집
+    room_id: "1"
+    description: 온도 유지 시스템이 달려있는 개 집으로, 강아지가 가지고 놀 수 있는 뼈다귀가 있습니다. 지휘관님 매일 산책시키는 거 잊으면 안 돼요!
+    furniture_id: "41031"
+    update_furniture_id: "41031"
+    furniture_postion: "13,2"
+    establish_type: "103"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    upgrade_condition: "10103"
+    parameter_1: "0,500,600,600|40201,300,600,600|40202,200,600,600"
+    parameter_2: "0,2201,2202"
+  }
+  {
+    establish_id: "10304"
+    establish_name: 간소한 개 집
+    room_id: "1"
+    description: 온도 유지 시스템이 달려있는 개 집으로, 강아지가 가지고 놀 수 있는 뼈다귀가 있습니다. 지휘관님 매일 산책시키는 거 잊으면 안 돼요!
+    furniture_id: "41031"
+    update_furniture_id: "41031"
+    furniture_postion: "13,2"
+    establish_type: "103"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    upgrade_condition: "10104"
+    parameter_1: "0,450,600,600|40201,300,600,600|40202,200,600,600|40203,600,600,600"
+    parameter_2: "0,2201,2202,2203"
+  }
+  {
+    establish_id: "10305"
+    establish_name: 간소한 개 집
+    room_id: "1"
+    description: 온도 유지 시스템이 달려있는 개 집으로, 강아지가 가지고 놀 수 있는 뼈다귀가 있습니다. 지휘관님 매일 산책시키는 거 잊으면 안 돼요!
+    furniture_id: "41031"
+    update_furniture_id: "41031"
+    furniture_postion: "13,2"
+    establish_type: "103"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    upgrade_condition: "10105"
+    parameter_1: "0,400,600,600|40201,285,600,600|40202,190,600,600|40203,125,600,600"
+    parameter_2: "0,2201,2202,2203"
+  }
+  {
+    establish_id: "10306"
+    establish_name: 자동화 개 집
+    room_id: "1"
+    description: 승급 후엔 매일 정해진 시간에 개 집 문이 열리며 강아지가 놀러 나옵니다. 다만, 날뛰는 강아지를 다시 집으로 들이기 위해선, 지휘관님이 나서야 하지만요.
+    furniture_id: "41032"
+    update_furniture_id: "41032"
+    furniture_postion: "11,2"
+    establish_type: "103"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    upgrade_condition: "10106"
+    parameter_1: "0,400,600,600|40201,210,600,600|40202,210,600,600|40203,150,600,600|40204,30,600,600"
+    parameter_2: "0,2201,2202,2203,2204"
+  }
+  {
+    establish_id: "10307"
+    establish_name: 자동화 개 집
+    room_id: "1"
+    description: 승급 후엔 매일 정해진 시간에 개 집 문이 열리며 강아지가 놀러 나옵니다. 다만, 날뛰는 강아지를 다시 집으로 들이기 위해선, 지휘관님이 나서야 하지만요.
+    furniture_id: "41032"
+    update_furniture_id: "41032"
+    furniture_postion: "11,2"
+    establish_type: "103"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    upgrade_condition: "10107"
+    parameter_1: "0,350,600,600|40201,210,600,600|40202,210,600,600|40203,150,600,600|40204,80,600,600"
+    parameter_2: "0,2201,2202,2203,2204"
+  }
+  {
+    establish_id: "10308"
+    establish_name: 자동화 개 집
+    room_id: "1"
+    description: 승급 후엔 매일 정해진 시간에 개 집 문이 열리며 강아지가 놀러 나옵니다. 다만, 날뛰는 강아지를 다시 집으로 들이기 위해선, 지휘관님이 나서야 하지만요.
+    furniture_id: "41032"
+    update_furniture_id: "41032"
+    furniture_postion: "11,2"
+    establish_type: "103"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    upgrade_condition: "10108"
+    parameter_1: "0,350,600,600|40201,200,600,600|40202,210,600,600|40203,150,600,600|40204,80,600,600|40205,10,600,600"
+    parameter_2: "0,2201,2202,2203,2204,2205"
+  }
+  {
+    establish_id: "10309"
+    establish_name: 자동화 개 집
+    room_id: "1"
+    description: 승급 후엔 매일 정해진 시간에 개 집 문이 열리며 강아지가 놀러 나옵니다. 다만, 날뛰는 강아지를 다시 집으로 들이기 위해선, 지휘관님이 나서야 하지만요.
+    furniture_id: "41032"
+    update_furniture_id: "41032"
+    furniture_postion: "11,2"
+    establish_type: "103"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    upgrade_condition: "10109"
+    parameter_1: "0,300,600,600|40201,200,600,600|40202,210,600,600|40203,175,600,600|40204,90,600,600|40205,25,600,600|40206,25,600,600"
+    parameter_2: "0,2201,2202,2203,2204,2205,3049"
+  }
+  {
+    establish_id: "10310"
+    establish_name: 애견 종합관리실
+    room_id: "1"
+    description: 최고급 관리 시스템이 내장된 개 집으로, 충치에서 부터 초콜릿을 먹었는지 까지 알 수 있습니다. 강아지들의 사생활이 낱낱이 드러나죠.
+    furniture_id: "41033"
+    update_furniture_id: "41033"
+    furniture_postion: "8,2"
+    establish_type: "103"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    upgrade_condition: "10110"
+    parameter_1: "0,250,600,600|40201,150,600,600|40202,200,600,600|40203,200,600,600|40204,100,600,600|40205,600,600,600|40206,100,600,600|2003,100,600,600|2018,100,600,600|2042,100,600,600"
+    parameter_2: "0,2201,2202,2203,2204,2205,3049,2206,3024,3053"
+  }
+  {
+    establish_id: "10400"
+    establish_name: 방치된 새장
+    room_id: "1"
+    description: 누가 두고 간 건지 모를 새장, 녹을 제거하면 새를 길러볼 수 있을 것 같다.
+    furniture_id: "41040"
+    update_furniture_id: "41040"
+    furniture_postion: "28,3"
+    establish_type: "104"
+    parameter_1: "0,1000,600,600"
+  }
+  {
+    establish_id: "10401"
+    establish_name: 간소한 새장
+    room_id: "1"
+    description: 새장을 세우고 새를 기르기 시작하면서, 지휘관은 자주 비둘기에게 혼잣말을 하기 시작했다. 인형들 사이에서 지휘관이 마치 은퇴한 노간부 같다는 소문이 돌기 시작했다.
+    furniture_id: "41041"
+    update_furniture_id: "41041"
+    furniture_postion: "28,3"
+    establish_type: "104"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    upgrade_condition: "10101"
+    parameter_1: "0,600,600,600|40401,400,600,600"
+    parameter_2: "0,3033"
+  }
+  {
+    establish_id: "10402"
+    establish_name: 간소한 새장
+    room_id: "1"
+    description: 새장을 세우고 새를 기르기 시작하면서, 지휘관은 자주 비둘기에게 혼잣말을 하기 시작했다. 인형들 사이에서 지휘관이 마치 은퇴한 노간부 같다는 소문이 돌기 시작했다.
+    furniture_id: "41041"
+    update_furniture_id: "41041"
+    furniture_postion: "28,3"
+    establish_type: "104"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    upgrade_condition: "10102"
+    parameter_1: "0,550,600,600|40401,360,600,600|40402,90,600,600"
+    parameter_2: "0,3033,3034"
+  }
+  {
+    establish_id: "10403"
+    establish_name: 간소한 새장
+    room_id: "1"
+    description: 새장을 세우고 새를 기르기 시작하면서, 지휘관은 자주 비둘기에게 혼잣말을 하기 시작했다. 인형들 사이에서 지휘관이 마치 은퇴한 노간부 같다는 소문이 돌기 시작했다.
+    furniture_id: "41041"
+    update_furniture_id: "41041"
+    furniture_postion: "28,3"
+    establish_type: "104"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    upgrade_condition: "10103"
+    parameter_1: "0,500,600,600|40401,300,600,600|40402,200,600,600"
+    parameter_2: "0,3033,3034"
+  }
+  {
+    establish_id: "10404"
+    establish_name: 간소한 새장
+    room_id: "1"
+    description: 새장을 세우고 새를 기르기 시작하면서, 지휘관은 자주 비둘기에게 혼잣말을 하기 시작했다. 인형들 사이에서 지휘관이 마치 은퇴한 노간부 같다는 소문이 돌기 시작했다.
+    furniture_id: "41041"
+    update_furniture_id: "41041"
+    furniture_postion: "28,3"
+    establish_type: "104"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    upgrade_condition: "10104"
+    parameter_1: "0,450,600,600|40401,300,600,600|40402,200,600,600|40403,50,600,600"
+    parameter_2: "0,3033,3034,3035"
+  }
+  {
+    establish_id: "10405"
+    establish_name: 간소한 새장
+    room_id: "1"
+    description: 새장을 세우고 새를 기르기 시작하면서, 지휘관은 자주 비둘기에게 혼잣말을 하기 시작했다. 인형들 사이에서 지휘관이 마치 은퇴한 노간부 같다는 소문이 돌기 시작했다.
+    furniture_id: "41041"
+    update_furniture_id: "41041"
+    furniture_postion: "28,3"
+    establish_type: "104"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    upgrade_condition: "10105"
+    parameter_1: "0,400,600,600|40401,285,600,600|40402,190,600,600|40403,125,600,600"
+    parameter_2: "0,3033,3034,3035"
+  }
+  {
+    establish_id: "10406"
+    establish_name: 복합식 새장
+    room_id: "1"
+    description: 개량한 새장은 동시에 새를 여러 마리 기를 수 있게 되어, 새로운 가능성이 열렸다. 새들이 짝짓기 하는 모습을 상상하며 헤벌쭉하는 지휘관의 모습도 그불게에 업로드됐다.
+    furniture_id: "41042"
+    update_furniture_id: "41042"
+    furniture_postion: "28,3"
+    establish_type: "104"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    upgrade_condition: "10106"
+    parameter_1: "0,400,600,600|40401,210,600,600|40402,210,600,600|40403,150,600,600|40404,30,600,600"
+    parameter_2: "0,3033,3034,3035,3036"
+  }
+  {
+    establish_id: "10407"
+    establish_name: 복합식 새장
+    room_id: "1"
+    description: 개량한 새장은 동시에 새를 여러 마리 기를 수 있게 되어, 새로운 가능성이 열렸다. 새들이 짝짓기 하는 모습을 상상하며 헤벌쭉하는 지휘관의 모습도 그불게에 업로드됐다.
+    furniture_id: "41042"
+    update_furniture_id: "41042"
+    furniture_postion: "28,3"
+    establish_type: "104"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    upgrade_condition: "10107"
+    parameter_1: "0,350,600,600|40401,210,600,600|40402,210,600,600|40403,150,600,600|40404,80,600,600"
+    parameter_2: "0,3033,3034,3035,3036"
+  }
+  {
+    establish_id: "10408"
+    establish_name: 복합식 새장
+    room_id: "1"
+    description: 개량한 새장은 동시에 새를 여러 마리 기를 수 있게 되어, 새로운 가능성이 열렸다. 새들이 짝짓기 하는 모습을 상상하며 헤벌쭉하는 지휘관의 모습도 그불게에 업로드됐다.
+    furniture_id: "41042"
+    update_furniture_id: "41042"
+    furniture_postion: "28,3"
+    establish_type: "104"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    upgrade_condition: "10108"
+    parameter_1: "0,350,600,600|40401,200,600,600|40402,210,600,600|40403,150,600,600|40404,80,600,600|40405,10,600,600"
+    parameter_2: "0,3033,3034,3035,3036,3037"
+  }
+  {
+    establish_id: "10409"
+    establish_name: 복합식 새장
+    room_id: "1"
+    description: 개량한 새장은 동시에 새를 여러 마리 기를 수 있게 되어, 새로운 가능성이 열렸다. 새들이 짝짓기 하는 모습을 상상하며 헤벌쭉하는 지휘관의 모습도 그불게에 업로드됐다.
+    furniture_id: "41042"
+    update_furniture_id: "41042"
+    furniture_postion: "28,3"
+    establish_type: "104"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    upgrade_condition: "10109"
+    parameter_1: "0,300,600,600|40401,200,600,600|40402,210,600,600|40403,175,600,600|40404,90,600,600|40405,25,600,600"
+    parameter_2: "0,3033,3034,3035,3036,3037"
+  }
+  {
+    establish_id: "10410"
+    establish_name: 첨단 복합식 새장
+    room_id: "1"
+    description: 최첨단 자동화 복합식 새장, 모니터에서 새의 데이터 말고도, 대자연의 배경을 띄울 수 있어, 새들의 자유를 향한 갈망을 더욱 부추긴다.
+    furniture_id: "41043"
+    update_furniture_id: "41043"
+    furniture_postion: "28,3"
+    establish_type: "104"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    upgrade_condition: "10110"
+    parameter_1: "0,300,600,600|40401,150,600,600|40402,200,600,600|40403,200,600,600|40404,100,600,600|40405,50,600,600|2034,100,600,600"
+    parameter_2: "0,3033,3034,3035,3036,3037,3039"
+  }
+  {
+    establish_id: "10500"
+    establish_name: 방치된 다목적항온조
+    room_id: "1"
+    description: 누가 두고 간 건지 모를 유리상자, 깨끗이 씼으면 여러 가지 동물을 길러볼 수 있을 것 같다.
+    furniture_id: "41050"
+    update_furniture_id: "41050"
+    furniture_postion: "19,2"
+    establish_type: "105"
+    parameter_1: "0,1000,600,600"
+  }
+  {
+    establish_id: "10501"
+    establish_name: 간소한 다목적항온조
+    room_id: "1"
+    description: 가열 보온 장치를 설치하고, 바닥에 푹신푹신한 건초를 깔았습니다. 작은 동물이 구멍을 파면서 놀기 좋습니다.
+    furniture_id: "41051"
+    update_furniture_id: "41051"
+    furniture_postion: "19,2"
+    establish_type: "105"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    upgrade_condition: "10101"
+    parameter_1: "0,600,600,600|40501,400,600,600"
+    parameter_2: "0,3044"
+  }
+  {
+    establish_id: "10502"
+    establish_name: 간소한 다목적항온조
+    room_id: "1"
+    description: 가열 보온 장치를 설치하고, 바닥에 푹신푹신한 건초를 깔았습니다. 작은 동물이 구멍을 파면서 놀기 좋습니다.
+    furniture_id: "41051"
+    update_furniture_id: "41051"
+    furniture_postion: "19,2"
+    establish_type: "105"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    upgrade_condition: "10102"
+    parameter_1: "0,550,600,600|40501,360,600,600|40502,90,600,600"
+    parameter_2: "0,3044,3045"
+  }
+  {
+    establish_id: "10503"
+    establish_name: 간소한 다목적항온조
+    room_id: "1"
+    description: 가열 보온 장치를 설치하고, 바닥에 푹신푹신한 건초를 깔았습니다. 작은 동물이 구멍을 파면서 놀기 좋습니다.
+    furniture_id: "41051"
+    update_furniture_id: "41051"
+    furniture_postion: "19,2"
+    establish_type: "105"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    upgrade_condition: "10103"
+    parameter_1: "0,500,600,600|40501,300,600,600|40502,200,600,600"
+    parameter_2: "0,3044,3045"
+  }
+  {
+    establish_id: "10504"
+    establish_name: 간소한 다목적항온조
+    room_id: "1"
+    description: 가열 보온 장치를 설치하고, 바닥에 푹신푹신한 건초를 깔았습니다. 작은 동물이 구멍을 파면서 놀기 좋습니다.
+    furniture_id: "41051"
+    update_furniture_id: "41051"
+    furniture_postion: "19,2"
+    establish_type: "105"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    upgrade_condition: "10104"
+    parameter_1: "0,450,600,600|40501,300,600,600|40502,200,600,600|40503,50,600,600"
+    parameter_2: "0,3044,3045,3046"
+  }
+  {
+    establish_id: "10505"
+    establish_name: 간소한 다목적항온조
+    room_id: "1"
+    description: 가열 보온 장치를 설치하고, 바닥에 푹신푹신한 건초를 깔았습니다. 작은 동물이 구멍을 파면서 놀기 좋습니다.
+    furniture_id: "41051"
+    update_furniture_id: "41051"
+    furniture_postion: "19,2"
+    establish_type: "105"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    upgrade_condition: "10105"
+    parameter_1: "0,400,600,600|40501,285,600,600|40502,190,600,600|40503,125,600,600"
+    parameter_2: "0,3044,3045,3046"
+  }
+  {
+    establish_id: "10506"
+    establish_name: 다목적 항온 놀이터
+    room_id: "1"
+    description: 기본적인 물질적 수요가 충족되자, 동물들은 정신적 수요가 늘어났습니다. 지휘관은 즐거운 마음으로 여러 가지 오락 시설을 설치했습니다.
+    furniture_id: "41052"
+    update_furniture_id: "41052"
+    furniture_postion: "19,2"
+    establish_type: "105"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    upgrade_condition: "10106"
+    parameter_1: "0,400,600,600|40501,210,600,600|40502,210,600,600|40503,150,600,600|40504,30,600,600"
+    parameter_2: "0,3044,3045,3046,3047"
+  }
+  {
+    establish_id: "10507"
+    establish_name: 다목적 항온 놀이터
+    room_id: "1"
+    description: 기본적인 물질적 수요가 충족되자, 동물들은 정신적 수요가 늘어났습니다. 지휘관은 즐거운 마음으로 여러 가지 오락 시설을 설치했습니다.
+    furniture_id: "41052"
+    update_furniture_id: "41052"
+    furniture_postion: "19,2"
+    establish_type: "105"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    upgrade_condition: "10107"
+    parameter_1: "0,350,600,600|40501,210,600,600|40502,210,600,600|40503,150,600,600|40504,80,600,600"
+    parameter_2: "0,3044,3045,3046,3047"
+  }
+  {
+    establish_id: "10508"
+    establish_name: 다목적 항온 놀이터
+    room_id: "1"
+    description: 기본적인 물질적 수요가 충족되자, 동물들은 정신적 수요가 늘어났습니다. 지휘관은 즐거운 마음으로 여러 가지 오락 시설을 설치했습니다.
+    furniture_id: "41052"
+    update_furniture_id: "41052"
+    furniture_postion: "19,2"
+    establish_type: "105"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    upgrade_condition: "10108"
+    parameter_1: "0,350,600,600|40501,200,600,600|40502,210,600,600|40503,150,600,600|40504,80,600,600|40505,10,600,600"
+    parameter_2: "0,3044,3045,3046,3047,3048"
+  }
+  {
+    establish_id: "10509"
+    establish_name: 다목적 항온 놀이터
+    room_id: "1"
+    description: 기본적인 물질적 수요가 충족되자, 동물들은 정신적 수요가 늘어났습니다. 지휘관은 즐거운 마음으로 여러 가지 오락 시설을 설치했습니다.
+    furniture_id: "41052"
+    update_furniture_id: "41052"
+    furniture_postion: "19,2"
+    establish_type: "105"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    upgrade_condition: "10109"
+    parameter_1: "0,300,600,600|40501,200,600,600|40502,210,600,600|40503,175,600,600|40504,90,600,600|40505,25,600,600"
+    parameter_2: "0,3044,3045,3046,3047,3048"
+  }
+  {
+    establish_id: "10510"
+    establish_name: 전자동 2층 항온 낙원
+    room_id: "1"
+    description: 클수록 좋다는 것을 깨달은 지휘관은 거금을 들여 2층 구조인 고급 항온조를 구매했습니다. 작은 동물이 파이프 속을 기어 다니는 것을 구경하는 것보다 만족스러운 일은 없죠.
+    furniture_id: "41053"
+    update_furniture_id: "41053"
+    furniture_postion: "19,2"
+    establish_type: "105"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    upgrade_condition: "10110"
+    parameter_1: "0,300,600,600|40501,150,600,600|40502,200,600,600|40503,200,600,600|40504,100,600,600|40505,50,600,600"
+    parameter_2: "0,3044,3045,3046,3047,3048"
+  }
+  {
+    establish_id: "20001"
+    establish_name: 자료실 벽지
+    room_id: "2"
+    description: 자료실 기본 벽지
+    furniture_id: "40003"
+    update_furniture_id: "40003"
+    furniture_postion: "2,2"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "20002"
+    establish_name: 자료실 바닥재
+    room_id: "2"
+    description: 자료실 기본 바닥재
+    furniture_id: "40004"
+    update_furniture_id: "40004"
+    furniture_postion: "2,2"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "20003"
+    establish_name: 자료실 전선1
+    room_id: "2"
+    furniture_id: "40005"
+    update_furniture_id: "40005"
+    furniture_postion: "17,4"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "20004"
+    establish_name: 자료실 전선2
+    room_id: "2"
+    furniture_id: "40006"
+    update_furniture_id: "40006"
+    furniture_postion: "27,11"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "20005"
+    establish_name: 자료실 전등1
+    room_id: "2"
+    furniture_id: "40007"
+    update_furniture_id: "40007"
+    furniture_postion: "8,11"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "20006"
+    establish_name: 자료실 전등2
+    room_id: "2"
+    furniture_id: "40007"
+    update_furniture_id: "40007"
+    furniture_postion: "17,11"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "20007"
+    establish_name: 자료실 전등3
+    room_id: "2"
+    furniture_id: "40007"
+    update_furniture_id: "40007"
+    furniture_postion: "26,11"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "20008"
+    establish_name: 자료실 전등4
+    room_id: "2"
+    furniture_id: "40008"
+    update_furniture_id: "40008"
+    furniture_postion: "8,11"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "20009"
+    establish_name: 자료실 전등5
+    room_id: "2"
+    furniture_id: "40008"
+    update_furniture_id: "40008"
+    furniture_postion: "17,11"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "20010"
+    establish_name: 자료실 전등6
+    room_id: "2"
+    furniture_id: "40008"
+    update_furniture_id: "40008"
+    furniture_postion: "26,11"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "20011"
+    establish_name: 자료실 전등7
+    room_id: "2"
+    furniture_id: "40008"
+    update_furniture_id: "40008"
+    furniture_postion: "2,2"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "20100"
+    establish_name: 지저분한 책상
+    room_id: "2"
+    description: 오랫동안 방치되어 온 것으로 보이는 책상으로, 위에 엷게 먼지가 쌓여있지만, 조금 손보면 다시 자료정리 작업을 할 수 있을 것 같습니다.
+    furniture_id: "42010"
+    update_furniture_id: "42010"
+    furniture_postion: "8,8"
+    establish_type: "201"
+    parameter_1: 200001:3
+  }
+  {
+    establish_id: "20101"
+    establish_name: 뭔가 부족한 책상
+    room_id: "2"
+    description: 아직은 깃털펜이나 볼펜을 쓸 수 없어, 작전보고서를 쓸 때, 수준급의 서예솜씨가 필요합니다. 카리나 씨 파이팅!
+    furniture_id: "42011"
+    update_furniture_id: "42011"
+    furniture_postion: "8,8"
+    establish_type: "201"
+    establish_lv: "1"
+    upgrade_coin: "10"
+    upgrade_time: "60"
+    parameter_1: 200001:3
+  }
+  {
+    establish_id: "20102"
+    establish_name: 뭔가 부족한 책상
+    room_id: "2"
+    description: 아직은 깃털펜이나 볼펜을 쓸 수 없어, 작전보고서를 쓸 때, 수준급의 서예솜씨가 필요합니다. 카리나 씨 파이팅!
+    furniture_id: "42011"
+    update_furniture_id: "42011"
+    furniture_postion: "8,8"
+    establish_type: "201"
+    establish_lv: "2"
+    upgrade_coin: "75"
+    upgrade_time: "300"
+    upgrade_condition: "20401,20501"
+    parameter_1: 200001:3
+  }
+  {
+    establish_id: "20103"
+    establish_name: 뭔가 부족한 책상
+    room_id: "2"
+    description: 아직은 깃털펜이나 볼펜을 쓸 수 없어, 작전보고서를 쓸 때, 수준급의 서예솜씨가 필요합니다. 카리나 씨 파이팅!
+    furniture_id: "42011"
+    update_furniture_id: "42011"
+    furniture_postion: "8,8"
+    establish_type: "201"
+    establish_lv: "3"
+    upgrade_coin: "150"
+    upgrade_time: "1800"
+    upgrade_condition: "20302,20402"
+    parameter_1: 200001:3
+  }
+  {
+    establish_id: "20104"
+    establish_name: 뭔가 부족한 책상
+    room_id: "2"
+    description: 아직은 깃털펜이나 볼펜을 쓸 수 없어, 작전보고서를 쓸 때, 수준급의 서예솜씨가 필요합니다. 카리나 씨 파이팅!
+    furniture_id: "42011"
+    update_furniture_id: "42011"
+    furniture_postion: "8,8"
+    establish_type: "201"
+    establish_lv: "4"
+    upgrade_coin: "225"
+    upgrade_time: "3600"
+    upgrade_condition: "20503,20603"
+    parameter_1: 200001:3
+  }
+  {
+    establish_id: "20105"
+    establish_name: 뭔가 부족한 책상
+    room_id: "2"
+    description: 아직은 깃털펜이나 볼펜을 쓸 수 없어, 작전보고서를 쓸 때, 수준급의 서예솜씨가 필요합니다. 카리나 씨 파이팅!
+    furniture_id: "42011"
+    update_furniture_id: "42011"
+    furniture_postion: "8,8"
+    establish_type: "201"
+    establish_lv: "5"
+    upgrade_coin: "300"
+    upgrade_time: "7200"
+    upgrade_condition: "20204,20604"
+    parameter_1: 200001:3
+  }
+  {
+    establish_id: "20106"
+    establish_name: 모던시대의 책상
+    room_id: "2"
+    description: 이상하게도 여기 모던은 여러분이 생각하는 현대식이 아니라, 1900년대 초엽의 황금기로, 시끄러운 타자기와, 맨해튼의 고층빌딩이 대표적이죠.
+    furniture_id: "42012"
+    update_furniture_id: "42012"
+    furniture_postion: "8,8"
+    establish_type: "201"
+    establish_lv: "6"
+    upgrade_coin: "375"
+    upgrade_time: "14400"
+    upgrade_condition: "20305,20505"
+    parameter_1: 200001:3
+  }
+  {
+    establish_id: "20107"
+    establish_name: 모던시대의 책상
+    room_id: "2"
+    description: 이상하게도 여기 모던은 여러분이 생각하는 현대식이 아니라, 1900년대 초엽의 황금기로, 시끄러운 타자기와, 맨해튼의 고층빌딩이 대표적이죠.
+    furniture_id: "42012"
+    update_furniture_id: "42012"
+    furniture_postion: "8,8"
+    establish_type: "201"
+    establish_lv: "7"
+    upgrade_coin: "525"
+    upgrade_time: "28800"
+    upgrade_condition: "20206,20306"
+    parameter_1: 200001:3
+  }
+  {
+    establish_id: "20108"
+    establish_name: 모던시대의 책상
+    room_id: "2"
+    description: 이상하게도 여기 모던은 여러분이 생각하는 현대식이 아니라, 1900년대 초엽의 황금기로, 시끄러운 타자기와, 맨해튼의 고층빌딩이 대표적이죠.
+    furniture_id: "42012"
+    update_furniture_id: "42012"
+    furniture_postion: "8,8"
+    establish_type: "201"
+    establish_lv: "8"
+    upgrade_coin: "675"
+    upgrade_time: "43200"
+    upgrade_condition: "20207,20507"
+    parameter_1: 200001:3
+  }
+  {
+    establish_id: "20109"
+    establish_name: 모던시대의 책상
+    room_id: "2"
+    description: 이상하게도 여기 모던은 여러분이 생각하는 현대식이 아니라, 1900년대 초엽의 황금기로, 시끄러운 타자기와, 맨해튼의 고층빌딩이 대표적이죠.
+    furniture_id: "42012"
+    update_furniture_id: "42012"
+    furniture_postion: "8,8"
+    establish_type: "201"
+    establish_lv: "9"
+    upgrade_coin: "900"
+    upgrade_time: "64800"
+    upgrade_condition: "20208,20608"
+    parameter_1: 200001:3
+  }
+  {
+    establish_id: "20110"
+    establish_name: 디지털 시대의 책상
+    room_id: "2"
+    description: 컴퓨터가 생겨서 카리나 씨의 작업효율이 엄청 늘었어요! 잠깐…그다지 늘지 않았다고? 컴퓨터의 랜 케이블을 뽑아버려!
+    furniture_id: "42013"
+    update_furniture_id: "42013"
+    furniture_postion: "8,8"
+    establish_type: "201"
+    establish_lv: "10"
+    upgrade_coin: "1200"
+    upgrade_time: "86400"
+    upgrade_condition: "20209,20409"
+    parameter_1: 200001:3
+  }
+  {
+    establish_id: "20200"
+    establish_name: 방치된 콘솔
+    room_id: "2"
+    description: 조금만 정리하면, 무인기로 작전기록을 촬영 하여 귀중한 작전 경험들을 남길 수 있을 것으로 보이는 관제콘솔입니다.
+    furniture_id: "42020"
+    update_furniture_id: "42020"
+    furniture_postion: "6,2"
+    establish_type: "202"
+    parameter_1: "3"
+  }
+  {
+    establish_id: "20201"
+    establish_name: 덜 갖춰진 관제콘솔
+    room_id: "2"
+    description: 평야전에 설치된 무인기 관제 단말장치로, 비록 화질은 또렷하지 않지만, 전장의 덤불속 보다는 훨씬 편합니다.
+    furniture_id: "42021"
+    update_furniture_id: "42021"
+    furniture_postion: "6,2"
+    establish_type: "202"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    upgrade_condition: "20101"
+    parameter_1: "4.5"
+  }
+  {
+    establish_id: "20202"
+    establish_name: 덜 갖춰진 관제콘솔
+    room_id: "2"
+    description: 평야전에 설치된 무인기 관제 단말장치로, 비록 화질은 또렷하지 않지만, 전장의 덤불속 보다는 훨씬 편합니다.
+    furniture_id: "42021"
+    update_furniture_id: "42021"
+    furniture_postion: "6,2"
+    establish_type: "202"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    upgrade_condition: "20102"
+    parameter_1: "6"
+  }
+  {
+    establish_id: "20203"
+    establish_name: 덜 갖춰진 관제콘솔
+    room_id: "2"
+    description: 평야전에 설치된 무인기 관제 단말장치로, 비록 화질은 또렷하지 않지만, 전장의 덤불속 보다는 훨씬 편합니다.
+    furniture_id: "42021"
+    update_furniture_id: "42021"
+    furniture_postion: "6,2"
+    establish_type: "202"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    upgrade_condition: "20103"
+    parameter_1: "7.5"
+  }
+  {
+    establish_id: "20204"
+    establish_name: 덜 갖춰진 관제콘솔
+    room_id: "2"
+    description: 평야전에 설치된 무인기 관제 단말장치로, 비록 화질은 또렷하지 않지만, 전장의 덤불속 보다는 훨씬 편합니다.
+    furniture_id: "42021"
+    update_furniture_id: "42021"
+    furniture_postion: "6,2"
+    establish_type: "202"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    upgrade_condition: "20104"
+    parameter_1: "9"
+  }
+  {
+    establish_id: "20205"
+    establish_name: 덜 갖춰진 관제콘솔
+    room_id: "2"
+    description: 평야전에 설치된 무인기 관제 단말장치로, 비록 화질은 또렷하지 않지만, 전장의 덤불속 보다는 훨씬 편합니다.
+    furniture_id: "42021"
+    update_furniture_id: "42021"
+    furniture_postion: "6,2"
+    establish_type: "202"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    upgrade_condition: "20105"
+    parameter_1: "10.5"
+  }
+  {
+    establish_id: "20206"
+    establish_name: 무인기 관제콘솔
+    room_id: "2"
+    description: 대형 설비가 들어온 후, 마침내 작전자료실에 그 모습을 나타냈습니다. 두개의 고화질 화면은 보다 정확하게 전장의 상황을 기록으로 남길 수 있도록 도와줍니다.
+    furniture_id: "42022"
+    update_furniture_id: "42022"
+    furniture_postion: "6,2"
+    establish_type: "202"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    upgrade_condition: "20106"
+    parameter_1: "12"
+  }
+  {
+    establish_id: "20207"
+    establish_name: 무인기 관제콘솔
+    room_id: "2"
+    description: 대형 설비가 들어온 후, 마침내 작전자료실에 그 모습을 나타냈습니다. 두개의 고화질 화면은 보다 정확하게 전장의 상황을 기록으로 남길 수 있도록 도와줍니다.
+    furniture_id: "42022"
+    update_furniture_id: "42022"
+    furniture_postion: "6,2"
+    establish_type: "202"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    upgrade_condition: "20107"
+    parameter_1: "14"
+  }
+  {
+    establish_id: "20208"
+    establish_name: 무인기 관제콘솔
+    room_id: "2"
+    description: 대형 설비가 들어온 후, 마침내 작전자료실에 그 모습을 나타냈습니다. 두개의 고화질 화면은 보다 정확하게 전장의 상황을 기록으로 남길 수 있도록 도와줍니다.
+    furniture_id: "42022"
+    update_furniture_id: "42022"
+    furniture_postion: "6,2"
+    establish_type: "202"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    upgrade_condition: "20108"
+    parameter_1: "16"
+  }
+  {
+    establish_id: "20209"
+    establish_name: 무인기 관제콘솔
+    room_id: "2"
+    description: 대형 설비가 들어온 후, 마침내 작전자료실에 그 모습을 나타냈습니다. 두개의 고화질 화면은 보다 정확하게 전장의 상황을 기록으로 남길 수 있도록 도와줍니다.
+    furniture_id: "42022"
+    update_furniture_id: "42022"
+    furniture_postion: "6,2"
+    establish_type: "202"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    upgrade_condition: "20109"
+    parameter_1: "18"
+  }
+  {
+    establish_id: "20210"
+    establish_name: 첨단 무인기 관제콘솔
+    room_id: "2"
+    description: 현재 그리폰이 가진 최고급의 관제설비입니다. 동시에 두 무인기를 이용해 전투 상황을 기록할 수 있습니다, 전장 경험 수집에선 이를 넘을 자가 없습니다.
+    furniture_id: "42023"
+    update_furniture_id: "42023"
+    furniture_postion: "6,2"
+    establish_type: "202"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    upgrade_condition: "20110"
+    parameter_1: "20"
+  }
+  {
+    establish_id: "20300"
+    establish_name: 방치된 실험대
+    room_id: "2"
+    description: 두꺼운 방수포가 깔린 작업대처럼 보이는 탁자로, 어쩌면, 분석이 어려운 전술소녀의 고급 전투기록의 추출 및 분석에 도움이 될지도 모릅니다.
+    furniture_id: "42030"
+    update_furniture_id: "42030"
+    furniture_postion: "22,2"
+    establish_type: "203"
+    parameter_1: "25"
+  }
+  {
+    establish_id: "20301"
+    establish_name: 간소한 실험대
+    room_id: "2"
+    description: 전쟁 이전 사람들은 여기에 금속가공을 하여 사용했다고 합니다. 지금은 전술소녀들의 기록을 추출하고 해체할 때 사용하죠. 그녀들을 괴롭히지말아요!
+    furniture_id: "42031"
+    update_furniture_id: "42031"
+    furniture_postion: "22,2"
+    establish_type: "203"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    upgrade_condition: "20101"
+    parameter_1: "30"
+  }
+  {
+    establish_id: "20302"
+    establish_name: 간소한 실험대
+    room_id: "2"
+    description: 전쟁 이전 사람들은 여기에 금속가공을 하여 사용했다고 합니다. 지금은 전술소녀들의 기록을 추출하고 해체할 때 사용하죠. 그녀들을 괴롭히지말아요!
+    furniture_id: "42031"
+    update_furniture_id: "42031"
+    furniture_postion: "22,2"
+    establish_type: "203"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    upgrade_condition: "20102"
+    parameter_1: "35"
+  }
+  {
+    establish_id: "20303"
+    establish_name: 간소한 실험대
+    room_id: "2"
+    description: 전쟁 이전 사람들은 여기에 금속가공을 하여 사용했다고 합니다. 지금은 전술소녀들의 기록을 추출하고 해체할 때 사용하죠. 그녀들을 괴롭히지말아요!
+    furniture_id: "42031"
+    update_furniture_id: "42031"
+    furniture_postion: "22,2"
+    establish_type: "203"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    upgrade_condition: "20103"
+    parameter_1: "40"
+  }
+  {
+    establish_id: "20304"
+    establish_name: 간소한 실험대
+    room_id: "2"
+    description: 전쟁 이전 사람들은 여기에 금속가공을 하여 사용했다고 합니다. 지금은 전술소녀들의 기록을 추출하고 해체할 때 사용하죠. 그녀들을 괴롭히지말아요!
+    furniture_id: "42031"
+    update_furniture_id: "42031"
+    furniture_postion: "22,2"
+    establish_type: "203"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    upgrade_condition: "20104"
+    parameter_1: "45"
+  }
+  {
+    establish_id: "20305"
+    establish_name: 간소한 실험대
+    room_id: "2"
+    description: 전쟁 이전 사람들은 여기에 금속가공을 하여 사용했다고 합니다. 지금은 전술소녀들의 기록을 추출하고 해체할 때 사용하죠. 그녀들을 괴롭히지말아요!
+    furniture_id: "42031"
+    update_furniture_id: "42031"
+    furniture_postion: "22,2"
+    establish_type: "203"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    upgrade_condition: "20105"
+    parameter_1: "50"
+  }
+  {
+    establish_id: "20306"
+    establish_name: 자동화 실험실
+    room_id: "2"
+    description: 기계 팔이 설치되어있어 정밀조작이 가능하고 , 기록장치의 해독능력또한 훨씬 높아졌습니다. 전술소녀들도 다들 맘에 들어하는 듯 싶어요.
+    furniture_id: "42032"
+    update_furniture_id: "42032"
+    furniture_postion: "22,2"
+    establish_type: "203"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    upgrade_condition: "20106"
+    parameter_1: "60"
+  }
+  {
+    establish_id: "20307"
+    establish_name: 자동화 실험실
+    room_id: "2"
+    description: 기계 팔이 설치되어있어 정밀조작이 가능하고 , 기록장치의 해독능력또한 훨씬 높아졌습니다. 전술소녀들도 다들 맘에 들어하는 듯 싶어요.
+    furniture_id: "42032"
+    update_furniture_id: "42032"
+    furniture_postion: "22,2"
+    establish_type: "203"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    upgrade_condition: "20107"
+    parameter_1: "70"
+  }
+  {
+    establish_id: "20308"
+    establish_name: 자동화 실험실
+    room_id: "2"
+    description: 기계 팔이 설치되어있어 정밀조작이 가능하고 , 기록장치의 해독능력또한 훨씬 높아졌습니다. 전술소녀들도 다들 맘에 들어하는 듯 싶어요.
+    furniture_id: "42032"
+    update_furniture_id: "42032"
+    furniture_postion: "22,2"
+    establish_type: "203"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    upgrade_condition: "20108"
+    parameter_1: "80"
+  }
+  {
+    establish_id: "20309"
+    establish_name: 자동화 실험실
+    room_id: "2"
+    description: 기계 팔이 설치되어있어 정밀조작이 가능하고 , 기록장치의 해독능력또한 훨씬 높아졌습니다. 전술소녀들도 다들 맘에 들어하는 듯 싶어요.
+    furniture_id: "42032"
+    update_furniture_id: "42032"
+    furniture_postion: "22,2"
+    establish_type: "203"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    upgrade_condition: "20109"
+    parameter_1: "90"
+  }
+  {
+    establish_id: "20310"
+    establish_name: 특수 작업용 실험실
+    room_id: "2"
+    description: 효율이 극대화된 자동화 작업대로, 전투경험의 변환효율이 높아졌고, 장비의 과열을 방지해줍니다. 역시 고급 설비군요!
+    furniture_id: "42033"
+    update_furniture_id: "42033"
+    furniture_postion: "22,2"
+    establish_type: "203"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    upgrade_condition: "20110"
+    parameter_1: "100"
+  }
+  {
+    establish_id: "20400"
+    establish_name: 지저분한 탁자
+    room_id: "2"
+    description: 방수포 아래로 희미하게 보이는 탁자의 모습을 보니, 여기에 전투 기록을 모아놓고 정리하면 좋을 것 같습니다.
+    furniture_id: "42050"
+    update_furniture_id: "42050"
+    furniture_postion: "13,9"
+    establish_type: "204"
+    parameter_1: "60000"
+  }
+  {
+    establish_id: "20401"
+    establish_name: 어질러진 탁자
+    room_id: "2"
+    description: 서류작업은 어느 시대의 지휘관이든 피하고 싶어하던 힘든 일로, 카리나가 얼마나 대단한지 느낄 수 있는 기회였습니다.
+    furniture_id: "42051"
+    update_furniture_id: "42051"
+    furniture_postion: "13,9"
+    establish_type: "204"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    upgrade_condition: "20101"
+    parameter_1: "120000"
+  }
+  {
+    establish_id: "20402"
+    establish_name: 어질러진 탁자
+    room_id: "2"
+    description: 서류작업은 어느 시대의 지휘관이든 피하고 싶어하던 힘든 일로, 카리나가 얼마나 대단한지 느낄 수 있는 기회였습니다.
+    furniture_id: "42051"
+    update_furniture_id: "42051"
+    furniture_postion: "13,9"
+    establish_type: "204"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    upgrade_condition: "20102"
+    parameter_1: "180000"
+  }
+  {
+    establish_id: "20403"
+    establish_name: 어질러진 탁자
+    room_id: "2"
+    description: 서류작업은 어느 시대의 지휘관이든 피하고 싶어하던 힘든 일로, 카리나가 얼마나 대단한지 느낄 수 있는 기회였습니다.
+    furniture_id: "42051"
+    update_furniture_id: "42051"
+    furniture_postion: "13,9"
+    establish_type: "204"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    upgrade_condition: "20103"
+    parameter_1: "240000"
+  }
+  {
+    establish_id: "20404"
+    establish_name: 어질러진 탁자
+    room_id: "2"
+    description: 서류작업은 어느 시대의 지휘관이든 피하고 싶어하던 힘든 일로, 카리나가 얼마나 대단한지 느낄 수 있는 기회였습니다.
+    furniture_id: "42051"
+    update_furniture_id: "42051"
+    furniture_postion: "13,9"
+    establish_type: "204"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    upgrade_condition: "20104"
+    parameter_1: "300000"
+  }
+  {
+    establish_id: "20405"
+    establish_name: 어질러진 탁자
+    room_id: "2"
+    description: 서류작업은 어느 시대의 지휘관이든 피하고 싶어하던 힘든 일로, 카리나가 얼마나 대단한지 느낄 수 있는 기회였습니다.
+    furniture_id: "42051"
+    update_furniture_id: "42051"
+    furniture_postion: "13,9"
+    establish_type: "204"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    upgrade_condition: "20105"
+    parameter_1: "360000"
+  }
+  {
+    establish_id: "20406"
+    establish_name: 커다란 탁자
+    room_id: "2"
+    description: 더 넓어진 작업면적과 규격화된 정리 방법으로 더 많은 저장공간을 확보했습니다. 전보다 좀 더 예술적인 기록보관 기술이네요.
+    furniture_id: "42052"
+    update_furniture_id: "42052"
+    furniture_postion: "12,10"
+    establish_type: "204"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    upgrade_condition: "20106"
+    parameter_1: "480000"
+  }
+  {
+    establish_id: "20407"
+    establish_name: 커다란 탁자
+    room_id: "2"
+    description: 더 넓어진 작업면적과 규격화된 정리 방법으로 더 많은 저장공간을 확보했습니다. 전보다 좀 더 예술적인 기록보관 기술이네요.
+    furniture_id: "42052"
+    update_furniture_id: "42052"
+    furniture_postion: "12,10"
+    establish_type: "204"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    upgrade_condition: "20107"
+    parameter_1: "600000"
+  }
+  {
+    establish_id: "20408"
+    establish_name: 커다란 탁자
+    room_id: "2"
+    description: 더 넓어진 작업면적과 규격화된 정리 방법으로 더 많은 저장공간을 확보했습니다. 전보다 좀 더 예술적인 기록보관 기술이네요.
+    furniture_id: "42052"
+    update_furniture_id: "42052"
+    furniture_postion: "12,10"
+    establish_type: "204"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    upgrade_condition: "20108"
+    parameter_1: "720000"
+  }
+  {
+    establish_id: "20409"
+    establish_name: 커다란 탁자
+    room_id: "2"
+    description: 더 넓어진 작업면적과 규격화된 정리 방법으로 더 많은 저장공간을 확보했습니다. 전보다 좀 더 예술적인 기록보관 기술이네요.
+    furniture_id: "42052"
+    update_furniture_id: "42052"
+    furniture_postion: "12,10"
+    establish_type: "204"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    upgrade_condition: "20109"
+    parameter_1: "840000"
+  }
+  {
+    establish_id: "20410"
+    establish_name: 하드 디스크 진열대
+    room_id: "2"
+    description: 아무리 뛰어난 기록용지라도 대규모의 하드 디스크 어레이 앞에선 무용지물이죠. 유일한 단점이라면 전기를 엄청나게 소모한다는 거예요.
+    furniture_id: "42053"
+    update_furniture_id: "42053"
+    furniture_postion: "12,10"
+    establish_type: "204"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    upgrade_condition: "20110"
+    parameter_1: "960000"
+  }
+  {
+    establish_id: "20500"
+    establish_name: 방치된 컴퓨터
+    room_id: "2"
+    description: 구석에 놓여진 탁자를 보니, 인터넷을 쓸 수 있는 컴퓨터가 있네요. 컴퓨터를 이용해 데이터망을 구축하여, 좀 더 효율적인 작업이 가능하게 되었어요.
+    furniture_id: "42040"
+    update_furniture_id: "42040"
+    furniture_postion: "16,2"
+    establish_type: "205"
+    parameter_1: "43200"
+  }
+  {
+    establish_id: "20501"
+    establish_name: 저사양 컴퓨터
+    room_id: "2"
+    description: 누렇게 때가 탔지만 신경쓰지 마세요. 당시 공업단지에서 많은 소년들이 꿈을 불태웠던 기기니까요. 48k의 메모리는 사용자들에게 천국이었죠.
+    furniture_id: "42041"
+    update_furniture_id: "42041"
+    furniture_postion: "16,2"
+    establish_type: "205"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    upgrade_condition: "20101"
+    parameter_1: "36000"
+  }
+  {
+    establish_id: "20502"
+    establish_name: 저사양 컴퓨터
+    room_id: "2"
+    description: 누렇게 때가 탔지만 신경쓰지 마세요. 당시 공업단지에서 많은 소년들이 꿈을 불태웠던 기기니까요. 49k의 메모리는 사용자들에게 천국이었죠.
+    furniture_id: "42041"
+    update_furniture_id: "42041"
+    furniture_postion: "16,2"
+    establish_type: "205"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    upgrade_condition: "20102"
+    parameter_1: "32400"
+  }
+  {
+    establish_id: "20503"
+    establish_name: 저사양 컴퓨터
+    room_id: "2"
+    description: 누렇게 때가 탔지만 신경쓰지 마세요. 당시 공업단지에서 많은 소년들이 꿈을 불태웠던 기기니까요. 50k의 메모리는 사용자들에게 천국이었죠.
+    furniture_id: "42041"
+    update_furniture_id: "42041"
+    furniture_postion: "16,2"
+    establish_type: "205"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    upgrade_condition: "20103"
+    parameter_1: "28800"
+  }
+  {
+    establish_id: "20504"
+    establish_name: 저사양 컴퓨터
+    room_id: "2"
+    description: 누렇게 때가 탔지만 신경쓰지 마세요. 당시 공업단지에서 많은 소년들이 꿈을 불태웠던 기기니까요. 51k의 메모리는 사용자들에게 천국이었죠.
+    furniture_id: "42041"
+    update_furniture_id: "42041"
+    furniture_postion: "16,2"
+    establish_type: "205"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    upgrade_condition: "20104"
+    parameter_1: "25200"
+  }
+  {
+    establish_id: "20505"
+    establish_name: 저사양 컴퓨터
+    room_id: "2"
+    description: 누렇게 때가 탔지만 신경쓰지 마세요. 당시 공업단지에서 많은 소년들이 꿈을 불태웠던 기기니까요. 52k의 메모리는 사용자들에게 천국이었죠.
+    furniture_id: "42041"
+    update_furniture_id: "42041"
+    furniture_postion: "16,2"
+    establish_type: "205"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    upgrade_condition: "20105"
+    parameter_1: "21600"
+  }
+  {
+    establish_id: "20506"
+    establish_name: 소형 서버장치
+    room_id: "2"
+    description: 비록 사령부에서는 잊혀져가는 설비지만, 전용 서버의 처리능력은 무시할 수 없죠. 게다가 전원을 끌 필요도 없으니, 무척 편리하답니다!
+    furniture_id: "42042"
+    update_furniture_id: "42042"
+    furniture_postion: "17,2"
+    establish_type: "205"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    upgrade_condition: "20106"
+    parameter_1: "18000"
+  }
+  {
+    establish_id: "20507"
+    establish_name: 소형 서버장치
+    room_id: "2"
+    description: 비록 사령부에서는 잊혀져가는 설비지만, 전용 서버의 처리능력은 무시할 수 없죠. 게다가 전원을 끌 필요도 없으니, 무척 편리하답니다!
+    furniture_id: "42042"
+    update_furniture_id: "42042"
+    furniture_postion: "17,2"
+    establish_type: "205"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    upgrade_condition: "20107"
+    parameter_1: "14400"
+  }
+  {
+    establish_id: "20508"
+    establish_name: 소형 서버장치
+    room_id: "2"
+    description: 비록 사령부에서는 잊혀져가는 설비지만, 전용 서버의 처리능력은 무시할 수 없죠. 게다가 전원을 끌 필요도 없으니, 무척 편리하답니다!
+    furniture_id: "42042"
+    update_furniture_id: "42042"
+    furniture_postion: "17,2"
+    establish_type: "205"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    upgrade_condition: "20108"
+    parameter_1: "10800"
+  }
+  {
+    establish_id: "20509"
+    establish_name: 소형 서버장치
+    room_id: "2"
+    description: 비록 사령부에서는 잊혀져가는 설비지만, 전용 서버의 처리능력은 무시할 수 없죠. 게다가 전원을 끌 필요도 없으니, 무척 편리하답니다!
+    furniture_id: "42042"
+    update_furniture_id: "42042"
+    furniture_postion: "17,2"
+    establish_type: "205"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    upgrade_condition: "20109"
+    parameter_1: "7200"
+  }
+  {
+    establish_id: "20510"
+    establish_name: 대형 서버컴퓨터
+    room_id: "2"
+    description: 더욱 높아진 처리능력! 더욱 많아진 처리장치! 번쩍거리는 LED를 보고있으면 만족스럽네요. 열심히 모은 전지가 아깝지 않을정도예요!
+    furniture_id: "42043"
+    update_furniture_id: "42043"
+    furniture_postion: "17,2"
+    establish_type: "205"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    upgrade_condition: "20110"
+    parameter_1: "3600"
+  }
+  {
+    establish_id: "20600"
+    establish_name: 방치된 텔레타이프
+    room_id: "2"
+    description: 방수포 아래로 보이는 생소한 기계로, 지금 시대와 맞지 않는 물건인 듯 싶어요. 아마 M1918은 알고있지 않을까요?
+    furniture_id: "42060"
+    update_furniture_id: "42060"
+    furniture_postion: "22,10"
+    establish_type: "206"
+    parameter_1: "5"
+  }
+  {
+    establish_id: "20601"
+    establish_name: 낡은 텔레타이프
+    room_id: "2"
+    description: 일찍이 1900년대의 국제화 물결 속에서, 국경을 너머 각 사무실마다 필수품이 되었습니다. 1회 전송할 수 있는 정보량이 종이 테이프 1롤이라니 엄청난 과학이네요.
+    furniture_id: "42061"
+    update_furniture_id: "42061"
+    furniture_postion: "22,10"
+    establish_type: "206"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    upgrade_condition: "20101"
+    parameter_1: "10"
+  }
+  {
+    establish_id: "20602"
+    establish_name: 낡은 텔레타이프
+    room_id: "2"
+    description: 일찍이 1900년대의 국제화 물결 속에서, 국경을 너머 각 사무실마다 필수품이 되었습니다. 1회 전송할 수 있는 정보량이 종이 테이프 1롤이라니 엄청난 과학이네요.
+    furniture_id: "42061"
+    update_furniture_id: "42061"
+    furniture_postion: "22,10"
+    establish_type: "206"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    upgrade_condition: "20102"
+    parameter_1: "15"
+  }
+  {
+    establish_id: "20603"
+    establish_name: 낡은 텔레타이프
+    room_id: "2"
+    description: 일찍이 1900년대의 국제화 물결 속에서, 국경을 너머 각 사무실마다 필수품이 되었습니다. 1회 전송할 수 있는 정보량이 종이 테이프 1롤이라니 엄청난 과학이네요.
+    furniture_id: "42061"
+    update_furniture_id: "42061"
+    furniture_postion: "22,10"
+    establish_type: "206"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    upgrade_condition: "20103"
+    parameter_1: "20"
+  }
+  {
+    establish_id: "20604"
+    establish_name: 낡은 텔레타이프
+    room_id: "2"
+    description: 일찍이 1900년대의 국제화 물결 속에서, 국경을 너머 각 사무실마다 필수품이 되었습니다. 1회 전송할 수 있는 정보량이 종이 테이프 1롤이라니 엄청난 과학이네요.
+    furniture_id: "42061"
+    update_furniture_id: "42061"
+    furniture_postion: "22,10"
+    establish_type: "206"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    upgrade_condition: "20104"
+    parameter_1: "25"
+  }
+  {
+    establish_id: "20605"
+    establish_name: 낡은 텔레타이프
+    room_id: "2"
+    description: 일찍이 1900년대의 국제화 물결 속에서, 국경을 너머 각 사무실마다 필수품이 되었습니다. 1회 전송할 수 있는 정보량이 종이 테이프 1롤이라니 엄청난 과학이네요.
+    furniture_id: "42061"
+    update_furniture_id: "42061"
+    furniture_postion: "22,10"
+    establish_type: "206"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    upgrade_condition: "20105"
+    parameter_1: "30"
+  }
+  {
+    establish_id: "20606"
+    establish_name: 네트워크 프린터
+    room_id: "2"
+    description: 발전된 네트워킹 기술을 접목시켜, 이제 작전 보고서를 단숨에 출력할 수 있게 되었답니다~!...어랏? 어째서 먹통이죠?...카트리지에 잉크가 없어!?
+    furniture_id: "42062"
+    update_furniture_id: "42062"
+    furniture_postion: "22,10"
+    establish_type: "206"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    upgrade_condition: "20106"
+    parameter_1: "40"
+  }
+  {
+    establish_id: "20607"
+    establish_name: 네트워크 프린터
+    room_id: "2"
+    description: 발전된 네트워킹 기술을 접목시켜, 이제 작전 보고서를 단숨에 출력할 수 있게 되었답니다~!...어랏? 어째서 먹통이죠?...카트리지에 잉크가 없어!?
+    furniture_id: "42062"
+    update_furniture_id: "42062"
+    furniture_postion: "22,10"
+    establish_type: "206"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    upgrade_condition: "20107"
+    parameter_1: "50"
+  }
+  {
+    establish_id: "20608"
+    establish_name: 네트워크 프린터
+    room_id: "2"
+    description: 발전된 네트워킹 기술을 접목시켜, 이제 작전 보고서를 단숨에 출력할 수 있게 되었답니다~!...어랏? 어째서 먹통이죠?...카트리지에 잉크가 없어!?
+    furniture_id: "42062"
+    update_furniture_id: "42062"
+    furniture_postion: "22,10"
+    establish_type: "206"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    upgrade_condition: "20108"
+    parameter_1: "60"
+  }
+  {
+    establish_id: "20609"
+    establish_name: 네트워크 프린터
+    room_id: "2"
+    description: 발전된 네트워킹 기술을 접목시켜, 이제 작전 보고서를 단숨에 출력할 수 있게 되었답니다~!...어랏? 어째서 먹통이죠?...카트리지에 잉크가 없어!?
+    furniture_id: "42062"
+    update_furniture_id: "42062"
+    furniture_postion: "22,10"
+    establish_type: "206"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    upgrade_condition: "20109"
+    parameter_1: "70"
+  }
+  {
+    establish_id: "20610"
+    establish_name: 발전된 자동 인쇄기
+    room_id: "2"
+    description: 대용량의 처리장치와 고속 인쇄 시스템을 갖추고 있어, 보고있으면 어지러울 정도입니다. 기술의 발전은 굉장해요!
+    furniture_id: "42063"
+    update_furniture_id: "42063"
+    furniture_postion: "22,10"
+    establish_type: "206"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    upgrade_condition: "20110"
+    parameter_1: "80"
+  }
+  {
+    establish_id: "20700"
+    establish_name: 추억책장
+    room_id: "2"
+    description: 추억으로 가득한 책장.
+    furniture_id: "42070"
+    update_furniture_id: "42070"
+    furniture_postion: "3,8"
+    establish_type: "207"
+  }
+  {
+    establish_id: "30001"
+    establish_name: 요정의 방 벽지
+    room_id: "3"
+    description: 요정의 방 기본벽지
+    furniture_id: "40014"
+    update_furniture_id: "40014"
+    furniture_postion: "2,2"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "30002"
+    establish_name: 요정의 방 바닥재
+    room_id: "3"
+    description: 요정의 방 기본 바닥재
+    furniture_id: "40004"
+    update_furniture_id: "40015"
+    furniture_postion: "2,2"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "30003"
+    establish_name: 요정의 방 벽면장식
+    room_id: "3"
+    description: 요정의 방 벽면장식
+    furniture_id: "40016"
+    update_furniture_id: "40016"
+    furniture_postion: "14,2"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "30004"
+    establish_name: 요정의 방 전등4
+    room_id: "3"
+    furniture_id: "40017"
+    update_furniture_id: "40017"
+    furniture_postion: "8,11"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "30005"
+    establish_name: 요정의 방 전등5
+    room_id: "3"
+    furniture_id: "40017"
+    update_furniture_id: "40017"
+    furniture_postion: "17,11"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "30006"
+    establish_name: 요정의 방 전등6
+    room_id: "3"
+    furniture_id: "40017"
+    update_furniture_id: "40017"
+    furniture_postion: "26,11"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "30007"
+    establish_name: 요정의 방 카펫
+    room_id: "3"
+    description: 요정의 방 카펫
+    furniture_id: "40018"
+    update_furniture_id: "40018"
+    furniture_postion: "15,6"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "30100"
+    establish_name: 산골짜기
+    room_id: "3"
+    description: 요정들은 언제나 자신들이 산과 계곡을 수호하는 환상의 생명체라 주장합니다.  AI들이 시끄럽게 구는 걸 참을 수 없었던 지휘관은 요정들에게 어울리는 생활환경을 마련해주었습니다.
+    furniture_id: "43010"
+    update_furniture_id: "43010"
+    furniture_postion: "2,4"
+    establish_type: "301"
+  }
+  {
+    establish_id: "30101"
+    establish_name: 산간요새
+    room_id: "3"
+    description: 한바탕 고생한 뒤, 지휘관은 산골짜기에 발포 스티로폼으로 중세풍의 성을 만들어줬습니다. 이렇게 되면 다른 설비도 승급을 할 수 있게 되겠죠.(도색 시 환기에 유의할 것)
+    furniture_id: "43011"
+    update_furniture_id: "43011"
+    furniture_postion: "2,4"
+    establish_type: "301"
+    establish_lv: "1"
+    upgrade_coin: "10"
+    upgrade_time: "60"
+  }
+  {
+    establish_id: "30102"
+    establish_name: 산간요새
+    room_id: "3"
+    description: 한바탕 고생한 뒤, 지휘관은 산골짜기에 발포 스티로폼으로 중세풍의 성을 만들어줬습니다. 이렇게 되면 다른 설비도 승급을 할 수 있게 되겠죠.(도색 시 환기에 유의할 것)
+    furniture_id: "43011"
+    update_furniture_id: "43011"
+    furniture_postion: "2,4"
+    establish_type: "301"
+    establish_lv: "2"
+    upgrade_coin: "75"
+    upgrade_time: "300"
+    upgrade_condition: "30201,30301,30401"
+  }
+  {
+    establish_id: "30103"
+    establish_name: 산간요새
+    room_id: "3"
+    description: 한바탕 고생한 뒤, 지휘관은 산골짜기에 발포 스티로폼으로 중세풍의 성을 만들어줬습니다. 이렇게 되면 다른 설비도 승급을 할 수 있게 되겠죠.(도색 시 환기에 유의할 것)
+    furniture_id: "43011"
+    update_furniture_id: "43011"
+    furniture_postion: "2,4"
+    establish_type: "301"
+    establish_lv: "3"
+    upgrade_coin: "150"
+    upgrade_time: "1800"
+    upgrade_condition: "30202,30302,30402"
+  }
+  {
+    establish_id: "30104"
+    establish_name: 산간요새
+    room_id: "3"
+    description: 한바탕 고생한 뒤, 지휘관은 산골짜기에 발포 스티로폼으로 중세풍의 성을 만들어줬습니다. 이렇게 되면 다른 설비도 승급을 할 수 있게 되겠죠.(도색 시 환기에 유의할 것)
+    furniture_id: "43011"
+    update_furniture_id: "43011"
+    furniture_postion: "2,4"
+    establish_type: "301"
+    establish_lv: "4"
+    upgrade_coin: "225"
+    upgrade_time: "3600"
+    upgrade_condition: "30203,30303,30403"
+  }
+  {
+    establish_id: "30105"
+    establish_name: 산간요새
+    room_id: "3"
+    description: 한바탕 고생한 뒤, 지휘관은 산골짜기에 발포 스티로폼으로 중세풍의 성을 만들어줬습니다. 이렇게 되면 다른 설비도 승급을 할 수 있게 되겠죠.(도색 시 환기에 유의할 것)
+    furniture_id: "43011"
+    update_furniture_id: "43011"
+    furniture_postion: "2,4"
+    establish_type: "301"
+    establish_lv: "5"
+    upgrade_coin: "300"
+    upgrade_time: "7200"
+    upgrade_condition: "30204,30304,30404"
+  }
+  {
+    establish_id: "30106"
+    establish_name: 요정청사
+    room_id: "3"
+    description: 요정들은 자기들의 직위가 계속 진급하고 있다고 여기고 있습니다. 신분에 걸맞는 화려하고 격식있는 거주지가 필요한 것을 고려해, 고전주의의 느낌이 나는 화이트홀이 제격이겠네요.
+    furniture_id: "43012"
+    update_furniture_id: "43012"
+    furniture_postion: "2,4"
+    establish_type: "301"
+    establish_lv: "6"
+    upgrade_coin: "375"
+    upgrade_time: "14400"
+    upgrade_condition: "30205,30305,30405"
+  }
+  {
+    establish_id: "30107"
+    establish_name: 요정청사
+    room_id: "3"
+    description: 요정들은 자기들의 직위가 계속 진급하고 있다고 여기고 있습니다. 신분에 걸맞는 화려하고 격식있는 거주지가 필요한 것을 고려해, 고전주의의 느낌이 나는 화이트홀이 제격이겠네요.
+    furniture_id: "43012"
+    update_furniture_id: "43012"
+    furniture_postion: "2,4"
+    establish_type: "301"
+    establish_lv: "7"
+    upgrade_coin: "525"
+    upgrade_time: "28800"
+    upgrade_condition: "30206,30306,30406"
+  }
+  {
+    establish_id: "30108"
+    establish_name: 요정청사
+    room_id: "3"
+    description: 요정들은 자기들의 직위가 계속 진급하고 있다고 여기고 있습니다. 신분에 걸맞는 화려하고 격식있는 거주지가 필요한 것을 고려해, 고전주의의 느낌이 나는 화이트홀이 제격이겠네요.
+    furniture_id: "43012"
+    update_furniture_id: "43012"
+    furniture_postion: "2,4"
+    establish_type: "301"
+    establish_lv: "8"
+    upgrade_coin: "675"
+    upgrade_time: "43200"
+    upgrade_condition: "30207,30307,30407"
+  }
+  {
+    establish_id: "30109"
+    establish_name: 요정청사
+    room_id: "3"
+    description: 요정들은 자기들의 직위가 계속 진급하고 있다고 여기고 있습니다. 신분에 걸맞는 화려하고 격식있는 거주지가 필요한 것을 고려해, 고전주의의 느낌이 나는 화이트홀이 제격이겠네요.
+    furniture_id: "43012"
+    update_furniture_id: "43012"
+    furniture_postion: "2,4"
+    establish_type: "301"
+    establish_lv: "9"
+    upgrade_coin: "900"
+    upgrade_time: "64800"
+    upgrade_condition: "30208,30308,30408"
+  }
+  {
+    establish_id: "30110"
+    establish_name: 요정성지
+    room_id: "3"
+    description: 흰색 뾰족탑과 성벽외각이 늘어난 최종형태로, 모든 부속시설이 개방되었습니다. 요정들이 기뻐하는 것이 계급시스템이 증가한 것으로 보이네요. 마치 봉건사회의 시장같습니다.
+    furniture_id: "43013"
+    update_furniture_id: "43013"
+    furniture_postion: "2,4"
+    establish_type: "301"
+    establish_lv: "10"
+    upgrade_coin: "1200"
+    upgrade_time: "86400"
+    upgrade_condition: "30209,30309,30409"
+  }
+  {
+    establish_id: "30200"
+    establish_name: 방치된 철도모형
+    room_id: "3"
+    description: 낡은 천막 뒤로 희미하게 비치는 철도 모형 역사의 형태로, 더 많은 지령을 얻기 위한 설비입니다. 철도 모형이라니 정말 그립군요.
+    furniture_id: "43020"
+    update_furniture_id: "43020"
+    furniture_postion: "26,11"
+    establish_type: "302"
+    parameter_1: "5"
+  }
+  {
+    establish_id: "30201"
+    establish_name: 시골 철도모형
+    room_id: "3"
+    description: 평범한 시골의 기차역입니다. 소년소녀가 어린 시절 추억에 잠겨 기록한 것으로, 터널을 통과할 때 그 시절의 인생의 희망을 발견할 수 있으려나요?
+    furniture_id: "43021"
+    update_furniture_id: "43021"
+    furniture_postion: "26,11"
+    establish_type: "302"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    upgrade_condition: "30101"
+    parameter_1: "6"
+  }
+  {
+    establish_id: "30202"
+    establish_name: 시골 철도모형
+    room_id: "3"
+    description: 평범한 시골의 기차역입니다. 소년소녀가 어린 시절 추억에 잠겨 기록한 것으로, 터널을 통과할 때 그 시절의 인생의 희망을 발견할 수 있으려나요?
+    furniture_id: "43021"
+    update_furniture_id: "43021"
+    furniture_postion: "26,11"
+    establish_type: "302"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    upgrade_condition: "30102"
+    parameter_1: "7"
+  }
+  {
+    establish_id: "30203"
+    establish_name: 시골 철도모형
+    room_id: "3"
+    description: 평범한 시골의 기차역입니다. 소년소녀가 어린 시절 추억에 잠겨 기록한 것으로, 터널을 통과할 때 그 시절의 인생의 희망을 발견할 수 있으려나요?
+    furniture_id: "43021"
+    update_furniture_id: "43021"
+    furniture_postion: "26,11"
+    establish_type: "302"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    upgrade_condition: "30103"
+    parameter_1: "8"
+  }
+  {
+    establish_id: "30204"
+    establish_name: 시골 철도모형
+    room_id: "3"
+    description: 평범한 시골의 기차역입니다. 소년소녀가 어린 시절 추억에 잠겨 기록한 것으로, 터널을 통과할 때 그 시절의 인생의 희망을 발견할 수 있으려나요?
+    furniture_id: "43021"
+    update_furniture_id: "43021"
+    furniture_postion: "26,11"
+    establish_type: "302"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    upgrade_condition: "30104"
+    parameter_1: "9"
+  }
+  {
+    establish_id: "30205"
+    establish_name: 시골 철도모형
+    room_id: "3"
+    description: 평범한 시골의 기차역입니다. 소년소녀가 어린 시절 추억에 잠겨 기록한 것으로, 터널을 통과할 때 그 시절의 인생의 희망을 발견할 수 있으려나요?
+    furniture_id: "43021"
+    update_furniture_id: "43021"
+    furniture_postion: "26,11"
+    establish_type: "302"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    upgrade_condition: "30105"
+    parameter_1: "10"
+  }
+  {
+    establish_id: "30206"
+    establish_name: 기차역 모형
+    room_id: "3"
+    description: 공업시대에 철판으로 이루어진 기차역은 예전의 소박함을 빼앗았네요. 우편물과 승객을 싣는 열차조차도 점점 원료를 싣고가는 화물 운송열차로 대체되는군요. 이것이 발전이란 걸까요.
+    furniture_id: "43022"
+    update_furniture_id: "43022"
+    furniture_postion: "26,11"
+    establish_type: "302"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    upgrade_condition: "30106"
+    parameter_1: "11"
+  }
+  {
+    establish_id: "30207"
+    establish_name: 기차역 모형
+    room_id: "3"
+    description: 공업시대에 철판으로 이루어진 기차역은 예전의 소박함을 빼앗았네요. 우편물과 승객을 싣는 열차조차도 점점 원료를 싣고가는 화물 운송열차로 대체되는군요. 이것이 발전이란 걸까요.
+    furniture_id: "43022"
+    update_furniture_id: "43022"
+    furniture_postion: "26,11"
+    establish_type: "302"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    upgrade_condition: "30107"
+    parameter_1: "12"
+  }
+  {
+    establish_id: "30208"
+    establish_name: 기차역 모형
+    room_id: "3"
+    description: 공업시대에 철판으로 이루어진 기차역은 예전의 소박함을 빼앗았네요. 우편물과 승객을 싣는 열차조차도 점점 원료를 싣고가는 화물 운송열차로 대체되는군요. 이것이 발전이란 걸까요.
+    furniture_id: "43022"
+    update_furniture_id: "43022"
+    furniture_postion: "26,11"
+    establish_type: "302"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    upgrade_condition: "30108"
+    parameter_1: "13"
+  }
+  {
+    establish_id: "30209"
+    establish_name: 기차역 모형
+    room_id: "3"
+    description: 공업시대에 철판으로 이루어진 기차역은 예전의 소박함을 빼앗았네요. 우편물과 승객을 싣는 열차조차도 점점 원료를 싣고가는 화물 운송열차로 대체되는군요. 이것이 발전이란 걸까요.
+    furniture_id: "43022"
+    update_furniture_id: "43022"
+    furniture_postion: "26,11"
+    establish_type: "302"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    upgrade_condition: "30109"
+    parameter_1: "14"
+  }
+  {
+    establish_id: "30210"
+    establish_name: 왕국철도허브모형
+    room_id: "3"
+    description: 몇 번의 승급 후, 드디어 왕국철도 허브모형이 완성되었습니다. 원형은 어떤 제국의 중요역이었으며, 지금은 모형으로 나마 재현할 뿐이지요.
+    furniture_id: "43023"
+    update_furniture_id: "43023"
+    furniture_postion: "26,11"
+    establish_type: "302"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    upgrade_condition: "30110"
+    parameter_1: "15"
+  }
+  {
+    establish_id: "30300"
+    establish_name: 모형창고부지
+    room_id: "3"
+    description: 여긴 모형창고의 건설을 위한 부지로, 본부에서 내려온 지령을 모아두기 위한 곳이라고 합니다. 어째서 모형창고에 지원지령을 보관할 수 있냐구요? 저도 알고싶네요...
+    furniture_id: "43030"
+    update_furniture_id: "43030"
+    furniture_postion: "13,4"
+    establish_type: "303"
+    parameter_1: "50"
+  }
+  {
+    establish_id: "30301"
+    establish_name: 임시모형창고
+    room_id: "3"
+    description: 임시창고가 만들어졌네요. 철사와 도색된 플라스틱 필름으로 만들어져 있어 매우 약하니까, 지령을 사용할 땐 조심해주세요. 지휘관님.
+    furniture_id: "43031"
+    update_furniture_id: "43031"
+    furniture_postion: "14,5"
+    establish_type: "303"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    upgrade_condition: "30101"
+    parameter_1: "65"
+  }
+  {
+    establish_id: "30302"
+    establish_name: 임시모형창고
+    room_id: "3"
+    description: 임시창고가 만들어졌네요. 철사와 도색된 플라스틱 필름으로 만들어져 있어 매우 약하니까, 지령을 사용할 땐 조심해주세요. 지휘관님.
+    furniture_id: "43031"
+    update_furniture_id: "43031"
+    furniture_postion: "14,5"
+    establish_type: "303"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    upgrade_condition: "30102"
+    parameter_1: "80"
+  }
+  {
+    establish_id: "30303"
+    establish_name: 임시모형창고
+    room_id: "3"
+    description: 임시창고가 만들어졌네요. 철사와 도색된 플라스틱 필름으로 만들어져 있어 매우 약하니까, 지령을 사용할 땐 조심해주세요. 지휘관님.
+    furniture_id: "43031"
+    update_furniture_id: "43031"
+    furniture_postion: "14,5"
+    establish_type: "303"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    upgrade_condition: "30103"
+    parameter_1: "95"
+  }
+  {
+    establish_id: "30304"
+    establish_name: 임시모형창고
+    room_id: "3"
+    description: 임시창고가 만들어졌네요. 철사와 도색된 플라스틱 필름으로 만들어져 있어 매우 약하니까, 지령을 사용할 땐 조심해주세요. 지휘관님.
+    furniture_id: "43031"
+    update_furniture_id: "43031"
+    furniture_postion: "14,5"
+    establish_type: "303"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    upgrade_condition: "30104"
+    parameter_1: "110"
+  }
+  {
+    establish_id: "30305"
+    establish_name: 임시모형창고
+    room_id: "3"
+    description: 임시창고가 만들어졌네요. 철사와 도색된 플라스틱 필름으로 만들어져 있어 매우 약하니까, 지령을 사용할 땐 조심해주세요. 지휘관님.
+    furniture_id: "43031"
+    update_furniture_id: "43031"
+    furniture_postion: "14,5"
+    establish_type: "303"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    upgrade_condition: "30105"
+    parameter_1: "125"
+  }
+  {
+    establish_id: "30306"
+    establish_name: 공업모형창고
+    room_id: "3"
+    description: 이젠 벽돌과 철판으로 만들어 튼튼한 창고가 되었군요. 더 많은 지령을 보관할 수 있겠어요.(아기돼지 삼형제의 이야기와는 무관합니다.)
+    furniture_id: "43032"
+    update_furniture_id: "43032"
+    furniture_postion: "14,5"
+    establish_type: "303"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    upgrade_condition: "30106"
+    parameter_1: "140"
+  }
+  {
+    establish_id: "30307"
+    establish_name: 공업모형창고
+    room_id: "3"
+    description: 이젠 벽돌과 철판으로 만들어 튼튼한 창고가 되었군요. 더 많은 지령을 보관할 수 있겠어요.(아기돼지 삼형제의 이야기와는 무관합니다.)
+    furniture_id: "43032"
+    update_furniture_id: "43032"
+    furniture_postion: "14,5"
+    establish_type: "303"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    upgrade_condition: "30107"
+    parameter_1: "155"
+  }
+  {
+    establish_id: "30308"
+    establish_name: 공업모형창고
+    room_id: "3"
+    description: 이젠 벽돌과 철판으로 만들어 튼튼한 창고가 되었군요. 더 많은 지령을 보관할 수 있겠어요.(아기돼지 삼형제의 이야기와는 무관합니다.)
+    furniture_id: "43032"
+    update_furniture_id: "43032"
+    furniture_postion: "14,5"
+    establish_type: "303"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    upgrade_condition: "30108"
+    parameter_1: "170"
+  }
+  {
+    establish_id: "30309"
+    establish_name: 공업모형창고
+    room_id: "3"
+    description: 이젠 벽돌과 철판으로 만들어 튼튼한 창고가 되었군요. 더 많은 지령을 보관할 수 있겠어요.(아기돼지 삼형제의 이야기와는 무관합니다.)
+    furniture_id: "43032"
+    update_furniture_id: "43032"
+    furniture_postion: "14,5"
+    establish_type: "303"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    upgrade_condition: "30109"
+    parameter_1: "185"
+  }
+  {
+    establish_id: "30310"
+    establish_name: 발전된 모형창고
+    room_id: "3"
+    description: 환경을 생각해서 친환경에너지를 전부 끌어모은 발전된 모형창고 입니다. 제일 중요한 건 역시 통풍이 잘되는 설계로, 아니면 프리츠커상을 받지 못했을 거예요.
+    furniture_id: "43033"
+    update_furniture_id: "43033"
+    furniture_postion: "15,4"
+    establish_type: "303"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    upgrade_condition: "30110"
+    parameter_1: "200"
+  }
+  {
+    establish_id: "30400"
+    establish_name: 공백 기상체계
+    room_id: "3"
+    description: 천장에 있는 몇 개의 갈고리에, 진짜 기상현상처럼 만들어 놓으니 요정이 매우 좋아하네요. 경험치획득 속도가 상승하지만, 결국 바닥은 어두워지므로, 좋은 마음을 유지하는게 최우선이에요.
+    furniture_id: "43040"
+    update_furniture_id: "43040"
+    furniture_postion: "17,5"
+    establish_type: "304"
+    parameter_1: "5"
+  }
+  {
+    establish_id: "30401"
+    establish_name: 먹구름 기상체계
+    room_id: "3"
+    description: 모든 건 작은 먹구름에서 시작하니 결코 무시할 수 없어요. 목화솜과 풀 그리고 래커를 사용하여 만든 먹구름은 모형계에서도 수준급의 실력이죠.
+    furniture_id: "43041"
+    update_furniture_id: "43041"
+    furniture_postion: "17,5"
+    establish_type: "304"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    upgrade_condition: "30101"
+    parameter_1: "6.5"
+  }
+  {
+    establish_id: "30402"
+    establish_name: 먹구름 기상체계
+    room_id: "3"
+    description: 모든 건 작은 먹구름에서 시작하니 결코 무시할 수 없어요. 목화솜과 풀 그리고 래커를 사용하여 만든 먹구름은 모형계에서도 수준급의 실력이죠.
+    furniture_id: "43041"
+    update_furniture_id: "43041"
+    furniture_postion: "17,5"
+    establish_type: "304"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    upgrade_condition: "30102"
+    parameter_1: "8"
+  }
+  {
+    establish_id: "30403"
+    establish_name: 먹구름 기상체계
+    room_id: "3"
+    description: 모든 건 작은 먹구름에서 시작하니 결코 무시할 수 없어요. 목화솜과 풀 그리고 래커를 사용하여 만든 먹구름은 모형계에서도 수준급의 실력이죠.
+    furniture_id: "43041"
+    update_furniture_id: "43041"
+    furniture_postion: "17,5"
+    establish_type: "304"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    upgrade_condition: "30103"
+    parameter_1: "9.5"
+  }
+  {
+    establish_id: "30404"
+    establish_name: 먹구름 기상체계
+    room_id: "3"
+    description: 모든 건 작은 먹구름에서 시작하니 결코 무시할 수 없어요. 목화솜과 풀 그리고 래커를 사용하여 만든 먹구름은 모형계에서도 수준급의 실력이죠.
+    furniture_id: "43041"
+    update_furniture_id: "43041"
+    furniture_postion: "17,5"
+    establish_type: "304"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    upgrade_condition: "30104"
+    parameter_1: "11"
+  }
+  {
+    establish_id: "30405"
+    establish_name: 먹구름 기상체계
+    room_id: "3"
+    description: 모든 건 작은 먹구름에서 시작하니 결코 무시할 수 없어요. 목화솜과 풀 그리고 래커를 사용하여 만든 먹구름은 모형계에서도 수준급의 실력이죠.
+    furniture_id: "43041"
+    update_furniture_id: "43041"
+    furniture_postion: "17,5"
+    establish_type: "304"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    upgrade_condition: "30105"
+    parameter_1: "12.5"
+  }
+  {
+    establish_id: "30406"
+    establish_name: 달빛 기상체계
+    room_id: "3"
+    description: 신비로운 달빛이 먹구름 뒤로 나타나며 얼룩덜룩하게 비치네요. 요정들은 방방뛰며 타로패와 양초를 꺼내는군요. 이상한 짓만 하지 않았으면 좋겠네요.
+    furniture_id: "43042"
+    update_furniture_id: "43042"
+    furniture_postion: "17,5"
+    establish_type: "304"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    upgrade_condition: "30106"
+    parameter_1: "14"
+  }
+  {
+    establish_id: "30407"
+    establish_name: 달빛 기상체계
+    room_id: "3"
+    description: 신비로운 달빛이 먹구름 뒤로 나타나며 얼룩덜룩하게 비치네요. 요정들은 방방뛰며 타로패와 양초를 꺼내는군요. 이상한 짓만 하지 않았으면 좋겠네요.
+    furniture_id: "43042"
+    update_furniture_id: "43042"
+    furniture_postion: "17,5"
+    establish_type: "304"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    upgrade_condition: "30107"
+    parameter_1: "15.5"
+  }
+  {
+    establish_id: "30408"
+    establish_name: 달빛 기상체계
+    room_id: "3"
+    description: 신비로운 달빛이 먹구름 뒤로 나타나며 얼룩덜룩하게 비치네요. 요정들은 방방뛰며 타로패와 양초를 꺼내는군요. 이상한 짓만 하지 않았으면 좋겠네요.
+    furniture_id: "43042"
+    update_furniture_id: "43042"
+    furniture_postion: "17,5"
+    establish_type: "304"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    upgrade_condition: "30108"
+    parameter_1: "17"
+  }
+  {
+    establish_id: "30409"
+    establish_name: 달빛 기상체계
+    room_id: "3"
+    description: 신비로운 달빛이 먹구름 뒤로 나타나며 얼룩덜룩하게 비치네요. 요정들은 방방뛰며 타로패와 양초를 꺼내는군요. 이상한 짓만 하지 않았으면 좋겠네요.
+    furniture_id: "43042"
+    update_furniture_id: "43042"
+    furniture_postion: "17,5"
+    establish_type: "304"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    upgrade_condition: "30109"
+    parameter_1: "18.5"
+  }
+  {
+    establish_id: "30410"
+    establish_name: 쌍월 기상체계
+    room_id: "3"
+    description: 한개의 달로 이루어진 기상체계보다 더 멋진게 뭘까요? 그건 바로 두개의 달로 이루어진 기상체계입니다! 게다가 반짝반짝 빛나고 있어서 감자같은 포보스랑 데이모스 처럼 예쁘네요.
+    furniture_id: "43043"
+    update_furniture_id: "43043"
+    furniture_postion: "17,5"
+    establish_type: "304"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    upgrade_condition: "30110"
+    parameter_1: "20"
+  }
+  {
+    establish_id: "40001"
+    establish_name: 카페 벽지
+    room_id: "4"
+    description: 카페 벽지
+    furniture_id: "40019"
+    update_furniture_id: "40019"
+    furniture_postion: "2,2"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "40003"
+    establish_name: 카페 바닥
+    room_id: "4"
+    description: 카페 바닥
+    furniture_id: "40021"
+    update_furniture_id: "40021"
+    furniture_postion: "2,2"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "40004"
+    establish_name: 카페 카펫
+    room_id: "4"
+    description: 카페 카펫
+    furniture_id: "40022"
+    update_furniture_id: "40022"
+    furniture_postion: "11,6"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "40005"
+    establish_name: 카페 테이블
+    room_id: "4"
+    description: 카페 테이블
+    furniture_id: "40023"
+    update_furniture_id: "40023"
+    furniture_postion: "5,2"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "40006"
+    establish_name: 카페 스탠드
+    room_id: "4"
+    description: 카페 스탠드
+    furniture_id: "40024"
+    update_furniture_id: "40024"
+    furniture_postion: "6,3"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "40007"
+    establish_name: 카페 벽걸이
+    room_id: "4"
+    description: 카페 벽걸이
+    furniture_id: "40025"
+    update_furniture_id: "40025"
+    furniture_postion: "16,13"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "40008"
+    establish_name: 카페 바닥 스피커
+    room_id: "4"
+    description: 카페 바닥 스피커
+    furniture_id: "40026"
+    update_furniture_id: "40026"
+    furniture_postion: "17,2"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "40009"
+    establish_name: 러프베리 체스
+    room_id: "4"
+    description: 그리폰 S09 지역 특별 프로그래밍 팀이 전 세기말의 유명 보드게임을 참고해 만든 샌드박스 게임으로, 전략성과 재미를 겸비하여, 많은 그리폰 지휘관님들의 환영을 받았답니다.
+    furniture_id: "40028"
+    update_furniture_id: "40028"
+    furniture_postion: "26,12"
+    establish_type: "406"
+  }
+  {
+    establish_id: "40010"
+    establish_name: 카페 탁자중
+    room_id: "4"
+    description: 카페 탁자중
+    furniture_id: "40029"
+    update_furniture_id: "40029"
+    furniture_postion: "18,12"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "40011"
+    establish_name: 카페 원두 용기
+    room_id: "4"
+    description: 카페 원두 용기
+    furniture_id: "40030"
+    update_furniture_id: "40030"
+    furniture_postion: "21,2"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "40013"
+    establish_name: 카페 긴다리 의자
+    room_id: "4"
+    description: 카페 긴다리 의자
+    furniture_id: "40033"
+    update_furniture_id: "40033"
+    furniture_postion: "14,7"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "40014"
+    establish_name: 카페 카펫
+    room_id: "4"
+    description: 카페 카펫
+    furniture_id: "40022"
+    update_furniture_id: "40022"
+    furniture_postion: "5,6"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "40016"
+    establish_name: 카페 의자좌
+    room_id: "4"
+    description: 카페 의자좌
+    furniture_id: "40031"
+    update_furniture_id: "40031"
+    furniture_postion: "15,12"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "40017"
+    establish_name: 카페 의자우
+    room_id: "4"
+    description: 카페 의자우
+    furniture_id: "40031"
+    update_furniture_id: "40031"
+    furniture_postion: "23,12"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "40018"
+    establish_name: 카페 긴다리 의자
+    room_id: "4"
+    description: 카페 긴다리 의자
+    furniture_id: "40033"
+    update_furniture_id: "40033"
+    furniture_postion: "5,7"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "40019"
+    establish_name: 카페 카운터 막음판
+    room_id: "4"
+    description: 카페 카운터 막음판
+    furniture_id: "40034"
+    update_furniture_id: "40034"
+    furniture_postion: "2,18"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "40020"
+    establish_name: 카페 우측 의자
+    room_id: "4"
+    description: 카페 우측 의자
+    furniture_id: "40032"
+    update_furniture_id: "40032"
+    furniture_postion: "29,12"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "40021"
+    establish_name: 카페 긴 다리 의자 상호 반응 없음
+    room_id: "4"
+    description: 카페 긴 다리 의자 상호 반응 없음
+    furniture_id: "40040"
+    update_furniture_id: "40040"
+    furniture_postion: "8,7"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "40022"
+    establish_name: 카페 카운터 냉장고
+    room_id: "4"
+    description: 카페 카운터 냉장고
+    furniture_id: "40035"
+    update_furniture_id: "40035"
+    furniture_postion: "3,22"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "40023"
+    establish_name: 커피메이커
+    room_id: "4"
+    description: 카페 카운터 커피메이커
+    furniture_id: "40036"
+    update_furniture_id: "40036"
+    furniture_postion: "12,21"
+    establish_type: "405"
+  }
+  {
+    establish_id: "40024"
+    establish_name: 축음기
+    room_id: "4"
+    description: 축음기
+    furniture_id: "40037"
+    update_furniture_id: "40037"
+    furniture_postion: "17,3"
+    establish_type: "401"
+  }
+  {
+    establish_id: "40025"
+    establish_name: 카페 긴 다리 의자 상호 반응 없음
+    room_id: "4"
+    description: 카페 긴 다리 의자 상호 반응 없음
+    furniture_id: "40040"
+    update_furniture_id: "40040"
+    furniture_postion: "11,7"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "40026"
+    establish_name: 기록장
+    room_id: "4"
+    description: 기록장
+    furniture_id: "40038"
+    update_furniture_id: "40038"
+    furniture_postion: "2,5"
+    establish_type: "402"
+  }
+  {
+    establish_id: "40027"
+    establish_name: 영사기
+    room_id: "4"
+    description: 영사기
+    furniture_id: "40046"
+    update_furniture_id: "40046"
+    furniture_postion: "21,6"
+    establish_type: "404"
+  }
+  {
+    establish_id: "40028"
+    establish_name: 만화책장
+    room_id: "4"
+    description: 카페
+    furniture_id: "40045"
+    update_furniture_id: "40045"
+    furniture_postion: "25,2"
+    establish_type: "403"
+  }
+  {
+    establish_id: "50001"
+    establish_name: 정보 센터 바닥
+    room_id: "5"
+    description: 정보 센터 바닥
+    furniture_id: "40047"
+    update_furniture_id: "40047"
+    furniture_postion: "0,0"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "50002"
+    establish_name: 정보 센터 벽지
+    room_id: "5"
+    description: 정보 센터 벽지
+    furniture_id: "40048"
+    update_furniture_id: "40048"
+    furniture_postion: "0,0"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "50003"
+    establish_name: 정보 센터 전선 좌
+    room_id: "5"
+    description: 정보 센터 전선 좌
+    furniture_id: "40049"
+    update_furniture_id: "40049"
+    furniture_postion: "3,5"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "50004"
+    establish_name: 정보 센터 전선 우
+    room_id: "5"
+    description: 정보 센터 전선 우
+    furniture_id: "40050"
+    update_furniture_id: "40050"
+    furniture_postion: "22,1"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "50005"
+    establish_name: 정보 센터 전선 중
+    room_id: "5"
+    description: 정보 센터 전선 중
+    furniture_id: "40051"
+    update_furniture_id: "40051"
+    furniture_postion: "2,1"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "50100"
+    establish_name: 지저분한 감시국
+    room_id: "5"
+    description: 먼지 쌓인 천으로 어떤 전자설비를 덮은 것 같습니다. 오래된 무선 통신기로 보이며, 흐릿하게 “WAVE”라고 새겨져 있습니다.
+    furniture_id: "45010"
+    update_furniture_id: "45010"
+    furniture_postion: "5,4"
+    establish_type: "501"
+    parameter_1: "10,0"
+    parameter_2: "90,0"
+  }
+  {
+    establish_id: "50101"
+    establish_name: 단파 감시국
+    room_id: "5"
+    description: 과거 전쟁 중에서 정보요원은 이렇게 오래된 설비로 수없는 기밀 암호문을 해독하여 전황을 뒤집었습니다. 지금은 당신도 할 수 있어요!
+    furniture_id: "45011"
+    update_furniture_id: "45011"
+    furniture_postion: "5,5"
+    establish_type: "501"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    parameter_1: "14,2"
+    parameter_2: "126,18"
+  }
+  {
+    establish_id: "50102"
+    establish_name: 단파 감시국
+    room_id: "5"
+    description: 과거 전쟁 중에서 정보요원은 이렇게 오래된 설비로 수없는 기밀 암호문을 해독하여 전황을 뒤집었습니다. 지금은 당신도 할 수 있어요!
+    furniture_id: "45011"
+    update_furniture_id: "45011"
+    furniture_postion: "5,5"
+    establish_type: "501"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    parameter_1: "18,4"
+    parameter_2: "162,36"
+  }
+  {
+    establish_id: "50103"
+    establish_name: 단파 감시국
+    room_id: "5"
+    description: 과거 전쟁 중에서 정보요원은 이렇게 오래된 설비로 수없는 기밀 암호문을 해독하여 전황을 뒤집었습니다. 지금은 당신도 할 수 있어요!
+    furniture_id: "45011"
+    update_furniture_id: "45011"
+    furniture_postion: "5,5"
+    establish_type: "501"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    parameter_1: "22,6"
+    parameter_2: "198,54"
+  }
+  {
+    establish_id: "50104"
+    establish_name: 단파 감시국
+    room_id: "5"
+    description: 과거 전쟁 중에서 정보요원은 이렇게 오래된 설비로 수없는 기밀 암호문을 해독하여 전황을 뒤집었습니다. 지금은 당신도 할 수 있어요!
+    furniture_id: "45011"
+    update_furniture_id: "45011"
+    furniture_postion: "5,5"
+    establish_type: "501"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    parameter_1: "26,8"
+    parameter_2: "234,72"
+  }
+  {
+    establish_id: "50105"
+    establish_name: 단파 감시국
+    room_id: "5"
+    description: 과거 전쟁 중에서 정보요원은 이렇게 오래된 설비로 수없는 기밀 암호문을 해독하여 전황을 뒤집었습니다. 지금은 당신도 할 수 있어요!
+    furniture_id: "45011"
+    update_furniture_id: "45011"
+    furniture_postion: "5,5"
+    establish_type: "501"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    parameter_1: "30,10"
+    parameter_2: "270,90"
+  }
+  {
+    establish_id: "50106"
+    establish_name: 장파 감시국
+    room_id: "5"
+    description: 뭐, 지하시설에서 안테나를 설치하는 건 효과가 나빴죠. 이제 기지 밖에 안테나를 설치해서 더 많은 정보를 감청할 수 있어요.
+    furniture_id: "45012"
+    update_furniture_id: "45012"
+    furniture_postion: "5,5"
+    establish_type: "501"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    parameter_1: "34,12"
+    parameter_2: "306,108"
+  }
+  {
+    establish_id: "50107"
+    establish_name: 장파 감시국
+    room_id: "5"
+    description: 뭐, 지하시설에서 안테나를 설치하는 건 효과가 나빴죠. 이제 기지 밖에 안테나를 설치해서 더 많은 정보를 감청할 수 있어요.
+    furniture_id: "45012"
+    update_furniture_id: "45012"
+    furniture_postion: "5,5"
+    establish_type: "501"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    parameter_1: "38,14"
+    parameter_2: "342,126"
+  }
+  {
+    establish_id: "50108"
+    establish_name: 장파 감시국
+    room_id: "5"
+    description: 뭐, 지하시설에서 안테나를 설치하는 건 효과가 나빴죠. 이제 기지 밖에 안테나를 설치해서 더 많은 정보를 감청할 수 있어요.
+    furniture_id: "45012"
+    update_furniture_id: "45012"
+    furniture_postion: "5,5"
+    establish_type: "501"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    parameter_1: "42,16"
+    parameter_2: "378,144"
+  }
+  {
+    establish_id: "50109"
+    establish_name: 장파 감시국
+    room_id: "5"
+    description: 뭐, 지하시설에서 안테나를 설치하는 건 효과가 나빴죠. 이제 기지 밖에 안테나를 설치해서 더 많은 정보를 감청할 수 있어요.
+    furniture_id: "45012"
+    update_furniture_id: "45012"
+    furniture_postion: "5,5"
+    establish_type: "501"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    parameter_1: "46,18"
+    parameter_2: "414,162"
+  }
+  {
+    establish_id: "50110"
+    establish_name: 데이터 감시 허브
+    room_id: "5"
+    description: 정보화 시대에서 정보 공작은 WAVE에서 제공한 더 선진한 설비를 통해 폭발적인 데이터량을 처리해야 해요. 딥러닝 시스템을 추가해서 인터넷 시대 때부터 생성된 대량의 스팸 광고를 걸러낼 수 있게되어 유효적인 정보 비율이 늘어났어요!
+    furniture_id: "45013"
+    update_furniture_id: "45013"
+    furniture_postion: "5,5"
+    establish_type: "501"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    parameter_1: "50,20"
+    parameter_2: "450,180"
+  }
+  {
+    establish_id: "50200"
+    establish_name: 지저분한 브리핑 테이블
+    room_id: "5"
+    description: 정보 공작의 역사 속에서 수많은 수수께기는 이런 소박한 보드판에서 풀렸어요. 지금 조용히 여기에 서서 당신이 천을 걷기를 기다리고 있어요.
+    furniture_id: "45020"
+    update_furniture_id: "45020"
+    furniture_postion: "8,1"
+    establish_type: "502"
+    parameter_1: "1"
+    parameter_2: "1"
+  }
+  {
+    establish_id: "50201"
+    establish_name: 임시 브리핑 테이블
+    room_id: "5"
+    description: 모든 정보요원(과 정보요원인 척하는 애들)의 필수품입니다. 얽히고 꼬인 단서들의 줄 잇기도 모자라 이 낡아 빠진 암호기는 분명 어지러움을 유발하겠죠. “적을 속이려면 아군부터 속여라”란 말도 있으니까요.
+    furniture_id: "45021"
+    update_furniture_id: "45021"
+    furniture_postion: "8,1"
+    establish_type: "502"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    parameter_1: "1.25"
+    parameter_2: "1"
+  }
+  {
+    establish_id: "50202"
+    establish_name: 임시 브리핑 테이블
+    room_id: "5"
+    description: 모든 정보요원(과 정보요원인 척하는 애들)의 필수품입니다. 얽히고 꼬인 단서들의 줄 잇기도 모자라 이 낡아 빠진 암호기는 분명 어지러움을 유발하겠죠. “적을 속이려면 아군부터 속여라”란 말도 있으니까요.
+    furniture_id: "45021"
+    update_furniture_id: "45021"
+    furniture_postion: "8,1"
+    establish_type: "502"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    parameter_1: "1.5"
+    parameter_2: "1"
+  }
+  {
+    establish_id: "50203"
+    establish_name: 임시 브리핑 테이블
+    room_id: "5"
+    description: 모든 정보요원(과 정보요원인 척하는 애들)의 필수품입니다. 얽히고 꼬인 단서들의 줄 잇기도 모자라 이 낡아 빠진 암호기는 분명 어지러움을 유발하겠죠. “적을 속이려면 아군부터 속여라”란 말도 있으니까요.
+    furniture_id: "45021"
+    update_furniture_id: "45021"
+    furniture_postion: "8,1"
+    establish_type: "502"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    parameter_1: "1.5"
+    parameter_2: "2"
+  }
+  {
+    establish_id: "50204"
+    establish_name: 임시 브리핑 테이블
+    room_id: "5"
+    description: 모든 정보요원(과 정보요원인 척하는 애들)의 필수품입니다. 얽히고 꼬인 단서들의 줄 잇기도 모자라 이 낡아 빠진 암호기는 분명 어지러움을 유발하겠죠. “적을 속이려면 아군부터 속여라”란 말도 있으니까요.
+    furniture_id: "45021"
+    update_furniture_id: "45021"
+    furniture_postion: "8,1"
+    establish_type: "502"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    parameter_1: "1.75"
+    parameter_2: "2"
+  }
+  {
+    establish_id: "50205"
+    establish_name: 임시 브리핑 테이블
+    room_id: "5"
+    description: 모든 정보요원(과 정보요원인 척하는 애들)의 필수품입니다. 얽히고 꼬인 단서들의 줄 잇기도 모자라 이 낡아 빠진 암호기는 분명 어지러움을 유발하겠죠. “적을 속이려면 아군부터 속여라”란 말도 있으니까요.
+    furniture_id: "45021"
+    update_furniture_id: "45021"
+    furniture_postion: "8,1"
+    establish_type: "502"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    parameter_1: "2"
+    parameter_2: "2"
+  }
+  {
+    establish_id: "50206"
+    establish_name: 냉전 브리핑 테이블
+    room_id: "5"
+    description: 라이트박스가 뿜는 차가운 불빛이 식별하기 힘든 항공사진 필름을 넘어, 탁상 앞에 앉은 지휘관님의 무거운 표정을 비춥니다. 냉전 시기 때의 그들도 아마 같은 표정이었겠죠. “이놈들 폭격기의 수를 거짓 보고했어!”
+    furniture_id: "45022"
+    update_furniture_id: "45022"
+    furniture_postion: "6,1"
+    establish_type: "502"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    parameter_1: "2.25"
+    parameter_2: "2"
+  }
+  {
+    establish_id: "50207"
+    establish_name: 냉전 브리핑 테이블
+    room_id: "5"
+    description: 라이트박스가 뿜는 차가운 불빛이 식별하기 힘든 항공사진 필름을 넘어, 탁상 앞에 앉은 지휘관님의 무거운 표정을 비춥니다. 냉전 시기 때의 그들도 아마 같은 표정이었겠죠. “이놈들 폭격기의 수를 거짓 보고했어!”
+    furniture_id: "45022"
+    update_furniture_id: "45022"
+    furniture_postion: "6,1"
+    establish_type: "502"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    parameter_1: "2.25"
+    parameter_2: "3"
+  }
+  {
+    establish_id: "50208"
+    establish_name: 냉전 브리핑 테이블
+    room_id: "5"
+    description: 라이트박스가 뿜는 차가운 불빛이 식별하기 힘든 항공사진 필름을 넘어, 탁상 앞에 앉은 지휘관님의 무거운 표정을 비춥니다. 냉전 시기 때의 그들도 아마 같은 표정이었겠죠. “이놈들 폭격기의 수를 거짓 보고했어!”
+    furniture_id: "45022"
+    update_furniture_id: "45022"
+    furniture_postion: "6,1"
+    establish_type: "502"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    parameter_1: "2.5"
+    parameter_2: "3"
+  }
+  {
+    establish_id: "50209"
+    establish_name: 냉전 브리핑 테이블
+    room_id: "5"
+    description: 라이트박스가 뿜는 차가운 불빛이 식별하기 힘든 항공사진 필름을 넘어, 탁상 앞에 앉은 지휘관님의 무거운 표정을 비춥니다. 냉전 시기 때의 그들도 아마 같은 표정이었겠죠. “이놈들 폭격기의 수를 거짓 보고했어!”
+    furniture_id: "45022"
+    update_furniture_id: "45022"
+    furniture_postion: "6,1"
+    establish_type: "502"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    parameter_1: "2.75"
+    parameter_2: "3"
+  }
+  {
+    establish_id: "50210"
+    establish_name: 홀로그램 임무 센터
+    room_id: "5"
+    description: 최첨단 기술로 무장한 임무 센터입니다. 홀로그램 모니터에 임무마다 자세한 첨부 이미지가 붙어있고, 터치 한 번으로 지휘관님 이동 설비에 다운로드할 수 있어요. 거기에 초고속 인터넷 기능까지 있다니 정말 최고예요!
+    furniture_id: "45023"
+    update_furniture_id: "45023"
+    furniture_postion: "4,1"
+    establish_type: "502"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    parameter_1: "3"
+    parameter_2: "3"
+  }
+  {
+    establish_id: "50300"
+    establish_name: 지저분한 기록 계기
+    room_id: "5"
+    description: 천 밑에 있는 건 거대하고 묵직한 장치로 보입니다. 중공업 설비 같은 금속광택은 흔히 아는 전자 설비의 이미지와는 거리가 멉니다. 이걸로 정말 데이터를 저장할 수 있나요?
+    furniture_id: "45030"
+    update_furniture_id: "45030"
+    furniture_postion: "13,6"
+    establish_type: "503"
+    parameter_1: "600,20"
+  }
+  {
+    establish_id: "50301"
+    establish_name: 플로피 디스크 기록 계기
+    room_id: "5"
+    description: 얼굴보다 커다란 양면 플로피 디스크를 50장 가진 대형 저장설비입니다. (전체 용량 3.75MB) 비록 데이터를 읽을 때 재봉틀처럼 울리지만 손으로 문서 작성하는 것보단 낫잖아요?
+    furniture_id: "45031"
+    update_furniture_id: "45031"
+    furniture_postion: "13,6"
+    establish_type: "503"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    parameter_1: "900,100"
+  }
+  {
+    establish_id: "50302"
+    establish_name: 플로피 디스크 기록 계기
+    room_id: "5"
+    description: 얼굴보다 커다란 양면 플로피 디스크를 50장 가진 대형 저장설비입니다. (전체 용량 3.75MB) 비록 데이터를 읽을 때 재봉틀처럼 울리지만 손으로 문서 작성하는 것보단 낫잖아요?
+    furniture_id: "45031"
+    update_furniture_id: "45031"
+    furniture_postion: "13,6"
+    establish_type: "503"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    parameter_1: "1200,200"
+  }
+  {
+    establish_id: "50303"
+    establish_name: 플로피 디스크 기록 계기
+    room_id: "5"
+    description: 얼굴보다 커다란 양면 플로피 디스크를 50장 가진 대형 저장설비입니다. (전체 용량 3.75MB) 비록 데이터를 읽을 때 재봉틀처럼 울리지만 손으로 문서 작성하는 것보단 낫잖아요?
+    furniture_id: "45031"
+    update_furniture_id: "45031"
+    furniture_postion: "13,6"
+    establish_type: "503"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    parameter_1: "1500,300"
+  }
+  {
+    establish_id: "50304"
+    establish_name: 플로피 디스크 기록 계기
+    room_id: "5"
+    description: 얼굴보다 커다란 양면 플로피 디스크를 50장 가진 대형 저장설비입니다. (전체 용량 3.75MB) 비록 데이터를 읽을 때 재봉틀처럼 울리지만 손으로 문서 작성하는 것보단 낫잖아요?
+    furniture_id: "45031"
+    update_furniture_id: "45031"
+    furniture_postion: "13,6"
+    establish_type: "503"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    parameter_1: "1800,400"
+  }
+  {
+    establish_id: "50305"
+    establish_name: 플로피 디스크 기록 계기
+    room_id: "5"
+    description: 얼굴보다 커다란 양면 플로피 디스크를 50장 가진 대형 저장설비입니다. (전체 용량 3.75MB) 비록 데이터를 읽을 때 재봉틀처럼 울리지만 손으로 문서 작성하는 것보단 낫잖아요?
+    furniture_id: "45031"
+    update_furniture_id: "45031"
+    furniture_postion: "13,6"
+    establish_type: "503"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    parameter_1: "2100,500"
+  }
+  {
+    establish_id: "50306"
+    establish_name: 하드 디스크 기록 계기
+    room_id: "5"
+    description: 신기술을 채용한 이 저장 설비는 무려 2.52GB의 데이터 샘플을 저장할 수 있어요. 그저 전술인형에게 “데이터를 읽을 때 반짝이는 건 정상적인 현상이고 방사능 같은 건 아니다”라고 설명하는 게 힘들었어요, 애초에 인형에게 방사능은 안 통하잖아요!
+    furniture_id: "45032"
+    update_furniture_id: "45032"
+    furniture_postion: "12,7"
+    establish_type: "503"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    parameter_1: "2400,600"
+  }
+  {
+    establish_id: "50307"
+    establish_name: 하드 디스크 기록 계기
+    room_id: "5"
+    description: 신기술을 채용한 이 저장 설비는 무려 2.52GB의 데이터 샘플을 저장할 수 있어요. 그저 전술인형에게 “데이터를 읽을 때 반짝이는 건 정상적인 현상이고 방사능 같은 건 아니다”라고 설명하는 게 힘들었어요, 애초에 인형에게 방사능은 안 통하잖아요!
+    furniture_id: "45032"
+    update_furniture_id: "45032"
+    furniture_postion: "12,7"
+    establish_type: "503"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    parameter_1: "2700,700"
+  }
+  {
+    establish_id: "50308"
+    establish_name: 하드 디스크 기록 계기
+    room_id: "5"
+    description: 신기술을 채용한 이 저장 설비는 무려 2.52GB의 데이터 샘플을 저장할 수 있어요. 그저 전술인형에게 “데이터를 읽을 때 반짝이는 건 정상적인 현상이고 방사능 같은 건 아니다”라고 설명하는 게 힘들었어요, 애초에 인형에게 방사능은 안 통하잖아요!
+    furniture_id: "45032"
+    update_furniture_id: "45032"
+    furniture_postion: "12,7"
+    establish_type: "503"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    parameter_1: "3000,800"
+  }
+  {
+    establish_id: "50309"
+    establish_name: 하드 디스크 기록 계기
+    room_id: "5"
+    description: 신기술을 채용한 이 저장 설비는 무려 2.52GB의 데이터 샘플을 저장할 수 있어요. 그저 전술인형에게 “데이터를 읽을 때 반짝이는 건 정상적인 현상이고 방사능 같은 건 아니다”라고 설명하는 게 힘들었어요, 애초에 인형에게 방사능은 안 통하잖아요!
+    furniture_id: "45032"
+    update_furniture_id: "45032"
+    furniture_postion: "12,7"
+    establish_type: "503"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    parameter_1: "3300,900"
+  }
+  {
+    establish_id: "50310"
+    establish_name: 고속 수냉식 기록 계기
+    room_id: "5"
+    description: 데이터 샘플 저장의 궁극체입니다. 읽고 쓰는 속도가 너무 빨라서 평소에 특별한 냉각액에 담궈야 해요. 과학의 힘이란 대단해!
+    furniture_id: "45033"
+    update_furniture_id: "45033"
+    furniture_postion: "11,2"
+    establish_type: "503"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    parameter_1: "3600,1000"
+  }
+  {
+    establish_id: "50400"
+    establish_name: 방치된 분석기
+    room_id: "5"
+    description: 방수포로 덮인 거대한 쇳덩어리입니다. 영문 모를 계기판과 단추들로 가득한데, 이 기계를 움직이면 데이터를 분석해서 강력한 무기의 설계도를 만들 수 있다고 상층부에서 말했어요.
+    furniture_id: "45040"
+    update_furniture_id: "45040"
+    furniture_postion: "23,6"
+    establish_type: "504"
+    parameter_1: "1"
+    parameter_2: "100"
+  }
+  {
+    establish_id: "50401"
+    establish_name: 통용 튜링 분석기
+    room_id: "5"
+    description: 튜링의 구상을 실현하기 위한 시도로, 설계는 이상적이었지만 쓰자고 하니 문제투성이로 분석 속도와 스레드 모두 엄청난 제한이 있지만, 이제서야 분석을 할 수 있게 됐어요.
+    furniture_id: "45041"
+    update_furniture_id: "45041"
+    furniture_postion: "23,6"
+    establish_type: "504"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    parameter_1: "2"
+    parameter_2: "95"
+  }
+  {
+    establish_id: "50402"
+    establish_name: 통용 튜링 분석기
+    room_id: "5"
+    description: 튜링의 구상을 실현하기 위한 시도로, 설계는 이상적이었지만 쓰자고 하니 문제투성이로 분석 속도와 스레드 모두 엄청난 제한이 있지만, 이제서야 분석을 할 수 있게 됐어요.
+    furniture_id: "45041"
+    update_furniture_id: "45041"
+    furniture_postion: "23,6"
+    establish_type: "504"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    parameter_1: "3"
+    parameter_2: "90"
+  }
+  {
+    establish_id: "50403"
+    establish_name: 통용 튜링 분석기
+    room_id: "5"
+    description: 튜링의 구상을 실현하기 위한 시도로, 설계는 이상적이었지만 쓰자고 하니 문제투성이로 분석 속도와 스레드 모두 엄청난 제한이 있지만, 이제서야 분석을 할 수 있게 됐어요.
+    furniture_id: "45041"
+    update_furniture_id: "45041"
+    furniture_postion: "23,6"
+    establish_type: "504"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    parameter_1: "4"
+    parameter_2: "85"
+  }
+  {
+    establish_id: "50404"
+    establish_name: 통용 튜링 분석기
+    room_id: "5"
+    description: 튜링의 구상을 실현하기 위한 시도로, 설계는 이상적이었지만 쓰자고 하니 문제투성이로 분석 속도와 스레드 모두 엄청난 제한이 있지만, 이제서야 분석을 할 수 있게 됐어요.
+    furniture_id: "45041"
+    update_furniture_id: "45041"
+    furniture_postion: "23,6"
+    establish_type: "504"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    parameter_1: "5"
+    parameter_2: "80"
+  }
+  {
+    establish_id: "50405"
+    establish_name: 통용 튜링 분석기
+    room_id: "5"
+    description: 튜링의 구상을 실현하기 위한 시도로, 설계는 이상적이었지만 쓰자고 하니 문제투성이로 분석 속도와 스레드 모두 엄청난 제한이 있지만, 이제서야 분석을 할 수 있게 됐어요.
+    furniture_id: "45041"
+    update_furniture_id: "45041"
+    furniture_postion: "23,6"
+    establish_type: "504"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    parameter_1: "6"
+    parameter_2: "75"
+  }
+  {
+    establish_id: "50406"
+    establish_name: 첨단 대형 분석기
+    room_id: "5"
+    description: 새로운 기계의 거대한 껍데기 안에는 무려 96K의 대형 내장 메모리와 고속 CPU를 탑재하여 분석 속도와 스레드 수 모두 새로운 경지에 도달했습니다. 그리고 쉴 새 없이 변화하는 불빛도 매우 현란하니, 그야말로 분석기의 유니콘이라 할 수 있겠죠.
+    furniture_id: "45042"
+    update_furniture_id: "45042"
+    furniture_postion: "23,7"
+    establish_type: "504"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    parameter_1: "7"
+    parameter_2: "70"
+  }
+  {
+    establish_id: "50407"
+    establish_name: 첨단 대형 분석기
+    room_id: "5"
+    description: 새로운 기계의 거대한 껍데기 안에는 무려 96K의 대형 내장 메모리와 고속 CPU를 탑재하여 분석 속도와 스레드 수 모두 새로운 경지에 도달했습니다. 그리고 쉴 새 없이 변화하는 불빛도 매우 현란하니, 그야말로 분석기의 유니콘이라 할 수 있겠죠.
+    furniture_id: "45042"
+    update_furniture_id: "45042"
+    furniture_postion: "23,7"
+    establish_type: "504"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    parameter_1: "8"
+    parameter_2: "65"
+  }
+  {
+    establish_id: "50408"
+    establish_name: 첨단 대형 분석기
+    room_id: "5"
+    description: 새로운 기계의 거대한 껍데기 안에는 무려 96K의 대형 내장 메모리와 고속 CPU를 탑재하여 분석 속도와 스레드 수 모두 새로운 경지에 도달했습니다. 그리고 쉴 새 없이 변화하는 불빛도 매우 현란하니, 그야말로 분석기의 유니콘이라 할 수 있겠죠.
+    furniture_id: "45042"
+    update_furniture_id: "45042"
+    furniture_postion: "23,7"
+    establish_type: "504"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    parameter_1: "9"
+    parameter_2: "60"
+  }
+  {
+    establish_id: "50409"
+    establish_name: 첨단 대형 분석기
+    room_id: "5"
+    description: 새로운 기계의 거대한 껍데기 안에는 무려 96K의 대형 내장 메모리와 고속 CPU를 탑재하여 분석 속도와 스레드 수 모두 새로운 경지에 도달했습니다. 그리고 쉴 새 없이 변화하는 불빛도 매우 현란하니, 그야말로 분석기의 유니콘이라 할 수 있겠죠.
+    furniture_id: "45042"
+    update_furniture_id: "45042"
+    furniture_postion: "23,7"
+    establish_type: "504"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    parameter_1: "10"
+    parameter_2: "55"
+  }
+  {
+    establish_id: "50410"
+    establish_name: 미래 분석 단말기
+    room_id: "5"
+    description: 컴퓨터의 연산속도가 아무리 빨라도 인간의 정교한 두뇌를 따라잡지는 못하죠. 양쪽의 장점을 결합하면 분석 속도가 경이로운 수준으로... 어라, 왜 멈춘 거지... 혹시 또 조는 건지 봐요!
+    furniture_id: "45043"
+    update_furniture_id: "45043"
+    furniture_postion: "23,2"
+    establish_type: "504"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    parameter_1: "10"
+    parameter_2: "25"
+  }
+  {
+    establish_id: "60001"
+    establish_name: 격납고 바닥
+    room_id: "6"
+    description: 격납고 바닥
+    furniture_id: "40052"
+    update_furniture_id: "40052"
+    furniture_postion: "2,2"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "60002"
+    establish_name: 격납고 벽지
+    room_id: "6"
+    description: 격납고 벽지
+    furniture_id: "40053"
+    update_furniture_id: "40053"
+    furniture_postion: "2,2"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "60003"
+    establish_name: 격납고 등 좌
+    room_id: "6"
+    description: 격납고 등 좌
+    furniture_id: "40054"
+    update_furniture_id: "40054"
+    furniture_postion: "16,2"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "60005"
+    establish_name: 격납고 모래 주머니
+    room_id: "6"
+    description: 격납고 모래 주머니
+    furniture_id: "40056"
+    update_furniture_id: "40056"
+    furniture_postion: "16,13"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "60100"
+    establish_name: 창고
+    room_id: "6"
+    description: AI를 통해 관리하는 칩셋 저장공간입니다. 습도와 온도를 조절해 회로 부식을 막는 동시에 자동으로 칩셋을 규칙적인 모양으로 조합해서 쌓아올려, 공간을 최대한으로 활용합니다.
+    furniture_id: "46010"
+    update_furniture_id: "46010"
+    furniture_postion: "2,2"
+    establish_type: "601"
+    parameter_1: "100"
+  }
+  {
+    establish_id: "60101"
+    establish_name: 창고
+    room_id: "6"
+    description: AI를 통해 관리하는 칩셋 저장공간입니다. 습도와 온도를 조절해 회로 부식을 막는 동시에 자동으로 칩셋을 규칙적인 모양으로 조합해서 쌓아올려, 공간을 최대한으로 활용합니다.
+    furniture_id: "46011"
+    update_furniture_id: "46011"
+    furniture_postion: "2,2"
+    establish_type: "601"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    parameter_1: "240"
+  }
+  {
+    establish_id: "60102"
+    establish_name: 창고
+    room_id: "6"
+    description: AI를 통해 관리하는 칩셋 저장공간입니다. 습도와 온도를 조절해 회로 부식을 막는 동시에 자동으로 칩셋을 규칙적인 모양으로 조합해서 쌓아올려, 공간을 최대한으로 활용합니다.
+    furniture_id: "46011"
+    update_furniture_id: "46011"
+    furniture_postion: "2,2"
+    establish_type: "601"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    parameter_1: "380"
+  }
+  {
+    establish_id: "60103"
+    establish_name: 창고
+    room_id: "6"
+    description: AI를 통해 관리하는 칩셋 저장공간입니다. 습도와 온도를 조절해 회로 부식을 막는 동시에 자동으로 칩셋을 규칙적인 모양으로 조합해서 쌓아올려, 공간을 최대한으로 활용합니다.
+    furniture_id: "46011"
+    update_furniture_id: "46011"
+    furniture_postion: "2,2"
+    establish_type: "601"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    parameter_1: "520"
+  }
+  {
+    establish_id: "60104"
+    establish_name: 창고
+    room_id: "6"
+    description: AI를 통해 관리하는 칩셋 저장공간입니다. 습도와 온도를 조절해 회로 부식을 막는 동시에 자동으로 칩셋을 규칙적인 모양으로 조합해서 쌓아올려, 공간을 최대한으로 활용합니다.
+    furniture_id: "46011"
+    update_furniture_id: "46011"
+    furniture_postion: "2,2"
+    establish_type: "601"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    parameter_1: "660"
+  }
+  {
+    establish_id: "60105"
+    establish_name: 창고
+    room_id: "6"
+    description: AI를 통해 관리하는 칩셋 저장공간입니다. 습도와 온도를 조절해 회로 부식을 막는 동시에 자동으로 칩셋을 규칙적인 모양으로 조합해서 쌓아올려, 공간을 최대한으로 활용합니다.
+    furniture_id: "46011"
+    update_furniture_id: "46011"
+    furniture_postion: "2,2"
+    establish_type: "601"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    parameter_1: "800"
+  }
+  {
+    establish_id: "60106"
+    establish_name: 창고
+    room_id: "6"
+    description: AI를 통해 관리하는 칩셋 저장공간입니다. 습도와 온도를 조절해 회로 부식을 막는 동시에 자동으로 칩셋을 규칙적인 모양으로 조합해서 쌓아올려, 공간을 최대한으로 활용합니다.
+    furniture_id: "46012"
+    update_furniture_id: "46012"
+    furniture_postion: "2,2"
+    establish_type: "601"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    parameter_1: "940"
+  }
+  {
+    establish_id: "60107"
+    establish_name: 창고
+    room_id: "6"
+    description: AI를 통해 관리하는 칩셋 저장공간입니다. 습도와 온도를 조절해 회로 부식을 막는 동시에 자동으로 칩셋을 규칙적인 모양으로 조합해서 쌓아올려, 공간을 최대한으로 활용합니다.
+    furniture_id: "46012"
+    update_furniture_id: "46012"
+    furniture_postion: "2,2"
+    establish_type: "601"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    parameter_1: "1080"
+  }
+  {
+    establish_id: "60108"
+    establish_name: 창고
+    room_id: "6"
+    description: AI를 통해 관리하는 칩셋 저장공간입니다. 습도와 온도를 조절해 회로 부식을 막는 동시에 자동으로 칩셋을 규칙적인 모양으로 조합해서 쌓아올려, 공간을 최대한으로 활용합니다.
+    furniture_id: "46012"
+    update_furniture_id: "46012"
+    furniture_postion: "2,2"
+    establish_type: "601"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    parameter_1: "1220"
+  }
+  {
+    establish_id: "60109"
+    establish_name: 창고
+    room_id: "6"
+    description: AI를 통해 관리하는 칩셋 저장공간입니다. 습도와 온도를 조절해 회로 부식을 막는 동시에 자동으로 칩셋을 규칙적인 모양으로 조합해서 쌓아올려, 공간을 최대한으로 활용합니다.
+    furniture_id: "46012"
+    update_furniture_id: "46012"
+    furniture_postion: "2,2"
+    establish_type: "601"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    parameter_1: "1360"
+  }
+  {
+    establish_id: "60110"
+    establish_name: 창고
+    room_id: "6"
+    description: AI를 통해 관리하는 칩셋 저장공간입니다. 습도와 온도를 조절해 회로 부식을 막는 동시에 자동으로 칩셋을 규칙적인 모양으로 조합해서 쌓아올려, 공간을 최대한으로 활용합니다.
+    furniture_id: "46013"
+    update_furniture_id: "46013"
+    furniture_postion: "2,2"
+    establish_type: "601"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    parameter_1: "1500"
+  }
+  {
+    establish_id: "60200"
+    establish_name: 간이 수리설비
+    room_id: "6"
+    description: 1인용 수복기기입니다. 생김새가 수상하지만 정말로 부상을 입은 중장비 부대를 수복할 수 있어요. 더욱 신기한 건 수복하고 나온 인형들 모두 뽀송뽀송해지고 몸에서 섬유 유연제의 향기가 난다는 것이에요.
+    furniture_id: "46030"
+    update_furniture_id: "46030"
+    furniture_postion: "7,11"
+    establish_type: "602"
+    parameter_1: "1"
+  }
+  {
+    establish_id: "60201"
+    establish_name: 소형 수리설비
+    room_id: "6"
+    description: 동시에 두 중장비 부대를 수복할 수 있게 되었고, 배수 기능과 전력 공급 기능도 개선되었습니다. 이러지 않으면 격납고에 홍수가 날 수도 있어요. 다행히, 물은 옆의 훈련장 모래주머니로 막을 수 있죠.
+    furniture_id: "46031"
+    update_furniture_id: "46031"
+    furniture_postion: "7,11"
+    establish_type: "602"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    parameter_1: "2"
+  }
+  {
+    establish_id: "60202"
+    establish_name: 중형 수리설비
+    room_id: "6"
+    description: 수복기기를 3대 진열한 대규모 수리설비입니다. 거기에 헹굼과 탈수 건조 기능까지 추가했고, 별도의 향수 주입 시스템은 여성 지휘관님들의 환영을 받았어요.
+    furniture_id: "46032"
+    update_furniture_id: "46032"
+    furniture_postion: "7,9"
+    establish_type: "602"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    parameter_1: "3"
+  }
+  {
+    establish_id: "60203"
+    establish_name: 대형 수리설비
+    room_id: "6"
+    description: 궁극의 4연장 수리시설! 향균과 알러 방지 기능을 넣어 수복하기 싫다고 떼쓰는 인형은 더 이상 핑계거리가 없어졌습니다. 특히 이 신형 기기는 에너지 효율 특등급을 받아 지휘관님도 파산의 위기를 모면했어요.
+    furniture_id: "46033"
+    update_furniture_id: "46033"
+    furniture_postion: "7,9"
+    establish_type: "602"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    parameter_1: "4"
+  }
+  {
+    establish_id: "60300"
+    establish_name: 종합 실내 훈련장
+    room_id: "6"
+    description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
+    furniture_id: "46020"
+    update_furniture_id: "46020"
+    furniture_postion: "18,3"
+    establish_type: "603"
+    parameter_1: "1"
+    parameter_2: "1"
+  }
+  {
+    establish_id: "60301"
+    establish_name: 종합 실내 훈련장
+    room_id: "6"
+    description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
+    furniture_id: "46020"
+    update_furniture_id: "46020"
+    furniture_postion: "18,3"
+    establish_type: "603"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    parameter_1: "1"
+    parameter_2: "3"
+  }
+  {
+    establish_id: "60302"
+    establish_name: 종합 실내 훈련장
+    room_id: "6"
+    description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
+    furniture_id: "46021"
+    update_furniture_id: "46021"
+    furniture_postion: "18,3"
+    establish_type: "603"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    parameter_1: "2"
+    parameter_2: "3"
+  }
+  {
+    establish_id: "60303"
+    establish_name: 종합 실내 훈련장
+    room_id: "6"
+    description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
+    furniture_id: "46021"
+    update_furniture_id: "46021"
+    furniture_postion: "18,3"
+    establish_type: "603"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    parameter_1: "2"
+    parameter_2: "5"
+  }
+  {
+    establish_id: "60304"
+    establish_name: 종합 실내 훈련장
+    room_id: "6"
+    description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
+    furniture_id: "46021"
+    update_furniture_id: "46021"
+    furniture_postion: "18,3"
+    establish_type: "603"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    parameter_1: "2"
+    parameter_2: "7"
+  }
+  {
+    establish_id: "60305"
+    establish_name: 종합 실내 훈련장
+    room_id: "6"
+    description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
+    furniture_id: "46022"
+    update_furniture_id: "46022"
+    furniture_postion: "18,3"
+    establish_type: "603"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    parameter_1: "3"
+    parameter_2: "7"
+  }
+  {
+    establish_id: "60306"
+    establish_name: 종합 실내 훈련장
+    room_id: "6"
+    description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
+    furniture_id: "46022"
+    update_furniture_id: "46022"
+    furniture_postion: "18,3"
+    establish_type: "603"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    parameter_1: "3"
+    parameter_2: "9"
+  }
+  {
+    establish_id: "60307"
+    establish_name: 종합 실내 훈련장
+    room_id: "6"
+    description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
+    furniture_id: "46022"
+    update_furniture_id: "46022"
+    furniture_postion: "18,3"
+    establish_type: "603"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    parameter_1: "3"
+    parameter_2: "11"
+  }
+  {
+    establish_id: "60308"
+    establish_name: 종합 실내 훈련장
+    room_id: "6"
+    description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
+    furniture_id: "46023"
+    update_furniture_id: "46023"
+    furniture_postion: "18,3"
+    establish_type: "603"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    parameter_1: "4"
+    parameter_2: "11"
+  }
+  {
+    establish_id: "60309"
+    establish_name: 종합 실내 훈련장
+    room_id: "6"
+    description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
+    furniture_id: "46023"
+    update_furniture_id: "46023"
+    furniture_postion: "18,3"
+    establish_type: "603"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    parameter_1: "4"
+    parameter_2: "13"
+  }
+  {
+    establish_id: "60310"
+    establish_name: 종합 실내 훈련장
+    room_id: "6"
+    description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
+    furniture_id: "46023"
+    update_furniture_id: "46023"
+    furniture_postion: "18,3"
+    establish_type: "603"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    parameter_1: "4"
+    parameter_2: "15"
+  }
+  {
+    establish_id: "60400"
+    establish_name: 엘리베이터 - 병영으로
+    room_id: "6"
+    description: 엘리베이터 - 병영으로
+    furniture_id: "40055"
+    update_furniture_id: "40055"
+    furniture_postion: "16,12"
+    establish_type: "604"
+  }
+  {
+    establish_id: "70001"
+    establish_name: 격납고 바닥
+    room_id: "7"
+    description: 격납고 바닥
+    furniture_id: "40057"
+    update_furniture_id: "40057"
+    furniture_postion: "2,2"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "70002"
+    establish_name: 격납고 벽지
+    room_id: "7"
+    description: 격납고 벽지
+    furniture_id: "40058"
+    update_furniture_id: "40058"
+    furniture_postion: "2,2"
+    establish_lv: "1"
+  }
+  {
+    establish_id: "70003"
+    establish_name: 텅 빈 액자1
+    room_id: "7"
+    description: 액자1
+    furniture_id: "40060"
+    update_furniture_id: "40060"
+    furniture_postion: "4,11"
+    establish_type: "706"
+    parameter_1: "110001"
+  }
+  {
+    establish_id: "70004"
+    establish_name: 텅 빈 액자2
+    room_id: "7"
+    description: 액자2
+    furniture_id: "40061"
+    update_furniture_id: "40061"
+    furniture_postion: "10,6"
+    establish_type: "707"
+    parameter_1: "110002"
+  }
+  {
+    establish_id: "70005"
+    establish_name: 텅 빈 액자3
+    room_id: "7"
+    description: 액자3
+    furniture_id: "40062"
+    update_furniture_id: "40062"
+    furniture_postion: "20,11"
+    establish_type: "708"
+    parameter_1: "110003"
+  }
+  {
+    establish_id: "70006"
+    establish_name: 텅 빈 액자4
+    room_id: "7"
+    description: 액자4
+    furniture_id: "40063"
+    update_furniture_id: "40063"
+    furniture_postion: "27,6"
+    establish_type: "709"
+    parameter_1: "110004"
+  }
+  {
+    establish_id: "70007"
+    establish_name: 전시대1
+    room_id: "7"
+    description: 전시대1
+    furniture_id: "40064"
+    update_furniture_id: "40064"
+    furniture_postion: "3,3"
+    establish_type: "702"
+  }
+  {
+    establish_id: "70008"
+    establish_name: 전시대2
+    room_id: "7"
+    description: 전시대2
+    furniture_id: "40065"
+    update_furniture_id: "40065"
+    furniture_postion: "10,3"
+    establish_type: "703"
+  }
+  {
+    establish_id: "70009"
+    establish_name: 전시대3
+    room_id: "7"
+    description: 전시대3
+    furniture_id: "40066"
+    update_furniture_id: "40066"
+    furniture_postion: "17,3"
+    establish_type: "704"
+  }
+  {
+    establish_id: "70010"
+    establish_name: 전시대4
+    room_id: "7"
+    description: 전시대4
+    furniture_id: "40067"
+    update_furniture_id: "40067"
+    furniture_postion: "24,3"
+    establish_type: "705"
+  }
+  {
+    establish_id: "70100"
+    establish_name: 엘리베이터 - 격납고로
+    room_id: "7"
+    description: 엘리베이터 - 격납고로
+    furniture_id: "40059"
+    update_furniture_id: "40059"
+    furniture_postion: "13,10"
+    establish_type: "701"
+  }
+  {
+    establish_id: "80001"
+    establish_name: 벽지
+    room_id: "8"
+    description: 벽지
+    furniture_id: "40068"
+    update_furniture_id: "40068"
+    furniture_postion: "0,0"
+  }
+  {
+    establish_id: "80002"
+    establish_name: 장판
+    room_id: "8"
+    description: 장판
+    furniture_id: "40069"
+    update_furniture_id: "40069"
+    furniture_postion: "0,0"
+  }
+  {
+    establish_id: "80003"
+    establish_name: 벽장식
+    room_id: "8"
+    description: 벽장식
+    furniture_id: "40070"
+    update_furniture_id: "40070"
+    furniture_postion: "28,9"
+  }
+  {
+    establish_id: "80004"
+    establish_name: 유리격리벽
+    room_id: "8"
+    description: 유리격리벽
+    furniture_id: "40071"
+    update_furniture_id: "40071"
+    furniture_postion: "16,10"
+  }
+  {
+    establish_id: "80005"
+    establish_name: 출입구+카펫
+    room_id: "8"
+    description: 출입구+카펫
+    furniture_id: "40072"
+    update_furniture_id: "40072"
+    furniture_postion: "28,0"
+  }
+  {
+    establish_id: "80006"
+    establish_name: 등+바닥 장식
+    room_id: "8"
+    description: 등+바닥 장식
+    furniture_id: "40073"
+    update_furniture_id: "40073"
+    furniture_postion: "18,8"
+  }
+  {
+    establish_id: "80007"
+    establish_name: 실시간 중계 콘솔
+    room_id: "8"
+    description: 실시간 중계 콘솔
+    furniture_id: "40074"
+    update_furniture_id: "40074"
+    furniture_postion: "23,16"
+    establish_type: "802"
+  }
+  {
+    establish_id: "80009"
+    establish_name: 크레인(벽)
+    room_id: "8"
+    description: 크레인(벽)
+    furniture_id: "40076"
+    update_furniture_id: "40076"
+    furniture_postion: "1,4"
+  }
+  {
+    establish_id: "80010"
+    establish_name: 크레인(바닥)
+    room_id: "8"
+    description: 크레인(바닥)
+    furniture_id: "40077"
+    update_furniture_id: "40077"
+    furniture_postion: "15,6"
+  }
+  {
+    establish_id: "80011"
+    establish_name: 블랙 마켓
+    room_id: "8"
+    description: 블랙 마켓
+    furniture_id: "40078"
+    update_furniture_id: "40078"
+    furniture_postion: "0,9"
+    establish_type: "804"
+  }
+  {
+    establish_id: "80012"
+    establish_name: 드론 출입구
+    room_id: "8"
+    description: 드론 출입구
+    furniture_id: "40079"
+    update_furniture_id: "40079"
+    furniture_postion: "31,4"
+  }
+  {
+    establish_id: "80100"
+    establish_name: 방치된 제어콘솔
+    room_id: "8"
+    description: 수년간 수리하지 않고 방치된 갑문 제어콘솔입니다. 당신을 미지의 황무지로 향한 장대한 모험에 초대하고 있습니다.
+    furniture_id: "48010"
+    update_furniture_id: "48010"
+    furniture_postion: "18,14"
+    establish_type: "801"
+    parameter_1: "3,1"
+    parameter_2: "1"
+    parameter_3: "4"
+  }
+  {
+    establish_id: "80101"
+    establish_name: 낡은 제어콘솔
+    room_id: "8"
+    description: 브라운관 4개가 함께 눈부신 섬광을 내뿜는다. 그중 한 개는 아예 몇 번 두들겨야 화면이 제대로 나온다. 이럴 줄 알았으면 그냥 카리나 보고 탐색 계획을 종이에 적어두라고 할걸...
+    furniture_id: "48011"
+    update_furniture_id: "48011"
+    furniture_postion: "18,14"
+    establish_type: "801"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    parameter_1: "3,1"
+    parameter_2: "1"
+    parameter_3: "5"
+  }
+  {
+    establish_id: "80102"
+    establish_name: 낡은 제어콘솔
+    room_id: "8"
+    description: 브라운관 4개가 함께 눈부신 섬광을 내뿜는다. 그중 한 개는 아예 몇 번 두들겨야 화면이 제대로 나온다. 이럴 줄 알았으면 그냥 카리나 보고 탐색 계획을 종이에 적어두라고 할걸...
+    furniture_id: "48011"
+    update_furniture_id: "48011"
+    furniture_postion: "18,14"
+    establish_type: "801"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    parameter_1: "4,1"
+    parameter_2: "1"
+    parameter_3: "5"
+  }
+  {
+    establish_id: "80103"
+    establish_name: 낡은 제어콘솔
+    room_id: "8"
+    description: 브라운관 4개가 함께 눈부신 섬광을 내뿜는다. 그중 한 개는 아예 몇 번 두들겨야 화면이 제대로 나온다. 이럴 줄 알았으면 그냥 카리나 보고 탐색 계획을 종이에 적어두라고 할걸...
+    furniture_id: "48011"
+    update_furniture_id: "48011"
+    furniture_postion: "18,14"
+    establish_type: "801"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    parameter_1: "4,1"
+    parameter_2: "2"
+    parameter_3: "5"
+  }
+  {
+    establish_id: "80104"
+    establish_name: 낡은 제어콘솔
+    room_id: "8"
+    description: 브라운관 4개가 함께 눈부신 섬광을 내뿜는다. 그중 한 개는 아예 몇 번 두들겨야 화면이 제대로 나온다. 이럴 줄 알았으면 그냥 카리나 보고 탐색 계획을 종이에 적어두라고 할걸...
+    furniture_id: "48011"
+    update_furniture_id: "48011"
+    furniture_postion: "18,14"
+    establish_type: "801"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    parameter_1: "4,2"
+    parameter_2: "2"
+    parameter_3: "5"
+  }
+  {
+    establish_id: "80105"
+    establish_name: 낡은 제어콘솔
+    room_id: "8"
+    description: 브라운관 4개가 함께 눈부신 섬광을 내뿜는다. 그중 한 개는 아예 몇 번 두들겨야 화면이 제대로 나온다. 이럴 줄 알았으면 그냥 카리나 보고 탐색 계획을 종이에 적어두라고 할걸...
+    furniture_id: "48011"
+    update_furniture_id: "48011"
+    furniture_postion: "18,14"
+    establish_type: "801"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    parameter_1: "4,2"
+    parameter_2: "2"
+    parameter_3: "6"
+  }
+  {
+    establish_id: "80106"
+    establish_name: 자동 제어콘솔
+    room_id: "8"
+    description: 업그레이드한 8M 메모리와 107M 드라이브 덕분에 더 많은 인형을 탐색에 보낼 수 있게 됐다. 거기에 더해 "철혈 본부 리턴즈 3D"까지 실행할 수 있다.
+    furniture_id: "48012"
+    update_furniture_id: "48012"
+    furniture_postion: "18,14"
+    establish_type: "801"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    parameter_1: "4,2"
+    parameter_2: "2"
+    parameter_3: "7"
+  }
+  {
+    establish_id: "80107"
+    establish_name: 자동 제어콘솔
+    room_id: "8"
+    description: 업그레이드한 8M 메모리와 107M 드라이브 덕분에 더 많은 인형을 탐색에 보낼 수 있게 됐다. 거기에 더해 "철혈 본부 리턴즈 3D"까지 실행할 수 있다.
+    furniture_id: "48012"
+    update_furniture_id: "48012"
+    furniture_postion: "18,14"
+    establish_type: "801"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    parameter_1: "4,2"
+    parameter_2: "3"
+    parameter_3: "7"
+  }
+  {
+    establish_id: "80108"
+    establish_name: 자동 제어콘솔
+    room_id: "8"
+    description: 업그레이드한 8M 메모리와 107M 드라이브 덕분에 더 많은 인형을 탐색에 보낼 수 있게 됐다. 거기에 더해 "철혈 본부 리턴즈 3D"까지 실행할 수 있다.
+    furniture_id: "48012"
+    update_furniture_id: "48012"
+    furniture_postion: "18,14"
+    establish_type: "801"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    parameter_1: "5,2"
+    parameter_2: "3"
+    parameter_3: "7"
+  }
+  {
+    establish_id: "80109"
+    establish_name: 자동 제어콘솔
+    room_id: "8"
+    description: 업그레이드한 8M 메모리와 107M 드라이브 덕분에 더 많은 인형을 탐색에 보낼 수 있게 됐다. 거기에 더해 "철혈 본부 리턴즈 3D"까지 실행할 수 있다.
+    furniture_id: "48012"
+    update_furniture_id: "48012"
+    furniture_postion: "18,14"
+    establish_type: "801"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    parameter_1: "5,3"
+    parameter_2: "3"
+    parameter_3: "7"
+  }
+  {
+    establish_id: "80110"
+    establish_name: 첨단 제어콘솔
+    room_id: "8"
+    description: 최신형 제어콘솔은 더 이상 부팅에 5분 걸리거나 불량 섹터가 자꾸 발생하지 않게 됐습니다. 그런데 어째선지 지휘관님의 업무효율은 오히려 떨어졌어요. 뭐, 인형의 효율이 상승했으니 됐죠~
+    furniture_id: "48013"
+    update_furniture_id: "48013"
+    furniture_postion: "18,14"
+    establish_type: "801"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    parameter_1: "5,3"
+    parameter_2: "3"
+    parameter_3: "8"
+  }
+  {
+    establish_id: "80300"
+    establish_name: 초급 전리품 캐비닛
+    room_id: "8"
+    description: 간단한 1층 캐비닛입니다. 탐색에서 찾은 전리품을 어느 정도 보관할 수 있으니 제때에 수령해주세요. 전리품은 방 왼쪽에 있는 카리나에게서 필요한 보급품과 교환할 수 있습니다.
+    furniture_id: "48031"
+    update_furniture_id: "48031"
+    furniture_postion: "3,5"
+    establish_type: "803"
+    parameter_1: "2,3"
+    parameter_2: "4,6"
+  }
+  {
+    establish_id: "80301"
+    establish_name: 초급 전리품 캐비닛
+    room_id: "8"
+    description: 간단한 1층 캐비닛입니다. 탐색에서 찾은 전리품을 어느 정도 보관할 수 있으니 제때에 수령해주세요. 전리품은 방 왼쪽에 있는 카리나에게서 필요한 보급품과 교환할 수 있습니다.
+    furniture_id: "48031"
+    update_furniture_id: "48031"
+    furniture_postion: "3,5"
+    establish_type: "803"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    parameter_1: "4,3"
+    parameter_2: "4,6"
+  }
+  {
+    establish_id: "80302"
+    establish_name: 중급 전리품 캐비닛
+    room_id: "8"
+    description: 2층 구조가 된 캐비닛입니다. 용량이 늘어나 수시로 확인할 번거로움은 줄었지만 비우는 것을 까먹는 시간은 오히려 늘었습니다. 그래서 그리폰의 빨래통의 용량은 겨우 1리터인 겁니다.
+    furniture_id: "48032"
+    update_furniture_id: "48032"
+    furniture_postion: "3,5"
+    establish_type: "803"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    parameter_1: "4,6"
+    parameter_2: "6,9"
+  }
+  {
+    establish_id: "80303"
+    establish_name: 중급 전리품 캐비닛
+    room_id: "8"
+    description: 2층 구조가 된 캐비닛입니다. 용량이 늘어나 수시로 확인할 번거로움은 줄었지만 비우는 것을 까먹는 시간은 오히려 늘었습니다. 그래서 그리폰의 빨래통의 용량은 겨우 1리터인 겁니다.
+    furniture_id: "48032"
+    update_furniture_id: "48032"
+    furniture_postion: "3,5"
+    establish_type: "803"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    parameter_1: "6,6"
+    parameter_2: "6,9"
+  }
+  {
+    establish_id: "80304"
+    establish_name: 고급 전리품 캐비닛
+    room_id: "8"
+    description: 최고급 캐비닛입니다. 멋진 로봇팔이 위아래로 움직이지만 별로 도움은 안 되고 결국 캐비닛을 비우는 일은 지휘관님의 몫입니다.
+    furniture_id: "48033"
+    update_furniture_id: "48033"
+    furniture_postion: "3,5"
+    establish_type: "803"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    parameter_1: "6,9"
+    parameter_2: "8,12"
+  }
+  {
+    establish_id: "80305"
+    establish_name: 고급 전리품 캐비닛
+    room_id: "8"
+    description: 최고급 캐비닛입니다. 멋진 로봇팔이 위아래로 움직이지만 별로 도움은 안 되고 결국 캐비닛을 비우는 일은 지휘관님의 몫입니다.
+    furniture_id: "48033"
+    update_furniture_id: "48033"
+    furniture_postion: "3,5"
+    establish_type: "803"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    parameter_1: "8,9"
+    parameter_2: "8,12"
+  }
+  {
+    establish_id: "80306"
+    establish_name: 고급 전리품 캐비닛
+    room_id: "8"
+    description: 최고급 캐비닛입니다. 멋진 로봇팔이 위아래로 움직이지만 별로 도움은 안 되고 결국 캐비닛을 비우는 일은 지휘관님의 몫입니다.
+    furniture_id: "48033"
+    update_furniture_id: "48033"
+    furniture_postion: "3,5"
+    establish_type: "803"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    parameter_1: "8,12"
+    parameter_2: "8,12"
+  }
+  {
+    establish_id: "90001"
+    establish_name: 벽지*
+    room_id: "9"
+    description: 벽지*
+    furniture_id: "40080"
+    update_furniture_id: "40080"
+    furniture_postion: "0,0"
+  }
+  {
+    establish_id: "90002"
+    establish_name: 바닥*
+    room_id: "9"
+    description: 바닥*
+    furniture_id: "40081"
+    update_furniture_id: "40081"
+    furniture_postion: "0,0"
+  }
+  {
+    establish_id: "90003"
+    establish_name: 전경*
+    room_id: "9"
+    description: 전경*
+    furniture_id: "40082"
+    update_furniture_id: "40082"
+    furniture_postion: "12,14"
+  }
+  {
+    establish_id: "90004"
+    establish_name: 카펫*
+    room_id: "9"
+    description: 카펫*
+    furniture_id: "40083"
+    update_furniture_id: "40083"
+    furniture_postion: "7,10"
+  }
+  {
+    establish_id: "90005"
+    establish_name: 연구대 받침*
+    room_id: "9"
+    description: 연구대 받침*
+    furniture_id: "40084"
+    update_furniture_id: "40084"
+    furniture_postion: "28,2"
+  }
+  {
+    establish_id: "90006"
+    establish_name: 포획센터*
+    room_id: "9"
+    description: 포획센터*
+    furniture_id: "49020"
+    update_furniture_id: "49020"
+    furniture_postion: "31,10"
+  }
+  {
+    establish_id: "90100"
+    establish_name: 펄스 반응로
+    room_id: "9"
+    description: 전자기 펄스를 생산 및 저장합니다. 승급해 생산 속도와 저장 한도를 높일 수 있습니다.
+    furniture_id: "49010"
+    update_furniture_id: "49010"
+    furniture_postion: "0,5"
+    establish_type: "901"
+    parameter_1: 60480:1
+    parameter_2: "9"
+  }
+  {
+    establish_id: "90101"
+    establish_name: 펄스 반응로
+    room_id: "9"
+    description: 전자기 펄스를 생산 및 저장합니다. 승급해 생산 속도와 저장 한도를 높일 수 있습니다.
+    furniture_id: "49011"
+    update_furniture_id: "49011"
+    furniture_postion: "0,5"
+    establish_type: "901"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+    parameter_1: 57600:1
+    parameter_2: "9"
+  }
+  {
+    establish_id: "90102"
+    establish_name: 펄스 반응로
+    room_id: "9"
+    description: 전자기 펄스를 생산 및 저장합니다. 승급해 생산 속도와 저장 한도를 높일 수 있습니다.
+    furniture_id: "49011"
+    update_furniture_id: "49011"
+    furniture_postion: "0,5"
+    establish_type: "901"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+    parameter_1: 54982:1
+    parameter_2: "10"
+  }
+  {
+    establish_id: "90103"
+    establish_name: 펄스 반응로
+    room_id: "9"
+    description: 전자기 펄스를 생산 및 저장합니다. 승급해 생산 속도와 저장 한도를 높일 수 있습니다.
+    furniture_id: "49011"
+    update_furniture_id: "49011"
+    furniture_postion: "0,5"
+    establish_type: "901"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+    parameter_1: 54982:1
+    parameter_2: "11"
+  }
+  {
+    establish_id: "90104"
+    establish_name: 펄스 반응로
+    room_id: "9"
+    description: 전자기 펄스를 생산 및 저장합니다. 승급해 생산 속도와 저장 한도를 높일 수 있습니다.
+    furniture_id: "49011"
+    update_furniture_id: "49011"
+    furniture_postion: "0,5"
+    establish_type: "901"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+    parameter_1: 52591:1
+    parameter_2: "11"
+  }
+  {
+    establish_id: "90105"
+    establish_name: 펄스 반응로
+    room_id: "9"
+    description: 전자기 펄스를 생산 및 저장합니다. 승급해 생산 속도와 저장 한도를 높일 수 있습니다.
+    furniture_id: "49011"
+    update_furniture_id: "49011"
+    furniture_postion: "0,5"
+    establish_type: "901"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+    parameter_1: 50400:1
+    parameter_2: "11"
+  }
+  {
+    establish_id: "90106"
+    establish_name: 펄스 반응로
+    room_id: "9"
+    description: 전자기 펄스를 생산 및 저장합니다. 승급해 생산 속도와 저장 한도를 높일 수 있습니다.
+    furniture_id: "49012"
+    update_furniture_id: "49012"
+    furniture_postion: "0,5"
+    establish_type: "901"
+    establish_lv: "6"
+    upgrade_coin: "250"
+    upgrade_time: "14400"
+    parameter_1: 50400:1
+    parameter_2: "12"
+  }
+  {
+    establish_id: "90107"
+    establish_name: 펄스 반응로
+    room_id: "9"
+    description: 전자기 펄스를 생산 및 저장합니다. 승급해 생산 속도와 저장 한도를 높일 수 있습니다.
+    furniture_id: "49012"
+    update_furniture_id: "49012"
+    furniture_postion: "0,5"
+    establish_type: "901"
+    establish_lv: "7"
+    upgrade_coin: "350"
+    upgrade_time: "28800"
+    parameter_1: 46523:1
+    parameter_2: "12"
+  }
+  {
+    establish_id: "90108"
+    establish_name: 펄스 반응로
+    room_id: "9"
+    description: 전자기 펄스를 생산 및 저장합니다. 승급해 생산 속도와 저장 한도를 높일 수 있습니다.
+    furniture_id: "49012"
+    update_furniture_id: "49012"
+    furniture_postion: "0,5"
+    establish_type: "901"
+    establish_lv: "8"
+    upgrade_coin: "450"
+    upgrade_time: "43200"
+    parameter_1: 46523:1
+    parameter_2: "13"
+  }
+  {
+    establish_id: "90109"
+    establish_name: 펄스 반응로
+    room_id: "9"
+    description: 전자기 펄스를 생산 및 저장합니다. 승급해 생산 속도와 저장 한도를 높일 수 있습니다.
+    furniture_id: "49012"
+    update_furniture_id: "49012"
+    furniture_postion: "0,5"
+    establish_type: "901"
+    establish_lv: "9"
+    upgrade_coin: "600"
+    upgrade_time: "64800"
+    parameter_1: 43200:1
+    parameter_2: "13"
+  }
+  {
+    establish_id: "90110"
+    establish_name: 펄스 반응로
+    room_id: "9"
+    description: 전자기 펄스를 생산 및 저장합니다. 승급해 생산 속도와 저장 한도를 높일 수 있습니다.
+    furniture_id: "49013"
+    update_furniture_id: "49013"
+    furniture_postion: "0,5"
+    establish_type: "901"
+    establish_lv: "10"
+    upgrade_coin: "800"
+    upgrade_time: "86400"
+    parameter_1: 43200:1
+    parameter_2: "14"
+  }
+  {
+    establish_id: "90200"
+    establish_name: 전술칩 개발대
+    room_id: "9"
+    description: 고급 개발대는 더 다양한 전술칩을 개발할 수 있습니다.
+    furniture_id: "49030"
+    update_furniture_id: "49030"
+    furniture_postion: "10,11"
+    establish_type: "902"
+  }
+  {
+    establish_id: "90201"
+    establish_name: 전술칩 개발대
+    room_id: "9"
+    description: 고급 개발대는 더 다양한 전술칩을 개발할 수 있습니다.
+    furniture_id: "49031"
+    update_furniture_id: "49031"
+    furniture_postion: "10,11"
+    establish_type: "902"
+    establish_lv: "1"
+    upgrade_coin: "5"
+    upgrade_time: "60"
+  }
+  {
+    establish_id: "90202"
+    establish_name: 전술칩 개발대
+    room_id: "9"
+    description: 고급 개발대는 더 다양한 전술칩을 개발할 수 있습니다.
+    furniture_id: "49031"
+    update_furniture_id: "49031"
+    furniture_postion: "10,11"
+    establish_type: "902"
+    establish_lv: "2"
+    upgrade_coin: "50"
+    upgrade_time: "300"
+  }
+  {
+    establish_id: "90203"
+    establish_name: 전술칩 개발대
+    room_id: "9"
+    description: 고급 개발대는 더 다양한 전술칩을 개발할 수 있습니다.
+    furniture_id: "49032"
+    update_furniture_id: "49032"
+    furniture_postion: "10,11"
+    establish_type: "902"
+    establish_lv: "3"
+    upgrade_coin: "100"
+    upgrade_time: "1800"
+  }
+  {
+    establish_id: "90204"
+    establish_name: 전술칩 개발대
+    room_id: "9"
+    description: 고급 개발대는 더 다양한 전술칩을 개발할 수 있습니다.
+    furniture_id: "49032"
+    update_furniture_id: "49032"
+    furniture_postion: "10,11"
+    establish_type: "902"
+    establish_lv: "4"
+    upgrade_coin: "150"
+    upgrade_time: "3600"
+  }
+  {
+    establish_id: "90205"
+    establish_name: 전술칩 개발대
+    room_id: "9"
+    description: 고급 개발대는 더 다양한 전술칩을 개발할 수 있습니다.
+    furniture_id: "49033"
+    update_furniture_id: "49033"
+    furniture_postion: "10,11"
+    establish_type: "902"
+    establish_lv: "5"
+    upgrade_coin: "200"
+    upgrade_time: "7200"
+  }
+  {
+    establish_id: "90400"
+    establish_name: 대칭 주입 드라이버
+    room_id: "9"
+    description: 동명 혼합세력유닛의 레벨, 이더넷 개발 수준, 피크분석 레벨, 호감도, 스킬 레벨을 교환할 수 있습니다.
+    furniture_id: "49041"
+    update_furniture_id: "49041"
+    furniture_postion: "19,0"
+    establish_type: "904"
+  }
+]

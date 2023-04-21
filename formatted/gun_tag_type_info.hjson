@@ -1,0 +1,11 @@
+[
+  {
+    type_name: 전부
+    en_name: All
+  }
+  {
+    id: "1"
+    type_name: 전투
+    en_name: BATTLE
+  }
+]

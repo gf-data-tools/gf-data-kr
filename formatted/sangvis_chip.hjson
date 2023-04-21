@@ -1,0 +1,147 @@
+[
+  {
+    id: 1001
+    name: 야간 시야
+    type: 1
+    code: NightView
+    des: 야간 작전에서 추가 시야를 1칸 제공합니다.
+    dev_battery_num: 1000
+    dev_time: 300
+    passive_mission_skill: 30001:1
+  }
+  {
+    id: 1002
+    name: 야시 능력
+    unlock_furniture_level: 1
+    type: 1
+    code: NightHit
+    des: 야간 작전에서 명중 페널티를 100% 상쇄합니다.
+    dev_battery_num: 1000
+    dev_time: 600
+    passive_mission_skill: 30002:1
+    night_view_percent: 100
+  }
+  {
+    id: 1003
+    name: 기습 행동
+    unlock_furniture_level: 3
+    type: 1
+    code: ExtraAp
+    des: 턴마다 제대가 처음 이동할 경우 행동점수를 소비하지 않습니다.
+    dev_battery_num: 1000
+    dev_time: 1800
+    passive_mission_skill: 30003:1,2
+  }
+  {
+    id: 1004
+    name: 연료 충분
+    unlock_furniture_level: 5
+    type: 1
+    code: ExtraAmmo
+    des: 제대가 식량과 탄약을 추가로 2칸 소지할 수 있습니다.
+    dev_battery_num: 1000
+    dev_time: 3600
+    passive_mission_skill: 30005:1
+  }
+  {
+    id: 1005
+    name: 검소절약
+    unlock_furniture_level: 4
+    type: 1
+    code: AmmoReduce
+    des: 제대를 배치하고 첫 전투에서 탄약과 식량을 소모하지 않고 화력이 15% 상승합니다.
+    dev_battery_num: 1000
+    dev_time: 2400
+    passive_mission_skill: 30004:1
+  }
+  {
+    id: 2003
+    name: 소매치기
+    unlock_furniture_level: 4
+    type: 2
+    code: Steal
+    des: 인접한 적 부대의 드랍 보상을 즉시 획득합니다. 같은 부대 대상으로 2회 이상 사용할 수 없습니다.
+    dev_battery_num: 1000
+    dev_time: 2400
+    active_special_skill: "102"
+    active_special_skill_cost: "0,1,1"
+  }
+  {
+    id: 2004
+    name: 쾌속보급
+    unlock_furniture_level: 5
+    type: 2
+    code: InstantSupply
+    des: 인접 아군 제대에게 보급품을 공수 투하합니다.
+    dev_battery_num: 1000
+    dev_time: 3600
+    active_special_skill: "104"
+    active_special_skill_cd: "2"
+    active_special_skill_cost: "3,0,0"
+  }
+  {
+    id: 3001
+    name: 약화
+    type: 3
+    code: Weak
+    des: 자신 주위 2칸 안에 있는 적 제대의 화력을 12% 감소시킵니다.
+    dev_battery_num: 1000
+    dev_time: 300
+    chip_skill: "3001"
+  }
+  {
+    id: 3002
+    name: 투혼
+    unlock_furniture_level: 1
+    type: 3
+    code: Support
+    des: 자신 주위 3칸 안에 있는 아군 제대의 화력을 6% 상승시킵니다.
+    dev_battery_num: 1000
+    dev_time: 300
+    chip_skill: "3002"
+  }
+  {
+    id: 3003
+    name: 고독한 늑대
+    unlock_furniture_level: 2
+    type: 3
+    code: SeKiRo
+    des: 인접한 아군 제대가 없을 경우, 자신 제대 전체 화력을 10% 상승시킵니다.
+    dev_battery_num: 1000
+    dev_time: 1200
+    chip_skill: "3003"
+  }
+  {
+    id: 3004
+    name: 철통수비
+    unlock_furniture_level: 4
+    type: 3
+    code: Defence
+    des: 아군이 점령한 거점에서 전투 시, 자신 제대 전체 회피를 100%, 장갑을 50% 상승시킵니다.
+    dev_battery_num: 1000
+    dev_time: 2400
+    chip_skill: "3004"
+  }
+  {
+    id: 3005
+    name: 인해전술
+    unlock_furniture_level: 3
+    type: 3
+    code: ArmyPower
+    des: 제대에 유닛이 많을수록 전체 화력이 15%까지 상승한다.
+    dev_battery_num: 1000
+    dev_time: 1800
+    chip_skill: "3007"
+  }
+  {
+    id: 3006
+    name: 가세
+    unlock_furniture_level: 3
+    type: 3
+    code: SupportPower
+    des: 자신 주위 2칸 이내 아군 제대가 전투할 때 증원으로 등장한 유닛의 화력이 20% 상승합니다. 중첩 불가능.
+    dev_battery_num: 1000
+    dev_time: 1800
+    chip_skill: "3008"
+  }
+]
