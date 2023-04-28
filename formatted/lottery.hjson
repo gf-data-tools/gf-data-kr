@@ -1,0 +1,44 @@
+[
+  {
+    id: 1
+    item: 1600050
+    name: "1"
+    first_info: OTS-14 크라슐라
+    first_count: 전서버 5개
+    first_code: 3.png
+    second_info: 넨도로이드
+    second_count: 전서버 1000개
+    second_code: 4.png
+    third_info: 열쇠고리
+    third_count: 전서버 4000개
+    third_code: 5.png
+  }
+  {
+    id: 2
+    item: 1600050
+    name: "2"
+    first_info: OTS-14 크라슐라1
+    first_count: 전서버 5개
+    first_code: 3.png
+    second_info: 넨도로이드1
+    second_count: 전서버 1000개
+    second_code: 4.png
+    third_info: 열쇠고리1
+    third_count: 전서버 4000개
+    third_code: 5.png
+  }
+  {
+    id: 3
+    item: 1600050
+    name: "3"
+    first_info: OTS-14 크라슐라2
+    first_count: 전서버 5개
+    first_code: 3.png
+    second_info: 넨도로이드2
+    second_count: 전서버 1000개
+    second_code: 4.png
+    third_info: 열쇠고리2
+    third_count: 전서버 4000개
+    third_code: 5.png
+  }
+]

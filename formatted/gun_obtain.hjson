@@ -393,27 +393,27 @@
   }
   {
     obtain_id: 251
-    description: gun_obtain-10000251
+    description: 기간한정 이벤트 【세로변형】에서 구조 가능
   }
   {
     obtain_id: 252
-    description: gun_obtain-10000252
+    description: 기간한정 이벤트 【세로변형】 클리어 보상
   }
   {
     obtain_id: 253
-    description: gun_obtain-10000253
+    description: 기간한정 이벤트 【세로변형】의 보급상자로부터 획득
   }
   {
     obtain_id: 254
-    description: 기간 한정 이벤트 【새하얀 물결, 꽃같은 얼굴】 클리어 보상
+    description: 기간한정 이벤트 【새하얀 물결, 꽃같은 얼굴】 클리어 보상
   }
   {
     obtain_id: 255
-    description: 기간 한정 이벤트 【새하얀 물결, 꽃같은 얼굴】 한정 구출
+    description: 기간한정 이벤트 【새하얀 물결, 꽃같은 얼굴】에서 구조 가능
   }
   {
     obtain_id: 256
-    description: 기간 한정 이벤트 【새하얀 물결, 꽃같은 얼굴】 상점 교환
+    description: 기간한정 이벤트 【새하얀 물결, 꽃같은 얼굴】 상점 교환
   }
   {
     obtain_id: 301
@@ -1121,70 +1121,75 @@
   }
   {
     obtain_id: 3079
-    description: gun_obtain-10003079
+    description: <세로변형> 랭킹 전역 1280000점 보상
   }
   {
     obtain_id: 3080
-    description: 기간한정 이벤트 <사로스 주기> 재화상점 교환
+    description: 기간한정 이벤트 <사로스 주기> 상점 교환
   }
   {
     obtain_id: 3081
-    description: 2023년 1월 출석 보상
+    description: 2023년 1월 출석보상
   }
   {
     obtain_id: 3082
-    description: 2023년 2월 출석 보상
+    description: 2023년 2월 출석보상
   }
   {
     obtain_id: 3083
-    description: 2023년 3월 출석 보상
+    description: 2023년 3월 출석보상
   }
   {
     obtain_id: 3084
-    description: 2023년 4월 출석 보상
+    description: 2023년 4월 출석보상
   }
   {
     obtain_id: 3085
-    description: 2023년 5월 출석 보상
+    description: 2023년 5월 출석보상
   }
   {
     obtain_id: 3086
-    description: 2023년 6월 출석 보상
+    description: 2023년 6월 출석보상
   }
   {
     obtain_id: 3087
-    description: 2023년 7월 출석 보상
+    description: 2023년 7월 출석보상
   }
   {
     obtain_id: 3088
-    description: 2023년 8월 출석 보상
+    description: 2023년 8월 출석보상
   }
   {
     obtain_id: 3089
-    description: 2023년 9월 출석 보상
+    description: 2023년 9월 출석보상
   }
   {
     obtain_id: 3090
-    description: 2023년 10월 출석 보상
+    description: 2023년 10월 출석보상
   }
   {
     obtain_id: 3091
-    description: 2023년 11월 출석 보상
+    description: 2023년 11월 출석보상
   }
   {
     obtain_id: 3092
-    description: 2023년 12월 출석 보상
+    description: 2023년 12월 출석보상
   }
   {
     obtain_id: 3093
-    description: 한정 이벤트 <문제상자 가설> 재화 교환
+    description: 기간한정 이벤트 <문제상자 가설> 상점 교환
   }
   {
     obtain_id: 3094
-    description: 기간 한정 이벤트 <새하얀 물결, 꽃같은 얼굴> 상점 교환
+    description: 기간한정 이벤트 <새하얀 물결, 꽃같은 얼굴> 상점 교환
   }
   {
     obtain_id: 3095
-    description: 기간 한정 이벤트 <새하얀 물결, 꽃같은 얼굴> 서버 응원 보상
+    description: 기간한정 이벤트 <새하얀 물결, 꽃같은 얼굴> 서버 응원 보상
+  }
+  {
+    obtain_id: 3096
+    description: 회색지대 탐사 보상
+    goto_page_id: 384
   }
 ]

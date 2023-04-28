@@ -1670,3 +1670,59 @@ ally_team-10570015,선글라스 베이스
 ally_team-10570016,미스테리 키보더
 ally_team-10105601,구경꾼
 ally_team-10105602,구경꾼
+ally_team-10078001,그리폰
+ally_team-16000027,알케미스트
+ally_team-16000028,AR팀
+ally_team-16000029,RF팀
+ally_team-16000030,MG팀
+ally_team-10007001,돌격 A팀
+ally_team-10007002,화력반
+ally_team-10007003,돌격 B팀
+ally_team-10007004,정찰 A팀
+ally_team-10007005,정찰 B팀
+ally_team-10007006,16 소대
+ally_team-10007007,폭파반
+ally_team-10007008,파견소대
+ally_team-10007009,파견소대
+ally_team-10007010,파견소대
+ally_team-10007011,파견소대
+ally_team-10007012,파견소대
+ally_team-10007013,파견소대
+ally_team-10007014,파견소대
+ally_team-10007015,화포 관측수
+ally_team-10007101,돌격 A팀
+ally_team-10007102,돌격 A팀
+ally_team-10007103,정찰팀
+ally_team-10007104,돌격 A팀
+ally_team-10007105,정찰 A팀
+ally_team-10007106,화력반
+ally_team-10007107,돌격 A팀
+ally_team-10007108,16 소대
+ally_team-10007109,돌격 B팀
+ally_team-10007110,정찰 B팀
+ally_team-10007111,정찰 A팀
+ally_team-10007112,돌격 A팀
+ally_team-10007113,화력반
+ally_team-10007201,중장갑 적음
+ally_team-10007202,중장갑 많음
+ally_team-10007207,폭파반
+ally_team-10007208,파견소대
+ally_team-10007209,파견소대
+ally_team-10007210,파견소대
+ally_team-10007211,파견소대
+ally_team-10007212,파견소대
+ally_team-10007213,파견소대
+ally_team-10007214,파견소대
+ally_team-10007301,돌격 A팀
+ally_team-10007302,돌격 A팀
+ally_team-10007303,정찰 A팀
+ally_team-10007304,돌격 A팀
+ally_team-10007305,정찰 A팀
+ally_team-10007306,화력반
+ally_team-10007307,돌격 A팀
+ally_team-10007308,16 소대
+ally_team-10007309,돌격 B팀
+ally_team-10007310,정찰 B팀
+ally_team-10007311,정찰 A팀
+ally_team-10007312,돌격 A팀
+ally_team-10007313,화력반qi

@@ -55,9 +55,9 @@
   }
   {
     id: 10
-    task_type: consume_quick_reinforce
-    title: 쾌속수복계약 소모
-    content: 쾌속수복계약 {0}장 소모
+    task_type: map_capture
+    title: 일상 탐사
+    content: 회색 지대에서 지점을 {0}곳 점령한다.
   }
   {
     id: 11
@@ -169,9 +169,9 @@
   }
   {
     id: 29
-    task_type: operation_quick_reinforce
-    title: 군수보상 - 쾌속수복계약
-    content: 군수작전으로 쾌속수복계약 {0}장 획득
+    task_type: daily_game_buff
+    title: 탐사 중의 만남
+    content: 회색 지대에서 전장효과를 {0}회 얻는다.
   }
   {
     id: 30

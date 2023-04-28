@@ -15382,4 +15382,454 @@
     icon_code: 就是这个人
     condition: "11209"
   }
+  {
+    identity: 1041
+    type: map_capture
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 10
+    title: 랜딩 포인트
+    content: 회색지대 탐사에서 지점을 1곳 점령.
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1042
+    type: map_capture
+    count: 10
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 20
+    title: 전방 진지
+    content: 회색지대 탐사에서 지점을 10곳 점령.
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1043
+    type: map_capture
+    count: 40
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 30
+    title: 미개역
+    content: 회색지대 탐사에서 지점을 40곳 점령.
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1044
+    type: map_capture
+    count: 100
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 60
+    title: 점진 공세
+    content: 회색지대 탐사에서 지점을 100곳 점령.
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1045
+    type: map_capture
+    count: 200
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 200
+    title: 잠식 전술
+    content: 회색지대 탐사에서 지점을 200곳 점령.
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1046
+    type: map_capture
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 300
+    title: 에워싸기
+    content: 회색지대 탐사에서 지점을 500곳 점령.
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1047
+    type: map_capture
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 600
+    title: 폭발식 만연
+    content: 회색지대 탐사에서 지점을 1000곳 점령.
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1048
+    type: map_capture
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 1000
+    title: 바둑알처럼
+    content: 회색지대 탐사에서 지점을 2000곳 점령.
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1049
+    type: map_capture
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 1300
+    title: Black Sheep Wall
+    content: 회색지대 탐사에서 지점을 5000곳 점령.
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1050
+    type: map_capture
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 1600
+    title: 회색지대 답파
+    content: 회색지대 탐사에서 지점을 10000곳 점령.
+    type_sort: 1
+    sort: 303
+    icon_code: 日常_占领格子数
+  }
+  {
+    identity: 1051
+    type: daily_encounter
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 10
+    title: 휴전 시간
+    content: 회색지대 탐사에서 이벤트 지점을 1회 밟는다.
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1052
+    type: daily_encounter
+    count: 10
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 20
+    title: 폭풍의 눈
+    content: 회색지대 탐사에서 이벤트 지점을 10회 밟는다.
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1053
+    type: daily_encounter
+    count: 20
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 30
+    title: 비무장지대
+    content: 회색지대 탐사에서 이벤트 지점을 20회 밟는다.
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1054
+    type: daily_encounter
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 60
+    title: 잘 있어라 방아쇠여
+    content: 회색지대 탐사에서 이벤트 지점을 50회 밟는다.
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1055
+    type: daily_encounter
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 200
+    title: 무인지대
+    content: 회색지대 탐사에서 이벤트 지점을 100회 밟는다.
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1056
+    type: daily_encounter
+    count: 200
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 300
+    title: 밤과 여명
+    content: 회색지대 탐사에서 이벤트 지점을 200회 밟는다.
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1057
+    type: daily_encounter
+    count: 500
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 600
+    title: 모래바람이 지나고
+    content: 회색지대 탐사에서 이벤트 지점을 500회 밟는다.
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1058
+    type: daily_encounter
+    count: 1000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 1000
+    title: 외딴 도시를 등지고
+    content: 회색지대 탐사에서 이벤트 지점을 1000회 밟는다.
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1059
+    type: daily_encounter
+    count: 2000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 1300
+    title: 고요한 세상
+    content: 회색지대 탐사에서 이벤트 지점을 2000회 밟는다.
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1060
+    type: daily_encounter
+    count: 5000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 1600
+    title: 전선 휴무중
+    content: 회색지대 탐사에서 이벤트 지점을 5000회 밟는다.
+    type_sort: 13
+    sort: 304
+    icon_code: 日常_非战斗类
+  }
+  {
+    identity: 1061
+    type: daily_game_bonus
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 10
+    title: 내일? 뜻밖?
+    content: 회색지대 탐사에서 기우의 땅을 1회 밟는다.
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1062
+    type: daily_game_bonus
+    count: 2
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 20
+    title: 그늘을 비추고
+    content: 회색지대 탐사에서 기우의 땅을 2회 밟는다.
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1063
+    type: daily_game_bonus
+    count: 5
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 30
+    title: 수면밑
+    content: 회색지대 탐사에서 기우의 땅을 5회 밟는다.
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1064
+    type: daily_game_bonus
+    count: 10
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 60
+    title: 문 너머
+    content: 회색지대 탐사에서 기우의 땅을 10회 밟는다.
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1065
+    type: daily_game_bonus
+    count: 20
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 200
+    title: 폭풍전야
+    content: 회색지대 탐사에서 기우의 땅을 20회 밟는다.
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1066
+    type: daily_game_bonus
+    count: 50
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 300
+    title: 가시덩굴 속
+    content: 회색지대 탐사에서 기우의 땅을 50회 밟는다.
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1067
+    type: daily_game_bonus
+    count: 100
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 600
+    title: 밀림에 도사리는 것
+    content: 회색지대 탐사에서 기우의 땅을 100회 밟는다.
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1068
+    type: daily_game_bonus
+    count: 200
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 1000
+    title: 심연 주시
+    content: 회색지대 탐사에서 기우의 땅을 200회 밟는다.
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1069
+    type: daily_game_bonus
+    count: 500
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 1300
+    title: 혼돈의 끝자락
+    content: 회색지대 탐사에서 기우의 땅을 500회 밟는다.
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
+  {
+    identity: 1070
+    type: daily_game_bonus
+    count: 1000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 1600
+    title: 영원한 밤의 방황
+    content: 회색지대 탐사에서 기우의 땅을 1000회 밟는다.
+    type_sort: 1
+    sort: 305
+    icon_code: 日常_彩蛋
+  }
 ]

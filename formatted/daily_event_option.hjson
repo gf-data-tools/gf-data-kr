@@ -1,0 +1,746 @@
+[
+  {
+    id: 101
+    fight_environment_skill_id: 12020101
+    description: 뜻밖에도 화력 모듈을 활성화했다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 102
+    fight_environment_skill_id: 12020201
+    description: 뜻밖에도 오버클럭 화력 모듈을 활성화했다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 103
+    fight_environment_skill_id: 12020101
+    description: 화력 모듈을 얻었다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 104
+    fight_environment_skill_id: 12020201
+    description: 오버클럭 화력 모듈을 얻었다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 105
+    fight_environment_skill_id: 12020101
+    description: 맥주 - 적을 더 많이 불러오자.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 106
+    fight_environment_skill_id: 12020201
+    description: 맥주 더블샷 - 적을 더 많이 불러오자.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 107
+    fight_environment_skill_id: 12020101
+    description: 나비의 날개짓에 화력 모듈이 활성화됐다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 108
+    fight_environment_skill_id: 12020201
+    description: 나비의 날개짓에 오버클럭 화력 모듈이 활성화됐다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 201
+    fight_environment_skill_id: 12020301
+    description: 기관총 팀에게서 연사 기술을 배웠다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 202
+    fight_environment_skill_id: 12020401
+    description: 기관총 팀에게서 고급 연사 기술을 배웠다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 203
+    fight_environment_skill_id: 12020301
+    description: 연사 스킬 모듈을 발견, 활성화 해본다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 204
+    fight_environment_skill_id: 12020401
+    description: 오버클럭 연사 스킬 모듈을 발견, 활성화 해본다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 205
+    fight_environment_skill_id: 12020301
+    description: 뜻밖에도 연사 모듈을 활성화했다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 206
+    fight_environment_skill_id: 12020401
+    description: 뜻밖에도 오버클럭 연사 모듈을 활성화했다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 207
+    fight_environment_skill_id: 12020301
+    description: 대부 - 쏴라, 총알을 다 쓸 때까지.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 208
+    fight_environment_skill_id: 12020401
+    description: 대부 더블샷 - 쏴라, 총알을 다 쓸 때까지.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 209
+    fight_environment_skill_id: 12020301
+    description: 코드 몇 줄이 연사 모듈을 활성화했다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 210
+    fight_environment_skill_id: 12020401
+    description: 코드 오버클럭 몇 줄이 연사 모듈을 활성화했다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 301
+    fight_environment_skill_id: 12020501
+    description: 흔한 재료로 제작한 철갑탄.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 302
+    fight_environment_skill_id: 12020601
+    description: 특수 재료로 제작한 철갑탄.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 303
+    fight_environment_skill_id: 12020501
+    description: 바닥에 잔뜩 쏟아진 철갑탄.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 304
+    fight_environment_skill_id: 12020601
+    description: 바닥에 잔뜩 쏟아진 고급철갑탄.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 305
+    fight_environment_skill_id: 12020501
+    description: 멕시코 선라이즈 - 모든 것을 불태우지.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 306
+    fight_environment_skill_id: 12020601
+    description: 멕시코 선라이즈 더블샷 - 모든 것을 불태우지.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 307
+    fight_environment_skill_id: 12020501
+    description: 기밀 파일, 시대를 초월한 무기 지식을 밝힌다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 308
+    fight_environment_skill_id: 12020601
+    description: 최고기밀 파일, 시대를 초월한 무기 지식을 밝힌다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 401
+    fight_environment_skill_id: 12021501
+    description: 레일 통합 시스템을 줏었다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 402
+    fight_environment_skill_id: 12021601
+    description: 최신형 레일 통합 시스템을 줏었다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 403
+    fight_environment_skill_id: 12021501
+    description: 블루버드 - 오늘 운이 좋네!
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 404
+    fight_environment_skill_id: 12021601
+    description: 블루버드 더블샷 - 오늘 운이 좋네!
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 405
+    fight_environment_skill_id: 12021501
+    description: 정밀 조준 칩셋을 활성화했다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 406
+    fight_environment_skill_id: 12021601
+    description: 고급 정밀 조준 칩셋을 활성화했다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 501
+    fight_environment_skill_id: 12020901
+    description: 색바랜 수첩, 전투 기록이 적혀있다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 502
+    fight_environment_skill_id: 12021001
+    description: 피묻은 수첩, 전투 기록이 적혀있다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 503
+    fight_environment_skill_id: 12020901
+    description: 하비 월뱅어 - 앞으로 앞으로!
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 504
+    fight_environment_skill_id: 12021001
+    description: 하비 월뱅어 더블샷 - 앞으로 앞으로!
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 505
+    fight_environment_skill_id: 12020901
+    description: 기술 수첩 한 권에서 계시를 얻었다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 506
+    fight_environment_skill_id: 12021001
+    description: 개발 수첩 한 권에서 계시를 얻었다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 601
+    fight_environment_skill_id: 12022101
+    description: 스프레이 젤리 건 - 어딜 도망가!
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 602
+    fight_environment_skill_id: 12022201
+    description: 스프레이 젤리 런처 - 어딜 도망가!
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 603
+    fight_environment_skill_id: 12022101
+    description: 이상한 대적 신호교란이 발생했다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 604
+    fight_environment_skill_id: 12022201
+    description: 강렬한 대적 신호교란이 발생했다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 605
+    fight_environment_skill_id: 12022101
+    description: 블러드 메리 - 다리에 힘 풀렸니?
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 606
+    fight_environment_skill_id: 12022201
+    description: 블러드 메리 더블샷 - 다리에 힘 풀렸니?
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 701
+    fight_environment_skill_id: 12021901
+    description: 연막탄, "레인보우"라고 적혀있다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 702
+    fight_environment_skill_id: 12022001
+    description: 자동 연막탄, "레인보우"라고 적혀있다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 703
+    fight_environment_skill_id: 12021901
+    description: 뭔가, 전장의 소리가 멀어지는 느낌이다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 704
+    fight_environment_skill_id: 12022001
+    description: 뭔가, 세상에 더 이상 초연이 없어진 느낌이다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 705
+    fight_environment_skill_id: 12021901
+    description: 골드 드림 - 가장 소중한 너에게
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 706
+    fight_environment_skill_id: 12022001
+    description: 골드 드림 더블샷 - 가장 소중한 너에게
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 801
+    fight_environment_skill_id: 12022301
+    description: 레일 재머 - 어딜 보는 거야?
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 802
+    fight_environment_skill_id: 12022401
+    description: 변종 레일 재머 - 어딜 보는 거야?
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 803
+    fight_environment_skill_id: 12022301
+    description: 가슴에 뭔가 타오른다!
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 804
+    fight_environment_skill_id: 12022401
+    description: 가슴이 투지로 가득해진다!
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 805
+    fight_environment_skill_id: 12022301
+    description: 마르가리타 - 기분 풀어, 베이베.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 806
+    fight_environment_skill_id: 12022401
+    description: 마르가리타 더블샷 - 기분 풀어, 베이베.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 901
+    fight_environment_skill_id: 12020701
+    description: 가벼운 방패 - 내 수비를 뚫어봐라!
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 902
+    fight_environment_skill_id: 12020801
+    description: 전술 방패 - 내 수비를 뚫어봐라!
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 903
+    fight_environment_skill_id: 12020701
+    description: 미지의 엘리먼트 파워가 보호막을 강화해준다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 904
+    fight_environment_skill_id: 12020801
+    description: 특별한 엘리먼트 파워가 보호막을 강화해준다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 905
+    fight_environment_skill_id: 12020701
+    description: 앤젤 키스 - 기도보다 효과 있지.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 906
+    fight_environment_skill_id: 12020801
+    description: 앤젤 키스 더블샷 - 기도보다 효과 있지.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1001
+    fight_environment_skill_id: 12021101
+    description: 오일 바디 케어를 즐겼다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1002
+    fight_environment_skill_id: 12021201
+    description: 고급 오일 바디 케어를 즐겼다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1003
+    fight_environment_skill_id: 12021101
+    description: 정비용 오일, 사용 후 기동성이 상승한다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1004
+    fight_environment_skill_id: 12021201
+    description: 기능성 오일, 사용 후 기동성이 크게 상승한다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1005
+    fight_environment_skill_id: 12021101
+    description: 카사블랑카 - 위험은 이미 사라졌다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1006
+    fight_environment_skill_id: 12021201
+    description: 카사블랑카 더블샷 - 위험은 이미 사라졌다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1101
+    fight_environment_skill_id: 12021701
+    description: 우수한 추진기, 깜찍한 괴력 몬스터.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1102
+    fight_environment_skill_id: 12021801
+    description: 일등품 추진기, 깜찍한 괴력 몬스터.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1103
+    fight_environment_skill_id: 12021701
+    description: 미지의 엘리먼트 파워가 속도를 강화해준다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1104
+    fight_environment_skill_id: 12021801
+    description: 특별한 엘리먼트 파워가 속도를 강화해준다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1105
+    fight_environment_skill_id: 12021701
+    description: 올림픽 - 더 높이! 더 빨리!
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1106
+    fight_environment_skill_id: 12021801
+    description: 올림픽 더블샷 - 더 높이! 더 빨리!
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1201
+    fight_environment_skill_id: 12021301
+    description: 야시 모듈 - 어둠을 꿰뚫어 본다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1202
+    fight_environment_skill_id: 12021401
+    description: 고급 야시 모듈 - 어둠을 꿰뚫어 본다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1203
+    fight_environment_skill_id: 12021301
+    description: 잭 로즈 - 붉게 피어난다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1204
+    fight_environment_skill_id: 12021401
+    description: 잭 로즈 더블샷 - 붉게 피어난다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1205
+    fight_environment_skill_id: 12021301
+    description: 신비한 실험실 안의 적외선 탐지기.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1206
+    fight_environment_skill_id: 12021401
+    description: 신비한 실험실 안의 정밀 적외선 탐지기.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1301
+    fight_environment_skill_id: 12022501
+    description: 특수한 칩셋, 적을 교란할 수 있다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1302
+    fight_environment_skill_id: 12022501
+    description: 특수한 코어, 적을 교란할 수 있다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1401
+    fight_environment_skill_id: 12022601
+    description: 쇠지렛대 한 자루, 적에게 아픔을 줄 수 있다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1402
+    fight_environment_skill_id: 12022601
+    description: 빨갛게 달군 쇠지렛대, 적이 비명을 지른다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1501
+    fight_environment_skill_id: 12022701
+    description: 기계 잔해, 어떤 힘에 교란받는 것 같다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1502
+    fight_environment_skill_id: 12022701
+    description: 단봉, 희미하게 "T..."뭐라고 써져있다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1601
+    fight_environment_skill_id: 12022801
+    description: 눈에 익은 과녁이다. 왜 여기에 있지?
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1701
+    fight_environment_skill_id: 12022901
+    description: 거대 ELID 식물, 꽃은 이미 졌다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1702
+    fight_environment_skill_id: 12022901
+    description: 특이한 모습의 조화, 꽃잎이 떨어진 모습도 괴기하다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1801
+    fight_environment_skill_id: 12023001
+    description: 팽이 하나 - 두뇌 속의 비밀을 살핀다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 1901
+    fight_environment_skill_id: 12023301
+    description: 종이로 접은 유니콘 - 너를 지켜주길.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 2001
+    fight_environment_skill_id: 12023201
+    description: 철거 통보 같다, 왠지 익숙하다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+  {
+    id: 2002
+    fight_environment_skill_id: 12023201
+    description: 연산 중인 설비, 모니터에 숫자가 반짝인다.
+    balance_out: 1
+    round_duration: -1
+    battle_duration: -1
+  }
+]

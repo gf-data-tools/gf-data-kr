@@ -11,6 +11,7 @@
     code: gift_bundle_halloween_PM
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2
@@ -24,6 +25,7 @@
     code: gift_bundle_halloween_VECTOR
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3
@@ -37,6 +39,7 @@
     code: gift_bundle_halloween_MP5
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4
@@ -50,6 +53,7 @@
     code: gift_bundle_halloween_M45
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5
@@ -63,6 +67,7 @@
     code: gift_bundle_halloween_M1903
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6
@@ -76,6 +81,7 @@
     code: gift_bundle_halloween_WA2000
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7
@@ -89,6 +95,7 @@
     code: gift_bundle_halloween_M1919A4
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8
@@ -102,6 +109,7 @@
     code: gift_bundle_halloween_MK23
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 9
@@ -115,6 +123,7 @@
     code: gift_bundle_halloween_G11
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 10
@@ -128,6 +137,7 @@
     code: gift_bundle_nichijou_MLEMK1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 11
@@ -141,6 +151,7 @@
     code: gift_bundle_halloween_64type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 101
@@ -154,6 +165,7 @@
     code: gift_bundle_nichijou_Microuzi
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 102
@@ -167,6 +179,7 @@
     code: gift_bundle_nichijou_M1918
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 103
@@ -180,6 +193,7 @@
     code: gift_bundle_nichijou_MP466
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 104
@@ -193,6 +207,7 @@
     code: gift_bundle_nichijou_64type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 105
@@ -206,6 +221,7 @@
     code: gift_bundle_nichijou_Grizzly
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 106
@@ -219,6 +235,137 @@
     code: gift_bundle_nichijou_M1919A4
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 201
+    name: 카리나 - 청춘을 즐기다
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 201
+    code: gift_bundle_kalina_201
+    bonus_description: 카리나 코스튬 획득
+    description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 202
+    name: 카리나 - 자유로운 거리
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 202
+    code: gift_bundle_kalina_202
+    bonus_description: 카리나 코스튬 획득
+    description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 203
+    name: 카리나 - 락 스패너
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 203
+    code: gift_bundle_kalina_203
+    bonus_description: 카리나 코스튬 획득
+    description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 204
+    name: 카리나 - 그리폰 제복
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 204
+    code: gift_bundle_kalina_204
+    bonus_description: 카리나 코스튬 획득
+    description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 205
+    name: 카리나 - 보석과 불꽃놀이
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 205
+    code: gift_bundle_kalina_205
+    bonus_description: 카리나 코스튬 획득
+    description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 206
+    name: 카리나 - 크리스마스 파티
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 206
+    code: gift_bundle_kalina_206
+    bonus_description: 카리나 코스튬 획득
+    description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 207
+    name: 카리나 - 검은 고양이 아가씨
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 207
+    code: gift_bundle_kalina_207
+    bonus_description: 카리나 코스튬 획득
+    description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 208
+    name: 카리나 - 연인의 속삭임
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 208
+    code: gift_bundle_kalina_208
+    bonus_description: 카리나 코스튬 획득
+    description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 209
+    name: 카리나 - 여름밤 달콤한 꿈
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 209
+    code: gift_bundle_kalina_209
+    bonus_description: 카리나 코스튬 획득
+    description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 210
+    name: 페르시카-C12H22O11
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -5
+    skin: 210
+    code: gift_bundle_Persica_210
+    bonus_description: 페르시카 코스튬 획득
+    description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 301
@@ -232,6 +379,7 @@
     code: gift_bundle_xmas_M1873
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 302
@@ -245,6 +393,7 @@
     code: gift_bundle_xmas_M1903
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 303
@@ -258,6 +407,7 @@
     code: gift_bundle_xmas_M14
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 304
@@ -271,10 +421,11 @@
     code: gift_bundle_xmas_M21
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 305
-    name: SV4 - 겨울 선녀
+    name: SVD - 겨울 선녀
     type: 2
     rank: 6
     favor: 50000
@@ -284,6 +435,7 @@
     code: gift_bundle_xmas_SVD
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 306
@@ -297,6 +449,7 @@
     code: gift_bundle_xmas_WA2000
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 307
@@ -310,6 +463,7 @@
     code: gift_bundle_xmas_NTW20
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 308
@@ -323,6 +477,7 @@
     code: gift_bundle_xmas_FNFAL
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 309
@@ -336,6 +491,7 @@
     code: gift_bundle_xmas_MG5
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 310
@@ -349,6 +505,7 @@
     code: gift_bundle_xmas_KP31
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 401
@@ -362,6 +519,7 @@
     code: gift_bundle_spring_561type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 402
@@ -375,6 +533,7 @@
     code: gift_bundle_spring_mp446
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 403
@@ -388,6 +547,7 @@
     code: gift_bundle_spring_nz75
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 404
@@ -401,6 +561,7 @@
     code: gift_bundle_spring_m99
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 405
@@ -414,6 +575,7 @@
     code: gift_bundle_spring_95type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 406
@@ -427,6 +589,7 @@
     code: gift_bundle_spring_97type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 407
@@ -440,10 +603,11 @@
     code: gift_bundle_spring_59type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 408
-    name: PTR4 - 로맨틱한 임무
+    name: PTRD - 로맨틱한 임무
     type: 2
     rank: 6
     favor: 50000
@@ -453,6 +617,7 @@
     code: gift_bundle_spring_ptrd
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 409
@@ -466,6 +631,7 @@
     code: gift_bundle_spring_ump9
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 410
@@ -479,6 +645,7 @@
     code: gift_bundle_spring_ump45
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 411
@@ -492,10 +659,11 @@
     code: gift_bundle_spring_welrod
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 501
-    name: A-K47 - 전쟁의 왕
+    name: AK-47 - 전쟁의 왕
     type: 2
     rank: 6
     favor: 50000
@@ -505,6 +673,7 @@
     code: gift_bundle_golden_ak47
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 502
@@ -518,6 +687,7 @@
     code: gift_bundle_maid_sv98
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 503
@@ -531,6 +701,7 @@
     code: gift_bundle_bb_myu12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 504
@@ -544,6 +715,7 @@
     code: gift_bundle_gg_dress_elphelt
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 505
@@ -557,6 +729,7 @@
     code: gift_bundle_gg_blood_elphelt
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 506
@@ -570,6 +743,7 @@
     code: gift_bundle_GGSD_Kiana
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 507
@@ -583,6 +757,7 @@
     code: gift_bundle_GGSD_Bronya
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 508
@@ -596,6 +771,7 @@
     code: gift_bundle_GGSD_Seele
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 509
@@ -609,6 +785,7 @@
     code: gift_bundle_djmax_clear
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 510
@@ -622,6 +799,7 @@
     code: gift_bundle_djmax_fail
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 521
@@ -635,6 +813,7 @@
     code: gift_bundle_Pizex19_UMP45
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 522
@@ -648,6 +827,7 @@
     code: gift_bundle_sdjver2_SPAS12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 523
@@ -661,6 +841,7 @@
     code: gift_bundle_comics10_GSH18
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 524
@@ -674,6 +855,7 @@
     code: gift_bundle_sbld19_Stella
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 525
@@ -687,6 +869,7 @@
     code: gift_bundle_sbld19_Dorothy
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 526
@@ -700,6 +883,7 @@
     code: gift_bundle_sbld19_Dana
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 527
@@ -713,6 +897,7 @@
     code: gift_bundle_sbld19_SEI
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 528
@@ -726,6 +911,7 @@
     code: gift_bundle_sbld19_Alma
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 529
@@ -739,6 +925,7 @@
     code: gift_bundle_sbld19_Jill
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 530
@@ -752,6 +939,7 @@
     code: gift_bundle_Carnival2020_M4A1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 531
@@ -765,6 +953,7 @@
     code: gift_bundle_Carnival2020_M4 SOPMOD II
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 532
@@ -778,6 +967,7 @@
     code: gift_bundle_Carnival2020_AR15
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 533
@@ -791,6 +981,7 @@
     code: gift_bundle_Carnival2020_M16A1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 534
@@ -804,6 +995,7 @@
     code: gift_bundle_Carnival2020_RO635
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 535
@@ -817,6 +1009,7 @@
     code: gift_bundle_Carnival2020_UMP45
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 536
@@ -830,6 +1023,7 @@
     code: gift_bundle_Carnival2020_UMP9
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 537
@@ -843,6 +1037,7 @@
     code: gift_bundle_Carnival2020_HK416
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 538
@@ -856,6 +1051,7 @@
     code: gift_bundle_Carnival2020_G11
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 539
@@ -869,6 +1065,7 @@
     code: gift_bundle_Carnival2020_UMP40
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 540
@@ -882,6 +1079,7 @@
     code: gift_bundle_chy2020SP_AK12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 541
@@ -895,6 +1093,7 @@
     code: gift_bundle_Gunslinger_Triela
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 542
@@ -908,6 +1107,7 @@
     code: gift_bundle_Gunslinger_Rico
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 543
@@ -921,6 +1121,7 @@
     code: gift_bundle_Gunslinger_Angelica
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 544
@@ -934,6 +1135,7 @@
     code: gift_bundle_Gunslinger_Henrietta
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 545
@@ -947,6 +1149,7 @@
     code: gift_bundle_Gunslinger_Claes
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 546
@@ -960,6 +1163,7 @@
     code: gift_bundle_Division_HK416Agent
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 547
@@ -973,6 +1177,7 @@
     code: gift_bundle_Division_VectorAgent
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 548
@@ -986,6 +1191,7 @@
     code: gift_bundle_Division_HK416
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 549
@@ -999,6 +1205,7 @@
     code: gift_bundle_Division_Vector
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 550
@@ -1012,6 +1219,7 @@
     code: gift_bundle_Carnival2021_M4A1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 551
@@ -1025,6 +1233,7 @@
     code: gift_bundle_Carnival2021_M4 SOPMOD II
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 552
@@ -1038,6 +1247,7 @@
     code: gift_bundle_Carnival2021_AR15
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 553
@@ -1051,6 +1261,7 @@
     code: gift_bundle_Carnival2021_M16A1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 554
@@ -1064,6 +1275,7 @@
     code: gift_bundle_Carnival2021_RO635
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 555
@@ -1077,6 +1289,7 @@
     code: gift_bundle_Carnival2021_UMP45
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 556
@@ -1090,6 +1303,7 @@
     code: gift_bundle_Carnival2021_UMP9
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 557
@@ -1103,6 +1317,7 @@
     code: gift_bundle_Carnival2021_HK416
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 558
@@ -1116,6 +1331,7 @@
     code: gift_bundle_Carnival2021_G11
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 559
@@ -1129,6 +1345,7 @@
     code: gift_bundle_Carnival2021_UMP40
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 560
@@ -1142,6 +1359,7 @@
     code: gift_bundle_Carnival2021_M200
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 561
@@ -1155,6 +1373,7 @@
     code: gift_bundle_Carnival2021_AUGPARA
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 562
@@ -1168,6 +1387,7 @@
     code: gift_bundle_Carnival2021_VHS
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 563
@@ -1181,6 +1401,7 @@
     code: gift_bundle_Carnival2021_GeneralLiu
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 564
@@ -1194,6 +1415,7 @@
     code: gift_bundle_Carnival2021_SL8
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 565
@@ -1207,6 +1429,7 @@
     code: gift_bundle_Carnival2021_G36
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 566
@@ -1220,6 +1443,7 @@
     code: gift_bundle_Lawson2021_QBU88
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 567
@@ -1233,6 +1457,7 @@
     code: gift_bundle_Dropkick2021_Jashinchan
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 568
@@ -1246,6 +1471,7 @@
     code: gift_bundle_Dropkick2021_Yurine
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 569
@@ -1259,6 +1485,7 @@
     code: gift_bundle_Dropkick2021_Medusa
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 570
@@ -1272,6 +1499,7 @@
     code: gift_bundle_Dropkick2021_Pekora
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 571
@@ -1285,6 +1513,7 @@
     code: gift_bundle_Dropkick2021_Minosu
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 572
@@ -1298,6 +1527,7 @@
     code: gift_bundle_2021Double11_G11
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 573
@@ -1311,6 +1541,7 @@
     code: gift_bundle_ChessBonus_Z62
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 574
@@ -1324,6 +1555,7 @@
     code: gift_bundle_AprilFool2022_M4 SOPMOD II
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 575
@@ -1337,6 +1569,7 @@
     code: gift_bundle_Carnival2022_QBZ191
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 576
@@ -1350,6 +1583,7 @@
     code: gift_bundle_Carnival2022_SL8
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 577
@@ -1363,6 +1597,7 @@
     code: gift_bundle_Carnival2022_VHS
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 578
@@ -1376,6 +1611,7 @@
     code: gift_bundle_Carnival2022_GeneralLiu
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 579
@@ -1389,6 +1625,7 @@
     code: gift_bundle_Carnival2022_AUGPARA
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 581
@@ -1402,6 +1639,7 @@
     code: gift_bundle_Carnival2022_HK416
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 582
@@ -1415,6 +1653,7 @@
     code: gift_bundle_Carnival2022_G11
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 583
@@ -1428,6 +1667,7 @@
     code: gift_bundle_Carnival2022_UMP9
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 584
@@ -1441,6 +1681,7 @@
     code: gift_bundle_Carnival2022_UMP45
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 585
@@ -1454,6 +1695,7 @@
     code: gift_bundle_Carnival2022_UMP40
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 586
@@ -1467,6 +1709,7 @@
     code: gift_bundle_ChessBonus_OBR
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 587
@@ -1480,6 +1723,7 @@
     code: gift_bundle_Saga2023_Sakura
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 588
@@ -1493,6 +1737,7 @@
     code: gift_bundle_Saga2023_Saki
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 589
@@ -1506,6 +1751,7 @@
     code: gift_bundle_Saga2023_Ai
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 590
@@ -1519,6 +1765,7 @@
     code: gift_bundle_Saga2023_Junko
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 591
@@ -1532,6 +1779,7 @@
     code: gift_bundle_Saga2023_Yuugiri
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 592
@@ -1545,6 +1793,7 @@
     code: gift_bundle_Saga2023_Lily
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 593
@@ -1558,6 +1807,7 @@
     code: gift_bundle_Saga2023_Tae
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 594
@@ -1571,6 +1821,7 @@
     code: gift_bundle_ChessBonus_M1897
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 595
@@ -1584,6 +1835,7 @@
     code: gift_bundle_AprilFool2023_Liberator
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 601
@@ -1597,6 +1849,7 @@
     code: gift_bundle_wedding_tt33
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 602
@@ -1610,6 +1863,7 @@
     code: gift_bundle_wedding_ppsh41
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 603
@@ -1623,6 +1877,7 @@
     code: gift_bundle_wedding_stenmkii
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 604
@@ -1636,6 +1891,7 @@
     code: gift_bundle_wedding_mlemk1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 605
@@ -1649,6 +1905,7 @@
     code: gift_bundle_wedding_pk
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 606
@@ -1662,6 +1919,7 @@
     code: gift_bundle_wedding_p7
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 607
@@ -1675,6 +1933,7 @@
     code: gift_bundle_wedding_fal
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 701
@@ -1688,6 +1947,7 @@
     code: gift_bundle_serafuku_ar15
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 702
@@ -1701,6 +1961,7 @@
     code: gift_bundle_serafuku_m950a
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 703
@@ -1714,6 +1975,7 @@
     code: gift_bundle_serafuku_mg4
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 704
@@ -1727,6 +1989,7 @@
     code: gift_bundle_serafuku_6p62
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 801
@@ -1740,6 +2003,7 @@
     code: gift_bundle_dress_vz61
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 802
@@ -1753,6 +2017,7 @@
     code: gift_bundle_dress_m1903
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 803
@@ -1766,6 +2031,7 @@
     code: gift_bundle_dress_m1891
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 804
@@ -1779,6 +2045,7 @@
     code: gift_bundle_dress_wa2000
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 805
@@ -1792,6 +2059,7 @@
     code: gift_bundle_dress_hk416
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 806
@@ -1805,6 +2073,7 @@
     code: gift_bundle_dress_m1918
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 807
@@ -1818,6 +2087,7 @@
     code: gift_bundle_dress_sr3mp
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 808
@@ -1831,6 +2101,7 @@
     code: gift_bundle_dress_m950a
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 901
@@ -1844,6 +2115,7 @@
     code: gift_bundle_childrensday_MLEMK1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 902
@@ -1857,6 +2129,7 @@
     code: gift_bundle_childrensday_MP40
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 903
@@ -1870,6 +2143,7 @@
     code: gift_bundle_childrensday_Grizzly
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 904
@@ -1883,6 +2157,7 @@
     code: gift_bundle_childrensday_NEGEV
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 905
@@ -1896,6 +2171,7 @@
     code: gift_bundle_childrensday_G36
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1101
@@ -1909,6 +2185,7 @@
     code: gift_bundle_swimsuit_NTW20
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1102
@@ -1922,6 +2199,7 @@
     code: gift_bundle_swimsuit_95type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1103
@@ -1935,6 +2213,7 @@
     code: gift_bundle_swimsuit_KP31
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1104
@@ -1948,6 +2227,7 @@
     code: gift_bundle_swimsuit_G28
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1105
@@ -1961,6 +2241,7 @@
     code: gift_bundle_swimsuit_Ithaca37
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1106
@@ -1974,6 +2255,7 @@
     code: gift_bundle_swimsuit_M1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1107
@@ -1987,6 +2269,7 @@
     code: gift_bundle_swimsuit_M1903
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1108
@@ -2000,6 +2283,7 @@
     code: gift_bundle_swimsuit_WA2000
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1109
@@ -2013,6 +2297,7 @@
     code: gift_bundle_swimsuit_FN57
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1201
@@ -2026,6 +2311,7 @@
     code: gift_bundle_yukata_pkp
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1202
@@ -2039,6 +2325,7 @@
     code: gift_bundle_yukata_G36C
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1203
@@ -2052,6 +2339,7 @@
     code: gift_bundle_yukata_OTs14
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1204
@@ -2065,6 +2353,7 @@
     code: gift_bundle_yukata_KLIN
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1205
@@ -2078,6 +2367,7 @@
     code: gift_bundle_yukata_MP5
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1301
@@ -2091,6 +2381,7 @@
     code: gift_bundle_leisurewear_M249SAW
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1302
@@ -2104,6 +2395,7 @@
     code: gift_bundle_leisurewear_9A91
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1303
@@ -2117,6 +2409,7 @@
     code: gift_bundle_leisurewear_G3
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1304
@@ -2130,6 +2423,7 @@
     code: gift_bundle_leisurewear_MG3
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1305
@@ -2143,6 +2437,7 @@
     code: gift_bundle_leisurewear_TAR21
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1401
@@ -2156,6 +2451,7 @@
     code: gift_bundle_halloween2_Welrod
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1402
@@ -2169,6 +2465,7 @@
     code: gift_bundle_halloween2_79type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1403
@@ -2182,6 +2479,7 @@
     code: gift_bundle_halloween2_IWS2000
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1404
@@ -2195,6 +2493,7 @@
     code: gift_bundle_halloween2_P7
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1405
@@ -2208,6 +2507,7 @@
     code: gift_bundle_halloween2_Spitfire
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1406
@@ -2221,6 +2521,7 @@
     code: gift_bundle_halloween2_FNFNC
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1407
@@ -2234,6 +2535,7 @@
     code: gift_bundle_halloween2_SuperSASS
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1501
@@ -2247,6 +2549,7 @@
     code: gift_bundle_manwear_M1928A1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1502
@@ -2260,6 +2563,7 @@
     code: gift_bundle_manwear_Contender
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1503
@@ -2273,6 +2577,7 @@
     code: gift_bundle_manwear_PKP
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1504
@@ -2286,6 +2591,7 @@
     code: gift_bundle_manwear_MG5
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1505
@@ -2299,6 +2605,7 @@
     code: gift_bundle_manwear_AEK999
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1506
@@ -2312,6 +2619,7 @@
     code: gift_bundle_manwear_PzB39
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1507
@@ -2325,6 +2633,7 @@
     code: gift_bundle_manwear_G36
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1601
@@ -2338,6 +2647,7 @@
     code: gift_bundle_xmas2_RFB
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1602
@@ -2351,6 +2661,7 @@
     code: gift_bundle_xmas2_G11
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1603
@@ -2364,6 +2675,7 @@
     code: gift_bundle_xmas2_ZastavaM21
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1604
@@ -2377,6 +2689,7 @@
     code: gift_bundle_xmas2_CZ75
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1605
@@ -2390,6 +2703,7 @@
     code: gift_bundle_xmas2_Ameli
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1606
@@ -2403,6 +2717,7 @@
     code: gift_bundle_xmas2_M1918
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1608
@@ -2416,6 +2731,7 @@
     code: gift_bundle_xmas2_OC44
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1701
@@ -2429,6 +2745,7 @@
     code: gift_bundle_leisurewear2_M99
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1702
@@ -2442,6 +2759,7 @@
     code: gift_bundle_leisurewear2_NZ75
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1703
@@ -2455,6 +2773,7 @@
     code: gift_bundle_leisurewear2_SPP1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1704
@@ -2468,6 +2787,7 @@
     code: gift_bundle_leisurewear2_SUPERSHORTY
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1705
@@ -2481,10 +2801,11 @@
     code: gift_bundle_leisurewear2_RMB93
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1801
-    name: 4SR-50 - 비목단
+    name: DSR-50 - 비목단
     type: 2
     rank: 6
     favor: 50000
@@ -2494,6 +2815,7 @@
     code: gift_bundle_newyear2_DSR50
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1802
@@ -2507,6 +2829,7 @@
     code: gift_bundle_newyear2_SAT8
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1803
@@ -2520,6 +2843,7 @@
     code: gift_bundle_newyear2_ART556
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1804
@@ -2533,6 +2857,7 @@
     code: gift_bundle_newyear2_JS05
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1805
@@ -2546,6 +2871,7 @@
     code: gift_bundle_newyear2_MK23
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1806
@@ -2559,6 +2885,7 @@
     code: gift_bundle_newyear2_M590
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1807
@@ -2572,6 +2899,7 @@
     code: gift_bundle_newyear2_81typeR
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1808
@@ -2585,6 +2913,7 @@
     code: gift_bundle_newyear2_LWMMG
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1809
@@ -2598,6 +2927,7 @@
     code: gift_bundle_newyear2_88type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1901
@@ -2611,6 +2941,7 @@
     code: gift_bundle_wedding2_Vector
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1902
@@ -2624,6 +2955,7 @@
     code: gift_bundle_wedding2_FN57
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1903
@@ -2637,6 +2969,7 @@
     code: gift_bundle_wedding2_MP5
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1904
@@ -2650,6 +2983,7 @@
     code: gift_bundle_wedding2_G36
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1905
@@ -2663,6 +2997,7 @@
     code: gift_bundle_wedding2_56-1type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 1906
@@ -2676,6 +3011,7 @@
     code: gift_bundle_wedding2_SV98
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2001
@@ -2689,6 +3025,7 @@
     code: gift_bundle_mzf_k2
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2002
@@ -2702,6 +3039,7 @@
     code: gift_bundle_mzf_k5
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2003
@@ -2715,6 +3053,7 @@
     code: gift_bundle_mzf_klin
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2004
@@ -2728,10 +3067,11 @@
     code: gift_bundle_mzf_63type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2101
-    name: 4SR-50 - 베스트 오퍼
+    name: DSR-50 - 베스트 오퍼
     type: 2
     rank: 6
     favor: 50000
@@ -2741,6 +3081,7 @@
     code: gift_bundle_znq_DSR50
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2102
@@ -2754,6 +3095,7 @@
     code: gift_bundle_znq_Grizzly
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2103
@@ -2767,6 +3109,7 @@
     code: gift_bundle_znq_Welrod
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2104
@@ -2780,6 +3123,7 @@
     code: gift_bundle_znq_ZastavaM21
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2105
@@ -2793,6 +3137,7 @@
     code: gift_bundle_znq_M1873
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2106
@@ -2806,6 +3151,7 @@
     code: gift_bundle_znq_UMP9
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2107
@@ -2819,10 +3165,11 @@
     code: gift_bundle_znq_UMP45
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2108
-    name: I4W -  상자 속 고양이
+    name: IDW -  상자 속 고양이
     type: 2
     rank: 6
     favor: 50000
@@ -2832,6 +3179,7 @@
     code: gift_bundle_znq_IDW
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2109
@@ -2845,6 +3193,7 @@
     code: gift_bundle_znq_EVO3
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2201
@@ -2858,6 +3207,7 @@
     code: gift_bundle_childrensday18_Carcano1891
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2202
@@ -2871,6 +3221,7 @@
     code: gift_bundle_childrensday18_Carcano1938
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2203
@@ -2884,6 +3235,7 @@
     code: gift_bundle_childrensday18_FN57
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2204
@@ -2897,6 +3249,7 @@
     code: gift_bundle_childrensday18_PP19
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2205
@@ -2910,6 +3263,7 @@
     code: gift_bundle_childrensday18_CBJMS
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2206
@@ -2923,6 +3277,7 @@
     code: gift_bundle_childrensday18_Thunder50
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2301
@@ -2936,6 +3291,7 @@
     code: gift_bundle_jxnpr18_NTW20
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2302
@@ -2949,6 +3305,7 @@
     code: gift_bundle_jxnpr18_Contender
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2303
@@ -2962,6 +3319,7 @@
     code: gift_bundle_jxnpr18_M950A
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2304
@@ -2975,6 +3333,7 @@
     code: gift_bundle_jxnpr18_G28
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2305
@@ -2988,6 +3347,7 @@
     code: gift_bundle_jxnpr18_GepardM1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2401
@@ -3001,6 +3361,7 @@
     code: gift_bundle_swimsuit18_G41
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2402
@@ -3014,6 +3375,7 @@
     code: gift_bundle_swimsuit18_AK12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2403
@@ -3027,6 +3389,7 @@
     code: gift_bundle_swimsuit18_AA12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2404
@@ -3040,6 +3403,7 @@
     code: gift_bundle_swimsuit18_AN94
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2405
@@ -3053,6 +3417,7 @@
     code: gift_bundle_swimsuit18_MP7
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2406
@@ -3066,6 +3431,7 @@
     code: gift_bundle_swimsuit18_FNFAL
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2407
@@ -3079,6 +3445,7 @@
     code: gift_bundle_swimsuit18_G36
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2408
@@ -3092,6 +3459,7 @@
     code: gift_bundle_swimsuit18_SPAS12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2409
@@ -3105,6 +3473,7 @@
     code: gift_bundle_swimsuit18_Ameli
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2410
@@ -3118,6 +3487,7 @@
     code: gift_bundle_swimsuit18_P38
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2501
@@ -3131,6 +3501,7 @@
     code: gift_bundle_rockroll18_MG5
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2502
@@ -3144,6 +3515,7 @@
     code: gift_bundle_rockroll18_G11
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2503
@@ -3157,6 +3529,7 @@
     code: gift_bundle_rockroll18_M1887
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2504
@@ -3170,6 +3543,7 @@
     code: gift_bundle_rockroll18_80type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2505
@@ -3183,6 +3557,7 @@
     code: gift_bundle_rockroll18_M1897
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2601
@@ -3196,6 +3571,7 @@
     code: gift_bundle_halloween18_SAT8
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2602
@@ -3209,10 +3585,11 @@
     code: gift_bundle_halloween18_TAC50
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2603
-    name: M4R - 고스트랩
+    name: MDR - 고스트랩
     type: 2
     rank: 6
     favor: 50000
@@ -3222,6 +3599,7 @@
     code: gift_bundle_halloween18_MDR
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2604
@@ -3235,6 +3613,7 @@
     code: gift_bundle_halloween18_FAMAS
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2605
@@ -3248,6 +3627,7 @@
     code: gift_bundle_halloween18_BrenMK
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2606
@@ -3261,6 +3641,7 @@
     code: gift_bundle_halloween18_F1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2701
@@ -3274,6 +3655,7 @@
     code: gift_bundle_idol18_HK21
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2702
@@ -3287,6 +3669,7 @@
     code: gift_bundle_idol18_JS-127
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2703
@@ -3300,6 +3683,7 @@
     code: gift_bundle_idol18_PM06
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2704
@@ -3313,6 +3697,7 @@
     code: gift_bundle_idol18_USAS12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2705
@@ -3326,6 +3711,7 @@
     code: gift_bundle_idol18_HK45
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2706
@@ -3339,6 +3725,7 @@
     code: gift_bundle_idol18_M1895
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2801
@@ -3352,6 +3739,7 @@
     code: gift_bundle_Xmas18_Px4Storm
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2802
@@ -3365,6 +3753,7 @@
     code: gift_bundle_Xmas18_P90
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2803
@@ -3378,6 +3767,7 @@
     code: gift_bundle_Xmas18_ART556
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2804
@@ -3391,6 +3781,7 @@
     code: gift_bundle_Xmas18_FP6
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2805
@@ -3404,6 +3795,7 @@
     code: gift_bundle_Xmas18_FN57
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2806
@@ -3417,6 +3809,7 @@
     code: gift_bundle_Xmas18_G36
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2807
@@ -3430,6 +3823,7 @@
     code: gift_bundle_Xmas18_TMP
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2901
@@ -3443,6 +3837,7 @@
     code: gift_bundle_newyear18_Type64-AR
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2902
@@ -3456,6 +3851,7 @@
     code: gift_bundle_newyear18_RFB
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2903
@@ -3469,6 +3865,7 @@
     code: gift_bundle_newyear18_Type100
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2904
@@ -3482,6 +3879,7 @@
     code: gift_bundle_newyear18_Carcano1938
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2905
@@ -3495,6 +3893,7 @@
     code: gift_bundle_newyear18_Carcano1891
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2906
@@ -3508,6 +3907,7 @@
     code: gift_bundle_newyear18_M1014
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2907
@@ -3521,6 +3921,7 @@
     code: gift_bundle_newyear18_ASVAL
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 2908
@@ -3534,6 +3935,7 @@
     code: gift_bundle_newyear18_Type62
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3001
@@ -3547,6 +3949,7 @@
     code: gift_bundle_springfestival19_OTs14
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3002
@@ -3560,6 +3963,7 @@
     code: gift_bundle_springfestival19_AK74U
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3003
@@ -3573,6 +3977,7 @@
     code: gift_bundle_springfestival19_Type88
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3004
@@ -3586,6 +3991,7 @@
     code: gift_bundle_springfestival19_IWS2000
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3005
@@ -3599,6 +4005,7 @@
     code: gift_bundle_springfestival19_CZ75
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3006
@@ -3612,6 +4019,7 @@
     code: gift_bundle_springfestival19_MP5
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3007
@@ -3625,6 +4033,7 @@
     code: gift_bundle_springfestival19_CZ52
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3101
@@ -3638,6 +4047,7 @@
     code: gift_bundle_wv19_KP31
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3102
@@ -3651,6 +4061,7 @@
     code: gift_bundle_wv19_PKP
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3103
@@ -3664,6 +4075,7 @@
     code: gift_bundle_wv19_G36C
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3105
@@ -3677,6 +4089,7 @@
     code: gift_bundle_wv19_MK23
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3106
@@ -3690,6 +4103,7 @@
     code: gift_bundle_wv19_T5000
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3107
@@ -3703,6 +4117,7 @@
     code: gift_bundle_wv19_GepardM1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3201
@@ -3716,6 +4131,7 @@
     code: gift_bundle_hh19_Contender
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3202
@@ -3729,6 +4145,7 @@
     code: gift_bundle_hh19_NEGEV
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3203
@@ -3742,6 +4159,7 @@
     code: gift_bundle_hh19_SPAS12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3204
@@ -3755,10 +4173,11 @@
     code: gift_bundle_hh19_TT33
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3205
-    name: I4W - 망토 두른 고양이
+    name: IDW - 망토 두른 고양이
     type: 2
     rank: 6
     favor: 50000
@@ -3768,6 +4187,7 @@
     code: gift_bundle_hh19_IDW
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3301
@@ -3781,6 +4201,7 @@
     code: gift_bundle_3znq19_K2
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3302
@@ -3794,6 +4215,7 @@
     code: gift_bundle_3znq19_AK12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3303
@@ -3807,6 +4229,7 @@
     code: gift_bundle_3znq19_AN94
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3304
@@ -3820,10 +4243,11 @@
     code: gift_bundle_3znq19_M99
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3305
-    name: M4R - 연회 관측자
+    name: MDR - 연회 관측자
     type: 2
     rank: 6
     favor: 50000
@@ -3833,6 +4257,7 @@
     code: gift_bundle_3znq19_MDR
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3306
@@ -3846,6 +4271,7 @@
     code: gift_bundle_3znq19_79type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3307
@@ -3859,6 +4285,7 @@
     code: gift_bundle_3znq19_G28
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3308
@@ -3872,6 +4299,7 @@
     code: gift_bundle_3znq19_K5
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3309
@@ -3885,6 +4313,7 @@
     code: gift_bundle_3znq19_Thunder50
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3401
@@ -3898,6 +4327,7 @@
     code: gift_bundle_etj19_HK416
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3402
@@ -3911,6 +4341,7 @@
     code: gift_bundle_etj19_K11
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3403
@@ -3924,6 +4355,7 @@
     code: gift_bundle_etj19_UMP45
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3404
@@ -3937,6 +4369,7 @@
     code: gift_bundle_etj19_UMP9
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3405
@@ -3950,6 +4383,7 @@
     code: gift_bundle_etj19_KSVK
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3406
@@ -3963,6 +4397,7 @@
     code: gift_bundle_etj19_OC44
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3501
@@ -3976,6 +4411,7 @@
     code: gift_bundle_summer19_R93
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3502
@@ -3989,6 +4425,7 @@
     code: gift_bundle_summer19_Lewis
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3503
@@ -4002,6 +4439,7 @@
     code: gift_bundle_summer19_CBJMS
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3504
@@ -4015,6 +4453,7 @@
     code: gift_bundle_summer19_Type88
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3505
@@ -4028,6 +4467,7 @@
     code: gift_bundle_summer19_4type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3506
@@ -4041,6 +4481,7 @@
     code: gift_bundle_summer19_SPS
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3507
@@ -4054,10 +4495,11 @@
     code: gift_bundle_summer19_Z62
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3601
-    name: A4S - 물빛 청춘
+    name: ADS - 물빛 청춘
     type: 2
     rank: 6
     favor: 50000
@@ -4067,6 +4509,7 @@
     code: gift_bundle_yukata19_ADS
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3602
@@ -4080,6 +4523,7 @@
     code: gift_bundle_yukata19_SAT8
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3603
@@ -4093,6 +4537,7 @@
     code: gift_bundle_yukata19_G36
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3604
@@ -4106,6 +4551,7 @@
     code: gift_bundle_yukata19_M249SAW
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3605
@@ -4119,6 +4565,7 @@
     code: gift_bundle_yukata19_OTs12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3701
@@ -4132,6 +4579,7 @@
     code: gift_bundle_dwxy19_PA15
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3702
@@ -4145,6 +4593,7 @@
     code: gift_bundle_dwxy19_95type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3703
@@ -4158,6 +4607,7 @@
     code: gift_bundle_dwxy19_97type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3704
@@ -4171,6 +4621,7 @@
     code: gift_bundle_dwxy19_SR3MP
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3705
@@ -4184,6 +4635,7 @@
     code: gift_bundle_dwxy19_Mk23
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3706
@@ -4197,6 +4649,7 @@
     code: gift_bundle_dwxy19_M590
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3707
@@ -4210,6 +4663,7 @@
     code: gift_bundle_dwxy19_M500
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3708
@@ -4223,6 +4677,7 @@
     code: gift_bundle_dwxy19_TMP
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3801
@@ -4236,6 +4691,7 @@
     code: gift_bundle_Halloween19_QBU88
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3802
@@ -4249,6 +4705,7 @@
     code: gift_bundle_Halloween19_G36C
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3803
@@ -4262,6 +4719,7 @@
     code: gift_bundle_Halloween19_M870P
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3805
@@ -4275,6 +4733,7 @@
     code: gift_bundle_Halloween19_KSVK
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3806
@@ -4288,6 +4747,7 @@
     code: gift_bundle_Halloween19_MG3
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3807
@@ -4301,6 +4761,7 @@
     code: gift_bundle_Halloween19_97typeS
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3808
@@ -4314,10 +4775,11 @@
     code: gift_bundle_Halloween19_PSG1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3809
-    name: Mo4el L - 흑야연옥찰
+    name: Model L - 흑야연옥찰
     type: 2
     rank: 6
     favor: 50000
@@ -4327,6 +4789,7 @@
     code: gift_bundle_Halloween19_CETME556
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3901
@@ -4340,6 +4803,7 @@
     code: gift_bundle_racing19_Saiga12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3902
@@ -4353,6 +4817,7 @@
     code: gift_bundle_racing19_P22
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3903
@@ -4366,6 +4831,7 @@
     code: gift_bundle_racing19_UKM2000
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3904
@@ -4379,6 +4845,7 @@
     code: gift_bundle_racing19_M2HB
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 3905
@@ -4392,6 +4859,7 @@
     code: gift_bundle_racing19_PPK
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4001
@@ -4405,6 +4873,7 @@
     code: gift_bundle_Xms19_Lewis
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4002
@@ -4418,6 +4887,7 @@
     code: gift_bundle_Xms19_HK21
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4003
@@ -4431,6 +4901,7 @@
     code: gift_bundle_Xms19_HKCAWS
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4004
@@ -4444,6 +4915,7 @@
     code: gift_bundle_Xms19_Type100
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4005
@@ -4457,6 +4929,7 @@
     code: gift_bundle_Xms19_PDW
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4006
@@ -4470,6 +4943,7 @@
     code: gift_bundle_Xms19_GepardM1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4007
@@ -4483,6 +4957,7 @@
     code: gift_bundle_Xms19_LWMMG
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4101
@@ -4496,6 +4971,7 @@
     code: gift_bundle_zy2020_SR3MP
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4102
@@ -4509,6 +4985,7 @@
     code: gift_bundle_zy2020_G11
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4103
@@ -4522,6 +4999,7 @@
     code: gift_bundle_zy2020_4type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4104
@@ -4535,6 +5013,7 @@
     code: gift_bundle_zy2020_9A91
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4105
@@ -4548,6 +5027,7 @@
     code: gift_bundle_zy2020_MG3
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4106
@@ -4561,6 +5041,7 @@
     code: gift_bundle_zy2020_M1A1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4107
@@ -4574,6 +5055,7 @@
     code: gift_bundle_zy2020_Falcon
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4201
@@ -4587,6 +5069,7 @@
     code: gift_bundle_spring2020_DP12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4202
@@ -4600,6 +5083,7 @@
     code: gift_bundle_spring2020_PA15
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4203
@@ -4613,6 +5097,7 @@
     code: gift_bundle_spring2020_PKP
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4204
@@ -4626,6 +5111,7 @@
     code: gift_bundle_spring2020_JS9mm
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4205
@@ -4639,6 +5125,7 @@
     code: gift_bundle_spring2020_MG36
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4206
@@ -4652,6 +5139,7 @@
     code: gift_bundle_spring2020_T91
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4207
@@ -4665,6 +5153,7 @@
     code: gift_bundle_spring2020_SPP1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4208
@@ -4678,6 +5167,7 @@
     code: gift_bundle_spring2020_M1895MG
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4209
@@ -4691,6 +5181,7 @@
     code: gift_bundle_spring2020_EM2
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4210
@@ -4704,6 +5195,7 @@
     code: gift_bundle_spring2020_MG34
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4301
@@ -4717,6 +5209,7 @@
     code: gift_bundle_WhiteV2020_98K
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4302
@@ -4730,6 +5223,7 @@
     code: gift_bundle_WhiteV2020_M950A
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4303
@@ -4743,6 +5237,7 @@
     code: gift_bundle_WhiteV2020_Grizzly
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4304
@@ -4756,6 +5251,7 @@
     code: gift_bundle_WhiteV2020_ZastavaM21
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4305
@@ -4769,6 +5265,7 @@
     code: gift_bundle_WhiteV2020_M1014
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4306
@@ -4782,6 +5279,7 @@
     code: gift_bundle_WhiteV2020_APS
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4308
@@ -4795,6 +5293,7 @@
     code: gift_bundle_WhiteV2020_FNFNC
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4309
@@ -4808,6 +5307,7 @@
     code: gift_bundle_WhiteV2020_RMB93
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4310
@@ -4821,6 +5321,7 @@
     code: gift_bundle_WhiteV2020_PM
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4401
@@ -4834,6 +5335,7 @@
     code: gift_bundle_Pajamas2020_AA12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4402
@@ -4847,6 +5349,7 @@
     code: gift_bundle_Pajamas2020_PA15
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4403
@@ -4860,6 +5363,7 @@
     code: gift_bundle_Pajamas2020_A91
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4404
@@ -4873,6 +5377,7 @@
     code: gift_bundle_Pajamas2020_P30
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4405
@@ -4886,6 +5391,7 @@
     code: gift_bundle_Pajamas2020_PP1901
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4406
@@ -4899,6 +5405,7 @@
     code: gift_bundle_Pajamas2020_NS2000
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4501
@@ -4912,6 +5419,7 @@
     code: gift_bundle_Anniversary2020_OTs14
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4502
@@ -4925,6 +5433,7 @@
     code: gift_bundle_Anniversary2020_M200
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4503
@@ -4938,6 +5447,7 @@
     code: gift_bundle_Anniversary2020_QBU88
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4504
@@ -4951,6 +5461,7 @@
     code: gift_bundle_Anniversary2020_RO635
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4505
@@ -4964,6 +5475,7 @@
     code: gift_bundle_Anniversary2020_M4A1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4506
@@ -4977,6 +5489,7 @@
     code: gift_bundle_Anniversary2020_M16A1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4507
@@ -4990,6 +5503,7 @@
     code: gift_bundle_Anniversary2020_M4 SOPMOD II
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4508
@@ -5003,6 +5517,7 @@
     code: gift_bundle_Anniversary2020_AR15
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4509
@@ -5016,6 +5531,7 @@
     code: gift_bundle_Anniversary2020_KSVK
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4510
@@ -5029,6 +5545,7 @@
     code: gift_bundle_Anniversary2020_Saiga12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4511
@@ -5042,6 +5559,7 @@
     code: gift_bundle_Anniversary2020_ZasM76
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4514
@@ -5055,6 +5573,7 @@
     code: gift_bundle_Anniversary2020_M1911
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4601
@@ -5068,6 +5587,7 @@
     code: gift_bundle_Children2020_AKAlfa
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4602
@@ -5081,6 +5601,7 @@
     code: gift_bundle_Children2020_BrowningHP
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4603
@@ -5094,6 +5615,7 @@
     code: gift_bundle_Children2020_X95
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4604
@@ -5107,6 +5629,7 @@
     code: gift_bundle_Children2020_FAMAS
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4605
@@ -5120,6 +5643,7 @@
     code: gift_bundle_Children2020_T5000
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4606
@@ -5133,6 +5657,7 @@
     code: gift_bundle_Children2020_TMP
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4607
@@ -5146,6 +5671,7 @@
     code: gift_bundle_Children2020_EVO3
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4702
@@ -5159,6 +5685,7 @@
     code: gift_bundle_YZ2020_JS9mm
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4703
@@ -5172,6 +5699,7 @@
     code: gift_bundle_YZ2020_ZB26
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4704
@@ -5185,6 +5713,7 @@
     code: gift_bundle_YZ2020_SL8
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4705
@@ -5198,10 +5727,11 @@
     code: gift_bundle_YZ2020_PP19
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4706
-    name: KAC-P4W - 달콤한 마음
+    name: KAC-PDW - 달콤한 마음
     type: 2
     rank: 6
     favor: 50000
@@ -5211,6 +5741,7 @@
     code: gift_bundle_YZ2020_KAC
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4707
@@ -5224,6 +5755,7 @@
     code: gift_bundle_YZ2020_Ak5
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4708
@@ -5237,6 +5769,7 @@
     code: gift_bundle_YZ2020_357
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4709
@@ -5250,6 +5783,7 @@
     code: gift_bundle_YZ2020_FN49
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4801
@@ -5263,6 +5797,7 @@
     code: gift_bundle_Armor2020_NTW20
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4802
@@ -5276,6 +5811,7 @@
     code: gift_bundle_Armor2020_AUG
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4803
@@ -5289,6 +5825,7 @@
     code: gift_bundle_Armor2020_M1891
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4804
@@ -5302,6 +5839,7 @@
     code: gift_bundle_Armor2020_Mk48
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4805
@@ -5315,6 +5853,7 @@
     code: gift_bundle_Armor2020_M1897
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4901
@@ -5328,6 +5867,7 @@
     code: gift_bundle_Edo2020_DP12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4902
@@ -5341,6 +5881,7 @@
     code: gift_bundle_Edo2020_MG5
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4903
@@ -5354,6 +5895,7 @@
     code: gift_bundle_Edo2020_MG36
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4904
@@ -5367,6 +5909,7 @@
     code: gift_bundle_Edo2020_R93
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4905
@@ -5380,6 +5923,7 @@
     code: gift_bundle_Edo2020_Type100
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4906
@@ -5393,6 +5937,7 @@
     code: gift_bundle_Edo2020_Tabuk
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4907
@@ -5406,10 +5951,11 @@
     code: gift_bundle_Edo2020_wz29
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 4908
-    name: I4W - 오뚝이 고양이 무사
+    name: IDW - 오뚝이 고양이 무사
     type: 2
     rank: 6
     favor: 50000
@@ -5419,6 +5965,7 @@
     code: gift_bundle_Edo2020_IDW
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5101
@@ -5432,10 +5979,11 @@
     code: gift_bundle_Halloween2020_GeneralLiu
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5102
-    name: Kor4 - 사일런트 댄서
+    name: Kord - 사일런트 댄서
     type: 2
     rank: 6
     favor: 50000
@@ -5445,6 +5993,7 @@
     code: gift_bundle_Halloween2020_Kord
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5103
@@ -5458,6 +6007,7 @@
     code: gift_bundle_Halloween2020_97type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5104
@@ -5471,6 +6021,7 @@
     code: gift_bundle_Halloween2020_06TypeSMG
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5105
@@ -5484,6 +6035,7 @@
     code: gift_bundle_Halloween2020_M82
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5106
@@ -5497,6 +6049,7 @@
     code: gift_bundle_Halloween2020_TT33
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5107
@@ -5510,6 +6063,7 @@
     code: gift_bundle_Halloween2020_M21
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5201
@@ -5523,6 +6077,7 @@
     code: gift_bundle_Agent2020_G36C
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5202
@@ -5536,6 +6091,7 @@
     code: gift_bundle_Agent2020_SL8
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5203
@@ -5549,6 +6105,7 @@
     code: gift_bundle_Agent2020_VHS
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5204
@@ -5562,6 +6119,7 @@
     code: gift_bundle_Agent2020_SuperShorty
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5205
@@ -5575,6 +6133,7 @@
     code: gift_bundle_Agent2020_SAF
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5206
@@ -5588,6 +6147,7 @@
     code: gift_bundle_Agent2020_TEC9
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5301
@@ -5601,6 +6161,7 @@
     code: gift_bundle_Christmas2020_VSK
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5302
@@ -5614,6 +6175,7 @@
     code: gift_bundle_Christmas2020_R5RGP
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5303
@@ -5627,6 +6189,7 @@
     code: gift_bundle_Christmas2020_SACR
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5304
@@ -5640,6 +6203,7 @@
     code: gift_bundle_Christmas2020_HS2000
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5305
@@ -5653,6 +6217,7 @@
     code: gift_bundle_Christmas2020_4type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5306
@@ -5666,6 +6231,7 @@
     code: gift_bundle_Christmas2020_K5
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5307
@@ -5679,6 +6245,7 @@
     code: gift_bundle_Christmas2020_PM1910
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5308
@@ -5691,7 +6258,8 @@
     poster: 35308
     code: gift_bundle_Christmas2020_88type
     bonus_description: 인형 코스튬 획득
-    description: 소문으로 듣던 바바야가, 놈이 연필 한 자루로 세 명이나 담그는 걸 내가 직접 봤어!
+    description: 传说中的BABAYAGA, 我亲眼看见用铅笔杀了三个人
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5309
@@ -5705,6 +6273,7 @@
     code: gift_bundle_Christmas2020_M1895
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5401
@@ -5718,6 +6287,7 @@
     code: gift_bundle_NewYear2021_ACR
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5402
@@ -5731,6 +6301,7 @@
     code: gift_bundle_NewYear2021_Saiga12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5403
@@ -5744,6 +6315,7 @@
     code: gift_bundle_NewYear2021_M950A
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5404
@@ -5757,6 +6329,7 @@
     code: gift_bundle_NewYear2021_Shipka
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5405
@@ -5770,6 +6343,7 @@
     code: gift_bundle_NewYear2021_UMP45
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5406
@@ -5783,6 +6357,7 @@
     code: gift_bundle_NewYear2021_UKM2000
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5407
@@ -5796,6 +6371,7 @@
     code: gift_bundle_NewYear2021_OBR
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5408
@@ -5809,6 +6385,7 @@
     code: gift_bundle_NewYear2021_EVO3
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5501
@@ -5822,6 +6399,7 @@
     code: gift_bundle_SpringFes2021_Lewis
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5502
@@ -5835,6 +6413,7 @@
     code: gift_bundle_SpringFes2021_QBU88
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5503
@@ -5848,6 +6427,7 @@
     code: gift_bundle_SpringFes2021_AUGPARA
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5504
@@ -5861,6 +6441,7 @@
     code: gift_bundle_SpringFes2021_KSVK
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5505
@@ -5874,10 +6455,11 @@
     code: gift_bundle_SpringFes2021_ColtDefender
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5506
-    name: SV4 - 달맞이 단홍
+    name: SVD - 달맞이 단홍
     type: 2
     rank: 6
     favor: 50000
@@ -5887,6 +6469,7 @@
     code: gift_bundle_SpringFes2021_SVD
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5507
@@ -5900,6 +6483,7 @@
     code: gift_bundle_SpringFes2021_92type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5508
@@ -5913,6 +6497,7 @@
     code: gift_bundle_SpringFes2021_56typeR
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5601
@@ -5926,6 +6511,7 @@
     code: gift_bundle_WhiteV2021_Webley
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5602
@@ -5939,6 +6525,7 @@
     code: gift_bundle_WhiteV2021_OTs14
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5603
@@ -5952,6 +6539,7 @@
     code: gift_bundle_WhiteV2021_ZB26
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5604
@@ -5965,6 +6553,7 @@
     code: gift_bundle_WhiteV2021_95type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5605
@@ -5978,6 +6567,7 @@
     code: gift_bundle_WhiteV2021_Ithaca37
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5606
@@ -5991,6 +6581,7 @@
     code: gift_bundle_WhiteV2021_XM8
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5607
@@ -6004,6 +6595,7 @@
     code: gift_bundle_WhiteV2021_81typeR
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5608
@@ -6017,6 +6609,7 @@
     code: gift_bundle_WhiteV2021_64type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5701
@@ -6030,6 +6623,7 @@
     code: gift_bundle_Detective2021_P90
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5702
@@ -6043,6 +6637,7 @@
     code: gift_bundle_Detective2021_Type64-AR
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5703
@@ -6056,6 +6651,7 @@
     code: gift_bundle_Detective2021_M1928A1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5704
@@ -6069,6 +6665,7 @@
     code: gift_bundle_Detective2021_MondragonM1908
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5706
@@ -6082,6 +6679,7 @@
     code: gift_bundle_Detective2021_EM2
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5707
@@ -6095,6 +6693,7 @@
     code: gift_bundle_Detective2021_Magal
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5801
@@ -6108,6 +6707,7 @@
     code: gift_bundle_Anniversary2021_C93
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5802
@@ -6121,6 +6721,7 @@
     code: gift_bundle_Anniversary2021_PA15
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5803
@@ -6134,6 +6735,7 @@
     code: gift_bundle_Anniversary2021_M82A1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5804
@@ -6147,6 +6749,7 @@
     code: gift_bundle_Anniversary2021_VSK
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5805
@@ -6160,6 +6763,7 @@
     code: gift_bundle_Anniversary2021_97typeS
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5806
@@ -6173,6 +6777,7 @@
     code: gift_bundle_Anniversary2021_FX05
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5807
@@ -6186,6 +6791,7 @@
     code: gift_bundle_Anniversary2021_CZ805
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5808
@@ -6199,6 +6805,7 @@
     code: gift_bundle_Anniversary2021_PPsh41
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5901
@@ -6212,6 +6819,7 @@
     code: gift_bundle_Children2021_RPK203
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5902
@@ -6225,6 +6833,7 @@
     code: gift_bundle_Children2021_Lusa
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5903
@@ -6238,6 +6847,7 @@
     code: gift_bundle_Children2021_SACR
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5904
@@ -6251,6 +6861,7 @@
     code: gift_bundle_Children2021_PKP
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5905
@@ -6264,6 +6875,7 @@
     code: gift_bundle_Children2021_06TypeSMG
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5906
@@ -6277,6 +6889,7 @@
     code: gift_bundle_Children2021_Ak5
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5907
@@ -6290,6 +6903,7 @@
     code: gift_bundle_Children2021_M82
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 5908
@@ -6303,6 +6917,7 @@
     code: gift_bundle_Children2021_wz29
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6101
@@ -6316,6 +6931,7 @@
     code: gift_bundle_YZ2021_LTLX7000
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6102
@@ -6329,6 +6945,7 @@
     code: gift_bundle_YZ2021_DP12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6103
@@ -6342,10 +6959,11 @@
     code: gift_bundle_YZ2021_Px4Storm
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6105
-    name: PP4-40 - 분홍색 산호초
+    name: PPD-40 - 분홍색 산호초
     type: 2
     rank: 6
     favor: 50000
@@ -6355,6 +6973,7 @@
     code: gift_bundle_YZ2021_PPD40
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6106
@@ -6368,6 +6987,7 @@
     code: gift_bundle_YZ2021_UKM2000
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6107
@@ -6381,6 +7001,7 @@
     code: gift_bundle_YZ2021_VPM5
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6108
@@ -6394,6 +7015,7 @@
     code: gift_bundle_YZ2021_QSB91
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6109
@@ -6407,6 +7029,7 @@
     code: gift_bundle_YZ2021_PPK
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6201
@@ -6420,6 +7043,7 @@
     code: gift_bundle_Fur2021_PM9
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6202
@@ -6433,6 +7057,7 @@
     code: gift_bundle_Fur2021_Delisle
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6203
@@ -6446,6 +7071,7 @@
     code: gift_bundle_Fur2021_Mk12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6204
@@ -6459,6 +7085,7 @@
     code: gift_bundle_Fur2021_9A91
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6205
@@ -6472,6 +7099,7 @@
     code: gift_bundle_Fur2021_TT33
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6206
@@ -6485,6 +7113,7 @@
     code: gift_bundle_Fur2021_Tabuk
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6207
@@ -6498,6 +7127,7 @@
     code: gift_bundle_Fur2021_OC44
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6301
@@ -6511,6 +7141,7 @@
     code: gift_bundle_Dating2021_AUGPARA
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6302
@@ -6524,6 +7155,7 @@
     code: gift_bundle_Dating2021_SL8
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6303
@@ -6537,6 +7169,7 @@
     code: gift_bundle_Dating2021_SP9
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6304
@@ -6550,6 +7183,7 @@
     code: gift_bundle_Dating2021_MondragonM1908
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6305
@@ -6563,6 +7197,7 @@
     code: gift_bundle_Dating2021_RexZero1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6306
@@ -6576,6 +7211,7 @@
     code: gift_bundle_Dating2021_CETME556
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6401
@@ -6589,6 +7225,7 @@
     code: gift_bundle_Halloween2021_95type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6402
@@ -6602,6 +7239,7 @@
     code: gift_bundle_Halloween2021_SVCh
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6403
@@ -6615,6 +7253,7 @@
     code: gift_bundle_Halloween2021_CBJMS
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6404
@@ -6628,6 +7267,7 @@
     code: gift_bundle_Halloween2021_KAC
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6405
@@ -6641,6 +7281,7 @@
     code: gift_bundle_Halloween2021_MP443
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6406
@@ -6654,6 +7295,7 @@
     code: gift_bundle_Halloween2021_LWMMG
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6501
@@ -6667,6 +7309,7 @@
     code: gift_bundle_Meka2021_DesertEagle
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6502
@@ -6680,6 +7323,7 @@
     code: gift_bundle_Meka2021_SIGMCX
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6503
@@ -6693,6 +7337,7 @@
     code: gift_bundle_Meka2021_88type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6504
@@ -6706,6 +7351,7 @@
     code: gift_bundle_Meka2021_MG36
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6505
@@ -6719,6 +7365,7 @@
     code: gift_bundle_Meka2021_HK416
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6507
@@ -6732,6 +7379,7 @@
     code: gift_bundle_Meka2021_F1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6601
@@ -6745,6 +7393,7 @@
     code: gift_bundle_Christmas2021_HowaType89
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6603
@@ -6758,6 +7407,7 @@
     code: gift_bundle_Christmas2021_Python
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6604
@@ -6771,6 +7421,7 @@
     code: gift_bundle_Christmas2021_VP1915
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6605
@@ -6784,6 +7435,7 @@
     code: gift_bundle_Christmas2021_CR21
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6606
@@ -6797,6 +7449,7 @@
     code: gift_bundle_Christmas2021_Cx4Storm
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6607
@@ -6810,6 +7463,7 @@
     code: gift_bundle_Christmas2021_SAF
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6608
@@ -6823,6 +7477,7 @@
     code: gift_bundle_Christmas2021_FNFNC
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6701
@@ -6836,6 +7491,7 @@
     code: gift_bundle_NewYear2022_Vector
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6702
@@ -6849,6 +7505,7 @@
     code: gift_bundle_NewYear2022_LTLX7000
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6703
@@ -6862,6 +7519,7 @@
     code: gift_bundle_NewYear2022_Lusa
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6704
@@ -6875,6 +7533,7 @@
     code: gift_bundle_NewYear2022_UMP9
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6705
@@ -6888,6 +7547,7 @@
     code: gift_bundle_NewYear2022_AR57
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6706
@@ -6901,6 +7561,7 @@
     code: gift_bundle_NewYear2022_VPM5
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6707
@@ -6914,6 +7575,7 @@
     code: gift_bundle_NewYear2022_M14
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6801
@@ -6927,6 +7589,7 @@
     code: gift_bundle_SpringFes2022_SP9
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6802
@@ -6940,6 +7603,7 @@
     code: gift_bundle_SpringFes2022_Kolibri
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6803
@@ -6953,6 +7617,7 @@
     code: gift_bundle_SpringFes2022_A545
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6804
@@ -6966,6 +7631,7 @@
     code: gift_bundle_SpringFes2022_TKB408
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6805
@@ -6979,6 +7645,7 @@
     code: gift_bundle_SpringFes2022_HS50
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6806
@@ -6992,6 +7659,7 @@
     code: gift_bundle_SpringFes2022_MP7
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6807
@@ -7005,6 +7673,7 @@
     code: gift_bundle_SpringFes2022_G36
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6808
@@ -7018,6 +7687,7 @@
     code: gift_bundle_SpringFes2022_APS
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6809
@@ -7031,6 +7701,7 @@
     code: gift_bundle_SpringFes2022_FN49
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6901
@@ -7044,6 +7715,7 @@
     code: gift_bundle_WhiteV2022_Lewis
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6902
@@ -7057,6 +7729,7 @@
     code: gift_bundle_WhiteV2022_97type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6903
@@ -7070,6 +7743,7 @@
     code: gift_bundle_WhiteV2022_P22
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6904
@@ -7083,6 +7757,7 @@
     code: gift_bundle_WhiteV2022_79type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6905
@@ -7096,6 +7771,7 @@
     code: gift_bundle_WhiteV2022_K5
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6906
@@ -7109,6 +7785,7 @@
     code: gift_bundle_WhiteV2022_T77
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6907
@@ -7122,6 +7799,7 @@
     code: gift_bundle_WhiteV2022_M1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6908
@@ -7135,6 +7813,7 @@
     code: gift_bundle_WhiteV2022_Falcon
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 6909
@@ -7148,6 +7827,7 @@
     code: gift_bundle_WhiteV2022_LWMMG
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7001
@@ -7161,6 +7841,7 @@
     code: gift_bundle_OfficeLady2022_CZ75
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7002
@@ -7174,6 +7855,7 @@
     code: gift_bundle_OfficeLady2022_FX05
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7003
@@ -7187,6 +7869,7 @@
     code: gift_bundle_OfficeLady2022_RexZero1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7004
@@ -7200,6 +7883,7 @@
     code: gift_bundle_OfficeLady2022_C14
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7101
@@ -7213,6 +7897,7 @@
     code: gift_bundle_Anniversary2022_ZB26
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7102
@@ -7226,6 +7911,7 @@
     code: gift_bundle_Anniversary2022_Type100
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7103
@@ -7239,6 +7925,7 @@
     code: gift_bundle_Anniversary2022_Rhino
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7104
@@ -7252,6 +7939,7 @@
     code: gift_bundle_Anniversary2022_ColtDefender
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7105
@@ -7265,6 +7953,7 @@
     code: gift_bundle_Anniversary2022_MP443
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7106
@@ -7278,6 +7967,7 @@
     code: gift_bundle_Anniversary2022_88type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7107
@@ -7291,6 +7981,7 @@
     code: gift_bundle_Anniversary2022_M1895
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7108
@@ -7304,6 +7995,7 @@
     code: gift_bundle_Anniversary2022_64type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7201
@@ -7317,6 +8009,7 @@
     code: gift_bundle_Children2022_VSK
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7202
@@ -7330,6 +8023,7 @@
     code: gift_bundle_Children2022_95type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7203
@@ -7343,6 +8037,7 @@
     code: gift_bundle_Children2022_Px4Storm
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7204
@@ -7356,6 +8051,7 @@
     code: gift_bundle_Children2022_Tabuk
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7205
@@ -7369,6 +8065,7 @@
     code: gift_bundle_Children2022_MG3
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7206
@@ -7382,6 +8079,7 @@
     code: gift_bundle_Children2022_56typeR
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7301
@@ -7395,6 +8093,7 @@
     code: gift_bundle_Swimsuit2022_M6ASW
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7302
@@ -7408,6 +8107,7 @@
     code: gift_bundle_Swimsuit2022_Savage99
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7303
@@ -7421,6 +8121,7 @@
     code: gift_bundle_Swimsuit2022_Sterling
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7304
@@ -7434,6 +8135,7 @@
     code: gift_bundle_Swimsuit2022_HS50
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7305
@@ -7447,6 +8149,7 @@
     code: gift_bundle_Swimsuit2022_AK74M
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7306
@@ -7460,6 +8163,7 @@
     code: gift_bundle_Swimsuit2022_06TypeSMG
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7307
@@ -7473,6 +8177,7 @@
     code: gift_bundle_Swimsuit2022_EVO3
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7308
@@ -7486,7 +8191,7 @@
     code: gift_bundle_Swimsuit2022_IWS2000
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
-    detail_introduction: gift_item-40007308
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7401
@@ -7500,6 +8205,7 @@
     code: gift_bundle_Cosmos2022_ACR
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7402
@@ -7513,6 +8219,7 @@
     code: gift_bundle_Cosmos2022_SCR
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7403
@@ -7526,6 +8233,7 @@
     code: gift_bundle_Cosmos2022_QBU88
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7404
@@ -7539,6 +8247,7 @@
     code: gift_bundle_Cosmos2022_SIGMCX
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7406
@@ -7552,6 +8261,7 @@
     code: gift_bundle_Cosmos2022_G41
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7407
@@ -7565,7 +8275,7 @@
     code: gift_bundle_Cosmos2022_88type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
-    detail_introduction: ","
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7408
@@ -7579,6 +8289,7 @@
     code: gift_bundle_Cosmos2022_TavorTS12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7501
@@ -7592,6 +8303,7 @@
     code: gift_bundle_Sport2022_PA15
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7502
@@ -7605,6 +8317,7 @@
     code: gift_bundle_Sport2022_SR2
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7503
@@ -7618,6 +8331,7 @@
     code: gift_bundle_Sport2022_HKCAWS
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7504
@@ -7631,6 +8345,7 @@
     code: gift_bundle_Sport2022_SAF
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7505
@@ -7644,6 +8359,7 @@
     code: gift_bundle_Sport2022_Nova
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7506
@@ -7657,6 +8373,7 @@
     code: gift_bundle_Sport2022_C14
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7601
@@ -7670,6 +8387,7 @@
     code: gift_bundle_Halloween2022_M327
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7602
@@ -7683,6 +8401,7 @@
     code: gift_bundle_Halloween2022_KH2002
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7603
@@ -7696,6 +8415,7 @@
     code: gift_bundle_Halloween2022_JS9mm
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7604
@@ -7709,6 +8429,7 @@
     code: gift_bundle_Halloween2022_PPQ
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7605
@@ -7722,6 +8443,7 @@
     code: gift_bundle_Halloween2022_StenMK2
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7606
@@ -7735,6 +8457,7 @@
     code: gift_bundle_Halloween2022_MG42
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7607
@@ -7748,6 +8471,7 @@
     code: gift_bundle_Halloween2022_G43
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7701
@@ -7761,6 +8485,7 @@
     code: gift_bundle_KungFu2022_GeneralLiu
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7702
@@ -7774,6 +8499,7 @@
     code: gift_bundle_KungFu2022_QBZ191
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7703
@@ -7787,6 +8513,7 @@
     code: gift_bundle_KungFu2022_VP1915
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7704
@@ -7800,6 +8527,7 @@
     code: gift_bundle_KungFu2022_Ak5
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7705
@@ -7813,6 +8541,7 @@
     code: gift_bundle_KungFu2022_4type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7706
@@ -7826,6 +8555,7 @@
     code: gift_bundle_KungFu2022_56-1type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7801
@@ -7839,6 +8569,7 @@
     code: gift_bundle_Christmas2022_Delisle
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7802
@@ -7852,6 +8583,7 @@
     code: gift_bundle_Christmas2022_Lusa
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7804
@@ -7865,6 +8597,7 @@
     code: gift_bundle_Christmas2022_MPL
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7806
@@ -7878,6 +8611,7 @@
     code: gift_bundle_Christmas2022_MPK
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7807
@@ -7891,6 +8625,7 @@
     code: gift_bundle_Christmas2022_KSVK
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7809
@@ -7904,6 +8639,7 @@
     code: gift_bundle_Christmas2022_BrenTen
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7902
@@ -7917,6 +8653,7 @@
     code: gift_bundle_NewYear2023_A545
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7903
@@ -7930,6 +8667,7 @@
     code: gift_bundle_NewYear2023_SL8
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7904
@@ -7943,6 +8681,7 @@
     code: gift_bundle_NewYear2023_FX05
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7905
@@ -7956,6 +8695,7 @@
     code: gift_bundle_NewYear2023_PPD40
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7906
@@ -7969,6 +8709,7 @@
     code: gift_bundle_NewYear2023_OTs39
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 7907
@@ -7982,6 +8723,7 @@
     code: gift_bundle_NewYear2023_MicroUZI
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8001
@@ -7995,6 +8737,7 @@
     code: gift_bundle_SpringFes2023_MK3A1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8002
@@ -8008,6 +8751,7 @@
     code: gift_bundle_SpringFes2023_Px4Storm
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8003
@@ -8021,6 +8765,7 @@
     code: gift_bundle_SpringFes2023_Erma
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8004
@@ -8034,6 +8779,7 @@
     code: gift_bundle_SpringFes2023_Savage99
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8005
@@ -8047,6 +8793,7 @@
     code: gift_bundle_SpringFes2023_RexZero1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8006
@@ -8060,6 +8807,7 @@
     code: gift_bundle_SpringFes2023_Tabuk
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8007
@@ -8073,6 +8821,7 @@
     code: gift_bundle_SpringFes2023_APC556
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8008
@@ -8086,6 +8835,7 @@
     code: gift_bundle_SpringFes2023_DP28
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8101
@@ -8099,6 +8849,7 @@
     code: gift_bundle_WhiteV2023_DP12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8102
@@ -8112,6 +8863,7 @@
     code: gift_bundle_WhiteV2023_SP9
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8103
@@ -8125,6 +8877,7 @@
     code: gift_bundle_WhiteV2023_AUG
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8105
@@ -8138,6 +8891,7 @@
     code: gift_bundle_WhiteV2023_MondragonM1908
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8106
@@ -8151,6 +8905,7 @@
     code: gift_bundle_WhiteV2023_TAR21
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8107
@@ -8164,6 +8919,7 @@
     code: gift_bundle_WhiteV2023_357
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8108
@@ -8177,6 +8933,7 @@
     code: gift_bundle_WhiteV2023_MP443
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8201
@@ -8190,6 +8947,7 @@
     code: gift_bundle_Piracy2023_Kord
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8202
@@ -8203,6 +8961,7 @@
     code: gift_bundle_Piracy2023_KH2002
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8203
@@ -8216,6 +8975,7 @@
     code: gift_bundle_Piracy2023_SIGMCX
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8204
@@ -8229,6 +8989,7 @@
     code: gift_bundle_Piracy2023_PTRD
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8205
@@ -8242,6 +9003,7 @@
     code: gift_bundle_Piracy2023_TavorTS12
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 8206
@@ -8255,6 +9017,7 @@
     code: gift_bundle_Piracy2023_MP41
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 30001
@@ -8268,6 +9031,7 @@
     code: gift_bundle_BattlePass_AR15
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 30002
@@ -8281,6 +9045,7 @@
     code: gift_bundle_BattlePass_DSR50
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 30003
@@ -8294,6 +9059,7 @@
     code: gift_bundle_BattlePass_Lewis
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 30004
@@ -8307,6 +9073,7 @@
     code: gift_bundle_BattlePass_ColtWalker
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 30005
@@ -8320,6 +9087,7 @@
     code: gift_bundle_BattlePass_scarL
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 30006
@@ -8333,6 +9101,7 @@
     code: gift_bundle_BattlePass_C93
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 100001
@@ -8342,9 +9111,10 @@
     favor: 1000
     code: gift_item_lollipop_N
     bonus_description: 없음
-    description: 숙소에서 인형에게 선물 시, 호감도가 아주조금 상승합니다.
+    description: 在宿舍内赠送给对应人形，可以获得微量好感度。
     item_access: "21"
     sort: 1001
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 100002
@@ -8354,9 +9124,10 @@
     favor: 3000
     code: gift_item_icecream_R
     bonus_description: 없음
-    description: 숙소에서 인형에게 선물 시, 호감도가 조금 상승합니다.
+    description: 在宿舍内赠送给对应人形，可以获得少量好感度。
     item_access: "21"
     sort: 1002
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 100003
@@ -8366,9 +9137,10 @@
     favor: 10000
     code: gift_item_cake_SR
     bonus_description: 없음
-    description: 숙소에서 인형에게 선물 시, 호감도가 1 상승합니다.
+    description: 在宿舍内赠送给对应人形，可以获得1点好感度。
     item_access: "21,19,11,2"
     sort: 1003
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 100004
@@ -8377,9 +9149,11 @@
     rank: 5
     favor: 30000
     code: gift_item_destiny
-    description: 숙소에서 인형에게 선물 시, 호감도가 3 상승합니다.
+    bonus_description: 없음
+    description: 선물받은 인형의 호감도가 3 상승합니다.
     item_access: "2"
     sort: -1005
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 100005
@@ -8388,9 +9162,11 @@
     rank: 5
     favor: 30000
     code: gift_item_mulantea
-    description: 숙소에서 인형에게 선물 시, 호감도가 3 상승합니다.
+    bonus_description: 없음
+    description: 선물받은 인형의 호감도가 3 상승합니다.
     item_access: "2"
     sort: -1007
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 100006
@@ -8399,9 +9175,11 @@
     rank: 5
     favor: 30000
     code: gift_item_afternoonTea
-    description: 숙소에서 인형에게 선물 시, 호감도가 3 상승합니다.
+    bonus_description: 없음
+    description: 선물받은 인형의 호감도가 3 상승합니다.
     item_access: "2"
     sort: -1009
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 100007
@@ -8411,9 +9189,10 @@
     favor: 30000
     code: gift_item_whiskey
     bonus_description: 도시를 탈환하면 내가 한잔 쏠게. 그러니까, "도시를 탈환하면" 말이야.
-    description: 숙소에서 인형에게 선물 시, 호감도가 3 상승합니다.
+    description: 선물받은 인형의 호감도가 3 상승합니다.
     item_access: "2"
     sort: -1011
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 100008
@@ -8422,10 +9201,168 @@
     rank: 5
     favor: 30000
     code: gift_item_edenApple
+    bonus_description: 없음
     description: 선물받은 인형의 호감도가 3 상승합니다.
     item_access: "2"
     detail_introduction: 원래는 채집 금지였던 사과이지만, 어느 장사꾼이 그 가치를 발견하고 얼마 안 가 예약하려면 일러도 반 년 걸리는 사과 품종이 되었습니다.
     sort: -1014
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 100009
+    name: 위장 씨앗
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_Mimicmelonseeds
+    bonus_description: 없음
+    description: 위장 씨앗을 심으면 위장 수박이 자랄까요...? 근데 그러면 그냥 수박이랑 무슨 차이죠?
+    item_access: "33"
+    sort: -1015
+    normal_description: 호감도 상승
+  }
+  {
+    id: 100010
+    name: 호러 잭오랜턴
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_pumpkinhead
+    bonus_description: 없음
+    description: 한반중 깼을 때 머리맡에 잭오랜턴을 보면 한 순간 꿈과 현실이 헷갈리지 않을까요?
+    item_access: "33"
+    sort: -1015
+    normal_description: 호감도 상승
+  }
+  {
+    id: 100011
+    name: 산타클로스의 수염
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_beard
+    bonus_description: 없음
+    description: 인형들이 쟁탈전을 벌인 변장 도구, 한 때 그리폰의 카메라 필터의 트렌드가 되기도 했습니다.
+    item_access: "33"
+    sort: -1015
+    normal_description: 호감도 상승
+  }
+  {
+    id: 100012
+    name: 징글벨
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_bell
+    bonus_description: 없음
+    description: 산타클로스를 믿는 자만이 이 맑은 종소리를 들을 수 있다고 합니다.
+    item_access: "33"
+    sort: -1015
+    normal_description: 호감도 상승
+  }
+  {
+    id: 100013
+    name: 순록 머리띠
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_antlerheaddress
+    bonus_description: 없음
+    description: 초특급 키 크기 아이템, 짜리몽땅 인형에게 최고의 선물... 응? 신장 잴 땐 벗어야 한다고요!?
+    item_access: "33"
+    sort: -1015
+    normal_description: 호감도 상승
+  }
+  {
+    id: 100014
+    name: 샤크볼
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_sharkvolleyball
+    bonus_description: 없음
+    description: 살상 부품은 모두 제거하여 더 이상 "폭발 스파이크"를 일으킬 수 없습니다. 정정당당하게 비치발리볼로 승부하세요!
+    item_access: "33"
+    sort: -1015
+    normal_description: 호감도 상승
+  }
+  {
+    id: 100015
+    name: 고무 조각
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_brokenrubber
+    bonus_description: 없음
+    description: 이걸 배구공으로 복원하기엔 틀렸지만, 여전히 불화살, 새총, 비수 등 긴급 전략 물자의 재료로 쓸 수 있습니다.
+    item_access: "33"
+    sort: -1015
+    normal_description: 호감도 상승
+  }
+  {
+    id: 100016
+    name: 바삭한 다크초콜릿 껍질
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_darkchocolate
+    bonus_description: 없음
+    description: 폭발로 초코볼 표면의 아몬드와 다크초콜릿이 더 고소한 향기를 풍기게 됐습니다.
+    item_access: "33"
+    sort: -1015
+    normal_description: 호감도 상승
+  }
+  {
+    id: 100017
+    name: 바삭한 화이트초콜릿 껍질
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_Whitechocolate
+    bonus_description: 없음
+    description: 폭발로 초코볼 표면의 아몬드와 화이트초콜릿이 더 달콤한 향기를 풍기게 됐습니다.
+    item_access: "33"
+    sort: -1015
+    normal_description: 호감도 상승
+  }
+  {
+    id: 100018
+    name: 바삭한 카카오 껍질
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_chocolatechips
+    bonus_description: 없음
+    description: 폭발로 초코볼 내부의 가나슈가 녹아버렸지만, 그윽한 향기는 여전히 껍질에 남아있습니다.
+    item_access: "33"
+    sort: -1015
+    normal_description: 호감도 상승
+  }
+  {
+    id: 100019
+    name: 울부짖는 디저트
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_dessert
+    bonus_description: 없음
+    description: 초콜릿 앞에서 멍멍 짖는 이상한 디저트... 정말 드리머의 말대로 먹어도 되는 걸까요?
+    item_access: "33"
+    sort: -1015
+    normal_description: 호감도 상승
+  }
+  {
+    id: 100020
+    name: 초록 줄무늬 풍선
+    type: 1
+    rank: 2
+    favor: 1000
+    code: gift_item_watermelonballoon
+    bonus_description: 없음
+    description: 바다 외딴섬에서 주운 풍선, 아마 수박 같은데.. 잠깐 이거 얼굴 그린 게... 누가 한 거야! 거기 서라!!
+    item_access: "33"
+    sort: -1015
+    normal_description: 호감도 상승
   }
   {
     id: 100021
@@ -8434,10 +9371,12 @@
     rank: 5
     favor: 30000
     code: gift_item_glowstick
+    bonus_description: 없음
     description: 선물받은 인형의 호감도가 3 상승합니다.
     item_access: "2"
     detail_introduction: 응원이란, 말도 표정도 필요 없이 오로지 손에 든 형광봉과 가지런한 응원춤만으로도, 무대 위의 우상들에게 그들과 자신 사이에 끊을 수 없는 연결고리가 있음을 알려주는 것이다.
     sort: -1015
+    normal_description: 선물 시 호감도 획득
   }
   {
     id: 200001
@@ -8445,11 +9384,12 @@
     type: 3
     rank: 6
     code: battle_report
-    bonus_description: 경험치 획득
+    bonus_description: 없음
     description: '''"보기엔 당시 용량 1.4Mb 밖에 안 되는 디스켓처럼 보이지만 다행히 내부 용량을 개선했습니다. 아니면 보고서 1개당 한 트럭이나 필요했겠죠."'''
     exp: 3000
     item_access: "24,16,6,2"
     sort: 1004
+    normal_description: 인형과 요정에게 선물 시 경험치 획득
   }
   {
     id: 200002
@@ -8457,11 +9397,12 @@
     type: 3
     rank: 5
     code: gift_item_brightsong
-    bonus_description: 경험치 획득
+    bonus_description: 없음
     description: 숙소에서 인형에게 선물 시, 경험치가 10000 상승합니다.
     exp: 10000
     item_access: "2"
     sort: -1006
+    normal_description: 인형과 요정에게 선물 시 경험치 획득
   }
   {
     id: 200003
@@ -8469,11 +9410,12 @@
     type: 3
     rank: 5
     code: gift_item_cheapbeer
-    bonus_description: 경험치 획득
+    bonus_description: 없음
     description: 숙소에서 인형에게 선물 시, 경험치가 10000 상승합니다.
     exp: 10000
     item_access: "2"
     sort: -1008
+    normal_description: 인형과 요정에게 선물 시 경험치 획득
   }
   {
     id: 200004
@@ -8481,10 +9423,12 @@
     type: 3
     rank: 5
     code: gift_item_targetPaper
+    bonus_description: 없음
     description: 숙소에서 인형에게 선물 시, 경험치가 10000 상승합니다.
     exp: 10000
     item_access: "2"
     sort: -1010
+    normal_description: 인형과 요정에게 선물 시 경험치 획득
   }
   {
     id: 200005
@@ -8497,6 +9441,7 @@
     exp: 10000
     item_access: "2"
     sort: -1012
+    normal_description: 인형과 요정에게 선물 시 경험치 획득
   }
   {
     id: 200006
@@ -8504,11 +9449,194 @@
     type: 3
     rank: 5
     code: gift_item_tearsofSatan
-    description: 선물받은 인형은 경험치를 10000 획득합니다.
+    description: 숙소에서 인형에게 선물 시, 경험치가 10000 상승합니다.
     exp: 10000
     item_access: "2"
     detail_introduction: 소문에 의하면 사탄 님의 마도 연구 중 생성된 부산물로, 악마가 마시면 강해집니다. 하지만 사용 후기가 너무 처참했던 탓에 악성 재고가 되어 억지로 끼워파는 사은품이 되었습니다.
     sort: -1013
+    normal_description: 인형과 요정에게 선물 시 경험치 획득
+  }
+  {
+    id: 200007
+    name: 크랩 캐논
+    type: 3
+    rank: 6
+    code: gift_item_crabcannon
+    bonus_description: 없음
+    description: 이미 사용할 순 없지만, 들고 있으면 멋있습니다.
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 경험치 획득
+  }
+  {
+    id: 200008
+    name: 가시 불가사리
+    type: 3
+    rank: 6
+    code: gift_item_starfish
+    bonus_description: 없음
+    description: 딱히 위험해 보이지 않는 불가사리, 말랑말랑해서 재밌는데, 혹시 폭발하진 않겠죠? ...펑!
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 경험치 획득
+  }
+  {
+    id: 200009
+    name: 떠도는 도깨비불
+    type: 3
+    rank: 6
+    code: gift_item_ghost
+    bonus_description: 없음
+    description: 이게 어떻게 발생한 건지 묻지 마세요, 녀석 스스로도 모를 테니까.
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 경험치 획득
+  }
+  {
+    id: 200010
+    name: 클래식 빗자루
+    type: 3
+    rank: 6
+    code: gift_item_broom
+    bonus_description: 없음
+    description: 비행 모드 프로토콜 효력 상실, 최소한 바닥은 쓸 수 있겠죠.
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 경험치 획득
+  }
+  {
+    id: 200011
+    name: 흑기사의 관
+    type: 3
+    rank: 6
+    code: gift_item_blackknighthelmet
+    bonus_description: 없음
+    description: 단단한 투구는 주인의 불굴의 투지를 나타낸다... 잠깐, 이거 뿔이 말랑한데 커스터마이징 되는 거야?
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 경험치 획득
+  }
+  {
+    id: 200012
+    name: 뜨거운 빛 구슬
+    type: 3
+    rank: 6
+    code: gift_item_desire
+    bonus_description: 없음
+    description: 다량의 열에너지를 품은 구체, 겨울에 손난로로 쓰기 딱 좋습니다.
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 경험치 획득
+  }
+  {
+    id: 200013
+    name: 푸른 부케
+    type: 3
+    rank: 6
+    code: gift_item_bluebouquet
+    bonus_description: 없음
+    description: 지금은 그리폰 인형의 회피 연습에 널리 사용됩니다.
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 경험치 획득
+  }
+  {
+    id: 200014
+    name: 백골의 심장
+    type: 3
+    rank: 6
+    code: gift_item_bonesheart
+    bonus_description: 없음
+    description: 새하얀 뼈로 조각한 하트 팬던트, 울적한 기운을 풍깁니다.
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 경험치 획득
+  }
+  {
+    id: 200015
+    name: 새하얀 커튼
+    type: 3
+    rank: 6
+    code: gift_item_whiterag
+    bonus_description: 없음
+    description: 아주 눈에 있는 하얀 천, 구멍이 몇 개 뚫렸지만 여전히 붕대, 소음기, 화염병 등 긴급 전략 물자로 쓸만합니다.
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 경험치 획득
+  }
+  {
+    id: 200016
+    name: 서머 킬러
+    type: 3
+    rank: 6
+    code: gift_item_watergun
+    bonus_description: 없음
+    description: 간단히 개조한 이 고압 물총은 각종 스테이터스가 모두 훌륭해 높은 범용성을 자랑합니다. 각종 물놀이에 대응할 수 있죠.
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 경험치 획득
+  }
+  {
+    id: 200017
+    name: 무가당게이트
+    type: 3
+    rank: 6
+    code: gift_item_ants
+    bonus_description: 없음
+    description: 표면의 생크림과 초콜릿 그리고 케이크 빵 모두 어느 인형이 먹어버렸습니다. 그녀의 이빨이 무사하길 빌죠.
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 경험치 획득
+  }
+  {
+    id: 200018
+    name: 피셔 튜브
+    type: 3
+    rank: 6
+    code: gift_item_lifebuoy
+    bonus_description: 없음
+    description: 1... 100킬로그램짜리 튜브라고요!? 이런 건 푸시업, 스쿼트, 짐 끌고 달리기 같은 데에나 쓰겠는데요...
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 경험치 획득
+  }
+  {
+    id: 200019
+    name: 피셔 차지 4K
+    type: 3
+    rank: 6
+    code: gift_item_watergun2
+    bonus_description: 없음
+    description: 이 고압물총은 사거리가 뛰어나고, 극강의 안정성을 자랑합니다. 거기에 특수 공격 방식인 관통 분사까지 지니고 있어 일직선 상의 다수 라이벌을 한 방에 해치울 수 있습니다.
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 경험치 획득
+  }
+  {
+    id: 200020
+    name: 피셔 서핑보드
+    type: 3
+    rank: 6
+    code: gift_item_surfboard
+    bonus_description: 없음
+    description: 서핑보드계의 백상아리! 다음 그리폰 서핑 대회에서 우승하고 싶나요? 지금 바로 주문하세요!
+    exp: 3000
+    item_access: "33"
+    sort: -1015
+    normal_description: 경험치 획득
   }
   {
     id: 200021
@@ -8516,11 +9644,13 @@
     type: 3
     rank: 5
     code: gift_item_Sagamic
+    bonus_description: 없음
     description: 숙소에서 인형에게 선물 시, 경험치가 10000 상승합니다.
     exp: 10000
     item_access: "2"
     detail_introduction: 아이돌이 되는 길에 지름길은 없고, 오로지 꾸준한 연습을 통해야만 무대에 올라 관객들이 뒤돌아보게 할 수 있다.
     sort: -1016
+    normal_description: 인형과 요정에게 선물 시 경험치 획득
   }
   {
     id: 400001
@@ -8528,10 +9658,11 @@
     type: 4
     rank: 6
     code: SangvisExp_RapidGrowthDisk
-    bonus_description: 경험치 획득
-    description: 혼합세력유닛 전용 학습 디스크입니다. 안에는 그리폰의 전투 교리와 사회도덕 교육 내용이 들어 있습니다.
+    bonus_description: 없음
+    description: 仅供融合势力人形使用的学习磁盘，内部记载了格里芬的战斗课程和思想品德课程。
     exp: 3000
     item_access: "19,20,22"
     sort: 1005
+    normal_description: 融合势力单位可경험치 획득
   }
 ]

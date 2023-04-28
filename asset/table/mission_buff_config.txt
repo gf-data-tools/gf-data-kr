@@ -1122,3 +1122,19 @@ mission_buff_config-10570602,배달음식 소지
 mission_buff_config-20570602,배달음식 잔뜩
 mission_buff_config-10570501,적 가속 buff
 mission_buff_config-20570501,
+mission_buff_config-10078001,단독 작전A
+mission_buff_config-20078001,
+mission_buff_config-10078002,단독 작전EX
+mission_buff_config-20078002,
+mission_buff_config-10078003,단독 작전EX
+mission_buff_config-20078003,
+mission_buff_config-17000001,【标记】自动作战标识
+mission_buff_config-27000001,
+mission_buff_config-10070015,【标记】加速
+mission_buff_config-20070015,행동력 상승
+mission_buff_config-10070016,【标记】自动作战加速
+mission_buff_config-20070016,행동력 상승
+mission_buff_config-10070021,【标记】求救信号
+mission_buff_config-20070021,
+mission_buff_config-10070022,【标记】火炮侦察中
+mission_buff_config-20070022,

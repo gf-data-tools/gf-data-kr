@@ -355,7 +355,7 @@
   }
   {
     id: 52
-    type: 5
+    type: 1
     arg: "1"
     code: 签到枪容错
     item_name: 전용 장비: 수수께끼 장비
@@ -581,6 +581,26 @@
     item_name: 10차 국지전 정복자 훈장
     introduction: 제10차 국지전에서 남다른 전공을 올린 지휘관 및 휘하 인형에게 수여합니다. "어둠이 모든 것을 집어삼켜도, 그대는 여명을 되찾으리라."
     rank: 1
+  }
+  {
+    id: 121
+    type: 3
+    arg: "22"
+    code: Medal_SlowShock
+    item_name: item-10000121
+    introduction: item-20000121
+    rank: 1
+    detail_introduction: item-30000121
+  }
+  {
+    id: 122
+    type: 3
+    arg: "23"
+    code: Medal_SlowShock_rank
+    item_name: item-10000122
+    introduction: item-20000122
+    rank: 1
+    detail_introduction: item-30000122
   }
   {
     id: 301
@@ -942,6 +962,50 @@
     rank: 1
     sort: -40
     detail_introduction: 공방-장비제조에서 중형제조의 I.O.P 특수주문이 가능합니다.Testtest
+  }
+  {
+    id: 527
+    type: 1
+    arg: "527"
+    code: Grenade
+    item_name: item-10000527
+    introduction: item-20000527
+    sort: -191
+    detail_introduction: item-30000527
+    is_hide_info: 1
+  }
+  {
+    id: 528
+    type: 1
+    arg: "528"
+    code: Grenade
+    item_name: item-10000528
+    introduction: item-20000528
+    sort: -191
+    detail_introduction: item-30000528
+    is_hide_info: 1
+  }
+  {
+    id: 529
+    type: 1
+    arg: "529"
+    code: Flashbang
+    item_name: item-10000529
+    introduction: item-20000529
+    sort: -192
+    detail_introduction: item-30000529
+    is_hide_info: 1
+  }
+  {
+    id: 530
+    type: 1
+    arg: "530"
+    code: Flashbang
+    item_name: item-10000530
+    introduction: item-20000530
+    sort: -192
+    detail_introduction: item-30000530
+    is_hide_info: 1
   }
   {
     id: 601
@@ -12484,6 +12548,145 @@
     rank: 1
   }
   {
+    id: 2286
+    type: 5
+    arg: "1"
+    code: card_Dating2021_us
+    item_name: 카드배경: 글섭 데이트스킨 명함
+    introduction: 카드배경: 글섭 데이트스킨 명함
+    rank: 1
+  }
+  {
+    id: 2287
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_01
+    item_name: item-10002287
+    introduction: item-20002287
+    rank: 1
+    detail_introduction: item-30002287
+  }
+  {
+    id: 2288
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_02
+    item_name: item-10002288
+    introduction: item-20002288
+    rank: 1
+    detail_introduction: item-30002288
+  }
+  {
+    id: 2289
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_03
+    item_name: item-10002289
+    introduction: item-20002289
+    rank: 1
+    detail_introduction: item-30002289
+  }
+  {
+    id: 2290
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_04
+    item_name: item-10002290
+    introduction: item-20002290
+    rank: 1
+    detail_introduction: item-30002290
+  }
+  {
+    id: 2291
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_05
+    item_name: item-10002291
+    introduction: item-20002291
+    rank: 1
+    detail_introduction: item-30002291
+  }
+  {
+    id: 2292
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_06
+    item_name: item-10002292
+    introduction: item-20002292
+    rank: 1
+    detail_introduction: item-30002292
+  }
+  {
+    id: 2293
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_07
+    item_name: item-10002293
+    introduction: item-20002293
+    rank: 1
+    detail_introduction: item-30002293
+  }
+  {
+    id: 2294
+    type: 5
+    arg: "1"
+    code: profilePic_SlowShockActivity2023_08
+    item_name: item-10002294
+    introduction: item-20002294
+    rank: 1
+    detail_introduction: item-30002294
+  }
+  {
+    id: 2295
+    type: 5
+    arg: "1"
+    code: card_SlowShockActivity2023_01
+    item_name: item-10002295
+    introduction: item-20002295
+    rank: 1
+    detail_introduction: item-30002295
+  }
+  {
+    id: 2296
+    type: 5
+    arg: "1"
+    code: card_SlowShockActivity2023_02
+    item_name: item-10002296
+    introduction: item-20002296
+    rank: 1
+    detail_introduction: item-30002296
+  }
+  {
+    id: 2297
+    type: 5
+    arg: "1"
+    code: card_SlowShockActivity2023_03
+    item_name: item-10002297
+    introduction: item-20002297
+    rank: 1
+    detail_introduction: item-30002297
+  }
+  {
+    id: 2298
+    type: 5
+    arg: "1"
+    code: card_SlowShockActivity2023_04
+    item_name: item-10002298
+    introduction: item-20002298
+    rank: 1
+    detail_introduction: item-30002298
+  }
+  {
+    id: 2299
+    type: 5
+    arg: "1"
+    code: cg_SlowShockActivity2023_01
+    item_name: item-10002299
+    introduction: item-20002299
+    rank: 1
+    detail_introduction: item-30002299
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -13378,6 +13581,72 @@
     is_hide_info: 1
   }
   {
+    id: 9033
+    type: 1
+    arg: "9033"
+    code: props_Component1
+    item_name: item-10009033
+    introduction: item-20009033
+    rank: 1
+    sort: -999
+    detail_introduction: item-30009033
+  }
+  {
+    id: 9034
+    type: 1
+    arg: "9034"
+    code: props_Component2
+    item_name: item-10009034
+    introduction: item-20009034
+    rank: 1
+    sort: -999
+    detail_introduction: item-30009034
+  }
+  {
+    id: 9035
+    type: 1
+    arg: "9035"
+    code: props_core
+    item_name: item-10009035
+    introduction: item-20009035
+    rank: 1
+    sort: -999
+    detail_introduction: item-30009035
+  }
+  {
+    id: 9036
+    type: 1
+    arg: "9036"
+    code: props_chipset
+    item_name: item-10009036
+    introduction: item-20009036
+    rank: 1
+    sort: -999
+    detail_introduction: item-30009036
+  }
+  {
+    id: 9037
+    type: 1
+    arg: "9037"
+    code: props_dataimage
+    item_name: item-10009037
+    introduction: item-20009037
+    rank: 1
+    sort: -999
+    detail_introduction: item-30009037
+  }
+  {
+    id: 9038
+    type: 1
+    arg: "9038"
+    code: props_paper
+    item_name: item-10009038
+    introduction: item-20009038
+    rank: 1
+    sort: -999
+    detail_introduction: item-30009038
+  }
+  {
     id: 10603
     type: 1
     arg: "1"
@@ -13428,6 +13697,34 @@
     introduction: item-20010607
     rank: 1
     detail_introduction: item-30010607
+  }
+  {
+    id: 10701
+    type: 18
+    arg: "10701"
+    code: daily_points
+    item_name: 회색지대 탐사 점수
+    introduction: 회색지대 탐사 점수
+    rank: 1
+  }
+  {
+    id: 10702
+    type: 17
+    arg: "10702"
+    code: daily_ticket
+    item_name: 탐사 허가증
+    introduction: 회색지대에 진입해 탐사할 수 있는 허가증입니다. 이것을 제시하면 추가 자원을 소비할 필요가 없습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 10703
+    type: 18
+    arg: "10703"
+    code: daily_points
+    item_name: 회색지대 탐사 점수
+    introduction: 회색지대 탐사 점수
+    rank: 1
   }
   {
     id: 100001
@@ -15068,6 +15365,66 @@
     daily_limit: "60"
   }
   {
+    id: 100180
+    type: 9
+    arg: "100180"
+    code: Bumdle_2023SlowShock
+    item_name: item-10100180
+    introduction: item-20100180
+    rank: 1
+    daily_limit: "60"
+    detail_introduction: item-30100180
+  }
+  {
+    id: 100181
+    type: 4
+    arg: "100181"
+    code: Nova_medal
+    item_name: item-10100181
+    introduction: item-20100181
+    rank: 1
+    detail_introduction: item-30100181
+  }
+  {
+    id: 100182
+    type: 4
+    arg: "100182"
+    code: Platinum_medal
+    item_name: item-10100182
+    introduction: item-20100182
+    rank: 1
+    detail_introduction: item-30100182
+  }
+  {
+    id: 100183
+    type: 4
+    arg: "100183"
+    code: coremask_2023SlowShock
+    item_name: item-10100183
+    introduction: item-20100183
+    rank: 1
+    detail_introduction: item-30100183
+  }
+  {
+    id: 100184
+    type: 4
+    arg: "100184"
+    code: coremask2_2023SlowShock
+    item_name: item-10100184
+    introduction: item-20100184
+    rank: 1
+    detail_introduction: item-30100184
+  }
+  {
+    id: 100185
+    type: 4
+    arg: "100185"
+    code: Platinum_medal_black
+    item_name: 백금훈장
+    introduction: 백금훈장
+    rank: 1
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -15608,6 +15965,26 @@
     rank: 1
   }
   {
+    id: 110061
+    type: 4
+    arg: "110061"
+    code: EventPT6
+    item_name: item-10110061
+    introduction: item-20110061
+    rank: 1
+    detail_introduction: item-30110061
+  }
+  {
+    id: 110062
+    type: 4
+    arg: "110062"
+    code: PT
+    item_name: item-10110062
+    introduction: item-20110062
+    rank: 1
+    detail_introduction: item-30110062
+  }
+  {
     id: 120001
     type: 10
     arg: "1"
@@ -15981,10 +16358,10 @@
     type: 1
     arg: "1"
     code: PT
-    item_name: 기능성 물품 위치
-    introduction: 기능성 물품 위치
+    item_name: *기능성 물품 위치
+    introduction: *기능성 물품 위치
     rank: 1
-    detail_introduction: 기능성 물품 위치
+    detail_introduction: *기능성 물품 위치
   }
   {
     id: 200001
@@ -16174,6 +16551,7 @@
     item_name: 극한 질주
     introduction: 일제사격의 효과가 자신과 PzB39에게 10% 상승.
     rank: 1
+    item_access: "26"
   }
   {
     id: 1100002
@@ -16183,6 +16561,7 @@
     item_name: 극한 질주
     introduction: 그리즐리MkV와 같은 제대일 경우, 조준 시간이 1초로 단축되고, 1초당 2회 충전한다.
     rank: 1
+    item_access: "26"
   }
   {
     id: 1100003
@@ -16192,6 +16571,7 @@
     item_name: 은하의 맹세
     introduction: M82와 같은 제대일 경우, M82도 자신 정면 유닛에게 주는 피해량이 10% 상승한다.
     rank: 1
+    item_access: "26"
   }
   {
     id: 1100004
@@ -16201,6 +16581,7 @@
     item_name: 은하의 맹세
     introduction: 자신의 정면도 AK-Alfa의 정면으로 간주한다.
     rank: 1
+    item_access: "26"
   }
   {
     id: 1100005
@@ -16210,6 +16591,7 @@
     item_name: 잘 먹겠습니다!
     introduction: '''["꾸준함은 어떤 일보다 중요한 재능입니다."] G36이 동료들에게 간식을 제공해 사기를 증진시키는 동시에, 화력전개의 효과가 아군에게도 15%로 적용된다. "살찌지 않게 주의하세요."'''
     rank: 1
+    item_access: "27"
   }
   {
     id: 1100006
@@ -16219,6 +16601,7 @@
     item_name: 잘 먹겠습니다!
     introduction: '''["블렌딩 커피엔 자신이 있답니다."] 스프링필드가 동료들에게 커피를 타줘 사기를 증진시키는 동시에, 1회 충전할 때마다 아군 전체 사속을 5% 상승시킨다. 지속시간 5초, 최대 5중첩. "살찌지 않게 주의하세요."'''
     rank: 1
+    item_access: "27"
   }
   {
     id: 1100007
@@ -16232,6 +16615,7 @@
       MPK와 MPL이 좌우로 인접할 경우, 스킬 발동 후, 효과 범위가 2칸으로 확장된다.
       '''
     rank: 1
+    item_access: "28"
   }
   {
     id: 1100008
@@ -16245,6 +16629,7 @@
       MPK와 MPL이 좌우로 인접할 경우, 스킬 발동 후, 효과 범위가 2칸으로 확장된다.
       '''
     rank: 1
+    item_access: "29"
   }
   {
     id: 1100009
@@ -16254,6 +16639,7 @@
     item_name: 새벽의 경계선
     introduction: SCAR-L과 SCAR-H가 함께 있을 때, 자신은 1초마다 태양 에너지가 5점 상승한다.
     rank: 1
+    item_access: "30"
   }
   {
     id: 1100010
@@ -16263,6 +16649,7 @@
     item_name: 새벽의 경계선
     introduction: SCAR-L과 SCAR-H가 함께 있을 때, 자신은 1초마다 달의 에너지가 5점 상승한다.
     rank: 1
+    item_access: "31"
   }
   {
     id: 1500009
@@ -16385,10 +16772,30 @@
     sort: -1
   }
   {
+    id: 1500021
+    type: 15
+    arg: "1500021"
+    code: Bumdle_sennku
+    item_name: 4성 인형 임용장
+    introduction: 기지 복귀 보상.창고에서 이 임용장을 사용하면 지정 범위 중 4성 인형을 하나 선택해 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500022
+    type: 15
+    arg: "1500022"
+    code: package_choose
+    item_name: 5성 장비 선택 코드
+    introduction: 기지 복귀 보상.개봉 시 목록 중 장비를 하나 선택해서 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1500023
     type: 15
     arg: "1500023"
-    code: Bumdle_double12_2022_5
+    code: Bumdle_sennku
     item_name: 4성 인형 임용장
     introduction:
       '''
@@ -16487,7 +16894,7 @@
     id: 1500030
     type: 15
     arg: "1500030"
-    code: Bumdle_double12_2022_1
+    code: Bumdle_sennku
     item_name: 5성 인형 임용장
     introduction:
       '''
@@ -16738,7 +17145,7 @@
     arg: "1500052"
     code: package_choose
     item_name: 기초 장비 선택 코드
-    introduction: 전선협약-휴일무드 보상, 지정 범위에서 원하는 장비를 하나 선택할 수 있습니다.
+    introduction: 개봉 시 목록 중 장비를 하나 선택해서 얻을 수 있습니다.
     rank: 1
     sort: -1
   }
@@ -16771,5 +17178,83 @@
     introduction: 전선협약-휴일무드 보상, 목록 중 무작위 한 가지 보상을 얻습니다.
     rank: 1
     sort: -1
+  }
+  {
+    id: 1500059
+    type: 15
+    arg: "1500059"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 기지 복귀 보상.개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500060
+    type: 15
+    arg: "1500060"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 개봉 시 목록 중 장비를 하나 선택해서 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500061
+    type: 15
+    arg: "1500061"
+    code: package_choose
+    item_name: 기초 전용장비 선택 코드
+    introduction: 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500062
+    type: 15
+    arg: "1500062"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500063
+    type: 15
+    arg: "1500063"
+    code: package_choose
+    item_name: item-11500063
+    introduction: item-21500063
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500063
+  }
+  {
+    id: 1600001
+    type: 1
+    arg: "1600001"
+    code: anchor_contract
+    item_name: 복귀 저격구축
+    introduction: 획득 후, 복귀 유저 전용 저격구축을 1회 이용할 수 있습니다.
+    rank: 1
+  }
+  {
+    id: 1600002
+    type: 1
+    arg: "1600002"
+    code: ReturnPlayer_activity
+    item_name: 복귀 활약도
+    introduction: 복귀 이벤트에 참여한 증거, 많을수록 많이 활약했다는 뜻입니다.
+    rank: 1
+  }
+  {
+    id: 1600050
+    type: 1
+    arg: "1600050"
+    code: package_choose
+    item_name: 추첨권
+    introduction: 페스티벌 추첨권 테스트 데이터
+    rank: 1
   }
 ]

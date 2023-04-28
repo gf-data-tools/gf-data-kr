@@ -1,0 +1,200 @@
+[
+  {
+    id: 1
+    type: gun_level_up_count
+    count: 10
+    title: 인형 승급
+    describe: 인형 레벨을 10회 올린다
+    prize_id: 30011
+    activity_bonus: 20
+  }
+  {
+    id: 2
+    type: develop_gun
+    count: 10
+    title: 인형 제조
+    describe: 인형을 10회 제조한다
+    prize_id: 30012
+    activity_bonus: 20
+  }
+  {
+    id: 3
+    type: eat_gun
+    count: 10
+    title: 인형 강화
+    describe: 인형을 10회 강화한다
+    prize_id: 30013
+    activity_bonus: 20
+  }
+  {
+    id: 4
+    type: s_win
+    count: 15
+    title: 작전 행동
+    describe: S 평가로 전투를 10회 승리한다
+    prize_id: 30014
+    activity_bonus: 20
+  }
+  {
+    id: 5
+    type: mission
+    count: 10
+    title: 작전 행동
+    describe: 아무 전역을 10회 클리어한다
+    prize_id: 30015
+    activity_bonus: 20
+  }
+  {
+    id: 6
+    type: upgrade
+    count: 3
+    title: 스킬 강화
+    describe: 스킬 훈련을 3회 한다
+    prize_id: 30016
+    activity_bonus: 20
+  }
+  {
+    id: 7
+    type: heart_collect
+    count: 20
+    title: 인형 소통
+    describe: 하트를 20개 수집한다
+    prize_id: 30017
+    activity_bonus: 20
+  }
+  {
+    id: 8
+    type: consume_build_coin
+    count: 100
+    title: 전지 소모
+    describe: 전지를 100개 소모한다
+    prize_id: 30018
+    activity_bonus: 20
+  }
+  {
+    id: 9
+    type: adopt_pet
+    count: 1
+    title: 동물 입양
+    describe: 아무 동물을 입양한다
+    prize_id: 30019
+    activity_bonus: 20
+  }
+  {
+    id: 10
+    type: adjust_equip
+    count: 10
+    title: 교정 정비
+    describe: 장비나 요정을 10회 교정한다
+    function_control_id: 6
+    prize_id: 30020
+    activity_bonus: 20
+  }
+  {
+    id: 11
+    type: coin_mission
+    count: 10
+    title: 모의훈련
+    describe: 모의작전을 10회 클리어한다(혼합훈련 제외)
+    prize_id: 30021
+    activity_bonus: 20
+  }
+  {
+    id: 12
+    type: develop_equip
+    count: 10
+    title: 군비확장
+    describe: 장비를 10회 제조한다
+    function_control_id: 2
+    prize_id: 30022
+    activity_bonus: 20
+  }
+  {
+    id: 13
+    type: sangvis_exercise_analysis
+    count: 5
+    title: 암호 해독
+    describe: 해석연산연습 5회 클리어
+    function_control_id: 21
+    prize_id: 30023
+    activity_bonus: 20
+  }
+  {
+    id: 14
+    type: sangvis_exercise
+    count: 10
+    title: 모의훈련
+    describe: 혼합훈련 10회 클리어
+    function_control_id: 21
+    prize_id: 30024
+    activity_bonus: 20
+  }
+  {
+    id: 15
+    type: sangvis_daily_retrieval
+    count: 8
+    title: 통합회수
+    describe: 통합회수 8회 진행
+    function_control_id: 21
+    prize_id: 30025
+    activity_bonus: 20
+  }
+  {
+    id: 16
+    type: squad_eat_chip_num
+    count: 10
+    title: 칩셋 강화
+    describe: 칩셋 강화에 칩셋을 10개 소모
+    function_control_id: 15
+    prize_id: 30026
+    activity_bonus: 20
+  }
+  {
+    id: 17
+    type: complete_squad_daily
+    count: 3
+    title: 정보 수집
+    describe: 정보 임무 3개 달성
+    function_control_id: 15
+    prize_id: 30027
+    activity_bonus: 20
+  }
+  {
+    id: 18
+    type: squad_data_analyse
+    count: 10
+    title: 정보 분석
+    describe: 정보 분석 10회 진행
+    function_control_id: 15
+    prize_id: 30028
+    activity_bonus: 20
+  }
+  {
+    id: 19
+    type: consume_furniture_coin
+    count: 50
+    title: 가구 구매
+    describe: 구매토큰 50개 소모
+    prize_id: 30029
+    activity_bonus: 30
+  }
+  {
+    id: 20
+    type: operation
+    count: 20
+    title: 지원 파견
+    describe: 군수지원 20회 완료
+    prize_id: 30030
+    activity_bonus: 30
+  }
+  {
+    id: 21
+    type: explore
+    count: 5
+    title: 구역 탐사
+    describe: 전진기지 탐색 5회
+    function_control_id: 17
+    prize_id: 30031
+    activity_bonus: 30
+  }
+]

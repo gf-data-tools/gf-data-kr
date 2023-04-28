@@ -65,4 +65,14 @@
     prize_id: 8309
     exchange_prize_id: 8316
   }
+  {
+    identity: 8
+    type: map_capture
+    count: 20
+    title: 주간 과제: 회색지대 탐사
+    content: 회색지대 지점을 누적 20개 점령
+    function_control_id: 29
+    prize_id: 8309
+    exchange_prize_id: 8316
+  }
 ]

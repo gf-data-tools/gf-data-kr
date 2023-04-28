@@ -14846,3 +14846,99 @@ building-16000017,【标记】掉血兔子
 building-46000017,
 building-26000017,【标记】略
 building-36000017,이 시설은 파괴할 수 없습니다.
+building-10078001,디폴트 암전
+building-40078001,
+building-20078001,【标记】略
+building-30078001,이 시설은 파괴할 수 없습니다.
+building-10078002,디폴트 밝음
+building-40078002,
+building-20078002,【标记】略
+building-30078002,이 시설은 파괴할 수 없습니다.
+building-10078003,3AP 시작점
+building-40078003,
+building-20078003,【标记】略
+building-30078003,이 시설은 파괴할 수 없습니다.
+building-10078004,15AP 시작점
+building-40078004,
+building-20078004,【标记】略
+building-30078004,이 시설은 파괴할 수 없습니다.
+building-10078005,16AP 시작점
+building-40078005,
+building-20078005,【标记】略
+building-30078005,이 시설은 파괴할 수 없습니다.
+building-10078006,상자
+building-40078006,
+building-20078006,【标记】略
+building-30078006,이 시설은 파괴할 수 없습니다.
+building-10078007,상자
+building-40078007,
+building-20078007,【标记】略
+building-30078007,이 시설은 파괴할 수 없습니다.
+building-10078008,상자
+building-40078008,
+building-20078008,【标记】略
+building-30078008,이 시설은 파괴할 수 없습니다.
+building-10078009,상자
+building-40078009,
+building-20078009,【标记】略
+building-30078009,이 시설은 파괴할 수 없습니다.
+building-10078010,【标记】给分兔子
+building-40078010,
+building-20078010,【标记】略
+building-30078010,이 시설은 파괴할 수 없습니다.
+building-10070001,수상한 돌더미
+building-40070001,
+building-20070001,황야의 수상한 돌더미//c 밑에 자원이 묻혀 있는 것 같습니다.
+building-30070001,이 전역에서 가능한 대처법: //n중장비 포격
+building-10070002,수상한 돌더미
+building-40070002,
+building-20070002,황야의 수상한 돌더미//c 밑에 자원이 묻혀 있는 것 같습니다.
+building-30070002,이 전역에서 가능한 대처법: //n중장비 포격
+building-10070003,수상한 돌더미
+building-40070003,
+building-20070003,황야의 수상한 돌더미//c 밑에 자원이 묻혀 있는 것 같습니다.
+building-30070003,이 전역에서 가능한 대처법: //n중장비 포격
+building-10070004,수상한 돌더미
+building-40070004,
+building-20070004,황야의 수상한 돌더미//c 밑에 자원이 묻혀 있는 것 같습니다.
+building-30070004,이 전역에서 가능한 대처법: //n중장비 포격
+building-10070005,수상한 돌더미
+building-40070005,
+building-20070005,황야의 수상한 돌더미//c 밑에 자원이 묻혀 있는 것 같습니다.
+building-30070005,이 전역에서 가능한 대처법: //n중장비 포격
+building-10070006,수상한 돌더미
+building-40070006,
+building-20070006,황야의 수상한 돌더미//c 밑에 자원이 묻혀 있는 것 같습니다.
+building-30070006,이 전역에서 가능한 대처법: //n중장비 포격
+building-10070011,【标记】略
+building-40070011,
+building-20070011,【标记】略
+building-30070011,이 시설은 파괴할 수 없습니다.
+building-10070012,【标记】略
+building-40070012,
+building-20070012,【标记】略
+building-30070012,이 시설은 파괴할 수 없습니다.
+building-10070013,【标记】略
+building-40070013,
+building-20070013,【标记】略
+building-30070013,이 시설은 파괴할 수 없습니다.
+building-10070014,【标记】略
+building-40070014,
+building-20070014,【标记】略
+building-30070014,이 시설은 파괴할 수 없습니다.
+building-10070015,【标记】略
+building-40070015,
+building-20070015,【标记】略
+building-30070015,이 시설은 파괴할 수 없습니다.
+building-10070016,【标记】略
+building-40070016,
+building-20070016,【标记】略
+building-30070016,이 시설은 파괴할 수 없습니다.
+building-10070021,【标记】求救小队
+building-40070021,
+building-20070021,【标记】略
+building-30070021,이 시설은 파괴할 수 없습니다.
+building-10070022,【标记】火炮观察组
+building-40070022,
+building-20070022,【标记】略
+building-30070022,이 시설은 파괴할 수 없습니다.

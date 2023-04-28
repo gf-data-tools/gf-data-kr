@@ -34,6 +34,14 @@
     is_manual_target: 2
   }
   {
+    id: 78001
+    code_a: GunBox
+    description_a: 아군 제대
+    description_b: 상자
+    description_c: 열기
+    code_b: Console_Icon
+  }
+  {
     id: 363001
     code_a: Boomer
     description_a: 아군제대

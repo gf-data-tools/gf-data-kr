@@ -130,4 +130,42 @@
     name: 강화연습
     carnival_goto_page_id: 357
   }
+  {
+    id: 26
+    name: 추억회상: 별 쫓기 작전
+    fetter_story_id: 3
+  }
+  {
+    id: 27
+    name: 추억회상: 너의 미소
+    fetter_story_id: 4
+  }
+  {
+    id: 28
+    name: 인형 획득: MPK
+  }
+  {
+    id: 29
+    name: 인형 획득: MPL
+  }
+  {
+    id: 30
+    name: 인형 획득: SCAR-L
+    carnival_goto_page_id: 25
+  }
+  {
+    id: 31
+    name: 인형 획득: SCAR-H
+    carnival_goto_page_id: 25
+  }
+  {
+    id: 32
+    name: 중장비 해금
+    function_control_id: 15
+  }
+  {
+    id: 33
+    name: 회색지대 탐사
+    carnival_goto_page_id: 385
+  }
 ]

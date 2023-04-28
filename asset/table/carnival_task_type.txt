@@ -260,3 +260,5 @@ carnival_task_type-10000130,혼합점수(추가혼합점수 포함)
 carnival_task_type-20000130,혼합점수 {0}점 소모
 carnival_task_type-10000131,중형요정제조
 carnival_task_type-20000131,요정제조 누적 {0}회 진행
+carnival_task_type-10000132,탐사 지점 점령
+carnival_task_type-20000132,회색지대 탐사에서 지점을 {0}곳 점령한다.

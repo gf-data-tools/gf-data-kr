@@ -29,11 +29,7 @@
     id: 1003
     parent_id: 1000
     sort: 3
-    name:
-      '''
-      프랑슈슈
-      훈장 교환
-      '''
+    name: 훈장 교환
   }
   {
     id: 1004
@@ -126,6 +122,12 @@
     description: 新手支援礼包
   }
   {
+    id: 3005
+    parent_id: 3000
+    sort: 5
+    name: 협약 재현
+  }
+  {
     id: 4000
     sort: 5
     name: 의상
@@ -177,5 +179,10 @@
     parent_id: 6000
     sort: 3
     name: 보급
+  }
+  {
+    id: 7000
+    sort: 7
+    name: 우정상점
   }
 ]

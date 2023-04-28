@@ -769,4 +769,10 @@
     content: 요정제조 누적 {0}회 진행
     function_control_id: 1
   }
+  {
+    id: 132
+    type: map_capture
+    title: 탐사 지점 점령
+    content: 회색지대 탐사에서 지점을 {0}곳 점령한다.
+  }
 ]

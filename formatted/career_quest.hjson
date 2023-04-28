@@ -1713,17 +1713,6 @@
     sort: 441
   }
   {
-    id: 264
-    type: fix_gun
-    count: 1
-    prize_id: 11073
-    title: 전술인형: 인형수복
-    content: 인형수복 1회
-    new_type: 1
-    grade_id: 1
-    sort: 3
-  }
-  {
     id: 265
     type: develop_gun
     unlock_lv: "3"
@@ -1734,28 +1723,6 @@
     new_type: 1
     grade_id: 2
     sort: 10
-  }
-  {
-    id: 266
-    type: fix_gun
-    count: 3
-    prize_id: 11075
-    title: 전술인형: 인형수복
-    content: 인형수복 3회
-    new_type: 1
-    grade_id: 2
-    sort: 11
-  }
-  {
-    id: 267
-    type: quick_fix_gun
-    count: 1
-    prize_id: 11076
-    title: 전술인형: 인형 쾌속수복
-    content: 인형 쾌속수복 1회
-    new_type: 1
-    grade_id: 2
-    sort: 12
   }
   {
     id: 268
@@ -4850,5 +4817,73 @@
     new_type: 1
     grade_id: 23
     sort: 168
+  }
+  {
+    id: 558
+    type: map_capture
+    count: 1
+    prize_id: 765
+    title: 회색지대 탐사: 전선 추진
+    content: 회색지대 탐사에서 지점을 1곳 점령.
+    new_type: 1
+    grade_id: 45
+    sort: 359
+  }
+  {
+    id: 559
+    type: map_refresh
+    count: 1
+    prize_id: 765
+    title: 회색지대 탐사: 전장 개척
+    content: 회색지대 탐사에서 탐사 구역 1회 리셋
+    new_type: 1
+    grade_id: 45
+    sort: 360
+  }
+  {
+    id: 560
+    type: daily_game_boss_win
+    count: 1
+    prize_id: 765
+    title: 회색지대 탐사: 참수작전
+    content: 회색지대 탐사에서 보스 지점 1회 클리어
+    new_type: 1
+    grade_id: 45
+    sort: 361
+  }
+  {
+    id: 561
+    type: daily_game_reward
+    count: 1
+    prize_id: 765
+    title: 회색지대 탐사: 성과 회수
+    content: 회색지대 탐사에서 맵 전체 공략 보너스를 얻는다.
+    new_type: 1
+    grade_id: 45
+    sort: 362
+  }
+  {
+    id: 562
+    type: c_tutorial_mission
+    count: 1
+    prize_id: 11337
+    title: 거점: 보급수리소
+    content: 튜토리얼 전역을 통해 보급수리소의 기능을 알아봅시다.
+    new_type: 1
+    grade_id: 45
+    sort: 359
+    condition: "10933"
+  }
+  {
+    id: 563
+    type: c_tutorial_mission
+    count: 1
+    prize_id: 11338
+    title: 거점: 전장효과
+    content: 튜토리얼 전역을 통해 전장효과의 기능을 알아봅시다.
+    new_type: 1
+    grade_id: 45
+    sort: 360
+    condition: "10921"
   }
 ]

@@ -120,7 +120,7 @@
     type: 2
     title: 인형 수복
     sub_title: 다친 인형은 꼬박꼬박 수복합시다.
-    content: ebc6223f5eeaa1f0_draw_200820112.jpg,cd8ddaecd5d6ace4_draw_200820111.jpg,7b105a204377b56c_draw_200820110.jpg,4a713c403053d850_draw_200820109.jpg
+    content: 095fff7258f76569_draw_230425019.jpg,7cd890c0fad24778_draw_230425018.jpg,7a35a8c8cf4c3991_draw_230425017.jpg,4a713c403053d850_draw_200820109.jpg,a44f8270562170d0_draw_230425016.jpg
   }
   {
     id: 206
@@ -134,7 +134,7 @@
     id: 207
     type: 2
     title: 인형회수
-    sub_title: 인형을 회수분해해 물자를 얻을 수 있습니다, 고레어 인형을 분해하면 대체코어도 얻습니다.
+    sub_title: 인형의 무장을 회수해 물자를 얻을 수 있습니다, 고레어 인형을 회수하면 대체코어도 얻습니다.
     content: e8baefe8a2dacaab_draw_200820084.jpg
     goto_page: 63
   }
@@ -250,7 +250,7 @@
     id: 402
     type: 2
     title: 요정 제조
-    sub_title: 중형장비제조를 통해 요정을 얻을 수 있습니다.
+    sub_title: 중형요정제조를 통해 요정을 얻을 수 있습니다.
     content: 4d23ea4647722274_draw_220908013.jpg,b517967a133fd1bb_draw_220908014.jpg
     function_control_id: 1
     goto_page: 21
@@ -560,7 +560,7 @@
   {
     id: 800
     type: 1
-    child_ids: "801,802,803,804,805,806,807,808"
+    child_ids: "801,802,803,804,805,806,807,808,809,810,811,812"
     title: 전장 시설
     sub_title: 전장의 각종 시설을 활용하는 것도 지휘관의 필수과목입니다.
     code: manual_building
@@ -955,7 +955,7 @@
   {
     id: 1209
     type: 2
-    title: 분해와 교환
+    title: 회수 및 교환
     sub_title: 여분의 혼합세력유닛을 분해해서 커널을 모아 커널 상점에서 교환할 수 있습니다.
     content: bcafffe67b9d47e4_draw_200820121.jpg
     function_control_id: 21
@@ -1022,8 +1022,8 @@
   {
     id: 1306
     type: 2
-    title: 회수분해
-    sub_title: 불필요한 인형과 장비를 분해해서 자원을 회수합니다.
+    title: 자원회수
+    sub_title: 불필요한 인형과 장비를 회수해서 자원을 얻습니다.
     content: e8baefe8a2dacaab_draw_200820084.jpg
     goto_page: 63
   }
@@ -1234,7 +1234,7 @@
   {
     id: 1900
     type: 1
-    child_ids: "1901,1902,1903,1904,1905,1906,1907,1908,1909"
+    child_ids: "1901,1902,1903,1904,1905,1906,1907,1908,1909,1910"
     title: 러프베리 체스
     sub_title: 전략과 재미를 겸비한 보드게임
     code: manual_chess
@@ -1313,12 +1313,19 @@
     function_control_id: 26
   }
   {
+    id: 1910
+    type: 2
+    title: 추첨 머신
+    sub_title: 러프베리체스를 플레이해 보상 추첨권을 얻으세요.
+    function_control_id: 26
+  }
+  {
     id: 2000
     type: 1
     child_ids: "2001,2002,2003,2004,2005,2006,2007,2008,2009,2010"
     title: 국지전
     sub_title: 작전능력을 전면적으로 시험하는 모의작전입니다.
-    code: manual_chess
+    code: manual_theater
     function_control_id: 16
   }
   {
@@ -1400,5 +1407,78 @@
     sub_title: 지정 목표를 처치하면 승리합니다.
     content: 3a5ab697bf41f279_draw_211008585.jpg
     function_control_id: 16
+  }
+  {
+    id: 2100
+    type: 1
+    child_ids: "2101,2102,2103,2104,2105,2106,2107,2108"
+    title: 회색지대 탐사
+    sub_title: 변방조사단 6번대가 일상 탐사 중 처음 보는 구역을 발견했습니다.
+    code: manual_daily
+    function_control_id: 29
+  }
+  {
+    id: 2101
+    type: 2
+    title: 탐사 출격
+    sub_title: 탐사를 진행하는 법을 배웁시다.
+    content: ab87fb4ab008595f_draw_230425005.jpg,e8c14b26fd3375ef_draw_230425001.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2102
+    type: 2
+    title: 맵 규칙
+    sub_title: 회색지대는 변화무상하여 규칙을 파악하는 것이 중요합니다.
+    content: c07a118335cccdb5_draw_230425002.jpg,842e7d6b5d789097_draw_230425003.jpg,381d7b7224a0a359_draw_230425004.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2103
+    type: 2
+    title: 요정 지점
+    sub_title: 요정 지점의 규칙 및 주의사항.
+    content: a4657d3899b917cc_draw_230425009.jpg,33a1aa97610a0f55_draw_230425010.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2104
+    type: 2
+    title: 화력소대 지점
+    sub_title: 화력소대 지점의 규칙 및 주의사항.
+    content: 0687929e3f4b459d_draw_230425012.jpg,805a7ee7948401ab_draw_230425013.jpg,0ebd3be285bf36dd_draw_230425014.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2105
+    type: 2
+    title: 이벤트 지점
+    sub_title: 이벤트 지점의 규칙 및 주의사항.
+    content: d31e0001e8bce081_draw_230425007.jpg,af9972a272dc0a63_draw_230425008.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2106
+    type: 2
+    title: 점수 보상
+    sub_title: 탐사를 통해 점수를 쌓아 푸짐한 보상을 얻으세요.
+    content: 73563d0410d1d711_draw_230425006.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2107
+    type: 2
+    title: 탐사 초기화
+    sub_title: 탐사 진도는 언제든지 리셋 가능합니다.
+    content: 4db1e6ccc8f52a4c_draw_230425011.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2108
+    type: 2
+    title: 대리 작전
+    sub_title: 그리폰 AI 대리작전 시스템 테스트 가동 중.
+    content: d1c52d646d987605_draw_230425015.jpg
+    function_control_id: 29
   }
 ]

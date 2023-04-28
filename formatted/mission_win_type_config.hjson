@@ -6086,6 +6086,52 @@
     extra_language: 최종 보스를 처치
   }
   {
+    id: 58000101
+    type: 1407
+    arguments: 78003:1
+    extra_language:
+      '''
+      1턴 탐색을 마친다.
+      <color=#CF8000>이동 시 헬리포트 이외 거점의 색이 바뀌며, 결산 시 파란 거점이 많을수록 보상을 많이 획득합니다.</color>
+      '''
+  }
+  {
+    id: 58000501
+    type: 1407
+    arguments: 78005:1
+    extra_language: 아무 상자를 연다.
+  }
+  {
+    id: 58000502
+    type: 1402
+    arguments: "1"
+  }
+  {
+    id: 58000601
+    type: 1303
+    arguments: 6520101:1
+  }
+  {
+    id: 58000602
+    type: 1303
+    arguments: 6520102:1
+  }
+  {
+    id: 58000603
+    type: 1303
+    arguments: 6520103:1
+  }
+  {
+    id: 58000604
+    type: 1303
+    arguments: 6520104:1
+  }
+  {
+    id: 58000605
+    type: 1303
+    arguments: 6520105:1
+  }
+  {
     id: 64101011
     type: 1305
     extra_language: "[자리를 떠날 때 I] 적군을 모두 섬멸"

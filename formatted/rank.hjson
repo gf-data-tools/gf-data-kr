@@ -1013,4 +1013,37 @@
     begin_show_time: 2023-02-14 00:00:00
     end_show_time: 2023-03-10 15:00:00
   }
+  {
+    id: 2001
+    name: 지점 탐색 횟수
+    type: 2000
+    sub_type: "1"
+    refresh: test
+    title: 지점 탐색 횟수
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 2002
+    name: 보스 처치 수
+    type: 2000
+    sub_type: "2"
+    refresh: test
+    title: 보스 처치 수
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 2003
+    name: 지점 공략 횟수
+    type: 2000
+    sub_type: "3"
+    refresh: test
+    title: 지점 공략 횟수
+    visable_rank: 100
+    ranking_onlist_number: 160000
+    visable_count: 100
+  }
 ]

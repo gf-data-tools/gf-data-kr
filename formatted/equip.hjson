@@ -353,7 +353,7 @@
     name: PEQ-2
     description:
       '''
-      야시능력+<night_view_percent> <%>
+      야시능력+<night_view_percent><%>
       $RF,MG 착용불가
       '''
     rank: 2
@@ -376,7 +376,7 @@
     name: PEQ-5
     description:
       '''
-      야시능력+<night_view_percent> <%>
+      야시능력+<night_view_percent><%>
       $RF,MG 착용불가
       '''
     rank: 3
@@ -388,7 +388,7 @@
     code: 配件_红外夜视仪_N
     develop_duration: 1440
     company: IOP
-    equip_introduction: IOP사의 인형이 시범도입한 표준 APITAL 적외선 지시기 입니다. 초기형의 수많은 결함이 개선되었지만 배터리는 여전히 빠르게 소모됩니다.
+    equip_introduction: IOP사의 인형이 시범도입한 표준 APITAL 적외선 지시기 입니다. 초기형의 수많은 결함이 개선되었지만 배터리는 여전히 빠르게 소모됩니다. 소총과 기관총 외에 착용 가능합니다.
     exclusive_rate: 1.0
     auto_select_id: 4001
     is_show: 1
@@ -399,7 +399,7 @@
     name: PEQ-15
     description:
       '''
-      야시능력+<night_view_percent> <%>
+      야시능력+<night_view_percent><%>
       $RF,MG 착용불가
       '''
     rank: 4
@@ -412,7 +412,7 @@
     code: 配件_红外夜视仪_N
     develop_duration: 2340
     company: IOP
-    equip_introduction: IOP사의 인형이 시범도입한 개량형 APITAL 적외선 지시기 입니다. 인형들의 야간 전투력을 높이는데 효과가 있습니다.
+    equip_introduction: IOP사의 인형이 시범도입한 개량형 APITAL 적외선 지시기 입니다. 인형들의 야간 전투력을 높이는데 효과가 있습니다. 소총과 기관총 외에 착용 가능합니다.
     exclusive_rate: 1.0
     auto_select_id: 4001
     is_show: 1
@@ -423,7 +423,7 @@
     name: PEQ-16A
     description:
       '''
-      야시능력+<night_view_percent> <%>
+      야시능력+<night_view_percent><%>
       $RF,MG 착용불가
       '''
     rank: 5
@@ -436,7 +436,7 @@
     code: 配件_红外夜视仪_N
     develop_duration: 2940
     company: IOP
-    equip_introduction: IOP사의 인형이 시범도입한 주문제작형 APITAL 적외선 지시기 입니다. 인형들의 야간전투에서의 요구사항을 만족시켰습니다.
+    equip_introduction: IOP사의 인형이 시범도입한 주문제작형 APITAL 적외선 지시기 입니다. 인형들의 야간전투에서의 요구사항을 만족시켰습니다. 소총과 기관총 외에 착용 가능합니다.
     exclusive_rate: 1.0
     auto_select_id: 4001
     is_show: 1
@@ -1426,8 +1426,10 @@
     powerup_part: 0.23
     exclusive_rate: 3.0
     bonus_type: pow:400
+    passive_skill: "759090"
     max_level: 10
     auto_select_id: 19002
+    equip_group_id: 4
     is_show: 1
     obtain_ids: "3"
   }
@@ -2219,8 +2221,10 @@
     powerup_part: 0.16
     exclusive_rate: 3.0
     bonus_type: pow:200,dodge:300,critical_harm_rate:500
+    passive_skill: "759098"
     max_level: 10
     auto_select_id: 20003
+    equip_group_id: 3
     is_show: 1
     obtain_ids: "3"
   }
@@ -2652,8 +2656,10 @@
     powerup_part: 0.15
     exclusive_rate: 3.0
     bonus_type: pow:500,hit:700,critical_harm_rate:1000
+    passive_skill: "759089"
     max_level: 10
     auto_select_id: 18005
+    equip_group_id: 4
     is_show: 1
     obtain_ids: "3016"
   }
@@ -3007,8 +3013,10 @@
     powerup_part: 0.15
     exclusive_rate: 3.0
     bonus_type: critical_percent:1000,hit:1000
+    passive_skill: "759096"
     max_level: 10
     auto_select_id: 18010
+    equip_group_id: 3
     is_show: 1
     obtain_ids: "3016"
   }
@@ -6228,7 +6236,7 @@
     max_level: 10
     auto_select_id: 19024
     is_show: 1
-    obtain_ids: "3004"
+    obtain_ids: "3004,3096"
   }
   {
     id: 212
@@ -7014,7 +7022,7 @@
     max_level: 10
     auto_select_id: 20036
     is_show: 1
-    obtain_ids: "3007"
+    obtain_ids: "3007,3096"
   }
   {
     id: 237
@@ -7378,7 +7386,7 @@
     max_level: 10
     auto_select_id: 18074
     is_show: 1
-    obtain_ids: "3061"
+    obtain_ids: "3061,3096"
   }
   {
     id: 248
@@ -8394,7 +8402,7 @@
     max_level: 10
     auto_select_id: 18089
     is_show: 1
-    obtain_ids: "3077"
+    obtain_ids: "3077,3096"
   }
   {
     id: 279
@@ -10311,6 +10319,75 @@
     is_show: 1
     obtain_ids: "3016"
     sp_description: 받는 피해량-1
+  }
+  {
+    id: 337
+    name: 7BT1
+    description:
+      '''
+      관통+<armor_piercing>
+      사속+<rate>$모신나강 MOD 전용
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    rate: "1,3"
+    armor_piercing: "155,160"
+    retire_ammo: 4
+    retire_mre: 2
+    retire_part: 3
+    code: 弹匣_特殊_莫辛纳甘Mod
+    develop_duration: 3300
+    company: IOP
+    fit_guns: "20039"
+    equip_introduction: IOP의 디자인 개량을 거친 BT 철갑예광탄두 특제저격탄입니다. 장갑을 지닌 대상에게도 상당한 살상력을 발휘합니다.
+    powerup_mp: 0.08
+    powerup_ammo: 0.5
+    powerup_mre: 0.3
+    powerup_part: 0.3
+    exclusive_rate: 3.0
+    bonus_type: armor_piercing:500,rate:700
+    passive_skill: "759097"
+    max_level: 10
+    auto_select_id: 19053
+    equip_group_id: 3
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
+    id: 338
+    name: SBR 전용 핸드가드
+    description:
+      '''
+      사속+<rate>
+      치명률+<critical_percent><%>$ST AR-15 MOD 전용
+      '''
+    rank: 5
+    category: 1
+    type: 16
+    rate: "1,3"
+    critical_percent: "25,30"
+    retire_mp: 4
+    retire_ammo: 1
+    retire_mre: 4
+    retire_part: 1
+    code: 配件_特殊_AR15Mod
+    develop_duration: 3600
+    company: 16Lab
+    fit_guns: "20057"
+    equip_introduction: 16Lab 특제 SBR 경량 핸드가드, ST AR-15 부무장의 부착물 탑재력을 높여줄 수 있습니다.
+    powerup_mp: 0.5
+    powerup_ammo: 0.25
+    powerup_mre: 0.55
+    powerup_part: 0.15
+    exclusive_rate: 3.0
+    bonus_type: rate:700,critical_percent:850
+    passive_skill: "759091"
+    max_level: 10
+    auto_select_id: 18114
+    equip_group_id: 4
+    is_show: 1
+    obtain_ids: "3096"
   }
   {
     id: 339

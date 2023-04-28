@@ -923,3 +923,11 @@ mission_win_type_config-11126502,거품에 둘러싸인 버블 머신을 처치/
 mission_win_type_config-11126605,가장 깊은 곳의 휠 오브 언포츈을 처치//n<color=#CF8000>이 임무를 완수하면 즉시 승리합니다.</color>
 mission_win_type_config-11092101,
 mission_win_type_config-11093301,
+mission_win_type_config-68000101,1턴 탐색을 마친다.//n<color=#CF8000>이동 시 헬리포트 이외 거점의 색이 바뀌며//c 결산 시 파란 거점이 많을수록 보상을 많이 획득합니다.</color>
+mission_win_type_config-68000601,
+mission_win_type_config-68000602,
+mission_win_type_config-68000603,
+mission_win_type_config-68000604,
+mission_win_type_config-68000605,
+mission_win_type_config-68000501,아무 상자를 연다.
+mission_win_type_config-68000502,

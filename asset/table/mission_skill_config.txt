@@ -9319,36 +9319,36 @@ mission_skill_config-30002109,쿨타임:2턴//c지정범위:2칸//c피해량:현
 mission_skill_config-10002110,강화 곰덫
 mission_skill_config-20002110,2칸 범위 안 비어있는 거점을 지정해 1턴간 유지되는 함정을 설치한다//c 함정을 밟은 적은 현재체력 15% 피해를 주고 1턴간 이동하지 못하게 한다. 이 피해는 보스에게 효과가 없다.
 mission_skill_config-30002110,쿨타임:2턴//c지정범위:2칸//c피해량:현재체력 15%
-mission_skill_config-10002201,수리요정
-mission_skill_config-20002201,갱신대기
-mission_skill_config-30002201,갱신대기
-mission_skill_config-10002202,수리요정
-mission_skill_config-20002202,갱신대기
-mission_skill_config-30002202,갱신대기
-mission_skill_config-10002203,수리요정
-mission_skill_config-20002203,갱신대기
-mission_skill_config-30002203,갱신대기
-mission_skill_config-10002204,수리요정
-mission_skill_config-20002204,갱신대기
-mission_skill_config-30002204,갱신대기
-mission_skill_config-10002205,수리요정
-mission_skill_config-20002205,갱신대기
-mission_skill_config-30002205,갱신대기
-mission_skill_config-10002206,수리요정
-mission_skill_config-20002206,갱신대기
-mission_skill_config-30002206,갱신대기
-mission_skill_config-10002207,수리요정
-mission_skill_config-20002207,갱신대기
-mission_skill_config-30002207,갱신대기
-mission_skill_config-10002208,수리요정
-mission_skill_config-20002208,갱신대기
-mission_skill_config-30002208,갱신대기
-mission_skill_config-10002209,수리요정
-mission_skill_config-20002209,갱신대기
-mission_skill_config-30002209,갱신대기
-mission_skill_config-10002210,수리요정
-mission_skill_config-20002210,갱신대기
-mission_skill_config-30002210,갱신대기
+mission_skill_config-10002201,응급 붕대
+mission_skill_config-20002201,거리 1칸 안 아군 제대의 각 유닛을 최대체력 5%민큼 회복시킨다.
+mission_skill_config-30002201,체력 회복:5%
+mission_skill_config-10002202,응급 붕대
+mission_skill_config-20002202,거리 1칸 안 아군 제대의 각 유닛을 최대체력 7%민큼 회복시킨다.
+mission_skill_config-30002202,체력 회복:7%
+mission_skill_config-10002203,응급 붕대
+mission_skill_config-20002203,거리 1칸 안 아군 제대의 각 유닛을 최대체력 8%민큼 회복시킨다.
+mission_skill_config-30002203,체력 회복:8%
+mission_skill_config-10002204,응급 붕대
+mission_skill_config-20002204,거리 1칸 안 아군 제대의 각 유닛을 최대체력 10%민큼 회복시킨다.
+mission_skill_config-30002204,체력 회복:10%
+mission_skill_config-10002205,응급 붕대
+mission_skill_config-20002205,거리 1칸 안 아군 제대의 각 유닛을 최대체력 12%민큼 회복시킨다.
+mission_skill_config-30002205,체력 회복:12%
+mission_skill_config-10002206,응급 붕대
+mission_skill_config-20002206,거리 1칸 안 아군 제대의 각 유닛을 최대체력 13%민큼 회복시킨다.
+mission_skill_config-30002206,체력 회복:13%
+mission_skill_config-10002207,응급 붕대
+mission_skill_config-20002207,거리 1칸 안 아군 제대의 각 유닛을 최대체력 15%민큼 회복시킨다.
+mission_skill_config-30002207,체력 회복:15%
+mission_skill_config-10002208,응급 붕대
+mission_skill_config-20002208,거리 1칸 안 아군 제대의 각 유닛을 최대체력 17%민큼 회복시킨다.
+mission_skill_config-30002208,체력 회복:17%
+mission_skill_config-10002209,응급 붕대
+mission_skill_config-20002209,거리 1칸 안 아군 제대의 각 유닛을 최대체력 18%민큼 회복시킨다.
+mission_skill_config-30002209,체력 회복:18%
+mission_skill_config-10002210,응급 붕대
+mission_skill_config-20002210,거리 1칸 안 아군 제대의 각 유닛을 최대체력 20%민큼 회복시킨다.
+mission_skill_config-30002210,체력 회복:20%
 mission_skill_config-10002301,터렛설치
 mission_skill_config-20002301,지정 범위 안에 3턴간 유지되는 로켓 포대를 설치해//c 거리 2칸 안의 아군 제대의 전투를 최대 3번 지원할 수 있다: 전투 중 8초마다//c 대상 주위 2 범위 안에 현재체력 6% 단일피해를 준다(필중//c 장갑 무시)//c 최대 피해량 30000//c 이 피해로 적을 처치할 수 없다.
 mission_skill_config-30002301,쿨타임:4턴//c지원 간격:8초//c피해량:6%
@@ -13726,3 +13726,63 @@ mission_skill_config-30572042,
 mission_skill_config-10572043,지휘관
 mission_skill_config-20572043,상대의 퍼포먼스 효과를 봅니다
 mission_skill_config-30572043,
+mission_skill_config-10070011,AI 식별
+mission_skill_config-20070011,
+mission_skill_config-30070011,
+mission_skill_config-10700111,AI 식별-연계 검사 0
+mission_skill_config-20700111,
+mission_skill_config-30700111,
+mission_skill_config-10070012,일상-피깎
+mission_skill_config-20070012,
+mission_skill_config-30070012,
+mission_skill_config-10700121,일상-피깎-연계 검사 0
+mission_skill_config-20700121,
+mission_skill_config-30700121,
+mission_skill_config-10070014,일상-링크 감소
+mission_skill_config-20070014,
+mission_skill_config-30070014,
+mission_skill_config-10700141,일상-링크 감소-연계 검사 0
+mission_skill_config-20700141,
+mission_skill_config-30700141,
+mission_skill_config-10070015,添加加速buff
+mission_skill_config-20070015,
+mission_skill_config-30070015,
+mission_skill_config-10070016,通用加速buff
+mission_skill_config-20070016,
+mission_skill_config-30070016,
+mission_skill_config-10070001,设施阻挡buff
+mission_skill_config-20070001,
+mission_skill_config-30070001,
+mission_skill_config-10070021,【标记】求救信号
+mission_skill_config-20070021,
+mission_skill_config-30070021,
+mission_skill_config-10070022,【标记】火炮侦察中
+mission_skill_config-20070022,
+mission_skill_config-30070022,
+mission_skill_config-10072001,
+mission_skill_config-20072001,
+mission_skill_config-30072001,
+mission_skill_config-10078001,암전 초기회
+mission_skill_config-20078001,
+mission_skill_config-30078001,
+mission_skill_config-10078002,밝음 초기화
+mission_skill_config-20078002,
+mission_skill_config-30078002,
+mission_skill_config-10078003,3AP 시작점 초기화
+mission_skill_config-20078003,
+mission_skill_config-30078003,
+mission_skill_config-10078004,15AP 시작점 초기화
+mission_skill_config-20078004,
+mission_skill_config-30078004,
+mission_skill_config-10078005,16AP 시작점 초기화
+mission_skill_config-20078005,
+mission_skill_config-30078005,
+mission_skill_config-10078006,AP+3
+mission_skill_config-20078006,
+mission_skill_config-30078006,
+mission_skill_config-10078007,결산
+mission_skill_config-20078007,
+mission_skill_config-30078007,
+mission_skill_config-10078008,결산
+mission_skill_config-20078008,
+mission_skill_config-30078008,
