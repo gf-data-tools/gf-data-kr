@@ -1,5 +1,6 @@
 {
   game_host: 'http://gf-game.girlfrontline.co.kr/index.php/1001',
   cdn_host: 'http://gfkrcdn.imtxwy.com',
-  asset_host: 'http://sn-list.girlfrontline.co.kr'
+  asset_host: 'http://sn-list.girlfrontline.co.kr',
+  channel: 'kr_tianxia'
 }
