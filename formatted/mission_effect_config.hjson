@@ -4,7 +4,7 @@
     name: 지뢰생성
     code: dilei_chuxian
     description: 지뢰
-    duration: 1.0
+    duration: 1
     size: 0.8
     sound: bb_noel_nachujiguanqiang
     offset: "0,0"
@@ -22,7 +22,7 @@
     name: 지뢰폭파
     code: dilei_baoza
     description: 폭파
-    duration: 1.0
+    duration: 1
     size: 0.8
     sound: BT_grenade_explode
     offset: "0,0"
@@ -32,8 +32,8 @@
     name: 미사일
     code: BulletMove
     description: 미사일
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: BT_MissileExplo
     offset: "0,0"
   }
@@ -42,8 +42,8 @@
     name: 요새생성
     code: Gsyaojing_buzhi
     description: 요새
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: bb_noel_nachujiguanqiang
     offset: "0,0"
   }
@@ -53,7 +53,7 @@
     code: GSyaojing_daiji
     description: 요새준비
     priority: 8
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -78,8 +78,8 @@
     name: 카구야 특수 효과
     code: ui_glass
     description: 거울
-    duration: 2.0
-    delay: 1.0
+    duration: 2
+    delay: 1
     size: 1.5
     if_starting: 1
     offset: "0,0"
@@ -89,7 +89,7 @@
     name: 카구야 폭발
     code: dilei_baoza
     description: 폭발
-    duration: 1.0
+    duration: 1
     delay: 1.6
     size: 0.8
     sound: BT_grenade_explode
@@ -100,7 +100,7 @@
     name: 꽃잎 출현
     code: DJmax_huaban
     description: 꽃잎
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -108,7 +108,7 @@
     name: 복숭아 이펙트
     code: 2019_DH_YJ_xiangrui_1
     description: 복숭아 이펙트
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -116,7 +116,7 @@
     name: 복숭아 습득 이펙트
     code: 2019_DH_YJ_xiangrui_3
     description: 복숭아 이펙트
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -124,7 +124,7 @@
     name: 뫼비우스 효과
     code: dzrq_zhengti
     description: 뫼비우스 효과
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -188,7 +188,7 @@
     name: 방향표_좌
     code: zsd_right
     description: 방향표_좌
-    size: 1.0
+    size: 1
     offset: "0,150"
   }
   {
@@ -196,7 +196,7 @@
     name: 방향표_우
     code: zsd_left
     description: 방향표_좌
-    size: 1.0
+    size: 1
     offset: "0,150"
   }
   {
@@ -204,7 +204,7 @@
     name: 방향표_상
     code: zsd_up
     description: 방향표_상
-    size: 1.0
+    size: 1
     offset: "-120,0"
   }
   {
@@ -212,7 +212,7 @@
     name: 방향표_하
     code: zsd_down
     description: 방향표_하
-    size: 1.0
+    size: 1
     offset: "-120,0"
   }
   {
@@ -256,8 +256,8 @@
     name: 공수항공기 효과
     code: Heli
     description: 요정비행
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: UI_helicopter_loop
     spine: 1
     offset: "0,0"
@@ -267,7 +267,7 @@
     name: 헬리포트 증원 아이콘
     code: effectPowerup
     description: UP
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -276,7 +276,7 @@
     code: effectNoDrop
     description: 금지
     priority: 3
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -285,7 +285,7 @@
     code: Mission_gas
     description: 오염
     priority: 9
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -293,8 +293,8 @@
     name: 차단문 열림 효과음
     code: Empty
     description: 차단문 열림 효과음
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: BT_LockGate_Open
     offset: "0,0"
   }
@@ -303,8 +303,8 @@
     name: 차단문 닫힘 효과음
     code: Empty
     description: 차단문 닫힘 효과음
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: BT_LockGate_Close
     offset: "0,0"
   }
@@ -313,8 +313,8 @@
     name: 제어콘솔 개방 효과음
     code: Empty
     description: 제어콘솔 개방 효과음
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: BT_console_start
     offset: "0,0"
   }
@@ -323,8 +323,8 @@
     name: 제어콘솔 동결 효과음
     code: Empty
     description: 제어콘솔 동결 효과음
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: BT_ControlStation_Freeze
     offset: "0,0"
   }
@@ -333,8 +333,8 @@
     name: 폭파 효과음
     code: dilei_baoza
     description: 폭파 효과음
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: BT_RockExplo
     offset: "0,0"
   }
@@ -343,8 +343,8 @@
     name: EMP
     code: EMP
     description: EMP 폭발
-    duration: 3.0
-    size: 1.0
+    duration: 3
+    size: 1
     sound: map_emp_explo
     offset: "0,0"
   }
@@ -354,7 +354,7 @@
     code: build_baoza
     description: 대폭발
     priority: 99
-    duration: 1.0
+    duration: 1
     size: 0.8
     sound: BT_grenade_explode
     offset: "0,0"
@@ -364,7 +364,7 @@
     name: 모락모락
     code: Y(Bmap)_qiaoduan
     description: 모락모락
-    size: 1.0
+    size: 1
     offset: "50,55"
   }
   {
@@ -380,8 +380,8 @@
     name: EMP 폭탄 폭발 효과
     code: PortableEMP
     description: EMP 폭탄 폭발
-    duration: 3.0
-    size: 1.0
+    duration: 3
+    size: 1
     sound: map_emp_explo
     offset: "0,0"
   }
@@ -390,7 +390,7 @@
     name: 뫼비우스빨강 효과1
     code: dzrq_2Dzhengti01
     description: 뫼비우스효과
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -398,7 +398,7 @@
     name: 뫼비우스빨강 효과2
     code: dzrq_2Dzhengti02
     description: 뫼비우스효과
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -406,7 +406,7 @@
     name: 뫼비우스빨강 효과3
     code: dzrq_2Dzhengti03
     description: 뫼비우스효과
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -422,9 +422,9 @@
     name: 섬광탄 투척
     code: sgd_tuowei
     description: 섬광탄 투척
-    duration: 1.0
+    duration: 1
     delay: 0.33
-    size: 1.0
+    size: 1
     sound: BT_The_Division_Flash_Bomb
     if_starting: 1
     offset: "0,0"
@@ -434,7 +434,7 @@
     name: 섬광탄 bome
     code: sgd_baozha
     description: 섬광탄 bome
-    size: 1.0
+    size: 1
     sound: BT_The_Division_Flash_Bomb_Explosion
     offset: "0,0"
   }
@@ -443,9 +443,9 @@
     name: 수류탄 투척
     code: sld_tuowei
     description: 수류탄 투척
-    duration: 1.0
+    duration: 1
     delay: 0.33
-    size: 1.0
+    size: 1
     sound: BT_The_Division_Grenade
     if_starting: 1
     offset: "0,0"
@@ -455,7 +455,7 @@
     name: 수류탄 bomb
     code: build_baoza
     description: 수류탄 bomb
-    size: 1.0
+    size: 1
     sound: BT_The_Division_Grenade_Explosion
     offset: "0,0"
   }
@@ -464,8 +464,8 @@
     name: 터렛 기동
     code: Machine_Gun_Tower_Action
     description: 터렛 기동
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: BT_The_Division_Machine_Gun_Tower
     offset: "0,0"
   }
@@ -474,8 +474,8 @@
     name: 피격 이펙트
     code: MGT_shouji
     description: 피격 이펙트
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -484,7 +484,7 @@
     code: Machine_Gun_Tower_Action
     description: 터렛 대기
     delay: 0.2
-    size: 1.0
+    size: 1
     spine: 3
     offset: "0,0"
   }
@@ -493,8 +493,8 @@
     name: 터렛 사격
     code: Machine_Gun_Tower_Action
     description: 터렛 사격
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: BT_The_Division_Machine_Gun_Tower_Shooting
     spine: 4
     offset: "0,0"
@@ -505,8 +505,8 @@
     code: qx_shuzi00
     description: 숫자 0
     priority: 10
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -515,8 +515,8 @@
     code: qx_shuzi01
     description: 숫자 1
     priority: 10
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -525,8 +525,8 @@
     code: qx_shuzi02
     description: 숫자 2
     priority: 10
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -535,8 +535,8 @@
     code: qx_shuzi03
     description: 숫자 3
     priority: 10
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -545,8 +545,8 @@
     code: qx_shuzi04
     description: 숫자 4
     priority: 10
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -555,8 +555,8 @@
     code: qx_shuzi05
     description: 숫자 5
     priority: 10
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -565,8 +565,8 @@
     code: qx_shuzi06
     description: 숫자 6
     priority: 10
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -575,8 +575,8 @@
     code: qx_shuzi07
     description: 숫자 7
     priority: 10
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -585,8 +585,8 @@
     code: qx_shuzi08
     description: 숫자 8
     priority: 10
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -595,8 +595,8 @@
     code: qx_shuzi09
     description: 숫자 9
     priority: 10
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -604,8 +604,8 @@
     name: 발사
     code: Battlefield_fire
     description: 발사
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: BT_squad_howitzer
     offset: "0,0"
   }
@@ -614,7 +614,7 @@
     name: 포격 이펙트
     code: build_baoza
     description: 포격 이펙트
-    duration: 1.0
+    duration: 1
     size: 0.8
     sound: BT_grenade_explode
     offset: "0,0"
@@ -624,7 +624,7 @@
     name: 안개 이펙트
     code: dian_guangzhu
     description: 안개 이펙트
-    duration: 1.0
+    duration: 1
     size: 0.01
     offset: "0,0"
   }
@@ -633,8 +633,8 @@
     name: 맑음 이펙트
     code: ddl_saomiao
     description: 맑음 이펙트
-    duration: 5.0
-    size: 1.0
+    duration: 5
+    size: 1
     sound: SFX_20_Winter_Radar_Scan
     offset: "0,0"
   }
@@ -643,7 +643,7 @@
     name: 기억조각 이펙트
     code: sheshi_xian
     description: 기억조각 이펙트
-    duration: 1.0
+    duration: 1
     size: 0.05
     offset: "0,0"
   }
@@ -652,8 +652,8 @@
     name: 폭탄추락 효과음
     code: Empty
     description: 폭탄추락 효과음
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: SFX_20_Winter_Boom
     offset: "0,0"
   }
@@ -662,8 +662,8 @@
     name: 댄들라이 buff 효과음
     code: Empty
     description: 댄들라이 buff 효과음
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: SFX_20_Winter_Buff
     offset: "0,0"
   }
@@ -672,8 +672,8 @@
     name: 댄들라이 debuff 효과음
     code: Empty
     description: 댄들라이 debuff 효과음
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: SFX_20_Winter_Debuff
     offset: "0,0"
   }
@@ -682,9 +682,9 @@
     name: 뒤집기 효과음
     code: Empty
     description: 뒤집기 효과음
-    duration: 1.0
+    duration: 1
     delay: 0.5
-    size: 1.0
+    size: 1
     sound: BT_rotate
     offset: "0,0"
   }
@@ -693,8 +693,8 @@
     name: 빨콩 투척
     code: golyatlpg_d
     description: 빨콩 투척
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     if_starting: 3
     relative_position: "-500,1000"
     offset: "0,0"
@@ -704,7 +704,7 @@
     name: 빨콩 bomb
     code: build_baoza
     description: 빨콩 bomb
-    size: 1.0
+    size: 1
     sound: BT_The_Division_Grenade_Explosion
     offset: "0,0"
   }
@@ -713,7 +713,7 @@
     name: 상
     code: skidarrow04
     description: 상
-    duration: 1.0
+    duration: 1
     size: 0.5
     offset: "0,0"
   }
@@ -722,7 +722,7 @@
     name: 하
     code: skidarrow03
     description: 하
-    duration: 1.0
+    duration: 1
     size: 0.5
     offset: "0,0"
   }
@@ -731,7 +731,7 @@
     name: 좌
     code: skidarrow02
     description: 좌
-    duration: 1.0
+    duration: 1
     size: 0.5
     offset: "0,0"
   }
@@ -740,7 +740,7 @@
     name: 우
     code: skidarrow01
     description: 우
-    duration: 1.0
+    duration: 1
     size: 0.5
     offset: "0,0"
   }
@@ -749,8 +749,8 @@
     name: 카운트 0
     code: bomb_shuzi00
     description: 카운트 0
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -758,8 +758,8 @@
     name: 카운트 1
     code: bomb_shuzi01
     description: 카운트 1
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -767,8 +767,8 @@
     name: 카운트 2
     code: bomb_shuzi02
     description: 카운트 2
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -776,8 +776,8 @@
     name: 카운트 3
     code: bomb_shuzi03
     description: 카운트 3
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -785,8 +785,8 @@
     name: 카운트 4
     code: bomb_shuzi04
     description: 카운트 4
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -794,8 +794,8 @@
     name: 카운트 5
     code: bomb_shuzi05
     description: 카운트 5
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -803,8 +803,8 @@
     name: 카운트 6
     code: bomb_shuzi06
     description: 카운트 6
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -812,8 +812,8 @@
     name: 카운트 7
     code: bomb_shuzi07
     description: 카운트 7
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -821,8 +821,8 @@
     name: 카운트 8
     code: bomb_shuzi08
     description: 카운트 8
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -830,8 +830,8 @@
     name: 카운트 9
     code: bomb_shuzi09
     description: 카운트 9
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -839,8 +839,8 @@
     name: 암호 효과음
     code: Empty
     description: 암호 효과음
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: SFX_20_Winter_Password
     offset: "0,0"
   }
@@ -850,8 +850,8 @@
     code: build_baoza_1
     description: 꽃가루 폭탄 폭발
     priority: 10
-    duration: 2.0
-    size: 1.0
+    duration: 2
+    size: 1
     sound: BT_grenade_explode
     offset: "0,0"
   }
@@ -861,7 +861,7 @@
     code: Bushu_ice01
     description: 빙수
     priority: 10
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -870,8 +870,8 @@
     code: Bushu_ice02
     description: 빙수 소멸
     priority: 10
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: Equip_Ice
     offset: "0,0"
   }
@@ -881,8 +881,8 @@
     code: Bushu_xz_yan
     description: 텐트 연기
     priority: 10
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: Equip_Smoke
     offset: "0,0"
   }
@@ -892,8 +892,8 @@
     code: jashinchan_eat
     description: 사신짱 냠냠
     priority: 48
-    duration: 3.0
-    size: 1.0
+    duration: 3
+    size: 1
     spine: 2
     offset: "0,200"
   }
@@ -902,7 +902,7 @@
     name: 특수지점 힌트
     code: ddl_xingxing
     description: 특수지점 힌트
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -935,7 +935,7 @@
     name: 1-2ex1
     code: skidarrow64340
     description: 1-2ex1
-    duration: 1.0
+    duration: 1
     size: 0.5
     offset: "0,0"
   }
@@ -944,7 +944,7 @@
     name: 1-2ex2
     code: skidarrow64361
     description: 1-2ex2
-    duration: 1.0
+    duration: 1
     size: 0.5
     offset: "0,0"
   }
@@ -953,7 +953,7 @@
     name: 1-2ex3
     code: skidarrow64367
     description: 1-2ex3
-    duration: 1.0
+    duration: 1
     size: 0.5
     offset: "0,0"
   }
@@ -962,7 +962,7 @@
     name: 1-2ex4
     code: skidarrow64363
     description: 1-2ex4
-    duration: 1.0
+    duration: 1
     size: 0.5
     offset: "0,0"
   }
@@ -971,8 +971,8 @@
     name: 폭발SE
     code: Empty
     description: 폭발SE
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: BT_grenade_explode
     offset: "0,0"
   }
@@ -981,8 +981,8 @@
     name: 표식
     code: SpotTarget0
     description: 표식
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     offset: "0,0"
   }
   {
@@ -1007,21 +1007,21 @@
   {
     id: 1000085
     code: skidarrow05
-    duration: 1.0
+    duration: 1
     size: 0.5
     offset: "0,0"
   }
   {
     id: 1000086
     code: skidarrow06
-    duration: 1.0
+    duration: 1
     size: 0.5
     offset: "0,0"
   }
   {
     id: 1000088
     code: skidarrow08
-    duration: 1.0
+    duration: 1
     size: 0.5
     offset: "0,0"
   }
@@ -1031,9 +1031,9 @@
     code: build_baoza_1
     description: 미사일 공격 이펙트
     priority: 10
-    duration: 1.0
+    duration: 1
     delay: 0.5
-    size: 1.0
+    size: 1
     sound: UI_Missile_Attack_Delay1
     offset: "0,0"
   }
@@ -1051,7 +1051,7 @@
     code: chuansong_03
     description: 전송lv1 HG 발동
     priority: 5
-    duration: 1.0
+    duration: 1
     size: 0.05
     offset: "0,0"
   }
@@ -1061,8 +1061,8 @@
     code: 力场盾
     description: 포스실드
     priority: 200
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: UI_Spe_Build_Buff
     offset: "0,0"
   }
@@ -1072,8 +1072,8 @@
     code: powerUp
     description: 화력up
     priority: 200
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: UI_Spe_Build_Buff
     offset: "0,0"
   }
@@ -1083,9 +1083,9 @@
     code: build_baoza+emp
     description: emp탄 공격 이펙트
     priority: 10
-    duration: 1.0
+    duration: 1
     delay: 0.5
-    size: 1.0
+    size: 1
     sound: UI_Missile_Attack_Delay2
     offset: "0,0"
   }
@@ -1094,8 +1094,8 @@
     name: 건설 효과음
     code: Empty
     description: 건설 효과음
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: UI_Build_Construct
     offset: "0,0"
   }
@@ -1104,8 +1104,8 @@
     name: 강화 효과음
     code: Empty
     description: 강화 효과음
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: UI_Build_Upgrade
     offset: "0,0"
   }
@@ -1114,8 +1114,8 @@
     name: buff 효과음
     code: Empty
     description: buff 효과음
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: UI_Spe_Build_Buff
     offset: "0,0"
   }
@@ -1124,8 +1124,8 @@
     name: 랭킹전 워프장치 효과음
     code: Empty
     description: 랭킹전 워프장치 효과음
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: UI_Spe_Build_Portal
     offset: "0,0"
   }
@@ -1146,7 +1146,7 @@
     code: CanDestroyBuildTip
     description: 공습유도
     priority: 1
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -1154,8 +1154,8 @@
     name: 초콜릿 머신 기동
     code: Empty
     description: 초콜릿 머신 기동
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: 2022_white_valentine_Chocolate
     offset: "0,0"
   }
@@ -1164,8 +1164,8 @@
     name: 폭죽
     code: GQ_yanhua
     description: 폭죽
-    duration: 3.0
-    size: 1.0
+    duration: 3
+    size: 1
     sound: 2022_Bikini_Fireworks
     offset: "0,0"
   }
@@ -1175,9 +1175,9 @@
     code: XDZY_TY2
     description: 폭격효과1
     priority: 1
-    duration: 2.0
-    delay: -1.0
-    size: 4.0
+    duration: 2
+    delay: -1
+    size: 4
     offset: "0,0"
   }
   {
@@ -1186,9 +1186,9 @@
     code: LLS_hongzha02
     description: 폭격효과2
     priority: 1
-    duration: 2.0
-    delay: -2.0
-    size: 2.0
+    duration: 2
+    delay: -2
+    size: 2
     sound: Blackjack_attack1
     offset: "0,0"
   }
@@ -1198,7 +1198,7 @@
     code: Dian_tiepian02
     description: 조준
     priority: -1
-    size: 1.0
+    size: 1
     offset: "0,20"
   }
   {
@@ -1207,7 +1207,7 @@
     code: Dian_tiepian03
     description: 나무
     priority: -1
-    size: 1.0
+    size: 1
     offset: "0,100"
   }
   {
@@ -1216,7 +1216,7 @@
     code: Dian_tiepian01
     description: 탄나무
     priority: -1
-    size: 1.0
+    size: 1
     offset: "0,100"
   }
   {
@@ -1234,8 +1234,8 @@
     code: Fly_tu160
     description: TY-160
     priority: 1
-    duration: 3.0
-    size: 2.0
+    duration: 3
+    size: 2
     sound: Blackjack_flying
     if_starting: 4
     relative_position: "0,0;0,0;0,0;1,1"
@@ -1266,7 +1266,7 @@
     code: bushu_moon
     description: 달
     priority: -1
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -1274,7 +1274,7 @@
     name: 受击特效给hurt用
     code: MGT_shouji
     description: 受击特效给hurt用
-    duration: 1.0
+    duration: 1
     size: 0.02
     offset: "0,0"
   }
@@ -1298,7 +1298,7 @@
     priority: 5
     duration: 1.5
     delay: 0.5
-    size: 3.0
+    size: 3
     offset: "0,0"
     is_focus: "1"
   }
@@ -1322,7 +1322,7 @@
     priority: 5
     duration: 1.5
     delay: 1.5
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -1333,7 +1333,7 @@
     priority: 5
     duration: 1.5
     delay: 1.5
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -1341,7 +1341,7 @@
     name: 느낌표
     code: zhgq_by_th
     description: 느낌표
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -1364,7 +1364,7 @@
     priority: 5
     duration: 1.5
     delay: 1.5
-    size: 3.0
+    size: 3
     offset: "0,0"
     is_focus: "1"
   }
@@ -1388,7 +1388,7 @@
     priority: 5
     duration: 1.5
     delay: 3.5
-    size: 3.0
+    size: 3
     offset: "0,0"
   }
   {
@@ -1397,7 +1397,7 @@
     code: qipao_yys
     description: Fever
     priority: 5
-    size: 1.0
+    size: 1
     offset: "-200,250;0,0"
   }
   {
@@ -1560,7 +1560,7 @@
     code: Empty
     description: 지연
     duration: 2.5
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -1569,7 +1569,7 @@
     code: Empty
     description: mission_effect_config-21000140
     duration: 1.5
-    size: 1.0
+    size: 1
     offset: "0,0"
   }
   {
@@ -1577,7 +1577,7 @@
     name: 별
     code: BlueCA
     description: 별
-    duration: 1.0
+    duration: 1
     size: 0.5
     offset: "0,0"
   }
@@ -1585,7 +1585,7 @@
     id: 9490401
     name: 【표식】반짝반짝
     code: ddl_xingxing
-    duration: 1.0
+    duration: 1
     size: 0.02
     offset: "0,0"
   }
@@ -1594,8 +1594,8 @@
     name: 【표식】일반 반복중단 효과음
     code: Empty
     description: 【표식】일반 반복중단 효과음
-    duration: 1.0
-    size: 1.0
+    duration: 1
+    size: 1
     sound: Stop_UI_loop
     offset: "0,0"
   }

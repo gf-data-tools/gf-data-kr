@@ -33,13 +33,13 @@
     id: 301
     class_id: 3
     title: 5성 인형 장비 보유
-    weight: 1.0
+    weight: 1
   }
   {
     id: 302
     class_id: 3
     title: 전용 인형 장비 보유
-    weight: 1.0
+    weight: 1
   }
   {
     id: 303
@@ -87,13 +87,13 @@
     id: 502
     class_id: 5
     title: 중장비 부대 승진
-    weight: 1.0
+    weight: 1
   }
   {
     id: 503
     class_id: 5
     title: 중장비 부대 버전업
-    weight: 2.0
+    weight: 2
   }
   {
     id: 504
@@ -135,13 +135,13 @@
     id: 605
     class_id: 6
     title: 전술칩 개발
-    weight: 2.0
+    weight: 2
   }
   {
     id: 801
     class_id: 8
     title: 메인 전역
-    weight: 1.0
+    weight: 1
   }
   {
     id: 802
@@ -153,43 +153,43 @@
     id: 803
     class_id: 8
     title: 포인트 이벤트 참여
-    weight: 1.0
+    weight: 1
   }
   {
     id: 804
     class_id: 8
     title: 도감 수집
-    weight: 1.0
+    weight: 1
   }
   {
     id: 901
     class_id: 9
     title: 군수지원
-    weight: 1.0
+    weight: 1
   }
   {
     id: 902
     class_id: 9
     title: 전진기지 탐색
-    weight: 1.0
+    weight: 1
   }
   {
     id: 903
     class_id: 9
     title: 자율작전
-    weight: 1.0
+    weight: 1
   }
   {
     id: 904
     class_id: 9
     title: 시설 건설
-    weight: 1.0
+    weight: 1
   }
   {
     id: 1001
     class_id: 10
     title: 친구 수
-    weight: 1.0
+    weight: 1
   }
   {
     id: 1002
@@ -225,42 +225,42 @@
     id: 1102
     class_id: 11
     title: 가구 세트 획득
-    weight: 4.0
+    weight: 4
   }
   {
     id: 1103
     class_id: 11
     title: 인형 코스튬 수집
-    weight: 1.0
+    weight: 1
   }
   {
     id: 1104
     class_id: 11
     title: 카페 만화 수집
-    weight: 5.0
+    weight: 5
   }
   {
     id: 1105
     class_id: 11
     title: 인형의 추억
-    weight: 3.0
+    weight: 3
   }
   {
     id: 1106
     class_id: 11
     title: 그리폰 회상
-    weight: 5.0
+    weight: 5
   }
   {
     id: 1107
     class_id: 11
     title: 인형 서약
-    weight: 1.0
+    weight: 1
   }
   {
     id: 1108
     class_id: 11
     title: 인형 호감도
-    weight: 1.0
+    weight: 1
   }
 ]

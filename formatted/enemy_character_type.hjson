@@ -5,8 +5,8 @@
     character: 척탄
     normal_attack: 300301
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 10000
@@ -18,8 +18,8 @@
     level: 100
     character: 아이콘 표시
     normal_attack: 300301
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 10001
@@ -41,8 +41,8 @@
     character: 평범
     normal_attack: 300317
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 2
   }
   {
@@ -66,7 +66,7 @@
     normal_attack: 300312
     passive_skill: "200304"
     effect_ratio: 0.8
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 3
   }
   {
@@ -89,7 +89,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 0.07
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 6
   }
   {
@@ -112,8 +112,8 @@
     character: 근접
     normal_attack: 300317
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 4
   }
   {
@@ -136,8 +136,8 @@
     character: 평범
     normal_attack: 300313
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 7
   }
   {
@@ -160,8 +160,8 @@
     character: 정확
     normal_attack: 300301
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 9
   }
   {
@@ -184,7 +184,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 0.6
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 10
   }
   {
@@ -207,8 +207,8 @@
     character: 고속
     normal_attack: 300318
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 12
   }
   {
@@ -232,7 +232,7 @@
     normal_attack: 300305
     passive_skill: "200304,119019"
     effect_ratio: 0.05
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 13
   }
   {
@@ -256,7 +256,7 @@
     normal_attack: 300316
     passive_skill: "200303,200304"
     effect_ratio: 1.13
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 15
   }
   {
@@ -279,8 +279,8 @@
     character: 속사
     normal_attack: 300322
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 29
   }
   {
@@ -304,7 +304,7 @@
     normal_attack: 300315
     passive_skill: "200303,200304"
     effect_ratio: 1.32
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 14
   }
   {
@@ -328,7 +328,7 @@
     normal_attack: 300316
     passive_skill: "200303,200304"
     effect_ratio: 1.14
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 15
   }
   {
@@ -352,7 +352,7 @@
     normal_attack: 300315
     passive_skill: "200303,200304"
     effect_ratio: 1.28
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 14
   }
   {
@@ -377,7 +377,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 1.2
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 28
   }
   {
@@ -401,7 +401,7 @@
     normal_attack: 300316
     passive_skill: "200303,200304"
     effect_ratio: 0.25
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 30
   }
   {
@@ -424,8 +424,8 @@
     character: 정확
     normal_attack: 300301
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 9
   }
   {
@@ -449,7 +449,7 @@
     normal_attack: 300301
     passive_skill: "200303,200304"
     effect_ratio: 1.28
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 14
   }
   {
@@ -472,7 +472,7 @@
     normal_attack: 900107
     passive_skill: "310325,119020"
     effect_ratio: 0.25
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 31
   }
   {
@@ -495,7 +495,7 @@
     normal_attack: 900107
     passive_skill: "310325,119020"
     effect_ratio: 0.25
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 32
   }
   {
@@ -518,7 +518,7 @@
     normal_attack: 900107
     passive_skill: "310325,119020"
     effect_ratio: 0.25
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 31
   }
   {
@@ -541,8 +541,8 @@
     character: 엘리트,범위피해
     normal_attack: 300301
     passive_skill: "700101,402605"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 37
   }
   {
@@ -565,8 +565,8 @@
     character: 엘리트,장갑,산탄
     normal_attack: 300301
     passive_skill: "700101,402605"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 38
   }
   {
@@ -590,7 +590,7 @@
     normal_attack: 300301
     passive_skill: "200303,200304,119019"
     effect_ratio: 0.87
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 41
   }
   {
@@ -614,7 +614,7 @@
     normal_attack: 402601
     passive_skill: "200303,200304,402602,119020"
     effect_ratio: 1.17
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 39
   }
   {
@@ -638,7 +638,7 @@
     normal_attack: 300316
     passive_skill: "200303,200304"
     effect_ratio: 1.17
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 40
   }
   {
@@ -662,7 +662,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 0.6
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 36
   }
   {
@@ -760,7 +760,7 @@
     effect_ratio: 0.25
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 42
   }
   {
@@ -784,7 +784,7 @@
     normal_attack: 300313
     passive_skill: "200304"
     effect_ratio: 0.75
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 46
   }
   {
@@ -811,7 +811,7 @@
     effect_ratio: 1.04
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 47
   }
   {
@@ -861,7 +861,7 @@
     normal_attack: 300317
     passive_skill: "200304"
     effect_ratio: 0.75
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 52
   }
   {
@@ -885,7 +885,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 0.6
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 53
   }
   {
@@ -938,7 +938,7 @@
     effect_ratio: 1.04
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 47
   }
   {
@@ -1016,7 +1016,7 @@
     normal_attack: 300313
     passive_skill: "200304"
     effect_ratio: 0.75
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 46
   }
   {
@@ -1039,8 +1039,8 @@
     character: 고위협,고속
     normal_attack: 711001
     passive_skill: "711002,200304,711003,711004,711005,711006,711103,119019"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 58
   }
   {
@@ -1091,7 +1091,7 @@
     normal_attack: 300301
     passive_skill: "200303,200304,119019,740089"
     effect_ratio: 1.09
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 16
   }
   {
@@ -1115,7 +1115,7 @@
     normal_attack: 402601
     passive_skill: "200303,200304,402602,119020"
     effect_ratio: 1.25
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 39
   }
   {
@@ -1196,7 +1196,7 @@
     effect_ratio: 1.74
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 73
   }
   {
@@ -1221,7 +1221,7 @@
     normal_attack: 403901
     passive_skill: "200304,403902,403903"
     effect_ratio: 0.7
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 72
   }
   {
@@ -1245,8 +1245,8 @@
     character: 고위협,지정타격
     normal_attack: 404401
     passive_skill: "200303,200304,404402,404403,119019"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 71
   }
   {
@@ -1271,7 +1271,7 @@
     passive_skill: "200304,404501,404503,755000"
     effect_ratio: 1.41
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 69
   }
   {
@@ -1296,7 +1296,7 @@
     normal_attack: 300312
     passive_skill: "200304"
     effect_ratio: 0.84
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 70
   }
   {
@@ -1323,7 +1323,7 @@
     effect_ratio: 1.12
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 63
   }
   {
@@ -1350,7 +1350,7 @@
     effect_ratio: 1.93
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 64
   }
   {
@@ -1374,7 +1374,7 @@
     normal_attack: 300313
     passive_skill: "200304,403601,119019"
     effect_ratio: 0.8
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 65
   }
   {
@@ -1398,7 +1398,7 @@
     normal_attack: 404601
     passive_skill: "200304"
     effect_ratio: 0.8
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 66
   }
   {
@@ -1423,7 +1423,7 @@
     passive_skill: "200304,405210,405201,755000,740089"
     effect_ratio: 1.05
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 74
     location_offset: "0.9,-1.2,3.32"
   }
@@ -1448,7 +1448,7 @@
     passive_skill: "200304,405210,405202,755000"
     effect_ratio: 1.05
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     location_offset: "0.4,-1.2,2.24"
   }
   {
@@ -1473,7 +1473,7 @@
     passive_skill: "200304,405210,405207,405213,755000,740089"
     effect_ratio: 1.05
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 75
     location_offset: "-0.59,0,-0.36"
   }
@@ -1498,7 +1498,7 @@
     passive_skill: "200304,405210,405207,405213,755000"
     effect_ratio: 1.05
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     location_offset: "0.12,0, 0.79"
   }
   {
@@ -1523,7 +1523,7 @@
     passive_skill: "200304,405210,405201,755000,740089"
     effect_ratio: 1.05
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 76
     location_offset: "0.54,0,0"
   }
@@ -1548,7 +1548,7 @@
     passive_skill: "200304,405210,405202,755000"
     effect_ratio: 1.05
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     location_offset: "0.23,0,0.58"
   }
   {
@@ -1571,7 +1571,7 @@
     normal_attack: 405101
     passive_skill: "200304,405102,755000"
     effect_ratio: 0.79
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 67
   }
   {
@@ -1595,7 +1595,7 @@
     normal_attack: 300317
     passive_skill: "200304"
     effect_ratio: 0.75
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 52
   }
   {
@@ -1619,7 +1619,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 0.6
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 53
   }
   {
@@ -1642,7 +1642,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 0.07
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 106
   }
   {
@@ -1693,7 +1693,7 @@
     normal_attack: 900107
     passive_skill: "900465,755000"
     effect_ratio: 1.58
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 78
   }
   {
@@ -1718,7 +1718,7 @@
     normal_attack: 900107
     passive_skill: "900478,900479,900480,119019,755000,740089"
     effect_ratio: 1.11
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 79
   }
   {
@@ -1742,7 +1742,7 @@
     normal_attack: 902266
     passive_skill: "902265,902267,902268,200304"
     effect_ratio: 1.2
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 114
   }
   {
@@ -1765,8 +1765,8 @@
     character: 엘리트,침투
     normal_attack: 902264
     passive_skill: "902260,902262,902263"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 113
   }
   {
@@ -1790,7 +1790,7 @@
     normal_attack: 902271
     passive_skill: "200304,902269,902270"
     effect_ratio: 0.8
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 115
   }
   {
@@ -1816,7 +1816,7 @@
     effect_ratio: 1.6
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 117
   }
   {
@@ -1842,7 +1842,7 @@
     effect_ratio: 0.97
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 116
   }
   {
@@ -1869,7 +1869,7 @@
     effect_ratio: 1.21
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 118
   }
   {
@@ -1896,7 +1896,7 @@
     effect_ratio: 2.19
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 119
   }
   {
@@ -1920,7 +1920,7 @@
     normal_attack: 300313
     passive_skill: "200304,403601,119019"
     effect_ratio: 0.8
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 120
   }
   {
@@ -1943,8 +1943,8 @@
     character: 전문인원
     normal_attack: 755049
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 127
   }
   {
@@ -1966,9 +1966,9 @@
     level: 100
     character: 엘리트,전문인원
     normal_attack: 755049
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 128
   }
   {
@@ -1992,7 +1992,7 @@
     normal_attack: 755057
     passive_skill: "755058,119020"
     effect_ratio: 0.8
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 129
   }
   {
@@ -2018,7 +2018,7 @@
     effect_ratio: 0.97
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 130
   }
   {
@@ -2041,10 +2041,10 @@
     character: 방패 수비
     normal_attack: 755031
     passive_skill: "755032,755050,200304,755053"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 131
   }
   {
@@ -2068,7 +2068,7 @@
     normal_attack: 755029
     passive_skill: "755030,200304"
     effect_ratio: 0.41
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 132
   }
   {
@@ -2094,7 +2094,7 @@
     effect_ratio: 1.05
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 133
   }
   {
@@ -2117,10 +2117,10 @@
     character: 고위협,투척,대기계
     normal_attack: 755039
     passive_skill: "755040,755041,755048,200304,119019"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 134
   }
   {
@@ -2147,7 +2147,7 @@
     effect_ratio: 1.08
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 135
   }
   {
@@ -2170,10 +2170,10 @@
     character: 엘리트,연사
     normal_attack: 407003
     passive_skill: "407001,407002,407004,407005,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 148
   }
   {
@@ -2200,7 +2200,7 @@
     effect_ratio: 0.7
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 149
   }
   {
@@ -2227,7 +2227,7 @@
     effect_ratio: 1.4
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 150
   }
   {
@@ -2253,7 +2253,7 @@
     effect_ratio: 0.82
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 151
   }
   {
@@ -2276,8 +2276,8 @@
     character: 고속,약화
     normal_attack: 407501
     passive_skill: "407502,407503,200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 152
   }
   {
@@ -2299,10 +2299,10 @@
     level: 30100
     character: 엘리트
     normal_attack: 902264
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 153
   }
   {
@@ -2325,8 +2325,8 @@
     character: 평범
     normal_attack: 755242
     passive_skill: "755243,200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 167
   }
   {
@@ -2349,8 +2349,8 @@
     character: 전문인원
     normal_attack: 755049
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 127
   }
   {
@@ -2372,10 +2372,10 @@
     level: 100
     character: 엘리트,전문인원
     normal_attack: 755049
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 128
   }
   {
@@ -2398,8 +2398,8 @@
     character: 평범
     normal_attack: 900795
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 97
   }
   {
@@ -2423,7 +2423,7 @@
     normal_attack: 300317
     passive_skill: "200304"
     effect_ratio: 0.75
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 98
   }
   {
@@ -2448,10 +2448,10 @@
     character: 고위협,거대,산탄,범위 피해
     normal_attack: 755226
     passive_skill: "755218,200304,119019,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 168
   }
   {
@@ -2475,10 +2475,10 @@
     character: 엘리트,고위협,거대
     normal_attack: 755229
     passive_skill: "755219,755220,755227,755228,755230,119020,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 169
   }
   {
@@ -2502,8 +2502,8 @@
     character: 엘리트,연발,철갑
     normal_attack: 755221
     passive_skill: "755222,755223,755224,755225"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 170
   }
   {
@@ -2528,7 +2528,7 @@
     normal_attack: 755245
     passive_skill: "200303,200304,119019,755246,755247"
     effect_ratio: 0.87
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 171
   }
   {
@@ -2552,7 +2552,7 @@
     normal_attack: 310202
     passive_skill: "200304,310201,755244"
     effect_ratio: 1.17
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 172
   }
   {
@@ -2575,8 +2575,8 @@
     character: 평범
     normal_attack: 300317
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 55
   }
   {
@@ -2600,7 +2600,7 @@
     normal_attack: 300312
     passive_skill: "200304"
     effect_ratio: 0.8
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 3
   }
   {
@@ -2623,7 +2623,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 0.07
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 6
   }
   {
@@ -2646,8 +2646,8 @@
     character: 근접
     normal_attack: 300317
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 4
   }
   {
@@ -2670,8 +2670,8 @@
     character: 평범
     normal_attack: 300313
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 7
   }
   {
@@ -2695,8 +2695,8 @@
     character: 고위협,정확
     normal_attack: 300301
     passive_skill: "200304,310101,119019"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 56
   }
   {
@@ -2720,7 +2720,7 @@
     normal_attack: 310202
     passive_skill: "200304,310201"
     effect_ratio: 0.6
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 57
   }
   {
@@ -2743,8 +2743,8 @@
     character: 고위협,고속
     normal_attack: 300318
     passive_skill: "200304,310301,310302,119019"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 58
   }
   {
@@ -2769,7 +2769,7 @@
     normal_attack: 310202
     passive_skill: "200304,310201"
     effect_ratio: 2.4
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 60
   }
   {
@@ -2793,8 +2793,8 @@
     character: 속사
     normal_attack: 300322
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 59
   }
   {
@@ -2818,7 +2818,7 @@
     normal_attack: 310202
     passive_skill: "200304,310201"
     effect_ratio: 1.36
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 14
   }
   {
@@ -2843,7 +2843,7 @@
     normal_attack: 310202
     passive_skill: "200304,310201"
     effect_ratio: 2.38
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 15
   }
   {
@@ -2868,7 +2868,7 @@
     normal_attack: 300315
     passive_skill: "200303,200304"
     effect_ratio: 1.24
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 14
   }
   {
@@ -2893,7 +2893,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 1.2
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 28
   }
   {
@@ -2917,7 +2917,7 @@
     normal_attack: 300316
     passive_skill: "200303,200304"
     effect_ratio: 0.25
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 30
   }
   {
@@ -2940,8 +2940,8 @@
     character: 엘리트,범위피해
     normal_attack: 300301
     passive_skill: "700101,402605"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 37
   }
   {
@@ -2966,7 +2966,7 @@
     normal_attack: 301106
     passive_skill: "700101,402605"
     effect_ratio: 1.17
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 38
   }
   {
@@ -2991,7 +2991,7 @@
     normal_attack: 300301
     passive_skill: "200303,200304,119019"
     effect_ratio: 0.89
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 41
   }
   {
@@ -3016,7 +3016,7 @@
     normal_attack: 310202
     passive_skill: "200304,310201"
     effect_ratio: 2.27
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 40
   }
   {
@@ -3040,7 +3040,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 0.6
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 36
   }
   {
@@ -3065,7 +3065,7 @@
     normal_attack: 900487
     passive_skill: "200304,900488,119019"
     effect_ratio: 1.2
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 95
   }
   {
@@ -3090,7 +3090,7 @@
     normal_attack: 900494
     passive_skill: "200303,200304,900490,119019"
     effect_ratio: 1.23
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 96
   }
   {
@@ -3113,8 +3113,8 @@
     character: 평범
     normal_attack: 900795
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 97
   }
   {
@@ -3138,7 +3138,7 @@
     normal_attack: 300317
     passive_skill: "200304"
     effect_ratio: 0.75
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 98
   }
   {
@@ -3161,8 +3161,8 @@
     character: 고속
     normal_attack: 300318
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 12
   }
   {
@@ -3185,8 +3185,8 @@
     character: 엘리트,근접
     normal_attack: 900877
     passive_skill: "900631,900632,900633,900634,900635,900874,900875,900876,900878,900879"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 86
   }
   {
@@ -3209,8 +3209,8 @@
     character: 엘리트,평범
     normal_attack: 900870
     passive_skill: "900871,900872,900873"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 94
   }
   {
@@ -3237,7 +3237,7 @@
     effect_ratio: 1.74
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 73
   }
   {
@@ -3262,7 +3262,7 @@
     normal_attack: 403901
     passive_skill: "200304,403902,403903"
     effect_ratio: 0.7
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 72
   }
   {
@@ -3286,8 +3286,8 @@
     character: 고위협,지정타격
     normal_attack: 404401
     passive_skill: "200304,404402,404403,119019"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 71
   }
   {
@@ -3312,7 +3312,7 @@
     passive_skill: "200303,200304,404501,404503,755000"
     effect_ratio: 1.4
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 69
   }
   {
@@ -3337,7 +3337,7 @@
     normal_attack: 300312
     passive_skill: "200304"
     effect_ratio: 0.82
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 70
   }
   {
@@ -3364,7 +3364,7 @@
     effect_ratio: 1.12
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 63
   }
   {
@@ -3391,7 +3391,7 @@
     effect_ratio: 1.92
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 64
   }
   {
@@ -3415,7 +3415,7 @@
     normal_attack: 300313
     passive_skill: "200304,403601,119019"
     effect_ratio: 0.8
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 65
   }
   {
@@ -3439,7 +3439,7 @@
     normal_attack: 404601
     passive_skill: "200304"
     effect_ratio: 0.8
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 66
   }
   {
@@ -3463,7 +3463,7 @@
     normal_attack: 900107
     passive_skill: "200304,405210,405201,755000,740089"
     effect_ratio: 1.07
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 74
     location_offset: "0.4,-1.2,2.24"
   }
@@ -3487,7 +3487,7 @@
     normal_attack: 900107
     passive_skill: "200304,405210,405202,755000"
     effect_ratio: 1.07
-    deployment_scale: 1.0
+    deployment_scale: 1
     location_offset: "-0.59,0,-0.36"
   }
   {
@@ -3511,7 +3511,7 @@
     normal_attack: 405206
     passive_skill: "200304,405210,405207,405213,755000,740089"
     effect_ratio: 1.07
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 75
     location_offset: "0.12,0, 0.79"
   }
@@ -3535,7 +3535,7 @@
     normal_attack: 405206
     passive_skill: "200304,405210,405207,405213,755000"
     effect_ratio: 1.07
-    deployment_scale: 1.0
+    deployment_scale: 1
     location_offset: "0.54,0,0"
   }
   {
@@ -3559,7 +3559,7 @@
     normal_attack: 900107
     passive_skill: "200304,405210,405201,755000,740089"
     effect_ratio: 1.07
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 76
     location_offset: "0.23,0,0.58"
   }
@@ -3583,7 +3583,7 @@
     normal_attack: 900107
     passive_skill: "200304,405210,405202,755000"
     effect_ratio: 1.07
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 12066
@@ -3605,7 +3605,7 @@
     normal_attack: 405101
     passive_skill: "200304,405102,755000"
     effect_ratio: 0.78
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 67
   }
   {
@@ -3632,7 +3632,7 @@
     effect_ratio: 1.21
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 118
   }
   {
@@ -3659,7 +3659,7 @@
     effect_ratio: 2.17
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 119
   }
   {
@@ -3683,7 +3683,7 @@
     normal_attack: 300313
     passive_skill: "200304,403601,119019"
     effect_ratio: 0.8
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 120
   }
   {
@@ -3707,7 +3707,7 @@
     normal_attack: 902271
     passive_skill: "200304,902269,902270"
     effect_ratio: 0.8
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 115
   }
   {
@@ -3733,7 +3733,7 @@
     effect_ratio: 1.6
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 117
   }
   {
@@ -3759,7 +3759,7 @@
     effect_ratio: 0.97
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 116
   }
   {
@@ -3783,7 +3783,7 @@
     normal_attack: 755057
     passive_skill: "755058,119020"
     effect_ratio: 0.8
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 129
   }
   {
@@ -3809,7 +3809,7 @@
     effect_ratio: 0.97
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 130
   }
   {
@@ -3832,10 +3832,10 @@
     character: 방패 수비
     normal_attack: 755031
     passive_skill: "755032,755050,200304,755053"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 131
   }
   {
@@ -3859,7 +3859,7 @@
     normal_attack: 755029
     passive_skill: "755030,200304"
     effect_ratio: 0.4
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 132
   }
   {
@@ -3885,7 +3885,7 @@
     effect_ratio: 1.05
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 133
   }
   {
@@ -3908,10 +3908,10 @@
     character: 고위협,투척,대기계
     normal_attack: 755039
     passive_skill: "755040,755041,755048,200304,119019"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 134
   }
   {
@@ -3938,7 +3938,7 @@
     effect_ratio: 1.07
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 135
   }
   {
@@ -3961,8 +3961,8 @@
     character: 평범
     normal_attack: 755242
     passive_skill: "755243,200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 167
   }
   {
@@ -3985,8 +3985,8 @@
     character: 전문인
     normal_attack: 755049
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 127
   }
   {
@@ -4008,10 +4008,10 @@
     level: 100
     character: 엘리트,전문인원
     normal_attack: 755049
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 128
   }
   {
@@ -4034,8 +4034,8 @@
     character: 평범
     normal_attack: 900795
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 97
   }
   {
@@ -4059,7 +4059,7 @@
     normal_attack: 300317
     passive_skill: "200304"
     effect_ratio: 0.75
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 98
   }
   {
@@ -4084,10 +4084,10 @@
     character: 고위협,거대,산탄,범위 피해
     normal_attack: 755226
     passive_skill: "755218,200304,119019,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 168
   }
   {
@@ -4111,10 +4111,10 @@
     character: 엘리트,고위협,거대
     normal_attack: 755229
     passive_skill: "755219,755220,755227,755228,755230,119020,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 169
   }
   {
@@ -4138,8 +4138,8 @@
     character: 엘리트,연발,철갑
     normal_attack: 755221
     passive_skill: "755222,755223,755224,755225"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 170
   }
   {
@@ -4164,7 +4164,7 @@
     normal_attack: 755245
     passive_skill: "200303,200304,119019,755246,755247"
     effect_ratio: 0.87
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 171
   }
   {
@@ -4188,7 +4188,7 @@
     normal_attack: 310202
     passive_skill: "200304,310201,755244"
     effect_ratio: 1.17
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 172
   }
   {
@@ -4211,8 +4211,8 @@
     character: 평범
     normal_attack: 300313
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 121
   }
   {
@@ -4237,7 +4237,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 1.2
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 122
   }
   {
@@ -4261,7 +4261,7 @@
     normal_attack: 402601
     passive_skill: "200303,200304,402602"
     effect_ratio: 1.17
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 82
   }
   {
@@ -4287,7 +4287,7 @@
     effect_ratio: 0.25
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 83
   }
   {
@@ -4312,7 +4312,7 @@
     passive_skill: "200304,404504,404503,755000"
     effect_ratio: 1.41
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 84
   }
   {
@@ -4337,7 +4337,7 @@
     normal_attack: 300317
     passive_skill: "200304"
     effect_ratio: 0.84
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 85
   }
   {
@@ -4361,7 +4361,7 @@
     normal_attack: 900795
     passive_skill: "900793"
     effect_ratio: 0.6
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 87
   }
   {
@@ -4383,8 +4383,8 @@
     level: 30100
     character: 엘리트,평범
     normal_attack: 300317
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 88
   }
   {
@@ -4408,8 +4408,8 @@
     character: 엘리트,정확
     normal_attack: 300301
     passive_skill: "310101"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 89
   }
   {
@@ -4433,7 +4433,7 @@
     character: 엘리트,근접
     normal_attack: 300316
     effect_ratio: 1.2
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 90
   }
   {
@@ -4447,8 +4447,8 @@
     def: 99999
     level: 100
     normal_attack: 300301
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 13106
@@ -4464,8 +4464,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 300301
     passive_skill: "755000"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -4482,8 +4482,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 300301
     passive_skill: "755000"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -4500,8 +4500,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 300301
     passive_skill: "755000"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -4518,8 +4518,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 300301
     passive_skill: "755000"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -4536,8 +4536,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 300301
     passive_skill: "755000"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -4561,7 +4561,7 @@
     normal_attack: 300316
     passive_skill: "200303,200304"
     effect_ratio: 1.14
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 104
   }
   {
@@ -4585,7 +4585,7 @@
     normal_attack: 901053
     passive_skill: "200303,200304"
     effect_ratio: 1.28
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 105
   }
   {
@@ -4602,8 +4602,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 300301
     passive_skill: "755000"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -4620,8 +4620,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 300301
     passive_skill: "755000"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -4638,8 +4638,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 300301
     passive_skill: "755000"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -4656,8 +4656,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 300301
     passive_skill: "755000"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -4680,8 +4680,8 @@
     character: 근접
     normal_attack: 300317
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 101
   }
   {
@@ -4705,8 +4705,8 @@
     character: 정확
     normal_attack: 300301
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 102
   }
   {
@@ -4729,8 +4729,8 @@
     character: 고속
     normal_attack: 300318
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 103
   }
   {
@@ -4753,8 +4753,8 @@
     character: 근접
     normal_attack: 300317
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 101
   }
   {
@@ -4778,8 +4778,8 @@
     character: 정확
     normal_attack: 300301
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 102
   }
   {
@@ -4802,8 +4802,8 @@
     character: 고속
     normal_attack: 300318
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 103
   }
   {
@@ -4826,7 +4826,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 0.07
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 107
   }
   {
@@ -4849,7 +4849,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 0.6
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 108
   }
   {
@@ -4873,7 +4873,7 @@
     normal_attack: 901103
     passive_skill: "200304,901101,901102"
     effect_ratio: 0.6
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100011
   }
   {
@@ -4896,8 +4896,8 @@
     character: 근접 점화
     normal_attack: 900795
     passive_skill: "200304,901100"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 100012
   }
   {
@@ -4920,8 +4920,8 @@
     character: 엘리트,화염방사,바이오테크
     normal_attack: 900107
     passive_skill: "901104,901105"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 100013
   }
   {
@@ -4945,7 +4945,7 @@
     normal_attack: 901106
     passive_skill: "20304,901107"
     effect_ratio: 1.2
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100014
   }
   {
@@ -4969,8 +4969,8 @@
     character: 엘리트,세열투척,엎드려쏴
     normal_attack: 901109
     passive_skill: "901108,901110,,901111,901112,901113"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 100015
   }
   {
@@ -4994,7 +4994,7 @@
     normal_attack: 300313
     passive_skill: "200304"
     effect_ratio: 1.2
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100016
   }
   {
@@ -5018,8 +5018,8 @@
     character: 약점명중
     normal_attack: 901114
     passive_skill: "200304,901115,901116"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 100017
   }
   {
@@ -5043,7 +5043,7 @@
     normal_attack: 300313
     passive_skill: "200304,900872,901117"
     effect_ratio: 1.2
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100018
   }
   {
@@ -5066,8 +5066,8 @@
     character: 화염포대,전격포대,무장강화
     normal_attack: 300313
     passive_skill: "200304,901118,901119,901122"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 100019
   }
   {
@@ -5092,7 +5092,7 @@
     normal_attack: 300313
     passive_skill: "901123,901124"
     effect_ratio: 1.2
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100020
   }
   {
@@ -5115,7 +5115,7 @@
     character: 엘리트,근접,장갑
     normal_attack: 755003
     effect_ratio: 0.41
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100028
   }
   {
@@ -5138,7 +5138,7 @@
     character: 엘리트,장갑
     normal_attack: 755004
     effect_ratio: 1.03
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100029
   }
   {
@@ -5163,7 +5163,7 @@
     normal_attack: 755006
     passive_skill: "755007,755008"
     effect_ratio: 0.8
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100030
   }
   {
@@ -5186,7 +5186,7 @@
     character: 엘리트,근접
     normal_attack: 755005
     effect_ratio: 0.8
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100031
   }
   {
@@ -5208,8 +5208,8 @@
     level: 30100
     character: 엘리트,제어
     normal_attack: 755009
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 100032
   }
   {
@@ -5234,7 +5234,7 @@
     normal_attack: 755010
     passive_skill: "755011,755012"
     effect_ratio: 0.7
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100033
   }
   {
@@ -5259,7 +5259,7 @@
     passive_skill: "200303,200304,404503,404506,755000"
     effect_ratio: 1.4
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 123
   }
   {
@@ -5284,7 +5284,7 @@
     normal_attack: 300312
     passive_skill: "200304"
     effect_ratio: 0.82
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 124
   }
   {
@@ -5307,8 +5307,8 @@
     character: 엘리트,범위피해
     normal_attack: 300301
     passive_skill: "700101,402605"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 125
   }
   {
@@ -5331,8 +5331,8 @@
     character: 그리폰,방패진
     normal_attack: 755146
     passive_skill: "755145,755147,755148,200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 141
   }
   {
@@ -5357,7 +5357,7 @@
     normal_attack: 755153
     passive_skill: "755154,200304"
     effect_ratio: 0.7
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 142
   }
   {
@@ -5381,7 +5381,7 @@
     normal_attack: 755151
     passive_skill: "755152,200304"
     effect_ratio: 1.4
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 143
   }
   {
@@ -5405,7 +5405,7 @@
     normal_attack: 755149
     passive_skill: "755150,200304"
     effect_ratio: 0.82
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 144
   }
   {
@@ -5428,8 +5428,8 @@
     character: 그리폰
     normal_attack: 755155
     passive_skill: "755156,755157,755158,200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 145
   }
   {
@@ -5452,7 +5452,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 0.07
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 158
   }
   {
@@ -5475,7 +5475,7 @@
     normal_attack: 900107
     passive_skill: "310325,119020"
     effect_ratio: 0.25
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 159
   }
   {
@@ -5498,7 +5498,7 @@
     normal_attack: 900107
     passive_skill: "310325,119020"
     effect_ratio: 0.25
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 160
   }
   {
@@ -5521,7 +5521,7 @@
     normal_attack: 900107
     passive_skill: "310325,119020"
     effect_ratio: 0.25
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 161
   }
   {
@@ -5544,7 +5544,7 @@
     normal_attack: 900107
     passive_skill: "310325,119020"
     effect_ratio: 0.25
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 159
   }
   {
@@ -5567,7 +5567,7 @@
     normal_attack: 900107
     passive_skill: "310325,119020"
     effect_ratio: 0.25
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 160
   }
   {
@@ -5590,7 +5590,7 @@
     normal_attack: 900107
     passive_skill: "310325,119020"
     effect_ratio: 0.25
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 161
   }
   {
@@ -5617,7 +5617,7 @@
     effect_ratio: 1.21
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 163
   }
   {
@@ -5644,7 +5644,7 @@
     effect_ratio: 1.04
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 164
   }
   {
@@ -5668,7 +5668,7 @@
     normal_attack: 755217
     passive_skill: "200304,755216,119019"
     effect_ratio: 0.8
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 165
   }
   {
@@ -5694,7 +5694,7 @@
     effect_ratio: 0.25
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 177
   }
   {
@@ -5718,7 +5718,7 @@
     normal_attack: 300316
     passive_skill: "200303,200304"
     effect_ratio: 1.17
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 178
   }
   {
@@ -5741,8 +5741,8 @@
     character: 엘리트,범위 살상
     normal_attack: 300301
     passive_skill: "700101,402605"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 179
   }
   {
@@ -5766,7 +5766,7 @@
     normal_attack: 755273
     passive_skill: "200304,902269,755274"
     effect_ratio: 0.8
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100037
   }
   {
@@ -5793,7 +5793,7 @@
     effect_ratio: 1.21
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100038
   }
   {
@@ -5818,7 +5818,7 @@
     normal_attack: 755270
     passive_skill: "755269,200304"
     effect_ratio: 1.84
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100039
   }
   {
@@ -5842,9 +5842,9 @@
     character: 엘리트,고위협,고속,매우 위험
     normal_attack: 900107
     passive_skill: "755264,755265,755266,119020"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221,215,205"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100040
   }
   {
@@ -5869,7 +5869,7 @@
     passive_skill: "200304,755267"
     effect_ratio: 1.41
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100041
   }
   {
@@ -5893,7 +5893,7 @@
     normal_attack: 900107
     passive_skill: "200304,755268"
     effect_ratio: 0.84
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100042
   }
   {
@@ -5919,7 +5919,7 @@
     passive_skill: "755272.200304"
     effect_ratio: 0.7
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100043
   }
   {
@@ -5942,8 +5942,8 @@
     character: 그리폰
     normal_attack: 755146
     passive_skill: "755145,755147,755148,200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 100044
   }
   {
@@ -5966,8 +5966,8 @@
     character: 그리폰
     normal_attack: 755146
     passive_skill: "755145,755147,755148,200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 100045
   }
   {
@@ -5990,8 +5990,8 @@
     character: 그리폰
     normal_attack: 755146
     passive_skill: "755145,755147,755148,200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 100046
   }
   {
@@ -6014,8 +6014,8 @@
     character: 그리폰
     normal_attack: 755146
     passive_skill: "755145,755147,755148,200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 100047
   }
   {
@@ -6038,8 +6038,8 @@
     character: 그리폰
     normal_attack: 755146
     passive_skill: "755145,755147,755148,200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 100048
   }
   {
@@ -6062,8 +6062,8 @@
     character: 그리폰
     normal_attack: 755146
     passive_skill: "755145,755147,755148,200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 100049
   }
   {
@@ -6086,8 +6086,8 @@
     character: 그리폰
     normal_attack: 755146
     passive_skill: "755145,755147,755148,200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 100050
   }
   {
@@ -6110,8 +6110,8 @@
     character: 그리폰
     normal_attack: 755146
     passive_skill: "755145,755147,755148,200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 100051
   }
   {
@@ -6135,7 +6135,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 0.6
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 36
   }
   {
@@ -6158,8 +6158,8 @@
     character: 평범
     normal_attack: 300313
     passive_skill: "200304,755257"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 121
   }
   {
@@ -6184,7 +6184,7 @@
     normal_attack: 300316
     passive_skill: "200304,755257"
     effect_ratio: 1.2
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 122
   }
   {
@@ -6208,7 +6208,7 @@
     normal_attack: 402601
     passive_skill: "200303,200304,402602,755256"
     effect_ratio: 1.17
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 82
   }
   {
@@ -6234,7 +6234,7 @@
     effect_ratio: 0.25
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 83
   }
   {
@@ -6259,7 +6259,7 @@
     passive_skill: "200304,404504,404503,755000,755256"
     effect_ratio: 1.41
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 84
   }
   {
@@ -6284,7 +6284,7 @@
     normal_attack: 300317
     passive_skill: "200304,755256"
     effect_ratio: 0.84
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 85
   }
   {
@@ -6307,7 +6307,7 @@
     normal_attack: 300316
     passive_skill: "200304,755258"
     effect_ratio: 0.07
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 106
   }
   {
@@ -6331,7 +6331,7 @@
     normal_attack: 300316
     passive_skill: "200303,200304,755257"
     effect_ratio: 1.14
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 104
   }
   {
@@ -6355,7 +6355,7 @@
     normal_attack: 901053
     passive_skill: "200303,200304,755257"
     effect_ratio: 1.28
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 105
   }
   {
@@ -6378,8 +6378,8 @@
     character: 근접
     normal_attack: 300317
     passive_skill: "200304,755257"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 101
   }
   {
@@ -6403,8 +6403,8 @@
     character: 정확
     normal_attack: 300301
     passive_skill: "200304,755257"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 102
   }
   {
@@ -6427,8 +6427,8 @@
     character: 고속
     normal_attack: 300318
     passive_skill: "200304,755257"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 103
   }
   {
@@ -6451,7 +6451,7 @@
     normal_attack: 300316
     passive_skill: "200304,755258"
     effect_ratio: 0.07
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 107
   }
   {
@@ -6474,7 +6474,7 @@
     normal_attack: 300316
     passive_skill: "200304,755258"
     effect_ratio: 0.6
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 108
   }
   {
@@ -6499,7 +6499,7 @@
     passive_skill: "200303,200304,404503,404506,755000,755256"
     effect_ratio: 1.4
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 123
   }
   {
@@ -6524,7 +6524,7 @@
     normal_attack: 300312
     passive_skill: "200304,755256"
     effect_ratio: 0.82
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 124
   }
   {
@@ -6547,8 +6547,8 @@
     character: 엘리트,범위 피해
     normal_attack: 300301
     passive_skill: "700101,402605,755256"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 125
   }
   {
@@ -6571,7 +6571,7 @@
     normal_attack: 300316
     passive_skill: "200304,755259"
     effect_ratio: 0.07
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 158
   }
   {
@@ -6594,7 +6594,7 @@
     normal_attack: 900107
     passive_skill: "310325,119020,755259"
     effect_ratio: 0.25
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 159
   }
   {
@@ -6617,7 +6617,7 @@
     normal_attack: 900107
     passive_skill: "310325,119020,755259"
     effect_ratio: 0.25
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 160
   }
   {
@@ -6640,7 +6640,7 @@
     normal_attack: 900107
     passive_skill: "310325,119020,755259"
     effect_ratio: 0.25
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 161
   }
   {
@@ -6663,7 +6663,7 @@
     normal_attack: 900107
     passive_skill: "310325,119020,755259"
     effect_ratio: 0.25
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 159
   }
   {
@@ -6686,7 +6686,7 @@
     normal_attack: 900107
     passive_skill: "310325,119020,755259"
     effect_ratio: 0.25
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 160
   }
   {
@@ -6709,7 +6709,7 @@
     normal_attack: 900107
     passive_skill: "310325,119020,755259"
     effect_ratio: 0.25
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 161
   }
   {
@@ -6736,7 +6736,7 @@
     effect_ratio: 1.21
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 163
   }
   {
@@ -6763,7 +6763,7 @@
     effect_ratio: 1.04
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 164
   }
   {
@@ -6787,7 +6787,7 @@
     normal_attack: 755217
     passive_skill: "200304,755216,119019,755256"
     effect_ratio: 0.8
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 165
   }
   {
@@ -6812,7 +6812,7 @@
     normal_attack: 310202
     passive_skill: "200304,310201"
     effect_ratio: 1.487
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 60
   }
   {
@@ -6836,7 +6836,7 @@
     normal_attack: 310202
     passive_skill: "200304,310201"
     effect_ratio: 1.227
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 14
   }
   {
@@ -6859,7 +6859,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 0.07
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 6
   }
   {
@@ -6883,7 +6883,7 @@
     normal_attack: 300316
     passive_skill: "200303,200304"
     effect_ratio: 0.252
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 30
   }
   {
@@ -6907,7 +6907,7 @@
     normal_attack: 300316
     passive_skill: "200303,200304"
     effect_ratio: 0.252
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 30
   }
   {
@@ -6934,7 +6934,7 @@
     passive_skill: "402301,402302,402303,200303"
     effect_ratio: 1.1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 35
   }
   {
@@ -6957,7 +6957,7 @@
     normal_attack: 900107
     passive_skill: "310325"
     effect_ratio: 0.25
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 32
   }
   {
@@ -6980,8 +6980,8 @@
     character: 고위협,고속
     normal_attack: 300318
     passive_skill: "200304,310301,310302"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 58
   }
   {
@@ -7004,8 +7004,8 @@
     character: 근접
     normal_attack: 300317
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 4
   }
   {
@@ -7028,8 +7028,8 @@
     character: 정확
     normal_attack: 300301
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 9
   }
   {
@@ -7053,7 +7053,7 @@
     normal_attack: 300301
     passive_skill: "200303,200304"
     effect_ratio: 1.06
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 16
   }
   {
@@ -7078,7 +7078,7 @@
     normal_attack: 403901
     passive_skill: "200304,403902,403903"
     effect_ratio: 0.7
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 72
   }
   {
@@ -7102,8 +7102,8 @@
     character: 고위협,폭발화살,지속피해
     normal_attack: 404401
     passive_skill: "200303,200304,404402,404403"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 71
   }
   {
@@ -7181,7 +7181,7 @@
     normal_attack: 300313
     passive_skill: "200304"
     effect_ratio: 0.75
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 46
   }
   {
@@ -7208,7 +7208,7 @@
     effect_ratio: 0.97
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 47
   }
   {
@@ -7235,7 +7235,7 @@
     effect_ratio: 1.6
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 64
   }
   {
@@ -7258,8 +7258,8 @@
     character: 강격
     normal_attack: 300313
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 7
   }
   {
@@ -7282,7 +7282,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 0.6
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 10
   }
   {
@@ -7307,7 +7307,7 @@
     normal_attack: 310202
     passive_skill: "200304,310201"
     effect_ratio: 1.487
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 60
   }
   {
@@ -7331,7 +7331,7 @@
     normal_attack: 310202
     passive_skill: "200304,310201"
     effect_ratio: 1.227
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 14
   }
   {
@@ -7354,8 +7354,8 @@
     character: 평범
     normal_attack: 300317
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 4
   }
   {
@@ -7378,8 +7378,8 @@
     character: 강격,정확
     normal_attack: 300301
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 9
   }
   {
@@ -7402,8 +7402,8 @@
     character: 고위협,강격,고속,기동
     normal_attack: 300318
     passive_skill: "200304,310301,310302"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 58
   }
   {
@@ -7427,7 +7427,7 @@
     normal_attack: 402601
     passive_skill: "200303,200304,402602"
     effect_ratio: 0.55
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 39
   }
   {
@@ -7451,7 +7451,7 @@
     normal_attack: 300312
     passive_skill: "200304"
     effect_ratio: 0.8
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 3
   }
   {
@@ -7463,8 +7463,8 @@
     def: 99999
     level: 100
     normal_attack: 300301
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 20001
@@ -7487,7 +7487,7 @@
     normal_attack: 300317
     passive_skill: "200304"
     effect_ratio: 0.5
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 2
   }
   {
@@ -7510,8 +7510,8 @@
     character: 평범
     normal_attack: 300312
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 3
   }
   {
@@ -7535,7 +7535,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 0.5
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 6
   }
   {
@@ -7559,7 +7559,7 @@
     normal_attack: 300317
     passive_skill: "200304"
     effect_ratio: 0.75
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 4
   }
   {
@@ -7583,7 +7583,7 @@
     normal_attack: 300313
     passive_skill: "200304"
     effect_ratio: 0.75
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 7
   }
   {
@@ -7607,7 +7607,7 @@
     normal_attack: 300301
     passive_skill: "200304"
     effect_ratio: 0.9
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 9
   }
   {
@@ -7631,7 +7631,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 0.6
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 10
   }
   {
@@ -7655,7 +7655,7 @@
     normal_attack: 300318
     passive_skill: "200304"
     effect_ratio: 0.8
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 12
   }
   {
@@ -7679,7 +7679,7 @@
     normal_attack: 300305
     passive_skill: "200304,119019"
     effect_ratio: 0.05
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 13
     location_offset: "0.9,-1.2,3.32"
   }
@@ -7702,7 +7702,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 0.6
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 80002
@@ -7723,8 +7723,8 @@
     level: 100
     normal_attack: 300317
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 80003
@@ -7745,8 +7745,8 @@
     level: 100
     normal_attack: 300328
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 80004
@@ -7767,7 +7767,7 @@
     normal_attack: 300325
     passive_skill: "401801"
     effect_ratio: 0.25
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 80005
@@ -7788,7 +7788,7 @@
     normal_attack: 300325
     passive_skill: "401801"
     effect_ratio: 0.35
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 88888
@@ -7805,8 +7805,8 @@
     character: 엘리트,범위피해
     normal_attack: 300301
     passive_skill: "402603"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 37
   }
   {
@@ -7824,8 +7824,8 @@
     character: 엘리트,범위피해
     normal_attack: 300301
     passive_skill: "402603,403209"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 37
   }
   {
@@ -7845,8 +7845,8 @@
     character: 엘리트,범위피해
     normal_attack: 300301
     passive_skill: "700101,402605,200304,403210"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 37
   }
   {
@@ -7866,8 +7866,8 @@
     character: 엘리트,훈련용
     normal_attack: 300301
     passive_skill: "755000"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
     tenacity: 100
   }
@@ -7894,7 +7894,7 @@
     passive_skill: "400101"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 5
   }
   {
@@ -7920,7 +7920,7 @@
     passive_skill: "400101"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 5
   }
   {
@@ -7947,7 +7947,7 @@
     passive_skill: "400201"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 8
   }
   {
@@ -7974,7 +7974,7 @@
     passive_skill: "400201"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 8
   }
   {
@@ -8000,7 +8000,7 @@
     passive_skill: "400301"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 11
   }
   {
@@ -8026,7 +8026,7 @@
     passive_skill: "400301"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 11
   }
   {
@@ -8053,7 +8053,7 @@
     passive_skill: "400401"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 17
   }
   {
@@ -8068,7 +8068,7 @@
     normal_attack: 300303
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 5
   }
   {
@@ -8095,7 +8095,7 @@
     passive_skill: "501029,702000"
     effect_ratio: 1.05
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     recommend_description: RF
     enemy_illustration_id: 18
   }
@@ -8120,9 +8120,9 @@
     character: 엘리트,게이저
     normal_attack: 300308
     passive_skill: "490005,501029,702000"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     recommend_description: HG,SMG,AR
     enemy_illustration_id: 26
   }
@@ -8152,7 +8152,7 @@
     passive_skill: "490003,501029,702000"
     effect_ratio: 1.11
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     recommend_description: AR,SMG,야시경 장비
     enemy_illustration_id: 20
   }
@@ -8181,7 +8181,7 @@
     passive_skill: "490004,501029,702000"
     effect_ratio: 1.05
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     recommend_description: AR,SMG,야시경 장비
     enemy_illustration_id: 19
   }
@@ -8209,7 +8209,7 @@
     passive_skill: "490001,490002,402303,501029,702000"
     effect_ratio: 1.15
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     recommend_description: HG,RF,SG
     enemy_illustration_id: 35
   }
@@ -8238,7 +8238,7 @@
     passive_skill: "900208,900210,900212,702000"
     effect_ratio: 1.37
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     recommend_description: HG,RF
     enemy_illustration_id: 100001
   }
@@ -8268,7 +8268,7 @@
     effect_ratio: 0.78
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     recommend_description: HG,RF
     enemy_illustration_id: 80
   }
@@ -8296,7 +8296,7 @@
     passive_skill: "490006,501029,702000"
     effect_ratio: 1.06
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     recommend_description: AR,MG
     enemy_illustration_id: 27
   }
@@ -8322,9 +8322,9 @@
     special_attack: 6
     normal_attack: 300306
     passive_skill: "490007,501029,702000"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     recommend_description: HG,RF
     enemy_illustration_id: 23
   }
@@ -8349,9 +8349,9 @@
     character: 엘리트,에이전트
     normal_attack: 402905
     passive_skill: "490008,501029,702000"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     recommend_description: SMG,AR,야시장비
     enemy_illustration_id: 45
   }
@@ -8377,9 +8377,9 @@
     character: 엘리트,？？？？
     normal_attack: 406225
     passive_skill: "490009,501029,702000"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     recommend_description: RF,MG,SG
     enemy_illustration_id: 81
   }
@@ -8405,9 +8405,9 @@
     character: 엘리트,"니토",암살자
     normal_attack: 755065
     passive_skill: "490010,501029,702000"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     recommend_description: 강력한 인형
     enemy_illustration_id: 138
   }
@@ -8432,9 +8432,9 @@
     character: 엘리트,필살,의체
     normal_attack: 900107
     passive_skill: "490011,501029,702000"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     recommend_description: MG,SG
     enemy_illustration_id: 109
   }
@@ -8460,7 +8460,7 @@
     passive_skill: "411201,411202,411203,411205,411206,411207,755000"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 21
   }
   {
@@ -8486,7 +8486,7 @@
     passive_skill: "402301,402302,402303,200303,755000"
     effect_ratio: 1.15
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 35
   }
   {
@@ -8513,7 +8513,7 @@
     passive_skill: "900557,900558,900559,900560,900561,900562,900563,755000"
     effect_ratio: 0.43
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 44
   }
   {
@@ -8541,7 +8541,7 @@
     effect_ratio: 0.17
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 62
   }
   {
@@ -8564,9 +8564,9 @@
     character: 엘리트,게이저
     normal_attack: 411002
     passive_skill: "411003,411004,411005,411006,411007,411008,411009,411010,411011,755000"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 26
   }
   {
@@ -8589,9 +8589,9 @@
     character: 엘리트,약화,해킹,지원
     normal_attack: 900107
     passive_skill: "902332,902333,902334,902335,902336,902337,902338,755000"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 110
   }
   {
@@ -8616,7 +8616,7 @@
     normal_attack: 300326
     passive_skill: "402003,402102,402004,200303,402103,755000"
     effect_ratio: 1.05
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 33
   }
   {
@@ -8642,7 +8642,7 @@
     passive_skill: "407504,755000"
     effect_ratio: 0.4
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 156
   }
   {
@@ -8666,9 +8666,9 @@
     character: 엘리트,관통,거대
     normal_attack: 755238
     passive_skill: "755239,755240,755241,119029,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 173
   }
   {
@@ -8693,7 +8693,7 @@
     passive_skill: "755232,755233,755234,755235,755236,119029"
     effect_ratio: 0.4
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 174
   }
   {
@@ -8709,7 +8709,7 @@
     passive_skill: "119029"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 8
   }
   {
@@ -8725,7 +8725,7 @@
     passive_skill: "119029"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 11
   }
   {
@@ -8752,7 +8752,7 @@
     passive_skill: "400401,119029"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 17
   }
   {
@@ -8778,7 +8778,7 @@
     passive_skill: "119029"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 5
   }
   {
@@ -8801,8 +8801,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 300301
     passive_skill: "755000"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -8828,7 +8828,7 @@
     passive_skill: "400101,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 5
   }
   {
@@ -8845,8 +8845,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 300301
     passive_skill: "755000"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -8872,7 +8872,7 @@
     passive_skill: "119029"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 18
   }
   {
@@ -8898,7 +8898,7 @@
     passive_skill: "119029"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 18
   }
   {
@@ -8926,7 +8926,7 @@
     passive_skill: "401101,400701,401104,200303,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 21
   }
   {
@@ -8954,7 +8954,7 @@
     passive_skill: "400301,200303,119029"
     effect_ratio: 1.56
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 19
   }
   {
@@ -8982,7 +8982,7 @@
     passive_skill: "400201,200303,119029"
     effect_ratio: 1.55
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 20
   }
   {
@@ -9008,7 +9008,7 @@
     passive_skill: "119029"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 21
   }
   {
@@ -9034,7 +9034,7 @@
     passive_skill: "119029"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 21
   }
   {
@@ -9058,7 +9058,7 @@
     normal_attack: 300301
     passive_skill: "200303,200304,119019,740089"
     effect_ratio: 1.04
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 16
   }
   {
@@ -9082,7 +9082,7 @@
     normal_attack: 300301
     passive_skill: "200303,200304,119019,740089"
     effect_ratio: 1.06
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 16
   }
   {
@@ -9107,7 +9107,7 @@
     normal_attack: 300301
     passive_skill: "200303,200304,119019,740089"
     effect_ratio: 1.03
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 16
   }
   {
@@ -9132,7 +9132,7 @@
     normal_attack: 300301
     passive_skill: "200303,200304,119019,740089"
     effect_ratio: 1.03
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 16
   }
   {
@@ -9148,8 +9148,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 300301
     passive_skill: "755000"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -9165,8 +9165,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 300301
     passive_skill: "755000"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -9182,8 +9182,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 300301
     passive_skill: "755000"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -9207,7 +9207,7 @@
     normal_attack: 300301
     passive_skill: "200303,200304,119019,740089"
     effect_ratio: 1.05
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 16
   }
   {
@@ -9234,7 +9234,7 @@
     passive_skill: "400601,119029"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 23
   }
   {
@@ -9261,7 +9261,7 @@
     passive_skill: "400601,119029"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 23
   }
   {
@@ -9283,8 +9283,8 @@
     character: 고속
     normal_attack: 300301
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 12
   }
   {
@@ -9309,7 +9309,7 @@
     normal_attack: 300301
     passive_skill: "200303,200304,119019,740089"
     effect_ratio: 1.03
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 16
   }
   {
@@ -9335,7 +9335,7 @@
     passive_skill: "401001,200303,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 26
   }
   {
@@ -9361,7 +9361,7 @@
     passive_skill: "400801,400901,400902,200303,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 27
   }
   {
@@ -9386,9 +9386,9 @@
     character: 엘리트,드리머
     normal_attack: 300311
     passive_skill: "119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 24
   }
   {
@@ -9413,7 +9413,7 @@
     passive_skill: "400101,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 5
   }
   {
@@ -9439,7 +9439,7 @@
     passive_skill: "400201,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 8
   }
   {
@@ -9465,7 +9465,7 @@
     passive_skill: "400201,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 8
   }
   {
@@ -9490,7 +9490,7 @@
     passive_skill: "400301,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 11
   }
   {
@@ -9515,7 +9515,7 @@
     passive_skill: "400301,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 11
   }
   {
@@ -9541,7 +9541,7 @@
     passive_skill: "400401,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 17
   }
   {
@@ -9566,7 +9566,7 @@
     passive_skill: "119029"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 18
   }
   {
@@ -9591,7 +9591,7 @@
     passive_skill: "119029"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 18
   }
   {
@@ -9617,7 +9617,7 @@
     passive_skill: "400601,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 23
   }
   {
@@ -9643,7 +9643,7 @@
     passive_skill: "400601,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 23
   }
   {
@@ -9668,9 +9668,9 @@
     character: 엘리트,드리머
     normal_attack: 300311
     passive_skill: "119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 24
   }
   {
@@ -9693,7 +9693,7 @@
     normal_attack: 300310
     passive_skill: "300319,200301,200302,200303,119029,755000,740089"
     effect_ratio: 1.53
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 25
   }
   {
@@ -9717,9 +9717,9 @@
     character: 엘리트,게이저
     normal_attack: 300308
     passive_skill: "401001,401002,401003,401004,401005,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 26
   }
   {
@@ -9746,7 +9746,7 @@
     passive_skill: "400801,400901,400902,400903,200303,119029"
     effect_ratio: 1.03
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 27
   }
   {
@@ -9770,9 +9770,9 @@
     character: 엘리트,게이저
     normal_attack: 300308
     passive_skill: "401001,401002,401003,401004,401005,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 26
   }
   {
@@ -9799,7 +9799,7 @@
     passive_skill: "400801,400901,400902,400903,200303,119029"
     effect_ratio: 1.06
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 27
   }
   {
@@ -9823,9 +9823,9 @@
     character: 엘리트,스케어크로우
     normal_attack: 300303
     passive_skill: "400101,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 5
   }
   {
@@ -9854,7 +9854,7 @@
     passive_skill: "400201,200303,119029"
     effect_ratio: 1.15
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 8
   }
   {
@@ -9882,7 +9882,7 @@
     passive_skill: "400301,200303,119029"
     effect_ratio: 1.05
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 11
   }
   {
@@ -9909,7 +9909,7 @@
     passive_skill: "400401,119029"
     effect_ratio: 0.9
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 17
   }
   {
@@ -9934,9 +9934,9 @@
     special_attack: 6
     normal_attack: 300306
     passive_skill: "400601,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 23
   }
   {
@@ -9960,9 +9960,9 @@
     character: 엘리트,게이저
     normal_attack: 300308
     passive_skill: "401001,401002,401003,401004,401005,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 26
   }
   {
@@ -9989,7 +9989,7 @@
     passive_skill: "400801,400901,400902,400903,200303,119029"
     effect_ratio: 1.06
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 27
   }
   {
@@ -10017,7 +10017,7 @@
     passive_skill: "400301,200303,119029"
     effect_ratio: 1.04
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 19
   }
   {
@@ -10045,7 +10045,7 @@
     passive_skill: "401301,401201,401202,401203,200303,119029"
     effect_ratio: 1.05
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 20
   }
   {
@@ -10072,7 +10072,7 @@
     passive_skill: "400801,400901,400902,400903,200303,119029"
     effect_ratio: 1.06
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 27
   }
   {
@@ -10101,7 +10101,7 @@
     passive_skill: "401102,400701,401103,200303,119029"
     effect_ratio: 1.06
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 22
   }
   {
@@ -10128,7 +10128,7 @@
     passive_skill: "400301,200303,119029,755000"
     effect_ratio: 1.03
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 19
   }
   {
@@ -10155,7 +10155,7 @@
     passive_skill: "401301,401201,401202,401203,200303,119029,755000"
     effect_ratio: 1.04
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 20
   }
   {
@@ -10181,7 +10181,7 @@
     passive_skill: "400801,400901,400902,400903,200303,119029,755000"
     effect_ratio: 1.05
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 27
   }
   {
@@ -10208,7 +10208,7 @@
     passive_skill: "200303,119029"
     effect_ratio: 1.03
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 18
   }
   {
@@ -10233,9 +10233,9 @@
     character: 엘리트,드리머
     normal_attack: 300311
     passive_skill: "401401,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 24
   }
   {
@@ -10262,7 +10262,7 @@
     passive_skill: "200303,119029"
     effect_ratio: 1.05
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 18
   }
   {
@@ -10287,9 +10287,9 @@
     character: 엘리트,드리머
     normal_attack: 300311
     passive_skill: "401401,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 24
   }
   {
@@ -10306,8 +10306,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 300323
     passive_skill: "755000"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -10332,9 +10332,9 @@
     special_attack: 7
     normal_attack: 300314
     passive_skill: "400401,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 17
   }
   {
@@ -10360,7 +10360,7 @@
     normal_attack: 300324
     passive_skill: "401501,401601,401701,200303,119029"
     effect_ratio: 1.44
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900077
@@ -10386,7 +10386,7 @@
     normal_attack: 300304
     passive_skill: "402201,401901,401902,200303,119029"
     effect_ratio: 1.03
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 34
   }
   {
@@ -10413,7 +10413,7 @@
     normal_attack: 300304
     passive_skill: "402201,401901,401902,200303,119029"
     effect_ratio: 1.05
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 34
   }
   {
@@ -10439,7 +10439,7 @@
     normal_attack: 300326
     passive_skill: "402001,402101,402002,200303,402103,119029"
     effect_ratio: 1.03
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 33
   }
   {
@@ -10465,7 +10465,7 @@
     normal_attack: 300326
     passive_skill: "402003,402102,402004,200303,402103,119029"
     effect_ratio: 1.05
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 33
   }
   {
@@ -10492,7 +10492,7 @@
     passive_skill: "402301,402302,402303,200303,119029"
     effect_ratio: 1.15
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 35
   }
   {
@@ -10519,7 +10519,7 @@
     passive_skill: "402301,402302,402303,200303,119029"
     effect_ratio: 0.94
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 35
   }
   {
@@ -10546,7 +10546,7 @@
     passive_skill: "402402,402403,402404,402405,402406,402407,200303,119029"
     effect_ratio: 1.14
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900084
@@ -10571,7 +10571,7 @@
     passive_skill: "402502,402503,402504,119029"
     effect_ratio: 0.9
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900085
@@ -10597,7 +10597,7 @@
     normal_attack: 300304
     passive_skill: "402201,401901,401902,200303,119029"
     effect_ratio: 1.03
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 34
   }
   {
@@ -10624,7 +10624,7 @@
     passive_skill: "402301,402302,402304,200303,119029"
     effect_ratio: 1.15
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 35
   }
   {
@@ -10651,7 +10651,7 @@
     passive_skill: "402301,402302,402303,200303,119029"
     effect_ratio: 0.94
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 35
   }
   {
@@ -10679,7 +10679,7 @@
     passive_skill: "401301,401201,401202,401203,200303,119029"
     effect_ratio: 1.06
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 20
   }
   {
@@ -10703,9 +10703,9 @@
     character: 엘리트,게이저
     normal_attack: 300308
     passive_skill: "401001,401002,401003,401004,401005,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 26
   }
   {
@@ -10729,9 +10729,9 @@
     character: 엘리트,에이전트
     normal_attack: 402905
     passive_skill: "402901,402915,402916,402917,402906,402907,402908,402918,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 45
   }
   {
@@ -10756,10 +10756,10 @@
     special_attack: 7
     normal_attack: 300314
     passive_skill: "400401,119029,755000"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 17
   }
   {
@@ -10784,9 +10784,9 @@
     character: 엘리트,M16A1,장갑
     normal_attack: 402800
     passive_skill: "403201,403202,403203,403204,403205,403206,403207,403208,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 44
   }
   {
@@ -10810,9 +10810,9 @@
     character: 엘리트,에이전트
     normal_attack: 402910
     passive_skill: "402911,402912,402913,402914,402921,402907,402908,402919,402923,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 45
   }
   {
@@ -10840,7 +10840,7 @@
     passive_skill: "402801,402809,402810,402811,402812,402813,402814,402819,402820,402821,119029"
     effect_ratio: 1.02
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 44
   }
   {
@@ -10865,10 +10865,10 @@
     character: 엘리트,스케어크로우
     normal_attack: 300303
     passive_skill: "400101,402922,119029,755000"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 5
   }
   {
@@ -10894,10 +10894,10 @@
     special_attack: 4
     normal_attack: 300301
     passive_skill: "400201,200303,402922,119029,755000"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 8
   }
   {
@@ -10922,10 +10922,10 @@
     character: 엘리트,헌터,장갑
     normal_attack: 300302
     passive_skill: "400301,402922,119029,755000"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 11
   }
   {
@@ -10952,7 +10952,7 @@
     passive_skill: "402301,402302,402303,200303,119029"
     effect_ratio: 1.04
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 35
   }
   {
@@ -10977,9 +10977,9 @@
     character: 엘리트,드리머
     normal_attack: 300311
     passive_skill: "401401,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 24
   }
   {
@@ -11006,7 +11006,7 @@
     passive_skill: "402301,402302,402303,200303,119029,755000"
     effect_ratio: 1.04
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 35
   }
   {
@@ -11031,9 +11031,9 @@
     character: 엘리트,M16A1,장갑
     normal_attack: 402800
     passive_skill: "403201,403202,403203,403204,403205,403206,403207,403208,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 44
   }
   {
@@ -11058,9 +11058,9 @@
     character: 엘리트,드리머
     normal_attack: 300311
     passive_skill: "401401,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 24
   }
   {
@@ -11087,7 +11087,7 @@
     effect_ratio: 0.9
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900104
@@ -11113,7 +11113,7 @@
     effect_ratio: 0.4
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900105
@@ -11137,9 +11137,9 @@
     character: 엘리트,드리머
     normal_attack: 300311
     passive_skill: "119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 24
   }
   {
@@ -11164,9 +11164,9 @@
     character: 엘리트,드리머
     normal_attack: 300311
     passive_skill: "401401,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 24
   }
   {
@@ -11190,9 +11190,9 @@
     character: 엘리트,스케어크로우
     normal_attack: 300303
     passive_skill: "400101,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 5
   }
   {
@@ -11221,7 +11221,7 @@
     passive_skill: "400201,200303,119029"
     effect_ratio: 1.15
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 8
   }
   {
@@ -11249,7 +11249,7 @@
     passive_skill: "400301,200303,119029"
     effect_ratio: 1.05
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 11
   }
   {
@@ -11276,7 +11276,7 @@
     passive_skill: "400401,119029"
     effect_ratio: 0.9
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 17
   }
   {
@@ -11304,7 +11304,7 @@
     passive_skill: "400401,119029"
     effect_ratio: 0.9
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 17
   }
   {
@@ -11327,7 +11327,7 @@
     normal_attack: 300316
     passive_skill: "200304"
     effect_ratio: 0.6
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 10
   }
   {
@@ -11353,9 +11353,9 @@
     character: 엘리트,드리머
     normal_attack: 300311
     passive_skill: "119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 24
   }
   {
@@ -11378,8 +11378,8 @@
     character: 고속
     normal_attack: 300318
     passive_skill: "200304"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 12
   }
   {
@@ -11407,7 +11407,7 @@
     effect_ratio: 0.67
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 51
   }
   {
@@ -11435,7 +11435,7 @@
     effect_ratio: 0.64
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 50
   }
   {
@@ -11460,10 +11460,10 @@
     character: 엘리트,거대,위험
     normal_attack: 404014
     passive_skill: "404008,404010,404011,404019,404012,404013,404015,404016,404017,404018,404022,404023,404020,404021,119029,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221,756"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 54
   }
   {
@@ -11487,9 +11487,9 @@
     character: 엘리트,스케어크로우
     normal_attack: 300303
     passive_skill: "400101,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 5
   }
   {
@@ -11506,8 +11506,8 @@
     level: 100
     normal_attack: 900107
     passive_skill: "404100,404301,404302,404303,404304,404305,404306,404307,404308,404313,404314,404315,404316,404317,119029,407302"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 900120
@@ -11533,7 +11533,7 @@
     passive_skill: "200303,404200,404203,404204,404205,404212,404213,404215,404217,404218,404228,404216,404227,404229,404220,404221,404222,404223,404224,404225,404226,404230,119029,407302,755000"
     effect_ratio: 0.56
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 51
   }
   {
@@ -11561,7 +11561,7 @@
     effect_ratio: 0.54
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 50
   }
   {
@@ -11590,7 +11590,7 @@
     effect_ratio: 0.86
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 50
   }
   {
@@ -11607,8 +11607,8 @@
     level: 100
     normal_attack: 900107
     passive_skill: "404100,404305,404306,404307,404308,404317,404318,404319,404320,404321,404322,404323,404324,404325,119029,407302"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 900124
@@ -11635,7 +11635,7 @@
     effect_ratio: 0.56
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 51
   }
   {
@@ -11663,7 +11663,7 @@
     effect_ratio: 0.54
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 50
   }
   {
@@ -11680,8 +11680,8 @@
     level: 100
     normal_attack: 900107
     passive_skill: "404100,404305,404306,404307,404308,404317,404326,404327,404328,404329,404330,404331,404332,404333,119029,407302"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 900127
@@ -11708,7 +11708,7 @@
     passive_skill: "200303,404130,404119,404120,404121,404122,404123,404124,404125,404131,119029,407302"
     effect_ratio: 0.64
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 50
   }
   {
@@ -11732,9 +11732,9 @@
     character: 엘리트,스케어크로우
     normal_attack: 300303
     passive_skill: "400101,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 5
   }
   {
@@ -11758,9 +11758,9 @@
     character: 엘리트,게이저
     normal_attack: 300308
     passive_skill: "401001,401002,401003,401004,401005,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 26
   }
   {
@@ -11789,7 +11789,7 @@
     passive_skill: "400201,200303,119029"
     effect_ratio: 1.15
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 8
   }
   {
@@ -11817,7 +11817,7 @@
     passive_skill: "400301,200303,119029"
     effect_ratio: 1.05
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 11
   }
   {
@@ -11844,7 +11844,7 @@
     passive_skill: "400401,119029"
     effect_ratio: 0.9
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 17
   }
   {
@@ -11869,9 +11869,9 @@
     special_attack: 6
     normal_attack: 300306
     passive_skill: "400601,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 23
   }
   {
@@ -11896,9 +11896,9 @@
     character: 엘리트,드리머
     normal_attack: 300311
     passive_skill: "401401,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 24
   }
   {
@@ -11925,7 +11925,7 @@
     normal_attack: 300304
     passive_skill: "402201,401901,401902,200303,119029"
     effect_ratio: 1.05
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 34
   }
   {
@@ -11951,7 +11951,7 @@
     normal_attack: 300326
     passive_skill: "402003,402102,402004,200303,402103,119029"
     effect_ratio: 1.05
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 33
   }
   {
@@ -11964,8 +11964,8 @@
     level: 100
     normal_attack: 300301
     passive_skill: "119029"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 900138
@@ -11989,9 +11989,9 @@
     special_attack: 7
     normal_attack: 300314
     passive_skill: "400401,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 17
   }
   {
@@ -12017,7 +12017,7 @@
     normal_attack: 300324
     passive_skill: "401501,401601,401701,200303,119029"
     effect_ratio: 1.73
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900140
@@ -12040,7 +12040,7 @@
     normal_attack: 403402
     passive_skill: "501097,501099,501101,501110,501077,501088,501108,403401,403403,501120,501121,501122,501123,501138,501139,501140,501134,501135,501136"
     effect_ratio: 1.3
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900141
@@ -12068,7 +12068,7 @@
     effect_ratio: 0.51
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 62
   }
   {
@@ -12097,7 +12097,7 @@
     effect_ratio: 0.51
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 61
   }
   {
@@ -12125,7 +12125,7 @@
     passive_skill: "402801,402809,402810,402811,402812,402813,402814,402819,402820,402821,403406,403407,403408,119029"
     effect_ratio: 1.02
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 44
   }
   {
@@ -12154,7 +12154,7 @@
     effect_ratio: 0.21
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 62
   }
   {
@@ -12183,7 +12183,7 @@
     effect_ratio: 0.21
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 61
   }
   {
@@ -12211,7 +12211,7 @@
     passive_skill: "402801,402809,402810,402811,402812,402813,402814,402819,402820,402821,403406,403407,403408,119029"
     effect_ratio: 0.41
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 44
   }
   {
@@ -12240,7 +12240,7 @@
     effect_ratio: 0.53
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 62
   }
   {
@@ -12269,7 +12269,7 @@
     effect_ratio: 0.53
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 61
   }
   {
@@ -12297,7 +12297,7 @@
     passive_skill: "402801,402809,402810,402811,402812,402813,402814,402819,402820,402821,403406,403407,403408,119029"
     effect_ratio: 1.04
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 44
   }
   {
@@ -12321,7 +12321,7 @@
     normal_attack: 403402
     passive_skill: "501097,501099,501101,501110,501077,501088,501108,403401,403403,501120,501121,501122,501123,501138,501139,501140,501134,501135,501136"
     effect_ratio: 1.3
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900151
@@ -12345,7 +12345,7 @@
     passive_skill: "701009,701011,701012,701013,701014,701015,701016,701017,701023,701024,701026,701030,701027,701028,701029,701031,701043,701045"
     effect_ratio: 1.1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900152
@@ -12369,7 +12369,7 @@
     passive_skill: "701009,701047,701012,701013,701014,701015,701016,701017,701023,701024,701048,701030,701027,701028,701029,701031,701043,701049"
     effect_ratio: 1.1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900153
@@ -12395,7 +12395,7 @@
     passive_skill: "402301,402302,402303,200303,119029"
     effect_ratio: 1.04
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 35
   }
   {
@@ -12422,7 +12422,7 @@
     passive_skill: "402301,402302,402303,200303,119029"
     effect_ratio: 0.94
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 35
   }
   {
@@ -12449,7 +12449,7 @@
     passive_skill: "710701,710702,710703,710705,710706,710707,710730,710801,119029"
     effect_ratio: 0.53
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900156
@@ -12477,7 +12477,7 @@
     effect_ratio: 0.78
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 62
   }
   {
@@ -12506,7 +12506,7 @@
     effect_ratio: 0.17
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 62
   }
   {
@@ -12532,7 +12532,7 @@
     passive_skill: "710730,119029"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 18
   }
   {
@@ -12559,7 +12559,7 @@
     passive_skill: "400801,400901,400902,400903,200303,119029"
     effect_ratio: 1.06
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 27
   }
   {
@@ -12586,7 +12586,7 @@
     passive_skill: "710701,710702,710703,710705,710706,710707,710730,710801,119029"
     effect_ratio: 0.53
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900161
@@ -12614,7 +12614,7 @@
     effect_ratio: 0.78
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 62
   }
   {
@@ -12643,7 +12643,7 @@
     effect_ratio: 0.17
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 62
   }
   {
@@ -12670,7 +12670,7 @@
     passive_skill: "400801,400901,400902,400903,200303,119029"
     effect_ratio: 1.04
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 27
   }
   {
@@ -12698,7 +12698,7 @@
     effect_ratio: 0.51
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900165
@@ -12725,7 +12725,7 @@
     effect_ratio: 0.61
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900166
@@ -12749,10 +12749,10 @@
     character: 엘리트,거대,위험
     normal_attack: 404014
     passive_skill: "404008,404010,404011,404019,404025,404026,404015,404016,404017,404018,404022,404023,404020,404021,119029,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221,756"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 54
   }
   {
@@ -12777,10 +12777,10 @@
     character: 엘리트,거대,위험
     normal_attack: 404014
     passive_skill: "404008,404010,404011,404019,404012,404013,404015,404016,404017,404018,404022,404023,404020,404021,119029,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221,756"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 54
   }
   {
@@ -12809,7 +12809,7 @@
     effect_ratio: 0.71
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 68
   }
   {
@@ -12838,7 +12838,7 @@
     effect_ratio: 0.53
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 68
   }
   {
@@ -12867,7 +12867,7 @@
     effect_ratio: 0.63
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 68
   }
   {
@@ -12896,7 +12896,7 @@
     effect_ratio: 0.17
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 62
   }
   {
@@ -12925,7 +12925,7 @@
     effect_ratio: 0.17
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 62
     location_offset: "3.82,0.01,1.41"
   }
@@ -12951,7 +12951,7 @@
     passive_skill: "405204,405211,405208,405209,200302,200303,119029"
     effect_ratio: 1.68
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     location_offset: "2.12,0, 0.24"
   }
   {
@@ -12976,7 +12976,7 @@
     passive_skill: "405208,405209,405215,405214,200302,200303,119029"
     effect_ratio: 1.68
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     location_offset: "2.85,0.43,0.23"
   }
   {
@@ -13001,7 +13001,7 @@
     passive_skill: "405204,405205,405208,405209,200302,200303,119029"
     effect_ratio: 1.68
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     location_offset: "3.82,0.01,1.41"
   }
   {
@@ -13026,7 +13026,7 @@
     passive_skill: "405204,405211,405208,405209,200302,200303,119029"
     effect_ratio: 1.16
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     location_offset: "2.12,0, 0.24"
   }
   {
@@ -13051,7 +13051,7 @@
     passive_skill: "405208,405209,405215,405214,200302,200303,119029"
     effect_ratio: 1.16
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     location_offset: "2.85,0.43,0.23"
   }
   {
@@ -13076,7 +13076,7 @@
     passive_skill: "405204,405205,405208,405209,200302,200303,119029"
     effect_ratio: 1.16
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900179
@@ -13100,10 +13100,10 @@
     character: 엘리트,거대,위험
     normal_attack: 404014
     passive_skill: "404008,404010,404011,404019,404012,404013,404015,404016,404017,404018,404022,404023,404020,404021,119029,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221,756"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 54
   }
   {
@@ -13132,7 +13132,7 @@
     effect_ratio: 0.63
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 68
   }
   {
@@ -13157,7 +13157,7 @@
     passive_skill: "405204,405211,405208,405209,200302,200303,119029,755000"
     effect_ratio: 1.68
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900182
@@ -13181,7 +13181,7 @@
     passive_skill: "405208,405209,405215,405214,200302,200303,119029,755000"
     effect_ratio: 1.68
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900183
@@ -13205,7 +13205,7 @@
     passive_skill: "405204,405205,405208,405209,200302,200303,119029,755000"
     effect_ratio: 1.68
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900184
@@ -13229,7 +13229,7 @@
     passive_skill: "405204,405211,405208,405209,200302,200303,119029,755000"
     effect_ratio: 1.16
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900185
@@ -13253,7 +13253,7 @@
     passive_skill: "405208,405209,405215,405214,200302,200303,119029,755000"
     effect_ratio: 1.16
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900186
@@ -13277,7 +13277,7 @@
     passive_skill: "405204,405205,405208,405209,200302,200303,119029,755000"
     effect_ratio: 1.16
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     location_offset: "3.82,0.01,1.41"
   }
   {
@@ -13301,7 +13301,7 @@
     passive_skill: "405204,405211,405208,405209,200302,200303,119029,755000"
     effect_ratio: 1.68
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     location_offset: "2.12,0, 0.24"
   }
   {
@@ -13325,7 +13325,7 @@
     passive_skill: "405208,405209,405215,405214,200302,200303,119029,755000"
     effect_ratio: 1.68
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     location_offset: "2.85,0.43,0.23"
   }
   {
@@ -13349,7 +13349,7 @@
     passive_skill: "405204,405205,405208,405209,200302,200303,119029,755000"
     effect_ratio: 1.68
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     location_offset: "3.82,0.01,1.41"
   }
   {
@@ -13373,7 +13373,7 @@
     passive_skill: "405204,405211,405208,405209,200302,200303,119029,755000"
     effect_ratio: 1.16
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     location_offset: "2.12,0, 0.24"
   }
   {
@@ -13397,7 +13397,7 @@
     passive_skill: "405208,405209,405215,405214,200302,200303,119029,755000"
     effect_ratio: 1.16
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     location_offset: "2.85,0.43,0.23"
   }
   {
@@ -13421,7 +13421,7 @@
     passive_skill: "405204,405205,405208,405209,200302,200303,119029,755000"
     effect_ratio: 1.16
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900193
@@ -13448,7 +13448,7 @@
     effect_ratio: 0.63
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900194
@@ -13475,7 +13475,7 @@
     effect_ratio: 0.63
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900195
@@ -13499,10 +13499,10 @@
     character: 엘리트,거대,위험
     normal_attack: 404014
     passive_skill: "404008,404010,404011,404019,404012,404013,404015,404016,404017,404018,404022,404023,404020,404021,119029,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221,756"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 54
   }
   {
@@ -13526,9 +13526,9 @@
     character: enemy_character_type-10900196
     normal_attack: 300308
     passive_skill: "401001,401002,401003,401004,401005,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     recommend_description: enemy_character_type-30900196
     enemy_illustration_id: 26
   }
@@ -13553,9 +13553,9 @@
     character: 엘리트,게이저
     normal_attack: 300308
     passive_skill: "401001,401002,401003,401004,401005,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 26
   }
   {
@@ -13579,9 +13579,9 @@
     character: 엘리트,디스트로이어
     normal_attack: 300304
     passive_skill: "200303,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 18
   }
   {
@@ -13609,7 +13609,7 @@
     passive_skill: "900459,910481,910483,910484,119029"
     effect_ratio: 0.41
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 44
   }
   {
@@ -13637,7 +13637,7 @@
     passive_skill: "900459,900453,920458,900481,900482,900484,119029"
     effect_ratio: 0.43
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 44
   }
   {
@@ -13662,9 +13662,9 @@
     character: 엘리트,？？？？
     normal_attack: 406225
     passive_skill: "406221,406222,406223,406224,406226,406232,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 81
     location_offset: "0,2.5,0"
   }
@@ -13690,9 +13690,9 @@
     character: 엘리트,？？？？
     normal_attack: 406202
     passive_skill: "406203,406204,406205,406206,406221,406201,406222,406227,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 81
   }
   {
@@ -13721,7 +13721,7 @@
     effect_ratio: 0.66
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 80
   }
   {
@@ -13750,7 +13750,7 @@
     effect_ratio: 0.8
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 80
   }
   {
@@ -13777,7 +13777,7 @@
     effect_ratio: 0.8
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 50
   }
   {
@@ -13806,7 +13806,7 @@
     effect_ratio: 0.83
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 50
   }
   {
@@ -13835,7 +13835,7 @@
     effect_ratio: 0.53
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 50
   }
   {
@@ -13859,9 +13859,9 @@
     character: 엘리트,니토,장갑,왜곡방벽
     normal_attack: 900107
     passive_skill: "900452,119029,407302,755000"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 50
   }
   {
@@ -13887,7 +13887,7 @@
     passive_skill: "900452,119029,407302,755000"
     effect_ratio: 0.4
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 50
     location_offset: "0,2.5,0"
   }
@@ -13916,7 +13916,7 @@
     passive_skill: "900557,900558,900559,900560,900561,900562,900563,119029"
     effect_ratio: 0.41
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 44
   }
   {
@@ -13944,7 +13944,7 @@
     passive_skill: "900557,900558,900559,900560,900561,900562,900563,119029"
     effect_ratio: 0.43
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 44
   }
   {
@@ -13973,7 +13973,7 @@
     effect_ratio: 0.66
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 80
   }
   {
@@ -14002,7 +14002,7 @@
     effect_ratio: 0.8
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 80
   }
   {
@@ -14031,7 +14031,7 @@
     effect_ratio: 0.8
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 80
   }
   {
@@ -14059,7 +14059,7 @@
     effect_ratio: 0.8
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 80
   }
   {
@@ -14087,7 +14087,7 @@
     effect_ratio: 0.8
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 80
   }
   {
@@ -14115,7 +14115,7 @@
     passive_skill: "900459,900453,920458,900481,900482,900484,119029"
     effect_ratio: 0.43
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 44
   }
   {
@@ -14140,9 +14140,9 @@
     character: 엘리트,？？？？
     normal_attack: 406202
     passive_skill: "406203,406204,406205,406206,406221,406201,406222,406227,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 81
   }
   {
@@ -14171,7 +14171,7 @@
     effect_ratio: 0.8
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 80
   }
   {
@@ -14200,7 +14200,7 @@
     effect_ratio: 0.84
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 92
   }
   {
@@ -14228,7 +14228,7 @@
     effect_ratio: 0.8
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 91
   }
   {
@@ -14256,7 +14256,7 @@
     effect_ratio: 0.5
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 91
   }
   {
@@ -14285,7 +14285,7 @@
     effect_ratio: 0.84
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 93
   }
   {
@@ -14310,9 +14310,9 @@
     character: 엘리트,드리머
     normal_attack: 411101
     passive_skill: "411102,411103,411104,411105,411106,411107,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 24
   }
   {
@@ -14339,7 +14339,7 @@
     normal_attack: 411304
     passive_skill: "401901,401902,200303,411303,411301,119029"
     effect_ratio: 1.03
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 34
   }
   {
@@ -14364,10 +14364,10 @@
     character: 엘리트,거대,위험
     normal_attack: 404014
     passive_skill: "404008,404010,404011,404019,404012,404013,404015,404016,404017,404018,404022,404023,404020,404021,119029,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221,756"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 54
   }
   {
@@ -14391,9 +14391,9 @@
     character: 엘리트,게이저
     normal_attack: 411002
     passive_skill: "411003,411004,411005,411006,411007,411008,411009,411010,411011,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 26
   }
   {
@@ -14419,7 +14419,7 @@
     passive_skill: "411201,411202,411203,411205,411206,411207,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 21
   }
   {
@@ -14445,7 +14445,7 @@
     passive_skill: "411201,411202,411203,411205,411206,411207,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 21
   }
   {
@@ -14472,7 +14472,7 @@
     normal_attack: 411304
     passive_skill: "401901,401902,200303,411303,411301,119029"
     effect_ratio: 1.04
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 34
   }
   {
@@ -14497,9 +14497,9 @@
     character: 엘리트,드리머
     normal_attack: 411101
     passive_skill: "411102,411103,411104,411105,411106,411107,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 24
   }
   {
@@ -14525,7 +14525,7 @@
     passive_skill: "411201,411202,411203,411205,411206,411207,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 21
   }
   {
@@ -14550,7 +14550,7 @@
     passive_skill: "411201,411202,411203,411205,411206,411207,119029,755000"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 21
   }
   {
@@ -14575,7 +14575,7 @@
     passive_skill: "411501,411503,411505,411506,411507,411508,119029,755000"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100024
   }
   {
@@ -14600,7 +14600,7 @@
     passive_skill: "901127,901128,901129,901131,901133,901134,119029,755000"
     effect_ratio: 0.4
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100023
   }
   {
@@ -14623,10 +14623,10 @@
     character: 엘리트,소각수,화염방사,소이탄투척
     normal_attack: 411401
     passive_skill: "411402,411403,411404,411406,411407,119029,755000"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     lifebar_offset: "0,1,0"
     enemy_illustration_id: 100022
   }
@@ -14652,7 +14652,7 @@
     passive_skill: "411602,411603,119029,755000"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100027
   }
   {
@@ -14677,7 +14677,7 @@
     passive_skill: "411702,119029,755000"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100021
   }
   {
@@ -14702,7 +14702,7 @@
     passive_skill: "901127,901128,901129,91131,119029,755000"
     effect_ratio: 0.4
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100023
   }
   {
@@ -14727,7 +14727,7 @@
     passive_skill: "411501,411503,411505,411506,411507,411508,119029,755000"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100024
   }
   {
@@ -14752,7 +14752,7 @@
     passive_skill: "901127,901128,901129,901131,901133,901134,119029,755000"
     effect_ratio: 0.4
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100023
   }
   {
@@ -14775,10 +14775,10 @@
     character: 엘리트,소각수,화염방사,소이탄투척
     normal_attack: 411401
     passive_skill: "411402,411403,411404,411406,411407,119029,755000"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     lifebar_offset: "0,1,0"
     enemy_illustration_id: 100022
   }
@@ -14804,7 +14804,7 @@
     passive_skill: "411602,411603,119029,755000"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100027
   }
   {
@@ -14829,7 +14829,7 @@
     passive_skill: "411702,119029,755000"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100021
   }
   {
@@ -14854,7 +14854,7 @@
     passive_skill: "901127,901128,901129,901131,901133,901134,119029,755000"
     effect_ratio: 0.4
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100023
   }
   {
@@ -14879,7 +14879,7 @@
     passive_skill: "411702,119029,755000"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100021
   }
   {
@@ -14904,7 +14904,7 @@
     passive_skill: "411702,119029,755000"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100021
   }
   {
@@ -14929,7 +14929,7 @@
     passive_skill: "411702,119029,755000"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100021
   }
   {
@@ -14954,7 +14954,7 @@
     passive_skill: "411702,119029,755000"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100021
   }
   {
@@ -14979,7 +14979,7 @@
     passive_skill: "411702,119029,755000"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100021
   }
   {
@@ -15003,7 +15003,7 @@
     passive_skill: "900459,910481,910483,910484"
     effect_ratio: 0.4
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900252
@@ -15026,7 +15026,7 @@
     passive_skill: "900459,900453,920458,900481,900482,900484,755000"
     effect_ratio: 0.4
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900253
@@ -15049,9 +15049,9 @@
     character: 엘리트,필살,의체
     normal_attack: 900107
     passive_skill: "902339,902340,902343,902346,902348,902350,902352,902353,902354,912355,922355,932355,942355,952355,962355,912340,922340,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 109
   }
   {
@@ -15075,9 +15075,9 @@
     character: 엘리트,필살,의체
     normal_attack: 900107
     passive_skill: "902339,902340,902343,902346,902348,902350,902352,902353,902354,912355,922355,932355,942355,952355,962355,912340,922340,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 109
   }
   {
@@ -15100,9 +15100,9 @@
     character: 엘리트,약화,필살
     normal_attack: 900107
     passive_skill: "902325,902326,902327,902328,902329,902330,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 112
   }
   {
@@ -15126,9 +15126,9 @@
     character: 엘리트,약화,해킹,지원
     normal_attack: 900107
     passive_skill: "902332,902333,902334,902335,902336,902337,902338,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 110
   }
   {
@@ -15152,9 +15152,9 @@
     character: 엘리트,약화,해킹,지원
     normal_attack: 900107
     passive_skill: "902332,902333,902334,902335,902336,902337,902338,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 110
   }
   {
@@ -15178,9 +15178,9 @@
     character: 엘리트,필살,의체
     normal_attack: 900107
     passive_skill: "902339,902340,902343,902346,902348,902350,902352,902353,902354,912355,922355,932355,942355,952355,962355,912340,922340,902341,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 109
   }
   {
@@ -15204,9 +15204,9 @@
     character: 엘리트,필살,의체
     normal_attack: 900107
     passive_skill: "902339,902340,902343,902346,902348,902350,902352,902353,902354,912355,922355,932355,942355,952355,962355,902341,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 109
   }
   {
@@ -15230,9 +15230,9 @@
     character: 엘리트,약화,필살
     normal_attack: 900107
     passive_skill: "902325,902326,902327,902328,902329,902330,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 112
   }
   {
@@ -15256,9 +15256,9 @@
     character: 엘리트,필살,의체
     normal_attack: 900107
     passive_skill: "902339,902340,902343,902346,902348,902350,902352,902353,902354,912355,922355,932355,942355,952355,962355,912340,922340,902341,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 109
   }
   {
@@ -15282,9 +15282,9 @@
     character: 엘리트,필살,의체
     normal_attack: 900107
     passive_skill: "902339,902340,902343,902346,902348,902350,902352,902353,902354,912355,922355,932355,942355,952355,962355,912340,922340,902341,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 109
   }
   {
@@ -15308,9 +15308,9 @@
     character: 엘리트,필살,의체
     normal_attack: 900107
     passive_skill: "902339,902340,902343,902346,902348,902350,902352,902353,902354,912355,922355,932355,942355,952355,962355,902341,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 109
   }
   {
@@ -15334,9 +15334,9 @@
     character: 엘리트,약화,필살
     normal_attack: 900107
     passive_skill: "902325,902326,902327,902328,902329,902330,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 112
   }
   {
@@ -15360,9 +15360,9 @@
     character: 엘리트,필살,의체
     normal_attack: 900107
     passive_skill: "902339,902340,902343,902346,902348,902350,902352,902353,902354,912355,922355,932355,942355,952355,962355,902341,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 109
   }
   {
@@ -15380,8 +15380,8 @@
     character: 엘리트,？？？？
     normal_attack: 900107
     passive_skill: "902355,404305,404306,404307,404308,404317,404318,404319,404320,404321,404322,404323,404324,404325,119029,407302"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 111
   }
   {
@@ -15399,8 +15399,8 @@
     character: 엘리트,？？？？
     normal_attack: 900107
     passive_skill: "902355,404305,404306,404307,404308,404317,404326,404327,404328,404329,404330,404331,404332,404333,119029,407302"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 111
   }
   {
@@ -15427,7 +15427,7 @@
     passive_skill: "200303,404200,404203,404204,404205,404212,404213,404215,404217,404218,404228,404216,404227,404229,404220,404221,404222,404223,404224,404225,404226,404230,119029,407302,755000"
     effect_ratio: 0.56
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 51
   }
   {
@@ -15455,7 +15455,7 @@
     effect_ratio: 0.54
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 50
   }
   {
@@ -15483,7 +15483,7 @@
     effect_ratio: 0.56
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 51
   }
   {
@@ -15511,7 +15511,7 @@
     effect_ratio: 0.54
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 50
   }
   {
@@ -15535,7 +15535,7 @@
     passive_skill: "411702,755000"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900273
@@ -15558,7 +15558,7 @@
     passive_skill: "411702,755000"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900274
@@ -15581,7 +15581,7 @@
     passive_skill: "411702,755000"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900275
@@ -15604,7 +15604,7 @@
     passive_skill: "411702,755000"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900276
@@ -15627,7 +15627,7 @@
     passive_skill: "411702,755000"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900277
@@ -15650,9 +15650,9 @@
     character: 엘리트,필살,의체
     normal_attack: 900107
     passive_skill: "902339,902340,902343,902346,902348,902350,902352,902353,902354,912355,922355,932355,942355,952355,962355,902341,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 109
   }
   {
@@ -15677,10 +15677,10 @@
     character: 엘리트,거대,위험
     normal_attack: 404014
     passive_skill: "404008,404010,404011,404019,404012,404013,404015,404016,404017,404018,404022,404023,404020,404021,119029,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221,756"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 54
   }
   {
@@ -15704,9 +15704,9 @@
     character: 엘리트,약화,해킹,지원
     normal_attack: 900107
     passive_skill: "902332,902333,902334,902335,902336,902337,902338,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 110
   }
   {
@@ -15730,9 +15730,9 @@
     character: 엘리트,약화,해킹,지원
     normal_attack: 900107
     passive_skill: "902332,902333,902334,902335,902336,902337,902338,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 110
   }
   {
@@ -15760,7 +15760,7 @@
     passive_skill: "200303,404130,404119,404120,404121,404122,404123,404124,404125,404131,119029,407302"
     effect_ratio: 0.65
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 50
   }
   {
@@ -15788,7 +15788,7 @@
     effect_ratio: 0.67
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 51
   }
   {
@@ -15817,7 +15817,7 @@
     effect_ratio: 0.66
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 80
   }
   {
@@ -15846,7 +15846,7 @@
     effect_ratio: 0.66
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 80
   }
   {
@@ -15871,10 +15871,10 @@
     character: 엘리트,생산,필살
     normal_attack: 755020
     passive_skill: "755013,755014,755016,755017,755018,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100034
   }
   {
@@ -15899,10 +15899,10 @@
     character: 엘리트,생산,필살
     normal_attack: 755020
     passive_skill: "755013,755014,755016,755017,755018,755019,755024,755028,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100034
   }
   {
@@ -15931,7 +15931,7 @@
     effect_ratio: 0.5
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 100035
   }
   {
@@ -15957,7 +15957,7 @@
     normal_attack: 300307
     effect_ratio: 1.06
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 126
   }
   {
@@ -15982,7 +15982,7 @@
     passive_skill: "755000"
     effect_ratio: 0.4
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 136
   }
   {
@@ -16006,9 +16006,9 @@
     character: 엘리트,약화,필살
     normal_attack: 900107
     passive_skill: "902325,902326,902327,902328,902329,902330,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 112
   }
   {
@@ -16032,9 +16032,9 @@
     character: 엘리트,약화,필살
     normal_attack: 900107
     passive_skill: "902325,902326,902327,902328,902329,902330,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 112
   }
   {
@@ -16059,9 +16059,9 @@
     character: 엘리트,니토,암살자
     normal_attack: 755065
     passive_skill: "755066,755067,755068,755069,755070,755072,755073,755074,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 138
   }
   {
@@ -16086,9 +16086,9 @@
     character: 엘리트,니토,암살자
     normal_attack: 755065
     passive_skill: "755066,755067,755068,755069,755070,755072,755073,755074,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 138
   }
   {
@@ -16116,7 +16116,7 @@
     effect_ratio: 0.69
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 137
   }
   {
@@ -16144,7 +16144,7 @@
     effect_ratio: 0.7
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 137
   }
   {
@@ -16172,7 +16172,7 @@
     effect_ratio: 0.71
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 137
   }
   {
@@ -16200,7 +16200,7 @@
     effect_ratio: 0.72
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 137
   }
   {
@@ -16228,7 +16228,7 @@
     effect_ratio: 0.73
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 137
   }
   {
@@ -16256,7 +16256,7 @@
     effect_ratio: 0.73
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 137
   }
   {
@@ -16281,9 +16281,9 @@
     character: 엘리트,니토,암살자
     normal_attack: 755065
     passive_skill: "755066,755067,755068,755069,755070,755072,755073,755074,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 138
   }
   {
@@ -16308,9 +16308,9 @@
     character: 엘리트,니토,암살자
     normal_attack: 755065
     passive_skill: "755066,755067,755068,755069,755070,755072,755073,755074,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 138
   }
   {
@@ -16335,9 +16335,9 @@
     character: 엘리트,니토,암살자
     normal_attack: 755065
     passive_skill: "755066,755067,755068,755069,755070,755072,755073,755074,756118,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 138
   }
   {
@@ -16362,9 +16362,9 @@
     character: 엘리트,니토,암살자
     normal_attack: 755065
     passive_skill: "755066,755067,755068,755069,755070,755072,755073,755074,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 138
   }
   {
@@ -16389,9 +16389,9 @@
     character: 엘리트,니토,암살자
     normal_attack: 755065
     passive_skill: "755066,755067,755068,755069,755070,755072,755073,755074,756118,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 138
   }
   {
@@ -16416,9 +16416,9 @@
     character: 엘리트,니토,암살자
     normal_attack: 755065
     passive_skill: "755066,755067,755068,755069,755070,755072,755073,755074,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 138
   }
   {
@@ -16447,7 +16447,7 @@
     effect_ratio: 0.66
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 80
   }
   {
@@ -16476,7 +16476,7 @@
     effect_ratio: 0.8
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 80
   }
   {
@@ -16501,10 +16501,10 @@
     character: 엘리트,소환사,능력탈취
     normal_attack: 117701
     passive_skill: "117702,117703,117704,117705,117707,117708,117709,117716,117717,117718,117719,117720,117721,117722,117723,117724,117735,117738,117802,117803,755083,755084,755085,755086,755087,755089,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "104"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 139
   }
   {
@@ -16529,10 +16529,10 @@
     character: 엘리트,소환사,능력탈취
     normal_attack: 117701
     passive_skill: "117702,117703,117704,117705,117707,117708,117709,117716,117717,117718,117719,117720,117721,117722,117723,117724,117735,117738,755083,755084,755085,755086,755087,755089,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "104"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 139
   }
   {
@@ -16557,10 +16557,10 @@
     character: 엘리트,소환사,능력탈취
     normal_attack: 117701
     passive_skill: "117702,117703,117704,117705,117707,117708,117709,117716,117717,117718,117719,117720,117721,117722,117723,117724,117735,117738,117802,117803,755083,755084,755085,755086,755087,755089,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "104"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 139
   }
   {
@@ -16585,10 +16585,10 @@
     character: 엘리트,소환사,능력탈취
     normal_attack: 117701
     passive_skill: "117702,117703,117704,117705,117707,117708,117709,117716,117717,117718,117719,117720,117721,117722,117723,117724,117735,117738,755083,755084,755085,755086,755087,755089,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "104"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 139
   }
   {
@@ -16613,9 +16613,9 @@
     character: 엘리트,니토,암살자
     normal_attack: 755065
     passive_skill: "755066,755067,755068,755069,755070,755072,755073,755074,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 138
   }
   {
@@ -16640,10 +16640,10 @@
     character: 엘리트,소환사,능력탈취
     normal_attack: 117701
     passive_skill: "117702,117703,117704,117705,117707,117708,117709,117716,117717,117718,117719,117720,117721,117722,117723,117724,117735,117738,755083,755084,755085,755086,755087,755089,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "104"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 139
   }
   {
@@ -16671,7 +16671,7 @@
     effect_ratio: 0.8
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 80
   }
   {
@@ -16695,9 +16695,9 @@
     character: 엘리트,인트루더
     special_attack: 7
     normal_attack: 300314
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 140
   }
   {
@@ -16724,7 +16724,7 @@
     effect_ratio: 0.5
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 146
   }
   {
@@ -16751,7 +16751,7 @@
     effect_ratio: 0.5
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 146
   }
   {
@@ -16777,7 +16777,7 @@
     character: 엘리트,디스트로이어
     normal_attack: 300304
     effect_ratio: 1.05
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 147
   }
   {
@@ -16802,10 +16802,10 @@
     character: 엘리트,소환사,능력탈취
     normal_attack: 117701
     passive_skill: "117702,117703,117704,117705,117707,117708,117709,117716,117717,117718,117719,117720,117721,117722,117723,117724,117735,117738,117802,117803,755083,755084,755085,755086,755087,755089,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "104"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 139
   }
   {
@@ -16828,9 +16828,9 @@
     character: 엘리트,약화,해킹,지원
     normal_attack: 900107
     passive_skill: "902332,902333,902334,902335,902336,902337,902338,119029,755186,755190,755191,755189,119029,407302,755000"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 110
   }
   {
@@ -16853,9 +16853,9 @@
     character: 엘리트,약화,해킹,지원
     normal_attack: 900107
     passive_skill: "902332,902333,902334,902335,902336,902337,902338,119029,755186,755190,755191,755189,119029,407302,755000"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 110
   }
   {
@@ -16878,9 +16878,9 @@
     character: 엘리트,약화,해킹,지원
     normal_attack: 900107
     passive_skill: "902332,902333,902334,902335,902336,902337,902338,119029,755186,755190,755191,755189,119029,407302,755000"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 110
   }
   {
@@ -16905,9 +16905,9 @@
     character: 엘리트
     normal_attack: 755167
     passive_skill: "755168,755171,755174,755175,755176,755177,755178,755179,755180,755181,755182,755185,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 155
   }
   {
@@ -16932,9 +16932,9 @@
     character: 엘리트
     normal_attack: 755167
     passive_skill: "755168,755171,755174,755175,755176,755177,755178,755179,755180,755181,755182,755185,755187,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 155
   }
   {
@@ -16959,9 +16959,9 @@
     character: 엘리트
     normal_attack: 755167
     passive_skill: "755168,755171,755174,755175,755176,755177,755178,755179,755180,755181,755182,755185,755187,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 155
   }
   {
@@ -16986,9 +16986,9 @@
     character: 엘리트
     normal_attack: 755167
     passive_skill: "755168,755171,755174,755175,755176,755177,755178,755179,755180,755181,755182,755185,755187,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 155
   }
   {
@@ -17013,8 +17013,8 @@
     character: 엘리트,약화,필살,소환사
     normal_attack: 900107
     passive_skill: "902325,902326,902327,902328,902329,902330,119029,755187,407401,407407,407408,407409,407410,407411,119029,407302"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 154
   }
   {
@@ -17039,8 +17039,8 @@
     character: 엘리트,약화,필살,소환사
     normal_attack: 900107
     passive_skill: "902325,902326,902327,902328,902329,902330,119029,755187,407401,407407,407408,407409,407410,407411,119029,407302"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 154
   }
   {
@@ -17065,9 +17065,9 @@
     character: 엘리트,약화,필살,소환사
     normal_attack: 900107
     passive_skill: "902325,902326,902327,902328,902329,902330,119029,755187,407401,407407,407408,407409,407410,407411,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 154
   }
   {
@@ -17092,8 +17092,8 @@
     character: 엘리트,약화,필살,소환사
     normal_attack: 900107
     passive_skill: "902325,902326,902327,902328,902329,902330,119029,407401,407407,407408,407409,407410,407411,119029,407302"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 154
   }
   {
@@ -17118,9 +17118,9 @@
     character: 엘리트
     normal_attack: 755167
     passive_skill: "755168,755171,755174,755175,755176,755177,755178,755179,755180,755181,755182,755185,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 155
   }
   {
@@ -17147,7 +17147,7 @@
     passive_skill: "407504"
     effect_ratio: 0.4
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 156
   }
   {
@@ -17172,9 +17172,9 @@
     character: 엘리트,약화,필살,소환사
     normal_attack: 900107
     passive_skill: "902325,902326,902327,902328,902329,902330,119029,407401,407407,407408,407409,407410,407411,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 154
   }
   {
@@ -17199,9 +17199,9 @@
     character: 엘리트
     normal_attack: 755167
     passive_skill: "755168,755171,755174,755175,755176,755177,755178,755179,755180,755181,755182,755185,755193,755194,755195,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 155
   }
   {
@@ -17228,7 +17228,7 @@
     passive_skill: "407504"
     effect_ratio: 0.4
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 156
   }
   {
@@ -17253,9 +17253,9 @@
     character: 엘리트
     normal_attack: 755167
     passive_skill: "755168,755171,755174,755175,755176,755177,755178,755179,755180,755181,755182,755185,755188,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 155
   }
   {
@@ -17279,9 +17279,9 @@
     character: 엘리트,약화,해킹,지원
     normal_attack: 900107
     passive_skill: "902332,902333,902334,902335,902336,902337,902338,119029,755187,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 110
   }
   {
@@ -17305,9 +17305,9 @@
     character: 엘리트,약화,해킹,지원
     normal_attack: 900107
     passive_skill: "902332,902333,902334,902335,902336,902337,902338,119029,755187,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 110
   }
   {
@@ -17331,9 +17331,9 @@
     character: 엘리트,약화,해킹,지원
     normal_attack: 900107
     passive_skill: "902332,902333,902334,902335,902336,902337,902338,119029,755187,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 110
   }
   {
@@ -17358,9 +17358,9 @@
     character: 엘리트,"니토",암살자
     normal_attack: 755065
     passive_skill: "755066,755067,755068,755069,755070,755072,755073,755074,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 138
   }
   {
@@ -17385,9 +17385,9 @@
     character: 엘리트,"니토",암살자
     normal_attack: 755065
     passive_skill: "755066,755067,755068,755069,755070,755072,755073,755074,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 138
   }
   {
@@ -17412,9 +17412,9 @@
     character: 엘리트,"니토",암살자
     normal_attack: 755065
     passive_skill: "755066,755067,755068,755069,755070,755072,755073,755074,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 138
   }
   {
@@ -17439,9 +17439,9 @@
     character: 엘리트,필살,의체
     normal_attack: 900107
     passive_skill: "902339,902340,902343,902346,902348,902350,902352,902353,902354,912355,922355,932355,942355,952355,962355,902341,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 109
   }
   {
@@ -17469,7 +17469,7 @@
     passive_skill: "400301,200303,119029"
     effect_ratio: 1.05
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 157
   }
   {
@@ -17493,7 +17493,7 @@
     passive_skill: "405204,405211,405208,405209,200302,200303,119029"
     effect_ratio: 1.68
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900346
@@ -17516,7 +17516,7 @@
     passive_skill: "405208,405209,405215,405214,200302,200303,119029,755000"
     effect_ratio: 1.68
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900347
@@ -17539,7 +17539,7 @@
     passive_skill: "405204,405205,405208,405209,200302,200303,119029,755000"
     effect_ratio: 1.68
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900348
@@ -17562,7 +17562,7 @@
     passive_skill: "405204,405211,405208,405209,200302,200303,119029,755000"
     effect_ratio: 1.16
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900349
@@ -17585,7 +17585,7 @@
     passive_skill: "405208,405209,405215,405214,200302,200303,119029,755000"
     effect_ratio: 1.16
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 900350
@@ -17608,7 +17608,7 @@
     passive_skill: "405204,405205,405208,405209,200302,200303,119029,755000"
     effect_ratio: 1.16
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     location_offset: "3.82,0.01,1.41"
   }
   {
@@ -17634,7 +17634,7 @@
     normal_attack: 300326
     passive_skill: "402001,402101,402002,200303,402103,119029"
     effect_ratio: 1.03
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 162
   }
   {
@@ -17660,7 +17660,7 @@
     normal_attack: 300326
     passive_skill: "402001,402101,402002,200303,402103,119029"
     effect_ratio: 1.03
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 162
   }
   {
@@ -17686,10 +17686,10 @@
     character: 엘리트,거대,위험
     normal_attack: 755203
     passive_skill: "755197,755199,755200,755201,755202,755204,755205,755206,755207,755208,755209,755210,755211,755212,755213,119029,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221,756"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 54
   }
   {
@@ -17715,10 +17715,10 @@
     character: 엘리트,거대,위험
     normal_attack: 755203
     passive_skill: "755197,755199,755200,755201,755202,755204,755205,755206,755207,755208,755209,755210,755211,755212,755213,119029,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221,756"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 54
   }
   {
@@ -17747,7 +17747,7 @@
     effect_ratio: 0.67
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 166
   }
   {
@@ -17771,9 +17771,9 @@
     character: 엘리트,약화,해킹,지원
     normal_attack: 900107
     passive_skill: "902332,902333,902334,902335,902336,902337,902338,119029,755187,119029,407302"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 110
   }
   {
@@ -17802,7 +17802,7 @@
     effect_ratio: 0.66
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 80
   }
   {
@@ -17827,9 +17827,9 @@
     character: 엘리트,관통,거대
     normal_attack: 755238
     passive_skill: "755239,755240,755241,755250,119029,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 173
   }
   {
@@ -17854,9 +17854,9 @@
     character: 엘리트,관통,거대
     normal_attack: 755238
     passive_skill: "755239,755240,755241,755250,119029,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 173
   }
   {
@@ -17881,9 +17881,9 @@
     character: 엘리트,관통,거대
     normal_attack: 755238
     passive_skill: "755239,755240,755241,755250,119029,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 173
   }
   {
@@ -17908,9 +17908,9 @@
     character: 엘리트,관통,거대
     normal_attack: 755238
     passive_skill: "755239,755240,755241,119029,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 173
   }
   {
@@ -17939,7 +17939,7 @@
     effect_ratio: 0.66
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 80
   }
   {
@@ -17964,9 +17964,9 @@
     character: 엘리트,관통,거대
     normal_attack: 755238
     passive_skill: "755239,755240,755241,755249,755250,119029,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 173
   }
   {
@@ -17991,9 +17991,9 @@
     character: 엘리트,관통,거대
     normal_attack: 755238
     passive_skill: "755239,755240,755241,755249,755250,119029,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 173
   }
   {
@@ -18018,9 +18018,9 @@
     character: 엘리트,관통,거대
     normal_attack: 755238
     passive_skill: "755239,755240,755241,755249,755250,119029,740089"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 173
   }
   {
@@ -18046,7 +18046,7 @@
     passive_skill: "755232,755233,755234,755235,755236,119029"
     effect_ratio: 0.4
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 174
   }
   {
@@ -18074,7 +18074,7 @@
     passive_skill: "400201,200303,119029"
     effect_ratio: 1.15
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 175
   }
   {
@@ -18099,9 +18099,9 @@
     character: 엘리트,관통
     normal_attack: 755238
     passive_skill: "755239,755240,755241,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 176
   }
   {
@@ -18130,7 +18130,7 @@
     effect_ratio: 0.63
     unable_buff_type: "221"
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 68
   }
   {
@@ -18156,7 +18156,7 @@
     normal_attack: 300326
     passive_skill: "402001,402101,402002,200303,402103,119029,755259"
     effect_ratio: 1.03
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 162
   }
   {
@@ -18180,9 +18180,9 @@
     character: 엘리트,원거리,테크니션,정확
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 195
   }
   {
@@ -18206,9 +18206,9 @@
     character: 엘리트,원거리,테크니션,정확
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 195
   }
   {
@@ -18232,9 +18232,9 @@
     character: 엘리트,원거리,테크니션,정확
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 195
   }
   {
@@ -18258,9 +18258,9 @@
     character: 엘리트,원거리,테크니션,정확
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 195
   }
   {
@@ -18284,9 +18284,9 @@
     character: 엘리트,원거리,테크니션,정확
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 195
   }
   {
@@ -18310,9 +18310,9 @@
     character: 엘리트,원거리,테크니션,정확
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 195
   }
   {
@@ -18338,7 +18338,7 @@
     passive_skill: "120604,120605,120606,200303,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 196
   }
   {
@@ -18364,7 +18364,7 @@
     passive_skill: "120604,120605,120606,200303,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 196
   }
   {
@@ -18390,7 +18390,7 @@
     passive_skill: "120604,120605,120606,200303,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 196
   }
   {
@@ -18416,7 +18416,7 @@
     passive_skill: "120604,120605,120606,200303,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 196
   }
   {
@@ -18442,7 +18442,7 @@
     passive_skill: "120604,120605,120606,200303,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 196
   }
   {
@@ -18468,7 +18468,7 @@
     passive_skill: "120604,120605,120606,200303,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 196
   }
   {
@@ -18495,7 +18495,7 @@
     passive_skill: "120607,120608,120609,120610,119029"
     effect_ratio: 0.9
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 197
   }
   {
@@ -18522,7 +18522,7 @@
     passive_skill: "120607,120608,120609,120610,119029"
     effect_ratio: 0.9
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 197
   }
   {
@@ -18549,7 +18549,7 @@
     passive_skill: "120607,120608,120609,120610,119029"
     effect_ratio: 0.9
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 197
   }
   {
@@ -18576,7 +18576,7 @@
     passive_skill: "120607,120608,120609,120610,119029"
     effect_ratio: 0.9
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 197
   }
   {
@@ -18603,7 +18603,7 @@
     passive_skill: "120607,120608,120609,120610,119029"
     effect_ratio: 0.9
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 197
   }
   {
@@ -18630,7 +18630,7 @@
     passive_skill: "120607,120608,120609,120610,119029"
     effect_ratio: 0.9
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 197
   }
   {
@@ -18656,7 +18656,7 @@
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029"
     effect_ratio: 1.05
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 198
   }
   {
@@ -18682,7 +18682,7 @@
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029"
     effect_ratio: 1.05
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 198
   }
   {
@@ -18708,7 +18708,7 @@
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029"
     effect_ratio: 1.05
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 198
   }
   {
@@ -18734,7 +18734,7 @@
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029"
     effect_ratio: 1.05
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 198
   }
   {
@@ -18760,7 +18760,7 @@
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029"
     effect_ratio: 1.05
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 198
   }
   {
@@ -18786,7 +18786,7 @@
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029"
     effect_ratio: 1.05
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 198
   }
   {
@@ -18813,7 +18813,7 @@
     passive_skill: "120615,120616,120618,120619,120620,200303,119029"
     effect_ratio: 0.94
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 199
   }
   {
@@ -18840,7 +18840,7 @@
     passive_skill: "120615,120616,120618,120619,120620,200303,119029"
     effect_ratio: 0.94
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 199
   }
   {
@@ -18867,7 +18867,7 @@
     passive_skill: "120615,120616,120618,120619,120620,200303,119029"
     effect_ratio: 0.94
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 199
   }
   {
@@ -18894,7 +18894,7 @@
     passive_skill: "120615,120616,120618,120619,120620,200303,119029"
     effect_ratio: 0.94
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 199
   }
   {
@@ -18921,7 +18921,7 @@
     passive_skill: "120615,120616,120618,120619,120620,200303,119029"
     effect_ratio: 0.94
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 199
   }
   {
@@ -18948,7 +18948,7 @@
     passive_skill: "120615,120616,120618,120619,120620,200303,119029"
     effect_ratio: 0.94
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 199
   }
   {
@@ -18972,9 +18972,9 @@
     character: 엘리트,스케어크로우
     normal_attack: 300303
     passive_skill: "400101,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 182
   }
   {
@@ -18998,9 +18998,9 @@
     character: 엘리트,스케어크로우
     normal_attack: 300303
     passive_skill: "400101,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 182
   }
   {
@@ -19027,7 +19027,7 @@
     passive_skill: "401001,401002,401003,401004,401005,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 183
   }
   {
@@ -19054,7 +19054,7 @@
     passive_skill: "401001,401002,401003,401004,401005,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 183
   }
   {
@@ -19081,7 +19081,7 @@
     passive_skill: "400801,400901,400902,400903,200303,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 184
   }
   {
@@ -19105,9 +19105,9 @@
     character: 엘리트,에이전트
     normal_attack: 402905
     passive_skill: "402901,402915,402916,402917,402906,402907,402908,402918,119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 185
   }
   {
@@ -19134,7 +19134,7 @@
     passive_skill: "400201,200303,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 186
   }
   {
@@ -19161,7 +19161,7 @@
     passive_skill: "400201,200303,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 186
   }
   {
@@ -19189,7 +19189,7 @@
     passive_skill: "402201,401911,401912,200303,119029"
     effect_ratio: 1.05
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 187
   }
   {
@@ -19217,7 +19217,7 @@
     passive_skill: "402201,401911,401912,200303,119029"
     effect_ratio: 1.05
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 187
   }
   {
@@ -19245,7 +19245,7 @@
     passive_skill: "401101,400701,401104,200303,119029"
     effect_ratio: 1.55
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 188
   }
   {
@@ -19270,9 +19270,9 @@
     character: 엘리트,드리머
     normal_attack: 300311
     passive_skill: "119029"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 189
   }
   {
@@ -19298,7 +19298,7 @@
     passive_skill: "400301,200303,119029"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 190
   }
   {
@@ -19324,7 +19324,7 @@
     passive_skill: "400301,200303,119029"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 190
   }
   {
@@ -19351,7 +19351,7 @@
     passive_skill: "400601,119029"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 191
   }
   {
@@ -19378,7 +19378,7 @@
     passive_skill: "400601,119029"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 191
   }
   {
@@ -19405,7 +19405,7 @@
     passive_skill: "400401,119029"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 192
   }
   {
@@ -19432,7 +19432,7 @@
     passive_skill: "402301,402302,402303,200303,119029"
     effect_ratio: 1.15
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 193
   }
   {
@@ -19458,7 +19458,7 @@
     passive_skill: "400301,200303,119029"
     effect_ratio: 1.5
     voice: "1,2"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 190
   }
   {
@@ -19485,7 +19485,7 @@
     passive_skill: "400201,200303,119029"
     effect_ratio: 1.5
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 186
   }
   {
@@ -19509,9 +19509,9 @@
     character: 엘리트
     normal_attack: 120301
     passive_skill: "120304,120305,120307,120308,119029,120302,120313,120309"
-    effect_ratio: 1.0
+    effect_ratio: 1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 194
   }
   {
@@ -19529,8 +19529,8 @@
     level: 100
     normal_attack: 700001
     passive_skill: "700341,700342,700344,700901,700902,700903,700904,700905,700906,700907,700908,700909,700910,700911,700912,700913,700914,700915,700916,700917,700918,700919,700920,700921,700922,700923,700924,700925,700926,700927,700928,700929,700930,700215,700216"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910102
@@ -19547,8 +19547,8 @@
     level: 100
     normal_attack: 700001
     passive_skill: "700336,700337,700338,700339,700340,700343,700217,700218"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910103
@@ -19565,8 +19565,8 @@
     level: 100
     normal_attack: 700001
     passive_skill: "700331,700332,700333,700334,700335,700343"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910104
@@ -19583,8 +19583,8 @@
     level: 100
     normal_attack: 700001
     passive_skill: "700321,700322,700324,700901,700902,700903,700904,700905,700906,700907,700908,700909,700910,700911,700912,700913,700914,700915,700916,700917,700918,700919,700920,700921,700922,700923,700924,700925,700926,700927,700928,700929,700930,700215,700216"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910105
@@ -19601,8 +19601,8 @@
     level: 100
     normal_attack: 700001
     passive_skill: "700311,700312,700313,700314,700315,700316,700317,700318,700319,700320,700323,700217,700219"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910106
@@ -19619,8 +19619,8 @@
     level: 100
     normal_attack: 700001
     passive_skill: "700301,700302,700303,700304,700305,700306,700307,700308,700309,700310,700323"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910107
@@ -19637,8 +19637,8 @@
     level: 100
     normal_attack: 700001
     passive_skill: "700375,700376,700378,700901,700902,700903,700904,700905,700906,700907,700908,700909,700910,700911,700912,700913,700914,700915,700916,700917,700918,700919,700920,700921,700922,700923,700924,700925,700926,700927,700928,700929,700930,700215,700216"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910108
@@ -19655,8 +19655,8 @@
     level: 100
     normal_attack: 700001
     passive_skill: "700363,700364,700365,700366,700367,700368,700369,700370,700371,700372,700373,700374,700377,700217,700220"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910109
@@ -19673,8 +19673,8 @@
     level: 100
     normal_attack: 700001
     passive_skill: "700351,700352,700353,700354,700355,700356,700357,700358,700359,700360,700361,700362,700377"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910110
@@ -19691,8 +19691,8 @@
     level: 100
     normal_attack: 700001
     passive_skill: "700404,700405,700407,700901,700902,700903,700904,700905,700906,700907,700908,700909,700910,700911,700912,700913,700914,700915,700916,700917,700918,700919,700920,700921,700922,700923,700924,700925,700926,700927,700928,700929,700930,700215,700216"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910111
@@ -19709,8 +19709,8 @@
     level: 100
     normal_attack: 700001
     passive_skill: "700397,700398,700399,700400,700401,700402,700403,700406,700217,700221"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910112
@@ -19727,8 +19727,8 @@
     level: 100
     normal_attack: 700001
     passive_skill: "700390,700391,700392,700393,700394,700395,700396,700406"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910113
@@ -19745,8 +19745,8 @@
     level: 100
     normal_attack: 700001
     passive_skill: "700434,700435,700437,700901,700902,700903,700904,700905,700906,700907,700908,700909,700910,700911,700912,700913,700914,700915,700916,700917,700918,700919,700920,700921,700922,700923,700924,700925,700926,700927,700928,700929,700930,700215,700216"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910114
@@ -19763,8 +19763,8 @@
     level: 100
     normal_attack: 700001
     passive_skill: "700427,700428,700429,700430,700431,700432,700433,700436,700217,700222"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910115
@@ -19781,8 +19781,8 @@
     level: 100
     normal_attack: 700001
     passive_skill: "700420,700421,700422,700423,700424,700425,700426,700436"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910116
@@ -19805,10 +19805,10 @@
     level: 100
     normal_attack: 403303
     passive_skill: "109408,109409"
-    effect_ratio: 9.0
+    effect_ratio: 9
     unable_buff_type: "221"
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 910117
@@ -19824,8 +19824,8 @@
     def: 99999
     level: 100
     normal_attack: 700001
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910118
@@ -19841,8 +19841,8 @@
     def: 99999
     level: 100
     normal_attack: 700001
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910119
@@ -19858,8 +19858,8 @@
     def: 99999
     level: 100
     normal_attack: 700001
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910120
@@ -19875,8 +19875,8 @@
     def: 99999
     level: 100
     normal_attack: 700001
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910121
@@ -19892,8 +19892,8 @@
     def: 99999
     level: 100
     normal_attack: 700001
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910122
@@ -19909,8 +19909,8 @@
     def: 99999
     level: 100
     normal_attack: 700001
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910123
@@ -19926,8 +19926,8 @@
     def: 99999
     level: 100
     normal_attack: 700001
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910124
@@ -19943,8 +19943,8 @@
     def: 99999
     level: 100
     normal_attack: 700001
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910125
@@ -19960,8 +19960,8 @@
     def: 99999
     level: 100
     normal_attack: 700001
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910126
@@ -19977,8 +19977,8 @@
     def: 99999
     level: 100
     normal_attack: 700001
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
   }
   {
     id: 910127
@@ -19995,8 +19995,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 900107
     passive_skill: "406701,406702,406704,406707,406708,406709,406710,406713,406715,406716,406717,406718,406719,406720,406721,406723,406724,406725,406726,406835,406836,406837,406838,406839,406840,406841,406727,406802,406844"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -20014,8 +20014,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 900107
     passive_skill: "406843,406702,406704,406707,406708,406709,406710,406713,406715,406716,406717,406718,406719,406720,406721,406723,406724,406725,406726,406835,406836,406837,406838,406839,406840,406841,406727,406802,406844"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -20036,8 +20036,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 900107
     passive_skill: "406911"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -20058,8 +20058,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 900107
     passive_skill: "406919"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -20080,8 +20080,8 @@
     character: 엘리트,훈련 전용
     normal_attack: 900107
     passive_skill: "406920"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
   {
@@ -20106,7 +20106,7 @@
     passive_skill: "701009,701011,721012,721013,721014,721015,721016,721017,701023,701024,701026,701030,721027,721028,721029,721031,721043,721045"
     effect_ratio: 1.1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 910133
@@ -20130,7 +20130,7 @@
     passive_skill: "701009,701047,721012,721013,721014,721015,721016,721017,701023,701024,701048,701030,721027,721028,721029,721031,721043,721049"
     effect_ratio: 1.1
     voice: "1,2,3"
-    deployment_scale: 1.0
+    deployment_scale: 1
   }
   {
     id: 910134
@@ -20152,7 +20152,7 @@
     normal_attack: 118108
     passive_skill: "118109,118110,118111,118114,118119,118120"
     effect_ratio: 0.75
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 46
   }
   {
@@ -20201,7 +20201,7 @@
     passive_skill: "118402"
     effect_ratio: 0.97
     able_buff_id: "133,135,136,137,3918"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 47
   }
   {
@@ -20224,7 +20224,7 @@
     normal_attack: 118108
     passive_skill: "118109,118110,118111,118114,118119,118120"
     effect_ratio: 0.75
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 46
   }
   {
@@ -20247,7 +20247,7 @@
     normal_attack: 118501
     passive_skill: "118502,118503,118504,118505,118506,118507"
     effect_ratio: 1.4
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 143
   }
   {
@@ -20271,7 +20271,7 @@
     passive_skill: "118601,118602"
     effect_ratio: 0.82
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 151
   }
   {
@@ -20293,9 +20293,9 @@
     character: 고위협,투척,대기계
     normal_attack: 118108
     passive_skill: "118109,118110,118111,118114,118119,118120,118701"
-    effect_ratio: 1.0
+    effect_ratio: 1
     able_buff_id: "133,135,136,137,3918,8034"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 134
   }
   {
@@ -20318,7 +20318,7 @@
     normal_attack: 118108
     passive_skill: "118109,118110,118111,118114,118119,118120,118170"
     effect_ratio: 0.75
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 46
   }
   {
@@ -20340,9 +20340,9 @@
     level: 30100
     character: 장갑,제조
     normal_attack: 900107
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 84
   }
   {
@@ -20364,9 +20364,9 @@
     level: 30100
     character: 장갑,제조
     normal_attack: 900107
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 84
   }
   {
@@ -20388,9 +20388,9 @@
     level: 30100
     character: 장갑,제조
     normal_attack: 900107
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 84
   }
   {
@@ -20412,9 +20412,9 @@
     level: 30100
     character: 장갑,제조
     normal_attack: 900107
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 84
   }
   {
@@ -20436,9 +20436,9 @@
     level: 30100
     character: 장갑,제조
     normal_attack: 900107
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 84
   }
   {
@@ -20460,9 +20460,9 @@
     level: 30100
     character: 장갑,제조
     normal_attack: 900107
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 84
   }
   {
@@ -20484,9 +20484,9 @@
     level: 30100
     character: 장갑,제조
     normal_attack: 900107
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 84
   }
   {
@@ -20508,9 +20508,9 @@
     level: 30100
     character: 장갑,제조
     normal_attack: 900107
-    effect_ratio: 1.0
+    effect_ratio: 1
     unable_buff_type: "221"
-    deployment_scale: 1.0
+    deployment_scale: 1
     enemy_illustration_id: 84
   }
   {
@@ -20527,8 +20527,8 @@
     character: 훈련전용
     normal_attack: 300301
     passive_skill: "755000"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 100036
   }
   {
@@ -20547,8 +20547,8 @@
     character: 엘리트
     normal_attack: 900107
     passive_skill: "119804,119805,119807,119810,119811,119816"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 180
   }
   {
@@ -20570,8 +20570,8 @@
     character: 엘리트,사격,투척
     normal_attack: 900107
     passive_skill: "901085,901088,901089,901095,901096,902101,902102,902110"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 100026
   }
   {
@@ -20593,8 +20593,8 @@
     character: 엘리트,사격,투척
     normal_attack: 900107
     passive_skill: "901085,901088,901090,901095,902104,902101,902102,902111,902118,902119"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 100025
   }
   {
@@ -20610,8 +20610,8 @@
     character: 엘리트,훈련용
     normal_attack: 300301
     passive_skill: "903255,903256,903257,903258,903259,903260,903261,903262,903263,903264,903265,903266,903267"
-    effect_ratio: 1.0
-    deployment_scale: 1.0
+    effect_ratio: 1
+    deployment_scale: 1
     enemy_illustration_id: 1
   }
 ]
