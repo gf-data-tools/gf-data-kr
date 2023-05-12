@@ -3167,6 +3167,31 @@
     color_icon_id: "942,943,944,945,946,947"
   }
   {
+    id: 5210
+    name: 유황불 마법사 모자
+    description: 촛불에 유황불이 타오르는 모자. 사악한 귀신의 침입을 막을 수 있다고 합니다. "죄인은 사후 어디로 가는가? 그들은 저 하늘나라 천당에 가지 못하고 유황불이 타오르는 지옥에 떨어진다."
+    code: Head
+    icon: commander_5210_icon
+    type: 1
+    uniform_class: "52"
+    color_normal: Commander_5210_N
+    color_icon_id: "948"
+  }
+  {
+    id: 5320
+    name: 축제의 실크햇
+    description: 소녀들이 함께 지휘관에게 만들어준 축제 모자입니다. 다만 AUG가 꽃 꽃을 더하자고, 카르카노는 깃을 붙이자고, M9은 반짝반짝하는 별을 달자고 고집을 부려서, 장식이 덕지덕지 붙은 보물창고가 됐습니다. 양이 엄청나니까 착용 시 목뼈를 꼭 조심하세요.
+    code: HeadAcco
+    icon: commander_5320_icon
+    type: 2
+    uniform_class: "53"
+    color_normal: Commander_5320_N
+    bone_name: HairBinder2
+    scale: 0.2
+    position: "-0.134,0.852"
+    color_icon_id: "949"
+  }
+  {
     id: 9920
     name: 활기찬 위장
     description: 언제나 가장 좋은 모습으로.

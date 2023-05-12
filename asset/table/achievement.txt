@@ -3130,3 +3130,12 @@ achievement-30001069,
 achievement-10001070,영원한 밤의 방황
 achievement-20001070,회색지대 탐사에서 기우의 땅을 1000회 밟는다.
 achievement-30001070,
+achievement-10001071,발 디딜 틈 없이
+achievement-20001071,만성쇼크-SUM 삶이란 투쟁이다-UX: 폐건물을 4개 폭파하고 클리어.
+achievement-30001071,
+achievement-10001072,저승사자와 손뼉치기
+achievement-20001072,만성쇼크-AUT 죽음의 섬: 노멀 난이도에서 요원 인질을 2명 구출하거나//c 악몽 난이도에서 3명 구출.
+achievement-30001072,
+achievement-10001073,계곡 밑의 메아리
+achievement-20001073,만성쇼크 스태프롤을 끝까지 보기.
+achievement-30001073,

@@ -802,6 +802,62 @@ enemy_illustration-10000199,저지
 enemy_illustration-20000199,지휘 능력에 편중되어//c 철혈 본부의 방어 및 보안 시스템을 담당한다. 나비 사건 이후 제작되어 오직 엘리사의 명령만 따르는 호위 무사 같은 인형이다. 엄숙하고 융통성이 없는 성격으로//c 군인 같은 위엄과 패기를 보여준다. 하지만 몸집이 작아 얕보이기 쉬워//c 이걸 가지고 놀리는 건 적이든 아군이든 상관없이 철저하게 응징한다. 엘리사에겐 절대복종하며//c 성격이 다른 드리머를 상대론 골머리가 아프다.
 enemy_illustration-30000199,회색지대에서 서성이는 적입니다. 신중하게 대응하세요!
 enemy_illustration-40000199,
+enemy_illustration-10000200,아라크네
+enemy_illustration-20000200,거미형 작전 로봇 모체//c 높은 안정성과 기동성을 지니고//c 다량의 소형 작전 로봇을 탑재해//c 공성전과 조우전에서 상당히 위협적인 적이다.
+enemy_illustration-30000200,높은 장갑을 지녔으며//c 복제 개체를 만들어 전투를 방해합니다. 본체에도 어느 정도 방어 능력이 있으니 제대 전체 작전 능력을 높여 상대하세요.
+enemy_illustration-40000200,
+enemy_illustration-10000201,아라크네 클론
+enemy_illustration-20000201,거미형 소형 작전 로봇. 매우 높은 기동력과 공격 성능을 지녀//c 생물과 기계 유닛 모두에게 효과적인 살상력을 발휘한다. 수량이 많고 민첩한 공포의 대상이다.
+enemy_illustration-30000201,높은 회피를 지녔으며 아군 제대에 빠르게 접근합니다. 전투 초기에 신속하게 처리할 수 있도록 주의하세요.
+enemy_illustration-40000201,
+enemy_illustration-10000202,트로이
+enemy_illustration-20000202,요새형 초중량급 작전 로봇. 육전 부대 수송 차량으로도 쓰이는 동시//c 자체적으로도 전략급의 공성 능력을 가지고 있어//c 전장 전체에 영향을 줄 수 있는 고급 작전 유닛이다.
+enemy_illustration-30000202,이 유닛은 매우 강력한 방어력과 상당한 범위 공격 능력을 가지고 있어 우선적으로 처치하는 것을 권장합니다.
+enemy_illustration-40000202,
+enemy_illustration-10000203,메카닉
+enemy_illustration-20000203,공병형 인형 작전 유닛. 자체적인 파괴력이나 살상력은 높지 않지만//c 지원 유닛으로서 성가시다. 곁의 드론이 실시간으로 전장 상황을 지켜본다.
+enemy_illustration-30000203,이 유닛은 끊임 없이 드론을 제작해 작전을 보조합니다. 소모전에 끌려가지 않도록 주의하세요.
+enemy_illustration-40000203,
+enemy_illustration-10000204,라돈
+enemy_illustration-20000204,패러데우스가 생산한 최신형 초중량급 기갑 유닛. 가히 만능이라 할 수 있는 작전 능력을 지녀//c 모든 거리의 전투에서 상대하기 힘든 파괴력을 자랑하는 무시무시한 상대다.
+enemy_illustration-30000204,높은 장갑을 지녔으며//c 빈틈 없는 작전 능력을 지녔습니다. 처치할 타이밍을 적절하게 선택하세요.
+enemy_illustration-40000204,
+enemy_illustration-10000205,빔 거너
+enemy_illustration-20000205,헤비거너와 비슷하면서도 더욱 강력한 화력을 탑재했다. 너무나도 무거운 화기에 기동력이 다소 감소한 것이 대가다.
+enemy_illustration-30000205,이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+enemy_illustration-40000205,
+enemy_illustration-10000206,사나
+enemy_illustration-20000206,패러데우스의 엘리트 유닛. 겉보기는 연약한 소녀 같지만 특수한 가면을 쓰고 전용 메카에 탑승하면 상대에겐 도망치는 선택지 밖에 안 남을 것이다.
+enemy_illustration-30000206,매우 강력한 전투 방해 능력을 지녔으니 상대할 제대 편성을 신중하게 정하세요.
+enemy_illustration-40000206,
+enemy_illustration-10000207,강글라티
+enemy_illustration-20000207,패러데우스의 정체불명 암살자. 기계와 인간 육체를 조립해서 만들어진 기괴한 피조물. 그에게 사용된 기술은 다른 패러데우스 유닛하고도 조금 다른 점이 있다.
+enemy_illustration-30000207,매우 강력한 척살 능력을 지녔으니 상대할 제대 편성을 신중하게 정하세요.
+enemy_illustration-40000207,
+enemy_illustration-10000208,M4A1 더미
+enemy_illustration-20000208,M4A1의 더미. 본체의 우유과단함이 없어 명령에 절대 복종한다.
+enemy_illustration-30000208,정보 불명. 신중하게 대응하세요!
+enemy_illustration-40000208,
+enemy_illustration-10000209,AR15 더미
+enemy_illustration-20000209,AR15의 더미. 냉소하지 않는 것만 빼면 본체와 그리 다르지 않다.
+enemy_illustration-30000209,정보 불명. 신중하게 대응하세요!
+enemy_illustration-40000209,
+enemy_illustration-10000210,SOP2 더미
+enemy_illustration-20000210,SOP2의 더미. 본체와 행동 로직이 완전히 똑같고//c 웃음소리도 똑같이 소름끼친다.
+enemy_illustration-30000210,정보 불명. 신중하게 대응하세요!
+enemy_illustration-40000210,
+enemy_illustration-10000211,M16A1
+enemy_illustration-20000211,특별한 사명과 권한을 가진 M16A1. 중요한 갈림길에서 언제나 정신을 다잡고 AR팀을 올바른 길로 밀어준다.
+enemy_illustration-30000211,정보 불명. 신중하게 대응하세요!
+enemy_illustration-40000211,
+enemy_illustration-10000212,경비단 총잡이
+enemy_illustration-20000212,베슬란 경비단의 주요 무장 인력. 극단주의자들로 이루어져//c 정식 전술지도 및 훈련을 받아 총기를 능숙하게 다룰 수 있어//c 폭동에서 주력을 맡는다.
+enemy_illustration-30000212,이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+enemy_illustration-40000212,
+enemy_illustration-10000213,허약한 아스클레피오스의 지팡이
+enemy_illustration-20000213,기총을 사용하는 중화력 인형 유닛. 휴대한 기총은 에너지 충전 후 플라즈마 빔을 3발 쏘아 적을 실명시킨다. 【아케소의 접시】를 장착하면 위력이 급상승한다. 지금은 허약 상태로 화력이 떨어졌다.
+enemy_illustration-30000213,이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+enemy_illustration-40000213,
 enemy_illustration-10100011,방패수
 enemy_illustration-20100011,상정하지 않은 적.
 enemy_illustration-30100011,해당 유닛은 아군에게 접근하고 스킬을 사용하니 신속히 처치합시다.

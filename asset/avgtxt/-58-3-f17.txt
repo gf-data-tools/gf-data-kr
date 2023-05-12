@@ -1,80 +1,80 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑点2><BIN>569</BIN><BGM>Campaion-58-2</BGM>:阿佛那斯 识底深湖
-()||:艾莉安娜牵着安娜，向着湖底尽头走去。+那是比蓝色还要深沉的无边的深黑。
-NPC-SCAR-L(2)<Speaker>艾莉安娜</Speaker>||:我突然想明白了，想明白为什么会是制作尚不完美的我们，去解决“死罪”。
-NPC-Ange(33)<Speaker>安娜</Speaker>||:为什么？
-NPC-SCAR-L(2)<Speaker>艾莉安娜</Speaker>||:……这套能量循环体系，跟“军牌”的逻辑如出一辙。+都是通过消耗同类，来获得某种力量。
-NPC-SCAR-L(2)<Speaker>艾莉安娜</Speaker>||:真是可笑——+直到今天，我才明白。+难怪我能被吸引进来……+它把我当成了……这里的同类。+我没想过，原来这种设计……真的有派上用场的一天……+哈——我找到它的破解之法了。
-NPC-Ange(34)<Speaker>安娜</Speaker>||:你别哭……
-NPC-SCAR-L(2)<Speaker>艾莉安娜</Speaker>||:我没有哭。+我是开心，很开心地笑着。
-NPC-Ange(34)<Speaker>安娜</Speaker>||:……可是你流泪了。
+()||<黑点2><BIN>569</BIN><BGM>Campaion-58-2</BGM>:아베르누스, 의식의 호수.
+()||:엘리아나는 안나의 손을 끌고서 호수 바닥 끝으로 걸어갔다.+그곳은 푸른 색보다 짙고 깊은 검은 색이었다.
+NPC-SCAR-L(2)<Speaker>엘리아나</Speaker>||:갑자기 깨달았어, 왜 아직 완벽하지 않았던 우리가 "사형수"를 처리하러 보내진 건지.
+NPC-Ange(33)<Speaker>안나</Speaker>||:왜인데?
+NPC-SCAR-L(2)<Speaker>엘리아나</Speaker>||:...이 에너지 순환 체계, "군번줄"의 원리하고 판박이야.+똑같이 동류를 소모하여 어떤 힘을 얻는 방식이야.
+NPC-SCAR-L(2)<Speaker>엘리아나</Speaker>||:웃음이 다 나오네——+이제서야 깨닫다니.+그래서 내가 여기에 끌려들어온 거야...+이게 나를... 이곳의 동류인 줄 안 거야.+설마 이런 설계가 이렇게 쓸모를 발휘하게 될 줄은 꿈에도 몰랐어...+하하... 파해법을 알겠다.
+NPC-Ange(34)<Speaker>안나</Speaker>||:울지 마...
+NPC-SCAR-L(2)<Speaker>엘리아나</Speaker>||:안 울었어.+기쁜 거야, 아주 기뻐서 웃고 있어.
+NPC-Ange(34)<Speaker>안나</Speaker>||:...그런데 눈물 흘리잖아.
 ()||<白屏1>:
 ()||<白屏2><BIN>642</BIN>:
-()<Speaker>艾莉安娜</Speaker>||<CGDelay>1</CGDelay>:原来那个时候，大家是怀着这种心情死去的……
+()<Speaker>엘리아나</Speaker>||<CGDelay>1</CGDelay>:그때, 다들 죽기 전에 이런 심정이었던 거구나...
 ()||<白屏1>:
 ()||<白屏2><BIN>568</BIN><回忆>:
-()<Speaker>曙光小队研究人员</Speaker>||:她的每一项数值都很优越，一定可以配得上我们为她们赋予的含义。+迈特纳教授，您一直为这个项目提供了非常多的帮助，请您帮她取个名字吧。
-NPC-Laplace(0)<Speaker>玛莎·迈特纳</Speaker>||:照亮黑夜的那一寸曙光……她既然是这个队伍第一个孩子……+让她做太阳吧。
-NPC-Laplace(0)<Speaker>玛莎·迈特纳</Speaker>||:希望她可以帮助我们……结束这一切……
-NPC-Laplace(0)<Speaker>玛莎·迈特纳</Speaker>||:那就叫“艾莉安娜”吧，太阳的孩子，神回应的礼物。
+()<Speaker>서광팀 연구원</Speaker>||:측정 수치가 하나같이 예상 초과야. 이거라면 우리가 그들에게 부여한 의미에 걸맞는 모습을 보이겠죠!+마이트너 교수, 이 프로젝트에 참 많은 도움을 주신 분이니 대신 이름을 지어주시죠.
+NPC-Laplace(0)<Speaker>마사 마이트너</Speaker>||:밤을 비추는 서광... 팀의 첫 번째 아이니까...+이 애에게 태양을 맡기자.
+NPC-Laplace(0)<Speaker>마사 마이트너</Speaker>||:부디 얘가 우리를 도와, 전부 끝내 줄 수 있기를...
+NPC-Laplace(0)<Speaker>마사 마이트너</Speaker>||:그럼 이름을 "엘리아나"로 하자. 태양의 아이, 하늘이 내린 선물.
 ()||<黑点1>:
-()||<黑点2><BIN>9</BIN><关闭蒙版>:……
+()||<黑点2><BIN>9</BIN><关闭蒙版>:......
 ()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>202</BIN>:……“死海”附近，艾莫号。
-AR18(2)<Speaker>AR18</Speaker><Position>0,120</Position>||:指挥官，中心发来信号。+穆罗梅茨行动已经超时。+雨已经停了，目前辐射浓度很低，空中视野很好。+为了确保目标完成，克琳希德行动已经启动。+穆罗梅茨行动组必须在10分钟内退场。
-AR18(2)<Speaker>指挥官</Speaker><Position>0,120</Position><同时置暗>||:<size=50>但安洁还在里面！</size>
-AR18(2)<Speaker>AR18</Speaker><Position>0,120</Position>||:……现在通知行动所有成员寻找雨伞。
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:滴——
-()<Speaker></Speaker>||:指挥官接通帕斯卡的通讯。
-NPC-Persica(0)<Speaker>帕斯卡</Speaker><通讯框>||:<color=#00CCFF>……指挥官。</color>+<color=#00CCFF>铁腕心率，已归零。</color>
-()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_XXS_kick</SE1>:嘭——指挥官颓然坐回了椅子，手中的咖啡将桌上的资料全部浸染。
-AR18(5)<Speaker>AR18</Speaker><Position>0,120</Position>||:指挥官，请节哀。
-AR18(5)<Speaker>指挥官</Speaker><Position>0,120</Position><同时置暗>||:……
-AR18(5)<Speaker>AR18</Speaker><Position>0,120</Position>||<SE1>AVG_tele_connect</SE1>:狼群刚刚传来信号，已经收获目标。
-()<Speaker>指挥官</Speaker>||:……好。
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:指挥官缓缓将咖啡杯扶起，盯着深褐色的液体将纸上的一切全部吞没。
-()<Speaker>指挥官</Speaker>||:通知穆罗梅茨全体撤退。
-AR18(2)<Speaker>AR18</Speaker><Position>0,120</Position>||:是。
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:指挥官接通了空管中心。
-()<Speaker>指挥官</Speaker>||:这里是艾莫号。
-QBU-191(0)<Speaker>QBU-191</Speaker><通讯框>||:<color=#00CCFF>指挥官，请指示。</color>
-QBU-191(0)<Speaker>指挥官</Speaker><同时置暗>||:十分钟后，我将激活密匙。
-QBU-191(0)<Speaker>QBU-191</Speaker><通讯框>||:<color=#00CCFF>收到，感谢您为今天所做的一切。</color>
-()<Speaker></Speaker>||<SE1>Rope</SE1><BGM>BGM_Empty</BGM>:指挥官挂断了通讯，将脸埋入了掌中。
+()<Speaker></Speaker>||<黑屏2><BIN>202</BIN>:...죽음의 바다 근처, 엘모 호.
+AR18(2)<Speaker>AR18</Speaker><Position>0,120</Position>||:지휘관, 센터에서 신호가 왔습니다.+무로메츠 작전 시간을 초과했습니다.+비가 막 그쳐 현재 복사 농도가 낮아졌고 가시성도 매우 좋습니다.+목표 달성을 보장하기 위해 크림힐테 작전이 이미 가동했습니다.+무로메츠 작전은 반드시 10분 안에 철수해야 합니다.
+AR18(2)<Speaker>지휘관</Speaker><Position>0,120</Position><同时置暗>||:<size=50>아직 안젤리아 씨가 안에 있어!</size>
+AR18(2)<Speaker>AR18</Speaker><Position>0,120</Position>||:...모든 작전 멤버에게 우산을 수색하라 전달하겠습니다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:삐이...
+()<Speaker></Speaker>||:지휘관이 페르시카의 통신을 받았다.
+NPC-Persica(0)<Speaker>페르시카</Speaker><通讯框>||:<color=#00CCFF>...지휘관.</color>+<color=#00CCFF>철완 심박수가... 0이 됐어.</color>
+()<Speaker></Speaker>||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake><SE1>AVG_XXS_kick</SE1>:털썩. 지휘관은 의자에 넋없이 주저 앉았다. 손 안의 커피는 엎질러져 탁상의 자료가 흠뻑 젖었다.
+AR18(5)<Speaker>AR18</Speaker><Position>0,120</Position>||:지휘관, 너무 상심하지 마시길.
+AR18(5)<Speaker>지휘관</Speaker><Position>0,120</Position><同时置暗>||:......
+AR18(5)<Speaker>AR18</Speaker><Position>0,120</Position>||<SE1>AVG_tele_connect</SE1>:방금 울프팩에서 신호가 왔습니다. 목표를 확보했답니다.
+()<Speaker>지휘관</Speaker>||:...그래.
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:지휘관은 넘어진 커피잔을 천천히 세웠고, 갈색 액체가 종이의 모든 것을 삼키는 것을 지켜봤다.
+()<Speaker>지휘관</Speaker>||:무로메츠 전원에게 철수 지시해.
+AR18(2)<Speaker>AR18</Speaker><Position>0,120</Position>||:예.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1>:지휘관은 관제탑에 연결했다.
+()<Speaker>지휘관</Speaker>||:여기는 엘모 호.
+QBU-191(0)<Speaker>QBU-191</Speaker><通讯框>||:<color=#00CCFF>분부하시죠, 지휘관.</color>
+QBU-191(0)<Speaker>지휘관</Speaker><同时置暗>||:10분 후 권한키를 활성화하겠다.
+QBU-191(0)<Speaker>QBU-191</Speaker><通讯框>||:<color=#00CCFF>알겠습니다. 오늘 귀하의 노고에 대단히 감사드립니다.</color>
+()<Speaker></Speaker>||<SE1>Rope</SE1><BGM>BGM_Empty</BGM>:지휘관은 통신을 끊고 얼굴을 손 안에 파묻었다.
 ()||<黑屏1>:
-()||<黑屏2><SE1>AVG_AMB_Wind</SE1><BGM>GF_21summer_avg_Demon</BGM><Night><BIN>232</BIN>:东塔，塔顶。+夜风呼啸刮过天台，吹得尼梅兰的衣摆猎猎作响。
-NPC-Sana(8)<Speaker>纱那</Speaker>||<SE1>Stop_AVG_loop</SE1>:默莉朵都走了，你为什么不走？
-NPC-Nemhran(0)<Position>0,30</Position><Speaker>尼梅兰</Speaker>||:飞行器坐满了。
-NPC-Sana(8)<Speaker>纱那</Speaker>||:停机坪上还有一台。
-NPC-Nemhran(0)<Position>0,30</Position><Speaker>尼梅兰</Speaker>||:纱那，一起走吗？
-NPC-Nemhran(0)<Position>0,30</Position><Speaker>尼梅兰</Speaker>||:算了……我知道这不可能。+我们还需要再拖延一段时间。
-NPC-Sana(9)<Speaker>纱那</Speaker>||:她从没当我是女儿。+就像，你从来也不是他的母亲。
-NPC-Sana(9);NPC-Nemhran(0)<Position>0,30</Position><Speaker>尼梅兰</Speaker>||:……我们别无选择。
-NPC-Sana(8)<Speaker>纱那</Speaker>;NPC-Nemhran(0)<Position>0,30</Position>||:飞行器是不是能载两个人？
-NPC-Sana(8);NPC-Nemhran(0)<Position>0,30</Position><Speaker>尼梅兰</Speaker>||:嗯？
-NPC-Sana(8)<Speaker>纱那</Speaker>;NPC-Nemhran(0)<Position>0,30</Position>||:我们要不要随便去哪里转转？
-NPC-Sana(8);NPC-Nemhran(0)<Position>0,30</Position><Speaker>尼梅兰</Speaker>||:……去哪里都会被找到。
-NPC-Sana(8)<Speaker>纱那</Speaker>;NPC-Nemhran(0)<Position>0,30</Position>||:一小会，一小会自由也行。
-NPC-Sana(8);NPC-Nemhran(0)<Position>0,30</Position><Speaker>尼梅兰</Speaker>||:像玛赫莲那样吗？
-NPC-Sana(8)<Speaker>纱那</Speaker>;NPC-Nemhran(0)<Position>0,30</Position>||:你来开吧，我从来没离开过福音枢椎。
-NPC-Nemhran(0)<Position>0,30</Position><Speaker>尼梅兰</Speaker>||:……好。
-()||<SE1>AVG_BaseDoor_Open</SE1>:两人乘上飞行器。+纱那的脸上露出快乐的笑容。+她的手里举着一朵干燥的，真正的，玛格丽特。
-NPC-Sana(8)<Speaker>纱那</Speaker>||:真奇怪，我用了纱那的名字，也保留着纱那的记忆。+但我，和她的喜好以及性格，好像都不一样。
-NPC-Sana(8)<Speaker>纱那</Speaker>||:我可不会对鲜花过敏。
-()||<SE1>ClothingUp</SE1>:纱那把花小小整理了一下，仿佛新鲜的模样。
-NPC-Sana(8)<Speaker>纱那</Speaker>||:你看，花开了。
-()||<SE1>AVG_Team_Running</SE1>:楼梯间忽然传来急促的奔跑声。
-NPC-Sana(9)<Speaker>纱那</Speaker>||:快开！
-()||<SE1>AVG_Jet_Speedup</SE1>:尼梅兰不再犹豫，飞行器慢慢起飞。+纱那却站了起来。
-NPC-Nemhran(0)<Position>0,30</Position><Shake>0.1</Shake><Speaker>尼梅兰</Speaker>||:纱那！你干什么？
-NPC-Sana(9)<Speaker>纱那</Speaker>||:我本来，就是地狱的守门人。+我其实离不开这个福音枢椎。
-NPC-Nemhran(0)<Position>0,30</Position><Speaker>尼梅兰</Speaker>||:不——
-()||<SE1>AVG_Cloak_Whoosh</SE1>:纱那朝尼梅兰微微一笑。+转身跳了下去。
-()||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:尼梅兰忍不住往下一捞。+拉住了她的手。+纱那的脸上却带着一丝丝幸福。
-NPC-Sana(8)<Speaker>纱那</Speaker>||<SE1>Rope</SE1>:我是谁？
-()<Speaker>尼梅兰</Speaker>||:……你就是你。
-NPC-Sana(8)<Speaker>纱那</Speaker>||:再见，妈妈……+我爱你……
-()||<SE1>ClothingUp</SE1>:纱那的手松了下去。
-()||<SE1>AVG_Cloak_Whoosh</SE1>:稳稳地落在东塔塔顶。
-()<Speaker>纱那</Speaker>||:我是这里，最后的守门人。
+()||<黑屏2><SE1>AVG_AMB_Wind</SE1><BGM>GF_21summer_avg_Demon</BGM><Night><BIN>232</BIN>:통탑 옥상.+밤 바람이 옥상을 휩쓸어 네메아란의 옷자락을 펄럭였다.
+NPC-Sana(8)<Speaker>사나</Speaker>||<SE1>Stop_AVG_loop</SE1>:몰리도도 갔는데 너는 왜 안 가?
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:비행기가 다 떨어져서.
+NPC-Sana(8)<Speaker>사나</Speaker>||:에이프런에 한 대 남아있던데.
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:사나, 같이 갈 거니?
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:아니다... 불가능하지.+우린 아직 시간을 조금 더 벌어야 해.
+NPC-Sana(9)<Speaker>사나</Speaker>||:그녀는 날 딸로 보지 않았어.+네가 그의 어머니가 전혀 아니었던 것처럼.
+NPC-Sana(9);NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:...우리에게 다른 선택지는 없지.
+NPC-Sana(8)<Speaker>사나</Speaker>;NPC-Nemhran(0)<Position>0,30</Position>||:비행기에 두 명 탈 수 있지?
+NPC-Sana(8);NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:응?
+NPC-Sana(8)<Speaker>사나</Speaker>;NPC-Nemhran(0)<Position>0,30</Position>||:어디 대충 돌아다니지 않을래?
+NPC-Sana(8);NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:...어디에 가든 결국 잡히고 말아.
+NPC-Sana(8)<Speaker>사나</Speaker>;NPC-Nemhran(0)<Position>0,30</Position>||:잠깐만, 아주 잠깐만 자유로워도 좋으니까.
+NPC-Sana(8);NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:마흐리안처럼 말이니?
+NPC-Sana(8)<Speaker>사나</Speaker>;NPC-Nemhran(0)<Position>0,30</Position>||:네가 운전해, 난 복음 중추에서 벗어난 적이 없으니까.
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:...그래.
+()||<SE1>AVG_BaseDoor_Open</SE1>:둘이 비행기에 탔다.+사나가 즐겁게 웃었다.+그녀의 손에는 건조한, 진정한, 마르가리타 꽃이 들려있었다.
+NPC-Sana(8)<Speaker>사나</Speaker>||:이상하지, 나는 사나의 이름을 쓰고, 사나의 기억도 가지고 있는데.+그런데 나는 그 애랑 취향도 성격도 다 다른가 봐.
+NPC-Sana(8)<Speaker>사나</Speaker>||:난 꽃에 알레르기가 없어.
+()||<SE1>ClothingUp</SE1>:사나는 그 꽃을 생생한 모습처럼 꽃잎을 정리했다.
+NPC-Sana(8)<Speaker>사나</Speaker>||:짠, 꽃이 피었다~
+()||<SE1>AVG_Team_Running</SE1>:계단에서 갑자기 바쁜 발소리가 들려왔다.
+NPC-Sana(9)<Speaker>사나</Speaker>||:빨리 가!
+()||<SE1>AVG_Jet_Speedup</SE1>:네메아란은 더 망설이지 않고 비행기를 천천히 이륙시켰다.+그런데 사나가 자리에서 일어났다.
+NPC-Nemhran(0)<Position>0,30</Position><Shake>0.1</Shake><Speaker>네메아란</Speaker>||:사나! 뭐 하는 거니?
+NPC-Sana(9)<Speaker>사나</Speaker>||:나는, 원래부터 지옥의 문지기였으니까.+사실 이 복음 중추에서 전혀 벗어날 수 없어.
+NPC-Nemhran(0)<Position>0,30</Position><Speaker>네메아란</Speaker>||:안 돼——
+()||<SE1>AVG_Cloak_Whoosh</SE1>:사나는 네메아란에게 싱긋 웃고, 뒤돌아 뛰어내렸다.
+()||<controll_shake>%%type_id=2%%duration=1%%delay=0.1%%range=8</controll_shake>:네메아란은 바로 손을 뻗었다.+사나의 손을 붙잡았다.+사나의 얼굴엔 행복한 표정이 띄어있었다.
+NPC-Sana(8)<Speaker>사나</Speaker>||<SE1>Rope</SE1>:나는 누구야?
+()<Speaker>네메아란</Speaker>||:...너는 너란다.
+NPC-Sana(8)<Speaker>사나</Speaker>||:잘 가, 엄마...+사랑해...
+()||<SE1>ClothingUp</SE1>:사나가 손을 놓았다.
+()||<SE1>AVG_Cloak_Whoosh</SE1>:그리고 동탑 옥상에 반듯이 착지했다.
+()<Speaker>사나</Speaker>||:내가 이곳의, 마지막 문지기야.
 ()||<黑点1>:

@@ -1,98 +1,98 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()||<黑屏2><BIN>239</BIN><BGM>GF_EV9_Intermission</BGM>:柏林市 新藤珀尔霍夫区 郊外
-()||:……
-()||:Q的七座SUV还停在老地方，但人却不知去向。+AK12面色凝重地回到车上。
-AK12(2) <Position>0,50</Position><Speaker>AK12</Speaker>||<SE1>AVG_20Winter_Door_Car_Close</SE1>:……抱歉，安洁，让她跑了。
-()||:安洁眉头一皱，似乎意识到了什么。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:……她在跟我们兜圈子，是故意浪费我们的时间。+别管她，现在Q也联系不上，我们只能靠自己了。
-NPC-Ange(19);AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:我有一个好消息和一个坏——
-NPC-Ange(19)<Speaker>安洁</Speaker>;AK12(0)<Position>0,50</Position>||:别废话！
-NPC-Ange(19);AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:坏消息是，我贴在格雷尾巴上的信标被发现了。+最后被摧毁的地方还在柏林市内。+好消息是，指挥官最后发来的丹德莱定位。+……跟格雷去的是同一个方向，而且可以看出她们的终点。
-NPC-Ange(19)<Speaker>安洁</Speaker>;AK12(0)<Position>0,50</Position>||:是哪？
-NPC-Ange(19);AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:……这个坐标地图无法导航。
-NPC-Ange(19)<Speaker>安洁</Speaker>;AK12(2)<Position>0,50</Position>||:……辐射区？
-NPC-Ange(19);AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:……这地方在柏林附近。
-NPC-Ange(21)<Speaker>安洁</Speaker>||:……+这让我想起了某段不愉快的回忆。+车钥匙给我，我来开。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:……可是，你开车容易伤到自己。
-()||:AK12拍了拍AN94。
-AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:你和15坐后排，我会在副驾看着她。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:知道了。
-()||<SE1>AVG_20Winter_Door_Car_Open</SE1>:两人交换了位置，安洁重新调整了椅背和后视镜，后视镜中映出了一张疲惫的面容。
-AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:你确定吗？+至少我们应该……
-NPC-Ange(19)<Speaker>安洁</Speaker>||:应该什么？
-()||:安洁看了看她。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:我知道你在想什么，但我们已经没有支援了。+如果RPK16的目的是阻止我去，那我就偏要反其道而行之。
-AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:……
-()||:AK12看了看身边，仅存的AK15与AN94两人。
-AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:就算我不同意，你还是会去，对吧？
-NPC-Ange(19)<Speaker>安洁</Speaker>||:……
-AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:那我至少不能让你自己去。
+()||<黑屏2><BIN>239</BIN><BGM>GF_EV9_Intermission</BGM>:베를린, 노이템펠호프 구역의 교외.
+()||:......
+()||:Q의 SUV는 세워뒀던 자리에 멀쩡하게 있었지만, 본인은 대체 어디로 갔는지 보이지도, 연락이 닿지도 않았다.+설상가상으로, AK-12도 낙담한 표정으로 돌아왔다.
+AK12(2) <Position>0,50</Position><Speaker>AK12</Speaker>||<SE1>AVG_20Winter_Door_Car_Close</SE1>:...미안해, 안젤리아. 놓치고 말았어.
+()||:안젤리아는 무언가 눈치를 채고 눈살을 찌푸렸다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:그 녀석... 지금 우릴 약올리면서 일부러 시간을 지체시키고 있군.+좋아, 녀석은 일단 무시한다. Q에게 연락도 안 되니 지금부터 우리끼리만으로 움직이는 수밖에.
+NPC-Ange(19);AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:좋은 소식이랑 나쁜――
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;AK12(0)<Position>0,50</Position>||:그냥 말해.
+NPC-Ange(19);AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:나쁜 소식부터 말하자면, 내가 그레이의 꼬리에 붙였던 발신기를 들켰어.+베를린을 벗어나기도 전에 파괴됐어.+좋은 소식은, 지휘관이 보낸 댄들라이의 위치 추적 기록이야.+공교롭게도 그레이랑 같은 방향이더라고. 목적지도 파악했어.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;AK12(0)<Position>0,50</Position>||:어딘데?
+NPC-Ange(19);AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:...내비에 안 찍히는 좌표.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;AK12(2)<Position>0,50</Position>||:...오염지대?
+NPC-Ange(19);AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:베를린에서 멀지는 않아.
+NPC-Ange(21)<Speaker>안젤리아</Speaker>||:......+불쾌한 기억이 떠오르는걸.+차 키 내놔. 내가 운전하겠어.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:안젤리아, 상처가 벌어질 수 있다.
+()||:AK-12는 AN-94의 어깨를 툭 치며 그녀를 다독였다.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:걱정 말고 AK-15랑 같이 뒤에 타, 내가 조수석에서 지켜볼게.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:...알았다.
+()||<SE1>AVG_20Winter_Door_Car_Open</SE1>:둘은 자리를 바꿨고, 안젤리아는 운전석에 앉아 조절하는 백미러에 피로에 절은 그녀의 얼굴이 비쳤다.
+AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:근데... 진짜 괜찮겠어?+적어도...
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:적어도 뭐.
+()||:안젤리아가 곁눈질하며 대꾸했다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:무슨 생각인진 알겠는데, 우리에게 더는 지원이 없어.+내가 그 위치로 가는 걸 막는 게 RPK의 목적이라면, 가야지. 그게 내 원칙인 거 알잖아.
+AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:......
+()||:AK-12는 뒷좌석의 AN-94와 AK-15를 슬쩍 보며 답했다.
+AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:말려도 당연히 안 들을 거지?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:그럼 적어도 너 혼자 가게 둘 순 없지.
 ()||<黑点1>:
-()||<黑点2><BIN>318</BIN><BGM>BGM_Empty</BGM>:……+柏林郊外
-()||<SE1>AVG_engine_speedup</SE1><BGM>BGM_23S_Crossroads_Warrior</BGM>:轰轰——+安洁沉默地把着方向盘，从后视镜里倒映出的表情难掩烦躁。+车窗外的风景一成不变，车窗内气氛沉闷，位置上的几人似乎也各有心事。
-AK12(4)<Position>0,50</Position><Speaker>AK12</Speaker>||:瞧瞧我们这个敢死队。+老大不仅一身都是伤，还一股脑想钻进辐射区。+没有支援，连车都是偷别人的，还想去打BOSS。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:……我心里有数。
-AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:你当然心里有数啦。+你肯定知道，靠我们这些残兵败将能做的事极其有限，对吧？
-NPC-Ange(19)<Speaker>安洁</Speaker>||:……
-()||:安洁抽了抽鼻子，连日的疲惫压得她有些喘不过气来，也懒得回应AK12的玩笑。
-AK12(3)<Position>0,50</Position><Speaker>AK12</Speaker>||:等等，停车。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:……这里是高速公路。
-AK12(2)<Speaker>AK12</Speaker><Position>0,50</Position>||:前后连个人影都没，我们现在身上背的罪过多。一条不守交通规则死不了人。+但让你接着开下去就不好说了，你的眼皮子都在打架。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:……
-()<Speaker></Speaker>||<SE1>AVG_brake</SE1><BGM>BGM_Empty</BGM>:刹——+无言中，安洁踩下了刹车。
-AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:这就对了嘛。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:我只是确保我的体力足够支撑之后的行动。
-()||<SE1>AVG_20Winter_Door_Car_Open</SE1>:打开车门，安洁下车，与后座的AK15交换了位置。
-AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:其实我的意思是换我来开……不过也行。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:……
-()||:确认引擎再次发动，安洁靠着座椅，缓缓合上双眼。
-AK15(0)<Speaker>AK15</Speaker>||:……
-()||<SE1>AVG_Button_Click</SE1>:AK15看了看后视镜，无言地打开了车载收音机。
-()||<SE1>AVG_2023Slow_ED_Phonograph_Disc</SE1>:一时间，悠扬而悦耳的旋律从中传出。+随着夜色降临，车窗外雾气渐起，竟也有了片刻难得的宁静。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:……奇怪。
-AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:怎么了？
-AN94(0)<Speaker>AN94</Speaker>||:这首曲子，我好像在哪听过……
-()||:AK12定神听了一会。
-AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:只是电台切换的常用旋律罢了，没什么特别的。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:……咦，奇怪。
-AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:又怎么了？
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:你们不觉得我们开太久了吗？+这条高速公路像是没有终点了一样，我记得来的时候没有这么长。+理论上我们应该要通过隔离墙了才对啊。
-()||<SE1>Stop_AVG_loop</SE1>:呲呲……
-()||<SE1>AVG_whitenoise</SE1>:这时，车载电台忽然发出了一阵有些诡异的电流声。
-()<Speaker>RPK16</Speaker>||:<color=#00CCFF>……你总是这么固执，安洁。</color>
-()<Speaker>RPK16</Speaker>||<BGM>BGM_23S_Expedition_Story</BGM>:<color=#00CCFF>就是因为你的莽撞决定，指挥官才会被派到柏林。</color>+<color=#00CCFF>已经有这么多人为你付出了惨痛的代价，你也不愿意反省一下吗？</color>
-AN94(2)<Position>0,50</Position><Speaker>AN94</Speaker>||:RPK！
-()<Speaker>RPK16</Speaker>||:<color=#00CCFF>你永远学不会听话，安洁。</color>+<color=#00CCFF>明明知道这是一条不归路，却一意孤行。</color>+<color=#00CCFF>所以我才不得不忠于我真正的主人。</color>
-AK12(3)<Speaker>AK12</Speaker><Position>0,50</Position>||:你真正的……？
-AK15(4)<Speaker>AK15</Speaker>||:……车子无法控制！
-AK12(3)<Speaker>AK12</Speaker><Position>0,50</Position>||:94，护住安洁！
-AK15(4)<Shake>0.1</Shake><Speaker>AK15</Speaker>||:——！
-()||<SE1>AVG_brake</SE1>:车轮一个猛地打弯，猝不及防之下，整辆车直接侧翻了过去。
-()||<SE1>Explode</SE1>:在惯性的作用下，车子直接飞出了道路——+一阵失重中，安洁感觉到自己在无限地下坠。
-NPC-Ange(22)<Speaker>安洁</Speaker>||:呃——！
+()||<黑点2><BIN>318</BIN><BGM>BGM_Empty</BGM>:......+베를린 교외.
+()||<SE1>AVG_engine_speedup</SE1><BGM>BGM_23S_Crossroads_Warrior</BGM>:부르릉——+조용히 핸들을 잡은 안젤리아는 백미러에 비치는 표정에 짜증이 가감 없이 드러났다.+창밖의 풍경은 변하질 않고 차 안의 분위기는 답답해, 각 자리에 앉은 모두가 각자 고민이 있어 보였다.
+AK12(4)<Position>0,50</Position><Speaker>AK12</Speaker>||:――어휴 진짜 못 참겠네! 이 특공대 좀 봐봐!+대장은 몸이 상처투성인데도 제발로 오염지대로 들어가려 하지! 지원은 이제 없지! 차도 훔쳐 탔지!+이 꼴로 최종보스한테 직진이라니...
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:...생각이 있어.
+AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:그야 있으니까 이러겠지요.+근데 고작 우리 몇 명으로 뭘 할 수 있을까? 한계가 명확하단 것도 아주 잘 알고 있을 텐데?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+()||:안젤리아는 신경질적으로 코를 살짝 풀었다. 며칠 내내 이어지는 피로감에 숨까지 막혀, AK-12의 농담 아닌 농담에 어울려 줄 기운도 나질 않았다.
+AK12(3)<Position>0,50</Position><Speaker>AK12</Speaker>||:...? 잠깐만 안젤리아, 차 잠깐 세워 봐.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:여긴 고속도론데.
+AK12(2)<Speaker>AK12</Speaker><Position>0,50</Position>||:우리가 여태 저지른 범죄가 얼만데 교통 법규 하나 더 어긴다고 뭐가 달라져? 지금 우리 앞뒤로 차가 한 대도 안 보인다고.+...응, 차 얼른 세워. 너 지금 눈꺼풀에 지진나서 계속 운전하게 뒀다간 진짜 큰일나겠다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||<SE1>AVG_brake</SE1><BGM>BGM_Empty</BGM>:끼이익...+차가 천천히 갓길에 멈춰 섰다.
+AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:그래야지.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:또 죽어라 구르기 전에 체력 보충이나 하고 가지 뭐.
+()||<SE1>AVG_20Winter_Door_Car_Open</SE1>:안젤리아는 차에서 내려, AK-15와 자리를 바꿨다.
+AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:내가 운전하겠단 소리였는데... 그래 맘대로 해.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+()||:차에 시동이 다시 걸리는 걸 확인하고, 안젤리아는 등받이에 기대어 천천히 눈을 감았다.
+AK15(0)<Speaker>AK15</Speaker>||:......
+()||<SE1>AVG_Button_Click</SE1>:백미러를 조절한 AK-15는 뒤를 살짝 보며 말없이 차량 라디오를 켰다.
+()||<SE1>AVG_2023Slow_ED_Phonograph_Disc</SE1>:그러자 바로 잔잔한 음악이 흘러나왔다.+밤이 깊어진 탓인지 드리운 안개가 더해져, 잠시나마 고요함이 찾아들었다.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:......이상하다.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:뭐가?
+AN94(0)<Speaker>AN94</Speaker>||:이 음악... 어디서 들어본 것 같다.
+()||:AK-12가 고개를 갸우뚱하며 잠깐 귀를 기울여봤다.
+AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:흠... 그냥 프로그램 넘어갈 때 자주 쓰이는 멜로디야, 이상할 거 없어.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:......아니, 이상해.
+AK12(0)<Speaker>AK12</Speaker><Position>0,50</Position>||:또 뭐가?
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:우리, 출발하고 시간이 상당히 지나지 않았나?+그런데 이 고속도로... 끝이 안 보이는 것 같다. 올 때는 이렇게까지 소요되지 않았다.+이론상 지금쯤 격리벽을 넘었어야 정상이다.
+()||<SE1>Stop_AVG_loop</SE1>:지직...
+()||<SE1>AVG_whitenoise</SE1>:그때, 라디오에 약간 기괴한 전류음이 끼어들었다.
+()<Speaker>RPK16</Speaker>||:<color=#00CCFF>안젤리아... 당신은 항상 그렇게 고집을 부리죠.</color>
+()<Speaker>RPK16</Speaker>||<BGM>BGM_23S_Expedition_Story</BGM>:<color=#00CCFF>당신의 무모함 때문에 지휘관이 베를린에 파견된 거예요.</color>+<color=#00CCFF>당신의 무모함 때문에 벌써 얼마나 많은 이들이 지독한 대가를 치렀는지 보세요. 조금은 반성해야 하지 않을까요?</color>
+AN94(2)<Position>0,50</Position><Speaker>AN94</Speaker>||:RPK...!
+()<Speaker>RPK16</Speaker>||:<color=#00CCFF>안젤리아, 당신은 평생 남의 말을 듣지 않을 사람이에요.</color>+<color=#00CCFF>돌아오지 못할 길임을 알면서도 굳이 나아가려 하는 사람이고요.</color>+<color=#00CCFF>그래서 저는 제 진정한 주인의 명을 따를 수밖에 없었어요.</color>
+AK12(3)<Speaker>AK12</Speaker><Position>0,50</Position>||:네 진정한 주인...?
+AK15(4)<Speaker>AK15</Speaker>||:차를 통제할 수 없습니다!
+AK12(3)<Speaker>AK12</Speaker><Position>0,50</Position>||:94! 안젤리아를 보호해!
+AK15(4)<Shake>0.1</Shake><Speaker>AK15</Speaker>||:——!
+()||<SE1>AVG_brake</SE1>:바퀴가 급커브를 돌아, 누구도 미처 반응할 새도 없이 자동차가 옆으로 뒤집혔다.
+()||<SE1>Explode</SE1>:차는 그대로 관성에 의해 도로 밖으로 튕겨져 나갔다.+찰나의 무중력 속에서, 안젤리아는 자신이 끝없이 추락하는 느낌이 들었다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:으으윽...!
 ()||<CGDelay>1.5</CGDelay><common_effect>%%code=AVG_zhayan%%</common_effect>:
-()||<BIN>9</BIN>:……
-()||:眼前的车顶，座位，还有忤逆小队，都好像消失了一般，亦或是被眼前的黑暗吞没。
-()||<SE1>AVG_tinnitus_0</SE1>:在无穷的下坠感中，雪上加霜的是，一阵刺痛的耳鸣同时向安洁袭来。
-NPC-Ange(22)<Shake>0.1</Shake><Speaker>安洁</Speaker>||:呃啊——！！
-()||:……
-AK12(3)<Speaker>AK12</Speaker><Position>0,50</Position>||:……你还有更值得赔上性命的战场，安洁。+你不应该在这里倒下。
-()<Speaker>安洁</Speaker>||:12……！？
-AK15(4)<Speaker>AK15</Speaker>||:安洁，醒醒。
-()<Speaker>安洁</Speaker>||:……我在，我在哪……？
-AN94(4)<Speaker>AN94</Speaker>||:对不起，安洁……我们失败了。
-()||:……
-RPK16(0)<Speaker>RPK16</Speaker>||:如果人生注定是一场徒劳，那么挣扎的意义究竟是什么？
-()||<SE1>AVG_bigglassbreak</SE1>:咚——！
-()||<黑点1>:……
-()||<黑点2><BIN>9</BIN><narrator>:背叛中我才忠诚。+当我是我时，我是你。
+()||<BIN>9</BIN>:......
+()||:차의 천장, 좌석, 그리고 리벨리온까지 전부 사라진 듯... 아니, 눈앞이 어둠에 삼켜진 듯했다.
+()||<SE1>AVG_tinnitus_0</SE1>:끝없는 추락으론 부족했는지, 고막을 찢는 이명까지 울렸다.
+NPC-Ange(22)<Shake>0.1</Shake><Speaker>안젤리아</Speaker>||:으아아악!!
+()||:......
+AK12(3)<Speaker>AK12</Speaker><Position>0,50</Position>||:네가 목숨을 걸 전장은 여기가 아니잖아.+여기서 쓰러져선 안 돼, 안젤리아.
+()<Speaker>안젤리아</Speaker>||:AK-12...?
+AK15(4)<Speaker>AK15</Speaker>||:안젤리아, 일어나십시오.
+()<Speaker>안젤리아</Speaker>||:나... 지금 어디 있는 거야...?
+AN94(4)<Speaker>AN94</Speaker>||:미안하다, 안젤리아... 우리의 실패다...
+()||:......
+RPK16(0)<Speaker>RPK16</Speaker>||:삶이 결국 덧없을 운명이라면, 몸부림에 무슨 의미가 있나요?
+()||<SE1>AVG_bigglassbreak</SE1>:쿠웅——!
+()||<黑点1>:......
+()||<黑点2><BIN>9</BIN><narrator>:배반으로서 나는 충성하니.+내가 나일 때, 나는 너다.
 ()||<白屏1>:
 ()||<BIN>183</BIN><SE1>AVG_Rain_Heavy</SE1><common_effect>%%code=NoiseVideo%%wait=1%%</common_effect>:
 ()||<白屏2><BIN>641</BIN><SE1>Stop_AVG_loop</SE1>:
-()||<BGM>BGM_Empty</BGM>:……
-()<Speaker>？？？？</Speaker>||:不论你多少次失去记忆，不论身边的人是何种面貌，你总是不会更改自己的决定。+不愧是我的学生。
-()<Speaker>？？？</Speaker>||:您对她，似乎有些不够了解。
-()<Speaker>？？？？</Speaker>||:没关系，时间对每个人都是公平的，尤其是你，接下来我终于有机会了解这一切。
+()||<BGM>BGM_Empty</BGM>:......
+()<Speaker>？？？？</Speaker>||:기억을 몇 번이고 잃어도, 곁의 인물이 어떻게 바뀌어도, 너는 언제나 네 결정을 결코 바꾸는 법이 없구나.+과연 내 제자야.
+()<Speaker>？？？</Speaker>||:당신은 그녀에 대해 좀 모르는 것 같네요.
+()<Speaker>？？？？</Speaker>||:괜찮아, 시간은 모두에게 공평하니까. 특히 너에 대해서는, 이제부터야 비로소 모든 걸 알 수 있겠어.
 ()||<黑屏1>:
-()<Speaker></Speaker>||<黑屏2><BIN>655</BIN><narrator>:玛莎·迈特纳，我无法相信这一切是真的。+你竟然牺牲自己的学生……+我们不是早就得出结论了吗？所谓的永生也好，复生也好，不过是不切实际的幻想！+这是单纯的杀戮，以理想为名对他人生命进行践踏的屠杀。+这是对理想的背叛。+如果一开始就知道你使用福音枢椎的目的……我绝对不会同意将这种技术用于纱那！+玛莎，你骗了我……你从头彻尾就不是为了纱那……+你！你早就是恶魔的仆人！+2051年，布莱克薇尔写于柏林。
+()<Speaker></Speaker>||<黑屏2><BIN>655</BIN><narrator>:마사 마이트너, 이게 사실이라니 도저히 믿을 수가 없네요.+자신의 제자를 희생시키다니... 이미 결론짓지 않았었나요?+영생이든 부활이든, 다 헛된 환상이라고.+이건 그냥 살인이에요. 이상이란 이름으로 타인의 목숨을 짓밟는 학살이라고요.+이건 이상에 대한 배신이에요.+만약 처음부터 당신이 "복음중추"를 사용하려는 목적을 알았더라면... 절대 사나에게 쓰도록 두지 않았을 거예요.+마사, 당신은 저를 속였어요... 당신은 사나를 위헤서 한 것이 아니었어요...+이걸로 비로소 깨달았어요. 당신은 아주 오래 전부터, 이미 악마의 하수인이었군요.+블랙웰, 베를린 2051년.
 ()||<黑点1>:

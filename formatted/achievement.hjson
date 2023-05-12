@@ -15832,4 +15832,55 @@
     sort: 305
     icon_code: 日常_彩蛋
   }
+  {
+    identity: 1071
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 발 디딜 틈 없이
+    content: 만성쇼크-SUM 삶이란 투쟁이다-UX: 폐건물을 4개 폭파하고 클리어.
+    type_sort: 100
+    sort: 306
+    icon_code: 无处落脚
+    condition: 11382:1138202
+  }
+  {
+    identity: 1072
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 저승사자와 손뼉치기
+    content: 만성쇼크-AUT 죽음의 섬: 노멀 난이도에서 요원 인질을 2명 구출하거나, 악몽 난이도에서 3명 구출.
+    type_sort: 100
+    sort: 307
+    icon_code: 与死神击掌
+    condition: 11355:1135502,11384:1138402
+  }
+  {
+    identity: 1073
+    type: c_no_skip_activity
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 계곡 밑의 메아리
+    content: 만성쇼크 스태프롤을 끝까지 보기.
+    type_sort: 100
+    sort: 308
+    icon_code: 谷底回声
+    condition: "11418"
+  }
 ]

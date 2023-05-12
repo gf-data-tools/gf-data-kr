@@ -21023,6 +21023,1696 @@
     special_spot_add: 575002:1
   }
   {
+    id: 580001
+    name: 심박수 너무 낮음
+    skill_group_id: 580001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: "580001"
+    target_id: 580053&&580011
+    mission_buff_add: 580001:1
+    subsidiary_mission_skill: "580007,580008,580009"
+  }
+  {
+    id: 580002
+    name: 낮은 심박수
+    skill_group_id: 580002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: "580002"
+    target_id: 580053&&580012
+    mission_buff_add: 580002:1
+    subsidiary_mission_skill: "580006,580008,580009"
+  }
+  {
+    id: 580003
+    name: 표준 심박수
+    skill_group_id: 580003
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: "580003"
+    target_id: 580053&&580013
+    mission_buff_add: 580003:1
+    subsidiary_mission_skill: "580007,580006,580009"
+  }
+  {
+    id: 580004
+    name: 높은 심박수
+    skill_group_id: 580004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: "580004"
+    target_id: 580053&&580014
+    mission_buff_add: 580004:1,58000401:1
+    subsidiary_mission_skill: "580007,580008,580006"
+  }
+  {
+    id: 580005
+    name: 심박수 너무 높음
+    skill_group_id: 580005
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: "580005"
+    target_id: 580053&&580015
+    mission_buff_add: 580005:1
+    subsidiary_mission_skill: "580007,580008,580009,580006"
+  }
+  {
+    id: 580006
+    name: 【指定清除】심박수过低
+    skill_group_id: 580006
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: "580006"
+    target_id: "580053"
+    mission_buff_minus: 580001:1
+  }
+  {
+    id: 580007
+    name: 【指定清除】偏低심박수
+    skill_group_id: 580007
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: "580007"
+    target_id: "580053"
+    mission_buff_minus: 580002:1
+  }
+  {
+    id: 580008
+    name: 【指定清除】标准심박수
+    skill_group_id: 580008
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: "580008"
+    target_id: "580053"
+    mission_buff_minus: 580003:1
+  }
+  {
+    id: 580009
+    name: 【指定清除】活跃심박수
+    skill_group_id: 580009
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: "580009"
+    target_id: "580053"
+    mission_buff_minus: 580004:1,58000401:1
+  }
+  {
+    id: 580010
+    name: 【延时触发】심박수过高
+    skill_group_id: 580010
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: "580010"
+    target_id: "580053"
+    mission_buff_minus: 580005:1
+    subsidiary_mission_skill: "580059"
+  }
+  {
+    id: 580051
+    name: 심박수机制常驻|自动下降
+    skill_group_id: 580051
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "580052"
+    special_spot_minus: 580099:2
+    subsidiary_mission_skill: "580053,580010,58000401"
+    drop_item: 528:-20
+  }
+  {
+    id: 580052
+    name: 심박수机制常驻|杀敌上升
+    skill_group_id: 580052
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "580052"
+    special_spot_add: 580099:2
+    subsidiary_mission_skill: "580053"
+    drop_item: 528:20
+  }
+  {
+    id: 580053
+    name: 심박수机制常驻|同步buff
+    skill_group_id: 580053
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "580053"
+    subsidiary_mission_skill: "580001,580002,580003,580004,580005,58000101"
+  }
+  {
+    id: 580054
+    name: 심박수机制识别|目标梯队
+    skill_group_id: 580054
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 580099:1
+  }
+  {
+    id: 580059
+    name: 【连携】심박수爆表自动回落
+    skill_group_id: 580059
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: "580005"
+    target_id: "580052"
+    special_spot_minus: 580099:13
+    subsidiary_mission_skill: "580053"
+    drop_item: 528:-130
+  }
+  {
+    id: 580060
+    name: 【标记】B4안젤리아死亡消除심박수点
+    skill_group_id: 580060
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "580052"
+    special_spot_add: 580097:1
+    special_spot_minus: 580098:1
+  }
+  {
+    id: 580061
+    name: 【标记】B2안젤리아死亡消除심박수点
+    skill_group_id: 580061
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "580052"
+    special_spot_add: 580097:1
+    special_spot_minus: 580098:1
+  }
+  {
+    id: 580100
+    name: 신호 판정
+    skill_group_id: 580100
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "580101,580102,580103,580104,580105,580205"
+  }
+  {
+    id: 580101
+    name: 신호 두절
+    skill_group_id: 580101
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "0,1,7,8,301,303"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: 58010001&&58010101
+    mission_buff_add: 580101:1
+    mission_buff_minus: 580102:1,580104:1,580105:1,580205:1
+    subsidiary_mission_skill: "580106,580109"
+  }
+  {
+    id: 580102
+    name: 신호 낮음
+    skill_group_id: 580102
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "0,1,7,8,301,303"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: 58010001&&58010102
+    mission_buff_add: 580102:1
+    mission_buff_minus: 580101:1,580104:1,580105:1,580205:1
+    subsidiary_mission_skill: "580107,580108"
+  }
+  {
+    id: 580103
+    name: 신호 일반
+    skill_group_id: 580103
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "0,1,7,8,301,303"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: 58010001&&58010103
+    mission_buff_minus: 580101:1,580102:1,580104:1,580105:1,580205:1
+    subsidiary_mission_skill: "580107,580109"
+  }
+  {
+    id: 580104
+    name: 신호 양호
+    skill_group_id: 580104
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "0,1,7,8,301,303"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: 58010001&&58010104
+    mission_buff_add: 580104:1
+    mission_buff_minus: 580101:1,580102:1,580105:1,580205:1
+    subsidiary_mission_skill: "580107,580109"
+  }
+  {
+    id: 580105
+    name: 신호 노출
+    skill_group_id: 580105
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "0,1,7,8,301,303"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: 58010001&&58020000&&58010105
+    mission_buff_add: 580105:1
+    mission_buff_minus: 580101:1,580102:1,580104:1
+    subsidiary_mission_skill: "580107,580109"
+  }
+  {
+    id: 580106
+    name: 신호 두절
+    skill_group_id: 580106
+    level: 1
+    spot_type: "1,3,7"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    special_spot_add: 580102:1
+  }
+  {
+    id: 580107
+    name: 신호 회복
+    skill_group_id: 580107
+    level: 1
+    spot_type: "1,3,7"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    special_spot_minus: 580102:1
+  }
+  {
+    id: 580108
+    name: 신호 낮음
+    skill_group_id: 580108
+    level: 1
+    spot_type: "1,3,7"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    special_spot_add: 580103:1
+  }
+  {
+    id: 580109
+    name: 신호 회복
+    skill_group_id: 580109
+    level: 1
+    spot_type: "1,3,7"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    special_spot_minus: 580103:1
+  }
+  {
+    id: 580111
+    name: 신호-5
+    skill_group_id: 580111
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "58010001"
+    special_spot_minus: 580101:1
+    subsidiary_mission_skill: "580100"
+    drop_item: 530:-5
+  }
+  {
+    id: 580112
+    name: 신호 자연 회복
+    skill_group_id: 580112
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "580116,580117"
+  }
+  {
+    id: 580113
+    name: 신호+20
+    skill_group_id: 580113
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "58010001"
+    special_spot_add: 580101:4
+    subsidiary_mission_skill: "580100"
+    drop_item: 530:20
+  }
+  {
+    id: 580114
+    name: 신호+10
+    skill_group_id: 580114
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "58010001"
+    special_spot_add: 580101:2
+    subsidiary_mission_skill: "580100"
+    drop_item: 530:10
+  }
+  {
+    id: 580115
+    name: 신호-10
+    skill_group_id: 580115
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "58010001"
+    special_spot_minus: 580101:2
+    subsidiary_mission_skill: "580100"
+    drop_item: 530:-10
+  }
+  {
+    id: 580116
+    name: 신호+5
+    skill_group_id: 580116
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "58010001"
+    special_spot_add: 580101:1
+    subsidiary_mission_skill: "580100"
+    drop_item: 530:5
+  }
+  {
+    id: 580117
+    name: 신호+50
+    skill_group_id: 580117
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: 58010001&&58010106
+    target_id: "58010001"
+    special_spot_add: 580101:9
+    subsidiary_mission_skill: "580100"
+    drop_item: 530:45
+  }
+  {
+    id: 580118
+    name: 신호 강화
+    description: 설비를 조작해 신호 세기를 높인다
+    skill_group_id: 580118
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "58012400"
+    target_id: "1"
+    mission_buff_add: 580124:1
+    subsidiary_mission_skill: "580114"
+    is_manual: 580118
+  }
+  {
+    id: 580119
+    name: 신호 약화
+    description: 설비를 조작해 신호 세기를 낮춘다
+    skill_group_id: 580119
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "58012400"
+    target_id: "1"
+    mission_buff_add: 580124:1
+    subsidiary_mission_skill: "580115"
+    is_manual: 580119
+  }
+  {
+    id: 580120
+    name: 교란器초기화
+    skill_group_id: 580120
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580120:1
+  }
+  {
+    id: 580121
+    name: 교란기 끄기
+    skill_group_id: 580121
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: 1&&58012001
+    special_spot_minus: 580120:1
+    subsidiary_mission_skill: "580113"
+    is_manual: 580121
+  }
+  {
+    id: 580122
+    name: 신호 강화
+    description: 대상이 1턴 동안 복음중추의 영향을 받지 않게 한다. 거리 1칸 안 아군에게 사용 가능.
+    skill_group_id: 580122
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,7,8,301,303"
+    cd_time_type: 1
+    start_range: 1
+    trigger_id: 58012500&&1
+    special_spot_minus: 580121:1
+    mission_buff_add: 580122:1
+    mission_buff_minus: 580121:1,580120:1
+    subsidiary_mission_skill: "580124"
+    is_manual: 580122
+  }
+  {
+    id: 580123
+    name: 교란 장치 갱신
+    description: 거리 2칸 안의 유닛을 교란하여, 범위 안에서 2번 이동하면 1턴간 마비시킨다. 마비 상태에서 이동할 수 없고 각종 능력치가 대폭 감소한다.
+    skill_group_id: 580123
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "0,1,7,8,301,303"
+    cd_time_type: 1
+    start_range: 2
+    mission_buff_add: 580123:1
+  }
+  {
+    id: 580124
+    name: 신호 강화CD
+    skill_group_id: 580124
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 580125:1
+  }
+  {
+    id: 580205
+    name: 신호 노출
+    skill_group_id: 580205
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "0,1,7,8,301,303"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: 58010001&&58020001&&58010105
+    mission_buff_add: 580205:1
+    mission_buff_minus: 580101:1,580102:1,580104:1
+    subsidiary_mission_skill: "580107,580109"
+  }
+  {
+    id: 580301
+    name: 初始심박수获取
+    skill_group_id: 580301
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580099:9,580098:1
+    subsidiary_mission_skill: "580053"
+  }
+  {
+    id: 580302
+    name: 通用加速buff
+    skill_group_id: 580302
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 580302:1
+  }
+  {
+    id: 580303
+    name: 通用加速buff2
+    skill_group_id: 580303
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 580303:1
+  }
+  {
+    id: 580310
+    name: 初始심박수清空
+    skill_group_id: 580310
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    drop_item: 528:-9999
+  }
+  {
+    id: 580311
+    name: 初始심박수赋值3
+    skill_group_id: 580311
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580099:5,580098:1
+    drop_item: 528:50
+  }
+  {
+    id: 580312
+    name: 初始심박수赋值4
+    skill_group_id: 580312
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580099:6,580098:1
+    drop_item: 528:60
+  }
+  {
+    id: 580313
+    name: 初始심박수赋值5
+    skill_group_id: 580313
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580099:7,580098:1
+    drop_item: 528:70
+  }
+  {
+    id: 580314
+    name: 初始심박수赋值6
+    skill_group_id: 580314
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580099:8,580098:1
+    drop_item: 528:80
+  }
+  {
+    id: 580315
+    name: 初始심박수赋值7
+    skill_group_id: 580315
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580099:9,580098:1
+    drop_item: 528:90
+  }
+  {
+    id: 580316
+    name: 初始심박수赋值8
+    skill_group_id: 580316
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580099:10,580098:1
+    drop_item: 528:100
+  }
+  {
+    id: 580317
+    name: 初始심박수赋值9
+    skill_group_id: 580317
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580099:11,580098:1
+    drop_item: 528:110
+  }
+  {
+    id: 580318
+    name: 初始심박수赋值10
+    skill_group_id: 580318
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580099:12,580098:1
+    drop_item: 528:120
+  }
+  {
+    id: 580319
+    name: 初始심박수赋值11
+    skill_group_id: 580319
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580099:13,580098:1
+    drop_item: 528:130
+  }
+  {
+    id: 580320
+    name: 初始심박수赋值12
+    skill_group_id: 580320
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580099:14,580098:1
+    drop_item: 528:140
+  }
+  {
+    id: 580321
+    name: 初始심박수赋值13
+    skill_group_id: 580321
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580099:15,580098:1
+    drop_item: 528:150
+  }
+  {
+    id: 580322
+    name: 初始심박수赋值14
+    skill_group_id: 580322
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580099:16,580098:1
+    drop_item: 528:160
+  }
+  {
+    id: 580323
+    name: 初始심박수赋值15
+    skill_group_id: 580323
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580099:17,580098:1
+    drop_item: 528:170
+  }
+  {
+    id: 580324
+    name: 初始심박수赋值16
+    skill_group_id: 580324
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580099:18,580098:1
+    drop_item: 528:180
+  }
+  {
+    id: 580325
+    name: 初始심박수赋值17
+    skill_group_id: 580325
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580099:19,580098:1
+    drop_item: 528:190
+  }
+  {
+    id: 580401
+    name: F3신호 초기화
+    skill_group_id: 580401
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580100:1,580101:20
+    mission_buff_add: 580401:1
+    subsidiary_mission_skill: "580100"
+    drop_item: 530:100
+  }
+  {
+    id: 580402
+    name: F3_Easy신호 초기화
+    skill_group_id: 580402
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580100:1,580101:20,580200:1
+    mission_buff_add: 580401:1
+    subsidiary_mission_skill: "580100"
+    drop_item: 530:100
+  }
+  {
+    id: 580411
+    name: F5신호 초기화
+    skill_group_id: 580411
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580100:1,580101:17,580200:1
+    mission_buff_add: 580411:1
+    subsidiary_mission_skill: "580100"
+    drop_item: 530:85
+  }
+  {
+    id: 580501
+    name: 【标记】杂物堆标记_杂物絆脚
+    skill_group_id: 580501
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    special_spot_add: 580501:1
+  }
+  {
+    id: 580502
+    name: "[avg]-58-A4-5-1"
+    skill_group_id: 580502
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580502:1
+  }
+  {
+    id: 580901
+    name: B2关卡초기화심박수
+    skill_group_id: 580901
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    target_id: "1"
+    special_spot_add: 580011:8,580010:1
+    mission_buff_add: 580010:1
+    subsidiary_mission_skill: "580019"
+  }
+  {
+    id: 580903
+    name: 自动炮塔激活点
+    skill_group_id: 580903
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580903:1
+    subsidiary_mission_skill: "580904"
+  }
+  {
+    id: 580904
+    name: 炮塔连携攻击点判定
+    skill_group_id: 580904
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    target_id: "580903"
+    special_spot_add: 580904:1
+    special_spot_minus: 580906:1
+  }
+  {
+    id: 580905
+    name: 포탑 끄기
+    description: 이 포탑을 꺼서 범위 1칸 안의 포탑 공격이 해제된다.
+    skill_group_id: 580905
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: (581101||584801||580007)&&580905
+    target_id: "1"
+    special_spot_minus: 580903:1
+    subsidiary_mission_skill: "580906"
+    is_manual: 580903
+  }
+  {
+    id: 580906
+    name: 【连携】포탑 끄기
+    skill_group_id: 580906
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    target_id: 580906||580909||580912
+    special_spot_minus: 580904:1,580906:1,580912:1
+  }
+  {
+    id: 580907
+    name: 炮塔뒷문
+    skill_group_id: 580907
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580903:1
+  }
+  {
+    id: 580908
+    name: 【连携】炮塔沉默
+    skill_group_id: 580908
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: 580007||580006
+    target_id: 580906&&580903
+    special_spot_add: 580906:1
+    special_spot_minus: 580904:1
+    subsidiary_mission_skill: "580913"
+  }
+  {
+    id: 580909
+    name: 【连携】炮塔连携攻击点重新激活
+    skill_group_id: 580909
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: 580008||580009||580010
+    target_id: "1"
+    subsidiary_mission_skill: "580904"
+  }
+  {
+    id: 580910
+    name: 【连携】炮塔连携攻击点全局重新激活
+    skill_group_id: 580910
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: 580008||580009||580010
+    target_id: 580909||580912
+    special_spot_add: 580904:1
+    special_spot_minus: 580906:1,580912:1
+  }
+  {
+    id: 580911
+    name: B线杀怪심박수上升
+    skill_group_id: 580911
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "1"
+    subsidiary_mission_skill: "580052,580910"
+  }
+  {
+    id: 580912
+    name: 【标记】炮塔架枪
+    skill_group_id: 580912
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 580905&&1
+    target_id: "1"
+    subsidiary_mission_skill: "580914"
+  }
+  {
+    id: 580913
+    name: 【连携】炮塔沉默特效
+    skill_group_id: 580913
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "580905"
+    special_spot_add: 580907:1
+  }
+  {
+    id: 580914
+    name: 【连携】炮塔架枪
+    skill_group_id: 580914
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    trigger_id: "580905"
+    target_id: "580903"
+    special_spot_add: 580912:1
+    subsidiary_mission_skill: "580910"
+  }
+  {
+    id: 581101
+    name: 람잔出场
+    skill_group_id: 581101
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    effect_target: "1000102"
+    target_id: "581101"
+    subsidiary_mission_skill: "581102"
+  }
+  {
+    id: 581102
+    name: MT触发减심박수
+    skill_group_id: 581102
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "580052"
+    special_spot_minus: 580099:2
+    subsidiary_mission_skill: "580053,580908"
+    drop_item: 528:-20
+  }
+  {
+    id: 581103
+    name: "[avg]-58-EXT-11-1"
+    skill_group_id: 581103
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 581101:1
+  }
+  {
+    id: 581500
+    name: 안젤리아 패배 판정
+    skill_group_id: 581500
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "581508,581509,581510"
+  }
+  {
+    id: 581501
+    name: 안젤리아 초기화
+    skill_group_id: 581501
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580098:1,580099:14
+    mission_buff_add: 580099:1,584900:1,581700:1
+    subsidiary_mission_skill: "581506"
+    drop_item: 528:-1000
+  }
+  {
+    id: 581502
+    name: 증원 포인트 초기화
+    skill_group_id: 581502
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 581503:1
+  }
+  {
+    id: 581503
+    name: AR 퇴장
+    skill_group_id: 581503
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 581503:1
+    subsidiary_mission_skill: "581505"
+  }
+  {
+    id: 581504
+    name: AR 가속
+    skill_group_id: 581504
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 99
+    special_spot_add: 581504:1
+    mission_buff_add: 20401:1
+  }
+  {
+    id: 581505
+    name: AR 증원
+    skill_group_id: 581505
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    trigger_id: "58150301"
+    target_id: "1"
+    special_spot_add: 581505:1
+    allyteam_summoner: "581505"
+  }
+  {
+    id: 581506
+    name: 심박수 초기화
+    skill_group_id: 581506
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    drop_item: 528:140
+  }
+  {
+    id: 581507
+    name: 심박수 유도
+    skill_group_id: 581507
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 589999:1
+  }
+  {
+    id: 581508
+    name: 안젤리아 생존 판정
+    skill_group_id: 581508
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: "580053"
+    target_id: "1"
+    special_spot_add: 581599:1
+  }
+  {
+    id: 581509
+    name: 안젤리아 패배 판정
+    skill_group_id: 581509
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 581500:1
+  }
+  {
+    id: 581510
+    name: 안젤리아 생존 해제
+    skill_group_id: 581510
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_minus: 581599:1
+  }
+  {
+    id: 581700
+    name: 리벨리온 초기화
+    skill_group_id: 581700
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 581700:1,20201:1,20202:1
+  }
+  {
+    id: 581701
+    name: 폐건물 초기화
+    skill_group_id: 581701
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 581701:1
+  }
+  {
+    id: 581702
+    name: 기폭
+    description: 폐건물을 원격 폭파하여 피해를 주고 폐허를 잔뜩 생성한다. 이 조작은 심박수를 크게 높인다.
+    skill_group_id: 581702
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "58170101"
+    special_spot_add: 581702:1,581704:1
+    special_spot_minus: 581701:1
+    subsidiary_mission_skill: "581703"
+    is_manual: 581702
+  }
+  {
+    id: 581703
+    name: 기폭+심박수
+    skill_group_id: 581703
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "580052"
+    special_spot_add: 580099:2
+    subsidiary_mission_skill: "580053"
+    drop_item: 528:20
+  }
+  {
+    id: 581704
+    name: 강적 가속
+    skill_group_id: 581704
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "58170201"
+    special_spot_add: 581705:1
+    mission_buff_add: 20401:1
+  }
+  {
+    id: 581798
+    name: 심박수초기화
+    skill_group_id: 581798
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    drop_item: 528:100
+  }
+  {
+    id: 581799
+    name: 안젤리아초기화
+    skill_group_id: 581799
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580098:1,580099:10
+    mission_buff_add: 580099:1,584900:1,581700:1
+    subsidiary_mission_skill: "581798"
+    drop_item: 528:-1000
+  }
+  {
+    id: 583201
+    name: "[avg]-58-F3-32-1"
+    skill_group_id: 583201
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 583201:1
+  }
+  {
+    id: 583600
+    name: 신호标记초기화
+    skill_group_id: 583600
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580100:1,580200:1,580101:14
+    mission_buff_add: 583600:1
+    subsidiary_mission_skill: "583603"
+    drop_item: 530:-1000
+  }
+  {
+    id: 583601
+    name: 마인드맵 교란
+    description: 대상을 대폭 약화한다. 하지만 일부 방호 능력이 있는 적에게 효과가 안 좋다. 신호 세기가 보통 이상일 때만 사용할 수 있고, 사용 시 신호 세기가 약간 감소한다.
+    skill_group_id: 583601
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 1
+    trigger_id: 58010110&&58010210&&1
+    target_id: 58710400&&58710900&&58711200&&58711700
+    special_spot_add: 583603:1
+    mission_buff_add: 583601:1
+    subsidiary_mission_skill: "580111"
+    is_manual: 583601
+  }
+  {
+    id: 583602
+    name: 몰리도
+    skill_group_id: 583602
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 583601:1
+  }
+  {
+    id: 583603
+    name: 신호标记초기화
+    skill_group_id: 583603
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    drop_item: 530:70
+  }
+  {
+    id: 583604
+    name: 몰리도 체크
+    skill_group_id: 583604
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 1
+    special_spot_add: 583604:1
+  }
+  {
+    id: 584505
+    name: 벽초기화
+    skill_group_id: 584505
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 584505:1
+  }
+  {
+    id: 584511
+    name: 탑승: 엘레베이터-I
+    description: 다른 엘레베이터-I로 이동한다. 해당 엘레베이터-I 지점에 다른 유닛이 있을 경우 엘레베이터를 사용할 수 없다
+    skill_group_id: 584511
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 100
+    is_airborne: 2
+    target_id: "584511"
+    is_manual: 584511
+  }
+  {
+    id: 584512
+    name: 탑승: 엘레베이터-II
+    description: 다른 엘레베이터-II로 이동한다. 해당 엘레베이터-II 지점에 다른 유닛이 있을 경우 엘레베이터를 사용할 수 없다
+    skill_group_id: 584512
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 100
+    is_airborne: 2
+    target_id: "584512"
+    is_manual: 584511
+  }
+  {
+    id: 584513
+    name: 탑승: 엘레베이터-III
+    description: 다른 엘레베이터-III로 이동한다. 해당 엘레베이터-III 지점에 다른 유닛이 있을 경우 엘레베이터를 사용할 수 없다
+    skill_group_id: 584513
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 100
+    is_airborne: 2
+    target_id: "584513"
+    is_manual: 584511
+  }
+  {
+    id: 584514
+    name: 탑승: 엘레베이터-IV
+    description: 다른 엘레베이터-IV로 이동한다. 해당 엘레베이터-IV 지점에 다른 유닛이 있을 경우 엘레베이터를 사용할 수 없다
+    skill_group_id: 584514
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 100
+    is_airborne: 2
+    target_id: "584514"
+    is_manual: 584511
+  }
+  {
+    id: 584801
+    name: 람잔出场
+    skill_group_id: 584801
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    effect_target: "1000102"
+    target_id: "584801"
+    subsidiary_mission_skill: "581102"
+  }
+  {
+    id: 584900
+    name: 증원 포인트 초기화
+    skill_group_id: 584900
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+  }
+  {
+    id: 584901
+    name: AK-12 집결
+    description: AK-12를 불러들여 둘이서 함께 움직인다
+    skill_group_id: 584901
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    trigger_id: "58490201"
+    target_id: 58490201||1
+    mission_buff_add: 584905:1
+    mission_buff_minus: 584900:1
+    is_manual: 584901
+  }
+  {
+    id: 584902
+    name: AK-12 집결
+    description: AK-12를 불러들여 셋이서 함께 움직인다
+    skill_group_id: 584902
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    trigger_id: "58490201"
+    target_id: 58490201||1
+    mission_buff_minus: 584905:1
+    is_manual: 584901
+  }
+  {
+    id: 584903
+    name: AN-94 집결
+    description: AN-94를 불러들여 둘이서 함께 움직인다
+    skill_group_id: 584903
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    trigger_id: "58490301"
+    target_id: 58490301||1
+    mission_buff_add: 584905:1
+    mission_buff_minus: 584900:1
+    is_manual: 584903
+  }
+  {
+    id: 584904
+    name: AN-94 집결
+    description: AN-94를 불러들여 셋이서 함께 움직인다
+    skill_group_id: 584904
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    trigger_id: "58490301"
+    target_id: 58490301||1
+    mission_buff_minus: 584905:1
+    is_manual: 584903
+  }
+  {
+    id: 584906
+    name: AR 퇴장
+    skill_group_id: 584906
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 581503:1
+    subsidiary_mission_skill: "581504,584907"
+  }
+  {
+    id: 584907
+    name: AR 증원
+    skill_group_id: 584907
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    trigger_id: "58150301"
+    target_id: "1"
+    special_spot_add: 581505:1
+    allyteam_summoner: "584905"
+  }
+  {
+    id: 585001
+    name: 강적 가속
+    skill_group_id: 585001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "58500301"
+    special_spot_add: 581705:1
+    mission_buff_add: 20402:1
+  }
+  {
+    id: 585600
+    name: 신호标记초기화
+    skill_group_id: 585600
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580100:1,580101:14
+    mission_buff_add: 583600:1
+    subsidiary_mission_skill: "583603"
+    drop_item: 530:-1000
+  }
+  {
+    id: 587001
+    name: F5噩梦신호 초기화
+    skill_group_id: 587001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580100:1,580101:17
+    mission_buff_add: 580411:1
+    subsidiary_mission_skill: "580100"
+    drop_item: 530:85
+  }
+  {
+    id: 587002
+    name: 【标记】Empteeee
+    skill_group_id: 587002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+  }
+  {
     id: 590001
     name: 저격 지원
     description:
@@ -27433,7 +29123,7 @@
     spot_echelon: "-1"
     start_range: 99
     target_id: 101010091||101020091||101030091||101040091||101050091||101060091||101070091||101080091
-    special_spot_add: 1010303:1
+    special_spot_add: 1010301:1
   }
   {
     id: 1010304
@@ -27463,7 +29153,7 @@
     spot_echelon: "-1"
     trigger_id: 101030091&&101030190
     target_id: "1"
-    special_spot_add: 1010305:1
+    special_spot_add: 1010301:1
     subsidiary_mission_skill: "1010303,1000054"
     is_manual: 1010305
   }
@@ -27479,7 +29169,7 @@
     spot_echelon: "-1"
     trigger_id: 101030091&&101030191
     target_id: "1"
-    special_spot_minus: 1010303:1
+    special_spot_minus: 1010301:1
     subsidiary_mission_skill: "1010302,1000053"
     is_manual: 1010306
   }
@@ -27495,7 +29185,7 @@
     spot_echelon: "-1"
     trigger_id: 101030091&&101030190
     target_id: "1"
-    special_spot_add: 1010307:1
+    special_spot_add: 1010301:1
     subsidiary_mission_skill: "1010303,1000054"
     is_manual: 1010307
   }
@@ -27511,7 +29201,7 @@
     spot_echelon: "-1"
     trigger_id: 101030091&&101030191
     target_id: "1"
-    special_spot_minus: 1010305:1
+    special_spot_minus: 1010301:1
     subsidiary_mission_skill: "1010302,1000053"
     is_manual: 1010308
   }
@@ -27527,7 +29217,7 @@
     spot_echelon: "-1"
     trigger_id: 101030091&&101030190
     target_id: "1"
-    special_spot_add: 1010309:1
+    special_spot_add: 1010301:1
     subsidiary_mission_skill: "1010303,1000054"
     is_manual: 1010309
   }
@@ -27581,7 +29271,7 @@
     spot_echelon: "-1"
     start_range: 99
     target_id: 101010091||101020091||101030091||101040091||101050091||101060091||101070091||101080091
-    special_spot_add: 1010403:1
+    special_spot_add: 1010401:1
   }
   {
     id: 1010404
@@ -27611,7 +29301,7 @@
     spot_echelon: "-1"
     trigger_id: 101040091&&101040190
     target_id: "1"
-    special_spot_add: 1010405:1
+    special_spot_add: 1010401:1
     subsidiary_mission_skill: "1010403,1000054"
     is_manual: 1010405
   }
@@ -27969,7 +29659,7 @@
     spot_echelon: "-1"
     start_range: 99
     target_id: 101010091||101020091||101030091||101040091||101050091||101060091||101070091||101080091
-    special_spot_add: 1010603:1
+    special_spot_add: 1010601:1
   }
   {
     id: 1010604
@@ -27999,7 +29689,7 @@
     spot_echelon: "-1"
     trigger_id: 101060091&&101060190
     target_id: "1"
-    special_spot_add: 1010605:1
+    special_spot_add: 1010601:1
     subsidiary_mission_skill: "1010603,1000054"
     is_manual: 1010605
   }
@@ -28047,7 +29737,7 @@
     spot_echelon: "-1"
     trigger_id: 101060091&&101060191
     target_id: "1"
-    special_spot_minus: 1010605:1
+    special_spot_minus: 1010601:1
     subsidiary_mission_skill: "1010602,1000053"
     is_manual: 1010608
   }
@@ -28063,7 +29753,7 @@
     spot_echelon: "-1"
     trigger_id: 101060091&&101060190
     target_id: "1"
-    special_spot_add: 1010609:1
+    special_spot_add: 1010601:1
     subsidiary_mission_skill: "1010603,1000054"
     is_manual: 1010609
   }
@@ -28117,7 +29807,7 @@
     spot_echelon: "-1"
     start_range: 99
     target_id: 101010091||101020091||101030091||101040091||101050091||101060091||101070091||101080091
-    special_spot_add: 1010703:1
+    special_spot_add: 1010701:1
   }
   {
     id: 1010704
@@ -28147,7 +29837,7 @@
     spot_echelon: "-1"
     trigger_id: 101070091&&101070190
     target_id: "1"
-    special_spot_add: 1010705:1
+    special_spot_add: 1010701:1
     subsidiary_mission_skill: "1010703,1000054"
     is_manual: 1010705
   }
@@ -28163,7 +29853,7 @@
     spot_echelon: "-1"
     trigger_id: 101070091&&101070191
     target_id: "1"
-    special_spot_minus: 1010703:1
+    special_spot_minus: 1010701:1
     subsidiary_mission_skill: "1010702,1000053"
     is_manual: 1010706
   }
@@ -28179,7 +29869,7 @@
     spot_echelon: "-1"
     trigger_id: 101070091&&101070190
     target_id: "1"
-    special_spot_add: 1010707:1
+    special_spot_add: 1010701:1
     subsidiary_mission_skill: "1010703,1000054"
     is_manual: 1010707
   }
@@ -28233,7 +29923,7 @@
     spot_echelon: "-1"
     start_range: 99
     target_id: 101010091||101020091||101030091||101040091||101050091||101060091||101070091||101080091
-    special_spot_add: 1010803:1
+    special_spot_add: 1010801:1
   }
   {
     id: 1010804
@@ -28263,7 +29953,7 @@
     spot_echelon: "-1"
     trigger_id: 101080091&&101080190
     target_id: "1"
-    special_spot_add: 1010805:1
+    special_spot_add: 1010801:1
     subsidiary_mission_skill: "1010703,1000054"
     is_manual: 1010805
   }
@@ -28279,7 +29969,7 @@
     spot_echelon: "-1"
     trigger_id: 101080091&&101080191
     target_id: "1"
-    special_spot_minus: 1010803:1
+    special_spot_minus: 1010801:1
     subsidiary_mission_skill: "1010702,1000053"
     is_manual: 1010806
   }
@@ -28295,7 +29985,7 @@
     spot_echelon: "-1"
     trigger_id: 101080091&&101080190
     target_id: "1"
-    special_spot_add: 1010807:1
+    special_spot_add: 1010801:1
     subsidiary_mission_skill: "1010703,1000054"
     is_manual: 1010807
   }
@@ -50334,6 +52024,3470 @@
     target_id: "1"
   }
   {
+    id: 6580001
+    name: 【标记】npc탄약秃洞
+    code: "1"
+    skill_group_id: 6580001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 6580012:1,6580013:1,20301:1,20302:1,6580015:1,6580016:1
+  }
+  {
+    id: 6580002
+    name: 【标记】포탑초기화
+    code: "1"
+    skill_group_id: 6580002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580006:1
+  }
+  {
+    id: 6580003
+    name: 【标记】탄약库초기화
+    code: "1"
+    skill_group_id: 6580003
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580003:1
+    subsidiary_mission_skill: "6580005"
+  }
+  {
+    id: 6580004
+    name: 【标记】战场效果
+    code: "1"
+    skill_group_id: 6580004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580004:1,6580031:1,6580032:1,6580033:1,6580034:1,6580035:1,6580036:1,6580037:1,6580038:1,6580039:1
+    subsidiary_mission_skill: "6580005"
+  }
+  {
+    id: 6580005
+    name: 【标记】疲劳计数
+    code: "1"
+    skill_group_id: 6580005
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580005:1
+    subsidiary_mission_skill: "6580067"
+  }
+  {
+    id: 6580006
+    name: 장전
+    code: "1"
+    description: 탄약을 1발 장전한다
+    skill_group_id: 6580006
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 658000631||658000731||658000831||658000931||658001031||658001131
+    target_id: "1"
+    subsidiary_mission_skill: "6580014,6580013,6580012,6580011,6580010,6580009,6580074,6580073,6580072"
+    is_manual: 6580001
+  }
+  {
+    id: 6580007
+    name: 장전
+    code: "1"
+    description: 탄약을 2발 장전한다
+    skill_group_id: 6580007
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 658000631||658000731||658000831||658000931||658001031
+    target_id: "1"
+    subsidiary_mission_skill: "6580019,6580018,6580017,6580016,6580015,6580071,6580070"
+    is_manual: 6580001
+  }
+  {
+    id: 6580008
+    name: 장전
+    code: "1"
+    description: 탄약을 3발 장전한다
+    skill_group_id: 6580008
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 658000631||658000731||658000831||658000931
+    target_id: "1"
+    mission_buff_minus: 6580012:1
+    subsidiary_mission_skill: "6580023,6580022,6580021,6580020"
+    is_manual: 6580001
+  }
+  {
+    id: 6580009
+    name: 【标记】补充탄약连携1
+    code: "1"
+    skill_group_id: 6580009
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658000631"
+    special_spot_add: 6580007:1
+    special_spot_minus: 6580006:1
+  }
+  {
+    id: 6580010
+    name: 【标记】补充탄약连携1
+    code: "1"
+    skill_group_id: 6580010
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658000731"
+    special_spot_add: 6580008:1
+    special_spot_minus: 6580007:1
+  }
+  {
+    id: 6580011
+    name: 【标记】补充탄약连携1
+    code: "1"
+    skill_group_id: 6580011
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658000831"
+    special_spot_add: 6580009:1
+    special_spot_minus: 6580008:1
+  }
+  {
+    id: 6580012
+    name: 【标记】补充탄약连携1
+    code: "1"
+    skill_group_id: 6580012
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658000931"
+    special_spot_add: 6580010:1
+    special_spot_minus: 6580009:1
+  }
+  {
+    id: 6580013
+    name: 【标记】补充탄약连携1
+    code: "1"
+    skill_group_id: 6580013
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658001031"
+    special_spot_add: 6580011:1
+    special_spot_minus: 6580010:1
+  }
+  {
+    id: 6580014
+    name: 【标记】补充탄약连携1
+    code: "1"
+    skill_group_id: 6580014
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658001131"
+    special_spot_add: 6580012:1
+    special_spot_minus: 6580011:1
+  }
+  {
+    id: 6580015
+    name: 【标记】补充탄약连携2
+    code: "1"
+    skill_group_id: 6580015
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658000631"
+    special_spot_add: 6580008:1
+    special_spot_minus: 6580006:1
+  }
+  {
+    id: 6580016
+    name: 【标记】补充탄약连携2
+    code: "1"
+    skill_group_id: 6580016
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658000731"
+    special_spot_add: 6580009:1
+    special_spot_minus: 6580007:1
+  }
+  {
+    id: 6580017
+    name: 【标记】补充탄약连携2
+    code: "1"
+    skill_group_id: 6580017
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658000831"
+    special_spot_add: 6580010:1
+    special_spot_minus: 6580008:1
+  }
+  {
+    id: 6580018
+    name: 【标记】补充탄약连携2
+    code: "1"
+    skill_group_id: 6580018
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658000931"
+    special_spot_add: 6580011:1
+    special_spot_minus: 6580009:1
+  }
+  {
+    id: 6580019
+    name: 【标记】补充탄약连携2
+    code: "1"
+    skill_group_id: 6580019
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658001031"
+    special_spot_add: 6580012:1
+    special_spot_minus: 6580010:1
+  }
+  {
+    id: 6580020
+    name: 【标记】补充탄약连携3
+    code: "1"
+    skill_group_id: 6580020
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658000631"
+    special_spot_add: 6580009:1
+    special_spot_minus: 6580006:1
+  }
+  {
+    id: 6580021
+    name: 【标记】补充탄약连携3
+    code: "1"
+    skill_group_id: 6580021
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658000731"
+    special_spot_add: 6580010:1
+    special_spot_minus: 6580007:1
+  }
+  {
+    id: 6580022
+    name: 【标记】补充탄약连携3
+    code: "1"
+    skill_group_id: 6580022
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658000831"
+    special_spot_add: 6580011:1
+    special_spot_minus: 6580008:1
+  }
+  {
+    id: 6580023
+    name: 【标记】补充탄약连携3
+    code: "1"
+    skill_group_id: 6580023
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658000931"
+    special_spot_add: 6580012:1
+    special_spot_minus: 6580009:1
+  }
+  {
+    id: 6580024
+    name: 진지사수
+    code: "1"
+    description: 3초마다 아군 앞줄 인형의 회피와 장갑을 6% 상승시킨다, 최대 10중첩.
+    skill_group_id: 6580024
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 658000431&&658003131
+    target_id: "1"
+    special_spot_add: 6580013:1
+    special_spot_minus: 6580031:1,6580004:1
+    is_manual: 6580002
+  }
+  {
+    id: 6580025
+    name: 신속정비
+    code: "1"
+    description: 아군의 스킬 초키 쿨타임 50% 단축.
+    skill_group_id: 6580025
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 658000431&&658003231
+    target_id: "1"
+    special_spot_add: 6580013:1
+    special_spot_minus: 6580032:1,6580004:1
+    is_manual: 6580003
+  }
+  {
+    id: 6580026
+    name: 초토화 전략
+    code: "1"
+    description: 6초마다 체력이 가장 높은 적에게 소이탄을 투척해, 0.33초마다 60 피해를 준다. 지속 15초, 범위 3*3.
+    skill_group_id: 6580026
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 658000431&&658003331
+    target_id: "1"
+    special_spot_add: 6580013:1
+    special_spot_minus: 6580033:1,6580004:1
+    is_manual: 6580004
+  }
+  {
+    id: 6580027
+    name: 긴급 보호막
+    code: "1"
+    description: 10초마다 아군에게 잃은 체력 30%만큼의 보호막을 생성한다, 지속시간 6초
+    skill_group_id: 6580027
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 658000431&&658003431
+    target_id: "1"
+    special_spot_add: 6580013:1
+    special_spot_minus: 6580034:1,6580004:1
+    is_manual: 6580005
+  }
+  {
+    id: 6580028
+    name: 무작위 타격
+    code: "1"
+    description: 10초마다 무작위 적 유닛의 화력, 사속, 명중, 회피, 장갑을 50% 감소시킨다.
+    skill_group_id: 6580028
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 658000431&&658003531
+    target_id: "1"
+    special_spot_add: 6580013:1
+    special_spot_minus: 6580035:1,6580004:1
+    is_manual: 6580006
+  }
+  {
+    id: 6580029
+    name: 왜곡방벽
+    code: "1"
+    description: 체력이 가장 높은 아군 유닛에게 9999점 왜곡방벽을 부여한다, 지속시간 5초
+    skill_group_id: 6580029
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 658000431&&658003631
+    target_id: "1"
+    special_spot_add: 6580013:1
+    special_spot_minus: 6580036:1,6580004:1
+    is_manual: 6580007
+  }
+  {
+    id: 6580030
+    name: 돌격관성
+    code: "1"
+    description: 해당 전투에서 아군 전체의 화력과 회피를 4초마다 3%씩 상승시킨다. 최대 10회 중첩 가능
+    skill_group_id: 6580030
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 658000431&&658003731
+    target_id: "1"
+    special_spot_add: 6580013:1
+    special_spot_minus: 6580037:1,6580004:1
+    is_manual: 6580008
+  }
+  {
+    id: 6580031
+    name: 무쇠탱커
+    code: "1"
+    description: 체력이 가장 높은 아군 유닛은 받는 피해를 30% 차감한다.
+    skill_group_id: 6580031
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 658000431&&658003831
+    target_id: "1"
+    special_spot_add: 6580013:1
+    special_spot_minus: 6580038:1,6580004:1
+    is_manual: 6580009
+  }
+  {
+    id: 6580032
+    name: 돌격지시
+    code: "1"
+    description: 아군 전체 사속이 30% 상승한다.
+    skill_group_id: 6580032
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 658000431&&658003931
+    target_id: "1"
+    special_spot_add: 6580013:1
+    special_spot_minus: 6580039:1,6580004:1
+    is_manual: 6580010
+  }
+  {
+    id: 6580033
+    name: 【标记】暂时无用
+    code: "1"
+    skill_group_id: 6580033
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658000431"
+    special_spot_add: 6580013:1
+    special_spot_minus: 6580004:1
+    is_manual: 6580011
+  }
+  {
+    id: 6580034
+    name: 탄약 줍기
+    code: "1"
+    skill_group_id: 6580034
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "658000331"
+    target_id: 658001341&&658001240
+    mission_buff_add: 6580012:1
+    mission_buff_minus: 6580011:1,6580010:1
+    is_manual: 6580012
+  }
+  {
+    id: 6580035
+    name: 지원 가동
+    code: "1"
+    skill_group_id: 6580035
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 658000731||658000831||658000931||658001031||658001131||658001231
+    target_id: "1"
+    subsidiary_mission_skill: "6580042,6580041,6580040,6580039,6580038,6580037"
+    is_manual: 6580013
+  }
+  {
+    id: 6580036
+    name: 지원 중지
+    code: "1"
+    skill_group_id: 6580036
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 658002331||658002431||658002531||658002631||658002731||658002831
+    target_id: "1"
+    subsidiary_mission_skill: "6580066,6580065,6580064,6580063,6580062,6580061"
+    is_manual: 6580014
+  }
+  {
+    id: 6580037
+    name: 【标记】非支援中탄약转支援1
+    code: "1"
+    skill_group_id: 6580037
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "658000731"
+    target_id: "1"
+    special_spot_add: 6580023:1
+    special_spot_minus: 6580007:1
+  }
+  {
+    id: 6580038
+    name: 【标记】非支援中탄약转支援2
+    code: "1"
+    skill_group_id: 6580038
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "658000831"
+    target_id: "1"
+    special_spot_add: 6580024:1
+    special_spot_minus: 6580008:1
+  }
+  {
+    id: 6580039
+    name: 【标记】非支援中탄약转支援3
+    code: "1"
+    skill_group_id: 6580039
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "658000931"
+    target_id: "1"
+    special_spot_add: 6580025:1
+    special_spot_minus: 6580009:1
+  }
+  {
+    id: 6580040
+    name: 【标记】非支援中탄약转支援4
+    code: "1"
+    skill_group_id: 6580040
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "658001031"
+    target_id: "1"
+    special_spot_add: 6580026:1
+    special_spot_minus: 6580010:1
+  }
+  {
+    id: 6580041
+    name: 【标记】非支援中탄약转支援5
+    code: "1"
+    skill_group_id: 6580041
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "658001131"
+    target_id: "1"
+    special_spot_add: 6580027:1
+    special_spot_minus: 6580011:1
+  }
+  {
+    id: 6580042
+    name: 【标记】非支援中탄약转支援6
+    code: "1"
+    skill_group_id: 6580042
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "658001231"
+    target_id: "1"
+    special_spot_add: 6580028:1
+    special_spot_minus: 6580012:1
+  }
+  {
+    id: 6580043
+    name: 장전
+    code: "1"
+    description: 탄약을 1발 장전한다
+    skill_group_id: 6580043
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 658002331||658002431||658002531||658002631||658002731
+    target_id: "1"
+    subsidiary_mission_skill: "6580051,6580050,6580049,6580048,6580047,6580046,6580074,6580073,6580072"
+    is_manual: 6580001
+  }
+  {
+    id: 6580044
+    name: 장전
+    code: "1"
+    description: 탄약을 2발 장전한다
+    skill_group_id: 6580044
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 658002331||658002431||658002531||658002631
+    target_id: "1"
+    subsidiary_mission_skill: "6580056,6580055,6580054,6580053,6580052,6580071,6580070"
+    is_manual: 6580001
+  }
+  {
+    id: 6580045
+    name: 장전
+    code: "1"
+    description: 탄약을 3발 장전한다
+    skill_group_id: 6580045
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 658002331||658002431||658002531
+    target_id: "1"
+    mission_buff_minus: 6580012:1
+    subsidiary_mission_skill: "6580060,6580059,6580058,6580057"
+    is_manual: 6580001
+  }
+  {
+    id: 6580046
+    name: 【标记】补充탄약连携1
+    code: "1"
+    skill_group_id: 6580046
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658000631"
+    special_spot_add: 6580023:1
+    special_spot_minus: 6580006:1
+  }
+  {
+    id: 6580047
+    name: 【标记】补充탄약连携1
+    code: "1"
+    skill_group_id: 6580047
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658002331"
+    special_spot_add: 6580024:1
+    special_spot_minus: 6580023:1
+  }
+  {
+    id: 6580048
+    name: 【标记】补充탄약连携1
+    code: "1"
+    skill_group_id: 6580048
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658002431"
+    special_spot_add: 6580025:1
+    special_spot_minus: 6580024:1
+  }
+  {
+    id: 6580049
+    name: 【标记】补充탄약连携1
+    code: "1"
+    skill_group_id: 6580049
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658002531"
+    special_spot_add: 6580026:1
+    special_spot_minus: 6580025:1
+  }
+  {
+    id: 6580050
+    name: 【标记】补充탄약连携1
+    code: "1"
+    skill_group_id: 6580050
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658002631"
+    special_spot_add: 6580027:1
+    special_spot_minus: 6580026:1
+  }
+  {
+    id: 6580051
+    name: 【标记】补充탄약连携1
+    code: "1"
+    skill_group_id: 6580051
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658002731"
+    special_spot_add: 6580028:1
+    special_spot_minus: 6580027:1
+  }
+  {
+    id: 6580052
+    name: 【标记】补充탄약连携2
+    code: "1"
+    skill_group_id: 6580052
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658000631"
+    special_spot_add: 6580024:1
+    special_spot_minus: 6580006:1
+  }
+  {
+    id: 6580053
+    name: 【标记】补充탄약连携2
+    code: "1"
+    skill_group_id: 6580053
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658002331"
+    special_spot_add: 6580025:1
+    special_spot_minus: 6580023:1
+  }
+  {
+    id: 6580054
+    name: 【标记】补充탄약连携2
+    code: "1"
+    skill_group_id: 6580054
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658002431"
+    special_spot_add: 6580026:1
+    special_spot_minus: 6580024:1
+  }
+  {
+    id: 6580055
+    name: 【标记】补充탄약连携2
+    code: "1"
+    skill_group_id: 6580055
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658002531"
+    special_spot_add: 6580027:1
+    special_spot_minus: 6580025:1
+  }
+  {
+    id: 6580056
+    name: 【标记】补充탄약连携2
+    code: "1"
+    skill_group_id: 6580056
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658002631"
+    special_spot_add: 6580028:1
+    special_spot_minus: 6580026:1
+  }
+  {
+    id: 6580057
+    name: 【标记】补充탄약连携3
+    code: "1"
+    skill_group_id: 6580057
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658000631"
+    special_spot_add: 6580025:1
+    special_spot_minus: 6580006:1
+  }
+  {
+    id: 6580058
+    name: 【标记】补充탄약连携3
+    code: "1"
+    skill_group_id: 6580058
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658002331"
+    special_spot_add: 6580026:1
+    special_spot_minus: 6580023:1
+  }
+  {
+    id: 6580059
+    name: 【标记】补充탄약连携3
+    code: "1"
+    skill_group_id: 6580059
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658002431"
+    special_spot_add: 6580027:1
+    special_spot_minus: 6580024:1
+  }
+  {
+    id: 6580060
+    name: 【标记】补充탄약连携3
+    code: "1"
+    skill_group_id: 6580060
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "658002531"
+    special_spot_add: 6580028:1
+    special_spot_minus: 6580025:1
+  }
+  {
+    id: 6580061
+    name: 【标记】支援中탄약转非支援1
+    code: "1"
+    skill_group_id: 6580061
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "658002331"
+    target_id: "1"
+    special_spot_add: 6580007:1
+    special_spot_minus: 6580023:1
+  }
+  {
+    id: 6580062
+    name: 【标记】支援中탄약转非支援2
+    code: "1"
+    skill_group_id: 6580062
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "658002431"
+    target_id: "1"
+    special_spot_add: 6580008:1
+    special_spot_minus: 6580024:1
+  }
+  {
+    id: 6580063
+    name: 【标记】支援中탄약转非支援3
+    code: "1"
+    skill_group_id: 6580063
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "658002531"
+    target_id: "1"
+    special_spot_add: 6580009:1
+    special_spot_minus: 6580025:1
+  }
+  {
+    id: 6580064
+    name: 【标记】支援中탄약转非支援4
+    code: "1"
+    skill_group_id: 6580064
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "658002631"
+    target_id: "1"
+    special_spot_add: 6580010:1
+    special_spot_minus: 6580026:1
+  }
+  {
+    id: 6580065
+    name: 【标记】支援中탄약转非支援5
+    code: "1"
+    skill_group_id: 6580065
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "658002731"
+    target_id: "1"
+    special_spot_add: 6580011:1
+    special_spot_minus: 6580027:1
+  }
+  {
+    id: 6580066
+    name: 【标记】支援中탄약转非支援6
+    code: "1"
+    skill_group_id: 6580066
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "658002831"
+    target_id: "1"
+    special_spot_add: 6580012:1
+    special_spot_minus: 6580028:1
+  }
+  {
+    id: 6580067
+    name: 【标记】疲劳计数초기화连携
+    code: "1"
+    skill_group_id: 6580067
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,8"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 6580000:1
+  }
+  {
+    id: 6580068
+    name: 【标记】전송门초기화
+    code: "1"
+    skill_group_id: 6580068
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580030:1
+  }
+  {
+    id: 6580069
+    name: 【标记】每回合恢复精力
+    code: "1"
+    skill_group_id: 6580069
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "1,8"
+    cd_time_type: 1
+    start_range: 99
+    mission_buff_add: 6580000:1
+    mission_buff_minus: 6580001:1,6580002:1,6580003:1,6580004:1,6580005:1,6580006:1,6580007:1,6580008:1,6580009:1
+  }
+  {
+    id: 6580070
+    name: 【标记】扣除탄약2剩余1
+    code: "1"
+    skill_group_id: 6580070
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "658001241"
+    target_id: "1"
+    mission_buff_add: 6580010:1
+    mission_buff_minus: 6580012:1
+  }
+  {
+    id: 6580071
+    name: 【标记】扣除탄약2剩余0
+    code: "1"
+    skill_group_id: 6580071
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "658001141"
+    target_id: "1"
+    mission_buff_minus: 6580011:1
+  }
+  {
+    id: 6580072
+    name: 【标记】扣除탄약1剩余2
+    code: "1"
+    skill_group_id: 6580072
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "658001241"
+    target_id: "1"
+    mission_buff_add: 6580011:1
+    mission_buff_minus: 6580012:1
+  }
+  {
+    id: 6580073
+    name: 【标记】扣除탄약1剩余1
+    code: "1"
+    skill_group_id: 6580073
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "658001141"
+    target_id: "1"
+    mission_buff_add: 6580010:1
+    mission_buff_minus: 6580011:1
+  }
+  {
+    id: 6580074
+    name: 【标记】扣除탄약1剩余0
+    code: "1"
+    skill_group_id: 6580074
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "658001041"
+    target_id: "1"
+    mission_buff_minus: 6580010:1
+  }
+  {
+    id: 6580075
+    name: 【标记】多动载体
+    code: "1"
+    skill_group_id: 6580075
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "5"
+    cd_time_type: 1
+    start_range: 99
+    mission_buff_add: 20401:1
+  }
+  {
+    id: 6580101
+    name: 【标记】初始值100
+    code: "1"
+    skill_group_id: 6580101
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "6580102"
+    is_manual: 6580101
+    drop_item: 528:-99999999
+  }
+  {
+    id: 6580102
+    name: 【标记】初始值100连携
+    code: "1"
+    skill_group_id: 6580102
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    is_manual: 6580102
+    drop_item: 528:100
+  }
+  {
+    id: 6580103
+    name: 【标记】杀敌+20
+    code: "1"
+    skill_group_id: 6580103
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    drop_item: 528:20
+  }
+  {
+    id: 6580104
+    name: "-10"
+    code: "1"
+    skill_group_id: 6580104
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    drop_item: 528:-10
+  }
+  {
+    id: 6580105
+    name: 【标记】安杰초기화
+    code: "1"
+    skill_group_id: 6580105
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 6580100:1,580099:1
+  }
+  {
+    id: 6580106
+    name: 대화
+    code: "1"
+    description: AN94와 대화하기.
+    skill_group_id: 6580106
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    trigger_id: "658010261"
+    target_id: "1"
+    special_spot_add: 6580142:1
+    subsidiary_mission_skill: "6580111,6580121"
+    is_manual: 6580103
+  }
+  {
+    id: 6580107
+    name: 대화
+    code: "1"
+    description: AK15와 대화하기.
+    skill_group_id: 6580107
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    trigger_id: "658010461"
+    target_id: "1"
+    special_spot_add: 6580102:1
+    subsidiary_mission_skill: "6580113,6580179"
+    is_manual: 6580104
+  }
+  {
+    id: 6580108
+    name: 대화
+    code: "1"
+    description: AK15와 대화하기.
+    skill_group_id: 6580108
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    trigger_id: "658010461"
+    target_id: "1"
+    special_spot_add: 6580102:1
+    mission_buff_add: 580099:1
+    is_manual: 6580104
+  }
+  {
+    id: 6580109
+    name: 대화
+    code: "1"
+    description: AK12와 대화하기.
+    skill_group_id: 6580109
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    trigger_id: "658010361"
+    target_id: "1"
+    special_spot_add: 6580103:1
+    subsidiary_mission_skill: "6580112,6580179"
+    is_manual: 6580105
+  }
+  {
+    id: 6580110
+    name: 대화
+    code: "1"
+    description: AK12와 대화하기.
+    skill_group_id: 6580110
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    trigger_id: "658010361"
+    target_id: "1"
+    special_spot_add: 6580103:1
+    mission_buff_add: 580099:1
+    is_manual: 6580105
+  }
+  {
+    id: 6580111
+    name: 【标记】AN94连携
+    code: "1"
+    skill_group_id: 6580111
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 6580101:1
+  }
+  {
+    id: 6580112
+    name: 【标记】ak12连携1
+    code: "1"
+    skill_group_id: 6580112
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 6580102:1,580099:1,6580106:1
+    mission_buff_minus: 6580101:1
+  }
+  {
+    id: 6580113
+    name: 【标记】ak15连携1
+    code: "1"
+    skill_group_id: 6580113
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 6580103:1,580099:1,6580106:1
+    mission_buff_minus: 6580101:1
+  }
+  {
+    id: 6580114
+    name: 대화
+    code: "1"
+    description: AK15, AK12와 대화하기.
+    skill_group_id: 6580114
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    trigger_id: "658011261"
+    target_id: "1"
+    special_spot_add: 6580104:1
+    is_manual: 6580104
+  }
+  {
+    id: 6580115
+    name: 【标记】安杰초기화简单
+    code: "1"
+    skill_group_id: 6580115
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 6580104:1,580099:1
+  }
+  {
+    id: 6580116
+    name: 대화
+    code: "1"
+    description: AN94와 대화하기.
+    skill_group_id: 6580116
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    trigger_id: "658010261"
+    target_id: "1"
+    special_spot_add: 6580101:1
+    subsidiary_mission_skill: "6580117,6580121"
+    is_manual: 6580103
+  }
+  {
+    id: 6580117
+    name: 【标记】AN94连携简单
+    code: "1"
+    skill_group_id: 6580117
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 6580105:1
+  }
+  {
+    id: 6580118
+    name: 【标记】AK15判负
+    code: "1"
+    skill_group_id: 6580118
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580105:1
+  }
+  {
+    id: 6580119
+    name: 【标记】AK12判负
+    code: "1"
+    skill_group_id: 6580119
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580106:1
+  }
+  {
+    id: 6580120
+    name: 【标记】安杰判负
+    code: "1"
+    skill_group_id: 6580120
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580107:1
+  }
+  {
+    id: 6580121
+    name: 【标记】炸药
+    code: "1"
+    skill_group_id: 6580121
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 6580106:1
+  }
+  {
+    id: 6580122
+    name: 【标记】초기화炸药
+    code: "1"
+    skill_group_id: 6580122
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580108:1
+  }
+  {
+    id: 6580123
+    name: 폭탄 기폭
+    code: "1"
+    description: 골리앗을 터뜨린다. 각 골리앗은 1번씩만 기폭할 수 있다.(폭발 시 주위 1칸 안 보스 이외 유닛을 즉사하고 보스 유닛은 1턴 간 이동이 불가능해진다.)
+    skill_group_id: 6580123
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658010831"
+    special_spot_add: 6580109:1,6580110:1
+    special_spot_minus: 6580108:1
+    is_manual: 6580106
+  }
+  {
+    id: 6580124
+    name: 【标记】D4초기화
+    code: "1"
+    skill_group_id: 6580124
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "301"
+    cd_time_type: 1
+    start_range: 1
+    mission_buff_add: 6580108:1
+    subsidiary_mission_skill: "6580185"
+  }
+  {
+    id: 6580125
+    name: 대화
+    code: "1"
+    description: 요원과 대화하기
+    skill_group_id: 6580125
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    trigger_id: "658011361"
+    target_id: "1"
+    special_spot_add: 6580113:1
+    subsidiary_mission_skill: "6580128,6580182"
+    is_manual: 6580107
+  }
+  {
+    id: 6580126
+    name: 함정 설치
+    code: "1"
+    description: 여기에 함정을 설치한다.
+    skill_group_id: 6580126
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    target_id: "658011131"
+    special_spot_add: 6580112:1,6580139:1,6580144:1
+    special_spot_minus: 6580111:1
+    is_manual: 6580108
+  }
+  {
+    id: 6580127
+    name: 【标记】함정초기화
+    code: "1"
+    skill_group_id: 6580127
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580111:1
+  }
+  {
+    id: 6580128
+    name: 【标记】대화连携
+    code: "1"
+    skill_group_id: 6580128
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "301"
+    cd_time_type: 1
+    start_range: 99
+    mission_buff_add: 6580109:1
+    mission_buff_minus: 6580108:1
+  }
+  {
+    id: 6580129
+    name: 【标记】암호판초기화
+    code: "1"
+    skill_group_id: 6580129
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580114:1,6580134:1
+  }
+  {
+    id: 6580130
+    name: 【标记】암호판초기화
+    code: "1"
+    skill_group_id: 6580130
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580115:1,6580134:1
+  }
+  {
+    id: 6580131
+    name: 【标记】암호판초기화
+    code: "1"
+    skill_group_id: 6580131
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580116:1,6580134:1
+  }
+  {
+    id: 6580132
+    name: 【标记】암호판초기화
+    code: "1"
+    skill_group_id: 6580132
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580117:1,6580134:1
+  }
+  {
+    id: 6580133
+    name: 【标记】암호판초기화
+    code: "1"
+    skill_group_id: 6580133
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580118:1,6580134:1
+  }
+  {
+    id: 6580134
+    name: 【标记】암호판초기화
+    code: "1"
+    skill_group_id: 6580134
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580119:1,6580134:1
+  }
+  {
+    id: 6580135
+    name: 【标记】암호판초기화
+    code: "1"
+    skill_group_id: 6580135
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580120:1,6580134:1
+  }
+  {
+    id: 6580136
+    name: 【标记】암호판초기화
+    code: "1"
+    skill_group_id: 6580136
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580121:1,6580134:1
+  }
+  {
+    id: 6580137
+    name: 【标记】암호판초기화
+    code: "1"
+    skill_group_id: 6580137
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580122:1,6580134:1
+  }
+  {
+    id: 6580138
+    name: 【标记】암호판초기화
+    code: "1"
+    skill_group_id: 6580138
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580123:1,6580134:1
+  }
+  {
+    id: 6580139
+    name: 전환
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580139
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658011431"
+    special_spot_add: 6580124:1
+    special_spot_minus: 6580114:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580140
+    name: 전환
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580140
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658011531"
+    special_spot_add: 6580125:1
+    special_spot_minus: 6580115:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580141
+    name: 전환
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580141
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658011631"
+    special_spot_add: 6580126:1
+    special_spot_minus: 6580116:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580142
+    name: 전환
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580142
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658011731"
+    special_spot_add: 6580127:1
+    special_spot_minus: 6580117:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580143
+    name: 전환
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580143
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658011831"
+    special_spot_add: 6580128:1
+    special_spot_minus: 6580118:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580144
+    name: 전환
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580144
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658011931"
+    special_spot_add: 6580129:1
+    special_spot_minus: 6580119:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580145
+    name: 전환
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580145
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658012031"
+    special_spot_add: 6580130:1
+    special_spot_minus: 6580120:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580146
+    name: 전환
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580146
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658012131"
+    special_spot_add: 6580131:1
+    special_spot_minus: 6580121:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580147
+    name: 전환
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580147
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658012231"
+    special_spot_add: 6580132:1
+    special_spot_minus: 6580122:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580148
+    name: 전환
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580148
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658012331"
+    special_spot_add: 6580133:1
+    special_spot_minus: 6580123:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580149
+    name: 전환-
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580149
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658012431"
+    special_spot_add: 6580114:1
+    special_spot_minus: 6580124:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580150
+    name: 전환-
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580150
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658012531"
+    special_spot_add: 6580115:1
+    special_spot_minus: 6580125:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580151
+    name: 전환-
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580151
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658012631"
+    special_spot_add: 6580116:1
+    special_spot_minus: 6580126:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580152
+    name: 전환-
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580152
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658012731"
+    special_spot_add: 6580117:1
+    special_spot_minus: 6580127:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580153
+    name: 전환-
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580153
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658012831"
+    special_spot_add: 6580118:1
+    special_spot_minus: 6580128:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580154
+    name: 전환-
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580154
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658012931"
+    special_spot_add: 6580119:1
+    special_spot_minus: 6580129:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580155
+    name: 전환-
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580155
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658013031"
+    special_spot_add: 6580120:1
+    special_spot_minus: 6580130:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580156
+    name: 전환-
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580156
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658013131"
+    special_spot_add: 6580121:1
+    special_spot_minus: 6580131:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580157
+    name: 전환-
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580157
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658013231"
+    special_spot_add: 6580122:1
+    special_spot_minus: 6580132:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580158
+    name: 전환-
+    code: "1"
+    description: 시설의 상태를 전환해 연결 경로를 바꾼다.(-10BPM)
+    skill_group_id: 6580158
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658013331"
+    special_spot_add: 6580123:1
+    special_spot_minus: 6580133:1
+    subsidiary_mission_skill: "6580184"
+    is_manual: 6580109
+  }
+  {
+    id: 6580159
+    name: 【标记】敌人多动초기화
+    code: "1"
+    skill_group_id: 6580159
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    mission_buff_add: 20401:1
+  }
+  {
+    id: 6580160
+    name: 【标记】移除多动
+    code: "1"
+    skill_group_id: 6580160
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_minus: 20401:1
+  }
+  {
+    id: 6580161
+    name: 【标记】安杰标记
+    code: "1"
+    skill_group_id: 6580161
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 580099:1
+  }
+  {
+    id: 6580162
+    name: 【标记】전송技能
+    code: "1"
+    skill_group_id: 6580162
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "301"
+    cd_time_type: 1
+    start_range: 99
+    mission_buff_add: 6580111:1,20202:1,20201:1
+  }
+  {
+    id: 6580163
+    name: 【标记】简单D2심박수초기화
+    code: "1"
+    skill_group_id: 6580163
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "6580170"
+    drop_item: 528:-99999999
+  }
+  {
+    id: 6580164
+    name: 【标记】困难D2심박수초기화
+    code: "1"
+    skill_group_id: 6580164
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "6580171"
+    drop_item: 528:-99999999
+  }
+  {
+    id: 6580165
+    name: 【标记】简单D4심박수초기화
+    code: "1"
+    skill_group_id: 6580165
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "6580172"
+    drop_item: 528:-99999999
+  }
+  {
+    id: 6580166
+    name: 【标记】困难D4심박수초기화
+    code: "1"
+    skill_group_id: 6580166
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "6580173"
+    drop_item: 528:-99999999
+  }
+  {
+    id: 6580167
+    name: 【标记】简单door심박수초기화
+    code: "1"
+    skill_group_id: 6580167
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "6580174,6580162,6580189"
+    drop_item: 528:-99999999
+  }
+  {
+    id: 6580168
+    name: 【标记】困难door심박수초기화
+    code: "1"
+    skill_group_id: 6580168
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "6580175,6580162,6580189"
+    drop_item: 528:-99999999
+  }
+  {
+    id: 6580169
+    name: 전송
+    code: "1"
+    description:
+      '''
+      4칸 거리 안 비어있는 레이더 지점으로 순간이동한다.(-20BPM)
+      Energize~
+      '''
+    skill_group_id: 6580169
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 4
+    is_airborne: 2
+    effect_cast: "1009"
+    effect_target: "1010"
+    target_id: "658013431"
+    subsidiary_mission_skill: "6580176"
+    is_manual: 6580110
+  }
+  {
+    id: 6580170
+    name: 【标记】简单D2심박수초기화连携
+    code: "1"
+    skill_group_id: 6580170
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580098:1,580099:12
+    drop_item: 528:120
+  }
+  {
+    id: 6580171
+    name: 【标记】困难D2심박수초기화连携
+    code: "1"
+    skill_group_id: 6580171
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580098:1,580099:12
+    drop_item: 528:120
+  }
+  {
+    id: 6580172
+    name: 【标记】简单D4심박수초기화连携
+    code: "1"
+    skill_group_id: 6580172
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580098:1,580099:10
+    drop_item: 528:100
+  }
+  {
+    id: 6580173
+    name: 【标记】困难D4심박수초기화连携
+    code: "1"
+    skill_group_id: 6580173
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580098:1,580099:10
+    drop_item: 528:100
+  }
+  {
+    id: 6580174
+    name: 【标记】简单door심박수초기화连携
+    code: "1"
+    skill_group_id: 6580174
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580098:1,580099:18
+    drop_item: 528:180
+  }
+  {
+    id: 6580175
+    name: 【标记】困难door심박수초기화连携
+    code: "1"
+    skill_group_id: 6580175
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580098:1,580099:18
+    drop_item: 528:180
+  }
+  {
+    id: 6580176
+    name: 【标记】전송连携扣除特殊点
+    code: "1"
+    skill_group_id: 6580176
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "58009931"
+    special_spot_minus: 580099:2
+    subsidiary_mission_skill: "580053"
+    drop_item: 528:-20
+  }
+  {
+    id: 6580177
+    name: 【标记】杀敌增加心跳
+    code: "1"
+    skill_group_id: 6580177
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "58009931"
+    special_spot_add: 580099:2
+    subsidiary_mission_skill: "580053"
+    drop_item: 528:20
+  }
+  {
+    id: 6580178
+    name: 【标记】杀敌增加心跳特殊
+    code: "1"
+    skill_group_id: 6580178
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "58009931"
+    special_spot_add: 580099:10
+    subsidiary_mission_skill: "580053"
+    drop_item: 528:100
+  }
+  {
+    id: 6580179
+    name: 【标记】rpk加速 叛变
+    code: "1"
+    skill_group_id: 6580179
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: 658011061||658011161
+    mission_buff_add: 20401:1
+  }
+  {
+    id: 6580180
+    name: 【标记】심박수教学
+    code: "1"
+    skill_group_id: 6580180
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 589999:1
+  }
+  {
+    id: 6580181
+    name: 【标记】요원判负
+    code: "1"
+    skill_group_id: 6580181
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580136:1
+  }
+  {
+    id: 6580182
+    name: 【标记】대화后提示
+    code: "1"
+    skill_group_id: 6580182
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658011131"
+    special_spot_add: 6580137:1
+  }
+  {
+    id: 6580183
+    name: 【标记】删除提示
+    code: "1"
+    skill_group_id: 6580183
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658013731"
+    special_spot_minus: 6580137:1
+  }
+  {
+    id: 6580184
+    name: 【标记】전환扣심박수
+    code: "1"
+    skill_group_id: 6580184
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "58009931"
+    special_spot_minus: 580099:1
+    subsidiary_mission_skill: "580053"
+    drop_item: 528:-10
+  }
+  {
+    id: 6580185
+    name: 【标记】D4초기화连携
+    code: "1"
+    skill_group_id: 6580185
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "1"
+    mission_buff_add: 580099:1
+  }
+  {
+    id: 6580186
+    name: 【标记】中枢초기화
+    code: "1"
+    skill_group_id: 6580186
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580140:1
+  }
+  {
+    id: 6580187
+    name: 중추 끄기
+    code: "1"
+    description: 끄면 적이 약화된다.
+    skill_group_id: 6580187
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "658014031"
+    target_id: "1"
+    special_spot_minus: 6580140:1
+    is_manual: 6580111
+  }
+  {
+    id: 6580188
+    name: 【标记】描述
+    code: "1"
+    description: 패러데우스의 제어 중추. 무력화 시 강적도 약화됩니다.
+    skill_group_id: 6580188
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+  }
+  {
+    id: 6580189
+    name: 【标记】door2안젤리아심박수标记
+    code: "1"
+    skill_group_id: 6580189
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658011861"
+    mission_buff_add: 580099:1
+  }
+  {
+    id: 6580190
+    name: 【标记】安杰d2判负
+    code: "1"
+    skill_group_id: 6580190
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "1"
+    subsidiary_mission_skill: "6580191,6580192,6580193"
+  }
+  {
+    id: 6580191
+    name: 【标记】安杰d2判负
+    code: "1"
+    skill_group_id: 6580191
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: 658010161||658012261
+    target_id: "1"
+    special_spot_add: 6580141:1
+  }
+  {
+    id: 6580192
+    name: 【标记】安杰d2判负
+    code: "1"
+    skill_group_id: 6580192
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "1"
+    special_spot_add: 6580107:1
+  }
+  {
+    id: 6580193
+    name: 【标记】安杰d2判负
+    code: "1"
+    skill_group_id: 6580193
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "1"
+    special_spot_minus: 6580141:1
+  }
+  {
+    id: 6580194
+    name: 【标记】D2炸药描述
+    code: "1"
+    description: 골리앗 기폭 시 주위 1칸 안 잡병들은 즉사하고, 보스 유닛은 1탄간 고정됩니다.
+    skill_group_id: 6580194
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+  }
+  {
+    id: 6589001
+    name: 【标记】昼战区域1전송카운트 다운启动
+    code: "1"
+    skill_group_id: 6589001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580040:1,6580091:1
+  }
+  {
+    id: 6589002
+    name: 【标记】昼战区域2전송카운트 다운启动
+    code: "1"
+    skill_group_id: 6589002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580041:1,6580091:1
+  }
+  {
+    id: 6589003
+    name: 【标记】昼战区域3전송카운트 다운启动
+    code: "1"
+    skill_group_id: 6589003
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580042:1,6580091:1
+  }
+  {
+    id: 6589004
+    name: 【标记】昼战区域4전송카운트 다운启动
+    code: "1"
+    skill_group_id: 6589004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580043:1,6580091:1
+  }
+  {
+    id: 6589005
+    name: 【标记】昼战区域5전송카운트 다운启动
+    code: "1"
+    skill_group_id: 6589005
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580044:1,6580091:1
+  }
+  {
+    id: 6589006
+    name: 【标记】夜战区域1전송카운트 다운启动
+    code: "1"
+    skill_group_id: 6589006
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580065:1,6580091:1
+  }
+  {
+    id: 6589007
+    name: 【标记】夜战区域2전송카운트 다운启动
+    code: "1"
+    skill_group_id: 6589007
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580066:1,6580091:1
+  }
+  {
+    id: 6589008
+    name: 【标记】夜战区域3전송카운트 다운启动
+    code: "1"
+    skill_group_id: 6589008
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580067:1,6580091:1
+  }
+  {
+    id: 6589009
+    name: 【标记】夜战区域4전송카운트 다운启动
+    code: "1"
+    skill_group_id: 6589009
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580068:1,6580091:1
+  }
+  {
+    id: 6589010
+    name: 【标记】夜战区域5전송카운트 다운启动
+    code: "1"
+    skill_group_id: 6589010
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 6580069:1,6580091:1
+  }
+  {
+    id: 6589011
+    name: 【标记】昼战区域1召唤主技能
+    code: "1"
+    skill_group_id: 6589011
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "6589016,6589021,6589026,6589031,6589036"
+  }
+  {
+    id: 6589012
+    name: 【标记】昼战区域2召唤主技能
+    code: "1"
+    skill_group_id: 6589012
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "6589017,6589022,6589027,6589032,6589037"
+  }
+  {
+    id: 6589013
+    name: 【标记】昼战区域3召唤主技能
+    code: "1"
+    skill_group_id: 6589013
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "6589018,6589023,6589028,6589033,6589038"
+  }
+  {
+    id: 6589014
+    name: 【标记】昼战区域4召唤主技能
+    code: "1"
+    skill_group_id: 6589014
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "6589019,6589024,6589029,6589034,6589039"
+  }
+  {
+    id: 6589015
+    name: 【标记】昼战区域5召唤主技能
+    code: "1"
+    skill_group_id: 6589015
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "6589020,6589025,6589030,6589035,6589040"
+  }
+  {
+    id: 6589016
+    name: 【标记】昼战区域1召唤1
+    code: "1"
+    skill_group_id: 6589016
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658004031"
+    allyteam_summoner: 6589121;6589122
+  }
+  {
+    id: 6589017
+    name: 【标记】昼战区域2召唤1
+    code: "1"
+    skill_group_id: 6589017
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658004131"
+    allyteam_summoner: 6589127;6589128
+  }
+  {
+    id: 6589018
+    name: 【标记】昼战区域3召唤1
+    code: "1"
+    skill_group_id: 6589018
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658004231"
+    allyteam_summoner: 6589133;6589134
+  }
+  {
+    id: 6589019
+    name: 【标记】昼战区域4召唤1
+    code: "1"
+    skill_group_id: 6589019
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658004331"
+    allyteam_summoner: 6589139;6589140
+  }
+  {
+    id: 6589020
+    name: 【标记】昼战区域5召唤1
+    code: "1"
+    skill_group_id: 6589020
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658004431"
+    allyteam_summoner: 6589145;6589146
+  }
+  {
+    id: 6589021
+    name: 【标记】昼战区域1召唤2
+    code: "1"
+    skill_group_id: 6589021
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658004531"
+    allyteam_summoner: 6589122;6589123
+  }
+  {
+    id: 6589022
+    name: 【标记】昼战区域2召唤2
+    code: "1"
+    skill_group_id: 6589022
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658004631"
+    allyteam_summoner: 6589128;6589129
+  }
+  {
+    id: 6589023
+    name: 【标记】昼战区域3召唤2
+    code: "1"
+    skill_group_id: 6589023
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658004731"
+    allyteam_summoner: 6589134;6589135
+  }
+  {
+    id: 6589024
+    name: 【标记】昼战区域4召唤2
+    code: "1"
+    skill_group_id: 6589024
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658004831"
+    allyteam_summoner: 6589140;6589141
+  }
+  {
+    id: 6589025
+    name: 【标记】昼战区域5召唤2
+    code: "1"
+    skill_group_id: 6589025
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658004931"
+    allyteam_summoner: 6589146;6589147
+  }
+  {
+    id: 6589026
+    name: 【标记】昼战区域1召唤3
+    code: "1"
+    skill_group_id: 6589026
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658005031"
+    allyteam_summoner: 6589123;6589124
+  }
+  {
+    id: 6589027
+    name: 【标记】昼战区域2召唤3
+    code: "1"
+    skill_group_id: 6589027
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658005131"
+    allyteam_summoner: 6589129;6589130
+  }
+  {
+    id: 6589028
+    name: 【标记】昼战区域3召唤3
+    code: "1"
+    skill_group_id: 6589028
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658005231"
+    allyteam_summoner: 6589135;6589136;6589151
+  }
+  {
+    id: 6589029
+    name: 【标记】昼战区域4召唤3
+    code: "1"
+    skill_group_id: 6589029
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658005331"
+    allyteam_summoner: 6589141;6589142
+  }
+  {
+    id: 6589030
+    name: 【标记】昼战区域5召唤3
+    code: "1"
+    skill_group_id: 6589030
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658005431"
+    allyteam_summoner: 6589147;6589148
+  }
+  {
+    id: 6589031
+    name: 【标记】昼战区域1召唤4
+    code: "1"
+    skill_group_id: 6589031
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658005531"
+    allyteam_summoner: 6589124;6589125
+  }
+  {
+    id: 6589032
+    name: 【标记】昼战区域2召唤4
+    code: "1"
+    skill_group_id: 6589032
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658005631"
+    allyteam_summoner: 6589130;6589131
+  }
+  {
+    id: 6589033
+    name: 【标记】昼战区域3召唤4
+    code: "1"
+    skill_group_id: 6589033
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658005731"
+    allyteam_summoner: 6589136;6589137
+  }
+  {
+    id: 6589034
+    name: 【标记】昼战区域4召唤4
+    code: "1"
+    skill_group_id: 6589034
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658005831"
+    allyteam_summoner: 6589142;6589143
+  }
+  {
+    id: 6589035
+    name: 【标记】昼战区域5召唤4
+    code: "1"
+    skill_group_id: 6589035
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658005931"
+    allyteam_summoner: 6589148;6589149
+  }
+  {
+    id: 6589036
+    name: 【标记】昼战区域1召唤5
+    code: "1"
+    skill_group_id: 6589036
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658006031"
+    allyteam_summoner: 6589125;6589126
+  }
+  {
+    id: 6589037
+    name: 【标记】昼战区域2召唤5
+    code: "1"
+    skill_group_id: 6589037
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658006131"
+    allyteam_summoner: 6589131;6589132
+  }
+  {
+    id: 6589038
+    name: 【标记】昼战区域3召唤5
+    code: "1"
+    skill_group_id: 6589038
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658006231"
+    allyteam_summoner: 6589137;6589138
+  }
+  {
+    id: 6589039
+    name: 【标记】昼战区域4召唤5
+    code: "1"
+    skill_group_id: 6589039
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658006331"
+    allyteam_summoner: 6589143;6589144
+  }
+  {
+    id: 6589040
+    name: 【标记】昼战区域5召唤5
+    code: "1"
+    skill_group_id: 6589040
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658006431"
+    allyteam_summoner: 6589149;6589150
+  }
+  {
+    id: 6589041
+    name: 【标记】夜战区域1召唤主技能
+    code: "1"
+    skill_group_id: 6589041
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "6589046,6589051,6589056,6589061,6589066"
+  }
+  {
+    id: 6589042
+    name: 【标记】夜战区域2召唤主技能
+    code: "1"
+    skill_group_id: 6589042
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "6589047,6589052,6589057,6589062,6589067"
+  }
+  {
+    id: 6589043
+    name: 【标记】夜战区域3召唤主技能
+    code: "1"
+    skill_group_id: 6589043
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "6589048,6589053,6589058,6589063,6589068"
+  }
+  {
+    id: 6589044
+    name: 【标记】夜战区域4召唤主技能
+    code: "1"
+    skill_group_id: 6589044
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "6589049,6589054,6589059,6589064,6589069"
+  }
+  {
+    id: 6589045
+    name: 【标记】夜战区域5召唤主技能
+    code: "1"
+    skill_group_id: 6589045
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "6589050,6589055,6589060,6589065,6589070"
+  }
+  {
+    id: 6589046
+    name: 【标记】夜战区域1召唤1
+    code: "1"
+    skill_group_id: 6589046
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658006531"
+    allyteam_summoner: 6589221;6589222
+  }
+  {
+    id: 6589047
+    name: 【标记】夜战区域2召唤1
+    code: "1"
+    skill_group_id: 6589047
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658006631"
+    allyteam_summoner: 6589227;6589228
+  }
+  {
+    id: 6589048
+    name: 【标记】夜战区域3召唤1
+    code: "1"
+    skill_group_id: 6589048
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658006731"
+    allyteam_summoner: 6589233;6589234
+  }
+  {
+    id: 6589049
+    name: 【标记】夜战区域4召唤1
+    code: "1"
+    skill_group_id: 6589049
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658006831"
+    allyteam_summoner: 6589239;6589240
+  }
+  {
+    id: 6589050
+    name: 【标记】夜战区域5召唤1
+    code: "1"
+    skill_group_id: 6589050
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658006931"
+    allyteam_summoner: 6589245;6589246
+  }
+  {
+    id: 6589051
+    name: 【标记】夜战区域1召唤2
+    code: "1"
+    skill_group_id: 6589051
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658007031"
+    allyteam_summoner: 6589222;6589223
+  }
+  {
+    id: 6589052
+    name: 【标记】夜战区域2召唤2
+    code: "1"
+    skill_group_id: 6589052
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658007131"
+    allyteam_summoner: 6589228;6589229
+  }
+  {
+    id: 6589053
+    name: 【标记】夜战区域3召唤2
+    code: "1"
+    skill_group_id: 6589053
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658007231"
+    allyteam_summoner: 6589234;6589235
+  }
+  {
+    id: 6589054
+    name: 【标记】夜战区域4召唤2
+    code: "1"
+    skill_group_id: 6589054
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658007331"
+    allyteam_summoner: 6589240;6589241
+  }
+  {
+    id: 6589055
+    name: 【标记】夜战区域5召唤2
+    code: "1"
+    skill_group_id: 6589055
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658007431"
+    allyteam_summoner: 6589246;6589247
+  }
+  {
+    id: 6589056
+    name: 【标记】夜战区域1召唤3
+    code: "1"
+    skill_group_id: 6589056
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658007531"
+    allyteam_summoner: 6589223;6589224
+  }
+  {
+    id: 6589057
+    name: 【标记】夜战区域2召唤3
+    code: "1"
+    skill_group_id: 6589057
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658007631"
+    allyteam_summoner: 6589229;6589230
+  }
+  {
+    id: 6589058
+    name: 【标记】夜战区域3召唤3
+    code: "1"
+    skill_group_id: 6589058
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658007731"
+    allyteam_summoner: 6589235;6589236;6589251
+  }
+  {
+    id: 6589059
+    name: 【标记】夜战区域4召唤3
+    code: "1"
+    skill_group_id: 6589059
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658007831"
+    allyteam_summoner: 6589241;6589242
+  }
+  {
+    id: 6589060
+    name: 【标记】夜战区域5召唤3
+    code: "1"
+    skill_group_id: 6589060
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658007931"
+    allyteam_summoner: 6589247;6589248
+  }
+  {
+    id: 6589061
+    name: 【标记】夜战区域1召唤4
+    code: "1"
+    skill_group_id: 6589061
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658008031"
+    allyteam_summoner: 6589224;6589225
+  }
+  {
+    id: 6589062
+    name: 【标记】夜战区域2召唤4
+    code: "1"
+    skill_group_id: 6589062
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658008131"
+    allyteam_summoner: 6589230;6589231
+  }
+  {
+    id: 6589063
+    name: 【标记】夜战区域3召唤4
+    code: "1"
+    skill_group_id: 6589063
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658008231"
+    allyteam_summoner: 6589236;6589237
+  }
+  {
+    id: 6589064
+    name: 【标记】夜战区域4召唤4
+    code: "1"
+    skill_group_id: 6589064
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658008331"
+    allyteam_summoner: 6589242;6589243
+  }
+  {
+    id: 6589065
+    name: 【标记】夜战区域5召唤4
+    code: "1"
+    skill_group_id: 6589065
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658008431"
+    allyteam_summoner: 6589248;6589249
+  }
+  {
+    id: 6589066
+    name: 【标记】夜战区域1召唤5
+    code: "1"
+    skill_group_id: 6589066
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658008531"
+    allyteam_summoner: 6589225;6589226
+  }
+  {
+    id: 6589067
+    name: 【标记】夜战区域2召唤5
+    code: "1"
+    skill_group_id: 6589067
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658008631"
+    allyteam_summoner: 6589231;6589232
+  }
+  {
+    id: 6589068
+    name: 【标记】夜战区域3召唤5
+    code: "1"
+    skill_group_id: 6589068
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658008731"
+    allyteam_summoner: 6589237;6589238
+  }
+  {
+    id: 6589069
+    name: 【标记】夜战区域4召唤5
+    code: "1"
+    skill_group_id: 6589069
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658008831"
+    allyteam_summoner: 6589243;6589244
+  }
+  {
+    id: 6589070
+    name: 【标记】夜战区域5召唤5
+    code: "1"
+    skill_group_id: 6589070
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "658008931"
+    allyteam_summoner: 6589249;6589250
+  }
+  {
+    id: 6589071
+    name: 점착폭탄 투척
+    code: "1"
+    skill_group_id: 6589071
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    target_id: "58012031"
+    special_spot_add: 6580090:1
+    subsidiary_mission_skill: "6589072"
+    is_manual: 6540024
+  }
+  {
+    id: 6589072
+    name: 【标记】投掷删除
+    code: "1"
+    skill_group_id: 6589072
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_minus: 6580015:1
+  }
+  {
     id: 8120101
     name: 문 열기(차단문I형①)
     code: "1"
@@ -64775,6 +69929,147 @@
     special_spot_add: 45010007:1,1000200:1
   }
   {
+    id: 58000101
+    name: 【自伤】심박수过低自动回复
+    skill_group_id: 58000101
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: "580001"
+    target_id: "580053"
+    special_spot_add: 580001:1
+    subsidiary_mission_skill: "58000102,58000103"
+  }
+  {
+    id: 58000102
+    name: 【连携】심박수自动清空
+    skill_group_id: 58000102
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "580052"
+    special_spot_minus: 580099:99
+    drop_item: 528:-9999
+  }
+  {
+    id: 58000103
+    name: 【连携】심박수回复至50
+    skill_group_id: 58000103
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "580052"
+    special_spot_add: 580099:5
+    subsidiary_mission_skill: "580053"
+    drop_item: 528:50
+  }
+  {
+    id: 58000401
+    name: 【连携】活跃심박수加速获取
+    skill_group_id: 58000401
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: "580009"
+    target_id: "580053"
+    mission_buff_add: 58000401:1
+  }
+  {
+    id: 58005201
+    name: 심박수机制常驻|杀敌上升2
+    skill_group_id: 58005201
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "580052"
+    special_spot_add: 580099:4
+    subsidiary_mission_skill: "580053"
+    drop_item: 528:40
+  }
+  {
+    id: 58041101
+    name: 신호初始清空
+    skill_group_id: 58041101
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    drop_item: 530:-9999
+  }
+  {
+    id: 58451101
+    name: 엘레베이터초기화
+    skill_group_id: 58451101
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: -1
+    is_airborne: 2
+    target_id: "1"
+    special_spot_add: 584511:1
+  }
+  {
+    id: 58451201
+    name: 엘레베이터초기화
+    skill_group_id: 58451201
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: -1
+    is_airborne: 2
+    target_id: "1"
+    special_spot_add: 584512:1
+  }
+  {
+    id: 58451301
+    name: 엘레베이터초기화
+    skill_group_id: 58451301
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: -1
+    is_airborne: 2
+    target_id: "1"
+    special_spot_add: 584513:1
+  }
+  {
+    id: 58451401
+    name: 엘레베이터초기화
+    skill_group_id: 58451401
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: -1
+    is_airborne: 2
+    target_id: "1"
+    special_spot_add: 584514:1
+  }
+  {
     id: 93617101
     name: 【표식】문 닫기 (차단문 A1)开关표식
     code: "1"
@@ -66355,5 +71650,1268 @@
     cd_time_type: 1
     target_id: "1"
     mission_buff_add: 9550101:1
+  }
+  {
+    id: 95838001
+    name: 【标记】初始赋予EMP 폭탄
+    skill_group_id: 95838001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 9583801:1,9583806:1
+  }
+  {
+    id: 95838002
+    name: 끄기교란器
+    skill_group_id: 95838002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: 1&&58012001
+    special_spot_minus: 580120:1
+    subsidiary_mission_skill: "580113"
+    is_manual: 580121
+  }
+  {
+    id: 95838003
+    name: 【标记】福音姬开场铺点
+    skill_group_id: 95838003
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+  }
+  {
+    id: 95838004
+    name: 해독 조작
+    description: 차단문 시스템에 연결해 해킹한다.
+    skill_group_id: 95838004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "102010191"
+    special_spot_add: 1000001:1
+    mission_buff_add: 9583802:1
+    subsidiary_mission_skill: "95838008"
+    is_manual: 95838004
+  }
+  {
+    id: 95838005
+    name: 해독 완료
+    description:
+      '''
+      마지막 해독을 마쳐
+      차단문I을 연다.
+      '''
+    skill_group_id: 95838005
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_minus: 9583802:1
+    subsidiary_mission_skill: "95838011,95838009"
+    is_manual: 95838007
+  }
+  {
+    id: 95838006
+    name: 해독 진행 중...
+    description: 제어콘솔①을 해독해 본다
+    skill_group_id: 95838006
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 101020191&&100030090
+    target_id: "1"
+    special_spot_minus: 1010201:1
+    subsidiary_mission_skill: "95838015"
+    is_manual: 95838005
+  }
+  {
+    id: 95838007
+    name: 해독 진행 중...
+    description: 제어콘솔②를 해독해 본다
+    skill_group_id: 95838007
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 101030191&&100020090
+    target_id: "1"
+    special_spot_minus: 1010301:1
+    subsidiary_mission_skill: "95838016"
+    is_manual: 95838006
+  }
+  {
+    id: 95838008
+    name: 【标记】전송真实动作
+    skill_group_id: 95838008
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 100
+    is_airborne: 2
+    effect_cast: "1009"
+    effect_target: "1010"
+    target_id: "100010091"
+    subsidiary_mission_skill: "95838029"
+  }
+  {
+    id: 95838009
+    name: 【标记】退出电子图
+    skill_group_id: 95838009
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 100
+    is_airborne: 2
+    effect_cast: "1009"
+    effect_target: "1010"
+    target_id: "101010091"
+  }
+  {
+    id: 95838010
+    name: EMP 폭탄
+    description:
+      '''
+      ※1회만 사용 가능.
+      대상 하나를 1턴간 이동 못하게 하고 전투능력을 대폭 감소시킨다.
+      '''
+    skill_group_id: 95838010
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 1
+    trigger_id: "958380691"
+    special_spot_add: 6540123:1
+    subsidiary_mission_skill: "95838030"
+    is_manual: 95838010
+  }
+  {
+    id: 95838011
+    name: 【标记】문 열기（真实动作）
+    skill_group_id: 95838011
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: 102010091|101010091
+    special_spot_minus: 1020101:1,1000001:1
+  }
+  {
+    id: 95838012
+    name: 해독 진행 중...
+    description: 제어콘솔②를 해독해 본다
+    skill_group_id: 95838012
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 101030191&&100020091
+    target_id: "1"
+    special_spot_add: 1000400:1
+    special_spot_minus: 1010301:1
+    subsidiary_mission_skill: "95838016"
+    is_manual: 95838006
+  }
+  {
+    id: 95838013
+    name: 【标记】신호+65
+    skill_group_id: 95838013
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 580101:12,580100:1
+    subsidiary_mission_skill: "580100"
+    drop_item: 530:60
+  }
+  {
+    id: 95838014
+    name: 【标记】清理신호-99999
+    skill_group_id: 95838014
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "95838013"
+    drop_item: 530:-99999
+  }
+  {
+    id: 95838015
+    name: 【标记】잠금 해제제어콘솔①记录
+    skill_group_id: 95838015
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: 101020091||101030091
+    special_spot_add: 1000200:1
+  }
+  {
+    id: 95838016
+    name: 【标记】잠금 해제제어콘솔②记录
+    skill_group_id: 95838016
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: 101020091||101030091
+    special_spot_add: 1000300:1
+  }
+  {
+    id: 95838017
+    name: 해독 진행 중...
+    description: 제어콘솔①을 해독해 본다
+    skill_group_id: 95838017
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 101020191&&100030091
+    target_id: "1"
+    special_spot_add: 1000400:1
+    special_spot_minus: 1010201:1
+    subsidiary_mission_skill: "95838015"
+    is_manual: 95838005
+  }
+  {
+    id: 95838018
+    name: 【标记】惊动boss,移动+1
+    skill_group_id: 95838018
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4"
+    cd_time_type: 1
+    start_range: 8
+    trigger_id: (58010001&&58010103)||(58010001&&58010104)||(58010001&&58010105)
+    target_id: "958380391"
+    mission_buff_add: 9583805:1
+  }
+  {
+    id: 95838019
+    name: 【标记】Boss标记
+    skill_group_id: 95838019
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 9583803:1
+  }
+  {
+    id: 95838020
+    name: 【标记】进入第二层,锁定第一层
+    skill_group_id: 95838020
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "102010191"
+    special_spot_add: 1000001:1
+    subsidiary_mission_skill: "95838018"
+  }
+  {
+    id: 95838021
+    name: 문 열기(차단문II)
+    description: 차단문II를 연다
+    skill_group_id: 95838021
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 5
+    trigger_id: 101020091&&101020190&&102020191
+    target_id: 102020091&&930000190
+    special_spot_add: 9300001:1
+    special_spot_minus: 1020201:1,1000001:1
+    subsidiary_mission_skill: "1000002,1020202,95838018"
+    is_manual: 1020206
+  }
+  {
+    id: 95838022
+    name: 문 닫기(차단문II)
+    description: 차단문II를 닫는다
+    skill_group_id: 95838022
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 5
+    trigger_id: 101020091&&101020190&&102020190
+    target_id: 102020091&&930000190
+    special_spot_add: 1020201:1,1000001:1,9300001:1
+    subsidiary_mission_skill: "1000003,1020203,1020204,1020205,95838018"
+    is_manual: 1020207
+  }
+  {
+    id: 95838023
+    name: 신호 조절
+    description: 신호 세기 +10
+    skill_group_id: 95838023
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 958380490&&958380191
+    target_id: "1"
+    mission_buff_add: 9583804:1
+    subsidiary_mission_skill: "95838025"
+    is_manual: 95838023
+  }
+  {
+    id: 95838024
+    name: 신호 조절
+    description: 신호 세기 -10
+    skill_group_id: 95838024
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 958380490&&958380191
+    target_id: "1"
+    mission_buff_add: 9583804:1
+    subsidiary_mission_skill: "95838026"
+    is_manual: 95838024
+  }
+  {
+    id: 95838025
+    name: 【标记】신호+10
+    skill_group_id: 95838025
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "58010001"
+    special_spot_add: 580101:2
+    subsidiary_mission_skill: "580100"
+    drop_item: 530:10
+  }
+  {
+    id: 95838026
+    name: 【标记】신호-10
+    skill_group_id: 95838026
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "58010001"
+    special_spot_minus: 580101:2
+    subsidiary_mission_skill: "580100"
+    drop_item: 530:-10
+  }
+  {
+    id: 95838027
+    name: 【标记】Boss到达标记触发器
+    skill_group_id: 95838027
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 9583801:1
+  }
+  {
+    id: 95838028
+    name: 【标记】点提示预置-문 열기提示
+    skill_group_id: 95838028
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 9583803:1
+  }
+  {
+    id: 95838029
+    name: 【标记】电子地图잠금 해제提示
+    skill_group_id: 95838029
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 9583805:1
+  }
+  {
+    id: 95838030
+    name: 【标记】清自身EMP雷标记
+    skill_group_id: 95838030
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_minus: 9583806:1
+  }
+  {
+    id: 95840001
+    name: 해독 진행 중...
+    description: 제어콘솔을 해독해 본다.
+    skill_group_id: 95840001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 101010191&&100020090
+    target_id: "1"
+    special_spot_minus: 1010101:1
+    subsidiary_mission_skill: "95840005"
+    is_manual: 95838004
+  }
+  {
+    id: 95840002
+    name: 해독 진행 중...
+    description: 제어콘솔을 해독해 본다.
+    skill_group_id: 95840002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 101020191&&100010090
+    target_id: "1"
+    special_spot_minus: 1010201:1
+    subsidiary_mission_skill: "95840006"
+    is_manual: 95838004
+  }
+  {
+    id: 95840003
+    name: 해독 진행 중...
+    description:
+      '''
+      마지막 해독을 마치고
+      차단문을 연다.
+      '''
+    skill_group_id: 95840003
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 101010191&&100020091
+    target_id: "1"
+    special_spot_add: 1000400:1
+    special_spot_minus: 1010101:1
+    subsidiary_mission_skill: "95840005,95840007"
+    is_manual: 95838004
+  }
+  {
+    id: 95840004
+    name: 해독 진행 중...
+    description:
+      '''
+      마지막 해독을 마치고
+      차단문을 연다.
+      '''
+    skill_group_id: 95840004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 101020191&&100010091
+    target_id: "1"
+    special_spot_add: 1000400:1
+    special_spot_minus: 1010201:1
+    subsidiary_mission_skill: "95840006,95840007"
+    is_manual: 95838004
+  }
+  {
+    id: 95840005
+    name: 【标记】잠금 해제제어콘솔①记录
+    skill_group_id: 95840005
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: 101010091||101020091
+    special_spot_add: 1000100:1
+  }
+  {
+    id: 95840006
+    name: 【标记】잠금 해제제어콘솔②记录
+    skill_group_id: 95840006
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: 101010091||101020091
+    special_spot_add: 1000200:1
+  }
+  {
+    id: 95840007
+    name: 【标记】문 열기（真实动作）
+    skill_group_id: 95840007
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: 102010091||101010091
+    special_spot_minus: 1020101:1,1000001:1
+  }
+  {
+    id: 95840008
+    name: 【标记】Boss强化Buff
+    skill_group_id: 95840008
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 9584001:1
+  }
+  {
+    id: 95840009
+    name: 【标记】清除Boss强化
+    skill_group_id: 95840009
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    trigger_id: 100030091&&100040091
+    target_id: "958400191"
+    mission_buff_minus: 9584001:1
+  }
+  {
+    id: 95840010
+    name: 복음중추 끄기
+    skill_group_id: 95840010
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: 1&&58012001
+    special_spot_minus: 580120:1
+    subsidiary_mission_skill: "580113,95840012"
+    is_manual: 580121
+  }
+  {
+    id: 95840011
+    name: 복음중추 끄기
+    skill_group_id: 95840011
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: 1&&58012001
+    special_spot_minus: 580120:1
+    subsidiary_mission_skill: "580113,95840013"
+    is_manual: 580121
+  }
+  {
+    id: 95840012
+    name: 【标记】잠금 해제교란器①记录
+    skill_group_id: 95840012
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: 100010091||100020091
+    special_spot_add: 1000300:1
+    subsidiary_mission_skill: "95840009"
+  }
+  {
+    id: 95840013
+    name: 【标记】잠금 해제교란器②记录
+    skill_group_id: 95840013
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: 100010091||100020091
+    special_spot_add: 1000400:1
+    subsidiary_mission_skill: "95840009"
+  }
+  {
+    id: 95840014
+    name: 【标记】可调节신호buff标记
+    skill_group_id: 95840014
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 9584002:1
+  }
+  {
+    id: 95840015
+    name: 신호 조절
+    description: 신호 세기 +10
+    skill_group_id: 95840015
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 958380490&&958400291
+    target_id: "1"
+    mission_buff_add: 9583804:1
+    subsidiary_mission_skill: "95838025"
+    is_manual: 95838023
+  }
+  {
+    id: 95840016
+    name: 신호 조절
+    description: 신호 세기 -10
+    skill_group_id: 95840016
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 958380490&&958400291
+    target_id: "1"
+    mission_buff_add: 9583804:1
+    subsidiary_mission_skill: "95838026"
+    is_manual: 95838024
+  }
+  {
+    id: 95840017
+    name: 【标记】点提示预置-Boss强化提示
+    skill_group_id: 95840017
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 9584001:1
+  }
+  {
+    id: 95840018
+    name: 【标记】Boss被杀记录1 사나 第一회 클리어
+    skill_group_id: 95840018
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: 1&&100010090
+    special_spot_add: 1000100:1
+  }
+  {
+    id: 95840019
+    name: 【标记】Boss被杀记录2 네메아란
+    skill_group_id: 95840019
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 1000200:1
+  }
+  {
+    id: 95840020
+    name: 【标记】剧情创生检测 简单 사나触发
+    skill_group_id: 95840020
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "95840029,95840018,95840033"
+  }
+  {
+    id: 95840021
+    name: 【标记】剧情创生检测 困难 사나触发
+    skill_group_id: 95840021
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "95840029,95840018,95840034"
+  }
+  {
+    id: 95840022
+    name: 【标记】剧情创生检测 噩梦 사나触发
+    skill_group_id: 95840022
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "95840029,95840018,95840035"
+  }
+  {
+    id: 95840023
+    name: 【标记】Boss被杀记录3 双杀完成 简单 네메아란
+    skill_group_id: 95840023
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "120010091"
+    special_spot_add: 9584005:1
+    subsidiary_mission_skill: "95840026"
+    allyteam_summoner: "9584091"
+  }
+  {
+    id: 95840024
+    name: 【标记】Boss被杀记录3 双杀完成 困难 네메아란
+    skill_group_id: 95840024
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "120010091"
+    special_spot_add: 9584005:1
+    subsidiary_mission_skill: "95840027"
+    allyteam_summoner: "9584091"
+  }
+  {
+    id: 95840025
+    name: 【标记】Boss被杀记录3 双杀完成 噩梦 네메아란
+    skill_group_id: 95840025
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "120010091"
+    special_spot_add: 9584005:1
+    subsidiary_mission_skill: "95840028"
+    allyteam_summoner: "9584091"
+  }
+  {
+    id: 95840026
+    name: 【标记】Boss被杀记录3 双杀完成 简单 사나
+    skill_group_id: 95840026
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "120020091"
+    allyteam_summoner: "9584092"
+  }
+  {
+    id: 95840027
+    name: 【标记】Boss被杀记录3 双杀完成 困难 사나
+    skill_group_id: 95840027
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "120020091"
+    allyteam_summoner: "9584092"
+  }
+  {
+    id: 95840028
+    name: 【标记】Boss被杀记录3 双杀完成 噩梦 사나
+    skill_group_id: 95840028
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "120020091"
+    allyteam_summoner: "9584092"
+  }
+  {
+    id: 95840029
+    name: 【标记】Boss被杀记录1 사나 第二회 클리어
+    skill_group_id: 95840029
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "100010091"
+    special_spot_add: 1000500:1
+  }
+  {
+    id: 95840030
+    name: 【标记】剧情创生检测 简单 네메아란触发
+    skill_group_id: 95840030
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "95840019,95840033"
+  }
+  {
+    id: 95840031
+    name: 【标记】剧情创生检测 困难 네메아란触发
+    skill_group_id: 95840031
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "95840019,95840034"
+  }
+  {
+    id: 95840032
+    name: 【标记】剧情创生检测 噩梦 네메아란触发
+    skill_group_id: 95840032
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "95840019,95840035"
+  }
+  {
+    id: 95840033
+    name: 【标记】双杀完成检测 普通
+    skill_group_id: 95840033
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: 100050091&&100020091
+    subsidiary_mission_skill: "95840023"
+  }
+  {
+    id: 95840034
+    name: 【标记】双杀完成检测 困难
+    skill_group_id: 95840034
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: 100050091&&100020091
+    subsidiary_mission_skill: "95840024"
+  }
+  {
+    id: 95840035
+    name: 【标记】双杀完成检测 普通
+    skill_group_id: 95840035
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: 100050091&&100020091
+    subsidiary_mission_skill: "95840025"
+  }
+  {
+    id: 95840036
+    name: 【标记】双杀完成结算
+    skill_group_id: 95840036
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "100010091"
+    special_spot_add: 9584003:1
+  }
+  {
+    id: 95840037
+    name: 【标记】距离0 禁止移动99回合Buff
+    skill_group_id: 95840037
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 1000004:1
+  }
+  {
+    id: 95840038
+    name: 【标记】消除禁止移动buff
+    skill_group_id: 95840038
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_minus: 1000004:1
+  }
+  {
+    id: 95842001
+    name: 복음중추 끄기
+    skill_group_id: 95842001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: 1&&58012001
+    special_spot_minus: 580120:1
+    subsidiary_mission_skill: "580113,95842005"
+    is_manual: 580121
+  }
+  {
+    id: 95842002
+    name: 복음중추 끄기
+    skill_group_id: 95842002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: 1&&58012001
+    special_spot_minus: 580120:1
+    subsidiary_mission_skill: "580113,95842006"
+    is_manual: 580121
+  }
+  {
+    id: 95842003
+    name: 복음중추 끄기
+    skill_group_id: 95842003
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: 1&&58012001
+    special_spot_minus: 580120:1
+    subsidiary_mission_skill: "580113,95842007"
+    is_manual: 580121
+  }
+  {
+    id: 95842004
+    name: 복음중추 끄기
+    skill_group_id: 95842004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: 1&&58012001
+    special_spot_minus: 580120:1
+    subsidiary_mission_skill: "580113,95842008"
+    is_manual: 580121
+  }
+  {
+    id: 95842005
+    name: 【标记】잠금 해제교란器①记录
+    skill_group_id: 95842005
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: 100010091||100020091||100030091||100040091
+    special_spot_add: 1000500:1
+    subsidiary_mission_skill: "95842022"
+  }
+  {
+    id: 95842006
+    name: 【标记】잠금 해제교란器②记录
+    skill_group_id: 95842006
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: 100010091||100020091||100030091||100040091
+    special_spot_add: 1000600:1
+    subsidiary_mission_skill: "95842022"
+  }
+  {
+    id: 95842007
+    name: 【标记】잠금 해제교란器③记录
+    skill_group_id: 95842007
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: 100010091||100020091||100030091||100040091
+    special_spot_add: 1000700:1
+    subsidiary_mission_skill: "95842022"
+  }
+  {
+    id: 95842008
+    name: 【标记】잠금 해제교란器④记录
+    skill_group_id: 95842008
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: 100010091||100020091||100030091||100040091
+    special_spot_add: 1000800:1
+    subsidiary_mission_skill: "95842022"
+  }
+  {
+    id: 95842009
+    name: 【标记】清除Boss强化 - 执行
+    skill_group_id: 95842009
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 100
+    target_id: "958400191"
+    mission_buff_minus: 9584001:1
+  }
+  {
+    id: 95842010
+    description: 【标记】布置轰炸引导신호。
+    skill_group_id: 95842010
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: 958420591&&100080090
+    special_spot_add: 9584202:1,1000800:1
+    is_manual: 95842008
+  }
+  {
+    id: 95842011
+    name: 【标记】能挂引信标记
+    skill_group_id: 95842011
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 2
+    special_spot_add: 9584203:1
+    mission_buff_add: 9584201:1
+  }
+  {
+    id: 95842012
+    name: 【标记】挂多动buff
+    skill_group_id: 95842012
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4"
+    cd_time_type: 1
+    start_range: 1
+    target_id: "958420890"
+    special_spot_add: 9584204:1
+    mission_buff_add: 9583805:1
+  }
+  {
+    id: 95842013
+    name: 【标记】标识포격진지
+    skill_group_id: 95842013
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 9584205:1
+  }
+  {
+    id: 95842014
+    name: 문 열기(차단문I)
+    description: 차단문I을 연다
+    skill_group_id: 95842014
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 5
+    trigger_id: 101010091&&101010190&&102010191
+    target_id: 102010091&&930000190
+    special_spot_add: 9300001:1
+    special_spot_minus: 1020101:1,1000001:1
+    subsidiary_mission_skill: "1000002,1020102"
+    is_manual: 1020106
+  }
+  {
+    id: 95842015
+    name: 문 닫기(차단문I)
+    description: 차단문I을 닫는다
+    skill_group_id: 95842015
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 5
+    trigger_id: 101010091&&101010190&&102010190
+    target_id: 102010091&&930000190
+    special_spot_add: 1020101:1,1000001:1,9300001:1
+    subsidiary_mission_skill: "1000003,1020103,1020104,1020105"
+    is_manual: 1020107
+  }
+  {
+    id: 95842016
+    name: 문 열기(차단문II)
+    description: 차단문II를 연다
+    skill_group_id: 95842016
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 5
+    trigger_id: 101020091&&101020190&&102020191
+    target_id: 102020091&&930000190
+    special_spot_add: 9300001:1
+    special_spot_minus: 1020201:1,1000001:1
+    subsidiary_mission_skill: "1000002,1020202"
+    is_manual: 1020206
+  }
+  {
+    id: 95842017
+    name: 문 닫기(차단문II)
+    description: 차단문II를 닫는다
+    skill_group_id: 95842017
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 5
+    trigger_id: 101020091&&101020190&&102020190
+    target_id: 102020091&&930000190
+    special_spot_add: 1020201:1,1000001:1,9300001:1
+    subsidiary_mission_skill: "1000003,1020203,1020204,1020205"
+    is_manual: 1020207
+  }
+  {
+    id: 95842018
+    name: 【标记】点提示预置-Boss强化提示
+    skill_group_id: 95842018
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 9584206:1
+  }
+  {
+    id: 95842019
+    name: 【标记】回合开始轰炸 - CDss布置
+    skill_group_id: 95842019
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 9584207:1
+  }
+  {
+    id: 95842020
+    name: 【标记】回合开始轰炸 - 判定
+    skill_group_id: 95842020
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 101060091&&958420790
+    target_id: "1"
+    special_spot_add: 6580143:1
+    subsidiary_mission_skill: "95842021"
+  }
+  {
+    id: 95842021
+    name: 【标记】回合开始轰炸 - 真实执行
+    skill_group_id: 95842021
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 100
+    data_pool: "55"
+    special_spot_add: 9584208:1
+  }
+  {
+    id: 95842022
+    name: 【标记】清除Boss强化 - 判定
+    skill_group_id: 95842022
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: 100050091&&100060091&&100070091&&100080091
+    target_id: "1"
+    subsidiary_mission_skill: "95842009"
   }
 ]

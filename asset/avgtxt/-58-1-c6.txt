@@ -1,194 +1,194 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-M16(7)<Speaker>M16A1</Speaker>||<黑屏2><BIN>1</BIN>:……
-()||<BGM>BGM_Sneak</BGM>:M16嘶哑地笑了几声，然后将举起的枪缓缓放下。
-M16(5)<Speaker>M16A1</Speaker>||:我投降。
-()||<SE1>ClothingUp</SE1>:啪嗒——她手中的枪应声落地，随之而来的是无奈举起的双手。+M16的身后早已是空空如也，格里芬小队被一路击溃，只剩下了弹药耗尽的她。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:安洁，确认解除威胁。
-AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:这一个的安排，你有什么想法吗？+我看她比较适合拆开，各部分扔得远一点……
-M16(7)<Speaker>M16A1</Speaker>||:……
-NPC-Ange(19)<Speaker>安洁</Speaker>||:她是AR小队的，按你们这粗暴的手法，一旦被拆了就醒不过来了。+废掉她的行动能力和通讯模块就够了。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:是。
-AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:啊，真无聊……
-()||<SE1>AVG_Grey_Hand_Mech</SE1>:AK12打了个哈欠，不情愿地帮AN94按住M16，完成行动中枢破坏。+M16的身体瘫软下来，她的脸贴在泥泞的地上，眼神却直勾勾找向安洁。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:你还有什么话想说？
-M16(5)<Speaker>M16A1</Speaker>||:安洁指挥官，明明只需要再在基地无所事事地消磨一段时间，就可以让一切回到过去的模样。+你为什么——
-NPC-Ange(19)<Speaker>安洁</Speaker>||:我改变主意了，把她的语言模块也一起卸掉吧。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:是。
-()||<SE1>AVG_Grey_Hand_Mech</SE1>:咔哒——+M16无声地张了张嘴，最后只能苦笑着接受了命运。
-AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:AR小队那几个家伙也隐藏好了，按你吩咐的将坐标发给帕斯卡的邮箱了。
-NPC-Ange(19)<Speaker>安洁</Speaker>||<黑点1>:嗯，走吧。+先带我去刚刚和那些家伙遭遇的地方看看。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||<黑点2><BGM>BGM_Empty</BGM>:……我们刚刚就是在这里遇见那些无法识别讯号的敌人。
-NPC-Ange(22)<Speaker>安洁</Speaker>||:……+我见过这些玩意儿……
-()||<BGM>10230</BGM>:地面上还残留着战斗痕迹和凌乱的足迹，安洁的眼神却无视了它们而是直勾勾盯着——
-AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:啊，你果然也很在意这个。+虽然现在还不是很理解人类，但我猜，这大概是个路标之类的东西吧。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:……
-()||:在一个不起眼的岔路口，竖着一具诡异的尸骸。+明显来自不同人类的尸块被粗线缝合，勉强拼接出人类的形状，尸骸举起右手，指向了那一边的小路。+但这些都不是最吸引安洁注意力的，她的目光久久停留在尸骸胸前的木牌——
-()||<narrator>:“安洁莉娅，我知道你杀了人”
-AK12(4)<Position>0,50</Position><Speaker>AK12</Speaker>||:啊呀，我和94是不是看见了什么不该看见的东西？+你如果需要的话，等回实验室后我们会删掉这段记忆的。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:……+安洁，你能回想起是谁会留下这样的信息吗？
-NPC-Ange(21)<Speaker>安洁</Speaker>||:人选太多了，一时也想不出是谁这么无聊。
-AK12(4)<Position>0,50</Position><Speaker>AK12</Speaker>||:哈哈哈，看来我们这一趟会帮你找到一个意想不到的仇人呢。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:无所谓。+我更在意的是……
-()||:安洁的眼前又一次出现了审讯员拿给她看的诺维科夫的死亡现场照片。+熟悉的审讯痕迹，熟悉的匕首痕迹……+只有非常了解她的人才可能知道这些事情，但在这个世上，这样的人已经不存在了。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:安洁？
-NPC-Ange(19)<Speaker>安洁</Speaker>||<黑屏1>:走吧，看看我的这位仇人到底要找我算哪一笔账。
-()||<黑屏2><BIN>417</BIN>:……
-()<Speaker>实验体</Speaker>||:甘拉狄上尉，如您所料，我们的目标已经突破格里芬基地的包围，朝着这里前进了。
-NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:让先遣小队引诱她们去埋伏的部队那里。
-NPC-Pamzan(10)<Speaker>实验体</Speaker><Position>0,-70</Position><同时置暗>||:我们已经这样做了，只是，她好像知道路上哪里会有埋伏……+全部都被她躲开了，跟随她的两个人形也毫发无伤。
-NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:……
-NPC-Pamzan(10)<Speaker>实验体</Speaker><Position>0,-70</Position><同时置暗>||:我们的目标似乎也很熟悉您的战术……
-NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:这样才更有意思啊。+如果复仇只是单方面的碾压，那将变得多么无趣啊……
-()||:他站在了朽烂的窗框，张开双臂，迎接着吹向他的风。
-NPC-Pamzan(13)<Speaker>？？？</Speaker><Position>0,-70</Position>||<黑屏1>:终于要见面了，安洁指挥官。+我已经迫不及待要把你碾成一滩肉泥了……
-()||<黑屏2><BIN>468</BIN><BGM>BGM_Empty</BGM>:沿着诡异路标指引的方向，她们遭遇了零星几场战斗。+狼群小队清扫战场后，集中了几具敌人的尸骸。
-NPC-Ange(19)<Speaker>安洁</Speaker>||<BGM>10254</BGM>:和那个路标一样。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:它们……既不是人形，也不是人类，是用人类的肉体和机械拼合而成。+根据人类肉体部分的状态来看，拼合是在人类死后进行的，我不明白这样做的意义……+另外，我也没有找到它们的能源驱动方式。
-AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:真恶心。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:……
-()||:安洁蹲在尸骸边，目光专注地看向了敌人身着的迷彩制服和佩戴的军衔。
-()||<SE1>ClothingUp</SE1>:她拉开敌人的衣领——
-NPC-Ange(22)<Speaker>安洁</Speaker>||:这是军队的身份识别牌……
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:看上去不像是粗制滥造的仿冒产品。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:……
-AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:安洁，你现在的表情有点可怕。
-()||:安洁的手指摩挲着身份识别牌上的军种标识。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:是我以前待过的部队。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:据我所知，你之前待过的那支部队早在裁军潮的时候就已经被遣散了——
-NPC-Ange(19)<Speaker>安洁</Speaker>||:早在更早之前，他们就……
-()||:安洁突然沉默了，脸上的表情明显更阴暗了。
-AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:也就是说，这些来历不明的敌人是按照已经不存在的人类军队的方式打扮、武装自己？
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:但它们却由人类的身体和机械拼接而成。+我不能理解这样的行为方式，不管是模仿人类军人的外表，还是拼接的部分，都对战力没有显著的提升。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:只有疯子才能干出这种事来。+我绝不会饶过背后的人……
-()||:AK12又翻看了一遍敌人的尸首。
-AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:这些也许只是被抛弃的失败品呢。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:失败品……
-NPC-Ange(19)<Speaker>安洁</Speaker>||:在我看来，这些东西都不过是拙劣的伪造品。
-AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:安洁，有新的路标了。
-()||<BGM>BGM_Empty</BGM><SE1>AVG_flag</SE1>:顺着AK12的手指，安洁也看见了在远方废墟上立着的人形路标，朽烂的衣服在风中微微飘摇着。
-NPC-Ange(19)<Speaker>安洁</Speaker>||<BGM>10256</BGM>:走吧。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:这些身份识别牌要处理吗？
-NPC-Ange(19)<Speaker>安洁</Speaker>||:不必了，就让它们留在这里慢慢腐烂吧。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:是。
-AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:安洁，前面就是废弃城区了，污染的浓度高，被埋伏的风险也很大，怎么行动？
-NPC-Ange(19)<Speaker>安洁</Speaker>||:……
-()||:安洁冷漠的眼神扫过废墟，嘴边慢慢扬起一个残酷的笑。
-NPC-Ange(20)<Speaker>安洁</Speaker>||:完美的复仇场地，不是吗？+但遭到复仇的究竟是谁，我看还有待商榷。
-()||:安洁率先滑下山坡，在狼群小队的掩护下走向立于废墟中的路标。+上面的木牌写着——
-()||<narrator>:“安洁莉娅，你杀了两个人”
-NPC-Ange(19)<Speaker>安洁</Speaker>||:两个人……
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:范围比刚才缩小了很多，看来敌人是想用这样的信息诱使我们不断深入。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:不过，对方也挺心急的。
-()||:安洁望向尸骸路标指引的方向——+一幢已经有歪斜迹象的废弃大楼。
-AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:真是迫不及待地想要我们死呢。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:走吧。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:安洁，我没有办法检测到敌人的讯号，无法排除埋伏的可能。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:想都不用想，准备战斗。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||<黑屏1>:……是。
-()||<黑屏2><BIN>469</BIN><BGM>BGM_Empty</BGM>:……空旷的大厅，只有中央孤零零地立着两个路标尸骸，上面的木牌写着——
-()||<narrator><BGM>GF_21summer_intro_DemonVariation</BGM>:“一个，给了我家人的爱”+“另一个，被我给予了家人的爱”
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:……是在提示死去的两人存在家族关系吗？
-AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:这位躲在暗处的仇人非常恋家呢。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:……
-()||<SE1>AVG_lifttable</SE1>:嗖——+一具尸骸被从高处抛下，重重地砸在了地面。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:戒备！
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:是！
-()||<SE1>Select</SE1>:狼群小队默契地举枪，在AN94的掩护下，AK12慢慢靠近了被扔下的尸骸。+安洁则抬头望向尸骸落下的方向，然而那里只有一片空洞的黑暗。
-AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:这具尸骸的木牌上写着“纱那”，应该是个名字。
-NPC-Ange(19)<Speaker>安洁</Speaker>||<黑点1>:……纱那？
-NPC-Sana(1)<Speaker>纱那</Speaker><Position>0,210</Position>||<回忆><黑点2><BIN>534</BIN><黑点1>:安娜姐姐……
-AN94(2)<Position>0,50</Position><Speaker>AN94</Speaker>||<黑点2><BIN>469</BIN><关闭蒙版>:小心！
-()||:被AN94猛推一把，安洁向侧方摔去——
-()||<SE1>AVG_lifttable</SE1>:嘭——又一具尸骸坠落，这一次安洁看得很清晰。
-()||<narrator>:“艾赫明”
-NPC-Ange(19)<Speaker>安洁</Speaker>||:艾赫明……
-AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:又是一个名字。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:是在说那两个死去的人的名字吗？
-NPC-Ange(22)<Speaker>安洁</Speaker>||:纱那……艾赫明……？
-()||:扶着AK12重新站起，安洁明显感觉到自己的手臂在颤抖。
-AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:你怎么了？
-NPC-Ange(22)<Speaker>安洁</Speaker>||:是那个人……只有可能是那个人……
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:你知道是谁在策划这场行动了吗？
-NPC-Ange(22)<Speaker>安洁</Speaker>||:拉普拉斯，这个世界上只有你和我还记得这两个名字……
-()||<Night><SE1>AVG_Geiger_Counter</SE1>:咣——光线在一瞬间消弭，就像是天空在这一刻塌陷一样。
-AN94(2)<Position>0,50</Position><Speaker>AN94</Speaker>||:有数名敌人在接近。
-AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:安洁，不要离我们太远。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:……没有我的命令不要擅自开枪。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:是。
-()||<SE1>AVG_footsteps_cave</SE1>:哒、哒、哒——
-()||<SE1>AVG_Sword_Scope</SE1>:空荡的脚步声响起，与此同时传来的还有金属利器摩擦墙面的刺耳噪音。+一个暗哑的声音从她们的头顶落下。
-()<Speaker>？？？</Speaker>||:安洁莉娅指挥官，我终于再次见到你了。
-NPC-Ange(19)<Speaker>安洁</Speaker>||<SE1>Stop_AVG_loop</SE1>:你是谁？是迈特纳派你来的吗？
-NPC-Ange(19)<Speaker>？？？</Speaker><同时置暗>||:我？只是一个本该在坟墓中朽烂的亡灵。+但老师给了我复活的机会……
-NPC-Ange(22)<Speaker>安洁</Speaker>||:果然是她！一切都是她搞的鬼……
-NPC-Ange(22)<Speaker>？？？</Speaker><同时置暗>||:而我将用我残缺的生命，来向你复仇。
-()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:嗖——+什么东西划破空气，以极其夸张的速度杀向了安洁……+轰——安洁只感觉地面一震。
-AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:趴下！
-()<Speaker>？？？</Speaker>||:安洁莉娅，凭现在的你，还能走到我的面前吗？
-AN94(2)<Position>0,50</Position><Speaker>AN94</Speaker>||:敌人在三楼高度，安洁，请给出命令！
-NPC-Ange(22)<Speaker>安洁</Speaker>||:……+追。
-()||<黑点1>:从紧咬的牙关间，安洁只吐出了一个字。
-()||<黑点2><BIN>565</BIN><Night><SE2>Gunfight</SE2>:呯呯呯——+枪口迸发的火光撕裂了黑暗，安洁在狼群小队的掩护下沿着楼梯继续向上。+不知道从哪里涌现，每一层楼都有难以计数的拼接尸骸冲向她们……
-AN94(2)<Position>0,50</Position><Speaker>AN94</Speaker>||:我们被包围了！
-NPC-Ange(22)<Speaker>安洁</Speaker>||:刚刚那个人，去哪了？
-AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:无法识别敌人的讯号！
-()<Speaker>？？？</Speaker>||:在找我吗？
-()||:即使在混乱的枪声中，那个声音也显得无比清晰。
-NPC-Ange(22)<Speaker>安洁</Speaker>||:迈特纳在哪里？！让她出来见我！
-NPC-Ange(22)<Speaker>？？？</Speaker><同时置暗>||:安洁莉娅指挥官，你真让我失望。+事到如今，你不会还以为你有资格得到向老师亲自复仇的机会吧？
-NPC-Ange(22)<Speaker>安洁</Speaker>||:……
-NPC-Ange(22)<Speaker>？？？</Speaker><同时置暗>||:这是我和你之间的复仇，与老师无关。+你要是再敢用那样粗鲁的语气称呼老师，我就——
-()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:唰——一根在瞬间突破时空限制的钢筋猛地扎向AN94。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker><Shake>||:唔……
-NPC-Ange(19)<Speaker>安洁</Speaker>||:94？
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:不要紧，只是小损伤，不影响我的行动效率。
-AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:撤后，我掩护你。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:……
-()||<SE1>AVG_footsteps_cave</SE1>:哒哒哒——声音主人的脚步声远去。
-NPC-Ange(22)<Speaker>安洁</Speaker>||:*的，站住！！！
-NPC-Ange(22)<Speaker>？？？</Speaker><同时置暗>||<SE1>Stop_AVG_loop</SE1>:安洁莉娅指挥官，你想知道一切的话，就到天台来吧。+前提是，你能够完整地走到天台……
-NPC-Ange(22)<Speaker>安洁</Speaker>||:*！
-AN94(2)<Position>0,50</Position><Speaker>AN94</Speaker>||:安洁，请不要独自行动！
-()||<SE2>Gunfight</SE2>:拼接尸骸的移动和攻击速度都不算快，有狼群小队的压制，对付起来并不困难，但它们的数量占据了绝对的优势。+被狼群小队的火力撕碎的一排，很快就会涌上新的一排。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:你们在后面拖延，我去找它。
-AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:可是……
-NPC-Ange(19)<Speaker>安洁</Speaker>||:这是命令，服从指挥者的判断。
-AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:安洁，你有枪吗？+你该不会打算靠着一把小匕首单挑吧？
-NPC-Ange(19)<Speaker>安洁</Speaker>||:没有，给我一把。
-()||:AK12将自己的手枪扔给了安洁。
-AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:撑住，等我们来跟你汇合。
-NPC-Ange(20)<Speaker>安洁</Speaker>||:好。
-()||<SE1>RunStep</SE1><黑屏1>:依靠着微弱的光线，安洁摸索着沿楼梯攀爬而上。+一圈又一圈，大腿逐渐麻木，连意志也有些模糊。+终于，视野的尽头出现了一扇门。+安洁没有犹豫，直接撞了上去——
-()||<黑屏2><BIN>658</BIN><Night><SE1>AVG_Door_Hit</SE1><BGM>BGM_Empty</BGM>:天色还残余着些许微光，足以让安洁看清自己苦追半日的敌人的容貌。
-()||<BGM>BGM_23S_War_Sacrifice</BGM>:颀长瘦削的身影，没有光泽的双眼被枯槁的头发的遮掩，他就像是一棵枯树，倔强又古怪地屹立在面前。+只有大面积的金属义肢在夜色中发着冰凉的微光。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:……
-()||:和他对上视线的瞬间，安洁搭在手枪扳机上的手指猛地一僵。
-NPC-Ange(22)<Speaker>安洁</Speaker>||:是你……
-NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:安洁莉娅指挥官，很高兴见到你。
-NPC-Pamzan(10)<Speaker>甘拉狄</Speaker><Position>0,-70</Position>||:希望你还记得我，我是甘拉狄。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:甘拉狄……？
-()||:安洁只觉手中的手枪沉重万分，她咬牙举起，对准面前瘦削的身影。
-NPC-Ange(22)<Speaker>安洁</Speaker>||:你为什么……是谁把你变成这样？+你明明已经死了……就在我面前……
-NPC-Pamzan(10)<Speaker>甘拉狄</Speaker><Position>0,-70</Position>||:喔，死亡，亚巴顿的大门将我吞没，幸好老师向我伸出了手……
-NPC-Ange(22)<Speaker>安洁</Speaker>||:……是她！+是她把你变成这样的？
-NPC-Pamzan(10)<Speaker>甘拉狄</Speaker><Position>0,-70</Position>||:没错。+否则我也没有机会来向你复仇。
-()||:他低声呢喃着，缓缓走向了安洁。+她立刻意识到他身上的义肢并不契合他的身体，过于沉重，每一步都发出刺耳的摩擦声。+而他就是拖着这样的身体，一步步将安洁逼入了绝境。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:够了……
-()||:他停留在几步之遥，没有光泽的眼睛直勾勾盯着安洁，然后僵硬的嘴角缓缓拉扯开，形成一个古怪的笑。
-NPC-Pamzan(12)<Speaker>甘拉狄</Speaker><Position>0,-70</Position>||:现在亚巴顿的大门已经向你敞开了，安洁莉娅指挥官，去死吧。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:……
-()||<SE1>AVG_pistol_finalshot_n</SE1>:安洁避开了他冷不丁的一枪。
-NPC-Ange(19)<Speaker>安洁</Speaker>||:你现在，才是进入亚巴顿的模样。
-NPC-Pamzan(12)<Speaker>甘拉狄</Speaker><Position>0,-70</Position>||:我的妹妹纱那，还有大哥已经等待这一天很久了！
-NPC-Ange(19)<Speaker>安洁</Speaker>||:……+他们都已经死了……
-NPC-Pamzan(10)<Speaker>甘拉狄</Speaker><Position>0,-70</Position>||:不。
-()||:他残酷地打断了安洁的话，与此同时，一发榴弹已经近距离冲向安洁……
-()||<SE1>AVG_Explo_Close</SE1><震屏>:安洁险些闪躲不及，只能堪堪扑向一边，但还是被爆炸的余波波及。
-NPC-Pamzan(10)<Speaker>甘拉狄</Speaker><Position>0,-70</Position>||:死亡只是一个开始……
-NPC-Ange(22)<Speaker>安洁</Speaker>||:死亡就是死亡！
-NPC-Pamzan(10)<Speaker>甘拉狄</Speaker><Position>0,-70</Position>||:老师会把他们重新带回到我的身边……
-()||:沉浸在自己的旋律中，他发起了一场疯狂的袭击。
-()||<SE1>AVG_Explo_Close</SE1>:轰——轰隆——+安洁紧握手枪，在逼仄狭小的天台中不断寻找着掩体。
-NPC-Ange(22)<Speaker>安洁</Speaker>||:为什么……+为什么要给我第二次机会……
-()||:背靠着颤抖的掩体，安洁的眼前又一次浮现出拉姆赞临终时的画面。
-NPC-Ange(21)<Speaker>安洁</Speaker>||<黑屏1>:不管多少次，我都会给予你解脱。
+M16(7)<Speaker>M16A1</Speaker>||<黑屏2><BIN>1</BIN>:하하하...
+()||<BGM>BGM_Sneak</BGM>:M16A1은 허탈하게 웃으며 천천히 총을 내려놨다.
+M16(5)<Speaker>M16A1</Speaker>||:항복해야겠네.
+()||<SE1>ClothingUp</SE1>:털썩. 손 안의 총은 땅에 떨어지고, 그녀는 천천히 손을 들었다.+M16의 뒤는 썰렁했다, 다른 그리폰 인형들은 추적 도중 전멸하여, 남은 건 총알이 바닥난 그녀뿐이었다.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:위협 배제 완료.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:얘는 어떡할까?+잔뼈가 굵은 녀석이라 대충 분해해서 최대한 멀리 던지는 게 나을 거 같은데.
+M16(7)<Speaker>M16A1</Speaker>||:보기보다 살벌하구만?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:얘는 AR팀이야. 그렇게 난폭하게 처리했다가는 다신 못 고쳐.+행동 능력이랑 통신 모듈만 무력화시켜 놔.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:알았다.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:싱겁네...
+()||<SE1>AVG_Grey_Hand_Mech</SE1>:AK-12는 안 내키는 척 하품하며 AN-94를 도와 M16A1을 붙잡고 소체의 신경 중추를 파괴했다.+온몸에 힘이 풀리며 얼굴을 진흙 바닥에 처박았지만, M16A1은 시선을 올곧게 안젤리아에게서 떼지 않았다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:할 말 더 있나 봐?
+M16(5)<Speaker>M16A1</Speaker>||:안젤리아, 그냥 기지에서 가만 있으면 다 조용히 지나갈 일이야.+대체 왜――
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:마음 바꼈다, 발성 모듈도 뽑아.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:알았다.
+()||<SE1>AVG_Grey_Hand_Mech</SE1>:철컥.+M16A1은 소리 없이 입만 뻐끔거리다, 쓴웃음을 지으며 체념했다.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:다른 애들도 시킨대로 잘 숨겨 두고 좌표를 페르시카한테 메일로 보냈어.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<黑点1>:잘했어, 그럼 가자.+우선 너희가 그 놈들과 조우한 곳부터 확인하자.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||<黑点2><BGM>BGM_Empty</BGM>:여기서 그 신호 식별이 불가능한 적과 조우했다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:......+이거... 본 적 있는 건데.
+()||<BGM>10230</BGM>:지면은 싸운 흔적과 발자국으로 어지러웠지만, 안젤리아의 시선은 그걸 무시하고 전혀 다른 곳에 꽂혔다.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:역시 이게 신경쓰여? 아깐 없었는데 말이야...+내가 아직도 인간에 대해서는 잘 모르지만, 이거 대충 안내판으로 만들어 둔 거 맞지?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+()||:눈에 잘 안 띄는 갈림길에, 기괴한 주검이 세워져 있었다.+여러 인간의 시체 토막을 꿰매 그럭저럭 인간 형태로 만든 주검은 오른손으로 한쪽을 가리키는 모습이었다.+하지만 안젤리아의 눈길을 끈 것은 그것도 아닌, 주검의 가슴에 걸린 나무 팻말이었다.
+()||<narrator>:"안젤리아, 나는 네가 살인자인 걸 알고 있다."
+AK12(4)<Position>0,50</Position><Speaker>AK12</Speaker>||:어머나... 나랑 94가 보면 안 되는 걸 본 건 아니지?+필요하다면 실험실 돌아가서 이 기억 삭제할게.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:......+안젤리아, 이런 메시지를 남길 만한 자로 짐작가는 게 있나?
+NPC-Ange(21)<Speaker>안젤리아</Speaker>||:...후보가 너무 많아서 바로 안 떠오르네.
+AK12(4)<Position>0,50</Position><Speaker>AK12</Speaker>||:아하하, 이런 데서 예상치 못한 원수가 튀어나올지도 모르겠네~
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:상관없어.+그보다 신경쓰이는 건...
+()||:취조관이 그녀에게 보여 줬던 노비코프의 살해 현장 사진이 다시 떠올랐다.+익숙한 고문 흔적에, 익숙한 비수의 흔적...+그녀를 굉장히 잘 아는 사람만이 그럴 수 있지만, 그 사람은 이미 세상에 존재하지 않는 망자였다.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:안젤리아?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<黑屏1>:가자. 대체 누가 뭣 때문에 나한테 이럴 만큼 원한이 있나 보자고.
+()||<黑屏2><BIN>417</BIN>:......
+()<Speaker>실험체</Speaker>||:강글라티 대위, 대위의 예상대로 목표가 기지를 탈출해 이곳으로 접근 중입니다.
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:선발 소대를 시켜 매복 위치로 유도해라.
+NPC-Pamzan(10)<Speaker>실험체</Speaker><Position>0,-70</Position><同时置暗>||:이미 그러고 있습니다만... 어째선지 매복이 어디 있는지 다 예상하는 것 같습니다.+유도했는데도 매복 위치를 전부 피해 갔고, 그녀와 동행 중인 전술인형 2기도 상처가 털끝 하나도 없습니다.
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:......
+NPC-Pamzan(10)<Speaker>실험체</Speaker><Position>0,-70</Position><同时置暗>||:목표도 대위의 전술을 잘 아는 듯합니다.
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:그래야 재미가 있지...+복수하는데 일방적으로 몰아붙이기만 해선 너무 시시하잖아...
+()||:그는 잔뜩 녹슨 창가 앞에 서서, 양팔을 벌려 바람을 만끽했다.
+NPC-Pamzan(13)<Speaker>？？？</Speaker><Position>0,-70</Position>||<黑屏1>:드디어 만나는구나, 안젤리아.+너를 빨리 곤죽으로 만들고 싶어 몸이 근질거려...
+()||<黑屏2><BIN>468</BIN><BGM>BGM_Empty</BGM>:기괴한 안내판들을 따라 움직이는 안젤리아 일행은 도중에 몇 차례 전투를 치렀다.+그리고 또 한 전장을 청소한 울프팩은 적의 시체를 몇 구 모아 확인했다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<BGM>10254</BGM>:...안내판들이랑 똑같네.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:이것들은... 인간도 아니고 인형도 아니다. 인간의 육체에 기계를 조립해서 만든 것이다.+육체 부분의 상태로 봐서, 조립은 인간이 사망한 후 진행된 것 같은데... 이렇게 한 의미를 모르겠다.+그리고 이들이 어떤 동력원으로 움직이는지도 원리를 모르겠다.
+AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:어우, 징그러워.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+()||:안젤리아는 주검 옆에 쪼그려 앉아, 주검이 입은 위장복과 계급장을 자세히 살폈다.
+()||<SE1>ClothingUp</SE1>:그리고 옷의 앞섬을 풀어헤치자 나온 것은...
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:군의 인식표...
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:위조품은 아닌 것 같다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:표정이 무서운데, 왜 그래?
+()||:안젤리아가 인식표의 병과 표시를 만지작거렸다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:내가 예전에 있었던 부대 거야.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:내가 알기로, 안젤리아가 복무했던 부대는 군비 축소로 인해 해체됐다고...
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:그 전에, 이들은 이미...
+()||:안젤리아는 말꼬리를 흐리며 표정이 더욱 어두워졌다.
+AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:그러니까, 이 어디서 왔는지도 모를 적들은 진작에 죽은 인간 군인들 방식으로 입고 무장했다고?
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:게다가 사망한 인간의 육체에 기계를 이식해 만들어졌다.+이렇게까지 한 이유를 알 수 없다. 인간 군인으로 위장하기 위해서라면 너무 엉성하고, 신체 능력 강화가 목적이라기엔 성능도 그리 뛰어나지 않다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:미치광이나 할 짓이지.+배후에 있는 놈을 절대 가만 안 두겠어...
+()||:AK-12는 적의 주검을 뒤집으면서 한 번 더 살펴봤다.
+AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:어쩌면 그냥 버려진 불량품일지도?
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:불량품...
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:내 눈엔 그저 졸렬한 위조품일 뿐이야.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:오. 안젤리아, 저기 "안내판"이 또 있어.
+()||<BGM>BGM_Empty</BGM><SE1>AVG_flag</SE1>:AK-12가 가리킨 방향, 주검 안내판이 또 하나 보였다. 멀리 아래의 폐허에 세워진 그것은 헤진 옷이 바람에 가볍게 펄럭였다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<BGM>10256</BGM>:가자.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:이 인식표들은 따로 처리할까?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:아니... 그냥 여기서 천천히 썩게 놔둬.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:알았다.
+AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:안젤리아, 저 앞은 버려진 도시야. 오염도도 높고 매복에 기습당할 위험도 높은데, 어떡할래?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+()||:차가운 시선으로 폐허를 훑고, 안젤리아는 입가에 잔혹한 미소를 지어 보였다.
+NPC-Ange(20)<Speaker>안젤리아</Speaker>||:복수의 장소로는 완벽하잖아, 안 그래?+근데 누가 누구한테 복수하게 될지는 좀 두고봐야겠다.
+()||:안젤리아는 앞장서서 산을 내려가, 울프팩의 엄호를 받으며 폐허 위의 안내판에 다가갔다.+어김없이 걸린 나무 팻말에는...
+()||<narrator>:"안젤리아, 너는 두 사람을 죽였다."
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:두 사람...
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:메시지 범위가 많이 축소됐다. 적은 아무래도 이런 메시지로 우릴 더 깊숙이 유인할 셈인 것 같다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:하지만 저쪽도 마음이 꽤 급한 거 같네.
+()||:주검 안내판이 가리키는 방향으로 고개를 돌린 안젤리아에게 보인 것은...+이미 약간 기울어진 폐건물이었다.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:우릴 빨리 죽이고 싶어서 안달이 났나 봐.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:가자.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:안젤리아, 이번 적의 신호를 감지할 수 없어 매복의 가능성을 배제할 수 없다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:안 봐도 뻔하지. 전투 준비해.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||<黑屏1>:...알았다.
+()||<黑屏2><BIN>469</BIN><BGM>BGM_Empty</BGM>:썰렁한 로비의 중앙에는 두 주검 안내판만 덩그러니 놓여 있었다. 걸려 있는 팻말에는...
+()||<narrator><BGM>GF_21summer_intro_DemonVariation</BGM>:"하나는, 내게 가족의 사랑을 가르쳐 준 사람."+"하나는, 내가 가족의 사랑을 베풀어 준 사람."
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:죽은 두 사람이 가족 관계란 뜻인가?
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:복수귀 분이 참 가족애가 깊으시네.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+()||<SE1>AVG_lifttable</SE1>:슈우우―― 퍼억!+주검 한 구가 높은 곳에서 바닥으로 추락했다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:경계!
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:응!
+()||<SE1>Select</SE1>:울프팩이 동시에 총구를 들었고, AN-94의 엄호를 받으며 AK-12가 떨어진 주검에 천천히 접근했다.+안젤리아는 주검이 떨어졌던 방향을 올려다봤지만, 그곳엔 공허한 어둠뿐이었다.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:어... 이 녀석 팻말엔 "사나"라 적혀 있는데, 아는 이름이야?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<黑点1>:...사나?
+NPC-Sana(1)<Speaker>사나</Speaker><Position>0,210</Position>||<回忆><黑点2><BIN>534</BIN><黑点1>:안나 언니...
+AN94(2)<Position>0,50</Position><Speaker>AN94</Speaker>||<黑点2><BIN>469</BIN><关闭蒙版>:조심해!
+()||:AN-94가 세게 밀쳐, 안젤리아는 옆으로 넘어졌다.
+()||<SE1>AVG_lifttable</SE1>:간발의 차로 그 자리에 다른 주검이 떨어졌고, 이번에는 안젤리아에게도 팻말에 적힌 것이 또렷하게 보였다.
+()||<narrator>:"아흐민"
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:아흐민...
+AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:이것도 이름이네.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:죽은 두 사람의 이름인가?
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:사나... 아흐민...?
+()||:안젤리아를 부축해 일으킨 AK-12는 그녀의 팔이 떨리는 것을 느꼈다.
+AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:왜 그래?
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:그 자식이야... 그 자식밖에 없어...!
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:누구의 짓인지 파악했나?
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:라플라스... 이 세상에 이 두 이름을 기억하는 건 나와 그놈뿐이야!
+()||<Night><SE1>AVG_Geiger_Counter</SE1>:그러자 빛이 사라졌다. 마치 하늘이 갑자기 무너지기라도 한 것처럼.
+AN94(2)<Position>0,50</Position><Speaker>AN94</Speaker>||:적이 다수 접근 중.
+AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:안젤리아, 너무 떨어지지 마.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:...내 명령 없이 사격 금지.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:알았다.
+()||<SE1>AVG_footsteps_cave</SE1>:뚜벅... 뚜벅... 뚜벅...
+()||<SE1>AVG_Sword_Scope</SE1>:느릿한 발소리와 예리한 쇠붙이가 벽을 긁는 소음이 메아리쳤다.+그리고 쉰 목소리가 머리 위에서 들려왔다.
+()<Speaker>？？？</Speaker>||:안젤리아, 드디어 다시 만나는구나.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<SE1>Stop_AVG_loop</SE1>:누구냐! 마이트너가 보냈냐?
+NPC-Ange(19)<Speaker>？？？</Speaker><同时置暗>||:나? 나는 본디 묘에서 썩어 문드러질 망령이었지.+허나 선생님께서 내게 다시 한번 기회를 주셨다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:역시 그년이었어! 전부 그년이 벌인 짓이었어!
+NPC-Ange(22)<Speaker>？？？</Speaker><同时置暗>||:그리고 나는 한 줌 남은 이 목숨으로, 너에게 복수하러 왔다.
+()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:슈욱!+무언가가 공기를 가르며 엄청난 속도로 안젤리아에게 날아들었다.+바닥에 꽂힐 때 진동까지 느껴질 정도였다.
+AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:엎드려!
+()<Speaker>？？？</Speaker>||:안젤리아, 지금 그 꼴로 내 앞까지 도달할 수 있을까?
+AN94(2)<Position>0,50</Position><Speaker>AN94</Speaker>||:적은 3층 높이에 있다, 안젤리아! 지시를!
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:......+쫓아.
+()||<黑点1>:어금니를 악물고, 단 두 글자만을 뱉었다.
+()||<黑点2><BIN>565</BIN><Night><SE2>Gunfight</SE2>:두 총구가 내뿜는 화염이 어둠을 갈랐다.+안젤리아는 울프팩의 엄호를 받으며, 그대로 계단을 타고 올랐다.+예상한 바였지만 대체 어디서 솟아나는 건지, 층마다 셀 수도 없이 많은 누더기 주검들이 안젤리아 일행을 덮쳤다.
+AN94(2)<Position>0,50</Position><Speaker>AN94</Speaker>||:포위당했다!
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:그 자식 어디 갔어?
+AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:저 놈들 신호 안 잡힌다니깐!
+()<Speaker>？？？</Speaker>||:나를 찾나?
+()||:혼란스러운 총성 속에서도 그 목소리는 더없이 선명하게 들렸다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:마이트너는 어딨어! 그년 나오라 해!
+NPC-Ange(22)<Speaker>？？？</Speaker><同时置暗>||:실망이군, 안젤리아.+이제 와서 네게 선생님에게 복수할 기회가 있다 생각하는 거냐?
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:......
+NPC-Ange(22)<Speaker>？？？</Speaker><同时置暗>||:이건 너와 나 사이의 복수다. 선생님이 아니라.+계속 그런 건방진 말투로 선생님을 부르면, 내가――
+()||<SE1>AVG_20Winter_Knife_Whoosh</SE1>:철근 한 가닥이 마치 시공간을 꿰뚫은 듯한 속도로 날아와 AN-94를 찔렀다.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker><Shake>||:큭...!
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:AN-94!
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:괜찮다, 가벼운 손상이다. 작전에 지장 없다.
+AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:내가 선두 설 테니까 물러서.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......!
+()||<SE1>AVG_footsteps_cave</SE1>:발소리. 목소리의 주인이 멀어진다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:이 자식, 거기 서!!
+NPC-Ange(22)<Speaker>？？？</Speaker><同时置暗>||<SE1>Stop_AVG_loop</SE1>:안젤리아, 진상을 알고 싶다면 옥상으로 와라.+물론 네가 몸 성히 올 수 있다면 말이지만...
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:저게 XX!!
+AN94(2)<Position>0,50</Position><Speaker>AN94</Speaker>||:안젤리아, 단독 행동은 위험하다!
+()||<SE2>Gunfight</SE2>:누더기 주검들은 걸음도, 공격도 빠르지 않아 울프팩이 상대하기엔 쉬웠다. 문제는 물량. 모든 열세를 어마어마한 물량으로 찍어 눌렀다.+울프팩이 화력으로 한 무리를 처치해도, 몇 초도 안 되어 다른 무리가 자리를 채웠다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:시간 벌고 있어, 난 놈을 쫓는다.
+AN94(0)<Position>0,50</Position><Speaker>AN94</Speaker>||:하지만...!
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:명령이야, 지휘관의 판단에 복종해.
+AK12(2)<Position>0,50</Position><Speaker>AK12</Speaker>||:총은 있고?+설마 그 칼 한 자루로 맞짱 뜨려는 건 아니겠지?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:그러고 보니 없네, 하나 줘.
+()||:AK-12가 짐짓 질색하는 표정으로 자신의 권총을 던져 줬다.
+AK12(0)<Position>0,50</Position><Speaker>AK12</Speaker>||:우리가 따라갈 때까지 죽지 말라구~
+NPC-Ange(20)<Speaker>안젤리아</Speaker>||:알았어.
+()||<SE1>RunStep</SE1><黑屏1>:희미한 빛줄기에 의지해, 안젤리아는 칠흑같은 나선계단의 난간을 짚으며 올랐다.+한 바퀴, 또 한 바퀴... 점점 다리의 감각이 마비되어 갔고, 의식마저 조금 흐려지는 듯했다.+마침내 시야 끝에 문 한짝이 나타났다.+당연히, 안젤리아는 일말의 주저 없이 문을 들이받아 열었다.
+()||<黑屏2><BIN>658</BIN><Night><SE1>AVG_Door_Hit</SE1><BGM>BGM_Empty</BGM>:땅거미가 아직 하늘 끝에 걸려서, 하루 종일 쫓은 적의 얼굴이 뚜렷하게 보였다.
+()||<BGM>BGM_23S_War_Sacrifice</BGM>:마르고 삭은 윤곽에, 광택 없는 두 눈, 그리고 건초처럼 마른 머리카락에 가려진 그는, 마치 한 그루의 말라 비틀어진 나무처럼 꿋꿋하면서도 삐뚤어진 형상으로 우뚝 서 있었다.+오직 그의 굵다란 금속 의체만이 이 어두워져 가는 풍경 속에서 서늘한 빛을 반사했다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+()||:그와 시선이 마주친 순간, 방아쇠에 걸은 안젤리아의 손가락이 움찔하며 굳었다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:넌...!
+NPC-Pamzan(10)<Speaker>？？？</Speaker><Position>0,-70</Position>||:안젤리아 지휘관. 이렇게 만나게 되어 참 기쁘군.
+NPC-Pamzan(10)<Speaker>강글라티</Speaker><Position>0,-70</Position>||:아직 기억하고 있으려나? 나, 강글라티를.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:강글라티...?
+()||:안젤리아는 지금 권총이 몇 배나 무거워진 기분이었지만, 팔이 떨어지지 않도록 이를 악물고 저 말라 비틀어진 형상을 겨눴다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:어떻게... 누가 널 그렇게 만들었어...?+넌 분명, 죽었는데... 분명히... 내 눈앞에서...
+NPC-Pamzan(10)<Speaker>강글라티</Speaker><Position>0,-70</Position>||:오오, 죽음. 분명 아바돈의 문은 나를 집어삼켰지. 허나 선생님께서 손을 뻗어 주셨다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:그년이...!+그 여자가 널 그렇게 만들었다고?
+NPC-Pamzan(10)<Speaker>강글라티</Speaker><Position>0,-70</Position>||:그래.+그분이 아니었으면 네게 복수할 기회조차 없었을 거야.
+()||:그는 중얼거리며 천천히 다가왔다.+한 걸음마다 들리는 날카로운 금속 마찰음. 그제서야 안젤리아는 상대의 의체가 몸에 비해 지나치게 무거운 것을 눈치챘다.+하지만 그는 그런 몸을 끌면서 안젤리아를 조금씩 궁지로 몰아 넣었다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:그만해...
+()||:몇 걸음 앞에서 멈춰, 그는 광택 없는 눈으로 안젤리아를 노려봤다. 그리고 굳었던 입가를 천천히 벌려, 징그러운 미소를 지었다.
+NPC-Pamzan(12)<Speaker>강글라티</Speaker><Position>0,-70</Position>||:아바돈의 문은 지금, 너를 향해 활짝 열렸어. 안젤리아, 죽어라.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:――!
+()||<SE1>AVG_pistol_finalshot_n</SE1>:그의 예고 없는 총격을, 안젤리아는 가까스로 피했다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:...지금 너야말로 아바돈으로 다시 들어갈 꼴인데.
+NPC-Pamzan(12)<Speaker>강글라티</Speaker><Position>0,-70</Position>||:내 동생 사나, 그리고 형 아흐민이 이 날을 손꼽아 기다렸다!
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......+모두 이미 죽었어...
+NPC-Pamzan(10)<Speaker>강글라티</Speaker><Position>0,-70</Position>||:아니.
+()||:그는 잔혹하게 안젤리아의 말을 끊는 동시에 유탄을 발사했다.
+()||<SE1>AVG_Explo_Close</SE1><震屏>:안젤리아는 가까스로 몸을 옆으로 날려 직격은 피했지만, 지근거리에서의 폭발이었기에 영향에서 완전히 벗어나진 못했다.
+NPC-Pamzan(10)<Speaker>강글라티</Speaker><Position>0,-70</Position>||:죽음은 그저 시작에 불과해!
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:죽은 건 죽은 거야!
+NPC-Pamzan(10)<Speaker>강글라티</Speaker><Position>0,-70</Position>||:선생님께서, 그들을 다시 내 곁으로 데려와 주실 거야!
+()||:무아지경에 빠져, 그는 마구잡이로 공격을 퍼부었다.
+()||<SE1>AVG_Explo_Close</SE1>:쾅! 콰광!!+안젤리아는 권총을 단단히 쥐고서, 이 비좁은 옥상의 몇 없는 엄폐물 사이를 번갈아 이동했다.
+NPC-Ange(22)<Speaker>안젤리아</Speaker>||:왜...+또 왜 나한테...
+()||:흔들리는 엄폐물에 기댄 안젤리아의 눈에, 상대의 생전 마지막 순간이 다시 떠올랐다.
+NPC-Ange(21)<Speaker>안젤리아</Speaker>||<黑屏1>:몇 번이든... 너를 해방시켜 주겠어.

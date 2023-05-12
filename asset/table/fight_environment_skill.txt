@@ -124,8 +124,8 @@ fight_environment_skill-10001105,무작위 타격
 fight_environment_skill-20001105,10초마다 무작위 적 유닛의 화력//c 사속//c 명중//c 회피//c 장갑을 50% 감소시킨다.
 fight_environment_skill-10001106,왜곡방벽
 fight_environment_skill-20001106,체력이 가장 높은 아군 유닛에게 9999점 왜곡방벽을 부여한다//c 지속시간 5초
-fight_environment_skill-10001107,반복숙달
-fight_environment_skill-20001107,아군이 스킬을 사용할 때마다 다음 쿨타임이 30% 단축된다.
+fight_environment_skill-10001107,돌격관성
+fight_environment_skill-20001107,해당 전투에서 아군 전체의 화력과 회피를 4초마다 3%씩 상승시킨다. 최대 10회 중첩 가능//n<color=#CF8000>1턴 간 지속</color>
 fight_environment_skill-10001108,무쇠탱커
 fight_environment_skill-20001108,체력이 가장 높은 아군 유닛은 받는 피해를 30% 차감한다.
 fight_environment_skill-10001109,돌격지시

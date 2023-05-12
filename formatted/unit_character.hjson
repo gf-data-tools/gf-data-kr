@@ -295,6 +295,36 @@
     character_des: 이 유닛은 상대 유닛의 명중을 크게 감소시킵니다.
   }
   {
+    id: 336
+    name: 무장갑
+    character_des: 이 유닛은 장갑 수치가 없습니다.
+  }
+  {
+    id: 337
+    name: 원거리
+    character_des: 원거리 공격을 합니다.
+  }
+  {
+    id: 338
+    name: 기계
+    character_des: 인간의 형상이 없는 순수한 기계
+  }
+  {
+    id: 339
+    name: 도발
+    character_des: 이 유닛은 상대의 화력을 유인합니다.
+  }
+  {
+    id: 340
+    name: 조준
+    character_des: 대상을 하나 조준해 큰 피해를 줍니다.
+  }
+  {
+    id: 341
+    name: 디스펠
+    character_des: 상대의 버프 효과를 해제합니다.
+  }
+  {
     id: 401
     name: 수비기동
     character_des: 이 유닛은 이동할 때 방패로 받는 피해를 줄입니다, 피해 감소량은 이 유닛의 화력과 같습니다.
@@ -607,5 +637,10 @@
   {
     id: 1004
     name: ???
+  }
+  {
+    id: 1005
+    name: 근성
+    character_des: 이 유닛은 치명타 피해에 어느 정도 저항력을 가지고 있습니다.
   }
 ]

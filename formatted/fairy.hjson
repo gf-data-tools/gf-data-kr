@@ -1113,6 +1113,40 @@
     mod_exp: 10
   }
   {
+    id: 33
+    name: 간호요정
+    code: doctor
+    description: 의사가 왔어요~ 비켜주세요!
+    introduce: 응급 치료 능력을 가졌습니다. 평소에는 수의사로도 쓸 수 있을 것 같습니다.
+    type: 6
+    pow: 200
+    dodge: 40
+    armor: 141
+    grow: 60
+    proportion: 1:0.4,2:0.5,3:0.6,4:0.8,5:1
+    skill_id: *22
+    quality_exp: 100
+    quality_need_number: 1:0,2:100,3:200,4:350,5:550
+    category: 2
+    develop_duration: 18600
+    retiremp: 4
+    retireammo: 1
+    retiremre: 5
+    retirepart: 1
+    powerup_mp: 10
+    powerup_ammo: 3
+    powerup_mre: 14
+    powerup_part: 3
+    ai: 3000
+    avatar_offset: "0,-35,0"
+    avatar_scale: "0.6,0.6,0.6"
+    picture_offset: "40,-80,0"
+    picture_scale: "0.864,0.864,0.864"
+    org_id: 10502
+    obtain_ids: "515,0"
+    mod_exp: 10
+  }
+  {
     id: 1004
     name: 스이
     code: DJMAXSUEE

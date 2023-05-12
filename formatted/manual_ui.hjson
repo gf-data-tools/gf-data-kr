@@ -1881,6 +1881,89 @@
     code_b: Console_Icon
   }
   {
+    id: 580118
+    code_a: Griffin
+    description_a: 그리폰
+    description_b: 신호 조절
+    description_c: 강화
+    code_b: Console_Icon
+  }
+  {
+    id: 580119
+    code_a: Griffin
+    description_a: 그리폰
+    description_b: 신호 조절
+    description_c: 약화
+    code_b: Console_Icon
+  }
+  {
+    id: 580121
+    code_a: Gospelaxis
+    description_a: 그리폰
+    description_b: 복음중추
+    description_c: 끄기
+    code_b: Console_Icon
+  }
+  {
+    id: 580122
+    code_a: Griffin
+    description_a: 그리폰
+    description_b: 신호 강화
+    description_c: 신호 강화
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 580903
+    code_a: Pyxis
+    description_a: 아군 제대
+    description_b: 군용 포탑
+    description_c: 끄기
+    code_b: Console_Icon
+  }
+  {
+    id: 581702
+    code_a: Detonator
+    description_a: 안젤리아
+    description_b: 폐건물
+    description_c: 기폭
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 583601
+    code_a: Dandelion_Gri
+    description_a: 댄들라이
+    description_b: 패러데우스
+    description_c: 교란
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 584511
+    code_a: LiftBlue
+    description_a: 아군 제대
+    description_b: 엘레베이터
+    description_c: 이동
+    code_b: Console_Icon
+  }
+  {
+    id: 584901
+    code_a: AK12
+    description_a: 안젤리아
+    description_b: AK12
+    description_c: 집결
+    code_b: Console_Icon
+  }
+  {
+    id: 584903
+    code_a: AN94
+    description_a: 안젤리아
+    description_b: AN94
+    description_c: 집결
+    code_b: Console_Icon
+  }
+  {
     id: 590001
     code_a: Rouge_590001
     description_a: 아군 제대
@@ -5898,6 +5981,208 @@
     is_manual_target: 2
   }
   {
+    id: 6580001
+    code_a: Ammobox
+    description_a: 아군 제대
+    description_b: 포탄
+    description_c: 장전
+    code_b: Console_Icon
+  }
+  {
+    id: 6580002
+    code_a: Spe_misisonskill
+    description_a: 아군 제대
+    description_b: 제어콘솔
+    description_c: 선택
+    code_b: Console_Icon
+  }
+  {
+    id: 6580003
+    code_a: Spe_misisonskill
+    description_a: 아군 제대
+    description_b: 제어콘솔
+    description_c: 선택
+    code_b: Console_Icon
+  }
+  {
+    id: 6580004
+    code_a: Spe_misisonskill
+    description_a: 아군 제대
+    description_b: 제어콘솔
+    description_c: 선택
+    code_b: Console_Icon
+  }
+  {
+    id: 6580005
+    code_a: Spe_misisonskill
+    description_a: 아군 제대
+    description_b: 제어콘솔
+    description_c: 선택
+    code_b: Console_Icon
+  }
+  {
+    id: 6580006
+    code_a: Spe_misisonskill
+    description_a: 아군 제대
+    description_b: 제어콘솔
+    description_c: 선택
+    code_b: Console_Icon
+  }
+  {
+    id: 6580007
+    code_a: Spe_misisonskill
+    description_a: 아군 제대
+    description_b: 제어콘솔
+    description_c: 선택
+    code_b: Console_Icon
+  }
+  {
+    id: 6580008
+    code_a: Spe_misisonskill
+    description_a: 아군 제대
+    description_b: 제어콘솔
+    description_c: 선택
+    code_b: Console_Icon
+  }
+  {
+    id: 6580009
+    code_a: Spe_misisonskill
+    description_a: 아군 제대
+    description_b: 제어콘솔
+    description_c: 선택
+    code_b: Console_Icon
+  }
+  {
+    id: 6580010
+    code_a: Spe_misisonskill
+    description_a: 아군 제대
+    description_b: 제어콘솔
+    description_c: 선택
+    code_b: Console_Icon
+  }
+  {
+    id: 6580011
+    code_a: Spe_misisonskill
+    description_a: 아군 제대
+    description_b: 제어콘솔
+    description_c: 선택
+    code_b: Console_Icon
+  }
+  {
+    id: 6580012
+    code_a: Ammobox
+    description_a: 아군 제대
+    description_b: 탄약
+    description_c: 줍기
+    code_b: Console_Icon
+  }
+  {
+    id: 6580013
+    code_a: MissileLauncher
+    description_a: 아군 제대
+    description_b: 포탑
+    description_c: 지원 가동
+    code_b: Console_Icon
+  }
+  {
+    id: 6580014
+    code_a: MissileLauncher
+    description_a: 아군 제대
+    description_b: 포탑
+    description_c: 지원 중지
+    code_b: Console_Icon
+  }
+  {
+    id: 6580101
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 심박수
+    description_c: "10"
+    code_b: Console_Icon
+  }
+  {
+    id: 6580102
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 심박수
+    description_c: "-10"
+    code_b: Console_Icon
+  }
+  {
+    id: 6580103
+    code_a: AN94
+    description_a: 아군 제대
+    description_b: 대화
+    description_c: AN94
+    code_b: Console_Icon
+  }
+  {
+    id: 6580104
+    code_a: AK15
+    description_a: 아군 제대
+    description_b: 대화
+    description_c: AK15
+    code_b: Console_Icon
+  }
+  {
+    id: 6580105
+    code_a: AK12
+    description_a: 아군 제대
+    description_b: 대화
+    description_c: AK12
+    code_b: Console_Icon
+  }
+  {
+    id: 6580106
+    code_a: Boomer
+    description_a: 아군 제대
+    description_b: 기폭
+    description_c: 골리앗
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6580107
+    code_a: Plaincloth
+    description_a: 아군 제대
+    description_b: 요원
+    description_c: 대화
+    code_b: Console_Icon
+  }
+  {
+    id: 6580108
+    code_a: Spe_misisonskill
+    description_a: 아군 제대
+    description_b: 함정
+    description_c: 설치
+    code_b: Console_Icon
+  }
+  {
+    id: 6580109
+    code_a: Console_P
+    description_a: 아군 제대
+    description_b: 암호판
+    description_c: 조작
+    code_b: Console_Icon
+  }
+  {
+    id: 6580110
+    code_a: portalskill
+    description_a: 아군 제대
+    description_b: 레이더
+    description_c: 전송
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6580111
+    code_a: Control_Center
+    description_a: 아군 제대
+    description_b: 중앙 제어판
+    description_c: 끄기
+    code_b: Console_Icon
+  }
+  {
     id: 8120301
     code_a: Door_Left
     description_a: 제어콘솔 I
@@ -7516,6 +7801,79 @@
     description_a: 아군 제대
     description_b: 제어콘솔
     description_c: EasyBoss
+    code_b: Console_Icon
+  }
+  {
+    id: 95838002
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 복음중추
+    description_c: 끄기
+    code_b: Console_Icon
+  }
+  {
+    id: 95838004
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 제어콘솔
+    description_c: 해독
+    code_b: Console_Icon
+  }
+  {
+    id: 95838005
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 제어콘솔①
+    description_c: 잠금 해제
+    code_b: Console_Icon
+  }
+  {
+    id: 95838006
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 제어콘솔②
+    description_c: 잠금 해제
+    code_b: Console_Icon
+  }
+  {
+    id: 95838007
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 제어콘솔③
+    description_c: 문 열기
+    code_b: Console_Icon
+  }
+  {
+    id: 95838010
+    code_a: Console
+    description_a: 아군 제대
+    description_b: EMP 폭탄
+    description_c: 투척
+    code_b: Console_Icon
+    is_manual_target: 1
+  }
+  {
+    id: 95838023
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 신호 조절
+    description_c: 강화
+    code_b: Console_Icon
+  }
+  {
+    id: 95838024
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 신호 조절
+    description_c: 약화
+    code_b: Console_Icon
+  }
+  {
+    id: 95842008
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 도화선
+    description_c: 설치
     code_b: Console_Icon
   }
 ]

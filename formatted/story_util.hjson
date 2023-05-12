@@ -9730,448 +9730,461 @@
   {
     id: 918
     mission_id: "10988"
-    description: 스토리1
+    description: 지휘관의 비명과 도주 속에서 올해 크리스마스가 시작되었다.
     scripts: -49-0-0
     campaign: -49
     bgm: BGM_Frontline
-    title: '''"소원은 언제 이루나"'''
+    title: 소원은 언제 이루나
     start: -49-0-0
   }
   {
     id: 919
     mission_id: "10989"
-    description: 스토리2
+    description: 어두운 숲속에서 성탄코인 쟁탈전이 조욯히 시작되었다.
     scripts: -49-1-1
     campaign: -49
     bgm: BGM_Frontline
-    title: 혼자만의 항쟁 Ⅰ
+    title: 혼자만의 항쟁Ⅰ
     start: -49-1-1
   }
   {
     id: 920
     mission_id: "10990"
-    description: 전투A - 스토리3
+    description: 버려진 마음, 전하기 어려운 마음
     scripts: -49-1-2
     campaign: -49
     bgm: BGM_Frontline
-    title: 혼자만의 항쟁 Ⅱ
+    title: 혼자만의 항쟁Ⅱ
     first: -49-1-2
     end: -49-1-2
   }
   {
     id: 921
     mission_id: "10991"
-    description: 스토리4
+    description: 우선, 이걸 마시고 이성을 완전히 꺼버려.
     scripts: -49-2-1
     campaign: -49
     bgm: BGM_Frontline
-    title: 헤비 메탈과 마일드 트리 Ⅰ
+    title: 헤비 메탈과 마일드 트리Ⅰ
     start: -49-2-1
   }
   {
     id: 922
     mission_id: "10992"
-    description: 전투B - 스토리5
+    description: 묵은 원한에서 새로운 원한까지 지금 여기서 청산한다.
     scripts: -49-2-2
     campaign: -49
     bgm: BGM_Frontline
-    title: 헤비 메탈과 마일드 트리 Ⅱ
+    title: 헤비 메탈과 마일드 트리Ⅱ
     first: -49-2-2
     end: -49-2-2
   }
   {
     id: 923
     mission_id: "10993"
-    description: 스토리6
+    description: 내가 우승해서 너의 입에서 진실을 듣고 말겠어.
     scripts: -49-3-1
     campaign: -49
     bgm: BGM_Frontline
-    title: 묻힌 사기극 Ⅰ
+    title: 묻힌 사기극Ⅰ
     start: -49-3-1
   }
   {
     id: 924
     mission_id: "10994"
-    description: 전투C - 스토리7
+    description: 이것이 즐거움을 얻기 위한 대가.
     scripts: -49-3-2
     campaign: -49
     bgm: BGM_Frontline
-    title: 묻힌 사기극 Ⅱ
+    title: 묻힌 사기극Ⅱ
     first: -49-3-2
     end: -49-3-2
   }
   {
     id: 925
     mission_id: "10995"
-    description: 스토리8
+    description: 크리스마스의 마법은 정말 이루어질까?
     scripts: -49-4-1
     campaign: -49
     bgm: BGM_Frontline
-    title: 벚꽃처럼 흩날리는 눈 Ⅰ
+    title: 꽂처럼 흩날리는 눈 Ⅰ
     start: -49-4-1
   }
   {
     id: 926
     mission_id: "10996"
-    description: 전투D - 스토리9
+    description: ...돌아가기 전에 알려드릴 비밀이 있어요.
     scripts: -49-4-2
     campaign: -49
     bgm: BGM_Frontline
-    title: 벚꽃처럼 흩날리는 눈 Ⅱ
+    title: 꽂처럼 흩날리는 눈 Ⅱ
     first: -49-4-2
     end: -49-4-2
   }
   {
     id: 927
     mission_id: "10997"
-    description: 스토리10
+    description: 처절한 외침을 뒤로 지휘관은 추운 겨울 밤으로 내달렸다...
     scripts: -49-5-1
     campaign: -49
     bgm: BGM_Frontline
-    title: '''"불꽃 피어나는 순간"'''
+    title: 불꽃 피어나는 순간
     start: -49-5-1
   }
   {
     id: 928
     mission_id: "11011"
+    description: '''"벌침의 뜻이란 모든 틈새에 파고드는 것."'''
+    scripts: -51-1-1
     campaign: -51
-    title: "101"
+    title: 독침
     start: -51-1-1
   }
   {
     id: 929
     mission_id: "11013"
+    description: '''"M16A1은 지금까지 수많은 적을 추격해 봤다. 그리고 이 나방은 가장 성가신 목표로 지금 승격되었다."'''
     campaign: -51
     bgm: BGM_Frontline
-    title: 1-2
+    title: 니케 II
     point: 75620:-51-EXT-1-2
   }
   {
     id: 930
     mission_id: "11014"
+    description: '''"나는 즉시 소련을 벗어나야만 한다. '전도자'에게 지원 제공과 정치 망명을 요청한다."'''
     campaign: -51
     bgm: BGM_Frontline
-    title: 2-1
+    title: 족쇄 풀기
     point: 75680:-51-EXT-2-1
   }
   {
     id: 931
     mission_id: "11015"
+    description: '''"내 평생 이렇게 끔찍한 임무는 다신 없을 거다... 최고로 끔찍하다고!"'''
     campaign: -51
     bgm: BGM_Frontline
-    title: 2-2
+    title: 잠복 I
     round: 2:-51-EXT-2-2-2
   }
   {
     id: 932
-    mission_id: "11028"
+    mission_id: "11028,11038"
+    description: '''"가로막는 저항력이 거셀수록 방향이 옳다는 것을 증명한다."'''
     campaign: -51
     bgm: BGM_Frontline
-    title: 3-1N
-    point: 75866:-51-EXT-3-1
-  }
-  {
-    id: 933
-    mission_id: "11038"
-    campaign: -51
-    bgm: BGM_Frontline
-    title: 3-1H
-    point: 76094:-51-EXT-3-1
+    title: 횡단
+    point: 75866:-51-EXT-3-1,76094:-51-EXT-3-1
   }
   {
     id: 934
-    mission_id: "11018"
+    mission_id: "11018,11029,11039"
+    description: '''"그녀의 칼날은 처음만큼 날카롭지 않았다, 조금씩 조금씩, 우리가 이 하얀 괴수를 상처입히고 있다."'''
     campaign: -51
     bgm: BGM_Frontline
-    title: 3-2
-    point: 76372:-51-EXT-3-2
-  }
-  {
-    id: 935
-    mission_id: "11029"
-    campaign: -51
-    bgm: BGM_Frontline
-    title: 3-2N
-    point: 75916:-51-EXT-3-2
-  }
-  {
-    id: 936
-    mission_id: "11039"
-    campaign: -51
-    bgm: BGM_Frontline
-    title: 3-2H
-    point: 76144:-51-EXT-3-2
+    title: 역광 II
+    point: 76372:-51-EXT-3-2,75916:-51-EXT-3-2,76144:-51-EXT-3-2
   }
   {
     id: 937
-    mission_id: "11019"
+    mission_id: "11019,11030,11040"
+    description: '''"이 한 수로 체크메이트."'''
     campaign: -51
     bgm: BGM_Frontline
-    title: 3-3
-    point: 76421:-51-EXT-3-3
-  }
-  {
-    id: 938
-    mission_id: "11030"
-    campaign: -51
-    bgm: BGM_Frontline
-    title: 3-3N
-    point: 75965:-51-EXT-3-3
-  }
-  {
-    id: 939
-    mission_id: "11040"
-    campaign: -51
-    bgm: BGM_Frontline
-    title: 3-3H
-    point: 76193:-51-EXT-3-3
+    title: 교차점 II
+    point: 76421:-51-EXT-3-3,75965:-51-EXT-3-3,76193:-51-EXT-3-3
   }
   {
     id: 940
-    mission_id: "11020"
+    mission_id: "11020,11031,11041"
+    description: '''"그 모습은 이 기괴한 어두운 '이계'에서 밝게 빛났다. 날카롭게 굽은, 피를 뚝뚝 흘리는 초승달처럼."'''
     campaign: -51
     bgm: BGM_Frontline
-    title: 3-4
-    point: 76455:-51-EXT-3-4
-  }
-  {
-    id: 941
-    mission_id: "11031"
-    campaign: -51
-    bgm: BGM_Frontline
-    title: 3-4N
-    point: 76009:-51-EXT-3-4
-  }
-  {
-    id: 942
-    mission_id: "11041"
-    campaign: -51
-    bgm: BGM_Frontline
-    title: 3-4H
-    point: 76237:-51-EXT-3-4
+    title: 핏빛 달I
+    point: 76455:-51-EXT-3-4,76009:-51-EXT-3-4,76237:-51-EXT-3-4
   }
   {
     id: 943
     mission_id: "11052"
     campaign: -51
-    title: 하드 보너스
+    title: 겹침 영사
     start: -51-5-1
   }
   {
     id: 944
     mission_id: "11053"
     campaign: -51
-    title: 악몽 보너스
+    title: 위상동형 영사
     start: -51-5-2
   }
   {
     id: 945
     mission_id: "11057"
+    description: '''"중앙이 우리를 보낸 이유는 너희의 충성심을 검증, 내지는 치하하기 위해서다."'''
+    scripts: -51-1-2
     campaign: -51
-    title: "102"
+    title: 블랙박스
     start: -51-1-2
   }
   {
     id: 946
     mission_id: "11058"
+    description: '''"산과 고지를 그리려면 평원을 가야 하고, 평원을 살피려면 산을 올라야 한다."'''
+    scripts: -51-1-3
     campaign: -51
-    title: "103"
+    title: 휘파람
     start: -51-1-3
   }
   {
     id: 947
     mission_id: "11059"
+    description: '''"세계 각지의 영웅들이 아르고 호에 탑승해 베를린에 모여, 죄악의 황금 양털을 찾으러 간다."'''
+    scripts: -51-1-4
     campaign: -51
-    title: "104"
+    title: 추격 I
     start: -51-1-4
   }
   {
     id: 948
     mission_id: "11060"
+    description: '''"통일절 후, 모든 것이 변하고 있다. 뒤처지는 자는 파도에 삼켜질 운명이지."'''
+    scripts: -51-1-6
     campaign: -51
-    title: "106"
+    title: 니케 I
     start: -51-1-6
   }
   {
     id: 949
     mission_id: "11061"
+    description: '''"그곳은 나는 새도 못 지나가는 죽음의 땅 '아베르누스'."'''
+    scripts: -51-1-8
     campaign: -51
-    title: "108"
+    title: 죽음의 바다
     start: -51-1-8
   }
   {
     id: 950
     mission_id: "11062"
+    description: '''"외적에 맞서기 전에 먼저 내부의 투기꾼들을 청소해야 한다."'''
+    scripts: -51-2-1
     campaign: -51
-    title: "201"
+    title: 깃발 휘날리며
     start: -51-2-1
   }
   {
     id: 951
     mission_id: "11063"
+    description: '''"지금 우리에게 필요한 것은 빠르게 적의 심장을 찌를 칼이다. 다만... 되도록이면 남의 칼이 좋겠지."'''
+    scripts: -51-2-3
     campaign: -51
-    title: "203"
+    title: 수레바퀴 자국
     start: -51-2-3
   }
   {
     id: 952
     mission_id: "11064"
+    description: '''"내 신분으로 이 임무를 완수하면, 그리폰이 장군의 비호를 받았다는 증거가 되니까."'''
+    scripts: -51-2-5
     campaign: -51
-    title: "205"
+    title: 잠복 II
     start: -51-2-5
   }
   {
     id: 953
     mission_id: "11065"
+    description: '''"죽음의 바다가 지옥으로 통하는 입구라면, 우리는 저승에 향하는 아이네이아스다."'''
+    scripts: -51-2-7
     campaign: -51
-    title: "207"
+    title: 소용돌이
     start: -51-2-7
   }
   {
     id: 954
     mission_id: "11066"
+    description: '''"우정을 위하여."'''
+    scripts: -51-2-8
     campaign: -51
-    title: "208"
+    title: 정원사
     start: -51-2-8
   }
   {
     id: 955
     mission_id: "11067"
+    description: '''"지금 우리가 바로 적의 심장을 빠르게 찌를 칼이다."'''
+    scripts: -51-3-1
     campaign: -51
-    title: "301"
+    title: 서두
     start: -51-3-1
   }
   {
     id: 956
     mission_id: "11068"
+    description: '''"저는 이해받을 필요 없고, 용서받을 필요도 없어요."'''
+    scripts: -51-3-3
     campaign: -51
-    title: "303"
+    title: 역광 I
     start: -51-3-3
   }
   {
     id: 957
     mission_id: "11069"
+    description: '''"모든 선, 모든 점, 모두 이곳을 위해 존재해."'''
+    scripts: -51-3-5
     campaign: -51
-    title: "305"
+    title: 교차점 I
     start: -51-3-5
   }
   {
     id: 958
     mission_id: "11070"
+    description: '''"내가 너희에게 히든 카드를 두 개 가지고 왔어, 하나는 나고, 또 하는 이거."'''
+    scripts: -51-3-7
     campaign: -51
-    title: "307"
+    title: 철완
     start: -51-3-7
   }
   {
     id: 959
     mission_id: "11071"
+    description: '''"전 그 누구도 포기할 생각 없습니다. 아직 구할 수 있다 판단되는 한, 절대로."'''
+    scripts: -51-3-8
     campaign: -51
-    title: "308"
+    title: 틈새
     start: -51-3-8
   }
   {
     id: 960
     mission_id: "11072"
+    description: '''"이 세상 수많은 재회는 감동으로 가득하지만, 가끔 예외도 있는 법."'''
+    scripts: -51-3-10
     campaign: -51
-    title: "310"
+    title: 핏빛 달II
     start: -51-3-10
   }
   {
     id: 961
     mission_id: "11073"
+    description: '''"그 두 탑 사이로 은은하게 빛나는 달이, 경이롭다 못해 신비한 분위기를 자아냈다."'''
+    scripts: -51-3-12
     campaign: -51
-    title: "312"
+    title: 수면 거울
     start: -51-3-12
   }
   {
     id: 962
     mission_id: "11074"
+    description: '''"그녀는 언제나 자기 한 몸 불사하며 세상을 구하려 노력했습니다. 그러니, 이번엔 우리가 그녀를 구할 차례예요."'''
+    scripts: -51-4-1
     campaign: -51
-    title: "401"
+    title: 개척
     start: -51-4-1
   }
   {
     id: 963
     mission_id: "11075"
+    description: '''"세상에 영원한 친구는 없고, 영원한 적도 없는 법이다."'''
+    scripts: -51-4-2
     campaign: -51
-    title: "402"
+    title: 프로모션
     start: -51-4-2
   }
   {
     id: 964
     mission_id: "11076"
+    description: '''"나를 거쳐 번뇌의 성으로, 나를 거쳐 극락의 탑으로, 나를 거쳐 버림받은 자들 사이로 갈지어니."'''
+    scripts: -51-4-3
     campaign: -51
-    title: "403"
+    title: 탑 오르기
     start: -51-4-3
   }
   {
     id: 965
     mission_id: "11077"
+    description: '''"지옥의 문 앞에서, 새는 날개가 꺾였다."'''
+    scripts: -51-4-5
     campaign: -51
-    title: "405"
+    title: 침습
     start: -51-4-5
   }
   {
     id: 966
     mission_id: "11078"
+    description: '''"지금, 그녀는 그 낡은 양옥으로 돌아간 기분이 들었다. 하지만 이번엔 그녀의 양팔이 멀쩡하고, 손에 쥔 총도 탄환이 가득했다."'''
+    scripts: -51-4-7
     campaign: -51
-    title: "407"
+    title: 옛비 II
     start: -51-4-7
   }
   {
     id: 967
     mission_id: "11079"
+    description: '''"있을 수 없는 일은 있을 수 없다고들 하죠."'''
+    scripts: -51-4-9
     campaign: -51
-    title: "409"
+    title: 무인도 II
     start: -51-4-9
   }
   {
     id: 968
     mission_id: "11080"
+    description: '''"우린 이보다 더한 지옥도 겪여 봤어, 그에 비해 너희들은 결국엔 넘어서게 될 장애물이지."'''
+    scripts: -51-4-11
     campaign: -51
-    title: "411"
+    title: 배신자 II
     start: -51-4-11
   }
   {
     id: 969
     mission_id: "11081"
+    description: '''"그럴 줄 알았어. 역시 너랑 난 둘도 없는 전우라니까, 지휘관."'''
+    scripts: -51-4-13
     campaign: -51
-    title: "413"
+    title: 답안
     start: -51-4-13
   }
   {
     id: 970
     mission_id: "11082"
+    description: '''"저보다 먼저 이 길을 걸었던 사람이 있었으니, 저 이후에도 분명 같은 길을 걸으려는 사람은 분명 나타날 테죠."'''
+    scripts: -51-4-14
     campaign: -51
-    title: "414"
+    title: 종점
     start: -51-4-14
   }
   {
     id: 971
     mission_id: "11047"
+    description: '''"슬슬 엘리트 인형 말고도 패러데우스와 단독 전투를 시켜봐야겠지."'''
+    scripts: -51-slg-mission-1
     campaign: -51
-    title: 이스터에그1
+    title: 추론 I
     start: -51-slg-mission-1
   }
   {
     id: 972
     mission_id: "11054"
+    description: '''"아무래도 시도가 좀 이른 것 같다, 역시 약간 도움이 필요하겠어."'''
+    scripts: -51-slg-mission-2
     campaign: -51
-    title: 이스터에그2
+    title: 추론 II
     start: -51-slg-mission-2
   }
   {
     id: 973
     mission_id: "11055"
+    description: '''"이제 패러데우스를 상대하는 법을 알겠지? 그럼 놈들을 섬멸해라!"'''
+    scripts: -51-slg-mission-3
     campaign: -51
-    title: 이스터에그3
+    title: 추론 III
     start: -51-slg-mission-3
   }
   {
     id: 974
     mission_id: "11056"
+    description: '''"놈들에게 우리 그리폰 인형의 실력을 보여주자!"'''
+    scripts: -51-slg-mission-4
     campaign: -51
-    title: 이스터에그4
+    title: 추론 Ⅳ
     start: -51-slg-mission-4
   }
   {
@@ -10331,547 +10344,694 @@
   {
     id: 997
     mission_id: "11166"
+    description: 이것은 기적이나 다름없다. 그리고 이 기적을 목격하는 것은 바로 당신!
+    scripts: -54-O-1
     campaign: -54
-    title: O1
+    title: 1 열차 시간표
     start: -54-O-1
   }
   {
     id: 998
     mission_id: "11164"
+    scripts: -54-0-1
     campaign: -54
-    title: EX难度通关奖励关
+    title: 초절기교 연습곡
     start: -54-0-1
   }
   {
     id: 999
     mission_id: "11165"
+    scripts: -54-0-2
     campaign: -54
-    title: UX难度通关奖励关
+    title: 회화적 연습곡
     start: -54-0-2
   }
   {
     id: 1000
     mission_id: "11167"
+    description: 교관은 언제나 문제 해결법을 찾아낸다. 비록 우리가 그게 무엇인지 몰라도.
+    scripts: -54-A-1
     campaign: -54
-    title: A1
+    title: 3-α1 왈츠 A단조
     start: -54-A-1
   }
   {
     id: 1001
     mission_id: "11168"
+    description: 이렇게 해야만 행여라도 실수를 저지르지 않는다.
+    scripts: -54-A-3
     campaign: -54
-    title: A3
+    title: 3-α3 빗방울
     start: -54-A-3
   }
   {
     id: 1002
     mission_id: "11169"
+    description: 과연 Я" 교관이군, 제1단계 임무부터 아주 꼼꼼하게 계획했어."
+    scripts: -54-A-4
     campaign: -54
-    title: A4
+    title: 3-α4 소전주곡 G단조
     start: -54-A-4
   }
   {
     id: 1003
     mission_id: "11170"
+    description: 이것은 'Я'분대의 어느 특수작전.
+    scripts: -54-A-5
     campaign: -54
-    title: A5
+    title: 5-α5 월광 소나타
     start: -54-A-5
   }
   {
     id: 1004
     mission_id: "11120,11123,11126"
+    description: 넌 진작에 강판됐어, 'Я' 교관
+    scripts: -54-A-6Point1
     campaign: -54
-    title: A6
+    title: 5-α6 샤콘
     start: -54-A-6Point1
   }
   {
     id: 1005
     mission_id: "11171"
+    description: 진정한 '지휘관'이란 다 전선에서 구르면서 단련되는 거다.
+    scripts: -54-A-7
     campaign: -54
-    title: A7
+    title: 5-α7 겨울
     start: -54-A-7
   }
   {
     id: 1006
     mission_id: "11121,11124,11127"
+    description: 방금 그자 말대로 했어야지.
     campaign: -54
-    title: A8
+    title: 5-α8 스트라디바리우스 매직
     round: 1:-54-EXT-A3-3
   }
   {
     id: 1007
     mission_id: "11172"
+    description: 그래, 바로 지금이 2번 방안을 실행할 최적의 시기라 판단했다.
+    scripts: -54-A-9
     campaign: -54
-    title: A9
+    title: 16 대협주곡 A장조
     start: -54-A-9
   }
   {
     id: 1008
     mission_id: "11173"
+    description: 위장은 이제 의미가 없다.
+    scripts: -54-A-10
     campaign: -54
-    title: A10
+    title: 17 브람스 간주곡
     start: -54-A-10
   }
   {
     id: 1009
     mission_id: "11174"
+    description: 세상 대부분의 사람들은 자기 팔자를 고르지 못해. 너처럼, 나처럼.
+    scripts: -54-A-11
     campaign: -54
-    title: A11
+    title: 18 백조
     start: -54-A-11
   }
   {
     id: 1010
     mission_id: "11175"
+    description: 그녀는 힘을 모으는 맹금처럼 사냥감을 무정하게 주시했다.
+    scripts: -54-A-12
     campaign: -54
-    title: A12
+    title: 25 루슬란과 류드밀라
     start: -54-A-12
   }
   {
     id: 1011
     mission_id: "11122,11125,11128"
+    description: 그녀는 밤하늘을 비추는 별이 되었다.
     campaign: -54
-    title: A13
+    title: 26 자라투스트라는 이렇게 말했다
     round: 1:-54-EXT-A4
   }
   {
     id: 1012
     mission_id: "11176"
+    description: 오늘, 이곳, 이 순간. 마침내 모든 것이 조용해졌다.
+    scripts: -54-A-14
     campaign: -54
-    title: A14
+    title: 27 발퀴레의 기승
     start: -54-A-14
   }
   {
     id: 1013
     mission_id: "11177"
+    description: 매기 아가씨, 류바 할멈이 안부 좀 전해주란다.
+    scripts: -54-B-1
     campaign: -54
-    title: B1
+    title: 3-β1 진이 한잔 마셨네
     start: -54-B-1
   }
   {
     id: 1014
     mission_id: "11129"
+    description: 보르 브 쟈코네한테 사기치면 그 결과는 보통 하나뿐이지.
     campaign: -54
-    title: B2
+    title: 3-β2 교향곡 2번 C장조
     round: 1:-54-EXT-B1
   }
   {
     id: 1015
     mission_id: "11178"
+    description: 인형이 무슨 얼어죽을 은퇴야? 끝없는 윤회만 있을 뿐이지.
+    scripts: -54-B-3
     campaign: -54
-    title: B3
+    title: 3-β3 교향곡 3번
     start: -54-B-3
   }
   {
     id: 1016
     mission_id: "11179"
+    description: 차가운 바닥에 앉은 캐서린과 매기는 서로에게 기댔다.
+    scripts: -54-B-4
     campaign: -54
-    title: B4
+    title: 5-β4 서주와 론도 카프리치오소
     start: -54-B-4
   }
   {
     id: 1017
     mission_id: "11180"
+    description: 드라이 마티니, 젓지 말고 흔들어서.
+    scripts: -54-B-5
     campaign: -54
-    title: B5
+    title: 5-β5 죽음의 무도
     start: -54-B-5
   }
   {
     id: 1018
     mission_id: "11181"
+    description: 네 전투력을 5라고 치자, 그럼 그 녀석은 53만이야.
+    scripts: -54-B-7
     campaign: -54
-    title: B7
+    title: 5-β7 카발레리아 루스티카나
     start: -54-B-7
   }
   {
     id: 1019
     mission_id: "11182"
+    description: 인간은 어리석고 같은 실수를 반복한다.
+    scripts: -54-B-9
     campaign: -54
-    title: B9
+    title: 12 그노시엔느 1번
     start: -54-B-9
   }
   {
     id: 1020
     mission_id: "11183"
+    description: 못된 놈이 오래 산다더라. 너나 나나 착한 놈은 아니라서 다행이야.
+    scripts: -54-B-11
     campaign: -54
-    title: B11
+    title: 14 발라드 G단조
     start: -54-B-11
   }
   {
     id: 1021
     mission_id: "11184"
+    description: 전투력 5짜리한테 어떻게 일을 끝까지 맡기겠나.
+    scripts: -54-B-12
     campaign: -54
-    title: B12
+    title: 21 시계
     start: -54-B-12
   }
   {
     id: 1022
     mission_id: "11185"
+    description: 그러고 그녀는 한 마리 전자 고양이가 되어 뛰어들어갔다.
+    scripts: -54-B-14
     campaign: -54
-    title: B14
+    title: 23 표현
     start: -54-B-14
   }
   {
     id: 1023
     mission_id: "11186"
+    description: 서머 가든'의 잠금이 해제됐습니다, 이동하시겠습니까?
+    scripts: -54-C-1
     campaign: -54
-    title: C1
+    title: 3-γ1 타이스 명상곡
     start: -54-C-1
   }
   {
     id: 1024
     mission_id: "11187"
+    description: 엘마의 기억과 너무나도 다른 눈앞의 정원은 그녀에게 돌아갈 집이 없다는 사실을 서슴없이 나타냈다.
+    scripts: -54-C-3
     campaign: -54
-    title: C3
+    title: 3-γ3 블라디미르 블루스
     start: -54-C-3
   }
   {
     id: 1025
     mission_id: "11188"
+    description: 먼저 이거 하나는 말해둘게. 콜트 익스프레스의 표는 여기서만 팔아.
+    scripts: -54-C-4
     campaign: -54
-    title: C4
+    title: 3-γ4 평균율 클라비어 전주곡
     start: -54-C-4
   }
   {
     id: 1026
     mission_id: "11189"
+    description: 온전한 저로서 살려면 반드시 기억 문제를 해결해야 돼요.
+    scripts: -54-C-5
     campaign: -54
-    title: C5
+    title: 5-γ5 카나리아
     start: -54-C-5
   }
   {
     id: 1027
     mission_id: "11190"
+    description: 너도 나처럼, '엄마'의 아이였어.
+    scripts: -54-C-7
     campaign: -54
-    title: C7
+    title: 5-γ7 합창 환상곡
     start: -54-C-7
   }
   {
     id: 1028
     mission_id: "11144,11149,11154"
+    description: 나는 첫 번째, 너는... 예순세 번째.
+    scripts: -54-C-8Point1
     campaign: -54
-    title: C8
+    title: 5-γ8 돌아오라 소렌토로
     start: -54-C-8Point1
   }
   {
     id: 1029
     mission_id: "11191"
+    description: 교관 나리는 나랑 거래할 마음이 있으신가?
+    scripts: -54-C-9
     campaign: -54
-    title: C9
+    title: 8 파가니니 주제에 의한 광시곡
     start: -54-C-9
   }
   {
     id: 1030
     mission_id: "11145,11150,11155"
+    description: 류드밀라가 갑자기 변한 것 같다... 어쩌면 저게 저 사람의 비즈니스 페이스겠지.
+    scripts: -54-C-10Point1
     campaign: -54
-    title: C10
+    title: 9 유령
     start: -54-C-10Point1
   }
   {
     id: 1031
     mission_id: "11192"
+    description: ...저녁별이 추락했다.
+    scripts: -54-C-11
     campaign: -54
-    title: C11
+    title: 10 조화의 영감
     start: -54-C-11
   }
   {
     id: 1032
     mission_id: "11193"
+    description: 니들이 아무리 날 뜯어고쳐도, 난 나 자신을 사랑하는걸.
+    scripts: -54-C-12
     campaign: -54
-    title: C12
+    title: 29 여름 협주곡
     start: -54-C-12
   }
   {
     id: 1033
     mission_id: "11146,11151,11156"
+    description: 네 몫까지 전부 토해내게 할 테니까, 캐서린.
     campaign: -54
-    title: C13
+    title: 30 교향곡 6번
     round: 1:-54-EXT-C5
   }
   {
     id: 1034
     mission_id: "11194"
+    description: 점점 무너져가는 콜트 익스프레스에서 엘마는 매기를 꼭 껴안았다.
+    scripts: -54-C-14
     campaign: -54
-    title: C14
+    title: 31 치고이너바이젠
     start: -54-C-14
   }
   {
     id: 1035
     mission_id: "11147,11152,11157"
+    description: 별이 떠오른다.
+    scripts: -54-C-15Point1
     campaign: -54
-    title: C15
+    title: 32 1812년 서곡
     round: 3:-54-C-15Point1
   }
   {
     id: 1036
     mission_id: "11195"
+    description: 넌 이제 자유란다, 엘마.
+    scripts: -54-C-16
     campaign: -54
-    title: C16
+    title: 33 G선상의 아리아
     start: -54-C-16
   }
   {
     id: 1037
     mission_id: "11196"
+    description: 꼬마 아가씨한테선 냄새가 안 나서 그래요. 부자의 돈냄새요.
+    scripts: -54-O-2
     campaign: -54
-    title: O2
+    title: 2 복사 농도 경보기
     start: -54-O-2
   }
   {
     id: 1038
     mission_id: "11197"
+    description: 콜트 익스프레스'에 오신 것을 환영합니다~
+    scripts: -54-O-3
     campaign: -54
-    title: O3
+    title: 3 바 카운터
     start: -54-O-3
   }
   {
     id: 1039
     mission_id: "11198"
+    description: 도적단이 '사냥'을 시작한다.
+    scripts: -54-O-4
     campaign: -54
-    title: O4
+    title: 4 클래식 축음기
     start: -54-O-4
   }
   {
     id: 1040
     mission_id: "11199"
+    description: 내 이름은 말이지... 류바 할멈이다――!!
+    scripts: -54-O-5
     campaign: -54
-    title: O5
+    title: 5 화장실
     start: -54-O-5
   }
   {
     id: 1041
     mission_id: "11200"
+    description: 누가 한 달에 겨우 몇백 받고 목숨을 걸겠냐?
+    scripts: -54-O-6
     campaign: -54
-    title: O6
+    title: 6 표준시 시계
     start: -54-O-6
   }
   {
     id: 1042
     mission_id: "11201"
+    description: 인형들의 힘이 필요하다. 전술인형이 아니더라도.
+    scripts: -54-O-7
     campaign: -54
-    title: O7
+    title: 7 특등실로 향하는 문
     start: -54-O-7
   }
   {
     id: 1043
     mission_id: "11202"
+    description: 모든 것은 신소련의 미래를 위해서.
+    scripts: -54-O-8
     campaign: -54
-    title: O8
+    title: 11 대형 짐 선반
     start: -54-O-8
   }
   {
     id: 1044
     mission_id: "11203"
+    description: 약점을 가진다는 게 이렇게나 무서운 일이구나.
+    scripts: -54-O-9
     campaign: -54
-    title: O9
+    title: 15 열차 창문
     start: -54-O-9
   }
   {
     id: 1045
     mission_id: "11204"
+    description: 너는 인간이야, 인간과 함께해야 해. 네가 있을 곳은 저기야.
+    scripts: -54-O-10
     campaign: -54
-    title: O10
+    title: 19 탁상의 단아한 꽃다발
     start: -54-O-10
   }
   {
     id: 1046
     mission_id: "11205"
+    description: 인간은 다 그래, 항상 자신에게 부족한 것을 바라 마지않지.
+    scripts: -54-O-11
     campaign: -54
-    title: O11
+    title: 20 판매용 카드
     start: -54-O-11
   }
   {
     id: 1047
     mission_id: "11206"
+    description: 나는 의사요, 사람을 구하는 게 내 본분이지.
+    scripts: -54-O-12
     campaign: -54
-    title: O12
+    title: 24 차 안의 낙서
     start: -54-O-12
   }
   {
     id: 1048
     mission_id: "11207"
+    description: 콜트 익스프레스, 오늘의 막차가 출발합니다~!
+    scripts: -54-O-13
     campaign: -54
-    title: O13
+    title: 28 정비작업실
     start: -54-O-13
   }
   {
     id: 1049
     mission_id: "11208"
+    description: 패러데우스, 이제 지옥으로 떨어질 때다.
+    scripts: -54-O-14
     campaign: -54
-    title: O14
+    title: 34 지붕으로 나가는 문
     start: -54-O-14
   }
   {
     id: 1050
     mission_id: "11209"
+    description: 고통은 너무나도 끈질겨, 참을성 있게 나아가는 달팽이와 같고. 기쁨은 너무나도 짧아, 가을의 들판을 달리는 토끼의 꼬리와 같구나.
+    scripts: -54-O-15
     campaign: -54
-    title: O15
+    title: 35 벽걸이 스크린
     start: -54-O-15
   }
   {
     id: 1051
     mission_id: "11211"
+    description: 수업 끝났다! 빨리 집에 가자!
+    scripts: -54-T-1
     campaign: -54
-    title: T1
+    title: 35-T1 연습곡 2번
     start: -54-T-1
   }
   {
     id: 1052
     mission_id: "11212"
+    description: 선택지가 하나 더 줄었다.
+    scripts: -54-T-2
     campaign: -54
-    title: T2
+    title: 35-T2 전주곡 5번
     start: -54-T-2
   }
   {
     id: 1053
     mission_id: "11213"
+    description: 타레우스는 발을 들어 파란 책가방을 넘고, 일반석 객차를 빠져나갔다.
+    scripts: -54-T-3
     campaign: -54
-    title: T3
+    title: 35-T3 로맨스
     start: -54-T-3
   }
   {
     id: 1054
     mission_id: "11214"
+    description: 타레우스는 이 이름을 자신의 기갑 유닛에게 붙였다. '미스 이브'.
+    scripts: -54-T-4
     campaign: -54
-    title: T4
+    title: 35-T4 악흥의 순간
     start: -54-T-4
   }
   {
     id: 1055
     mission_id: "11215"
+    description: 우리는 법률을 따르지 않으며, 감옥은 우리의 집과 마찬가지다.
+    scripts: -54-W-1
     campaign: -54
-    title: W1
+    title: 35-W1 솔베이지의 노래
     start: -54-W-1
   }
   {
     id: 1056
     mission_id: "11216"
+    description: 평생 굶을 걱정 없는 소위 '금수저'들 중에 자신 같은 잡것의 생사를 신경 써줄 사람은 과연 있기나 할까?
+    scripts: -54-W-2
     campaign: -54
-    title: W2
+    title: 35-W2 클라리넷 협주곡
     start: -54-W-2
   }
   {
     id: 1057
     mission_id: "11217"
+    description: 충성은 절대 입에 발린 말로 증명하는 게 아닙니다.
+    scripts: -54-W-3
     campaign: -54
-    title: W3
+    title: 35-W3 만토바 여행
     start: -54-W-3
   }
   {
     id: 1058
     mission_id: "11218"
+    description: 그건 하나님의 선물이 아니라 저주예요...
+    scripts: -54-W-4
     campaign: -54
-    title: W4
+    title: 35-W4 이별곡
     start: -54-W-4
   }
   {
     id: 1059
     mission_id: "11219"
+    description: 내가 재능이 없는 게 아니고 운이 안 따라준다니까?
+    scripts: -54-N-1
     campaign: -54
-    title: N1
+    title: 35-N1 환상 즉흥곡
     start: -54-N-1
   }
   {
     id: 1060
     mission_id: "11220"
+    description: 연못의 물고기를 싹 다 잡아버리면 돈 버는 건 잠시뿐이야. 장기적인 수익을 창출하려면 지속가능한 계획이 필요해.
+    scripts: -54-N-2
     campaign: -54
-    title: N2
+    title: 35-N2 스프링 소나타
     start: -54-N-2
   }
   {
     id: 1061
     mission_id: "11221"
+    description: 지금까지 이 니콜라스를 속여넘긴 건 네가 처음이라고...
+    scripts: -54-N-3
     campaign: -54
-    title: N3
+    title: 35-N3 미뉴에트
     start: -54-N-3
   }
   {
     id: 1062
     mission_id: "11222"
+    description: 너 아는 거 포커밖에 없잖아, 그러니까 그냥 미스 포커라고 부를게.
+    scripts: -54-K-1
     campaign: -54
-    title: K1
+    title: 35-C1 짐노페디
     start: -54-K-1
   }
   {
     id: 1063
     mission_id: "11223"
+    description: 도태되지 않으려고 발버둥치는 인형은 그딴 껍데기뿐인 말에 기댈 수 없어.
+    scripts: -54-K-2
     campaign: -54
-    title: K2
+    title: 35-C2 문 리버
     start: -54-K-2
   }
   {
     id: 1064
     mission_id: "11224"
+    description: 자유... 우린 자유다!
+    scripts: -54-K-3
     campaign: -54
-    title: K3
+    title: 35-C3 별이 빛나는 밤
     start: -54-K-3
   }
   {
     id: 1065
     mission_id: "11225"
+    description: 이제부터 내 이름은 매기 폰지, 너는 캐서린 폰지야.
+    scripts: -54-K-4
     campaign: -54
-    title: K4
+    title: 35-C4 오 솔레 미오
     start: -54-K-4
   }
   {
     id: 1066
     mission_id: "11226"
+    description: 가끔, 인생의 갈림길이 결국 한 곳으로 통할 때가 있다.
+    scripts: -54-D-1
     campaign: -54
-    title: D1
+    title: 35-R1 치간
     start: -54-D-1
   }
   {
     id: 1067
     mission_id: "11227"
+    description: 아무것도 변하지 않았다, 변할 리도 없었다.
+    scripts: -54-D-2
     campaign: -54
-    title: D2
+    title: 35-R2 여름 저녁
     start: -54-D-2
   }
   {
     id: 1068
     mission_id: "11228"
+    description: 그 때의 아름다움과 행복은 이미 되찾을 수 없다는 아쉬움으로 변해 있었다.
+    scripts: -54-D-3
     campaign: -54
-    title: D3
+    title: 35-R3 피아노 오중주 B단조
     start: -54-D-3
   }
   {
     id: 1069
     mission_id: "11229"
+    description: 처음부터 나는... 그저 생명을 구한다는 느낌 자체를 좋아했던 거야...
+    scripts: -54-D-4
     campaign: -54
-    title: D4
+    title: 35-R4 피아노 협주곡 F단조
     start: -54-D-4
   }
   {
     id: 1070
     mission_id: "11230"
+    description: 내가 갈 수 있는 어느 곳에도 장미는 없어.
+    scripts: -54-P-1
     campaign: -54
-    title: P1
+    title: 35-P1 작은별 변주곡
     start: -54-P-1
   }
   {
     id: 1071
     mission_id: "11231"
+    description: 드림박스가 아무것도 이루어주지 못하는 것을 알면서도, 그녀는 주저하지 않았다.
+    scripts: -54-P-2
     campaign: -54
-    title: P2
+    title: 35-P2 죽음과 소녀
     start: -54-P-2
   }
   {
     id: 1072
     mission_id: "11232"
+    description: 그가 지켜내려는 것은 그가 찾아낸 천사, 다신 없을 한 송이 장미꽃이었다.
+    scripts: -54-P-3
     campaign: -54
-    title: P3
+    title: 35-P3 사랑의 인사
     start: -54-P-3
   }
   {
     id: 1073
     mission_id: "11210"
+    description: 너의 희생, 헛되이 하지 않겠다.
+    scripts: -54-A-15
     campaign: -54
-    title: A15
+    title: 36 빛의 소리
     start: -54-A-15
   }
   {
     id: 1074
     mission_id: "11320"
     description: 【标记】秃洞点提示说明
-    scripts: 95391:-55-EXT
     campaign: -55
     bgm: BGM_Frontline
     point: 95391:-55-EXT
@@ -10879,30 +11039,36 @@
   {
     id: 1075
     mission_id: "11233,11237"
+    description: 운명은 이들을 다시 만나게 했다. 이토록 오래 지났거니만.
     campaign: -56
     title: 초휴
   }
   {
     id: 1076
     mission_id: "11234,11238"
+    description: 시련 앞에 신조가 도움이 되지 않을 때, 비장의 수가 있는 게 좋다.
     campaign: -56
     title: 식기
   }
   {
     id: 1077
     mission_id: "11235,11239"
+    description: 이 용기를 나도 용기가 필요한 사람에게 전해 주고 싶어
     campaign: -56
     title: 식심
   }
   {
     id: 1078
     mission_id: "11236,11240"
+    description: 나는 태양을 집어삼키는 달. 일식처럼, 햇빛을 전부 가리는 그림자.
     campaign: -56
     title: 생광
   }
   {
     id: 1079
     mission_id: "11243"
+    description: 13년의 잠은 마치 착각인 것 같지만, 서광은 꺼지지 않았다.
+    scripts: -56-1-A
     campaign: -56
     title: 장주기 섭동
     start: -56-1-A
@@ -10910,6 +11076,8 @@
   {
     id: 1080
     mission_id: "11244"
+    description: 축하해, 드디어 첫 걸음을 내디뎠구나. 이건 좋은 시작이야.
+    scripts: -56-1-B
     campaign: -56
     title: 단주기 섭동
     start: -56-1-B
@@ -10917,6 +11085,8 @@
   {
     id: 1081
     mission_id: "11245"
+    description: 과거가 너를 따라잡았을 때야 너는 도피가 해결법이 아니란 것을 깨닫지.
+    scripts: -56-2-0
     campaign: -56
     title: 황도 경사각
     start: -56-2-0
@@ -10924,6 +11094,8 @@
   {
     id: 1082
     mission_id: "11246"
+    description: 주야, 조석, 일월.
+    scripts: -56-4-0
     campaign: -56
     title: 재변
     start: -56-4-0
@@ -10931,6 +11103,8 @@
   {
     id: 1083
     mission_id: "11247"
+    description: 총으로 누굴 겨눌 때는 모든 가능성을 예상해 둬야 해.
+    scripts: -56-5-A
     campaign: -56
     title: 접촉
     start: -56-5-A
@@ -10938,6 +11112,8 @@
   {
     id: 1084
     mission_id: "11248"
+    description: 달은 빌려온 빛으로 길을 밝히지만, 안개를 거두어주기엔 충분하다.
+    scripts: -56-5-B
     campaign: -56
     title: 이탈
     start: -56-5-B
@@ -10945,6 +11121,8 @@
   {
     id: 1085
     mission_id: "11249"
+    description: 그 인물의 이름은 라플라스, 콜사인 '사형수'
+    scripts: -56-6-0
     campaign: -56
     title: 동원
     start: -56-6-0
@@ -10952,6 +11130,8 @@
   {
     id: 1086
     mission_id: "11250"
+    description: 나는 어제의 사람과 내일의 도시를 그리워한다.
+    scripts: -56-8-0
     campaign: -56
     title: 노획
     start: -56-8-0
@@ -10959,6 +11139,8 @@
   {
     id: 1087
     mission_id: "11251"
+    description: 인형 사이의 대화는 임무 말고도 감정의 교류도 있다
+    scripts: -56-9-A
     campaign: -56
     title: 거짓 본그림자
     start: -56-9-A
@@ -10966,6 +11148,8 @@
   {
     id: 1088
     mission_id: "11252"
+    description: 지금 언니는 내 사유재산이야! 내 허락 없인 아무도 털끝 하나 못 건들게 할 수 있어!
+    scripts: -56-9-B
     campaign: -56
     title: 본그림자
     start: -56-9-B
@@ -10973,6 +11157,8 @@
   {
     id: 1089
     mission_id: "11253"
+    description: 널 내 신작의 주인공으로 정했단 말이야... 주인공은 지면 안 되잖아.
+    scripts: -56-10-0
     campaign: -56
     title: 금환
     start: -56-10-0
@@ -10980,6 +11166,8 @@
   {
     id: 1090
     mission_id: "11254"
+    description: 사진에는 아홉 명이 찍혀있고, 유라는 사모 바로 옆에 서있었다.
+    scripts: -56-12-0
     campaign: -56
     title: 고리
     start: -56-12-0
@@ -10987,6 +11175,8 @@
   {
     id: 1091
     mission_id: "11255"
+    description: 그럼 넌 앞으로도 평생 혼자야. 솔직히 그렇잖아, 부하 없는 대장이 무슨 대장이야?
+    scripts: -56-13-A
     campaign: -56
     title: 위난의 바다
     start: -56-13-A
@@ -10994,6 +11184,8 @@
   {
     id: 1092
     mission_id: "11256"
+    description: 나의 이름은 아마리스야.
+    scripts: -56-13-B
     campaign: -56
     title: 고요의 바다
     start: -56-13-B
@@ -11001,6 +11193,8 @@
   {
     id: 1093
     mission_id: "11257"
+    description: 군번줄. 사망한 특전사의 묘비. 그 의미를 엘리아나는 잘 알았고, 아마리스는 더더욱 뼈저리게 깨달았다.
+    scripts: -56-14-0
     campaign: -56
     title: 교점월
     start: -56-14-0
@@ -11008,6 +11202,8 @@
   {
     id: 1094
     mission_id: "11258"
+    description: ...밤이 다시 조용해졌다.
+    scripts: -56-16-0
     campaign: -56
     title: 복원
     start: -56-16-0
@@ -11015,6 +11211,8 @@
   {
     id: 1095
     mission_id: "11259"
+    description: 새로운 하루는 오기 마련. 진 태양은 결국 다시 떠오른다.
+    scripts: -56-17-A
     campaign: -56
     title: 외 라그랑주점
     start: -56-17-A
@@ -11022,6 +11220,8 @@
   {
     id: 1096
     mission_id: "11260"
+    description: 창밖의 달은, 언제나처럼 부드러운 빛으로 나아갈 길을 비추었다.
+    scripts: -56-17-B
     campaign: -56
     title: 내 라그랑주점
     start: -56-17-B
@@ -11487,16 +11687,636 @@
   }
   {
     id: 1160
-    mission_id: "580005"
-    campaign: -404
-    title: guide1
-    start: 1:dailybonusguide-01
+    mission_id: "11333"
+    description: 너의 삶은 이제야 시작이다.
+    scripts: -58-start
+    campaign: -58
+    title: 검은 제비꽃
+    start: -58-start
   }
   {
     id: 1161
-    mission_id: "580006"
-    campaign: -404
-    title: guide1
-    start: 1:dailybonusguide-02
+    mission_id: "11334"
+    description: 당신은 자신의 조국을 위해 싸울 건가요?
+    scripts: -58-1-A1
+    campaign: -58
+    title: WTR 황야 북쪽
+    start: -58-1-A1
+  }
+  {
+    id: 1162
+    mission_id: "11336"
+    description: 항상 규칙 밖의 예외가 존재한다.
+    scripts: -58-1-A2
+    campaign: -58
+    title: WTR 너도밤나무 숲Ⅰ
+    start: -58-1-A2
+  }
+  {
+    id: 1163
+    mission_id: "11335,11377"
+    description: 총구로 서로 편을 갈랐다.
+    campaign: -58
+    title: WTR 눈 속의 사냥꾼
+  }
+  {
+    id: 1164
+    mission_id: "11338"
+    description: 서로 다른 의자 위에 앉아 있는 그게 바로 입장 차이야.
+    scripts: -58-1-A4
+    campaign: -58
+    title: WTR 사슴벌레
+    start: -58-1-A4
+  }
+  {
+    id: 1165
+    mission_id: "11337,11378"
+    description: 입장 꺼지라고 해, 저 사람은 내 형이야.
+    campaign: -58
+    title: WTR 빨강, 파랑, 노랑의 구성 II
+  }
+  {
+    id: 1166
+    mission_id: "11339"
+    description: 세상사 인간관계는 그냥 돈으로 계산하는 편이 가장 간편하고 실속 있지.
+    scripts: -58-1-A6
+    campaign: -58
+    title: WTR 눈밭의 아침
+    start: -58-1-A6
+  }
+  {
+    id: 1167
+    mission_id: "11406"
+    description: 그건 지금 네가 너무 좁은 세상에서 살고 있기 때문이야.
+    scripts: -58-1-A7
+    campaign: -58
+    title: WTR 해질녘의 늪지대
+    start: -58-1-A7
+  }
+  {
+    id: 1168
+    mission_id: "11340"
+    description: 눈꽃 한두 송이야 불에 다가가기도 전에 바로 녹아버리겠지. 하지만 시베리아의 눈보라라면?
+    scripts: -58-1-B1
+    campaign: -58
+    title: SPR 밤: 붉은 나무
+    start: -58-1-B1
+  }
+  {
+    id: 1169
+    mission_id: "11341,11379"
+    description: 작전이란 게 그리 어렵지는 않아. 앞으로 내가 천천히 가르쳐 줄게.
+    campaign: -58
+    title: SPR 구성VI
+  }
+  {
+    id: 1170
+    mission_id: "11342"
+    description: 그날 이후로 난 물러설 곳이 없어졌어.
+    scripts: -58-1-B3
+    campaign: -58
+    title: SPR 회색 나무
+    start: -58-1-B3
+  }
+  {
+    id: 1171
+    mission_id: "11343,11380"
+    description: 전쟁의 불길 속에 떨어진 눈송이는 아무 흔적도 남지 않는다.
+    campaign: -58
+    title: SPR 빨강의 구도B
+  }
+  {
+    id: 1172
+    mission_id: "11344"
+    description: 세계 각국이 편을 가르고 하이에나처럼 서루를 물어뜯고 있는데, 네가 그 사이서 목숨 던져 털 한 가닥 뽑는다고 전쟁이 끝나겠어?
+    scripts: -58-1-B5
+    campaign: -58
+    title: SPR Tableau no.1
+    start: -58-1-B5
+  }
+  {
+    id: 1173
+    mission_id: "11345"
+    description: 우린 똑같다고 생각했는데... 아니었구나.
+    scripts: -58-1-B6
+    campaign: -58
+    title: SPR 파랑새의 날개
+    start: -58-1-B6
+  }
+  {
+    id: 1174
+    mission_id: "11346"
+    description: 이들은 죽이기 위해 태어나지만, 할 수 있는 건 결코 싸움뿐만이 아니네
+    scripts: -58-1-C1
+    campaign: -58
+    title: SUM 백조, 9그룹 1번
+    start: -58-1-C1
+  }
+  {
+    id: 1175
+    mission_id: "11348"
+    description: 내 지휘방식은 하나뿐이야, 까라면 까는 거.
+    scripts: -58-1-C2
+    campaign: -58
+    title: SUM 푸른 방 안의 햇빛
+    start: -58-1-C2
+  }
+  {
+    id: 1176
+    mission_id: "11350"
+    description: 안젤리아 지휘관, 조사에 협력해주길 바란다.
+    scripts: -58-1-C3
+    campaign: -58
+    title: SUM 저녁 기도
+    start: -58-1-C3
+  }
+  {
+    id: 1177
+    mission_id: "11351"
+    description: LAMG, 못 사준 술은 다음 생에 갚을게.
+    scripts: -58-1-C4
+    campaign: -58
+    title: SUM 바람에 흩날리다
+    start: -58-1-C4
+  }
+  {
+    id: 1178
+    mission_id: "11347,11381"
+    description: 화살은 시위를 떠나 목표에 명중했다.
+    campaign: -58
+    title: SUM 로드 인 우드
+  }
+  {
+    id: 1179
+    mission_id: "11407"
+    description: 나는 내 한 줌 남은 이 목숨으로 너에게 복수하러 왔다.
+    scripts: -58-1-C6
+    campaign: -58
+    title: SUM 황금방울새
+    start: -58-1-C6
+  }
+  {
+    id: 1180
+    mission_id: "11349,11382"
+    description: 총알 한 발은 아껴 둬라... 우리가 실패하거나, 아니면...
+    campaign: -58
+    title: SUM 삶이란 투쟁이다
+  }
+  {
+    id: 1181
+    mission_id: "11408"
+    description: 그 새가 떨어졌을 때, 난 안 울었어.
+    scripts: -58-1-C8
+    campaign: -58
+    title: SUM 백조, 9그룹 6번
+    start: -58-1-C8
+  }
+  {
+    id: 1182
+    mission_id: "11352"
+    description: 네가 사는 세상은 분명 아름답고 서로 도우며 사는 세상이겠지?
+    scripts: -58-1-D1
+    campaign: -58
+    title: AUT 파랑과 은색의 하모니
+    start: -58-1-D1
+  }
+  {
+    id: 1183
+    mission_id: "11354"
+    description: 내가 세상에서 가장 싫어하는 부류 셋이 뭔지 알아?
+    scripts: -58-1-D2
+    campaign: -58
+    title: AUT 지붕위의 바이올린
+    start: -58-1-D2
+  }
+  {
+    id: 1184
+    mission_id: "11355,11384"
+    description: 낚시의 묘미란 항상 무슨 물고기가 낚일지 알 수 없다는 점이다.
+    scripts: -58-1-D3-point1
+    campaign: -58
+    title: AUT 죽음의 섬
+  }
+  {
+    id: 1185
+    mission_id: "11356"
+    description: 론도가 삼중주로 변할 때.
+    scripts: -58-1-D4
+    campaign: -58
+    title: AUT 항적
+    start: -58-1-D4
+  }
+  {
+    id: 1186
+    mission_id: "11357"
+    description: 새로운 세상에서 봅시다.
+    scripts: -58-1-D5
+    campaign: -58
+    title: AUT 푸른 날개가 달린 괘종시계
+    start: -58-1-D5
+  }
+  {
+    id: 1187
+    mission_id: "11353,11383"
+    description: 아무도 그런 가능성은 예상 못했어, 나조차도.
+    scripts: -58-1-D6-point1,-58-1-D6-point2,-58-1-D6-point3,-58-1-D6-point4
+    campaign: -58
+    title: AUT 죽음과 삶
+  }
+  {
+    id: 1188
+    mission_id: "11434"
+    description: 돌아오지 못할 길임을 알면서도 당신은 꼭 나아가려고 하죠.
+    scripts: -58-1-D7
+    campaign: -58
+    title: AUT 돈 강의 밤
+    start: -58-1-D7
+  }
+  {
+    id: 1189
+    mission_id: "11358"
+    description: 그녀가 지옥 문 앞에 서 있을 때, 우리는 그녀와 함께 뛰어내리지.
+    scripts: -58-2-R1
+    campaign: -58
+    title: L1 생명의 나무
+    start: -58-2-R1
+  }
+  {
+    id: 1190
+    mission_id: "11360"
+    description: 헬라' 프로젝트 피험자 NO.10373 - 안젤리아.
+    scripts: -58-2-T1
+    campaign: -58
+    title: L2 중앙통제실 모니터
+    start: -58-2-T1
+  }
+  {
+    id: 1191
+    mission_id: "11361"
+    description: 지금, 약간 희망이 보이는 것 같네.
+    scripts: -58-2-T2
+    campaign: -58
+    title: L3 수술대
+    start: -58-2-T2
+  }
+  {
+    id: 1192
+    mission_id: "11359,11385"
+    description: 안젤리아 씨, 제가 구해드릴게요.
+    campaign: -58
+    title: L4 원 속의 원
+  }
+  {
+    id: 1193
+    mission_id: "11409"
+    description: 인간은... 진장한 창조주를 재현해 낼 수 없어요.
+    scripts: -58-2-R3
+    campaign: -58
+    title: L5 우회전-좌회전
+    start: -58-2-R3
+  }
+  {
+    id: 1194
+    mission_id: "11410"
+    description: 복사 오염 기준 초과 경보야.
+    scripts: -58-2-T3
+    campaign: -58
+    title: L6 전달창
+    start: -58-2-T3
+  }
+  {
+    id: 1195
+    mission_id: "11411"
+    description: 그녀가 깨어났어...
+    scripts: -58-2-T4
+    campaign: -58
+    title: L7 정화장치
+    start: -58-2-T4
+  }
+  {
+    id: 1196
+    mission_id: "11412"
+    description: 저도 한 명의 인간처럼 존엄을 가지고 죽을 수 있도록 해주세요...
+    scripts: -58-2-R4
+    campaign: -58
+    title: L8 거울 앞에 있는 소녀
+    start: -58-2-R4
+  }
+  {
+    id: 1197
+    mission_id: "11362"
+    description: 일리아 무로메츠 작전 정식 개시
+    scripts: -58-3-F1
+    campaign: -58
+    title: F1 붉은 기사
+    start: -58-3-F1
+  }
+  {
+    id: 1198
+    mission_id: "11363"
+    description: 피에는 피로.
+    scripts: -58-3-F2
+    campaign: -58
+    title: F2 안개 바다 위의 방랑자
+    start: -58-3-F2
+  }
+  {
+    id: 1199
+    mission_id: "11364,11386,11392"
+    description: 철과 피, 빛과 불, 비와 눈물
+    campaign: -58
+    title: F3 블랙 스퀘어
+  }
+  {
+    id: 1200
+    mission_id: "11365"
+    description: 지옥의 문지기
+    scripts: -58-3-F4
+    campaign: -58
+    title: F4 화가의 어머니
+    start: -58-3-F4
+  }
+  {
+    id: 1201
+    mission_id: "11367"
+    description: 네가 동요한다면 얼마나 멋진 광경일까.
+    scripts: -58-3-F5
+    campaign: -58
+    title: F5 조각상에 대한 은유
+    start: -58-3-F5
+  }
+  {
+    id: 1202
+    mission_id: "11366,11387,11393"
+    description: 밤을 깨부수는 서광.
+    campaign: -58
+    title: F6 둔한 빨강
+  }
+  {
+    id: 1203
+    mission_id: "11369"
+    description: 어서 오렴, 사나.
+    scripts: -58-3-F7
+    campaign: -58
+    title: F7 인간의 아들
+    start: -58-3-F7
+  }
+  {
+    id: 1204
+    mission_id: "11371"
+    description: 민들레가 지정 장소에 착륙 완료
+    scripts: -58-3-F8
+    campaign: -58
+    title: F8 기억의 지속
+    start: -58-3-F8
+  }
+  {
+    id: 1205
+    mission_id: "11368,11388,11394"
+    description: 심판에 다리에서.
+    campaign: -58
+    title: F9 포성
+  }
+  {
+    id: 1206
+    mission_id: "11373"
+    description: 벌침은 찔리기 전까지만 무서운 거지.
+    scripts: -58-3-F10
+    campaign: -58
+    title: F10 하양 위의 하양
+    start: -58-3-F10
+  }
+  {
+    id: 1207
+    mission_id: "11375"
+    description: 3분만 줘.
+    scripts: -58-3-F11
+    campaign: -58
+    title: F11 홍해의 기적
+    start: -58-3-F11
+  }
+  {
+    id: 1208
+    mission_id: "11370,11389,11395"
+    description: 목덜미를 바로 향하는 송곳니
+    campaign: -58
+    title: F12 만종
+  }
+  {
+    id: 1209
+    mission_id: "11413"
+    description: 안심해, 내가 너랑 같이 있어.
+    scripts: -58-3-F13
+    campaign: -58
+    title: F13 대홍수
+    start: -58-3-F13
+  }
+  {
+    id: 1210
+    mission_id: "11414"
+    description: 평지에 빙산
+    scripts: -58-3-F14
+    campaign: -58
+    title: F14 기사, 사신과 악마
+    start: -58-3-F14
+  }
+  {
+    id: 1211
+    mission_id: "11372,11390,11396"
+    description: 대가를 불문하고, 대가는 누구지?
+    campaign: -58
+    title: F15 게르니카
+  }
+  {
+    id: 1212
+    mission_id: "11415"
+    description: 삶이 결국 덧없을 운명이라면, 몸부림에 무슨 의미가 있을까?
+    scripts: -58-3-F16
+    campaign: -58
+    title: F16 죽음과 불
+    start: -58-3-F16
+  }
+  {
+    id: 1213
+    mission_id: "11416"
+    description: 아주 잠깐, 아주 잠깐 자유로운 것으로 충분해
+    scripts: -58-3-F17
+    campaign: -58
+    title: F17 검은 십자가
+    start: -58-3-F17
+  }
+  {
+    id: 1214
+    mission_id: "11374,11391,11397"
+    description: 난 이곳을 지킬게, 마지막까지. 왜냐면...
+    campaign: -58
+    title: F18 최후의 심판
+  }
+  {
+    id: 1215
+    mission_id: "11417"
+    description: 빠져나가면 빛이 있어?
+    scripts: -58-3-F19
+    campaign: -58
+    title: F19 교황청 1호 10그룹
+    start: -58-3-F19
+  }
+  {
+    id: 1216
+    mission_id: "11418"
+    description: RO! SOP2!
+    scripts: -58-3-F20
+    campaign: -58
+    title: F20 해질녘
+    start: -58-3-F20
+  }
+  {
+    id: 1217
+    mission_id: "11419"
+    description: 무엇이 보이니?
+    scripts: -58-S1-1
+    campaign: -58
+    title: SSE01 플랫폼
+    start: -58-S1-1
+  }
+  {
+    id: 1218
+    mission_id: "11420"
+    description: 시대의 유물.
+    scripts: -58-S1-2
+    campaign: -58
+    title: SSE01-1 플랫폼 밑 통로
+    start: -58-S1-2
+  }
+  {
+    id: 1219
+    mission_id: "11421"
+    description: 이 머리 없는 조각상 말곤 아무것도 없네.
+    scripts: -58-S2-1
+    campaign: -58
+    title: SSE02 통탑 로비
+    start: -58-S2-1
+  }
+  {
+    id: 1220
+    mission_id: "11422"
+    description: 패러데우스의 훈련장.
+    scripts: -58-S2-2
+    campaign: -58
+    title: SSE02-1 동탑 2층(동)
+    start: -58-S2-2
+  }
+  {
+    id: 1221
+    mission_id: "11423"
+    description: 그녀들이 남긴 흔적.
+    scripts: -58-S2-3
+    campaign: -58
+    title: SSE02-2 동탑 3층(서)
+    start: -58-S2-3
+  }
+  {
+    id: 1222
+    mission_id: "11424"
+    description: 청소를 마저해라, 동시에 데이터 보존도 주의하고.
+    scripts: -58-S3-1
+    campaign: -58
+    title: SSE03 벌침 시스템
+    start: -58-S3-1
+  }
+  {
+    id: 1223
+    mission_id: "11425"
+    description: 복구된 것은 거짓, 아니면 진실?
+    scripts: -58-S3-2
+    campaign: -58
+    title: SSE03-1 동탑 32层
+    start: -58-S3-2
+  }
+  {
+    id: 1224
+    mission_id: "11426"
+    description: 조각들...
+    scripts: -58-S3-3
+    campaign: -58
+    title: SSE03-2 동탑 37层
+    start: -58-S3-3
+  }
+  {
+    id: 1225
+    mission_id: "11427"
+    description: 이 방 자체가 함정이야.
+    scripts: -58-S3-4
+    campaign: -58
+    title: SSE03-3 동탑 40层
+    start: -58-S3-4
+  }
+  {
+    id: 1226
+    mission_id: "11428"
+    description: 동탑 56층에 도착
+    scripts: -58-S4-1
+    campaign: -58
+    title: SSE04 유적 실험 구역
+    start: -58-S4-1
+  }
+  {
+    id: 1227
+    mission_id: "11429"
+    description: 난장판에서 일하자.
+    scripts: -58-S4-2
+    campaign: -58
+    title: SSE04-1 통제 센터
+    start: -58-S4-2
+  }
+  {
+    id: 1228
+    mission_id: "11430"
+    description: 열람 후 소각
+    scripts: -58-S4-3
+    campaign: -58
+    title: SSE04-2 모의 영상관
+    start: -58-S4-3
+  }
+  {
+    id: 1229
+    mission_id: "11431"
+    description: 정말 끔찍한 곳이야.
+    scripts: -58-S4-4
+    campaign: -58
+    title: SSE04-3 투사 실험 구역
+    start: -58-S4-4
+  }
+  {
+    id: 1230
+    mission_id: "11432"
+    description: 청결 속에 놓친 먼지를 찾아서.
+    scripts: -58-S5
+    campaign: -58
+    title: SSE05 수술층
+    start: -58-S5
+  }
+  {
+    id: 1231
+    mission_id: "11433"
+    description: 추위에 주의하세요.
+    scripts: -58-S6
+    campaign: -58
+    title: SSE06 비밀복도
+    start: -58-S6
+  }
+  {
+    id: 1232
+    mission_id: "11404"
+    campaign: -58
+    title: 데저트 더스트
+    start: -58-EX-Final
+  }
+  {
+    id: 1233
+    mission_id: "11405"
+    campaign: -58
+    title: 아이보리 블랙
+    start: -58-UX-Final
   }
 ]

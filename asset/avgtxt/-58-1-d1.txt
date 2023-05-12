@@ -1,130 +1,130 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
-()<Speaker></Speaker>||<BIN>655</BIN><黑屏2><narrator>:亲爱的布莱克薇尔，我们已经很久没通信了。+不知道为什么，在科技如此发达的现在，我依旧希望使用更传统的方式来维持我们的关系。+“海拉”项目的失败率高得离谱，唯一的实验体仍旧只能算是废弃物。你也许不想听这些，但我必须要跟你分享此刻我的心情。
-()<Speaker></Speaker>||<narrator><BGM>BGM_23S_Expedition_Story</BGM>:是时候放弃一些东西了，放弃不会让我们失去，反而能够得到更多，这就是我全新的体悟。+我希望我们能见一面，在不莱梅的老地方吧……+2058年，迈特纳写于柏林。
+()<Speaker></Speaker>||<BIN>655</BIN><黑屏2><narrator>:친애하는 블랙웰에게. 이렇게 연락하는 것도 오랜만이네.+이해해 줘, 왠진 모르겠지만 난 이렇게 과학이 발전한 시대에서도 이런 전통적인 방식으로 우리의 관계를 유지하고 싶어.+"헬라" 프로젝트는 실패율이 지나치게 높고, 유일하게 성공한 실험체도 여전히 폐기물에 지나지 않아. 물론 넌 이런 걸 듣고 싶지 않겠지만, 지금 내 심정을 너에게 전해야만 해서.
+()<Speaker></Speaker>||<narrator><BGM>BGM_23S_Expedition_Story</BGM>:몇 가지는 그만 포기하자. 포기한다고 우리가 무얼 잃는 것도 아니고, 오히려 더 많은 걸 얻을 수도 있지. 그게 내가 깨달은 점이야.+직접 한 번 만나자. 브레멘의 그곳에서...+2058년 베를린에서, 마이트너가.
 ()||<黑屏1>:
-()<Speaker></Speaker>||<BIN>169</BIN><narrator><黑屏2>:2064年秋，整个世界洋溢着风雨欲来的气息。+如同巨大的果园到了成熟的季节，每一个人都想在里面摘到属于自己的水果。+作为德国境内净化区的一座重要城市，不莱梅因为其独特的城市政策，时常作为难民潮迁移的首要目标。
-()<Speaker></Speaker>||<narrator>:德国 不莱梅城郊。+对不莱梅而言，今天也是平常的一天——沸沸扬扬的人群在关口前你推我攘。+渴望从苦难中逃脱的人们，将这里当做了最后的一根稻草。
-()||<黑屏1>:……+……
-AN94(0)<Speaker>AN94</Speaker>||<黑屏2><BIN>1</BIN><SE1>AVG_Helicopter_BG</SE1><关闭蒙版>:抵达指定地点，距不莱梅隔离墙关口3.17km。+……我们应该马上移动，尽快跟B小队汇合。
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||<SE1>Stop_AVG_loop</SE1>:……
-()<Speaker></Speaker>||:安洁仰起头，感受到刺目的阳光落在她的身上。
-()||<SE1>Rope</SE1>:她伸出双手，彼此交叉紧握，迟钝的躯体在伸展下不时发出噼啪作响的声音。+直到另一只手切实感受到来自义肢的力量，她才松开，仔细凝视右手手背的一片惨白。
-AN94(0)<Speaker>AN94</Speaker>||:……还好吗，安洁？
-RPK16(0)<Speaker>RPK16</Speaker>||:如果您想活动筋骨，比起做广播操，现在还有更好的选择喔。+比方说，赶走或是甩开凑上来的老鼠之类的。
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>;RPK16(0)||:哼……+……他们等得够久了。
-NPC-Ange(19);AN94(0)<Speaker>AN94</Speaker>||:我们的行动已经非常隐蔽了……没想到还是被抓到了尾巴。+现在是他国国境内，如果在和乌尔利赫女士会面之前就发生交火，可能会有些麻烦。
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>;AN94(0)||:我受人瞩目是因为我有价值。
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:而不是因为我危险——不用管他们，RPK？
-RPK16(0)<Speaker>RPK16</Speaker>||:路线规划已完成。+顺便，如果要出发，我建议尽快行动，否则前辈的安洁戒断症该要发作了。
-AN94(0)<Speaker>AN94</Speaker>||:安洁？
-()<Speaker></Speaker>||<SE1>AVG_Scene_Transfer</SE1>:眼皮轻挑，安洁看着RPK递过来的路线规划图，手指轻轻敲击着义肢，摇了摇头。
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:我有一个新的计划。+……不莱梅有一个让我在意的地方，在和乌尔利赫见面之前，我想先去看看。+至于跟她们的会合，就在那之后吧。
-RPK16(4)<Speaker>RPK16</Speaker>||:嚯嚯……
-()<Speaker></Speaker>||:RPK-16眯着眼，看着安洁的目光意味深长。
-RPK16(2)<Speaker>RPK16</Speaker>||:真好奇，是什么地方能让安洁小姐如此特殊对待呢？
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>;RPK16(2)||:这不是你该关心的。
-NPC-Ange(19);RPK16(0)<Speaker>RPK16</Speaker>||:那，新计划的目标是？
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>;RPK16(0)||:位置在不莱梅旧城区，是一家二手唱片店。+店名是“百万玫瑰”……是家老店。
-RPK16(5)<Speaker>RPK16</Speaker>||:……了解。
-AN94(0)<Speaker>AN94</Speaker>||:……
-()<Speaker></Speaker>||<黑屏1>:AN94有些不解地看着安洁，但并没有说什么。+安洁低垂着眼，抿了抿有些干燥的嘴唇，回忆起12小时前。+那个令她变更原本的计划，做出这一决定的那条神秘通讯。
-()<Speaker>未知的通讯</Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><回忆><黑屏2>:<color=#00CCFF>安娜·维克多洛夫纳·崔上尉，你要找的白色“麻雀”就在乌尔利赫身边。</color>+<color=#00CCFF>我想成为你在德国第一个见面的人。</color>
-()<Speaker>未知的通讯</Speaker>||<黑屏1>:<color=#00CCFF>萨莫辛娜。</color>
-()<Speaker></Speaker>||<关闭蒙版><黑屏2><BGM>GF_EV9_Story</BGM><BIN>168</BIN>:不莱梅，“百万玫瑰”唱片店。+安洁站在店门口，轻微的发霉气味混着灰尘，从店内传出，令她不禁微微蹙眉。+这是一家有些破旧的唱片店，街道上的行人十分稀少，空荡的大街上，她们三人站立着，显得格格不入。
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:我自己进去就行，你们守在外面。+找个地方隐蔽，别太张扬。
-NPC-Ange(19);AN94(0)<Speaker>AN94</Speaker>||:……这，您一个人进去？
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>;AN94(0)||:别担心，我谁的脖子都不会扭断。
-AN94(0)<Speaker>AN94</Speaker>||:……我就在附近，保持通讯。
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:目送着安洁走入唱片店，RPK眨了眨眼。
-RPK16(0)<Speaker>RPK16</Speaker>||:看来是连我们都不能知晓的见面对象呢。
-AN94(0)<Speaker>AN94</Speaker>;RPK16(0)||:安洁有她自己的想法。+我们的职责只是服从。
-AN94(0);RPK16(5)<Speaker>RPK16</Speaker>||:呵呵……你真是可爱得不适合我们队伍，94。
-AN94(0)<Speaker>AN94</Speaker>||:……？
-()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:……+……
-()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1><黑屏2><BIN>656</BIN>:咔哒。+响亮的关门声在狭小的空间内陡然震荡，屋顶和架子抖落的灰尘在空气中飘扬。+然而，就算这声音极其突兀，也没有人对此表达异议。+毕竟这在当下，是一家几乎无人光临的二手旧唱片店铺。
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||<SE1>AVG_footsteps_cave</SE1>:……
-()<Speaker></Speaker>||:用食指擦了擦鼻尖，避免灰尘被吸入体内，安洁缓慢地在货架间踱步，目光在一张张唱片上来回游移。
-()||<SE1>AVG_20Winter_Book</SE1>:店内仅有一个看店的老人，此时正坐在柜台后面，叼着一根缭绕烟雾的香烟，手里拿着早已过时的纸质报纸，似乎对安洁毫无兴趣。
-NPC-Ange(20)<Speaker>安洁莉娅</Speaker>||:……嗯？
-()<Speaker></Speaker>||:移动着的安洁忽然停下了脚，目光定在了货架上的某处。+这里刚好是前台视线的死角，安洁看不到那个老人，那个老人也看不到安洁。
-()||<SE1>ClothingUp</SE1>:沉默中，安洁伸出手，将那张吸引了她目光的专辑拿了起来。
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||<SE1>AVG_2023Slow_ED_Phonograph_Disc</SE1>:《百万玫瑰》……
-()<Speaker></Speaker>||:已经泛黄的封面上，印在图片上的是与店名相同的文字。+安洁记得这张专辑，是1983年的《百万玫瑰》。+即使是这样的古董，放在这里也几乎无人问津。+它讲述了一个很俗气的爱情故事。+是放在当今世界，几乎没有人会欣赏和信仰的爱情故事。
-()<Speaker></Speaker>||:而安洁，自然也包含在内。+但现在，看着这张专辑，她却鬼使神差地伸出了手，甚至想要一探究竟。
-()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:有些老化的封页仿佛下一秒便会风化，安洁将专辑打开，豁然入目的便是夹在其中，被珍惜地保管，依然如新的唱片。
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:嗯？
-()<Speaker></Speaker>||:而紧跟着，安洁便发现在专辑内页的包装上，有一段陈旧的，用墨水写下的一段话。+尽管作为载体的纸都已经变质，但那段娟秀的字迹和行云流水的笔锋依然洋溢着作者不凡的气质。
-()<Speaker></Speaker>||<narrator>:致一百年后的你——+你看到这张专辑的时候，我应该过世了。+我现在的世界，充满了绝望。+真可悲啊，只有在天灾面前，人类才开始精诚合作。+想必读到这段文字的你，应该已经解决了辐射和环境污染问题，活在更美好、更团结的世界之中了吧？+我想怀着嫉妒的心情对你说：“真羡慕你！”
-()<Speaker></Speaker>||:……
-()<Speaker></Speaker>||<SE1>Heartbeat</SE1>:安洁的心仿佛被什么东西沉重地撞了一下。
-NPC-maya(0)<Speaker></Speaker>||<SE1>AVG_20Winter_Doorbell</SE1>:门铃叮铃一声，大门推开，地板也适时地响起了吱呀声，一名穿着利落的短发女人走了进来。
-()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1><BGM>BGM_Empty</BGM>:像这样一家门可罗雀的复古用品专卖，平日里一周也不会有一个客人，今天迎来了客流高峰。
-()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>GF_EV9_Intermission</BGM>:滴——
-NPC-maya(2)<Speaker>？</Speaker>||:<color=#00CCFF>哟，安洁莉娅小姐。</color>+<color=#00CCFF>希望我没有让你等得不耐烦。</color>
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:……
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:缓缓合上专辑，安洁将它放回到面前的货架上，转过身去，收起了情绪，看向面前的短发女人。
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>萨莫辛娜？</color>
-NPC-maya(2)<Speaker>？</Speaker>||:<color=#00CCFF>嗯，在这边，你可以称呼我——</color>+<color=#00CCFF>特工Q。</color>
-()<Speaker></Speaker>||:短发女人扬了扬下巴，向安洁露出微笑。
-()||<SE1>AVG_keyboardtype_sci</SE1>:看着她此时的打扮，和在通讯器上急速飞舞的手指，安洁不禁感到有些哑然。
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>……这是在明晃晃地告诉所有人，你是双面间谍？</color>
-NPC-maya(2)<Speaker>特工Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>放心，两份工作都有好好完成。</color>+<color=#00CCFF>没有任何一个老板受到伤害。</color>
-NPC-maya(2);NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>我不是来听你说这些废话的。</color>+<color=#00CCFF>对话简单点。</color>
-NPC-maya(0)<Speaker>特工Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>正好，我也不是一个喜欢打哑谜的人。</color>+<color=#00CCFF>你在卢比杨卡的档案，我见过。</color>
-NPC-maya(0)<Speaker>特工Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>你在调查帕拉蒂斯？我没说错吧。</color>+<color=#00CCFF>那么我们在这件事上，是一边的。</color>
-NPC-maya(0);NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>你哪边老板的意思？</color>
-NPC-maya(0)<Speaker>特工Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>怎么说呢，我两边的老板。</color>
-NPC-maya(2)<Speaker>特工Q</Speaker>||:<color=#00CCFF>立场是一致的。</color>
-NPC-Ange(21)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>如果遮遮掩掩，我们就没有讨论下去的必要了。</color>
-NPC-maya(0)<Speaker>特工Q</Speaker>||:<color=#00CCFF>当然，不过这话很难太短。</color>
-NPC-maya(2)<Speaker>特工Q</Speaker>||:<color=#00CCFF>不请我喝杯咖啡？</color>
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>我只中意伏特加。</color>
-NPC-maya(2)<Speaker>特工Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>菜单上有伏特加咖啡。</color>
-NPC-maya(2);NPC-Ange(21)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>……这是对伏特加的侮辱。</color>
-NPC-maya(0)<Speaker>特工Q</Speaker>||:<color=#00CCFF>啧。</color>
-()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:两人暂停秘密通讯，像普通的客人那样买了一些食物和唱片。
-()||<SE1>AVG_20Winter_Drink_Tea</SE1>:安洁拿了刚刚那张“百万玫瑰”以及一杯无咖啡因的伏特加清咖。+Q则不同，几乎点了这家店里能够供应的所有点心和饮料。
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:……你最好全部吃完。
-NPC-maya(2)<Speaker>特工Q</Speaker>||:放心，这是一整个下午的量。
-NPC-maya(2)<Speaker>特工Q</Speaker>;NPC-Ange(19)||<BGM>BGM_23S_Crossroads_Warrior</BGM>:<color=#00CCFF>“太阳黑子”事件，你还记得吗？</color>
-NPC-maya(0);NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>令斯塔西对新苏联的情报工作直接倒退二十年那次？</color>
-NPC-maya(0)<Speaker>特工Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>没错，自那之后，斯塔西名声和地位一落千丈。</color>+<color=#00CCFF>我在德国的老板，是个……怎么说呢，事业狂。</color>+<color=#00CCFF>简单形容就是假如有一项比赛是做意面，她拽出来的长度能绕地球三圈。</color>+<color=#00CCFF>嗯……这种级别的事业狂魔。</color>
-NPC-maya(2)<Speaker>特工Q</Speaker>||:<color=#00CCFF>她想要让斯塔西的情报水平重回巅峰时期。</color>
-NPC-Ange(21)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>……</color>+<color=#00CCFF>真敢想。</color>
-NPC-maya(2)<Speaker>特工Q</Speaker>;NPC-Ange(21)||:<color=#00CCFF>但是……</color>+<color=#00CCFF>她做到了。</color>
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>……</color>
-NPC-maya(0)<Speaker>特工Q</Speaker>||<黑点1>:<color=#00CCFF>给你看一眼。</color>
-()<Speaker></Speaker>||<黑点2><BIN>493</BIN><黑点1>:……
-()<Speaker></Speaker>||<黑点2><BIN>492</BIN><黑点1>:……
-()<Speaker></Speaker>||<黑点2><BIN>504</BIN><黑点1>:……
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||<BIN>656</BIN><黑点2>:……
-NPC-maya(2)<Speaker>特工Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>很惊人吧？</color>
-NPC-maya(2);NPC-Ange(21)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>这种规模……</color>+<color=#00CCFF>这套系统卢比杨卡从未提及……</color>
-NPC-maya(2)<Speaker>特工Q</Speaker>;NPC-Ange(21)||:<color=#00CCFF>是不是奇迹？</color>
-NPC-maya(2);NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>我只有一个想法。</color>+<color=#00CCFF>看来你卢比杨卡的老板，早就是斯塔西的走狗。</color>
-NPC-maya(2)<Speaker>特工Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>用词不太准确，但事实是这么回事。</color>
-NPC-maya(0)<Speaker>特工Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>这套系统名为“蜂针”，性质么，算是实时监控系统吧。</color>+<color=#00CCFF>但我在德国的老板最近发现，这东西背后另有主人。</color>
-NPC-maya(0);NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>帕拉蒂斯。</color>
-NPC-maya(0)<Speaker>特工Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>对……</color>
-NPC-maya(0);NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>这就是你要第一个见我的原因？</color>
-NPC-maya(0)<Speaker>特工Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>对，乌尔利赫身边那只“麻雀”……早就是透明的了。</color>+<color=#00CCFF>安洁，我们可以合作。</color>
-NPC-maya(0);NPC-Ange(21)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>……我在思考应该如何嘲笑这件事。</color>
-NPC-maya(2)<Speaker>特工Q</Speaker>;NPC-Ange(21)||:<color=#00CCFF>这个世界上很多新发明，都是看起来是辆跑车，下面有四个人在手动推轮子。</color>
-NPC-maya(2);NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>怎样才能避开监视？</color>
-NPC-maya(0)<Speaker>特工Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>没辙。</color>+<color=#00CCFF>所以我才冒这么大风险来见你，这信息只能出我嘴入你耳。</color>+<color=#00CCFF>只要走远程，基本都能会被发现。</color>+<color=#00CCFF>只要你身边有不可控的人员，或者说不加密的频道。</color>
-NPC-maya(0);NPC-Ange(21)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>……</color>
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>先说好，我对斯塔西的内斗不感兴趣。</color>
-NPC-maya(2)<Speaker>特工Q</Speaker>||:<color=#00CCFF>放心，我来搞定K。</color>+<color=#00CCFF>当年特工训练的时候，他样样比我差。</color>
-NPC-maya(2);NPC-Ange(21)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>……</color>
-NPC-maya(2)<Speaker>特工Q</Speaker>;NPC-Ange(21)||:<color=#00CCFF>所以他只能跟现任局长那种“小绵羊”。</color>
-NPC-maya(2);NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>怎么，你下注的老板一定上位？</color>
-NPC-maya(2)<Speaker>特工Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>绝对。</color>
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>……你的判断依据是什么？</color>
-NPC-maya(1)<Speaker>特工Q</Speaker>||:<color=#00CCFF>我的报销额度是他的三倍。</color>
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:<color=#00CCFF>……</color>+<color=#00CCFF>乌尔利赫身边的“麻雀”是谁？</color>
-NPC-maya(2)<Speaker>特工Q</Speaker>||:<color=#00CCFF>她的秘书，默莉朵。他们管她叫，涅托。</color>
-()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:啃完了最后一口布朗尼，Q站起身，去专辑柜子上挑了一张最贵的唱片。
-NPC-maya(2)<Speaker>特工Q</Speaker>||:这次算你账上。+下次我请客。
-NPC-Ange(19)<Speaker>安洁莉娅</Speaker>||:……
-()<Speaker></Speaker>||:看着沉默的安洁，Q笑了笑。+随即，她转身离开，悄无声息地消失在了货架的另一边。+独留下安洁一人。
+()<Speaker></Speaker>||<BIN>169</BIN><narrator><黑屏2>:2064년 가을. 세상은 폭풍우가 닥칠 기운에 휩싸였다.+마치 거대한 과수원의 과일이 무르익어, 모두가 각자 자신의 몫을 챙기고 싶어하는 분위기.+그런 가운데, 독일 내 정화지대의 중요 도시로서, 브레멘은 독특한 정책으로 자주 난민들의 목적지로 정해지곤 했다.
+()<Speaker></Speaker>||<narrator>:독일 브레멘, 교외.+오늘도 여느 때와 다름없는, 관문 앞이 자리 쟁탈전을 벌이는 사람들로 북적이는 하루였다.+고난에서 벗어나려는 이들은 이곳을 마지막 동앗줄로 삼았다.
+()||<黑屏1>:......+............
+AN94(0)<Speaker>AN94</Speaker>||<黑屏2><BIN>1</BIN><SE1>AVG_Helicopter_BG</SE1><关闭蒙版>:목표 지점에 도착, 브레멘 격리벽 관문까지 약 3.17km.+속히 이동해서 B그룹과 합류해야 한다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<SE1>Stop_AVG_loop</SE1>:......
+()<Speaker></Speaker>||:안젤리아는 고개를 들어 눈부신 햇빛을 얼굴로 받았다.
+()||<SE1>Rope</SE1>:그리고 두 손을 뻗어 깍지를 끼고 스트레칭을 했고, 뻣뻣한 몸 여기저기서 우드득 소리가 났다.+다른 손으로 의수의 힘을 뼈저리게 느끼고서야, 그녀는 깍지를 풀고 하얗게 질린 오른손등을 응시했다.
+AN94(0)<Speaker>AN94</Speaker>||:...괜찮나, 안젤리아?
+RPK16(0)<Speaker>RPK16</Speaker>||:몸풀기를 하고 싶으시다면 국민체조보다 더 좋은 게 있잖아요.+지금 우리 뒤를 밟는 생쥐들을 쫓아낸다거나요.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;RPK16(0)||:흥...+아주 한참 기다리고 있었나 봐?
+NPC-Ange(19);AN94(0)<Speaker>AN94</Speaker>||:충분히 은밀하게 움직였지만... 결국 꼬리를 밟히고 말았다.+이런 외국에서 울릭 여사와 대면하기 전에 무력 충돌이 발생할 경우 상황이 까다로워질 수 있다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;AN94(0)||:내가 주목받는 건 다 그만큼 가치가 있어서지 뭐.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:내가 위험인물이라서가 아니라 말이야. 쟤들은 무시해. RPK?
+RPK16(0)<Speaker>RPK16</Speaker>||:경로 계획 완료했어요.+참고로, 움직일 거라면 빨리 하는 걸 권할게요. 안 그럼 선배가 안젤리아 결핍증으로 발작할 거예요.
+AN94(0)<Speaker>AN94</Speaker>||:어떡할까, 안젤리아?
+()<Speaker></Speaker>||<SE1>AVG_Scene_Transfer</SE1>:안젤리아는 눈썹을 씰룩하며 RPK-16이 건넨 경로 계획도를 확인했다. 그리고 손가락으로 의수를 가볍게 튕기다, 이내 고개를 저었다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:그럼 발작하게 냅둬야겠네.+좀 신경쓰이는 곳이 있어서, 울릭과 만나기 전에 가보려고.+B그룹과 합류는 조금 미루자.
+RPK16(4)<Speaker>RPK16</Speaker>||:호오...?
+()<Speaker></Speaker>||:RPK-16이 눈을 가늘게 뜨고 안젤리아를 의미심장하게 바라봤다.
+RPK16(2)<Speaker>RPK16</Speaker>||:궁금하네요, 안젤리아가 그렇게 관심을 가지는 곳이라니.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;RPK16(2)||:신경 꺼.
+NPC-Ange(19);RPK16(0)<Speaker>RPK16</Speaker>||:이잉, 열심히 경로 계획했는데 너무해요~
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;RPK16(0)||:브레멘 구도심지의 중고 레코드샵이야.+"백만송이 장미"라는... 꽤 오래된 가게지.
+RPK16(5)<Speaker>RPK16</Speaker>||:아하아... 알았어요.
+AN94(0)<Speaker>AN94</Speaker>||:......
+()<Speaker></Speaker>||<黑屏1>:AN-94는 이해 못한 눈치였지만, 더 물으려 들진 않았다.+안젤리아는 시선을 조금 내리고, 약간 건조해진 입술을 핥으며 12시간 전의 일을 회상했다.+그녀가 기존 계획을 변경하고, 이런 결정을 하게 만든 불가사의한 통신을.
+()<Speaker>정체불명의 통신</Speaker>||<BGM>BGM_Empty</BGM><BIN>9</BIN><回忆><黑屏2>:<color=#00CCFF>안나 빅토로브나 최 대위, 당신이 찾는 "하얀 참새"는 길다 울릭 곁에 있다.</color>+<color=#00CCFF>내가 독일에서 가장 먼저 당신과 만나고 싶다.</color>
+()<Speaker>정체불명의 통신</Speaker>||<黑屏1>:<color=#00CCFF>사모시나.</color>
+()<Speaker></Speaker>||<关闭蒙版><黑屏2><BGM>GF_EV9_Story</BGM><BIN>168</BIN>:얼마 후, 브레멘 구도심지의 레코드샵 "백만송이 장미".+문 앞에서부터 퀴퀴한 곰팡이 냄새가 먼지를 머금고 가게 밖까지 새어나와, 안젤리아마저 인상쓰게 했다.+이 제법 낡은 레코드샵이 위치한 곳은 행인도 무척 드물어서, 넓은 길가에 안젤리아 일행 3명만 서 있으니 오히려 어색하게 보였다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:나 혼자 들어갈 테니 너흰 밖에서 지키고 있어.+...눈에 안 띄게 대충 어디 숨어서.
+NPC-Ange(19);AN94(0)<Speaker>AN94</Speaker>||:안젤리아... 정말 혼자서 괜찮겠나?
+NPC-Ange(19)<Speaker>안젤리아</Speaker>;AN94(0)||:걱정 마, 아무도 안 잡아먹어.
+AN94(0)<Speaker>AN94</Speaker>||:...가까이서 대기하겠다, 통신을 유지해라.
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1>:안젤리아가 레코드샵에 들어가는 것을 지켜보고, RPK는 눈을 깜빡였다.
+RPK16(0)<Speaker>RPK16</Speaker>||:우리도 알아선 안 되는 데이트 상대인가 봐요.
+AN94(0)<Speaker>AN94</Speaker>;RPK16(0)||:안젤리아에게도 다 생각이 있겠지.+우리는 그저 따르면 될 뿐이야.
+AN94(0);RPK16(5)<Speaker>RPK16</Speaker>||:후후훗... 정말이지 우리랑 안 어울리게 귀엽다니까요, AN-94는.
+AN94(0)<Speaker>AN94</Speaker>||:......?
+()<Speaker></Speaker>||<黑屏1><BGM>BGM_Empty</BGM>:......+............
+()<Speaker></Speaker>||<SE1>AVG_Door_Open_Close</SE1><黑屏2><BIN>656</BIN>:철컥.+문을 닫는 소리는 좁은 공간에 우렁차게 메아리쳤고, 가까운 천장과 선반에서 먼지까지 떨어뜨려 공기 중에 흩날리게 만들었다.+하지만 이 갑작스런 굉음에 아무도 불만을 표하지 않았다.+찾는 이도 얼마 없는 중고 레코드샵이었으니까.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<SE1>AVG_footsteps_cave</SE1>:......
+()<Speaker></Speaker>||:안젤리아는 가볍게 코끝을 훔치고, 먼지를 들이키지 않도록 가판대 사이를 천천히 지나면서 레진열된 레코드판을 한 장 한 장 훑어봤다.
+()||<SE1>AVG_20Winter_Book</SE1>:가게 안에는 계산대 앞 주인으로 보이는 노인 한 명밖에 없었다. 노인은 계산대 뒤에 앉아 담배를 꼬나물고, 손에는 시대에 한참 뒤떨어진 신문지를 든 채 안젤리아에겐 눈길 하나 주지 않았다.
+NPC-Ange(20)<Speaker>안젤리아</Speaker>||:...음?
+()<Speaker></Speaker>||:그러던 중, 안젤리아가 걸음을 멈추고 가판대 한 곳에 시선을 고정했다.+그곳은 마침 시야의 사각지대여서, 저 노인이 안젤리아에게 안 보이고 노인도 안젤리아가 보이지 않았다.
+()||<SE1>ClothingUp</SE1>:침묵하며 손을 뻗어, 안젤리아는 자신의 눈길을 끈 앨범을 집어 들었다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<SE1>AVG_2023Slow_ED_Phonograph_Disc</SE1>:《백만송이 장미》...
+()<Speaker></Speaker>||:누렇게 색이 바랜 표지와, 그 그림 위에 인쇄된 가게 이름과 똑같은 글자.+안젤리아도 이 앨범은 기억했다. 1983년 발매된 《백만송이 장미》.+한 시대를 풍미했던 명작이지만, 이젠 아무도 거들떠보지 않아 이런 데서 썩고 있다.+이제는 아주 식상하디 식상한 사랑 이야기.+지금 같은 시대엔 아무도 즐기지도, 믿지도 않는 사랑 이야기다.
+()<Speaker></Speaker>||:물론, 안젤리아도 그런 사람들 중 하나다.+하지만 지금 그녀는 이 앨범에 홀린 듯이 손을 뻗었다.
+()<Speaker></Speaker>||<SE1>AVG_20Winter_Book</SE1>:낡은 표지는 당장에라도 바스러질 것만 같았지만, 안에는 소중히 보관되어 여전히 새것같은 레코드판이 보였다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:음...?
+()<Speaker></Speaker>||:그리고 앨범의 속표지 포장 위에, 낡은 잉크로 쓰여진 한 문장도 보였다.+비록 종이는 변색된 지 오래지만, 수려한 글씨체와 물 흐르는 듯한 펜촉의 흔적은 여전히 이걸 쓴 작가의 비범한 풍채를 짐작케 했다.
+()<Speaker></Speaker>||<narrator>:"100년 후의 너에게.+네가 이 앨범을 볼 때면, 나는 이미 세상을 떠나고 없겠지.+지금 나의 세상은 절망으로 가득차 있어.+애석할 노릇이야, 인류는 천재지변이 닥치고서야 비로소 힘을 모으려 하니.+이 글을 읽는 네가 사는 세상은 아마, 붕괴 복사와 환경 오염 문제를 해결하고, 서로서로 돕는 아름다운 세상이겠지?+부러운 마음을 담아 너에게 '참 잘됐구나!'라 말하고 싶구나."
+()<Speaker></Speaker>||:......
+()<Speaker></Speaker>||<SE1>Heartbeat</SE1>:안젤리아는 가슴이 무언가에 세게 부딪힌 기분이 들었다.
+NPC-maya(0)<Speaker></Speaker>||<SE1>AVG_20Winter_Doorbell</SE1>:그때, 초인종이 딸랑 울리며 가게 문이 또 열렸다. 바닥도 삐그덕 소리를 내며 들어온 사람은 단정한 옷차림의 단발 여성이었다.
+()<Speaker></Speaker>||<SE1>Stop_AVG_loop</SE1><BGM>BGM_Empty</BGM>:이렇게 한적한 복고품 전문 가게엔 보통 일주일에 손님이 한 명이나 올까말까한데, 오늘은 그야말로 성수기였다.
+()<Speaker></Speaker>||<SE1>AVG_tele_connect</SE1><BGM>GF_EV9_Intermission</BGM>:삐이——
+NPC-maya(2)<Speaker>？</Speaker>||:<color=#00CCFF>Hallo, 안젤리아 씨.</color>+<color=#00CCFF>너무 오래 기다리게 하진 않았으려나?</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:천천히 앨범을 덮고 제자리에 돌려놓은 뒤, 안젤리아는 마음을 추스르며 통신으로 말을 걸어온 여성에게 고개를 몸을 돌렸다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>사모시나?</color>
+NPC-maya(2)<Speaker>？</Speaker>||:<color=#00CCFF>맞는데 지금은 그렇게 안 불러도 돼.</color>+<color=#00CCFF>여기선 요원 Q라 불러 줘.</color>
+()<Speaker></Speaker>||:단발의 여성은 턱을 까딱하며 안젤리아에게 미소를 보였다.
+()||<SE1>AVG_keyboardtype_sci</SE1>:그녀의 옷차림과 현란하게 통신기를 두드리는 손가락에, 안젤리아는 순간 할 말을 잃었다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>너... 자신이 이중 스파이라고 광고하고 다니는 거야 지금?</color>
+NPC-maya(2)<Speaker>요원 Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>걱정 마셔, 양쪽 일 다 잘하고 있으니까.</color>+<color=#00CCFF>어느 쪽도 보스가 멀쩡하면 그만이거든.</color>
+NPC-maya(2);NPC-Ange(19)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>그딴 쓸데없는 소리나 들으러 온 거 아니야.</color>+<color=#00CCFF>용건이나 간단하게 말해.</color>
+NPC-maya(0)<Speaker>요원 Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>그거 좋지, 나도 말 돌려 하기 싫어하거든.</color>+<color=#00CCFF>루뱡카에서 네 프로필을 봤어.</color>
+NPC-maya(0)<Speaker>요원 Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>패러데우스의 뒤를 캐고 있지?</color>+<color=#00CCFF>그럼 그 일에 관해서만큼은 우린 동지야.</color>
+NPC-maya(0);NPC-Ange(19)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>어느 쪽 보스의 뜻인데?</color>
+NPC-maya(0)<Speaker>요원 Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>뭐랄까... 양쪽 다?</color>
+NPC-maya(2)<Speaker>요원 Q</Speaker>||:<color=#00CCFF>입장은 일치해.</color>
+NPC-Ange(21)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>자꾸 그렇게 감질나게 할 거면 관둬.</color>
+NPC-maya(0)<Speaker>요원 Q</Speaker>||:<color=#00CCFF>이게 줄일 수 있는 얘기가 아니긴 하지...</color>
+NPC-maya(2)<Speaker>요원 Q</Speaker>||:<color=#00CCFF>커피 한잔 할래?</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>난 보드카만 마셔.</color>
+NPC-maya(2)<Speaker>요원 Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>여기 메뉴에 보드카 커피가 있긴 한데.</color>
+NPC-maya(2);NPC-Ange(21)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>...그건 보드카에 대한 모욕이야.</color>
+NPC-maya(0)<Speaker>요원 Q</Speaker>||:<color=#00CCFF>칫, 까다롭기는.</color>
+()<Speaker></Speaker>||<BGM>BGM_Empty</BGM>:둘은 비밀 통신을 잠시 멈추고, 평범한 손님처럼 음식과 레코드판을 샀다.
+()||<SE1>AVG_20Winter_Drink_Tea</SE1>:안젤리아는 그 "백만송이 장미"와 "보드카커피, 카페인 빼고"를 주문했다.+반면 요원 Q는 이 가게 메뉴의 모든 디저트와 음료수를 하나씩 거의 전부 주문했다.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:...그거 다 먹을 수는 있지?
+NPC-maya(2)<Speaker>요원 Q</Speaker>||:걱정 마, 이거 점심 저녁 야식 합쳐서야.
+NPC-maya(2)<Speaker>요원 Q</Speaker>;NPC-Ange(19)||<BGM>BGM_23S_Crossroads_Warrior</BGM>:<color=#00CCFF>"태양 흑점" 사건, 기억해?</color>
+NPC-maya(0);NPC-Ange(19)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>슈타지의 대 신소련 첩보력이 20년은 후퇴하게 만든 그 사건?</color>
+NPC-maya(0)<Speaker>요원 Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>어, 그거. 그 사건으로 슈타지는 명성은 물론 사회적 입지마저 곤두박질쳤지.</color>+<color=#00CCFF>근데 내 독일 쪽 보스가 말이야... 그걸 뭐라더라... 아, 워커홀릭이거든?</color>+<color=#00CCFF>파스타 만들기 대회에 참가하면 면발을 지구 3바퀴는 감을 정도로 뽑을 사람.</color>+<color=#00CCFF>일중독자도 그런 독종은 흔치 않은데...</color>
+NPC-maya(2)<Speaker>요원 Q</Speaker>||:<color=#00CCFF>그 보스가, 슈타지의 첩보력을 전성기로 되돌리려고 해.</color>
+NPC-Ange(21)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>......</color>+<color=#00CCFF>큰 뜻을 품으셨구만.</color>
+NPC-maya(2)<Speaker>요원 Q</Speaker>;NPC-Ange(21)||:<color=#00CCFF>문제는...</color>+<color=#00CCFF>이미 해냈단 거지만.</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>뭐...?</color>
+NPC-maya(0)<Speaker>요원 Q</Speaker>||<黑点1>:<color=#00CCFF>쬐끔 맛만 보여줄게.</color>
+()<Speaker></Speaker>||<黑点2><BIN>493</BIN><黑点1>:......
+()<Speaker></Speaker>||<黑点2><BIN>492</BIN><黑点1>:......
+()<Speaker></Speaker>||<黑点2><BIN>504</BIN><黑点1>:......
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||<BIN>656</BIN><黑点2>:............
+NPC-maya(2)<Speaker>요원 Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>엄청나지?</color>
+NPC-maya(2);NPC-Ange(21)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>이 정도 규모라고...?</color>+<color=#00CCFF>루뱡카에서도 이런 시스템은 언급조차 된 적 없는데...</color>
+NPC-maya(2)<Speaker>요원 Q</Speaker>;NPC-Ange(21)||:<color=#00CCFF>기적 같지?</color>
+NPC-maya(2);NPC-Ange(19)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>감상을 듣고 싶다면 하고 싶은 말은 딱 하나밖에 없어.</color>+<color=#00CCFF>네 루뱡카 쪽 보스는 이미 슈타지의 개네.</color>
+NPC-maya(2)<Speaker>요원 Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>단어 선정이 좀 그렇지만 아니라고 할 순 없지.</color>
+NPC-maya(0)<Speaker>요원 Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>아무튼, 이 시스템은 "벌침"이라고 해, 성질상 실시간 감시 체계라고 할 수 있겠지?</color>+<color=#00CCFF>그런데, 최근에 내 독일 쪽 보스가 이것의 주인이 따로 있다는 걸 눈치챘어.</color>
+NPC-maya(0);NPC-Ange(19)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>패러데우스.</color>
+NPC-maya(0)<Speaker>요원 Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>응.</color>
+NPC-maya(0);NPC-Ange(19)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>울릭보다 먼저 만나자고 한 이유가 그래서야?</color>
+NPC-maya(0)<Speaker>요원 Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>그런 거지. 울릭 곁의 그 "참새"는... 이미 투명한 상태거든.</color>+<color=#00CCFF>그러니까 안젤리아, 우린 협력할 수 있어.</color>
+NPC-maya(0);NPC-Ange(21)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>이 꼴을 대체 어떻게 비웃어야 할지 난감하다.</color>
+NPC-maya(2)<Speaker>요원 Q</Speaker>;NPC-Ange(21)||:<color=#00CCFF>세상이 그런 법 아니겠어, 수많은 발명품들이 겉보기엔 잘 빠진 스포츠카 같지만 속을 들여다보면 인력으로 바퀴를 굴리는 모양새잖아.</color>
+NPC-maya(2);NPC-Ange(19)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>감시를 피할 방법은?</color>
+NPC-maya(0)<Speaker>요원 Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>없어.</color>+<color=#00CCFF>그래서 큰 리스크를 지고 이렇게 널 직접 만나러 온 거야. 직접 입에서 귀로 전달하는 수밖에 없어서.</color>+<color=#00CCFF>어지간한 원격 수단은 모조리 도청된다고 생각하면 돼.</color>+<color=#00CCFF>만약 네 곁에 통제 불가능한 사람이 있거나, 암호화되지 않은 통신 채널이 있다면...</color>
+NPC-maya(0);NPC-Ange(21)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>......</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>일단 말해 두겠지만, 난 슈타지의 내부 힘싸움엔 관심 없어.</color>
+NPC-maya(2)<Speaker>요원 Q</Speaker>||:<color=#00CCFF>걱정 마 걱정 마, K는 내가 처리할 테니까.</color>+<color=#00CCFF>어차피 걔 훈련생 시절 때도 날 이기는 과목 하나도 없었어.</color>
+NPC-maya(2);NPC-Ange(21)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>......</color>
+NPC-maya(2)<Speaker>요원 Q</Speaker>;NPC-Ange(21)||:<color=#00CCFF>그러니까 현임 국장 같은 호구 꽁무니나 따라다니지.</color>
+NPC-maya(2);NPC-Ange(19)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>허, 네 줄은 무슨 황금 동앗줄이라도 되는 모양이네?</color>
+NPC-maya(2)<Speaker>요원 Q</Speaker>;NPC-Ange(19)||:<color=#00CCFF>그야 물론.</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>...무슨 근거로?</color>
+NPC-maya(1)<Speaker>요원 Q</Speaker>||:<color=#00CCFF>내 경비 신청 한도가 녀석의 3배거든.</color>
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:<color=#00CCFF>......</color>+<color=#00CCFF>그래서, 울릭 곁의 "참새"는 누구야?</color>
+NPC-maya(2)<Speaker>요원 Q</Speaker>||:<color=#00CCFF>그녀의 비서 몰리도 포거트, 놈들 식으로는 니토.</color>
+()<Speaker></Speaker>||<SE1>ClothingUp</SE1>:마지막 남은 브라우니까지 꼭꼭 씹어먹고, Q는 자리에서 일어나 앨범 코너에서 가장 비싼 것을 골랐다.
+NPC-maya(2)<Speaker>요원 Q</Speaker>||:계산 대신 부탁해~+다음엔 내가 쏠 테니까.
+NPC-Ange(19)<Speaker>안젤리아</Speaker>||:......
+()<Speaker></Speaker>||:어이없어 하는 안젤리아를 보며, Q는 싱긋 웃었다.+그리곤 곧장 뒤돌아, 가판대 너머로 소리 없이 사라졌다.+가게 안에 안젤리아만 남겨둔 채.
 ()||<黑屏1>:

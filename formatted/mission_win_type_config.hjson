@@ -1465,6 +1465,60 @@
     is_show_count: "1"
   }
   {
+    id: 580001
+    type: 1406
+    arguments: 580098:0
+    extra_language: 안나 제대 퇴각 시 작전 실패
+  }
+  {
+    id: 580002
+    type: 1407
+    arguments: 580097:1
+    extra_language: 안나 제대 퇴각 시 작전 실패
+  }
+  {
+    id: 581101
+    type: 1101
+    arguments: "3500616,3500617"
+    extra_language: 목표 거점을 점령한다
+    is_show_count: "1"
+  }
+  {
+    id: 583401
+    type: 1406
+    arguments: 580120:0
+    extra_language: 모든 복음중추를 파괴한다
+    is_show_count: "1"
+  }
+  {
+    id: 583402
+    type: 1303
+    arguments: 583401:1
+    extra_language: 목표 적 유닛을 처치
+    is_show_count: "1"
+  }
+  {
+    id: 584801
+    type: 1101
+    arguments: "3500768,3500775"
+    extra_language: 목표 거점을 점령한다
+    is_show_count: "1"
+  }
+  {
+    id: 585502
+    type: 1303
+    arguments: 585502:1
+    extra_language: 목표 적 유닛을 처치
+    is_show_count: "1"
+  }
+  {
+    id: 587002
+    type: 1303
+    arguments: 587007:1
+    extra_language: 목표 적 유닛을 처치
+    is_show_count: "1"
+  }
+  {
     id: 1027801
     type: 1101
     arguments: "94332"
@@ -5506,6 +5560,197 @@
     arguments: "5"
   }
   {
+    id: 1134701
+    type: 1101
+    arguments: "78630"
+  }
+  {
+    id: 1134702
+    type: 1407
+    arguments: 581500:1
+    extra_language: 안젤리아 제대 퇴각 시 작전 실패
+  }
+  {
+    id: 1134901
+    type: 1303
+    arguments: 581701:1
+  }
+  {
+    id: 1135301
+    type: 1306
+    arguments: 6580109:1
+    is_show_count: "1"
+  }
+  {
+    id: 1135501
+    type: 1407
+    arguments: 6580113:1
+    extra_language: 요원과 대화한다
+    is_show_count: "1"
+  }
+  {
+    id: 1135502
+    type: 1404
+    arguments: "2"
+    is_show_count: "1"
+  }
+  {
+    id: 1135503
+    type: 1306
+    arguments: 6580116:1
+    is_show_count: "1"
+  }
+  {
+    id: 1135504
+    type: 1407
+    arguments: 6580139:1
+    extra_language: 레이더 지점에 가서 함정을 설치한다
+    is_show_count: "1"
+  }
+  {
+    id: 1135505
+    type: 1407
+    arguments: 6580138:1
+    extra_language: 그레이를 지정 위치로 유인한다
+    is_show_count: "1"
+  }
+  {
+    id: 1135591
+    type: 1407
+    arguments: 6580136:1
+    extra_language: 요원이 패주하면 작전 실패
+  }
+  {
+    id: 1135901
+    type: 1405
+    arguments: "1"
+    is_show_count: "1"
+  }
+  {
+    id: 1136801
+    type: 1303
+    arguments: 583601:1
+    extra_language: 아베르누스 중앙 교량에서 몰리도 처치
+  }
+  {
+    id: 1136802
+    type: 1407
+    arguments: 583602:1
+    extra_language: 댄들라이를 몰리도에게 접근시키기
+  }
+  {
+    id: 1138101
+    type: 1101
+    arguments: "78655"
+  }
+  {
+    id: 1138201
+    type: 1303
+    arguments: 585001:1
+  }
+  {
+    id: 1138202
+    type: 1406
+    arguments: 581701:0
+  }
+  {
+    id: 1138301
+    type: 1306
+    arguments: 6580110:1
+    is_show_count: "1"
+  }
+  {
+    id: 1138302
+    type: 1306
+    arguments: 6580111:1
+    is_show_count: "1"
+  }
+  {
+    id: 1138401
+    type: 1407
+    arguments: 6580113:1
+    extra_language: 요원과 대화한다
+    is_show_count: "1"
+  }
+  {
+    id: 1138402
+    type: 1404
+    arguments: "3"
+    is_show_count: "1"
+  }
+  {
+    id: 1138403
+    type: 1306
+    arguments: 6580117:1
+    is_show_count: "1"
+  }
+  {
+    id: 1138404
+    type: 1407
+    arguments: 6580139:1
+    extra_language: 레이더 지점에 가서 함정을 설치한다
+    is_show_count: "1"
+  }
+  {
+    id: 1138405
+    type: 1407
+    arguments: 6580138:1
+    extra_language: 그레이를 지정 위치로 유인한다
+    is_show_count: "1"
+  }
+  {
+    id: 1138491
+    type: 1407
+    arguments: 6580136:1
+    extra_language: 요원이 패주하면 작전 실패
+  }
+  {
+    id: 1138501
+    type: 1405
+    arguments: "1"
+    is_show_count: "1"
+  }
+  {
+    id: 1138591
+    type: 1407
+    arguments: 6580107:1
+    extra_language: 안젤리아 제대 퇴각 시 작전 실패
+  }
+  {
+    id: 1138801
+    type: 1303
+    arguments: 585601:1
+    extra_language: 아베르누스 중앙 교량에서 몰리도 처치
+  }
+  {
+    id: 1139401
+    type: 1303
+    arguments: 587101:1
+    extra_language: 아베르누스 중앙 교량에서 몰리도 처치
+  }
+  {
+    id: 1139801
+    type: 1301
+    arguments: "5"
+  }
+  {
+    id: 1139901
+    type: 1301
+    arguments: "4"
+  }
+  {
+    id: 1140201
+    type: 1402
+    arguments: "6"
+    extra_language: 6턴까지 버티기
+  }
+  {
+    id: 1140301
+    type: 1402
+    arguments: "6"
+    extra_language: 6턴까지 버티기
+  }
+  {
     id: 3610301
     type: 1305
     is_show_count: "1"
@@ -6084,6 +6329,251 @@
     type: 1303
     arguments: 9521412:1
     extra_language: 최종 보스를 처치
+  }
+  {
+    id: 9583801
+    type: 1407
+    arguments: 9583802:1
+    extra_language:
+      '''
+      네메아란이 도주.
+      ·네메아란이 레이더 지점에 도달.
+      '''
+  }
+  {
+    id: 9583802
+    type: 1402
+    arguments: "5"
+    extra_language:
+      '''
+      네메아란의 도주를 막는다.
+      ·네메아란이 레이더에 도달하지 못한 상태에서 4턴을 맞이한다.
+      '''
+  }
+  {
+    id: 9583803
+    type: 1303
+    arguments: 9583801:1
+    extra_language: 네메아란을 쓰러뜨린다.
+  }
+  {
+    id: 9584001
+    type: 1101
+    arguments: "95496"
+    extra_language:
+      '''
+      레이더 지점에 도달 후 중탑 위치로 이동해 다른 부대와 합류한다.
+      <color=#CF8000>·해당 거점 점령. ※턴 종료 시 달성 여부를 판정합니다.</color>
+      '''
+  }
+  {
+    id: 9584002
+    type: 1303
+    arguments: 9584008:1
+    extra_language:
+      '''
+      네메아란을 요격.
+      <color=#CF8000>·턴 종료 시 달성 여부를 판정합니다.</color>
+      '''
+  }
+  {
+    id: 9584003
+    type: 1402
+    arguments: "14"
+    extra_language: 14턴을 맞이한다.
+  }
+  {
+    id: 9584004
+    type: 1402
+    arguments: "2"
+  }
+  {
+    id: 9584005
+    type: 1306
+    arguments: 9584006:1
+    extra_language:
+      '''
+      사나를 요격.
+      <color=#CF8000>·턴 종료 시 달성 여부를 판정합니다.</color>
+      '''
+  }
+  {
+    id: 9584201
+    type: 1402
+    arguments: "6"
+    extra_language: 사나를 쓰러뜨리지 못한 상태에서 6턴을 맞이함.
+  }
+  {
+    id: 9584202
+    type: 1402
+    arguments: "5"
+    extra_language: 5턴 이상 버티기.
+  }
+  {
+    id: 9584203
+    type: 1303
+    arguments: 9584203:1
+    extra_language: 사나를 쓰러뜨릴 것.
+  }
+  {
+    id: 9585701
+    type: 1407
+    arguments: 9583802:1
+    extra_language:
+      '''
+      네메아란이 도주.
+      ·네메아란이 레이더 지점에 도달.
+      '''
+  }
+  {
+    id: 9585702
+    type: 1402
+    arguments: "5"
+    extra_language:
+      '''
+      네메아란의 도주를 막는다.
+      ·네메아란이 레이더에 도달하지 못한 상태에서 4턴을 맞이한다.
+      '''
+  }
+  {
+    id: 9585703
+    type: 1303
+    arguments: 9585701:1
+    extra_language: 네메아란을 쓰러뜨린다.
+  }
+  {
+    id: 9585801
+    type: 1101
+    arguments: "95737"
+    extra_language:
+      '''
+      레이더 지점에 도달 후 중탑 위치로 이동해 다른 부대와 합류한다.
+      <color=#CF8000>·해당 거점 점령. ※턴 종료 시 달성 여부를 판정합니다.</color>
+      '''
+  }
+  {
+    id: 9585802
+    type: 1303
+    arguments: 9585810:1
+    extra_language:
+      '''
+      네메아란을 요격.
+      <color=#CF8000>·턴 종료 시 달성 여부를 판정합니다.</color>
+      '''
+  }
+  {
+    id: 9585803
+    type: 1402
+    arguments: "14"
+    extra_language: 14턴을 맞이한다.
+  }
+  {
+    id: 9585804
+    type: 1306
+    arguments: 9585806:1
+    extra_language:
+      '''
+      사나를 요격.
+      <color=#CF8000>·턴 종료 시 달성 여부를 판정합니다.</color>
+      '''
+  }
+  {
+    id: 9585901
+    type: 1402
+    arguments: "6"
+    extra_language: 사나를 쓰러뜨리지 못한 상태에서 6턴을 맞이함.
+  }
+  {
+    id: 9585902
+    type: 1402
+    arguments: "5"
+    extra_language: 5턴 이상 버티기.
+  }
+  {
+    id: 9585903
+    type: 1303
+    arguments: 9585903:1
+    extra_language: 사나를 쓰러뜨릴 것.
+  }
+  {
+    id: 9587201
+    type: 1407
+    arguments: 9583802:1
+    extra_language:
+      '''
+      네메아란이 도주.
+      ·네메아란이 레이더 지점에 도달.
+      '''
+  }
+  {
+    id: 9587202
+    type: 1402
+    arguments: "5"
+    extra_language:
+      '''
+      네메아란의 도주를 막는다.
+      ·네메아란이 레이더에 도달하지 못한 상태에서 4턴을 맞이한다.
+      '''
+  }
+  {
+    id: 9587203
+    type: 1303
+    arguments: 9587201:1
+    extra_language: 네메아란을 쓰러뜨린다.
+  }
+  {
+    id: 9587301
+    type: 1101
+    arguments: "95529"
+    extra_language:
+      '''
+      레이더 지점에 도달 후 중탑 위치로 이동해 다른 부대와 합류한다.
+      <color=#CF8000>·해당 거점 점령. ※턴 종료 시 달성 여부를 판정합니다.</color>
+      '''
+  }
+  {
+    id: 9587302
+    type: 1303
+    arguments: 9587312:1
+    extra_language:
+      '''
+      네메아란을 요격.
+      <color=#CF8000>·턴 종료 시 달성 여부를 판정합니다.</color>
+      '''
+  }
+  {
+    id: 9587303
+    type: 1402
+    arguments: "14"
+    extra_language: 14턴을 맞이한다.
+  }
+  {
+    id: 9587304
+    type: 1306
+    arguments: 9587307:1
+    extra_language:
+      '''
+      사나를 요격.
+      <color=#CF8000>·턴 종료 시 달성 여부를 판정합니다.</color>
+      '''
+  }
+  {
+    id: 9587401
+    type: 1402
+    arguments: "6"
+    extra_language: 사나를 쓰러뜨리지 못한 상태에서 6턴을 맞이함.
+  }
+  {
+    id: 9587402
+    type: 1402
+    arguments: "5"
+    extra_language: 5턴 이상 버티기.
+  }
+  {
+    id: 9587403
+    type: 1303
+    arguments: 9587403:1
+    extra_language: 사나를 쓰러뜨릴 것.
   }
   {
     id: 58000101

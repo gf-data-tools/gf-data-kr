@@ -3916,6 +3916,283 @@
     spine_scale: "70,70,1"
   }
   {
+    id: 200
+    name: 아라크네
+    type: 2
+    code: MechanicalSpiderM
+    introduce: 거미형 작전 로봇 모체, 높은 안정성과 기동성을 지니고, 다량의 소형 작전 로봇을 탑재해, 공성전과 조우전에서 상당히 위협적인 적이다.
+    forces: 3
+    pow_rank: 3
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 4
+    rate_rank: 3
+    armor_rank: 5
+    speed_rank: 3
+    range_rank: 2
+    counter: 높은 장갑을 지녔으며, 복제 개체를 만들어 전투를 방해합니다. 본체에도 어느 정도 방어 능력이 있으니 제대 전체 작전 능력을 높여 상대하세요.
+    character: "1001,1005,302,309,321"
+    enemy_skill: "199,200,201"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+    tenacity_rank: 3
+  }
+  {
+    id: 201
+    name: 아라크네 클론
+    type: 2
+    code: MechanicalSpiderS
+    introduce: 거미형 소형 작전 로봇. 매우 높은 기동력과 공격 성능을 지녀, 생물과 기계 유닛 모두에게 효과적인 살상력을 발휘한다. 수량이 많고 민첩한 공포의 대상이다.
+    forces: 3
+    pow_rank: 3
+    life_rank: 1
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 4
+    armor_rank: 1
+    speed_rank: 5
+    range_rank: 1
+    counter: 높은 회피를 지녔으며 아군 제대에 빠르게 접근합니다. 전투 초기에 신속하게 처리할 수 있도록 주의하세요.
+    character: "303,304,306,309,316"
+    enemy_skill: "202"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 202
+    name: 트로이
+    type: 4
+    code: Fortress
+    introduce: 요새형 초중량급 작전 로봇. 육전 부대 수송 차량으로도 쓰이는 동시, 자체적으로도 전략급의 공성 능력을 가지고 있어, 전장 전체에 영향을 줄 수 있는 고급 작전 유닛이다.
+    forces: 3
+    pow_rank: 6
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 1
+    rate_rank: 3
+    armor_rank: 6
+    speed_rank: 3
+    range_rank: 3
+    counter: 이 유닛은 매우 강력한 방어력과 상당한 범위 공격 능력을 가지고 있어 우선적으로 처치하는 것을 권장합니다.
+    character: "1001,1005,302,309,319,313"
+    enemy_skill: "203,204,205"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+    tenacity_rank: 5
+  }
+  {
+    id: 203
+    name: 메카닉
+    type: 3
+    code: Engineer
+    introduce: 공병형 인형 작전 유닛. 자체적인 파괴력이나 살상력은 높지 않지만, 지원 유닛으로서 성가시다. 곁의 드론이 실시간으로 전장 상황을 지켜본다.
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 2
+    rate_rank: 6
+    speed_rank: 3
+    range_rank: 3
+    counter: 이 유닛은 끊임 없이 드론을 제작해 작전을 보조합니다. 소모전에 끌려가지 않도록 주의하세요.
+    character: "1001,321"
+    enemy_skill: "206,169"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 204
+    name: 라돈
+    type: 4
+    code: Mecha_N
+    introduce: 패러데우스가 생산한 최신형 초중량급 기갑 유닛. 가히 만능이라 할 수 있는 작전 능력을 지녀, 모든 거리의 전투에서 상대하기 힘든 파괴력을 자랑하는 무시무시한 상대다.
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 3
+    rate_rank: 4
+    armor_rank: 5
+    speed_rank: 3
+    range_rank: 5
+    counter: 높은 장갑을 지녔으며, 빈틈 없는 작전 능력을 지녔습니다. 처치할 타이밍을 적절하게 선택하세요.
+    character: "1001,1003,302,309,313,319,310"
+    enemy_skill: "207,208"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "50,50,1"
+  }
+  {
+    id: 205
+    name: 빔 거너
+    type: 3
+    code: Artillery
+    introduce: 헤비거너와 비슷하면서도 더욱 강력한 화력을 탑재했다. 너무나도 무거운 화기에 기동력이 다소 감소한 것이 대가다.
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 2
+    rate_rank: 3
+    speed_rank: 3
+    range_rank: 4
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "1003,319,316"
+    enemy_skill: "209,210"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 206
+    name: 사나
+    type: 1
+    code: Nyto_mecha2
+    introduce: 패러데우스의 엘리트 유닛. 겉보기는 연약한 소녀 같지만 특수한 가면을 쓰고 전용 메카에 탑승하면 상대에겐 도망치는 선택지 밖에 안 남을 것이다.
+    forces: 3
+    pow_rank: 5
+    life_rank: 6
+    hit_rank: 5
+    dodge_rank: 6
+    rate_rank: 4
+    speed_rank: 6
+    range_rank: 7
+    counter: 매우 강력한 전투 방해 능력을 지녔으니 상대할 제대 편성을 신중하게 정하세요.
+    character: "1001,216"
+    enemy_skill: "211,212,213,214,215,216"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 207
+    name: 강글라티
+    type: 1
+    code: Pamzan_Final
+    introduce: 패러데우스의 정체불명 암살자. 기계와 인간 육체를 조립해서 만들어진 기괴한 피조물. 그에게 사용된 기술은 다른 패러데우스 유닛하고도 조금 다른 점이 있다.
+    forces: 3
+    pow_rank: 4
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 2
+    speed_rank: 4
+    range_rank: 3
+    counter: 매우 강력한 척살 능력을 지녔으니 상대할 제대 편성을 신중하게 정하세요.
+    character: "1001"
+    enemy_skill: "217,218,219,220"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+    tenacity_rank: 5
+  }
+  {
+    id: 208
+    name: M4A1 더미
+    type: 3
+    code: M4A1_enemy
+    introduce: M4A1의 더미. 본체의 우유과단함이 없어 명령에 절대 복종한다.
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 정보 불명. 신중하게 대응하세요!
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 209
+    name: AR15 더미
+    type: 3
+    code: AR15_enemy
+    introduce: AR15의 더미. 냉소하지 않는 것만 빼면 본체와 그리 다르지 않다.
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 정보 불명. 신중하게 대응하세요!
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 210
+    name: SOP2 더미
+    type: 3
+    code: M4 SOPMOD II_enemy
+    introduce: SOP2의 더미. 본체와 행동 로직이 완전히 똑같고, 웃음소리도 똑같이 소름끼친다.
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 정보 불명. 신중하게 대응하세요!
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 211
+    name: M16A1
+    type: 3
+    code: M16A1Griffin
+    introduce: 특별한 사명과 권한을 가진 M16A1. 중요한 갈림길에서 언제나 정신을 다잡고 AR팀을 올바른 길로 밀어준다.
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 정보 불명. 신중하게 대응하세요!
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    id: 212
+    name: 경비단 총잡이
+    type: 3
+    code: USSR_Agent
+    introduce: 베슬란 경비단의 주요 무장 인력. 극단주의자들로 이루어져, 정식 전술지도 및 훈련을 받아 총기를 능숙하게 다룰 수 있어, 폭동에서 주력을 맡는다.
+    pow_rank: 1
+    life_rank: 3
+    hit_rank: 2
+    dodge_rank: 3
+    rate_rank: 5
+    speed_rank: 3
+    range_rank: 3
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "1001"
+    launch_time: 2035-5-20 00:00:00
+  }
+  {
+    id: 213
+    name: 허약한 아스클레피오스의 지팡이
+    type: 3
+    code: Obelisk_partB
+    introduce: 기총을 사용하는 중화력 인형 유닛. 휴대한 기총은 에너지 충전 후 플라즈마 빔을 3발 쏘아 적을 실명시킨다. 【아케소의 접시】를 장착하면 위력이 급상승한다. 지금은 허약 상태로 화력이 떨어졌다.
+    forces: 3
+    pow_rank: 1
+    life_rank: 3
+    hit_rank: 3
+    dodge_rank: 5
+    rate_rank: 3
+    speed_rank: 1
+    range_rank: 4
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "1001,1003,335,320"
+    enemy_skill: "130"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "100,100,1"
+  }
+  {
     id: 100001
     name: 게베뉴
     type: 1

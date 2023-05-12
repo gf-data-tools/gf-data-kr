@@ -233,7 +233,7 @@
   }
   {
     id: 70021
-    name: 【标记】求救信号
+    name: 【标记】求救신호
     code: M_buff04
     description: Shocker！
     priority: 5
@@ -1241,6 +1241,7 @@
     relative_position: "0,0;0,0;0,0;1,1"
     offset: "-5500,-5500;6500,6500"
     rotation_offset: "0,0,45;0,0,45"
+    is_focus: 2|0.5,1
   }
   {
     id: 1000110
@@ -1579,6 +1580,213 @@
     description: 별
     duration: 1
     size: 0.5
+    offset: "0,0"
+  }
+  {
+    id: 1000142
+    name: 오염지점
+    code: sheshi_dian
+    description: 마비 효과
+    size: 1
+    offset: "0,0"
+  }
+  {
+    id: 1000143
+    name: 마비 효과
+    code: sheshi_dian_sj
+    description: 오염지점
+    delay: 0.8
+    size: 1.3
+    offset: "0,0"
+  }
+  {
+    id: 1000144
+    name: 초점 비움
+    code: Empty
+    description: 초점 비움
+    duration: 0.01
+    size: 1
+    offset: "0,0"
+    is_focus: "1"
+  }
+  {
+    id: 1000145
+    name: 시한폭탄 소리
+    code: Viscosity_Bomb
+    description: 시한폭탄 소리
+    priority: 1
+    delay: 0.86
+    size: 0.5
+    spine: 2
+    offset: "0,0"
+  }
+  {
+    id: 1000146
+    name: 웨프게이트 주황고리
+    code: chuansong_02xh
+    description: 주황 고리 상시
+    size: 0.02
+    offset: "100,150;0,0"
+  }
+  {
+    id: 1000147
+    name: 돌더미
+    code: Rock_effect
+    description: 돌더미
+    duration: 1
+    size: 1
+    offset: "0,0"
+  }
+  {
+    id: 1000148
+    name: TY-160
+    code: Fly_tu160
+    description: TY-160
+    priority: 1
+    duration: 4
+    size: 2
+    sound: Blackjack_flying
+    if_starting: 4
+    relative_position: "0,0;0,0;0,0;1,1"
+    offset: "-5500,-5500;6500,6500"
+    rotation_offset: "0,0,45;0,0,45"
+    is_focus: 2|0.5,1
+  }
+  {
+    id: 1000149
+    name: 폭격 효과1
+    code: XDZY_TY2
+    description: 폭격 효과1
+    priority: 1
+    duration: 2
+    delay: -0.5
+    size: 4
+    offset: "0,0"
+  }
+  {
+    id: 1000150
+    name: 폭격 효과2
+    code: LLS_hongzha02
+    description: 폭격 효과2
+    priority: 1
+    duration: 2
+    delay: -1.5
+    size: 2
+    sound: Blackjack_attack1
+    offset: "0,0"
+  }
+  {
+    id: 1000151
+    name: 공격 지점 침묵
+    code: Serenity
+    description: 공격 지점 침묵
+    priority: 10
+    duration: 1.5
+    size: 1
+    sound: SFX_20_Winter_Radar_Scan
+    if_starting: 4
+    relative_position: "0,0;0,0;0,0;1,1"
+    offset: "0,60;0,220"
+    rotation_offset: "0,0,0;0,0,0"
+  }
+  {
+    id: 1000152
+    name: 마비 효과
+    code: sheshi_dian_sj
+    description: 오염지점
+    duration: 0.2
+    size: 1.3
+    offset: "0,0"
+  }
+  {
+    id: 1000153
+    name: 受击特效给hurt用,带音效
+    code: MGT_shouji
+    description: 受击特效给hurt用,带音效
+    duration: 1
+    size: 0.02
+    sound: BT_The_Division_Machine_Gun_Tower_Shooting
+    offset: "0,0"
+  }
+  {
+    id: 1000154
+    name: 공격 지점 재가동
+    code: Empty
+    description: 메비우스 효과
+    priority: 99
+    duration: 0.5
+    size: 1
+    sound: BT_Skill_missilelock
+    offset: "0,0"
+  }
+  {
+    id: 1000155
+    name: 카운트 다운0
+    code: bomb_shuzi00
+    description: 카운트 다운0
+    priority: 5
+    duration: 1
+    size: 1.6
+    offset: "0,0"
+  }
+  {
+    id: 1000156
+    name: 카운트 다운1
+    code: bomb_shuzi01
+    description: 카운트 다운1
+    priority: 5
+    duration: 1
+    size: 1.6
+    offset: "0,0"
+  }
+  {
+    id: 1000157
+    name: 카운트 다운2
+    code: bomb_shuzi02
+    description: 카운트 다운2
+    priority: 5
+    duration: 1
+    size: 1.6
+    offset: "0,0"
+  }
+  {
+    id: 1000158
+    name: 카운트 다운3
+    code: bomb_shuzi03
+    description: 카운트 다운3
+    priority: 5
+    duration: 1
+    size: 1.6
+    offset: "0,0"
+  }
+  {
+    id: 1000159
+    name: 카운트 다운4
+    code: bomb_shuzi04
+    description: 카운트 다운4
+    priority: 5
+    duration: 1
+    size: 1.6
+    offset: "0,0"
+  }
+  {
+    id: 1000160
+    name: 카운트 다운5
+    code: bomb_shuzi05
+    description: 카운트 다운5
+    priority: 5
+    duration: 1
+    size: 1.6
+    offset: "0,0"
+  }
+  {
+    id: 1000161
+    name: 카운트 다운6
+    code: bomb_shuzi06
+    description: 카운트 다운6
+    priority: 5
+    duration: 1
+    size: 1.6
     offset: "0,0"
   }
   {

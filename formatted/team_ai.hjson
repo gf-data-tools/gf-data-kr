@@ -213,4 +213,13 @@
     pic: ai_guard
     color: ffffff
   }
+  {
+    id: 25
+    force_id: 3
+    ai_type: 106
+    name: 추적
+    description: 특정 NPC를 향해서 "가능"하고 "가장 짧은" 경로로 이동한다.
+    pic: ai_guard
+    color: ffffff
+  }
 ]

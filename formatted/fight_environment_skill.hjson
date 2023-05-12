@@ -504,11 +504,15 @@
   }
   {
     id: 1107
-    name: 반복숙달
-    desc: 아군이 스킬을 사용할 때마다 다음 쿨타임이 30% 단축된다.
+    name: 돌격관성
+    desc:
+      '''
+      해당 전투에서 아군 전체의 화력과 회피를 4초마다 3%씩 상승시킨다. 최대 10회 중첩 가능
+      <color=#CF8000>1턴 간 지속</color>
+      '''
     if_display: 1
-    code: fight_skill_buff105
-    skill_group: "759124"
+    code: fight_skill_buff102
+    skill_group: "756082"
   }
   {
     id: 1108

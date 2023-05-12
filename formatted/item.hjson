@@ -587,20 +587,18 @@
     type: 3
     arg: "22"
     code: Medal_SlowShock
-    item_name: item-10000121
-    introduction: item-20000121
+    item_name: 깊은 호수의 조타수
+    introduction: 만성쇼크 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "인적 드문 빙산을 정복하는 것보다, 마음 속 호수의 밑바닥을 탐험하는 것이 더 큰 용기를 요한다."
     rank: 1
-    detail_introduction: item-30000121
   }
   {
     id: 122
     type: 3
     arg: "23"
     code: Medal_SlowShock_rank
-    item_name: item-10000122
-    introduction: item-20000122
+    item_name: 수상 강설 훈장
+    introduction: 기간한정 이벤트 만성쇼크 랭킹 모드에서 뛰어난 성적을 얻은 지휘관에게 수여합니다. "뜨거운 불빛이 밤을 밝힐 때, 나도 순백에서 떠오르는 태양처럼 다시 태어난다."
     rank: 1
-    detail_introduction: item-30000122
   }
   {
     id: 301
@@ -968,10 +966,9 @@
     type: 1
     arg: "527"
     code: Grenade
-    item_name: item-10000527
-    introduction: item-20000527
-    sort: -191
-    detail_introduction: item-30000527
+    item_name: 심박수 아이템
+    introduction: '''"너 심장이 터질 것 같으니 철사를 좀 감자"(외부용)'''
+    rank: 1
     is_hide_info: 1
   }
   {
@@ -979,10 +976,9 @@
     type: 1
     arg: "528"
     code: Grenade
-    item_name: item-10000528
-    introduction: item-20000528
-    sort: -191
-    detail_introduction: item-30000528
+    item_name: 심박수 아이템
+    introduction: '''"너 심장이 터질 것 같으니 철사를 좀 감자"'''
+    rank: 1
     is_hide_info: 1
   }
   {
@@ -990,10 +986,9 @@
     type: 1
     arg: "529"
     code: Flashbang
-    item_name: item-10000529
-    introduction: item-20000529
-    sort: -192
-    detail_introduction: item-30000529
+    item_name: 신호 아이템
+    introduction: '''"신호가 16분42초 차이난다"(외부용)'''
+    rank: 1
     is_hide_info: 1
   }
   {
@@ -1001,10 +996,9 @@
     type: 1
     arg: "530"
     code: Flashbang
-    item_name: item-10000530
-    introduction: item-20000530
-    sort: -192
-    detail_introduction: item-30000530
+    item_name: 신호 아이템
+    introduction: '''"신호가 16분42초 차이난다"'''
+    rank: 1
     is_hide_info: 1
   }
   {
@@ -12561,130 +12555,144 @@
     type: 5
     arg: "1"
     code: profilePic_SlowShockActivity2023_01
-    item_name: item-10002287
-    introduction: item-20002287
+    item_name: 아이콘: 맨 인 더 미러
+    introduction: 아이콘: 맨 인 더 미러
     rank: 1
-    detail_introduction: item-30002287
   }
   {
     id: 2288
     type: 5
     arg: "1"
     code: profilePic_SlowShockActivity2023_02
-    item_name: item-10002288
-    introduction: item-20002288
+    item_name: 아이콘: 발더의 귀환
+    introduction: 아이콘: 발더의 귀환
     rank: 1
-    detail_introduction: item-30002288
   }
   {
     id: 2289
     type: 5
     arg: "1"
     code: profilePic_SlowShockActivity2023_03
-    item_name: item-10002289
-    introduction: item-20002289
+    item_name: 아이콘: 아둠으로 향하는 자
+    introduction: 아이콘: 아둠으로 향하는 자
     rank: 1
-    detail_introduction: item-30002289
   }
   {
     id: 2290
     type: 5
     arg: "1"
     code: profilePic_SlowShockActivity2023_04
-    item_name: item-10002290
-    introduction: item-20002290
+    item_name: 아이콘: 캐플러 78b의 추락
+    introduction: 아이콘: 캐플러 78b의 추락
     rank: 1
-    detail_introduction: item-30002290
   }
   {
     id: 2291
     type: 5
     arg: "1"
     code: profilePic_SlowShockActivity2023_05
-    item_name: item-10002291
-    introduction: item-20002291
+    item_name: 아이콘: 이야기 도둑
+    introduction: 아이콘: 이야기 도둑
     rank: 1
-    detail_introduction: item-30002291
   }
   {
     id: 2292
     type: 5
     arg: "1"
     code: profilePic_SlowShockActivity2023_06
-    item_name: item-10002292
-    introduction: item-20002292
+    item_name: 아이콘: 이야기 속 사람
+    introduction: 아이콘: 이야기 속 사람
     rank: 1
-    detail_introduction: item-30002292
   }
   {
     id: 2293
     type: 5
     arg: "1"
     code: profilePic_SlowShockActivity2023_07
-    item_name: item-10002293
-    introduction: item-20002293
+    item_name: 아이콘: 호드의 귀환
+    introduction: 아이콘: 호드의 귀환
     rank: 1
-    detail_introduction: item-30002293
   }
   {
     id: 2294
     type: 5
     arg: "1"
     code: profilePic_SlowShockActivity2023_08
-    item_name: item-10002294
-    introduction: item-20002294
+    item_name: 아이콘: 빛을 거스르는 자
+    introduction: 아이콘: 빛을 거스르는 자
     rank: 1
-    detail_introduction: item-30002294
   }
   {
     id: 2295
     type: 5
     arg: "1"
     code: card_SlowShockActivity2023_01
-    item_name: item-10002295
-    introduction: item-20002295
+    item_name: 카드 배경: 영광의 선서처
+    introduction: 카드 배경: 영광의 선서처
     rank: 1
-    detail_introduction: item-30002295
   }
   {
     id: 2296
     type: 5
     arg: "1"
     code: card_SlowShockActivity2023_02
-    item_name: item-10002296
-    introduction: item-20002296
+    item_name: 카드 배경: 끝나지 않는 노래
+    introduction: 카드 배경: 끝나지 않는 노래
     rank: 1
-    detail_introduction: item-30002296
   }
   {
     id: 2297
     type: 5
     arg: "1"
     code: card_SlowShockActivity2023_03
-    item_name: item-10002297
-    introduction: item-20002297
+    item_name: 카드 배경: 영혼의 안식처
+    introduction: 카드 배경: 영혼의 안식처
     rank: 1
-    detail_introduction: item-30002297
   }
   {
     id: 2298
     type: 5
     arg: "1"
     code: card_SlowShockActivity2023_04
-    item_name: item-10002298
-    introduction: item-20002298
+    item_name: 카드 배경: 동 트기 직전
+    introduction: 카드 배경: 동 트기 직전
     rank: 1
-    detail_introduction: item-30002298
   }
   {
     id: 2299
     type: 5
     arg: "1"
     code: cg_SlowShockActivity2023_01
-    item_name: item-10002299
-    introduction: item-20002299
+    item_name: 기지 배경: 축음기 박물관
+    introduction: 기지 배경: 축음기 박물관
     rank: 1
-    detail_introduction: item-30002299
+  }
+  {
+    id: 2300
+    type: 5
+    arg: "1"
+    code: profilePic_Winter2023_coremask
+    item_name: 아이콘: 최첨단 마스크·만성쇼크
+    introduction: 아이콘: 최첨단 마스크·만성쇼크
+    rank: 1
+  }
+  {
+    id: 2301
+    type: 5
+    arg: "1"
+    code: card_BattlePass_MK3A1
+    item_name: 카드 배경: 도넛 복원 프로젝트
+    introduction: 카드 배경: 도넛 복원 프로젝트
+    rank: 1
+  }
+  {
+    id: 2302
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_MK3A1
+    item_name: MK3A1- MK3A1의 정비 예술
+    introduction: MK3A1- MK3A1의 정비 예술
+    rank: 1
   }
   {
     id: 4001
@@ -15369,51 +15377,46 @@
     type: 9
     arg: "100180"
     code: Bumdle_2023SlowShock
-    item_name: item-10100180
-    introduction: item-20100180
+    item_name: 보급상자·만성쇼크
+    introduction: 보급상자·만성쇼크
     rank: 1
     daily_limit: "60"
-    detail_introduction: item-30100180
   }
   {
     id: 100181
     type: 4
     arg: "100181"
     code: Nova_medal
-    item_name: item-10100181
-    introduction: item-20100181
+    item_name: 노바훈장·만성쇼크
+    introduction: 노바훈장·만성쇼크
     rank: 1
-    detail_introduction: item-30100181
   }
   {
     id: 100182
     type: 4
     arg: "100182"
     code: Platinum_medal
-    item_name: item-10100182
-    introduction: item-20100182
+    item_name: 백금훈장·만성쇼크
+    introduction: 백금훈장·만성쇼크
     rank: 1
-    detail_introduction: item-30100182
   }
   {
     id: 100183
     type: 4
     arg: "100183"
     code: coremask_2023SlowShock
-    item_name: item-10100183
-    introduction: item-20100183
+    item_name: 최첨단 마스크·만성쇼크
+    introduction: 최첨단 마스크·만성쇼크
     rank: 1
-    detail_introduction: item-30100183
   }
   {
     id: 100184
     type: 4
     arg: "100184"
     code: coremask2_2023SlowShock
-    item_name: item-10100184
-    introduction: item-20100184
+    item_name: 마음 파먹는 가면·만성쇼크
+    introduction: 기이한 기운을 풍기는 마스크, 극한의 시련을 뛰어넘은 자만이 얻을 수 있습니다. 가지고 있어봤자 쓸모 없어 보이지만, 상점에서 학수고대한 만남과 교환할 수 있을 겁니다.
     rank: 1
-    detail_introduction: item-30100184
   }
   {
     id: 100185
@@ -15422,6 +15425,15 @@
     code: Platinum_medal_black
     item_name: 백금훈장
     introduction: 백금훈장
+    rank: 1
+  }
+  {
+    id: 100186
+    type: 4
+    arg: "100186"
+    code: core_mask_7year
+    item_name: 최첨단 마스크·7주년
+    introduction: 최첨단 마스크·7주년
     rank: 1
   }
   {
@@ -15969,20 +15981,18 @@
     type: 4
     arg: "110061"
     code: EventPT6
-    item_name: item-10110061
-    introduction: item-20110061
+    item_name: 이벤트 점수
+    introduction: 이벤트 점수
     rank: 1
-    detail_introduction: item-30110061
   }
   {
     id: 110062
     type: 4
     arg: "110062"
     code: PT
-    item_name: item-10110062
-    introduction: item-20110062
+    item_name: 이벤트 점수
+    introduction: 이벤트 점수
     rank: 1
-    detail_introduction: item-30110062
   }
   {
     id: 120001
@@ -16354,6 +16364,22 @@
     rank: 1
   }
   {
+    id: 140015
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *유탄 포수
+    rank: 1
+  }
+  {
+    id: 140016
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *유탄 포수
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -16523,6 +16549,15 @@
     code: profileFrame_BattlePass_C93
     item_name: 액자·나비 날갯짓
     introduction: 액자·나비 날갯짓
+    rank: 1
+  }
+  {
+    id: 200021
+    type: 5
+    arg: "1"
+    code: profileFrame_BattlePass_MK3A1
+    item_name: 액자·해체 매니아
+    introduction: 액자·해체 매니아
     rank: 1
   }
   {
@@ -17180,6 +17215,36 @@
     sort: -1
   }
   {
+    id: 1500056
+    type: 15
+    arg: "1500056"
+    code: package_choose
+    item_name: 기초장비 선택 코드
+    introduction: 전선협약-심야 등불 밑 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500057
+    type: 15
+    arg: "1500057"
+    code: package_choose
+    item_name: 인형장비 선택 코드
+    introduction: 전선협약-심야 등불 밑 보상, 지정 리스트에서 원하는 인형 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500058
+    type: 15
+    arg: "1500058"
+    code: package_random
+    item_name: 미획득 인형 확정 코드
+    introduction: 전선협약-심야 등불 밑 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1500059
     type: 15
     arg: "1500059"
@@ -17224,11 +17289,20 @@
     type: 15
     arg: "1500063"
     code: package_choose
-    item_name: item-11500063
-    introduction: item-21500063
+    item_name: 특수 이벤트 인형 임용장
+    introduction: 창고에서 이 임용장을 사용하면, 지정 범위에서 원하는 인형을 하나 얻을 수 있습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500063
+  }
+  {
+    id: 1500064
+    type: 15
+    arg: "1500059"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-심야 등불 밑 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
+    rank: 1
+    sort: -1
   }
   {
     id: 1600001

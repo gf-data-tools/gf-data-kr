@@ -1,12 +1,12 @@
 ()||<BIN>9</BIN><黑屏1>0,10</黑屏1><BGM>BGM_Empty</BGM>:
 ()||<黑屏2><BIN>446</BIN>:
-BossJustice(0)<Speaker>法官</Speaker>||<BGM>GF_EV9_Story</BGM>:Fe56  C组已经抵达阿佛那斯东塔第30层。+从本层开始，空中悬梯被人为摧毁。+我方仅能通过电梯抵达更高楼层。
-BossJustice(0)<Speaker>法官</Speaker>||:电梯使用需要权限，正在寻找解决方法……
-()||<SE1>AVG_tele_connect</SE1>:滴。
-BOSS-11(0)<Speaker>梦想家</Speaker>||:我骇入了修复装置。+电梯现在可以重新运行了。
-BossJustice(0)<Speaker>法官</Speaker>||:OK，接下来应该是阿佛那斯的数据核心区域。+大家提高警惕，完成清场，同时注意保存数据。
-BOSS-11(0)<Speaker>梦想家</Speaker>||:现在可以前往其中3个楼层进行搜索：分别是32层监控室，37层数据中心和40层办公区域。+时间紧迫，剩下的还是路上再说吧，速战速决。
-BossJustice(0)<Speaker>法官</Speaker>||:好的，继续行动。
-()||<SE1>AVG_whitenoise</SE1><黑屏1>:呲。
-()||<黑屏2><BIN>9</BIN>:……
+BossJustice(0)<Speaker>저지</Speaker>||<BGM>GF_EV9_Story</BGM>:Fe56C팀, 아베르누스 동탑 30층에 도착했다.+이 층부터 계단은 인위적으로 파괴됐다.+우린 엘레베이터를 통해서만 위로 올라갈 수 있다.
+BossJustice(0)<Speaker>저지</Speaker>||:엘레베이터 사용엔 권한이 필요해, 현재 해결법을 모색 중이다.
+()||<SE1>AVG_tele_connect</SE1>:삑.
+BOSS-11(0)<Speaker>드리머</Speaker>||:후우, 복구 장치 해킹 성공.+이제 엘레베이터가 멀쩡하게 움직일 거야.
+BossJustice(0)<Speaker>저지</Speaker>||:잘했다, 드리머. 여기부터는 아베르누스의 핵심 정보 구역일 거다.+모두 경계를 늦추지 말고, 조우하는 적을 철저히 소탕하는 동시에 데이터 보존에 주의해라.
+BOSS-11(0)<Speaker>드리머</Speaker>||:당장으로선 3개층을 수색할 수 있겠어. 32층 감시실이랑, 37층 데이터 센터랑, 40층의 사무 구역.+시간 없으니 가면서 말할까?
+BossJustice(0)<Speaker>저지</Speaker>||:그래, 계속 움직이자.
+()||<SE1>AVG_whitenoise</SE1><黑屏1>:치익.
+()||<黑屏2><BIN>9</BIN>:......
 ()||<黑点1>:
