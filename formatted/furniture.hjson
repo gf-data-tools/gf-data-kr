@@ -27071,6 +27071,268 @@
     rotate: "2"
   }
   {
+    id: 11001
+    name: 7년은 비단처럼 - 나무 무늬 바닥
+    classes: 110
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 800
+    decompose_gift: 100003
+    description: 예산에 쪼달려 그리폰 후방근무팀은 밤을 새서 바닥에 나무 무늬 스티커를 붙였고, 모든 목격자의 기억을 지웠습니다.
+    code: Anniversary2023_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 11002
+    name: 7년은 비단처럼 - 별가루 커튼
+    classes: 110
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 800
+    decompose_gift: 100003
+    description: 저 별들을 봐봐, 저것들은 분명 어느 거대한 보석의 조각이야. 깨졌어도 여전히 아름답지. "그래, 네가 접시를 깨고 물어내야 하는 것도 여전하고."
+    code: Anniversary2023_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 11003
+    name: 7년은 비단처럼 - 마음의 촛불
+    classes: 110
+    type: 201
+    position: "2,9"
+    space: "8,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 다양한 장식품과 따스한 촛불은 디저트를 더 먹음직하게 돋보여 주는 동시에 디저트가 사라지고 난 빈자리를 자연스럽게 채워줍니다.
+    code: Anniversary2023_deco_01
+    texture_type: "1"
+    offset: "0,-0.291956,0.490069"
+    rotate: "2"
+    touch_area: "8,4,0"
+  }
+  {
+    id: 11004
+    name: 7년은 비단처럼 - 다이아몬드 장식
+    classes: 110
+    type: 201
+    position: "17,8"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 간단하고 우아한 마름모 구조가 공중에 매달려 창밖의 야경을 장식할 뿐만 아니라, 저기 술꾼들 눈에 달 3개로 보이기도 합니다.
+    code: Anniversary2023_deco_02
+    texture_type: "1"
+    offset: "0,3.1281,0"
+    rotate: "2"
+    touch_area: "3,5,0,0,10,0"
+  }
+  {
+    id: 11005
+    name: 7년은 비단처럼 - 7일차 밤의 악장
+    classes: 110
+    type: 201
+    position: "24,3"
+    space: "8,4,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 연주자도 없이 건반이 스스로 눌려 낮은 악곡이 홀에 우울하게 울려퍼집니다.
+    code: Anniversary2023_deco_03,Anniversary2023_deco_05
+    texture_type: "1,1"
+    sorting: "0,10"
+    offset: "-0.1334656,-0.1188678,0|-0.12511763953,0.531777,0"
+    rotate: "2,2"
+    interact_point: "14"
+    interact_point_offset: *-1.05,2.049,0
+    touch_area: "8,5,0"
+  }
+  {
+    id: 11006
+    name: 7년은 비단처럼 - 되돌아본 장면들
+    classes: 110
+    type: 302
+    position: "6,6"
+    space: "4,9,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 인류 역사상 장기간 보관할 수 있는 사진은 1837년에 탄생했습니다. 오늘날에 이르러도 인류는 이런 오래된 방식으로 삶의 순간을 기록합니다. 그 이유는 당신이 사진을 바라볼 때 자연히 알게 되겠죠.
+    code: Anniversary2023_walldeco_A
+    texture_type: "1"
+    offset: "0,0.250248,0"
+    rotate: "3"
+    touch_area: "4,9,0"
+  }
+  {
+    id: 11007
+    name: 7년은 비단처럼 - 에탄올 볼텍스
+    classes: 110
+    type: 201
+    position: "23,0"
+    space: "6,2,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 함부로 술장을 열지 마라. 다시 경고한다, 네가 연 것은 술장이 아니라 술꾼 지옥으로 통하는 지옥의 문이다!
+    code: Anniversary2023_deco_04
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 11008
+    name: 7년은 비단처럼 - 우리의 7년
+    classes: 110
+    type: 201
+    position: "13,0"
+    space: "9,7,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 7은 가장 고독한 숫자지만, 우리가 함께 걸어온 7년은 외롭지 않습니다.
+    code: Anniversary2023_deco_06,Anniversary2023_balloon
+    texture_type: "1,2"
+    sorting: "10,0"
+    offset: "-0.271102,-0.855014,0.750744|-0.20854,1.543196,1.324229"
+    rotate: "2,2"
+    touch_area: "9,7,0"
+  }
+  {
+    id: 11009
+    name: 7년은 비단처럼 - 잔잔한 계단
+    classes: 110
+    type: 201
+    position: "32,0"
+    space: "3,3,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 감미로운 음악으로 통하는 길. 오르기 힘든 계단은 마치 음표 하나하나 지어내기가 얼마나 어려운 것인지 말해주는 것 같습니다.
+    code: Anniversary2023_deco_07
+    texture_type: "1"
+    offset: "0.125124,-0.281529,0.20854"
+    rotate: "2"
+  }
+  {
+    id: 11010
+    name: 7년은 비단처럼 - 밝은 계단
+    classes: 110
+    type: 201
+    position: "0,0"
+    space: "3,3,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 타오르는 촛불로 통하는 길. 오르기 힘든 계단은 빛이 얼마나 힘들게 쟁취한 물건인지 말해주는 것 같습니다.
+    code: Anniversary2023_deco_08,Anniversary2023_deco_09
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0,0,0|0.0041708,4.4888235,1.0364438"
+    rotate: "2,2"
+  }
+  {
+    id: 11011
+    name: 7년은 비단처럼 - 부엉이 시계
+    classes: 110
+    type: 201
+    position: "6,2"
+    space: "2,2,1,1,1,0"
+    deco_rate: 800
+    decompose_gift: 100003
+    description: 묻지 마, 이건 편지를 전하러 온 게 아니고, 마법도 쓸 줄 몰라.
+    code: Anniversary2023_owl_deco
+    texture_type: "2"
+    offset: "0,0.198113,0"
+    rotate: "2"
+    interact_point: "48"
+    interact_point_offset: *-1.5167,0,0
+    touch_area: "3,6,0"
+  }
+  {
+    id: 11012
+    name: 7년은 비단처럼 - 카리나의 주시
+    classes: 110
+    type: 201
+    position: "0,12"
+    space: "2,2,1,1,1,1"
+    deco_rate: 800
+    decompose_gift: 100003
+    description: 비록 이 아가씨가 현장에 직접 오실 수는 없었지만, 과학 수단을 통해 이 파티의 중요 구성요소가 됐습니다. 어, 저기 보세요, 그녀가 새로운 상품을 내놓았어요!
+    code: Anniversary2023_deco_10
+    texture_type: "1"
+    offset: "0,-0.31281,0"
+    rotate: "2"
+  }
+  {
+    id: 11013
+    name: 7년은 비단처럼 - 지금 이 시각
+    classes: 110
+    type: 302
+    position: "8,2"
+    space: "2,3,1,1,1,0"
+    deco_rate: 800
+    decompose_gift: 100003
+    description: 지금이 4시 45분이라고? 진짜네.
+    code: Anniversary2023_walldeco_02
+    texture_type: "1"
+    offset: "0,0.20854,0"
+    rotate: "3"
+    touch_area: "2,3,0"
+  }
+  {
+    id: 11014
+    name: 7년은 비단처럼 - 조용한 첼로
+    classes: 110
+    type: 201
+    position: "30,7"
+    space: "4,7,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 유일한 첼리스트가 에탄올 볼텍스에 끌려가버려 이 첼로는 침묵에 빠졌습니다. 그야 첼로는 술판에 낄 수 없으니까요.
+    code: Anniversary2023_deco_11,Anniversary2023_deco_12
+    texture_type: "1,1"
+    sorting: "20,0"
+    offset: "0,0,0|-0.1928995,0.500496,0"
+    rotate: "2,2"
+    interact_point: "14"
+    interact_point_offset: *-0.525,2.789,0
+  }
+  {
+    id: 11015
+    name: 7년은 비단처럼 - 모조 사슴 머리 박제
+    classes: 110
+    type: 302
+    position: "25,3"
+    space: "3,6,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 모조한 것은 박제뿐만 아니라, 사슴 무리가 뛰놀던 시대입니다.
+    code: Anniversary2023_walldeco_03
+    texture_type: "1"
+    offset: "0,0.604766,0"
+    rotate: "3"
+    touch_area: "3,6,0"
+  }
+  {
+    id: 11016
+    name: 7년은 비단처럼 - 평화의 땅
+    classes: 110
+    type: 201
+    position: "20,11"
+    space: "8,3,1,1,1,1"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 킹과 퀸을 지키는 것에 질렸고, 룩, 비숍, 나이트에 짓밟히던 시절에 질린 폰들은 마침내 그들의 체스판을 맞이하였습니다. 분쟁도 없고 권모술수도 없고, 그저 한가한 사람들이 허송세월하는 곳.
+    code: Anniversary2023_deco_13,Anniversary2023_deco_14,Anniversary2023_deco_15
+    texture_type: "1,1,1"
+    sorting: "0,20,0"
+    offset: "-0.9061063,-0.198113,0|0.021896762562,-0.198113,0|0.9290457,-0.198113,0"
+    rotate: "2,2,2"
+    interact_point: "12,14"
+    interact_point_offset: *-2.2167,1.0528,0|*2.2167,1.0528,0
+    touch_area: "8,4,0"
+  }
+  {
     id: 20000
     name: 명탕 라오
     classes: 81
@@ -28652,6 +28914,24 @@
     texture_type: "1"
     offset: "0,0,0"
     rotate: "3"
+  }
+  {
+    id: 20102
+    name: 개막의 뮤직홀
+    classes: 81
+    type: 201
+    space: "8,6,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 댄스홀을 다 세웠고, 소녀들도 준비됐습니다. 이제 주인공만 오면 7주년 파티의 막을 올릴 수... 잠깐, 누가 악보를 떨어뜨렸어!? 그들이 화나서 노쇼 선언하기 전에 빨리 주워!
+    code: 2023Anniversay_deco_A,2023Anniversay_deco_B,2023Anniversay_deco_C,2023Anniversay_deco_D,2023Anniversay_deco_E
+    texture_type: "1,1,1,1,1"
+    sorting: "0,5,25,25,10"
+    offset: "0,-0.10427,0|0,-0.10427,0|0,-0.10427,0|0,-0.10427,0|0,-0.10427,0"
+    rotate: "2,2,2,2,2"
+    interact_point: "16,16"
+    interact_point_offset: *-1.983,2.959,0.142|*0.146,2.333,0
+    touch_area: "8,4,4"
   }
   {
     id: 30001
@@ -38173,6 +38453,126 @@
     decompose_gift: 100003
     description: MP41의 포스터
     code: poster_Piracy2023_MP41
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38301
+    name: Kar98K - 터닝 폭스트롯
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Kar98K의 포스터
+    code: poster_Anniversary2023_98K
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38302
+    name: 데저트 이글 - 장미와 새의 노래
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 데저트 이글의 포스터
+    code: poster_Anniversary2023_DesertEagle
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38303
+    name: HS.50 - 심취한 눈송이
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: HS.50의 포스터
+    code: poster_Anniversary2023_HS50
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38304
+    name: 9A-91 - 간직할 비밀
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 9A-91의 포스터
+    code: poster_Anniversary2023_9A91
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38305
+    name: MG36 - 진저 나이트
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MG36의 포스터
+    code: poster_Anniversary2023_MG36
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38306
+    name: Mk48 - 나이트 캡터
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Mk48의 포스터
+    code: poster_Anniversary2023_Mk48
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38307
+    name: SR-2 - 거품 종결자
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SR-2의 포스터
+    code: poster_Anniversary2023_SR2
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38309
+    name: M1 개런드 - 별빛에 잠기다
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M1 개런드의 포스터
+    code: poster_Anniversary2023_M1
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

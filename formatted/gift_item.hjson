@@ -9020,6 +9020,118 @@
     normal_description: 선물 시 호감도 획득
   }
   {
+    id: 8301
+    name: Kar98K - 터닝 폭스트롯
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 46
+    skin: 8301
+    poster: 38301
+    code: gift_bundle_Anniversary2023_98K
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 8302
+    name: 데저트 이글 - 장미와 새의 노래
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 272
+    skin: 8302
+    poster: 38302
+    code: gift_bundle_Anniversary2023_DesertEagle
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 8303
+    name: HS.50 - 심취한 눈송이
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 348
+    skin: 8303
+    poster: 38303
+    code: gift_bundle_Anniversary2023_HS50
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 8304
+    name: 9A-91 - 간직할 비밀
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 118
+    skin: 8304
+    poster: 38304
+    code: gift_bundle_Anniversary2023_9A91
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 8305
+    name: MG36 - 진저 나이트
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 263
+    skin: 8305
+    poster: 38305
+    code: gift_bundle_Anniversary2023_MG36
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 8306
+    name: Mk48 - 나이트 캡터
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 121
+    skin: 8306
+    poster: 38306
+    code: gift_bundle_Anniversary2023_Mk48
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 8307
+    name: SR-2 - 거품 종결자
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 347
+    skin: 8307
+    poster: 38307
+    code: gift_bundle_Anniversary2023_SR2
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 8309
+    name: M1 개런드 - 별빛에 잠기다
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 34
+    skin: 8309
+    poster: 38309
+    code: gift_bundle_Anniversary2023_M1
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     type: 2
@@ -9125,7 +9237,7 @@
     favor: 1000
     code: gift_item_lollipop_N
     bonus_description: 없음
-    description: 在宿舍内赠送给对应人形，可以获得微量好感度。
+    description: 숙소에서 인형에게 선물하면 극소량 호감도를 얻습니다.
     item_access: "21"
     sort: 1001
     normal_description: 선물 시 호감도 획득
@@ -9138,7 +9250,7 @@
     favor: 3000
     code: gift_item_icecream_R
     bonus_description: 없음
-    description: 在宿舍内赠送给对应人形，可以获得少量好感度。
+    description: 숙소에서 인형에게 선물하면 소량 호감도를 얻습니다.
     item_access: "21"
     sort: 1002
     normal_description: 선물 시 호감도 획득
@@ -9151,7 +9263,7 @@
     favor: 10000
     code: gift_item_cake_SR
     bonus_description: 없음
-    description: 在宿舍内赠送给对应人形，可以获得1点好感度。
+    description: 숙소에서 인형에게 선물하면 호감도를 1점 얻습니다.
     item_access: "21,19,11,2"
     sort: 1003
     normal_description: 선물 시 호감도 획득
@@ -9673,10 +9785,10 @@
     rank: 6
     code: SangvisExp_RapidGrowthDisk
     bonus_description: 없음
-    description: 仅供融合势力人形使用的学习磁盘，内部记载了格里芬的战斗课程和思想品德课程。
+    description: 혼합세력유닛에게 제공되는 학습 디스크. 그리폰의 전투 교리 및 사상도덕 과목이 들어있습니다.
     exp: 3000
     item_access: "19,20,22"
     sort: 1005
-    normal_description: 融合势力单位可경험치 획득
+    normal_description: 혼합세력유닛 경험치 획득
   }
 ]
