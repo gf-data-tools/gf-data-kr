@@ -19432,6 +19432,41 @@
     touch_area: "5,5,5"
   }
   {
+    id: 7240
+    name: 요란한 돌
+    classes: 72
+    type: 201
+    space: "4,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 잡초가 무성한 곳에 박힌 비석. 떠도는 유령들이 자주 여기에 모입니다. 창백한 촛불로 분위기를 띄운다면 그들은 기꺼이 즐거운 티파티를 열 것입니다.
+    code: qjyd_20230501_deco_01
+    texture_type: "2"
+    sorting: "20"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point: "48"
+    interact_point_offset: *-2.3,0.05,0
+    touch_area: "4,4,0"
+  }
+  {
+    id: 7241
+    name: 비경의 문
+    classes: 72
+    type: 201
+    space: "6,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 영혼을 씼어 신의 영역으로 향하는 전설 속 붉은 동양 건축물. 만약 경건하지 못한 자가 방문할 경우, 이곳에 주둔하는 여우신선과 친구들에게 다굴 맞을 것입니다.
+    code: qjyd_20230502_deco,qjyd_20230502_deco_01,qjyd_20230502_deco_02
+    texture_type: "1,2,2"
+    sorting: "10,20,0"
+    offset: "0,0,0|0.010427,0.062562,0|0,0.062562,0"
+    rotate: "2,2,2"
+    interact_point: "69"
+    interact_point_offset: *0,0.06,0
+  }
+  {
     id: 7301
     name: 아쿠아리움 - 아크릴 바닥
     classes: 73

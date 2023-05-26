@@ -12794,6 +12794,24 @@
     rank: 1
   }
   {
+    id: 2314
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_PA15
+    item_name: PA-15 아이콘
+    introduction: PA-15 아이콘
+    rank: 1
+  }
+  {
+    id: 2315
+    type: 5
+    arg: "1"
+    code: card_friendmall_PA15
+    item_name: 카드배경: 브루스 랩소디
+    introduction: 카드배경: 브루스 랩소디
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -13344,6 +13362,33 @@
     code: qjyd_20230103
     item_name: 월드 웨이브
     introduction: 골! 고오오올!! 이번 경기 가장 멋진 골입니다!!! 이 순간을 만든 주인공를 더 조명해주세요. 아아, 얼마나 눈부십니까!!!
+    rank: 1
+  }
+  {
+    id: 7045
+    type: 7
+    arg: "7042"
+    code: qjyd_20230501
+    item_name: 훨훨 산나비
+    introduction: 잠꾸러기 소녀는 자주 꿈속에서 알록달록한 나비의 속삭임을 듣습니다. "네가 나를 꿈에서 볼 때, 나도 널 꿈에서 봐."
+    rank: 1
+  }
+  {
+    id: 7046
+    type: 7
+    arg: "7043"
+    code: qjyd_20230502
+    item_name: 제비의 귀환
+    introduction: 상냥한 소녀만이 제비의 마음을 압니다."봄이 되었으니 S09 구역에 돌아가 봐야지."
+    rank: 1
+  }
+  {
+    id: 7047
+    type: 7
+    arg: "7044"
+    code: qjyd_20230503
+    item_name: 잉어의 꿈
+    introduction: 고집센 소녀만이 붉은 꼬리 금붕어의 선언에 맞장구 칩니다. "하늘은 호수가 비친 모습일 뿐이야."
     rank: 1
   }
   {
@@ -16693,6 +16738,15 @@
     code: profileFrame_BattlePass_MK3A1
     item_name: 액자·해체 매니아
     introduction: 액자·해체 매니아
+    rank: 1
+  }
+  {
+    id: 200022
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_PA15
+    item_name: 액자·얼음바다의 환상
+    introduction: 액자·얼음바다의 환상
     rank: 1
   }
   {

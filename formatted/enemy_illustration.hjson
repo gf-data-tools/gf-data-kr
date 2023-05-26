@@ -3450,6 +3450,7 @@
     enemy_skill: "174,175,176"
     launch_time: 2035-5-20 00:00:00
     spine_scale: "50,50,1"
+    org_id: 10603
   }
   {
     id: 177
@@ -4191,6 +4192,28 @@
     enemy_skill: "130"
     launch_time: 2035-5-20 00:00:00
     spine_scale: "100,100,1"
+  }
+  {
+    id: 214
+    name: 사나
+    type: 1
+    code: Nyto_mecha2
+    introduce: 사나, 기갑 조종 특화 타입. 특별한 육성과 전용기를 통해 어떠한 부담 없이 기갑 유닛을 장시간 조종하며 전투할 수 있다. 그렇기 때문에 아무리 견고한 방어도, 강력한 화력을 장기간 지속 투사할 수 있는 그녀를 막아내기 힘들다. 다른 패러데우스와 달리, 사나의 기억은 "사나"란 이름의 인간 여자아이에게서 비롯됐다. "사나"로 만들어진 그녀는 이 기억에 낯섦과 분열만 느껴지고, 언젠가 가면을 벗고 자기자신이 되길 바라는 것일지도...
+    forces: 3
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 6
+    hit_rank: 5
+    dodge_rank: 6
+    rate_rank: 4
+    speed_rank: 6
+    range_rank: 7
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "1001,216"
+    enemy_skill: "211,212,213,214,215,216"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "70,70,1"
+    org_id: 10604
   }
   {
     id: 100001
