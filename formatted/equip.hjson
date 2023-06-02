@@ -10663,8 +10663,12 @@
   }
   {
     id: 347
-    name: equip-10000347
-    description: equip-20000347
+    name: mk87 개량형 돌격방패
+    description:
+      '''
+      이동속도+<speed>
+      장갑+<armor> 스킬 강화$M1887 전용
+      '''
     rank: 5
     category: 3
     type: 20
@@ -10678,7 +10682,7 @@
     develop_duration: 3060
     company: IOP
     fit_guns: "151"
-    equip_introduction: equip-30000347
+    equip_introduction: IOP가 기존 M1887의 방패를 모듈화 개량한 기술의 결정체. 제작 공정을 개선하여 방탄 효과를 상향했습니다.
     powerup_mp: 0.23
     powerup_ammo: 0.23
     powerup_mre: 0.33
@@ -10690,6 +10694,5 @@
     auto_select_id: 20058
     is_show: 1
     obtain_ids: "3086"
-    sp_description: equip-40000347
   }
 ]

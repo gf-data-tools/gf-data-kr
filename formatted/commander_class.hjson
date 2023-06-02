@@ -527,6 +527,20 @@
     source_description: 7주년 출석 이벤트 보상
   }
   {
+    id: 54
+    name: commander_class-10000054
+    description: commander_class-20000054
+    group_id: "96"
+    code: commander_5431_icon
+    bonus_plastic: "130021"
+    skill_id: 111
+    path: CLASS54
+    is_class: 1
+    des_year: commander_class-30000054
+    source: 2
+    source_description: commander_class-40000054
+  }
+  {
     id: 99
     name: 거짓말 마스크
     description: 내 생각을 감추고, 내 바람을 드러낸다.
