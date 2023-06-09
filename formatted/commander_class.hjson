@@ -528,17 +528,17 @@
   }
   {
     id: 54
-    name: commander_class-10000054
-    description: commander_class-20000054
+    name: 비밀 탐험대
+    description: 엉금엉금 기어서 정글숲을 지나서, 거미줄과 벌레들로 가득한 무인도에서 사라진 문명을 찾아라. 이것은 용감한 자들만이 할 수 있는 모험 놀이, 준비는 됐어? 좋아, 출발하자!
     group_id: "96"
     code: commander_5431_icon
     bonus_plastic: "130021"
     skill_id: 111
     path: CLASS54
     is_class: 1
-    des_year: commander_class-30000054
+    des_year: "2023"
     source: 2
-    source_description: commander_class-40000054
+    source_description: 러프베리체스 뽑기 보상
   }
   {
     id: 99

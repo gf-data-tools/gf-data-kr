@@ -24,49 +24,56 @@
     id: 4
     name: Code2: 회절
     start_time: 2022-01-06 10:04:00
-    end_time: 2022-04-01 15:04:00
+    end_time: 2022-03-17 10:04:00
     mission_id: 3
   }
   {
     id: 5
     name: Code3: 모멘트
-    start_time: 2022-04-11 10:04:00
-    end_time: 2022-06-17 15:04:00
+    start_time: 2022-03-28 10:04:00
+    end_time: 2022-06-02 10:04:00
     mission_id: 2
   }
   {
     id: 6
     name: Code4: 확산
-    start_time: 2022-06-24 10:04:00
-    end_time: 2022-08-26 15:04:00
+    start_time: 2022-06-09 10:04:00
+    end_time: 2022-08-11 10:04:00
     mission_id: 3
   }
   {
     id: 7
     name: Code5: 난류
-    start_time: 2022-09-06 10:04:00
-    end_time: 2022-11-04 15:04:00
+    start_time: 2022-08-25 10:04:00
+    end_time: 2022-10-20 10:04:00
     mission_id: 1
   }
   {
     id: 8
     name: Code6: 소용돌이
-    start_time: 2022-11-15 10:04:00
-    end_time: 2023-01-13 15:04:00
+    start_time: 2022-10-27 10:04:00
+    end_time: 2022-12-22 10:04:00
     mission_id: 2
   }
   {
     id: 9
     name: Code7：급류
-    start_time: 2023-01-18 10:04:00
-    end_time: 2023-03-17 15:04:00
+    start_time: 2022-12-29 10:04:00
+    end_time: 2023-02-23 10:04:00
     mission_id: 3
   }
   {
     id: 10
-    name: Code8: 극선
-    start_time: 2023-03-24 10:04:00
-    end_time: 2023-06-02 10:04:00
+    name: code8: 극선
+    start_time: 2023-03-10 10:04:00
+    end_time: 2023-05-18 10:04:00
     mission_id: 1
+  }
+  {
+    id: 11
+    name: code9: 닫힌 끈
+    start_time: 2023-06-09 10:04:00
+    end_time: 2023-08-18 10:04:00
+    mission_id: 2
   }
 ]

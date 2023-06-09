@@ -3193,8 +3193,8 @@
   }
   {
     id: 5411
-    name: commander_uniform-10005411
-    description: commander_uniform-20005411
+    name: 오지의 떠돌이
+    description: 멋을 부리는 동시에 머리카락에 박쥐똥이 묻지 않게 해줍니다. 꼭 챙기세요!
     code: Head1
     icon: commander_5411_icon
     type: 1
@@ -3205,8 +3205,8 @@
   }
   {
     id: 5412
-    name: commander_uniform-10005412
-    description: commander_uniform-20005412
+    name: 완벽한 여행자
+    description: 불상사와 내일 중 무엇이 먼저 찾아올지는 몰라도, 똑똑한 두뇌가 앞길의 장애물을 제거할 겁니다.
     code: Head2
     icon: commander_5412_icon
     type: 1
@@ -3217,8 +3217,8 @@
   }
   {
     id: 5420
-    name: commander_uniform-10005420
-    description: commander_uniform-20005420
+    name: 태양 비호자
+    description: 자외선 방지 스프레이와 함께 사용하세요. 안 그러면 라쿤처럼 살이 타고 맙니다.
     code: HeadAcco
     icon: commander_5420_icon
     type: 2
@@ -3231,8 +3231,8 @@
   }
   {
     id: 5431
-    name: commander_uniform-10005431
-    description: commander_uniform-20005431
+    name: 계곡 탐색
+    description: 각종 연장을 담은 야외 생존키트. 전방에 함정이 얼마나 많든, 헤쳐나가면 원하는 모든 것을 얻을 수 있어!
     code: Body1
     icon: commander_5431_icon
     type: 3
@@ -3243,8 +3243,8 @@
   }
   {
     id: 5432
-    name: commander_uniform-10005432
-    description: commander_uniform-20005432
+    name: 유적 추적
+    description: 고고학자 필수 아이템 세트. "이 글귀를 읽는 자, 천벌을 받는다!" "이미 읽었네!"
     code: Body2
     icon: commander_5432_icon
     type: 3
@@ -3255,8 +3255,8 @@
   }
   {
     id: 5440
-    name: commander_uniform-10005440
-    description: commander_uniform-20005440
+    name: 시간의 안내인
+    description: '''"이 고대 지도에 따르면 앞이 바로 보물이 묻힌 유적이야!" "저 시끌벅적한 놀이동산이 말이야?"'''
     code: BodyAcco
     icon: commander_5440_icon
     type: 4
@@ -3269,8 +3269,8 @@
   }
   {
     id: 5451
-    name: commander_uniform-10005451
-    description: commander_uniform-20005451
+    name: 사막의 폭풍
+    description: 이걸 신으면 어떠한 악환경도 헤쳐나갈 수 있습니다...만, 개미지옥은 예외입니다! 생매장당하기 싫으면 전력으로 뛰세요!
     code: Foot1
     icon: commander_5451_icon
     type: 5
@@ -3281,8 +3281,8 @@
   }
   {
     id: 5452
-    name: commander_uniform-10005452
-    description: commander_uniform-20005452
+    name: 수해의 입김
+    description: 민첩한 옷차림은 나무에 올라 안전하게 밤을 보낼 수 있게 합니다... 이 미끌미끌한 "덩굴"만 어떻게 하면 좋을 텐데... 잠깐, 덩굴이 숨을 쉬잖아!?
     code: Foot2
     icon: commander_5452_icon
     type: 5
