@@ -2290,7 +2290,7 @@
     id: 580002
     name: 낮은 심박수
     code: Weak
-    type: 1
+    type: 2
     duration_type: "1"
     duration_time: "999"
     exp_buff: "1"
@@ -2326,7 +2326,7 @@
     id: 580005
     name: 심박수 너무 높음
     code: Rouge_593303
-    type: 1
+    type: 2
     duration_type: "1"
     duration_time: "999"
     exp_buff: "1"
@@ -2393,7 +2393,7 @@
     id: 580105
     name: 신호 노출
     code: medusa
-    type: 1
+    type: 2
     duration_type: "1"
     duration_time: "999"
     exp_buff: "1"
@@ -2404,7 +2404,7 @@
     id: 580120
     name: 교란
     code: Energytowerdebuff
-    type: 1
+    type: 2
     duration_type: "1"
     duration_time: "1"
     exp_buff: "1"
@@ -2418,7 +2418,7 @@
     id: 580121
     name: 교란 고정
     code: combo
-    type: 1
+    type: 2
     duration_type: "1"
     duration_time: "1"
     exp_buff: "1"
@@ -2443,7 +2443,7 @@
     id: 580123
     name: 교란
     code: Energytowerdebuff
-    type: 1
+    type: 2
     duration_type: "1"
     duration_time: "1"
     exp_buff: "1"
@@ -2475,7 +2475,7 @@
     id: 580205
     name: 신호 노출
     code: medusa
-    type: 1
+    type: 2
     duration_type: "1"
     duration_time: "999"
     exp_buff: "1"
@@ -2552,7 +2552,7 @@
     id: 583601
     name: 교란
     code: debuff
-    type: 1
+    type: 2
     duration_type: "1"
     duration_time: "1"
     exp_buff: "1"
@@ -4400,6 +4400,114 @@
     priority: -1
   }
   {
+    id: 6360000
+    name: 【标记】NPC标记1
+    description: 초기화
+    type: 1
+    duration_type: "5,1"
+    duration_time: "1,1"
+    exp_buff: "1"
+    special_spot_config_id: 6360001
+    conditions_type: "5"
+    conditions_time: 0-1
+    conflict_type: 6360000
+  }
+  {
+    id: 6360001
+    name: 【标记】NPC标记2
+    description: 이동1
+    type: 1
+    duration_type: "5,1"
+    duration_time: "1,1"
+    exp_buff: "1"
+    special_spot_config_id: 6360002
+    conditions_type: "5"
+    conditions_time: 0-1
+    conflict_type: 6360000
+    priority: 1
+  }
+  {
+    id: 6360002
+    name: 【标记】NPC标记3
+    description: 이동2
+    type: 1
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 6360000
+    priority: 2
+    carry_mission_skill: "6360004"
+  }
+  {
+    id: 6360003
+    name: 【标记】干扰buff
+    code: debuff
+    type: 2
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 759177
+    birth_effect: 1000162
+    conflict_type: -1
+  }
+  {
+    id: 6360004
+    name: 【标记】携带EMPbuff
+    description: EMP 폭탄 소지
+    type: 1
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    manual_ui_code: CarryBoomerIcon#EC4702
+    conflict_type: 6360004
+    carry_mission_skill: "6360011"
+  }
+  {
+    id: 6360005
+    name: 【标记】골리앗 소지buff
+    description: 골리앗 소지
+    type: 1
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    manual_ui_code: CarryBoomerIcon#EC4702
+    conflict_type: 6360005
+    carry_mission_skill: "6360012"
+  }
+  {
+    id: 6360006
+    name: 【标记】强化梯队
+    type: 1
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 6360006
+    carry_mission_skill: "6360013"
+  }
+  {
+    id: 6360007
+    name: 【标记】梯队被强化
+    description: 능력치 상승
+    code: buff
+    type: 1
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 759039
+    conflict_type: 6360007
+  }
+  {
+    id: 6360008
+    name: 【标记】M4定身
+    code: Theresa_Back
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    cannot_move: "1"
+    conflict_type: 6360008
+  }
+  {
     id: 6410101
     name: 【标记】우로보로스自闭1
     code: Wea2
@@ -6165,7 +6273,7 @@
     id: 6580107
     name: 【标记】定身
     code: Theresa_Back
-    type: 1
+    type: 2
     duration_type: "1"
     duration_time: "1"
     exp_buff: "1"
@@ -6196,7 +6304,7 @@
     id: 6580110
     name: 【标记】格雷debuff
     code: Theresa_Back
-    type: 1
+    type: 2
     duration_type: "1"
     duration_time: "999"
     exp_buff: "1"

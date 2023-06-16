@@ -1790,6 +1790,16 @@
     offset: "0,0"
   }
   {
+    id: 1000162
+    name: emp폭탄 이펙트
+    code: EMP_another
+    description: emp폭탄 이펙트
+    priority: 10
+    duration: 1
+    size: 2
+    offset: "0,0"
+  }
+  {
     id: 9490401
     name: 【표식】반짝반짝
     code: ddl_xingxing

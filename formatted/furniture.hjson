@@ -28969,6 +28969,21 @@
     touch_area: "8,4,4"
   }
   {
+    id: 20103
+    name: 소리파도 탈출 계획
+    classes: 81
+    type: 201
+    space: "5,5,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 수오미 등 헤비메탈 애호가의 열렬한 투표 끝에, 이 "악마의 뿔"이란 전설을 가진 일렉트릭 기타가 페스티벌 황금 전시대 자리를 차지했습니다. 지나가던 어느 인형은 "그냥 조용히 있어주기를!" 작게 중얼거렸습니다.
+    code: 2023Concert_deco_A
+    texture_type: "1"
+    sorting: "20"
+    offset: "0.008,0.000,-0.120"
+    rotate: "2"
+  }
+  {
     id: 30001
     name: 마카로프 - 잭오랜턴
     classes: 300
@@ -38608,6 +38623,96 @@
     decompose_gift: 100003
     description: M1 개런드의 포스터
     code: poster_Anniversary2023_M1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38401
+    name: G11 - 복슬복슬 카트
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: G11의 포스터
+    code: poster_Children2023_G11
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38402
+    name: M240L - 우리집 성기사
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M240L의 포스터
+    code: poster_Children2023_M240L
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38403
+    name: AA-12 - 사탕봉지 총동원
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: AA-12의 포스터
+    code: poster_Children2023_AA12
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38404
+    name: PSG-1 - 호프집의 프로시온
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: PSG-1의 포스터
+    code: poster_Children2023_PSG1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38405
+    name: C96 - 마음 훔치는 마술사
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: C96의 포스터
+    code: poster_Children2023_C96
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38406
+    name: M1911 - 양철 병사의 기묘한 하루
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M1911의 포스터
+    code: poster_Children2023_M1911
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

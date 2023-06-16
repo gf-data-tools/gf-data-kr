@@ -440,6 +440,11 @@
     name: 칠색 연회
   }
   {
+    id: 89
+    theme_type: 5
+    name: 순수 인카운터
+  }
+  {
     id: 99
     theme_type: 9
     name: 기타

@@ -25213,6 +25213,211 @@
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
+    id: 6360001
+    defender: 99999
+    defender_upper: 99999
+    belong: 1
+    hold_belong: 1
+    mission_skill: 0;2000017;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 【标记】基地选难度
+    code: Hiding
+    shifting_spot: "65,150"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "363002"
+    active_mission_skill: "6360001,9363070"
+    inherent_mission_skill: "1070100,363022"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#C3C3C3,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: "42"
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 6360002
+    defender: 99999
+    defender_upper: 99999
+    belong: 1
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 【标记】npc行动+1
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "6360002"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 【标记】略
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 6360003
+    defender: 99999
+    defender_upper: 99999
+    belong: 1
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 【标记】M4奖励
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "6360005"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 【标记】略
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 6360004
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;2000005
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:1,1:1
+    name: 제어콘솔 I
+    code: Console
+    shifting_spot: "40,150"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    working_special_spot: "6360005"
+    inherent_mission_skill: "6360006"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 0;0
+    des: 【标记】略
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 6360005
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;2000006
+    battle_skill: 0;0;0;0
+    condition: 0:2,1:2;0:2,1:0
+    name: 차단문 I
+    code: Door_Left
+    shifting_spot: "10,80"
+    shifting_team: "-20,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6360011"
+    inherent_mission_skill: "6360007"
+    type: 6
+    is_focus: "1"
+    transition: Door_Left:0_1,Door_Left:1_3
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 0;0
+    des: 닫히면 통로를 봉쇄하며, 닫힐 때 문에 있는 제대에게 피해를 줍니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 6360006
+    defender: 99999
+    defender_upper: 99999
+    belong: 1
+    hold_belong: 1
+    mission_skill: 0;6360003;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 【标记】干扰装置
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "6360002"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 【标记】略
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 6360007
+    defender: 99999
+    defender_upper: 99999
+    belong: 1
+    hold_belong: 1
+    mission_skill: 0;6360008;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 【标记】携带emp
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "6360002"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 【标记】略
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 6360008
+    defender: 99999
+    defender_upper: 99999
+    belong: 1
+    hold_belong: 1
+    mission_skill: 0;6360009;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 【标记】골리앗 소지
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "6360002"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 【标记】略
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 6360009
+    defender: 99999
+    defender_upper: 99999
+    belong: 1
+    hold_belong: 1
+    mission_skill: 0;6360010;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 【标记】增益buff
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "6360002"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 【标记】略
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
     id: 6380201
     defender: 99999
     defender_upper: 99999

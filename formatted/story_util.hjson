@@ -12319,4 +12319,11 @@
     title: 아이보리 블랙
     start: -58-UX-Final
   }
+  {
+    id: 1234
+    mission_id: "11435"
+    campaign: -60
+    title: 비경수위+
+    start: -60-tips
+  }
 ]

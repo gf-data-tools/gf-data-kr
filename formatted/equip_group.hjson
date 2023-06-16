@@ -55,4 +55,22 @@
     group_skill: 2:778217,3:759143
     fit_gun: "20094"
   }
+  {
+    id: 7
+    name: 꼬마 집배원
+    des: 풀세트 특제 장비를 착용한 MP5는 작전 시 기동성이 대폭 상승해, 부대 간 정보 및 물자 전달이 더 빨라졌습니다.
+    code: EgroupMP5
+    equip_unit: "62,157,348"
+    group_skill: 2:778217,3:759187
+    fit_gun: "20026"
+  }
+  {
+    id: 8
+    name: 사일런서
+    des: 풀세트 특제 장비를 착용한 MG4는 요란한 전장에서도 정확하게 타격 대상을 찾아낼 수 있습니다.
+    code: EgroupMG4
+    equip_unit: "132,239,349"
+    group_skill: 2:778217,3:759192
+    fit_gun: "20125"
+  }
 ]

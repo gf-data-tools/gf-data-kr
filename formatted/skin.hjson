@@ -7217,6 +7217,75 @@
     class_id: 88
   }
   {
+    id: 8401
+    name: G11 - 복슬복슬 카트
+    fit_gun: 122
+    ai: 48401
+    voice: 4
+    substitute_voice: G11_0
+    dialog: 말랑말랑 푹신푹신... 후우... 방금 꿈에서 본 지저분한 지하실보다 훨씬 편해...
+    order: 110
+    class_id: 89
+  }
+  {
+    id: 8402
+    name: M240L - 우리집 성기사
+    fit_gun: 374
+    ai: 48402
+    voice: 4
+    substitute_voice: M240L_0
+    dialog: 엑스칼리버, 투구, 전설의 애마... 아차, 갑옷 만드는 거 깜빡했다! 기다려라 사악한 드래곤! 내가 준비 다하고 승부를 낼 테니!
+    gift_position: "-98.9,207.9"
+    order: 110
+    class_id: 89
+  }
+  {
+    id: 8403
+    name: AA-12 - 사탕봉지 총동원
+    fit_gun: 163
+    ai: 48403
+    voice: 4
+    substitute_voice: AA12_0
+    dialog: 98... 99... 음... 잠깐만! 너 사탕봉지 내놔! 한 장만 더 모으면 100장으로 새 막대사탕으로 바꿀 수 있어.
+    order: 110
+    class_id: 89
+  }
+  {
+    id: 8404
+    name: PSG-1 - 호프집의 프로시온
+    fit_gun: 117
+    ai: 48404
+    voice: 4
+    substitute_voice: PSG1_0
+    dialog: 지휘관, 이 로봇개 주인이 누군지 아시나요? 방금 주방에 음료 꺼내러 갔더니, 계속 졸졸 따라와서...
+    order: 110
+    class_id: 89
+  }
+  {
+    id: 8405
+    name: C96 - 마음 훔치는 마술사
+    fit_gun: 12
+    ai: 48405
+    voice: 4
+    substitute_voice: C96_0
+    dialog: 무대 밑의 친구들, 이 만능의 요술모자가 보여요? 성심성의로 제게 빌면 무슨 소원이든 이루어줄게요~
+    illustrator_cv: 星迴,Itatani Ayaka,
+    order: 110
+    class_id: 89
+  }
+  {
+    id: 8406
+    name: M1911 - 양철 병사의 기묘한 하루
+    fit_gun: 2
+    ai: 48406
+    voice: 4
+    substitute_voice: M1911_0
+    dialog: 순찰견과 양철병사 2호 앞으로! 지휘관, 저흴 얕보시면 안 돼요? 만약 적이 마법을 쓰면 우리가 그리폰의 셋뿐인 에이스라고요!
+    illustrator_cv: 小星,Matsui Eriko,
+    order: 110
+    class_id: 89
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     fit_gun: 57

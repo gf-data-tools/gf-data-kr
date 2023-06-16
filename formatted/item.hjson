@@ -601,6 +601,15 @@
     rank: 1
   }
   {
+    id: 123
+    type: 3
+    arg: "24"
+    code: Medal_2020winter_re_rank
+    item_name: 비경의 끝 훈장
+    introduction: '''"비경수위+" 랭킹 전역에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "역경이 모든 희망을 집어삼키려 해도 그대는 항상 여명의 빛을 찾아낸다."'''
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -12875,6 +12884,60 @@
     rank: 1
   }
   {
+    id: 2323
+    type: 5
+    arg: "1"
+    code: profilePic_Children2023_G11
+    item_name: G11 - 복슬복슬 카트
+    introduction: G11 - 복슬복슬 카트
+    rank: 1
+  }
+  {
+    id: 2324
+    type: 5
+    arg: "1"
+    code: profilePic_Children2023_M240L
+    item_name: M240L - 우리집 성기사
+    introduction: M240L - 우리집 성기사
+    rank: 1
+  }
+  {
+    id: 2325
+    type: 5
+    arg: "1"
+    code: profilePic_Children2023_AA12
+    item_name: AA-12 - 사탕봉지 총동원
+    introduction: AA-12 - 사탕봉지 총동원
+    rank: 1
+  }
+  {
+    id: 2326
+    type: 5
+    arg: "1"
+    code: profilePic_Children2023_PSG1
+    item_name: PSG-1 - 호프집의 프로시온
+    introduction: PSG-1 - 호프집의 프로시온
+    rank: 1
+  }
+  {
+    id: 2327
+    type: 5
+    arg: "1"
+    code: profilePic_Children2023_C96
+    item_name: C96 - 마음 훔치는 마술사
+    introduction: C96 - 마음 훔치는 마술사
+    rank: 1
+  }
+  {
+    id: 2328
+    type: 5
+    arg: "1"
+    code: profilePic_Children2023_M1911
+    item_name: M1911 - 양철 병사의 기묘한 하루
+    introduction: M1911 - 양철 병사의 기묘한 하루
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -13945,6 +14008,15 @@
     id: 10704
     type: 18
     arg: "10704"
+    code: daily_points
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
+    rank: 1
+  }
+  {
+    id: 10705
+    type: 18
+    arg: "10705"
     code: daily_points
     item_name: 회색지대 점수
     introduction: 회색지대 점수
@@ -16238,6 +16310,16 @@
     rank: 1
   }
   {
+    id: 110064
+    type: 4
+    arg: "110064"
+    code: EventPT7
+    item_name: item-10110064
+    introduction: item-20110064
+    rank: 1
+    detail_introduction: item-30110064
+  }
+  {
     id: 120001
     type: 10
     arg: "1"
@@ -16844,6 +16926,15 @@
     code: profileFrame_BattlePass_QBZ191
     item_name: 액자·여름과 이웃
     introduction: 액자·여름과 이웃
+    rank: 1
+  }
+  {
+    id: 200024
+    type: 5
+    arg: "1"
+    code: profileFrame_Concert2023
+    item_name: 액자: 한여름의 파도
+    introduction: 액자: 한여름의 파도
     rank: 1
   }
   {
@@ -17717,6 +17808,36 @@
     code: package_random
     item_name: 전선협약-추가보상
     introduction: 전선협약-구름에 머무는 학 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500078
+    type: 15
+    arg: "1500078"
+    code: package_choose
+    item_name: 기초장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500079
+    type: 15
+    arg: "1500079"
+    code: package_choose
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500080
+    type: 15
+    arg: "1500080"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
   }
