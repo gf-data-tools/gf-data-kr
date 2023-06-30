@@ -12938,6 +12938,24 @@
     rank: 1
   }
   {
+    id: 2329
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_MK3A1
+    item_name: MK3A1 아이콘
+    introduction: MK3A1 아이콘
+    rank: 1
+  }
+  {
+    id: 2330
+    type: 5
+    arg: "1"
+    code: card_friendmall_MK3A1
+    item_name: 카드 배경: 스패너 걸
+    introduction: 카드 배경: 스패너 걸
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -16935,6 +16953,15 @@
     code: profileFrame_Concert2023
     item_name: 액자: 한여름의 파도
     introduction: 액자: 한여름의 파도
+    rank: 1
+  }
+  {
+    id: 200025
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_MK3A1
+    item_name: 액자·기교백공
+    introduction: 액자·기교백공
     rank: 1
   }
   {

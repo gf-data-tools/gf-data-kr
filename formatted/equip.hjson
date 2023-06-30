@@ -10774,4 +10774,37 @@
     obtain_ids: "3096"
     sp_description: 재장전 시간-2초
   }
+  {
+    id: 350
+    name: SAAB 다이나믹 외골격
+    description:
+      '''
+      이동속도+<speed>
+      회피+<dodge> 스킬 강화$C-MS전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    dodge: "14,19"
+    speed: "2,2"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: 人形_特殊_CMS
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "213"
+    equip_introduction: IOP가 C-MS를 위해 단독 개발한 전용 외골격, C-MS가 좋아하는 낙서를 칠했고, 인형의 전투 효율을 효과적으로 상향합니다.
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: dodge:1000
+    passive_skill: "759214"
+    max_level: 10
+    auto_select_id: 20060
+    is_show: 1
+    obtain_ids: "3087"
+  }
 ]

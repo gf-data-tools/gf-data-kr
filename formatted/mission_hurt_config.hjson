@@ -343,6 +343,16 @@
     defender_value: "99999"
   }
   {
+    id: 6360001
+    name: 【标记】歌利亚秒杀伤害
+    target_type: 2
+    type: 2
+    is_number: 1
+    life_type: 2
+    value: "101"
+    effect_process_end: 1000069
+  }
+  {
     id: 6430001
     name: 【표식】디비전 수류탄 폭발 피해
     target_type: 2
