@@ -1300,6 +1300,15 @@
     class_id: 99
   }
   {
+    id: 596
+    name: RO635 - 흑백 숲속 새
+    fit_gun: 143
+    voice: 4
+    dialog: 블랙럼주를 화이트럼주로 바꾸고, 끝 없는 임무를 질리지 않는 음악으로 바꾸고... 저는 이런 날이 가장 좋아요.
+    illustrator_cv: 暖森,Fukuhara Ayaka,
+    order: 112
+  }
+  {
     id: 601
     name: 토카레프 - 두 사람의 인생
     fit_gun: 6
@@ -7349,5 +7358,14 @@
     voice: 4
     dialog: 좋은 아침, 지휘관. 어젯밤 빗소리가 참 좋지 않았어? 빗방울이 텐트를 두드리는 소리가 난 너무 좋고, 아침에 맑은 하늘과 공기가 너무너무 좋아. 이때 따끈한 차 한잔 있으면 완벽한데... 지휘관도 한잔 어때?
     order: 109
+  }
+  {
+    id: 30009
+    name: Saiga-12 - 얕은 물장구
+    fit_gun: 160
+    voice: 4
+    dialog: 전자동 세신사 Saiga-12가 여러분께 전면적인 클리닝 서비스를 제공할게요! 다음 미소녀 인형분 들어오세요~ 아, 지휘관님도 괜찮아요.
+    illustrator_cv: yoyo,Kanemoto Hisako,
+    order: 111
   }
 ]

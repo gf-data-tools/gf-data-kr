@@ -12956,6 +12956,33 @@
     rank: 1
   }
   {
+    id: 2331
+    type: 5
+    arg: "1"
+    code: card_BattlePass_Saiga12
+    item_name: 카드 배경: 붉은 끝자락
+    introduction: 카드 배경: 붉은 끝자락
+    rank: 1
+  }
+  {
+    id: 2332
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_Saiga12
+    item_name: Saiga-12 - 얕은 물장구
+    introduction: Saiga-12 - 얕은 물장구
+    rank: 1
+  }
+  {
+    id: 2333
+    type: 5
+    arg: "1"
+    code: profilePic_Carnival2023_RO635
+    item_name: RO635 - 흑백 숲속 새
+    introduction: RO635 - 흑백 숲속 새
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -13941,6 +13968,24 @@
     rank: 1
     sort: -999
     detail_introduction: item-30009038
+  }
+  {
+    id: 9039
+    type: 4
+    arg: "9039"
+    code: 2022Bikini_Goody
+    item_name: 선량함의 증표
+    introduction: 하늘이시어, 부디 선량한 이들에게 지혜와 행운을 내리셔셔 전설 속 잔악한 라이칸을 이길 수 있도록 하여주시옵소서!
+    rank: 1
+  }
+  {
+    id: 9040
+    type: 4
+    arg: "9040"
+    code: 2022Bikini_Baddy
+    item_name: 늑대들의 명패
+    introduction: 만월은 라이칸의 토템이며 살육은 늑대인간의 천성이다... 우리는 해가 뜰 때까지 밤을 마음껏 즐긴다.
+    rank: 1
   }
   {
     id: 10603
@@ -15761,6 +15806,25 @@
     rank: 1
   }
   {
+    id: 100189
+    type: 4
+    arg: "100189"
+    code: Platinum_medal
+    item_name: 백금훈장·라이칸의 성역
+    introduction: 백금훈장·라이칸의 성역
+    rank: 1
+  }
+  {
+    id: 100190
+    type: 9
+    arg: "100190"
+    code: Handcuffs
+    item_name: 봉쇄 사슬
+    introduction: 봉쇄 사슬
+    rank: 1
+    daily_limit: "120"
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -16748,6 +16812,22 @@
     rank: 1
   }
   {
+    id: 140019
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *유탄 포수
+    rank: 1
+  }
+  {
+    id: 140020
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *유탄 포수
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -16939,7 +17019,7 @@
   }
   {
     id: 200023
-    type: 5
+    type: 1
     arg: "1"
     code: profileFrame_BattlePass_QBZ191
     item_name: 액자·여름과 이웃
@@ -16962,6 +17042,15 @@
     code: profileFrame_friendmall_MK3A1
     item_name: 액자·기교백공
     introduction: 액자·기교백공
+    rank: 1
+  }
+  {
+    id: 200026
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_Saiga12
+    item_name: 액자·거품의 속삭임
+    introduction: 액자·거품의 속삭임
     rank: 1
   }
   {
@@ -17865,6 +17954,46 @@
     code: package_choose
     item_name: 고등 전용장비 선택 코드
     introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500081
+    type: 15
+    arg: "1500081"
+    code: package_choose
+    item_name: 기초장비 선택 코드
+    introduction: 전선협약-뜨뜻한 시간 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500082
+    type: 15
+    arg: "1500082"
+    code: package_choose
+    item_name: 인형장비 선택 코드
+    introduction: 전선협약-뜨뜻한 시간 보상, 지정 리스트에서 원하는 인형 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500083
+    type: 15
+    arg: "1500083"
+    code: package_random
+    item_name: 미획득 인형 확정 코드
+    introduction: 전선협약-뜨뜻한 시간 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500084
+    type: 15
+    arg: "1500084"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-뜨뜻한 시간 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
     rank: 1
     sort: -1
   }
