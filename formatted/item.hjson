@@ -14086,6 +14086,16 @@
     rank: 1
   }
   {
+    id: 10706
+    type: 18
+    arg: "10706"
+    code: daily_points
+    item_name: item-10010706
+    introduction: item-20010706
+    rank: 1
+    detail_introduction: item-30010706
+  }
+  {
     id: 100001
     type: 4
     arg: "100001"
@@ -17996,6 +18006,39 @@
     introduction: 전선협약-뜨뜻한 시간 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
     rank: 1
     sort: -1
+  }
+  {
+    id: 1500085
+    type: 15
+    arg: "1500085"
+    code: package_choose
+    item_name: item-11500085
+    introduction: item-21500085
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500085
+  }
+  {
+    id: 1500086
+    type: 15
+    arg: "1500086"
+    code: package_choose
+    item_name: item-11500086
+    introduction: item-21500086
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500086
+  }
+  {
+    id: 1500087
+    type: 15
+    arg: "1500087"
+    code: package_choose
+    item_name: item-11500087
+    introduction: item-21500087
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500087
   }
   {
     id: 1600001
