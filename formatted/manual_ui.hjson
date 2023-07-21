@@ -2983,6 +2983,123 @@
     is_manual_target: 2
   }
   {
+    id: 610001
+    code_a: 2023RougeSummer_Mixer
+    description_a: 그리폰
+    description_b: 혼합 시스템
+    description_c: 가동
+    code_b: Console_Icon
+  }
+  {
+    id: 610002
+    code_a: 2307RGM1
+    description_a: 그리폰
+    description_b: 액화 재밍 스프레이
+    description_c: 줍기
+    code_b: Console_Icon
+  }
+  {
+    id: 610003
+    code_a: 2307RGM2
+    description_a: 그리폰
+    description_b: 인형용 윤활유
+    description_c: 줍기
+    code_b: Console_Icon
+  }
+  {
+    id: 610011
+    code_a: 2307RG01
+    description_a: 그리폰
+    description_b: 액화 약화 스프레이
+    description_c: 제작
+    code_b: Console_Icon
+  }
+  {
+    id: 610012
+    code_a: 2307RG02
+    description_a: 그리폰
+    description_b: 인형 동력 오일
+    description_c: 제작
+    code_b: Console_Icon
+  }
+  {
+    id: 610013
+    code_a: 2307RG03
+    description_a: 그리폰
+    description_b: 강력 약화 스프레이
+    description_c: 제작
+    code_b: Console_Icon
+  }
+  {
+    id: 610014
+    code_a: 2307RG04
+    description_a: 그리폰
+    description_b: 강력 동력 오일
+    description_c: 제작
+    code_b: Console_Icon
+  }
+  {
+    id: 610015
+    code_a: 2307RG05
+    description_a: 그리폰
+    description_b: 불안정 화합물
+    description_c: 제작
+    code_b: Console_Icon
+  }
+  {
+    id: 610021
+    code_a: 2307RG01
+    description_a: 그리폰
+    description_b: 액화 약화 스프레이
+    description_c: 사용
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 610022
+    code_a: 2307RG02
+    description_a: 그리폰
+    description_b: 인형 동력 오일
+    description_c: 사용
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 610023
+    code_a: 2307RG03
+    description_a: 그리폰
+    description_b: 강력 약화 스프레이
+    description_c: 사용
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 610024
+    code_a: 2307RG04
+    description_a: 그리폰
+    description_b: 강력 동력 오일
+    description_c: 사용
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 610025
+    code_a: 2307RG05
+    description_a: 그리폰
+    description_b: 불안정 화합물
+    description_c: 사용
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 611009
+    code_a: 2023RougeSummer_Mixer
+    description_a: 그리폰
+    description_b: 결산
+    description_c: 결산
+    code_b: Console_Icon
+  }
+  {
     id: 1000101
     code_a: Rock
     description_a: 아군 제대

@@ -445,6 +445,11 @@
     name: 순수 인카운터
   }
   {
+    id: 90
+    theme_type: 6
+    name: 정겨운 여름
+  }
+  {
     id: 99
     theme_type: 9
     name: 기타

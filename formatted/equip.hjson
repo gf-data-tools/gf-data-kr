@@ -10816,8 +10816,12 @@
   }
   {
     id: 351
-    name: equip-10000351
-    description: equip-20000351
+    name: PM 고성능 외골격
+    description:
+      '''
+      화력<pow>
+      회피+<dodge>$마카로프 MOD 전용
+      '''
     rank: 5
     category: 3
     type: 20
@@ -10830,7 +10834,7 @@
     develop_duration: 3120
     company: IOP
     fit_guns: "20008"
-    equip_introduction: equip-30000351
+    equip_introduction: 마카로프를 위해 맞춤 제작한 고성능 외골격으로, 소형 방탄 장갑을 부착하여, 외골격의 내구도를 한 단계 더 높였습니다.
     powerup_mp: 0.3
     powerup_ammo: 0.25
     powerup_mre: 0.12
@@ -10843,6 +10847,71 @@
     equip_group_id: 9
     is_show: 1
     obtain_ids: "3096"
-    sp_description: equip-40000351
+  }
+  {
+    id: 352
+    name: 명예 훈장
+    description:
+      '''
+      치명률+<critical_percent><%>
+      명중+<hit>$PPSh-41 MOD 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "1,2"
+    critical_percent: "20,26"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: 人形_特殊_PPSh41Mod
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "20021"
+    equip_introduction: PPSh-41이 오래토록 간직해온 두 훈장, 명예의 기억이 담긴 물건. 절대 서버 마비의 책임 전가를 당한 보상이 아니에요!
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: critical_percent:1500,pow:500
+    passive_skill: "759223"
+    max_level: 10
+    auto_select_id: 20062
+    equip_group_id: 10
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
+    id: 353
+    name: C96 다이나믹 외골격
+    description:
+      '''
+      이동속도+<speed>
+      회피+<dodge>$C96 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    dodge: "13,18"
+    speed: "1,2"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: 人形_特殊_C96
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "12,20012"
+    equip_introduction: C96을 위해 특수 제작된 신형 외골격으로, 장시간 작전에 큰 도움이 됩니다. C96이 가장 좋아하는 장비입니다.
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: dodge:1000
+    max_level: 10
+    auto_select_id: 20063
+    is_show: 1
+    obtain_ids: "3098"
   }
 ]

@@ -27041,6 +27041,642 @@
     special_spot_add: 599920:1
   }
   {
+    id: 610000
+    name: 믹서기 초기화
+    skill_group_id: 610000
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    special_spot_add: 610009:1
+    subsidiary_mission_skill: "610099"
+  }
+  {
+    id: 610001
+    name: 혼합 시스템
+    description: 재밍 스프레이와 윤활유를 조합하여 새로운 물질을 생성할 수 있는 시스템으로, 두 물질의 이용률과 성능을 극대화합니다.
+    skill_group_id: 610001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    is_manual: 610001
+  }
+  {
+    id: 610002
+    name: 액화 재밍 스프레이
+    description: 다량의 미세 재밍 소재를 포함한 스프레이. 용액이 담긴 카트릿지를 교체할 수 있으며 적에게 분사하여 전자 기기에 일정 피해를 줄 수 있습니다.
+    skill_group_id: 610002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "100007201"
+    target_id: "1"
+    special_spot_add: 610002:1
+    subsidiary_mission_skill: "1000073,610010"
+    is_manual: 610002
+    drop_item: 9041:1
+  }
+  {
+    id: 610003
+    name: 인형용 윤활유
+    description: 전술인형을 위해 특별 제공되는 군용급 전술물자. 인형의 소체 성능을 단시간 상향할 수 있습니다. 특히 점프력이 크게 상승합니다.
+    skill_group_id: 610003
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "100007201"
+    target_id: "1"
+    special_spot_add: 610003:1
+    subsidiary_mission_skill: "1000073,610010"
+    is_manual: 610003
+    drop_item: 9042:1
+  }
+  {
+    id: 610004
+    name: 재밍-1
+    skill_group_id: 610004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    drop_item: 9041:-1
+  }
+  {
+    id: 610005
+    name: 도약-1
+    skill_group_id: 610005
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    drop_item: 9042:-1
+  }
+  {
+    id: 610006
+    name: 재밍-100
+    skill_group_id: 610006
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    drop_item: 9041:-100
+  }
+  {
+    id: 610007
+    name: 도약-100
+    skill_group_id: 610007
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    drop_item: 9042:-100
+  }
+  {
+    id: 610008
+    name: 재밍+1
+    skill_group_id: 610008
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    drop_item: 9041:1
+  }
+  {
+    id: 610009
+    name: 도약+1
+    skill_group_id: 610009
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    drop_item: 9042:1
+  }
+  {
+    id: 610010
+    name: 줍기 카운터
+    skill_group_id: 610010
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "61100101"
+    special_spot_add: 610001:1
+  }
+  {
+    id: 610011
+    name: 액화 약화 스프레이
+    code: 2307RG01
+    description: 대상을 소폭 약화하고 마비시킨다. 지속시간 1턴
+    skill_group_id: 610011
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 610011:1
+    subsidiary_mission_skill: "610004"
+  }
+  {
+    id: 610012
+    name: 인형 동력 오일
+    code: 2307RG02
+    description: 제대를 짧은 거리 도약시키고 전투 능력을 소폭 강화한다. 1회 전투 동안 지속
+    skill_group_id: 610012
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 610012:1
+    subsidiary_mission_skill: "610005"
+  }
+  {
+    id: 610013
+    name: 강력 약화 스프레이
+    code: 2307RG03
+    description: 대상을 대폭 약화하고 마비시킨다. 지속시간 2턴
+    skill_group_id: 610013
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 610013:1
+    subsidiary_mission_skill: "610004,610004"
+  }
+  {
+    id: 610014
+    name: 강력 동력 오일
+    code: 2307RG04
+    description: 제대를 긴 거리 도약시키고 전투 능력을 대폭 강화한다. 1회 전투 동안 지속
+    skill_group_id: 610014
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 610014:1
+    subsidiary_mission_skill: "610005,610005"
+  }
+  {
+    id: 610015
+    name: 불안정 화합물
+    code: 2307RG05
+    description: 두 가지 약품을 혼합하여 두 효과를 동시에 지닌 신비한 아이템(아마도)
+    skill_group_id: 610015
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 610015:1
+    subsidiary_mission_skill: "610004,610005"
+  }
+  {
+    id: 610021
+    name: 액화 약화 스프레이
+    description: 1칸 거리 안의 적에게 사용하여 대상을 소폭 약화하고 마비시킨다. 지속시간 1턴
+    skill_group_id: 610021
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 1
+    mission_buff_add: 610021:1
+    subsidiary_mission_skill: "610031"
+    is_manual: 610021
+  }
+  {
+    id: 610022
+    name: 인형 동력 오일
+    description: 거리 1칸 안 빈 거점에 제대를 도약시키고 전투 능력을 소폭 강화한다. 1회 전투 동안 지속
+    skill_group_id: 610022
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 1
+    is_airborne: 2
+    special_spot_add: 610022:1
+    subsidiary_mission_skill: "610032"
+    is_manual: 610022
+  }
+  {
+    id: 610023
+    name: 강력 약화 스프레이
+    description: 2칸 거리 안의 적에게 사용하여대상을 대폭 약화하고 마비시킨다. 지속시간 2턴
+    skill_group_id: 610023
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 2
+    mission_buff_add: 610023:1
+    subsidiary_mission_skill: "610033"
+    is_manual: 610023
+  }
+  {
+    id: 610024
+    name: 강력 동력 오일
+    description: 거리 3칸 안 빈 거점에 제대를 도약시키고 전투 능력을 대폭 강화한다. 1회 전투 동안 지속
+    skill_group_id: 610024
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 3
+    is_airborne: 2
+    special_spot_add: 610024:1
+    subsidiary_mission_skill: "610034"
+    is_manual: 610024
+  }
+  {
+    id: 610025
+    name: 불안정 화합물
+    description: 거리 2칸 안 적에게 도약하여 바로 전투에 진입한다. 전투 시 적을 약화하고 아군을 강화한다.
+    skill_group_id: 610025
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "4,5,6"
+    cd_time_type: 1
+    start_range: 2
+    is_airborne: 2
+    special_spot_add: 610025:1
+    mission_buff_add: 610025:1
+    subsidiary_mission_skill: "610035"
+    is_manual: 610025
+  }
+  {
+    id: 610031
+    name: 小재밍清除
+    skill_group_id: 610031
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_minus: 610011:1
+  }
+  {
+    id: 610032
+    name: 小도약清除
+    skill_group_id: 610032
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 1
+    target_id: 1||61002201
+    special_spot_minus: 610022:1
+    mission_buff_add: 610022:1
+    mission_buff_minus: 610012:1
+  }
+  {
+    id: 610033
+    name: 大재밍清除
+    skill_group_id: 610033
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_minus: 610013:1
+  }
+  {
+    id: 610034
+    name: 大도약清除
+    skill_group_id: 610034
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 3
+    target_id: 1||61002401
+    special_spot_minus: 610024:1
+    mission_buff_add: 610024:1
+    mission_buff_minus: 610014:1
+  }
+  {
+    id: 610035
+    name: 재밍도약清除
+    skill_group_id: 610035
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 2
+    target_id: 1||61002501
+    special_spot_minus: 610025:1
+    mission_buff_minus: 610015:1
+  }
+  {
+    id: 610091
+    name: 혼합 시스템
+    description: 재밍 스프레이와 윤활유를 조합하여 새로운 물질을 생성할 수 있는 시스템으로, 두 물질의 이용률과 성능을 극대화합니다.
+    skill_group_id: 610091
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+  }
+  {
+    id: 610099
+    name: 믹서기 초기화
+    skill_group_id: 610099
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    special_spot_add: 610000:1
+  }
+  {
+    id: 610101
+    name: 强敌多动
+    skill_group_id: 610101
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 20402:1
+  }
+  {
+    id: 610201
+    name: 튜토리얼 초기화
+    skill_group_id: 610201
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 610201:1
+    subsidiary_mission_skill: "611001"
+  }
+  {
+    id: 610301
+    name: A1 초기화 - 재밍+3
+    skill_group_id: 610301
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 610301:1
+    subsidiary_mission_skill: "610006,610007,610008,610008,610008"
+  }
+  {
+    id: 610401
+    name: A2 초기화 - 재밍+8
+    skill_group_id: 610401
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 610401:1
+    subsidiary_mission_skill: "610006,610007,610008,610008,610008,610008,610008,610008,610008,610008"
+  }
+  {
+    id: 610601
+    name: B1 초기화 - 도약+4
+    skill_group_id: 610601
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 610601:1
+    subsidiary_mission_skill: "610006,610007,610009,610009,610009,610009"
+  }
+  {
+    id: 610701
+    name: B2 초기화 - 도약+6
+    skill_group_id: 610701
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 610701:1
+    subsidiary_mission_skill: "610006,610007,610009,610009,610009,610009,610009,610009"
+  }
+  {
+    id: 611001
+    name: 积分关初始化
+    skill_group_id: 611001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 611001:1
+    subsidiary_mission_skill: "610006,610007"
+  }
+  {
+    id: 611002
+    name: 强敌标记点
+    skill_group_id: 611002
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 611002:1
+    mission_buff_add: 20401:1
+  }
+  {
+    id: 611003
+    name: 召唤第二波强敌
+    skill_group_id: 611003
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: "61100303"
+    target_id: "61100201"
+    subsidiary_mission_skill: "611005"
+    allyteam_summoner: "611011"
+  }
+  {
+    id: 611004
+    name: 召唤第三波强敌
+    skill_group_id: 611004
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: "61100403"
+    target_id: "61100201"
+    subsidiary_mission_skill: "611006"
+    allyteam_summoner: "611012"
+  }
+  {
+    id: 611005
+    name: 强敌2初始化
+    skill_group_id: 611005
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "61100201"
+    mission_buff_add: 20402:1
+  }
+  {
+    id: 611006
+    name: 强敌3初始化
+    skill_group_id: 611006
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: "61100201"
+    mission_buff_add: 20403:1
+  }
+  {
+    id: 611007
+    name: 强敌1计数
+    skill_group_id: 611007
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 611003:1
+  }
+  {
+    id: 611008
+    name: 强敌2计数
+    skill_group_id: 611008
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 611004:1
+  }
+  {
+    id: 611009
+    name: 결산
+    description: 전역을 결산하고 승리합니다
+    skill_group_id: 611009
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    trigger_id: "61000101"
+    target_id: "1"
+    special_spot_add: 611005:1
+    is_manual: 611009
+  }
+  {
+    id: 611701
+    name: A2噩梦 초기화 - 재밍+6
+    skill_group_id: 611701
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 611701:1
+    subsidiary_mission_skill: "610006,610007,610008,610008,610008,610008,610008,610008"
+  }
+  {
+    id: 611901
+    name: B1噩梦 초기화 - 도약+1
+    skill_group_id: 611901
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 611901:1
+    subsidiary_mission_skill: "610006,610007,610009"
+  }
+  {
+    id: 612303
+    name: 噩梦召唤第二波强敌
+    skill_group_id: 612303
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: "61100303"
+    target_id: "61100201"
+    subsidiary_mission_skill: "611005"
+    allyteam_summoner: "612311"
+  }
+  {
+    id: 612304
+    name: 噩梦召唤第三波强敌
+    skill_group_id: 612304
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    trigger_id: "61100403"
+    target_id: "61100201"
+    subsidiary_mission_skill: "611006"
+    allyteam_summoner: "612312"
+  }
+  {
     id: 700111
     name: AI 식별-연계 검사 0
     skill_group_id: 700111
@@ -35625,6 +36261,357 @@
     spot_belong: "-1"
     spot_echelon: "-1"
     special_spot_minus: 1000060:1
+  }
+  {
+    id: 1144001
+    name: A3 초기화 - 재밍+3,도약+2
+    skill_group_id: 1144001
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 1144004:1
+    subsidiary_mission_skill: "610006,610007,610008,610008,610008,610009,610009"
+  }
+  {
+    id: 1144302
+    name: B3 초기화 - 도약+2,재밍+1
+    skill_group_id: 1144302
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 1144304:1
+    subsidiary_mission_skill: "610006,610007,610008,610009,610009"
+  }
+  {
+    id: 1144303
+    name: Building传送自伤
+    skill_group_id: 1144303
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    target_id: "1"
+    special_spot_add: 1144303:1
+  }
+  {
+    id: 1144400
+    name: 任意分身存活
+    skill_group_id: 1144400
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144401||1144402||1144403
+    target_id: "1"
+    subsidiary_mission_skill: "1144401,1144402,1144403"
+  }
+  {
+    id: 1144401
+    name: 分身1刷新
+    skill_group_id: 1144401
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    data_pool: "1"
+    trigger_id: 1144409&&1
+    target_id: "1"
+    special_spot_add: 1144411:1
+    allyteam_summoner: "1144401"
+  }
+  {
+    id: 1144402
+    name: 分身2刷新
+    skill_group_id: 1144402
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144408&&1144404
+    target_id: "1144404"
+    special_spot_add: 1144411:1
+    allyteam_summoner: "1144402"
+  }
+  {
+    id: 1144403
+    name: 分身3刷新
+    skill_group_id: 1144403
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144407&&1144405
+    target_id: "1144405"
+    special_spot_add: 1144411:1
+    allyteam_summoner: "1144403"
+  }
+  {
+    id: 1144404
+    name: 分身2刷新点记录
+    skill_group_id: 1144404
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: "1144412"
+    target_id: "1144412"
+    special_spot_add: 1144402:1,1144411:1
+  }
+  {
+    id: 1144405
+    name: 分身3刷新点记录
+    skill_group_id: 1144405
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: "1144413"
+    target_id: "1144413"
+    special_spot_add: 1144403:1,1144411:1
+  }
+  {
+    id: 1144406
+    name: 分身1刷新点记录
+    skill_group_id: 1144406
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    data_pool: "1"
+    trigger_id: "1"
+    target_id: "1"
+    special_spot_add: 1144401:1,1144411:1
+    subsidiary_mission_skill: "1144404,1144405"
+  }
+  {
+    id: 1144411
+    name: 分身1死亡回调
+    skill_group_id: 1144411
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144401&&1
+    target_id: 1144401&&1
+    special_spot_minus: 1144411:1
+  }
+  {
+    id: 1144412
+    name: 分身2死亡回调
+    skill_group_id: 1144412
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144402&&1144404
+    target_id: 1144402&&1144404
+    special_spot_minus: 1144411:1
+  }
+  {
+    id: 1144413
+    name: 分身3死亡回调
+    skill_group_id: 1144413
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144403&&1144405
+    target_id: 1144403&&1144405
+    special_spot_minus: 1144411:1
+  }
+  {
+    id: 1144414
+    name: C1 초기화 - 도약+2,재밍+2
+    skill_group_id: 1144414
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 1144404:1
+    subsidiary_mission_skill: "610006,610007,610008,610008,610009,610009"
+  }
+  {
+    id: 1145700
+    name: 任意分身存活
+    skill_group_id: 1145700
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144401||1144402||1144403
+    target_id: "1"
+    subsidiary_mission_skill: "1145701,1145702,1145703"
+  }
+  {
+    id: 1145701
+    name: 分身1刷新
+    skill_group_id: 1145701
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    data_pool: "1"
+    trigger_id: 1144409&&1
+    target_id: "1"
+    special_spot_add: 1144411:1
+    allyteam_summoner: "1145701"
+  }
+  {
+    id: 1145702
+    name: 分身2刷新
+    skill_group_id: 1145702
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144408&&1144404
+    target_id: "1144404"
+    special_spot_add: 1144411:1
+    allyteam_summoner: "1145702"
+  }
+  {
+    id: 1145703
+    name: 分身3刷新
+    skill_group_id: 1145703
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144407&&1144405
+    target_id: "1144405"
+    special_spot_add: 1144411:1
+    allyteam_summoner: "1145703"
+  }
+  {
+    id: 1145704
+    name: 分身2刷新点记录
+    skill_group_id: 1145704
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: "1145712"
+    target_id: "1145712"
+    special_spot_add: 1144402:1,1144411:1
+  }
+  {
+    id: 1145705
+    name: 分身3刷新点记录
+    skill_group_id: 1145705
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: "1145713"
+    target_id: "1145713"
+    special_spot_add: 1144403:1,1144411:1
+  }
+  {
+    id: 1145706
+    name: 分身1刷新点记录
+    skill_group_id: 1145706
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    data_pool: "1"
+    trigger_id: "1"
+    target_id: "1"
+    special_spot_add: 1144401:1,1144411:1
+    subsidiary_mission_skill: "1145704,1145705"
+  }
+  {
+    id: 1145711
+    name: 分身1死亡回调
+    skill_group_id: 1145711
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144401&&1
+    target_id: 1144401&&1
+    special_spot_minus: 1144411:1
+  }
+  {
+    id: 1145712
+    name: 分身2死亡回调
+    skill_group_id: 1145712
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144402&&1144404
+    target_id: 1144402&&1144404
+    special_spot_minus: 1144411:1
+  }
+  {
+    id: 1145713
+    name: 分身3死亡回调
+    skill_group_id: 1145713
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    data_pool: "1"
+    trigger_id: 1144403&&1144405
+    target_id: 1144403&&1144405
+    special_spot_minus: 1144411:1
   }
   {
     id: 1150100

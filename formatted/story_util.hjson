@@ -6366,11 +6366,11 @@
   {
     id: 546
     mission_id: "10504"
-    description: 외딴섬의 휴가
+    description: '''"소녀들의 은밀한 모험, 운명을 바꾸는 보물을 찾아라!"'''
     scripts: -40-1-1First,-40-1-2End
     campaign: -40
     bgm: BGM_Frontline
-    title: 외딴섬의 휴가
+    title: 외딴 섬의 휴일
     start: -40-1-1First
     first: -40-1-2End
     end: -40-1-2End
@@ -6378,7 +6378,7 @@
   {
     id: 547
     mission_id: "10505"
-    description: 쥐구멍에 볕들 날
+    description: '''"수수께끼 생물이 해변에 출현! 혹시 이것이 행운의 징조!?"'''
     scripts: -40-2-1First,-40-2-2End
     campaign: -40
     bgm: BGM_Frontline
@@ -6390,7 +6390,7 @@
   {
     id: 548
     mission_id: "10506"
-    description: 숨겨진 위험지대
+    description: '''"운명을 비틀긴 비틀었는데... 좋은 쪽이 아니네."'''
     scripts: -40-3-1First,-40-3-2End
     campaign: -40
     bgm: BGM_Frontline
@@ -6402,7 +6402,7 @@
   {
     id: 549
     mission_id: "10507"
-    description: 여름 노을빛
+    description: '''"해변에서 제일 재밌는 것이 나 잡아봐라~이지만 이번엔 조금 위험하네."'''
     scripts: -40-4-1First,-40-4-2End
     campaign: -40
     bgm: BGM_Frontline
@@ -8723,7 +8723,7 @@
     id: 799
     mission_id: "10781"
     description: 암류
-    scripts: -47-2-WS-1,-47-2-1,-47-2-2
+    scripts: -47-2-1,-47-2-2
     campaign: -47
     bgm: BGM_Frontline
     start: -47-2-1
@@ -12325,5 +12325,58 @@
     campaign: -60
     title: 비경수위+
     start: -60-tips
+  }
+  {
+    id: 1235
+    mission_id: "11436"
+    description: story_util-10001235
+    scripts: -61-1-1
+    campaign: -61
+    title: story_util-20001235
+    start: -61-1-1
+  }
+  {
+    id: 1236
+    mission_id: "11437"
+    description: story_util-10001236
+    scripts: -61-2-1
+    campaign: -61
+    title: story_util-20001236
+    start: -61-2-1
+  }
+  {
+    id: 1237
+    mission_id: "11445,11458"
+    description: story_util-10001237
+    campaign: -61
+    title: story_util-20001237
+    start: -61-EXT-1
+  }
+  {
+    id: 1238
+    mission_id: "11448"
+    description: story_util-10001238
+    scripts: -61-3-1
+    campaign: -61
+    title: story_util-20001238
+    start: -61-3-1
+  }
+  {
+    id: 1239
+    mission_id: "11449"
+    description: story_util-10001239
+    scripts: -61-3-2
+    campaign: -61
+    title: story_util-20001239
+    start: -61-3-2
+  }
+  {
+    id: 1240
+    mission_id: "11450"
+    description: story_util-10001240
+    scripts: -61-3-3
+    campaign: -61
+    title: story_util-20001240
+    start: -61-3-3
   }
 ]

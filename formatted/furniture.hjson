@@ -27368,6 +27368,197 @@
     touch_area: "8,4,0"
   }
   {
+    id: 11101
+    name: 그대 같은 불꽃놀이 - 메아리치는 길거리
+    classes: 111
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 가장 예쁜 것은 불꽃놀이가 아니라, 불꽃이 밝히는 그대의 웃는 얼굴.
+    code: SummerFes2023_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 11102
+    name: 그대 같은 불꽃놀이 - 한여름의 불꽃놀이
+    classes: 111
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 이 길에 끝이 없다면 얼마나 좋을까.
+    code: SummerFes2023_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 11103
+    name: 그대 같은 불꽃놀이 - 백화천채
+    classes: 111
+    type: 201
+    position: "26,0"
+    space: "6,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 천천히 양산을 드니, 그대의 눈동자 달처럼 맑게 빛나네.
+    code: SummerFes2023_deco_01,SummerFes2023_deco_02
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0.000,0.000,0.000|0.000,2.240,0.514"
+    rotate: "2,2"
+  }
+  {
+    id: 11104
+    name: 그대 같은 불꽃놀이 - 은은한 등불들
+    classes: 111
+    type: 201
+    position: "3,0"
+    space: "6,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 빛이 이 세상의 길을 비추니, 그대가 바로 빛이구나.
+    code: SummerFes2023_deco_03,SummerFes2023_deco_04
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0.000,0.000,0.000|0.000,2.246,0.511"
+    rotate: "2,2"
+  }
+  {
+    id: 11105
+    name: 그대 같은 불꽃놀이 - 화려한 꽃가마
+    classes: 111
+    type: 201
+    position: "11,0"
+    space: "10,6,1,1,1,0"
+    deco_rate: 1400
+    decompose_gift: 100003
+    description: 세상 만물을 내려다보는 기분은 좋지만, 높은 곳은 쌀쌀한 법.
+    code: SummerFes2023_deco_05,SummerFes2023_deco_06,SummerFes2023_deco_07,SummerFes2023_deco_08,SummerFes2023_deco_09,SummerSwim2023_lights
+    texture_type: "1,1,1,1,1,2"
+    sorting: "10,10,10,10,0,20"
+    offset: "0.000,0.000,0.000|4.609,0.000,0.000|0.000,4.489,1.037|0.000,0.023,0.000|0.000,0.000,0.000|0.238,1.925,0.143"
+    rotate: "2,2,2,2,2,2"
+    interact_point: "27"
+    interact_point_offset: *0.088,5.805,1.081
+  }
+  {
+    id: 11106
+    name: 그대 같은 불꽃놀이 - 두둥!
+    classes: 111
+    type: 201
+    position: "7,5"
+    space: "3,2,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 우레와 같은 북소리 둥둥 울려, 마치 축제의 심장이 뛰는 것 같네.
+    code: SummerFes2023_deco_10
+    texture_type: "1"
+    offset: "-0.097,0.000,-0.131"
+    rotate: "2"
+  }
+  {
+    id: 11107
+    name: 그대 같은 불꽃놀이 - 탁!
+    classes: 111
+    type: 201
+    position: "23,4"
+    space: "3,2,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 북소리가 멎자, 세상도 잠깐 정적에 빠졌다.
+    code: SummerFes2023_deco_11
+    texture_type: "1"
+    offset: "-0.115,0.000,-0.160"
+    rotate: "2"
+  }
+  {
+    id: 11108
+    name: 그대 같은 불꽃놀이 - 맛집 노점
+    classes: 111
+    type: 201
+    position: "27,6"
+    space: "6,4,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 즐거움과 만족은 어떨 땐 참 간단하다, 그녀에게 다코야끼 하나 먹여 줄 때처럼.
+    code: SummerFes2023_deco_12,SummerFes2023_deco_13
+    texture_type: "1,1"
+    sorting: "20,0"
+    offset: "-0.344,0.000,0.000|-0.344,0.000,0.000"
+    rotate: "2,2"
+  }
+  {
+    id: 11109
+    name: 그대 같은 불꽃놀이 - 독특한 개인기
+    classes: 111
+    type: 201
+    position: "10,10"
+    space: "6,3,1,1,1,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 어떨 땐, 종이 뜰채로 금붕어를 건지려는 것 같다. 기회는 단 한 번뿐.
+    code: SummerFes2023_deco_14
+    texture_type: "1"
+    offset: "-0.209,0.000,-0.834"
+    rotate: "2"
+  }
+  {
+    id: 11110
+    name: 그대 같은 불꽃놀이 - 시원달콤함
+    classes: 111
+    type: 201
+    position: "1,10"
+    space: "6,4,1,1,0,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 빙수가 입 안에서 사르르 녹으니, 시원하면서도 달콤하구나.
+    code: SummerFes2023_deco_15,SummerFes2023_deco_16
+    texture_type: "1,1"
+    sorting: "20,0"
+    offset: "0.152,0.000,0.000|0.152,0.000,0.000"
+    rotate: "2,2"
+  }
+  {
+    id: 11111
+    name: 그대 같은 불꽃놀이 - 이중 시련
+    classes: 111
+    type: 201
+    position: "16,9"
+    space: "7,4,1,1,0,0"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 이건 그리폰 인형들의 사격 실력을 시험하는 것일까, 아니면 점주의 지갑을 시험하는 것일까? 당신은 점포 앞에서 고민했다.
+    code: SummerFes2023_deco_17,SummerFes2023_deco_18
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-0.147,0.000,-0.314|2.157,0.000,-0.314"
+    rotate: "2,2"
+  }
+  {
+    id: 11112
+    name: 그대 같은 불꽃놀이 - 잠깐의 느긋함
+    classes: 111
+    type: 201
+    position: "25,11"
+    space: "7,3,1,1,1,1"
+    deco_rate: 1200
+    decompose_gift: 100003
+    description: 그대 여기 앉아 손으로 턱을 받치니, 번쩍이는 불꽃놀이와 그윽한 밤바람이 웃음소리를 싣고 오네. 이것이 그대를 위한 축제, 그대가 쟁취해낸 세상이라.
+    code: SummerFes2023_deco_19,SummerFes2023_deco_20
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "0.000,0.000,-0.803|2.304,0.000,-0.803"
+    rotate: "2,2"
+    interact_point: "12,14"
+    interact_point_offset: *-2.538,2.106,-1.679|*2.975,1.252,-1.821
+  }
+  {
     id: 20000
     name: 명탕 라오
     classes: 81
@@ -28982,6 +29173,37 @@
     sorting: "20"
     offset: "0.008,0.000,-0.120"
     rotate: "2"
+  }
+  {
+    id: 20104
+    name: 키티 크리드
+    classes: 81
+    type: 201
+    space: "4,3,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: PA-15 판타지 유니버스의 코어. 그리폰에서 가장 인기 많은 공포 게임 합본을 설치했고, 특제 고양이 헤드폰은 그 주인이 깊은 밤에 골골 소리를 내게 합니다. 아마 그 때문에 이 콘솔이 지휘실에 소포로 보내진 거겠죠.
+    code: 2023PA15_deco_A
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 20105
+    name: '''"다내놔" 믹서기'''
+    classes: 81
+    type: 201
+    space: "3,3,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 삶은 무수한 선택의 연속으로, 이 시설은 선택 장애를 겪는 이들에게 도움을 주어, 어떤 이지선택 문제도 깔끔하게 해결해 드립니다. 하지만 명심하세요, 취사선택은 모두가 반드시 겪어야 하는 일이라는 것을요.
+    code: 2023RougeSummer_Mixer_deco
+    texture_type: "2"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point: "64"
+    interact_point_offset: *3.996,0.000,0.000
+    touch_area: "3,3,0"
   }
   {
     id: 30001
@@ -38728,6 +38950,111 @@
     decompose_gift: 100003
     description: M1911의 포스터
     code: poster_Children2023_M1911
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38501
+    name: Lusa - 해변 공격수
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Lusa의 포스터.
+    code: poster_Swimsuit2023_Lusa
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38502
+    name: HK433 - 옹달샘에서의 만남
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: HK433의 포스터.
+    code: poster_Swimsuit2023_HK433
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38503
+    name: VP1915 - 맑은 날의 현악
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: VP1915의 포스터.
+    code: poster_Swimsuit2023_VP1915
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38504
+    name: AR-18 - 루어 미끼
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: AR-18의 포스터.
+    code: poster_Swimsuit2023_AR18
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38505
+    name: LAMG - 야자수 그늘 흔들리며
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: LAMG의 포스터.
+    code: poster_Swimsuit2023_LAMG
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38506
+    name: Super-Shorty - 물가 바다제비
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Super-Shorty의 포스터.
+    code: poster_Swimsuit2023_SuperShorty
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38507
+    name: 64식 - 등지느러미 그림자
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 64식의 포스터.
+    code: poster_Swimsuit2023_64type
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

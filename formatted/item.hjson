@@ -12983,6 +12983,69 @@
     rank: 1
   }
   {
+    id: 2334
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_64type
+    item_name: 64식 - 등지느러미 그림자
+    introduction: 64식 - 등지느러미 그림자
+    rank: 1
+  }
+  {
+    id: 2335
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_Lusa
+    item_name: Lusa - 해변 공격수
+    introduction: Lusa - 해변 공격수
+    rank: 1
+  }
+  {
+    id: 2336
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_HK433
+    item_name: HK433 - 옹달샘에서의 만남
+    introduction: HK433 - 옹달샘에서의 만남
+    rank: 1
+  }
+  {
+    id: 2337
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_VP1915
+    item_name: VP1915 - 맑은 날의 현악
+    introduction: VP1915 - 맑은 날의 현악
+    rank: 1
+  }
+  {
+    id: 2338
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_AR18
+    item_name: AR-18 - 루어 미끼
+    introduction: AR-18 - 루어 미끼
+    rank: 1
+  }
+  {
+    id: 2339
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_LAMG
+    item_name: LAMG - 야자수 그늘 흔들리며
+    introduction: LAMG - 야자수 그늘 흔들리며
+    rank: 1
+  }
+  {
+    id: 2340
+    type: 5
+    arg: "1"
+    code: profilePic_Swimsuit2023_SuperShorty
+    item_name: Super-Shorty - 물가 바다제비
+    introduction: Super-Shorty - 물가 바다제비
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -13986,6 +14049,38 @@
     item_name: 늑대들의 명패
     introduction: 만월은 라이칸의 토템이며 살육은 늑대인간의 천성이다... 우리는 해가 뜰 때까지 밤을 마음껏 즐긴다.
     rank: 1
+  }
+  {
+    id: 9041
+    type: 1
+    arg: "9041"
+    code: 2307RG001
+    item_name: 액화 재밍 스프레이
+    introduction: 다량의 미세 재밍 소재를 포함한 스프레이. 용액이 담긴 카트릿지를 교체할 수 있으며 적에게 분사하여 전자 기기에 일정 피해를 줄 수 있습니다.
+    rank: 1
+    sort: -999
+    is_hide_info: 1
+  }
+  {
+    id: 9042
+    type: 1
+    arg: "9042"
+    code: 2307RG002
+    item_name: 인형용 윤활유
+    introduction: 전술인형을 위해 특별 제공되는 군용급 전술물자. 인형의 소체 성능을 단시간 상향할 수 있습니다. 특히 점프력이 크게 상승합니다.
+    rank: 1
+    sort: -999
+    is_hide_info: 1
+  }
+  {
+    id: 9043
+    type: 1
+    arg: "9043"
+    code: mind_PT
+    item_name: 사고영역 항해PT
+    introduction: 사고영역 항해PT
+    rank: 1
+    sort: -999
   }
   {
     id: 10603
@@ -15833,6 +15928,34 @@
     introduction: 봉쇄 사슬
     rank: 1
     daily_limit: "120"
+  }
+  {
+    id: 100191
+    type: 4
+    arg: "100191"
+    code: Nova_medal_black
+    item_name: 노바 훈장·사고영역 항해
+    introduction: 노바 훈장·사고영역 항해
+    rank: 1
+  }
+  {
+    id: 100192
+    type: 4
+    arg: "100192"
+    code: Platinum_medal_black
+    item_name: 백금 훈장·사고영역 항해
+    introduction: 백금 훈장·사고영역 항해
+    rank: 1
+  }
+  {
+    id: 100193
+    type: 9
+    arg: "100193"
+    code: Mind_Coin
+    item_name: 생각 토큰
+    introduction: 생각 토큰
+    rank: 1
+    daily_limit: "60"
   }
   {
     id: 110001
