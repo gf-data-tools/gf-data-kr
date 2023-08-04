@@ -11835,7 +11835,6 @@
     item_name: 루이스 - 은행잎에 말발굽 자국
     introduction: 루이스 - 은행잎에 말발굽 자국
     rank: 1
-    detail_introduction: item-30002206
   }
   {
     id: 2207
@@ -11998,7 +11997,6 @@
     item_name: 카드배경: 고정점
     introduction: 카드배경: 고정점
     rank: 1
-    detail_introduction: item-30002224
   }
   {
     id: 2225
@@ -12089,7 +12087,6 @@
     item_name: DP28 - 나팔꽃 덩굴
     introduction: DP28 - 나팔꽃 덩굴
     rank: 1
-    detail_introduction: item-30002234
   }
   {
     id: 2235
@@ -18162,33 +18159,30 @@
     type: 15
     arg: "1500085"
     code: package_choose
-    item_name: item-11500085
-    introduction: item-21500085
+    item_name: 기초장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500085
   }
   {
     id: 1500086
     type: 15
     arg: "1500086"
     code: package_choose
-    item_name: item-11500086
-    introduction: item-21500086
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500086
   }
   {
     id: 1500087
     type: 15
     arg: "1500087"
     code: package_choose
-    item_name: item-11500087
-    introduction: item-21500087
+    item_name: 고등 전용장비 선택 코드
+    introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500087
   }
   {
     id: 1600001
