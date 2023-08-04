@@ -10854,7 +10854,7 @@
     description:
       '''
       치명률+<critical_percent><%>
-      명중+<hit>$PPSh-41 MOD 전용
+      화력+<pow>$PPSh-41 MOD 전용
       '''
     rank: 5
     category: 3
