@@ -13061,6 +13061,26 @@
     rank: 1
   }
   {
+    id: 2343
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M1895
+    item_name: item-10002343
+    introduction: item-20002343
+    rank: 1
+    detail_introduction: item-30002343
+  }
+  {
+    id: 2344
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M1895
+    item_name: item-10002344
+    introduction: item-20002344
+    rank: 1
+    detail_introduction: item-30002344
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -14204,6 +14224,16 @@
     introduction: item-20010706
     rank: 1
     detail_introduction: item-30010706
+  }
+  {
+    id: 10707
+    type: 18
+    arg: "10707"
+    code: daily_points
+    item_name: item-10010707
+    introduction: item-20010707
+    rank: 1
+    detail_introduction: item-30010707
   }
   {
     id: 100001
@@ -16976,6 +17006,26 @@
     rank: 1
   }
   {
+    id: 140021
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140021
+    introduction: item-20140021
+    rank: 1
+    detail_introduction: item-30140021
+  }
+  {
+    id: 140022
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: item-10140022
+    introduction: item-20140022
+    rank: 1
+    detail_introduction: item-30140022
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -17196,7 +17246,7 @@
     id: 200026
     type: 1
     arg: "1"
-    code: profileFrame_BattlePass_Saiga121
+    code: profileFrame_BattlePass_Saiga12
     item_name: 액자·거품의 속삭임
     introduction: 액자·거품의 속삭임
     rank: 1
@@ -17209,6 +17259,16 @@
     item_name: 아이콘 액자·푸른 포효
     introduction: 아이콘 액자·푸른 포효
     rank: 1
+  }
+  {
+    id: 200028
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M1895
+    item_name: item-10200028
+    introduction: item-20200028
+    rank: 1
+    detail_introduction: item-30200028
   }
   {
     id: 900030
@@ -18183,6 +18243,83 @@
     introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+  }
+  {
+    id: 1500088
+    type: 15
+    arg: "1500088"
+    code: package_choose
+    item_name: item-11500088
+    introduction: item-21500088
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500088
+  }
+  {
+    id: 1500089
+    type: 15
+    arg: "1500089"
+    code: package_choose
+    item_name: item-11500089
+    introduction: item-21500089
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500089
+  }
+  {
+    id: 1500090
+    type: 15
+    arg: "1500090"
+    code: package_choose
+    item_name: item-11500090
+    introduction: item-21500090
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500090
+  }
+  {
+    id: 1500091
+    type: 15
+    arg: "1500091"
+    code: package_choose
+    item_name: item-11500091
+    introduction: item-21500091
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500091
+  }
+  {
+    id: 1500092
+    type: 15
+    arg: "1500092"
+    code: package_choose
+    item_name: item-11500092
+    introduction: item-21500092
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500092
+  }
+  {
+    id: 1500093
+    type: 15
+    arg: "1500093"
+    code: package_random
+    item_name: item-11500093
+    introduction: item-21500093
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500093
+  }
+  {
+    id: 1500094
+    type: 15
+    arg: "1500094"
+    code: package_random
+    item_name: item-11500094
+    introduction: item-21500094
+    rank: 1
+    sort: -1
+    detail_introduction: item-31500094
   }
   {
     id: 1600001
