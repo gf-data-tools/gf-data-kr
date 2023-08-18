@@ -13065,20 +13065,180 @@
     type: 5
     arg: "1"
     code: card_BattlePass_M1895
-    item_name: item-10002343
-    introduction: item-20002343
+    item_name: 카드배경: 침몰선의 비밀
+    introduction: 카드배경: 침몰선의 비밀
     rank: 1
-    detail_introduction: item-30002343
   }
   {
     id: 2344
     type: 5
     arg: "1"
     code: profilePic_BattlePass_M1895
-    item_name: item-10002344
-    introduction: item-20002344
+    item_name: 나강 리볼버 - 푸른 파도의 나팔수
+    introduction: 나강 리볼버 - 푸른 파도의 나팔수
     rank: 1
-    detail_introduction: item-30002344
+  }
+  {
+    id: 2345
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_DP12
+    item_name: DP-12 - 위기관리 사명
+    introduction: DP-12 - 위기관리 사명
+    rank: 1
+  }
+  {
+    id: 2346
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_LTLX7000
+    item_name: LTLX7000 - 온라인 레이디
+    introduction: LTLX7000 - 온라인 레이디
+    rank: 1
+  }
+  {
+    id: 2347
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_Grizzly
+    item_name: 그리즐리 MkV - 근무지 엘리트
+    introduction: 그리즐리 MkV - 근무지 엘리트
+    rank: 1
+  }
+  {
+    id: 2348
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_Savage99
+    item_name: Savage 99 - 꿈 그리는 일상
+    introduction: Savage 99 - 꿈 그리는 일상
+    rank: 1
+  }
+  {
+    id: 2349
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_AK12
+    item_name: AK-12 - 루치아
+    introduction: AK-12 - 루치아
+    rank: 1
+  }
+  {
+    id: 2350
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_AN94
+    item_name: AN-94 - 안티아
+    introduction: AN-94 - 안티아
+    rank: 1
+  }
+  {
+    id: 2351
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_AK15
+    item_name: AK-15 - 에르빈
+    introduction: AK-15 - 에르빈
+    rank: 1
+  }
+  {
+    id: 2352
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_RPK16
+    item_name: RPK-16 - 레나테
+    introduction: RPK-16 - 레나테
+    rank: 1
+  }
+  {
+    id: 2353
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_G36
+    item_name: G36 - 모카 협업자
+    introduction: G36 - 모카 협업자
+    rank: 1
+  }
+  {
+    id: 2354
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_6P62
+    item_name: 6P62 - 6P62의 오퍼
+    introduction: 6P62 - 6P62의 오퍼
+    rank: 1
+  }
+  {
+    id: 2356
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_STG44
+    item_name: StG44 - 명탐정 조수
+    introduction: StG44 - 명탐정 조수
+    rank: 1
+  }
+  {
+    id: 2357
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season12_1
+    item_name: 닻내린 감정 · code10: 티아라
+    introduction: 닻내린 감정 · code10: 티아라
+    rank: 1
+  }
+  {
+    id: 2358
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season12_2
+    item_name: 소망의 교량 · code10: 티아라
+    introduction: 소망의 교량 · code10: 티아라
+    rank: 1
+  }
+  {
+    id: 2359
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season12_3
+    item_name: 공감 서약 · code10: 티아라
+    introduction: 공감 서약 · code10: 티아라
+    rank: 1
+  }
+  {
+    id: 2360
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_STG44
+    item_name: id 점용
+    introduction: id 점용
+    rank: 1
+  }
+  {
+    id: 2361
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_STG44
+    item_name: id 점용
+    introduction: id 점용
+    rank: 1
+  }
+  {
+    id: 2362
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_STG44
+    item_name: id 점용
+    introduction: id 점용
+    rank: 1
+  }
+  {
+    id: 2363
+    type: 5
+    arg: "1"
+    code: profilePic_OfficeLady2023_STG44
+    item_name: id 점용
+    introduction: id 점용
+    rank: 1
   }
   {
     id: 4001
@@ -14115,7 +14275,6 @@
     item_name: 사고영역 항해PT
     introduction: 사고영역 항해PT
     rank: 1
-    sort: -999
   }
   {
     id: 10603
@@ -14220,20 +14379,18 @@
     type: 18
     arg: "10706"
     code: daily_points
-    item_name: item-10010706
-    introduction: item-20010706
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
     rank: 1
-    detail_introduction: item-30010706
   }
   {
     id: 10707
     type: 18
     arg: "10707"
     code: daily_points
-    item_name: item-10010707
-    introduction: item-20010707
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
     rank: 1
-    detail_introduction: item-30010707
   }
   {
     id: 100001
@@ -17010,20 +17167,16 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: item-10140021
-    introduction: item-20140021
+    item_name: *유탄 포수
     rank: 1
-    detail_introduction: item-30140021
   }
   {
     id: 140022
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: item-10140022
-    introduction: item-20140022
+    item_name: *유탄 포수
     rank: 1
-    detail_introduction: item-30140022
   }
   {
     id: 160001
@@ -17265,10 +17418,9 @@
     type: 1
     arg: "1"
     code: profileFrame_BattlePass_M1895
-    item_name: item-10200028
-    introduction: item-20200028
+    item_name: 액자·바닷가의 항적
+    introduction: 액자·바닷가의 항적
     rank: 1
-    detail_introduction: item-30200028
   }
   {
     id: 900030
@@ -18249,77 +18401,70 @@
     type: 15
     arg: "1500088"
     code: package_choose
-    item_name: item-11500088
-    introduction: item-21500088
+    item_name: 기초장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500088
   }
   {
     id: 1500089
     type: 15
     arg: "1500089"
     code: package_choose
-    item_name: item-11500089
-    introduction: item-21500089
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500089
   }
   {
     id: 1500090
     type: 15
     arg: "1500090"
     code: package_choose
-    item_name: item-11500090
-    introduction: item-21500090
+    item_name: 고등 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500090
   }
   {
     id: 1500091
     type: 15
     arg: "1500091"
     code: package_choose
-    item_name: item-11500091
-    introduction: item-21500091
+    item_name: 기초장비 선택 코드
+    introduction: 전선협약-트레저 베이의 여름 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500091
   }
   {
     id: 1500092
     type: 15
     arg: "1500092"
     code: package_choose
-    item_name: item-11500092
-    introduction: item-21500092
+    item_name: 탄창 장비 선택 코드
+    introduction: 전선협약-트레저 베이의 여름 보상, 지정 리스트에서 원하는 탄창 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500092
   }
   {
     id: 1500093
     type: 15
     arg: "1500093"
     code: package_random
-    item_name: item-11500093
-    introduction: item-21500093
+    item_name: 미획득 인형 확정 코드
+    introduction: 전선협약-트레저 베이의 여름 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500093
   }
   {
     id: 1500094
     type: 15
     arg: "1500094"
     code: package_random
-    item_name: item-11500094
-    introduction: item-21500094
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-트레저 베이의 여름 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500094
   }
   {
     id: 1600001

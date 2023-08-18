@@ -23470,21 +23470,18 @@
   }
   {
     id: 8533
-    name: prize-10008533
+    name: 전선협약68
     item_ids: 140021-1
-    content: prize-20008533
   }
   {
     id: 8534
-    name: prize-10008534
+    name: 전선협약98
     item_ids: 140022-1,10606-300,200028-1,2343-1
-    content: prize-20008534
   }
   {
     id: 8535
-    name: prize-10008535
+    name: 전선협약30
     item_ids: 140022-1,10606-300,200028-1,2343-1
-    content: prize-20008535
   }
   {
     id: 9101
@@ -24611,6 +24608,74 @@
     content:
       '''
       "Code9: 닫힌 끈" 시즌에서 대장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*60, 지휘관 경험치*2000, 아이콘 "새겨진 각인"
+      대장 랭크 우편을 처음 수령 시 액자·빛나는 장성 획득.
+      '''
+    icon: Medal_Chess
+  }
+  {
+    id: 10778
+    name: 소령 표창
+    user_exp: 30
+    item_ids: 106-5,2357-1,200008-1
+    content:
+      '''
+      "code10: 티아라" 시즌에서 소령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*5, 지휘관 경험치*30, 아이콘 "닻내린 감정"
+      소령 랭크 우편을 처음 수령 시 액자·결전의 화력 획득.
+      '''
+    icon: Medal_Chess
+  }
+  {
+    id: 10779
+    name: 중령 표창
+    user_exp: 60
+    item_ids: 106-10
+    content: '''"code10: 티아라" 시즌에서 중령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*10, 지휘관 경험치*60'''
+    icon: Medal_Chess
+  }
+  {
+    id: 10780
+    name: 대령 표창
+    user_exp: 100
+    item_ids: 106-20
+    content: '''"code10: 티아라" 시즌에서 대령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*20, 지휘관 경험치*100'''
+    icon: Medal_Chess
+  }
+  {
+    id: 10781
+    name: 준장 표창
+    user_exp: 200
+    item_ids: 106-30,2358-1,200007-1
+    content:
+      '''
+      "code10: 티아라" 시즌에서 준장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*30, 지휘관 경험치*200, 아이콘 "소망의 교량"
+      준장 랭크 우편을 처음 수령 시 액자·전술 짜기 획득.
+      '''
+    icon: Medal_Chess
+  }
+  {
+    id: 10782
+    name: 소장 표창
+    user_exp: 500
+    item_ids: 106-40
+    content: '''"code10: 티아라" 시즌에서 소장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*40, 지휘관 경험치*500'''
+    icon: Medal_Chess
+  }
+  {
+    id: 10783
+    name: 중장 표창
+    user_exp: 1000
+    item_ids: 106-50
+    content: '''"code10: 티아라" 시즌에서 중장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*50, 지휘관 경험치*1000'''
+    icon: Medal_Chess
+  }
+  {
+    id: 10784
+    name: 대장 표창
+    user_exp: 2000
+    item_ids: 106-60,2359-1,200006-1
+    content:
+      '''
+      "code10: 티아라" 시즌에서 대장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*60, 지휘관 경험치*2000, 아이콘 "공감 서약"
       대장 랭크 우편을 처음 수령 시 액자·빛나는 장성 획득.
       '''
     icon: Medal_Chess
@@ -35385,7 +35450,7 @@
   {
     id: 30203
     name: 8빙고 보상
-    gift: 7606-1
+    gift: 8612-1
     icon: Bumdle_blue
   }
   {
@@ -45404,29 +45469,25 @@
   }
   {
     id: 120082
-    name: prize-10120082
+    name: 증량보급-15레벨
     item_ids: 41-30,1500091-1
-    content: prize-20120082
   }
   {
     id: 120083
-    name: prize-10120083
+    name: 증량보급-25레벨
     item_ids: 41-30
     gift: 30010-1
-    content: prize-20120083
   }
   {
     id: 120084
-    name: prize-10120084
+    name: 증량보급-35레벨
     item_ids: 41-30,1500092-1
-    content: prize-20120084
   }
   {
     id: 120085
-    name: prize-10120085
+    name: 증량보급-45레벨
     gem: 680
     item_ids: 1500093-1
-    content: prize-20120085
   }
   {
     id: 121001
@@ -45605,21 +45666,18 @@
   }
   {
     id: 130031
-    name: prize-10130031
+    name: 전선협약 추가보상-11
     item_ids: 1500094-1
-    content: prize-20130031
   }
   {
     id: 130032
-    name: prize-10130032
+    name: 육로물자 전시 보상-11
     item_ids: 602-1,1500091-1,1500092-1,505-680
-    content: prize-20130032
   }
   {
     id: 130033
-    name: prize-10130033
+    name: 공수물자 전시 보상-11
     item_ids: 10606-300,200028-1,2343-1
-    content: prize-20130033
   }
   {
     id: 140001
@@ -46139,51 +46197,43 @@
   }
   {
     id: 140101
-    name: prize-10140101
+    name: 미획득 인형 확정 코드-Kar98k
     gun_id: "46"
-    content: prize-20140101
   }
   {
     id: 140102
-    name: prize-10140102
+    name: 미획득 인형 확정 코드-카르카노 M91/38
     gun_id: "198"
-    content: prize-20140102
   }
   {
     id: 140103
-    name: prize-10140103
+    name: 미획득 인형 확정 코드-네게브
     gun_id: "112"
-    content: prize-20140103
   }
   {
     id: 140104
-    name: prize-10140104
+    name: 미획득 인형 확정 코드-89식 소총
     gun_id: "290"
-    content: prize-20140104
   }
   {
     id: 140105
-    name: prize-10140105
+    name: 미획득 인형 확정 코드-SR-3MP
     gun_id: "135"
-    content: prize-20140105
   }
   {
     id: 140106
-    name: prize-10140106
+    name: 미획득 인형 확정 코드-HS.50
     gun_id: "348"
-    content: prize-20140106
   }
   {
     id: 140107
-    name: prize-10140107
+    name: 미획득 인형 확정 코드-A-545
     gun_id: "356"
-    content: prize-20140107
   }
   {
     id: 140108
-    name: prize-10140108
+    name: 미획득 인형 확정 코드-MG4
     gun_id: "125"
-    content: prize-20140108
   }
   {
     id: 150001

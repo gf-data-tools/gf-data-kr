@@ -39061,6 +39061,171 @@
     rotate: "3"
   }
   {
+    id: 38601
+    name: DP-12 - 위기관리 사명
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: DP-12의 포스터
+    code: poster_OfficeLady2023_DP12
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38602
+    name: LTLX7000 - 온라인 레이디
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: LTLX7000의 포스터
+    code: poster_OfficeLady2023_LTLX7000
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38603
+    name: 그리즐리 MkV - 근무지 엘리트
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 그리즐리 MkV의 포스터
+    code: poster_OfficeLady2023_Grizzly
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38604
+    name: Savage 99 - 꿈 그리는 일상
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Savage 99의 포스터
+    code: poster_OfficeLady2023_Savage99
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38605
+    name: AK-12 - 루치아
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: AK-12의 포스터
+    code: poster_OfficeLady2023_AK12
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38606
+    name: AN-94 - 안티아
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: AN-94의 포스터
+    code: poster_OfficeLady2023_AN94
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38607
+    name: AK-15 - 에르빈
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: AK-15의 포스터
+    code: poster_OfficeLady2023_AK15
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38608
+    name: RPK-16 - 레나테
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: RPK-16의 포스터
+    code: poster_OfficeLady2023_RPK16
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38609
+    name: G36 - 모카 협업자
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: G36의 포스터
+    code: poster_OfficeLady2023_G36
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38610
+    name: 6P62 - 6P62의 오퍼
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 6P62의 포스터
+    code: poster_OfficeLady2023_6P62
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38612
+    name: StG44 - 명탐정 조수
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: StG44의 포스터
+    code: poster_OfficeLady2023_STG44
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 40001
     name: 구호소벽지
     classes: 400
@@ -43422,13 +43587,13 @@
   }
   {
     id: 330010
-    name: furniture-10330010
+    name: 나강 리볼버 - 푸른 파도의 나팔수
     classes: 300
     type: 303
     space: "3,6,1,1,1,0"
     deco_rate: 750
     decompose_gift: 100003
-    description: furniture-20330010
+    description: 나강 리볼버의 포스터
     code: poster_BattlePass_M1895
     texture_type: "1"
     sorting: "5"

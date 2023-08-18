@@ -643,7 +643,7 @@
     prize_id: 150086
     due_time: 2023/11/14  00:00:00
     due_prize_id: 140073
-    present_info: present-11500088
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
   }
   {
     item_id: 1500089
@@ -651,7 +651,7 @@
     prize_id: 150087
     due_time: 2023/11/14  00:00:00
     due_prize_id: 140074
-    present_info: present-11500089
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
   }
   {
     item_id: 1500090
@@ -659,7 +659,7 @@
     prize_id: 150088
     due_time: 2023/11/14  00:00:00
     due_prize_id: 140075
-    present_info: present-11500090
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
   }
   {
     item_id: 1500091
@@ -667,7 +667,7 @@
     prize_id: 140001
     due_time: 2023/10/09  00:00:00
     due_prize_id: 140016
-    present_info: present-11500091
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
   }
   {
     item_id: 1500092
@@ -675,7 +675,7 @@
     prize_id: 140003
     due_time: 2023/10/09  00:00:00
     due_prize_id: 140016
-    present_info: present-11500092
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
   }
   {
     item_id: 1500093
@@ -683,7 +683,7 @@
     drop_package_id: 2044
     due_time: 2023/10/09  00:00:00
     due_prize_id: 140016
-    present_info: present-11500093
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트 중 무작위 아이템을 획득합니다.
   }
   {
     item_id: 1500094
@@ -691,6 +691,6 @@
     drop_package_id: 945
     due_time: 2023/10/09  00:00:00
     due_prize_id: 140016
-    present_info: present-11500094
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트 중 무작위 아이템을 획득합니다.
   }
 ]

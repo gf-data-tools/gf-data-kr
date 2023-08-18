@@ -4,6 +4,7 @@
     name: 지뢰생성
     code: dilei_chuxian
     description: 지뢰
+    priority: 1
     duration: 1
     size: 0.8
     sound: bb_noel_nachujiguanqiang
@@ -14,6 +15,7 @@
     name: 지뢰준비
     code: dilei_daiji
     description: 지뢰
+    priority: 1
     size: 0.8
     offset: "0,0"
   }
@@ -22,6 +24,7 @@
     name: 지뢰폭파
     code: dilei_baoza
     description: 폭파
+    priority: 1
     duration: 1
     size: 0.8
     sound: BT_grenade_explode
@@ -32,6 +35,7 @@
     name: 미사일
     code: BulletMove
     description: 미사일
+    priority: 1
     duration: 1
     size: 1
     sound: BT_MissileExplo
@@ -42,6 +46,7 @@
     name: 요새생성
     code: Gsyaojing_buzhi
     description: 요새
+    priority: 1
     duration: 1
     size: 1
     sound: bb_noel_nachujiguanqiang
@@ -61,6 +66,7 @@
     name: 미사일 홈
     code: daodanchao
     description: 미사일 홈
+    priority: 1
     size: 0.6
     offset: "0,0"
   }
@@ -69,6 +75,7 @@
     name: 미사일 홈_준비
     code: daodanchao_daiji
     description: 미사일 홈
+    priority: 1
     size: 0.6
     sound: bb_noel_nachujiguanqiang
     offset: "0,0"
@@ -78,6 +85,7 @@
     name: 카구야 특수 효과
     code: ui_glass
     description: 거울
+    priority: 1
     duration: 2
     delay: 1
     size: 1.5
@@ -89,6 +97,7 @@
     name: 카구야 폭발
     code: dilei_baoza
     description: 폭발
+    priority: 1
     duration: 1
     delay: 1.6
     size: 0.8
@@ -100,6 +109,7 @@
     name: 꽃잎 출현
     code: DJmax_huaban
     description: 꽃잎
+    priority: 1
     size: 1
     offset: "0,0"
   }
@@ -108,6 +118,7 @@
     name: 복숭아 이펙트
     code: 2019_DH_YJ_xiangrui_1
     description: 복숭아 이펙트
+    priority: 1
     size: 1
     offset: "0,0"
   }
@@ -116,6 +127,7 @@
     name: 복숭아 습득 이펙트
     code: 2019_DH_YJ_xiangrui_3
     description: 복숭아 이펙트
+    priority: 1
     size: 1
     offset: "0,0"
   }
@@ -228,6 +240,7 @@
     name: 나비 이펙트
     code: jy_hudie
     description: 나비 이펙트
+    priority: 1
     size: 0.3
     offset: "0,150"
   }
@@ -414,6 +427,7 @@
     name: 모래춤 요정 이펙트
     code: bian_sz
     description: 모래춤 요정 이펙트
+    priority: 1
     size: 0.1
     offset: "0,0"
   }
