@@ -75,8 +75,8 @@
   }
   {
     id: 9
-    name: equip_group-10000009
-    des: equip_group-20000009
+    name: Макарова
+    des: 풀세트 전용 장비를 착용한 마카로프는 전장에서 더 정밀한 작전 지휘가 가능해집니다.
     code: EgroupPM
     equip_unit: "180,238,351"
     group_skill: 2:778217,3:759219
@@ -84,11 +84,29 @@
   }
   {
     id: 10
-    name: equip_group-10000010
-    des: equip_group-20000010
+    name: Товарищи
+    des: 세트를 맞춘 PPSh-41은 다른 인형과 더 밀접하게 협동하며 영광을 거머질 수 있습니다.
     code: EgroupPPSh41
     equip_unit: "352,272,219"
     group_skill: 2:778217,3:759224
     fit_gun: "20021"
+  }
+  {
+    id: 11
+    name: 블랙 퀸
+    des: 풀 세트 장비를 갖춘 PPK는 적에게 고통을 마음껏 선사할 수 있습니다.
+    code: EgroupPPK
+    equip_unit: "155,284,355"
+    group_skill: 2:778217,3:759242
+    fit_gun: "20010"
+  }
+  {
+    id: 12
+    name: 404 커스텀 HK416
+    des: 404소대 커스터마이징 HK416 전용 세트, HK416의 작전 능력을 크게 높일 수 있습니다.
+    code: EgroupHK416KMod
+    equip_unit: "106,356,159"
+    group_skill: 2:778217,3:759236
+    fit_gun: "20065"
   }
 ]

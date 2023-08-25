@@ -6733,6 +6733,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 6:1231
     clear_cycle: 1
   }
   {
@@ -6740,6 +6741,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 4:1232
     clear_cycle: 1
   }
   {
@@ -6747,6 +6749,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 6:1233
     clear_cycle: 1
   }
   {
@@ -6754,6 +6757,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 4:1234
     clear_cycle: 1
   }
   {
@@ -6761,6 +6765,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 6:1235
     clear_cycle: 1
   }
   {
@@ -6768,6 +6773,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 4:1236
     clear_cycle: 1
   }
   {
@@ -6775,6 +6781,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 6:1237
     clear_cycle: 1
   }
   {
@@ -6782,6 +6789,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 6:1238
     clear_cycle: 1
   }
   {
@@ -6789,6 +6797,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 4:1239
     clear_cycle: 1
   }
   {
@@ -6796,6 +6805,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 4:1240
     clear_cycle: 1
   }
   {
@@ -6803,6 +6813,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 4:1241
     clear_cycle: 1
   }
   {
@@ -6810,6 +6821,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 6:1242
     clear_cycle: 1
   }
   {
@@ -6817,6 +6829,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 4:1243
     clear_cycle: 1
   }
   {
@@ -6824,6 +6837,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 6:1244
     clear_cycle: 1
   }
   {
@@ -6831,6 +6845,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 4:1245
     clear_cycle: 1
   }
   {
@@ -6838,6 +6853,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 6:1246
     clear_cycle: 1
   }
   {
@@ -6845,6 +6861,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 4:1247
     clear_cycle: 1
   }
   {
@@ -6852,6 +6869,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 6:1248
     clear_cycle: 1
   }
   {
@@ -6859,6 +6877,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 6:1249
     clear_cycle: 1
   }
   {
@@ -6866,6 +6885,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 4:1250
     clear_cycle: 1
   }
   {
@@ -6873,6 +6893,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 4:1251
     clear_cycle: 1
   }
   {
@@ -6880,6 +6901,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 4:1252
     clear_cycle: 1
   }
   {
@@ -6887,6 +6909,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 6:1253
     clear_cycle: 1
   }
   {
@@ -6894,6 +6917,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 4:1254
     clear_cycle: 1
   }
   {
@@ -6901,6 +6925,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 6:1255
     clear_cycle: 1
   }
   {
@@ -6908,6 +6933,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 6:1256
     clear_cycle: 1
   }
   {
@@ -6915,6 +6941,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 4:1257
     clear_cycle: 1
   }
   {
@@ -6922,6 +6949,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 4:1258
     clear_cycle: 1
   }
   {
@@ -6929,6 +6957,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 6:1259
     clear_cycle: 1
   }
   {
@@ -6936,6 +6965,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 6:1260
     clear_cycle: 1
   }
   {
@@ -6943,6 +6973,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 4:1261
     clear_cycle: 1
   }
   {
@@ -6950,6 +6981,7 @@
     type: 1
     start_time: 2023-07-03 00:00:00
     end_time: 2023-07-21 15:00:00
+    drop_ids: 4:1262
     clear_cycle: 1
   }
   {
@@ -7251,6 +7283,132 @@
     type: 1
     start_time: 2023-07-17 15:00:00
     end_time: 2023-08-11 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 888
+    type: 1
+    start_time: 2023-08-21 15:00:00
+    end_time: 2036-02-09 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 889
+    type: 1
+    start_time: 2023-08-21 15:00:00
+    end_time: 2036-02-09 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 890
+    type: 1
+    start_time: 2023-08-21 15:00:00
+    end_time: 2036-02-09 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 891
+    type: 1
+    start_time: 2023-08-21 15:00:00
+    end_time: 2036-02-09 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 892
+    type: 1
+    start_time: 2023-08-21 15:00:00
+    end_time: 2036-02-09 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 893
+    type: 1
+    start_time: 2023-08-21 15:00:00
+    end_time: 2036-02-09 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 894
+    type: 1
+    start_time: 2023-08-21 15:00:00
+    end_time: 2036-02-09 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 895
+    type: 1
+    start_time: 2023-08-21 15:00:00
+    end_time: 2036-02-09 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 896
+    type: 1
+    start_time: 2023-08-21 15:00:00
+    end_time: 2036-02-09 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 897
+    type: 1
+    start_time: 2023-08-21 15:00:00
+    end_time: 2036-02-09 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 898
+    type: 1
+    start_time: 2023-08-21 15:00:00
+    end_time: 2036-02-09 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 899
+    type: 1
+    start_time: 2023-08-21 15:00:00
+    end_time: 2036-02-09 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 900
+    type: 1
+    start_time: 2023-08-21 15:00:00
+    end_time: 2036-02-09 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 901
+    type: 1
+    start_time: 2023-08-21 15:00:00
+    end_time: 2036-02-09 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 902
+    type: 1
+    start_time: 2023-08-21 15:00:00
+    end_time: 2036-02-09 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 903
+    type: 1
+    start_time: 2023-08-21 15:00:00
+    end_time: 2036-02-09 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 904
+    type: 1
+    start_time: 2023-08-21 15:00:00
+    end_time: 2036-02-09 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 905
+    type: 1
+    start_time: 2023-08-21 15:00:00
+    end_time: 2036-02-09 15:00:00
     clear_cycle: 1
   }
   {
