@@ -13205,6 +13205,24 @@
     rank: 1
   }
   {
+    id: 2360
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_AUG
+    item_name: AUG 아이콘
+    introduction: AUG 아이콘
+    rank: 1
+  }
+  {
+    id: 2361
+    type: 5
+    arg: "1"
+    code: card_friendmall_AUG
+    item_name: 카드배경: 새하얀 용기
+    introduction: 카드배경: 새하얀 용기
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -17384,6 +17402,15 @@
     code: profileFrame_BattlePass_M1895
     item_name: 액자·바닷가의 항적
     introduction: 액자·바닷가의 항적
+    rank: 1
+  }
+  {
+    id: 200029
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_AUG
+    item_name: 액자·영원한 아름다움
+    introduction: 액자·영원한 아름다움
     rank: 1
   }
   {

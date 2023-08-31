@@ -11021,4 +11021,36 @@
     obtain_ids: "3096"
     sp_description: 제대 화력+5%
   }
+  {
+    id: 357
+    name: TC 고성능 외골격
+    description:
+      '''
+      회피+<dodge>
+      스킬 강화$컨텐더 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    dodge: "12,18"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: 人形_特殊_竞争者
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "183"
+    equip_introduction: 컨텐더를 위해 설계한 외골격. 사격 안정성을 높이는 동시에 고강도 작전에 필요한 운동 성능을 지녔습니다.
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: dodge:1000
+    passive_skill: "759246"
+    max_level: 10
+    auto_select_id: 20066
+    is_show: 1
+    obtain_ids: "3089"
+  }
 ]
