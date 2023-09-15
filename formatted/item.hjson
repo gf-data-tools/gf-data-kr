@@ -13223,6 +13223,24 @@
     rank: 1
   }
   {
+    id: 2362
+    type: 5
+    arg: "1"
+    code: card_BattlePass_SPAS15
+    item_name: 카드배경: 이 맛을 즐겨라
+    introduction: 카드배경: 이 맛을 즐겨라
+    rank: 1
+  }
+  {
+    id: 2363
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_SPAS15
+    item_name: SPAS-15-피츠버거 레이디
+    introduction: SPAS-15-피츠버거 레이디
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -17161,6 +17179,22 @@
     rank: 1
   }
   {
+    id: 140023
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *유탄포수
+    rank: 1
+  }
+  {
+    id: 140024
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *유탄포수
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -17411,6 +17445,15 @@
     code: profileFrame_friendmall_AUG
     item_name: 액자·영원한 아름다움
     introduction: 액자·영원한 아름다움
+    rank: 1
+  }
+  {
+    id: 200030
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_SPAS15
+    item_name: 액자·버거 향 감별사
+    introduction: 액자·버거 향 감별사
     rank: 1
   }
   {
@@ -18454,6 +18497,46 @@
     code: package_random
     item_name: 전선협약-추가보상
     introduction: 전선협약-트레저 베이의 여름 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500095
+    type: 15
+    arg: "1500095"
+    code: package_choose
+    item_name: 기초장비 선택 코드
+    introduction: 전선협약-왕소버거의 습격 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500096
+    type: 15
+    arg: "1500096"
+    code: package_choose
+    item_name: 탄약 장비 선택 코드
+    introduction: 전선협약-왕소버거의 습격 보상, 지정 리스트에서 원하는 인형 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500097
+    type: 15
+    arg: "1500097"
+    code: package_random
+    item_name: 미획득 인형 확정 코드
+    introduction: 전선협약-왕소버거의 습격 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500098
+    type: 15
+    arg: "1500098"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-왕소버거의 습격 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
     rank: 1
     sort: -1
   }

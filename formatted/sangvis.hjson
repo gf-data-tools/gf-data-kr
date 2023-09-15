@@ -1457,6 +1457,67 @@
     recommended_team_ids: "6"
   }
   {
+    id: 1025
+    name: 나르시스
+    en_name: Narciss
+    code: BossNarciss
+    introduce: 나르시스, 전투 특화형 니토, 과거 페러데우스의 엘리트로 부유검과 근접 돌격으로 적을 무너뜨리는 것이 특기다. 그녀의 전투 효율을 극대화하기 위해 페러데우스는 정신면의 부담을 무시하고 그녀에게 파워와 스피드를 겸비한 의체와 무기를 만들어주었다. 높은 정신적 및 육체적 부담에 장시간 시달리며 나르시스는 공감력을 상실해 선악관도 뒤틀려, 철저한 살육병기가 되어버렸다. 하지만 병기가 살육의지를 부여한 이에게서 떠났을 때, 그 마음이 평온해질 날이 올지도 모른다.
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: 미정
+    forces: 3
+    type: 1
+    character: "2,4,6"
+    formation: 1
+    resolution: 125
+    shape_scale: "80,120"
+    ap_cost: 10
+    rank: 5
+    skill1: 750870
+    skill2_type: 1
+    skill2: 750872
+    skill3: 750873
+    skill_advance: 750874
+    skill_resolution: "750871"
+    passive_skill2: "750876,750878,750879"
+    dynamic_passive_skill: "750877,750880,750883,750884"
+    normal_attack: 750875
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 105
+    ratio_pow: 170
+    ratio_rate: 60
+    ratio_hit: 150
+    ratio_dodge: 130
+    armor_piercing: 180
+    crit: 40
+    crit_dmg: 200
+    eat_ratio: 100
+    ratio_speed: 18
+    attack_range_type: 2
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 8
+    effect_grid_effect: 4:1,20;2,20
+    type_chip1: "1,2,3"
+    type_chip2: "1,2,3"
+    type_chip3: "1,2,3"
+    illustration_id: 215
+    ai: 11002
+    is_additional: 1
+    launch_time: 2016-05-20 00:00:00
+    display_enemy_team: 930026
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    org_id: 10603
+    gun_tag_ids: "117,154,109,124"
+    ratio_rec: 105
+    recommended_team_ids: "8"
+  }
+  {
     id: 2001
     name: 브루트
     en_name: Brute
