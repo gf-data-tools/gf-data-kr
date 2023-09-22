@@ -541,6 +541,19 @@
     source_description: 러프베리체스 뽑기 보상
   }
   {
+    id: 55
+    name: 등불을 켜고
+    description: 등불 찬란하고, 맞부딪히는 술잔. 우정을 나누고 함께 취하거나 사냥에 나서든, 모두 하늘하늘한 치마자락에 녹아들어 샘물처럼 흐르는 연회가 되리.
+    group_id: "97"
+    code: commander_5531_icon
+    bonus_plastic: "130022"
+    skill_id: 110
+    path: CLASS55
+    is_class: 1
+    des_year: "2023"
+    source: 1
+  }
+  {
     id: 99
     name: 거짓말 마스크
     description: 내 생각을 감추고, 내 바람을 드러낸다.

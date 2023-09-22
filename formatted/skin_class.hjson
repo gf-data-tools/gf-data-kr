@@ -455,6 +455,11 @@
     name: 인턴 신고식
   }
   {
+    id: 92
+    theme_type: 9
+    name: 심금을 울리는 춤
+  }
+  {
     id: 99
     theme_type: 9
     name: 기타

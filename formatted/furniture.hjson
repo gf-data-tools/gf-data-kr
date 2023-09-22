@@ -19467,6 +19467,42 @@
     interact_point_offset: *0,0.06,0
   }
   {
+    id: 7242
+    name: 흔들리는 하늘
+    classes: 72
+    type: 201
+    space: "7,4,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: '''"시소"라는 이름의 어트랙션, 안전 문제로 인간들이 철거했지만. 기지 안의 스릴을 좋아하는 꼬맹이 인형들에겐 체력을 소모하기 최고의 놀이감이다. "뭐? 아키텍트가 이걸 투석기로 쓸 셈이라고?! 빨리 도망쳐!!"'''
+    code: qjyd_20230901_deco_1,qjyd_20230901_deco_2,qjyd_20230901_deco_3
+    texture_type: "2,2,2"
+    sorting: "20,10,0"
+    offset: "0,0,0|0.010427,0.062562,0|0,0.062562,0"
+    rotate: "2,2,2"
+    interact_point: "872421,872422"
+    interact_point_offset: "0,0,0|0,0,0"
+    touch_area: "4,4,0"
+  }
+  {
+    id: 7243
+    name: 잠꾸러기 심연
+    classes: 72
+    type: 201
+    space: "6,2,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 흉악한 외모의 거대 상어가 의외로 기지 인형들의 뜨거운 사랑을 받았습니다. 머리를 집어넣으면 심해에 빠진 듯한 고요하고 잔잔한 수면에 들 수 있다고 합니다, 지휘관 같은 인간도 이 유행에 거스를 순 업죠.
+    code: qjyd_20230902_deco
+    texture_type: "2"
+    sorting: "20"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point: "87243"
+    interact_point_offset: *-2.567,0.911,0.000
+    touch_area: "4,4,0"
+  }
+  {
     id: 7301
     name: 아쿠아리움 - 아크릴 바닥
     classes: 73
@@ -39234,6 +39270,96 @@
     decompose_gift: 100003
     description: StG44의 포스터
     code: poster_OfficeLady2023_STG44
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38701
+    name: PA-15 - 브라이트 스텝 나이트
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: PA-15의 포스터
+    code: poster_Dancer2023_PA15
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38702
+    name: QBU-191 - 싱잉 포 유
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: QBU-191의 포스터
+    code: poster_Dancer2023_QBU191
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38703
+    name: 류 소총 - 동방가인
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 류 소총의 포스터
+    code: poster_Dancer2023_GeneralLiu
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38704
+    name: G28 - 꽃과 바람의 시
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: G28의 포스터
+    code: poster_Dancer2023_G28
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38705
+    name: M14 - 구름을 끌고 론도
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M14의 포스터
+    code: poster_Dancer2023_M14
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38706
+    name: RMB-93 - 칵테일 키스
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: RMB-93의 포스터
+    code: poster_Dancer2023_RMB93
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

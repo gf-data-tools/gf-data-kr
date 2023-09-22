@@ -23598,17 +23598,17 @@
   {
     id: 8536
     name: 전선협약68
-    item_ids: 140021-1
+    item_ids: 140023-1
   }
   {
     id: 8537
     name: 전선협약98
-    item_ids: 140022-1,10606-300,200030-1,2362-1
+    item_ids: 140024-1,10606-300,200030-1,2362-1
   }
   {
     id: 8538
     name: 전선협약30
-    item_ids: 140022-1,10606-300,200030-1,2362-1
+    item_ids: 140024-1,10606-300,200030-1,2362-1
   }
   {
     id: 8539
@@ -28421,6 +28421,42 @@
       '''
   }
   {
+    id: 12348
+    name: 12.7mm 개량탄
+    equip_ids: "361"
+    content:
+      '''
+      <color=#ffb400>최대 교정 및 강화 기준</color>
+      화력+20
+      관통+200
+      6P62 전용
+      '''
+  }
+  {
+    id: 12349
+    name: Beretta 특제칩셋
+    equip_ids: "363"
+    content:
+      '''
+      <color=#ffb400>최대 교정 및 강화 기준</color>
+      화력+18 사속+25
+      치명상-50%
+      AR70 전용
+      '''
+  }
+  {
+    id: 12350
+    name: MAS 특수탄
+    equip_ids: "362"
+    content:
+      '''
+      <color=#ffb400>최대 교정 및 강화 기준</color>
+      화력+5
+      관통+500
+      AAT-52 전용
+      '''
+  }
+  {
     id: 12401
     name: 사탕 주머니
     item_ids: 7001-1
@@ -28701,6 +28737,24 @@
     name: 잉어의 꿈
     item_ids: 7047-1
     content: 고집센 소녀만이 붉은 꼬리 금붕어의 선언에 맞장구 칩니다. "하늘은 호수가 비친 모습일 뿐이야."
+  }
+  {
+    id: 12448
+    name: 진심의 연모
+    item_ids: 7048-1
+    content: 상대를 본 첫 0.03초 안에 시야가 아름다운 빛으로 가득해진다면 그것이 한눈에 반했다는 뜻이다.
+  }
+  {
+    id: 12449
+    name: 율동의 차원
+    item_ids: 7049-1
+    content: 가장 간단한 디지털화된 감정에 가장 순수한 마음을 담아서, 8비트 픽셀이 바로 이것이 줄 수 있는 전부... 마인드맵 심층에서 우러난 사랑.
+  }
+  {
+    id: 12450
+    name: 떠도는 몽경
+    item_ids: 7050-1
+    content: 오직 환상속에서만 끝이 안 보이는 꽃밭을 볼 수 있는 게 아니고, 환상속에서만 이렇게 알록달록한 세상을 볼 수 있는 게 아니다. 꿈 밖에서도 볼 수 있는 그곳, 바로 그대의 곁에서.
   }
   {
     id: 12501
@@ -44559,6 +44613,54 @@
     icon: chessgahsa_95451
   }
   {
+    id: 95511
+    name: 매너 오브 맨
+    send_limit: 1
+    commander_uniform: "5511"
+  }
+  {
+    id: 95512
+    name: 시크한 품격
+    send_limit: 1
+    commander_uniform: "5512"
+  }
+  {
+    id: 95520
+    name: 눈부신 자본
+    send_limit: 1
+    commander_uniform: "5520"
+  }
+  {
+    id: 95531
+    name: 황금빛 시절
+    send_limit: 1
+    commander_uniform: "5531"
+  }
+  {
+    id: 95532
+    name: 꽃다발 향기
+    send_limit: 1
+    commander_uniform: "5532"
+  }
+  {
+    id: 95540
+    name: 비장의 개인기
+    send_limit: 1
+    commander_uniform: "5540"
+  }
+  {
+    id: 95551
+    name: 위빙
+    send_limit: 1
+    commander_uniform: "5551"
+  }
+  {
+    id: 95552
+    name: 사이드 웨이
+    send_limit: 1
+    commander_uniform: "5552"
+  }
+  {
     id: 99999
     name: 신입 지휘관 첫 충전 보상
     mp: 1000
@@ -45667,6 +45769,16 @@
     id: 121005
     name: 5차 샤이닝 스테이지
     furniture: "20004"
+  }
+  {
+    id: 121006
+    name: 흔들리는 하늘
+    furniture: "7242"
+  }
+  {
+    id: 121007
+    name: 잠꾸러기 심연
+    furniture: "7243"
   }
   {
     id: 130001
