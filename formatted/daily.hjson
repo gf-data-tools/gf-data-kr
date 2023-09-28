@@ -54,8 +54,8 @@
     mission_type: 2
     type: squad_data_analyse
     count: 4
-    title: 인프라: 파츠 획득
-    content: 기동장갑 파츠를 6개 획득
+    title: 인프라: 정보분석
+    content: 정보분석 4회.
     function_control_id: 15
     prize_id: 8308
     exchange_prize_id: 8315
@@ -148,8 +148,8 @@
     mission_type: 4
     type: complete_squad_daily
     count: 1
-    title: 군수: 모의훈련
-    content: 혼합훈련 3회 완료.
+    title: 군수: 정보수집
+    content: 정보임무 1개 완수.
     function_control_id: 15
     prize_id: 8308
     exchange_prize_id: 8315
@@ -159,8 +159,8 @@
     mission_type: 4
     type: sangvis_exercise
     count: 3
-    title: 군수: 지원 파견
-    content: 자율작전 1회 완료.
+    title: 군수: 모의훈련
+    content: 혼합훈련 3회 완료.
     function_control_id: 21
     prize_id: 8308
     exchange_prize_id: 8315
@@ -170,8 +170,8 @@
     mission_type: 4
     type: auto_battle
     count: 1
-    title: 협력: 연합행동
-    content: 친구에게서 공유전지 5회 받기.
+    title: 군수: 지원 파견
+    content: 자율작전 1회 완료.
     function_control_id: 15
     prize_id: 8308
     exchange_prize_id: 8315
@@ -182,7 +182,7 @@
     type: from_friend_build_coin
     count: 5
     title: 협력: 연합행동
-    content: 친구 숙소 5회 칭찬.
+    content: 친구에게서 공유전지 5회 받기.
     prize_id: 8308
     exchange_prize_id: 8315
   }
@@ -192,7 +192,7 @@
     type: like
     count: 5
     title: 협력: 연합행동
-    content: 친구의 지원제대 2회 사용.
+    content: 친구 숙소 5회 칭찬.
     prize_id: 8308
     exchange_prize_id: 8315
   }
@@ -201,8 +201,8 @@
     mission_type: 5
     type: borrow_friend_team
     count: 2
-    title: 기타: 구역탐사
-    content: 전진기지에서 탐색 1회 완료.
+    title: 협력: 연합행동
+    content: 친구의 지원제대 2회 사용.
     prize_id: 8308
     exchange_prize_id: 8315
   }
@@ -211,8 +211,8 @@
     mission_type: 6
     type: explore
     count: 1
-    title: 기타: 통합회수
-    content: 통합회수 1회.(일반회수, 협력회수 불문)
+    title: 기타: 구역탐사
+    content: 전진기지에서 탐색 1회 완료.
     function_control_id: 17
     prize_id: 8308
     exchange_prize_id: 8315
@@ -222,8 +222,8 @@
     mission_type: 6
     type: sangvis_daily_retrieval
     count: 1
-    title: 기타: 인형 소통
-    content: 하트 5개 수집.
+    title: 기타: 통합회수
+    content: 통합회수 1회.(일반회수, 협력회수 불문)
     function_control_id: 21
     prize_id: 8308
     exchange_prize_id: 8315
@@ -234,7 +234,7 @@
     type: heart_collect
     count: 5
     title: 기타: 인형 소통
-    content: 인형 또는 혼합세력유닛에게 선물 1회 주기.
+    content: 하트 5개 수집.
     prize_id: 8308
     exchange_prize_id: 8315
   }
@@ -243,8 +243,8 @@
     mission_type: 6
     type: gift
     count: 1
-    title: daily-10000024
-    content: daily-20000024
+    title: 기타: 인형 소통
+    content: 인형 또는 혼합세력유닛에게 선물 1회 주기.
     prize_id: 8308
     exchange_prize_id: 8315
   }

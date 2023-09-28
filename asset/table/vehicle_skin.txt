@@ -192,3 +192,15 @@ vehicle_skin-10010104,심판 - 정글 위장
 vehicle_skin-20010104,소구경 포탄 발사기//c 심판과 세팅된 정글 위장으로 도색.
 vehicle_skin-10010105,심판 - 정글 위장
 vehicle_skin-20010105,전투 중 정밀 타격 제공//c 심판과 세팅된 정글 위장으로 도색.
+vehicle_skin-10011100,기린 도면
+vehicle_skin-20011100,우리는 적을 떨게 만드는 사자. 우리는 승리를 가져오는 기린.
+vehicle_skin-10011101,기린
+vehicle_skin-20011101,기린 세트의 유탄발사기//c 상황 대응에 유연한 다목적 발사기
+vehicle_skin-10011102,기린
+vehicle_skin-20011102,기린 세트의 연막발사기//c 적을 방해하는 연막 생성。
+vehicle_skin-10011103,기린
+vehicle_skin-20011103,기린 세트의 레이저 제압 장치//c 적의 조준 설비를 교란。
+vehicle_skin-10011104,기린
+vehicle_skin-20011104,기린 세트의 미사일 런처 MK1//c 전투 중 정밀 타격 제공。
+vehicle_skin-10011105,기린
+vehicle_skin-20011105,기린 세트의 기총포//c 소구경 포탄 발사기.
