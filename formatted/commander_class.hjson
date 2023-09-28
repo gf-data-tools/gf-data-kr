@@ -554,6 +554,18 @@
     source: 1
   }
   {
+    id: 56
+    name: 전장 점호
+    description: 그것은 활과 칼에 묻은 하얀 눈꽃, 성벽에 드리운 먹구름... 출정하기 전 두려움을 가슴에 묻어두고 사명을 등에 짊어져야 한다.
+    group_id: "98"
+    code: commander_5640_icon
+    path: CLASS56
+    is_class: 1
+    des_year: "2023"
+    source: 2
+    source_description: 연휴 출석
+  }
+  {
     id: 99
     name: 거짓말 마스크
     description: 내 생각을 감추고, 내 바람을 드러낸다.

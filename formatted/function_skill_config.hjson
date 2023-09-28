@@ -114,6 +114,7 @@
     description: 전진기지 탐색 복귀 보상 수량 {0}% 상승 {1}
     arguments: 5
     max_level: 3
+    is_show: 1
     type: 1
     function_skill: exploration_reward_up
   }
@@ -125,6 +126,7 @@
     description: 전진기지 탐색 중도 보상 출현 확률 {0}% 상승{1}
     arguments: 1
     max_level: 5
+    is_show: 1
     type: 1
     function_skill: exploration_mid_rate_up
   }

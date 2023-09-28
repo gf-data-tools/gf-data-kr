@@ -11150,4 +11150,38 @@
     is_show: 1
     obtain_ids: "3003"
   }
+  {
+    id: 364
+    name: 순찰 헬멧
+    description:
+      '''
+      이동 속도+<speed>
+      장갑+<armor>$M870 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    speed: "3,3"
+    armor: "4,8"
+    retire_mp: 2
+    retire_ammo: 2
+    retire_mre: 3
+    retire_part: 3
+    code: 人形_特殊_M870
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "229"
+    equip_introduction: M870가 과거에 고속도로에서 순찰할 때 자주 썼다고 말하는 헬멧. 공무집행 시 어느 정도의 위협 효과도 있다고 합니다.
+    powerup_mp: 0.23
+    powerup_ammo: 0.23
+    powerup_mre: 0.33
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: armor:500
+    passive_skill: "759267"
+    max_level: 10
+    auto_select_id: 20069
+    is_show: 1
+    obtain_ids: "3090"
+  }
 ]

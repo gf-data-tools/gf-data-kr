@@ -122,16 +122,16 @@
   {
     id: 402
     type: 2
-    title: 중장비
-    sub_title: 중장비 부대가 준비됐습니다, 바로 개발하러 이동하죠.
+    title: 화력소대
+    sub_title: 화력소대 준비 완료. 어서 개발하러 가죠.
     tutorial_manual_id: 501
     rank: 5
   }
   {
     id: 403
     type: 2
-    title: 전투 지원
-    sub_title: 전투가 힘겨운가요? 중장비의 지원으로 판세를 뒤집을 수 있습니다.
+    title: 전장지원
+    sub_title: 전투가 힘드신가요? 화력소대의 전장 지원으로 판을 뒤집을 수 있습니다.
     tutorial_manual_id: 503
     rank: 4
   }

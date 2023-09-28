@@ -13295,6 +13295,33 @@
     rank: 1
   }
   {
+    id: 2370
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_WA2000
+    item_name: WA2000 아이콘
+    introduction: WA2000 아이콘
+    rank: 1
+  }
+  {
+    id: 2371
+    type: 5
+    arg: "1"
+    code: card_friendmall_WA2000
+    item_name: 카드배경: 코드넘버 47
+    introduction: 카드배경: 코드넘버 47
+    rank: 1
+  }
+  {
+    id: 2372
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_BossNarciss
+    item_name: 나르시스 아이콘
+    introduction: 나르시스 아이콘
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -16241,6 +16268,34 @@
     daily_limit: "60"
   }
   {
+    id: 100197
+    type: 4
+    arg: "100197"
+    code: Nova_medal_black
+    item_name: 노바 훈장
+    introduction: 노바 훈장
+    rank: 1
+  }
+  {
+    id: 100198
+    type: 4
+    arg: "100198"
+    code: Platinum_medal_black
+    item_name: 백금 훈장
+    introduction: 백금 훈장
+    rank: 1
+    detail_introduction: item-30100198
+  }
+  {
+    id: 100199
+    type: 4
+    arg: "100199"
+    code: Bumdle_October2
+    item_name: 뜻깊은 세월 상자
+    introduction: 뜻깊은 세월 상자
+    rank: 1
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -17564,6 +17619,24 @@
     code: profileFrame_BattlePass_SPAS15
     item_name: 액자·버거 향 감별사
     introduction: 액자·버거 향 감별사
+    rank: 1
+  }
+  {
+    id: 200031
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_WA2000
+    item_name: 액자·자주색의 선물
+    introduction: 액자·자주색의 선물
+    rank: 1
+  }
+  {
+    id: 900030
+    type: 4
+    arg: "100030"
+    code: Nova_medal
+    item_name: 노바 훈장
+    introduction: 노바 훈장(일본djmax)
     rank: 1
   }
   {

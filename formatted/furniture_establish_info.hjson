@@ -2949,9 +2949,9 @@
   }
   {
     establish_id: "50005"
-    establish_name: 정보 센터 전선 중
+    establish_name: 정보센터 장식테이블
     room_id: "5"
-    description: 정보 센터 전선 중
+    description: 정보센터 장식테이블
     furniture_id: "40051"
     update_furniture_id: "40051"
     furniture_postion: "2,1"
@@ -3596,9 +3596,9 @@
   }
   {
     establish_id: "60001"
-    establish_name: 격납고 바닥
+    establish_name: 정보센터 벽장식
     room_id: "6"
-    description: 격납고 바닥
+    description: 정보센터 벽장식
     furniture_id: "40052"
     update_furniture_id: "40052"
     furniture_postion: "2,2"
@@ -3606,9 +3606,9 @@
   }
   {
     establish_id: "60002"
-    establish_name: 격납고 벽지
+    establish_name: 정보센터 전등
     room_id: "6"
-    description: 격납고 벽지
+    description: 정보센터 전등
     furniture_id: "40053"
     update_furniture_id: "40053"
     furniture_postion: "2,2"
@@ -3616,9 +3616,9 @@
   }
   {
     establish_id: "60003"
-    establish_name: 격납고 등 좌
+    establish_name: 정보센터 식물
     room_id: "6"
-    description: 격납고 등 좌
+    description: 정보센터 식물
     furniture_id: "40054"
     update_furniture_id: "40054"
     furniture_postion: "16,2"

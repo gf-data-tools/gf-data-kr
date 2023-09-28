@@ -3432,6 +3432,34 @@
     color_icon_id: "942,943,944,945,946,947"
   }
   {
+    id: 5640
+    name: 바람 사냥꾼(청)
+    description: 전설 속 일당백의 용사. 몸에 항상 매서운 살기를 두르고 있다. 깃발을 세우면 적이 겁에 질려 달아날 뿐만 아니라 아군의 오사를 방지할 수 있다.
+    code: BodyAcco
+    icon: commander_5640_icon
+    type: 4
+    uniform_class: "56"
+    color_normal: Commander_5640_N
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "-0.126,0.332"
+    color_icon_id: "956"
+  }
+  {
+    id: 5643
+    name: 바람 사냥꾼(홍)
+    description: 전설 속 일당백의 용사. 몸에 항상 매서운 살기를 두르고 있다. 깃발을 세우면 적이 겁에 질려 달아날 뿐만 아니라 아군의 오사를 방지할 수 있다.
+    code: BodyAcco
+    icon: commander_5643_icon
+    type: 4
+    uniform_class: "56"
+    color_normal: Commander_5643_N
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "-0.126,0.332"
+    color_icon_id: "957"
+  }
+  {
     id: 9920
     name: 활기찬 위장
     description: 언제나 가장 좋은 모습으로.

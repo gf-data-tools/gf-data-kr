@@ -12639,6 +12639,74 @@
     content: prize-20001961
   }
   {
+    id: 1962
+    name: 전술인형: KLIN
+    gun_id: "177"
+    item_ids: 100197-1
+  }
+  {
+    id: 1963
+    name: 전술인형: 발리스타
+    gun_id: "204"
+    item_ids: 100197-1
+  }
+  {
+    id: 1964
+    name: 전술인형: 파이슨
+    gun_id: "4"
+    item_ids: 100198-1
+  }
+  {
+    id: 1965
+    name: 전술인형: SRS
+    gun_id: "211"
+    item_ids: 100198-1
+  }
+  {
+    id: 1966
+    name: 전술인형: PM-06
+    gun_id: "224"
+    item_ids: 100198-1
+  }
+  {
+    id: 1967
+    name: 전술인형: R5
+    gun_id: "289"
+    item_ids: 100198-1
+  }
+  {
+    id: 1968
+    name: 노바훈장
+    item_ids: 100197-1
+  }
+  {
+    id: 1969
+    name: 백금훈장
+    item_ids: 100198-1
+  }
+  {
+    id: 1970
+    name: 가구: 와일드 체이서
+    furniture: "20110"
+  }
+  {
+    id: 1971
+    name: 2023 10월 출석
+    gem: 90
+    equip_ids: "364"
+  }
+  {
+    id: 1972
+    name: 지휘관 의상 - 바람 사냥꾼
+    item_ids: 100199-20
+    commander_uniform: "5640,5643"
+  }
+  {
+    id: 1973
+    name: 전술인형:QBU-191
+    gun_id: "388"
+  }
+  {
     id: 2001
     name: WA2000 - 고성에서의 모험
     gift: 6-1
@@ -14773,6 +14841,16 @@
     id: 4320
     name: 아이콘: 사나
     item_ids: 2322-1
+  }
+  {
+    id: 4321
+    name: 혼합세력: 나르시스
+    sangvis: "1025"
+  }
+  {
+    id: 4322
+    name: 아이콘: 나르시스 아이콘
+    item_ids: 2372-1
   }
   {
     id: 5001
