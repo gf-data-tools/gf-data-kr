@@ -12,6 +12,7 @@
     illustrator_cv: 河马,Uesaka Sumire,
     order: 1
     class_id: 1
+    skin_source: 1
   }
   {
     id: 2
@@ -23,6 +24,7 @@
     explore_tag: "3001"
     order: 1
     class_id: 1
+    skin_source: 3
   }
   {
     id: 3
@@ -34,6 +36,7 @@
     explore_tag: "3001"
     order: 1
     class_id: 1
+    skin_source: 3
   }
   {
     id: 4
@@ -46,6 +49,7 @@
     gift_position: "46,-142.3"
     order: 1
     class_id: 1
+    skin_source: 1
   }
   {
     id: 5
@@ -57,6 +61,7 @@
     explore_tag: "3001"
     order: 1
     class_id: 1
+    skin_source: 3
   }
   {
     id: 6
@@ -68,6 +73,7 @@
     explore_tag: "3001"
     order: 1
     class_id: 1
+    skin_source: 3
   }
   {
     id: 7
@@ -79,6 +85,7 @@
     explore_tag: "3001"
     order: 1
     class_id: 1
+    skin_source: 3
   }
   {
     id: 8
@@ -91,6 +98,7 @@
     gift_position: "112.9,-120.3"
     order: 1
     class_id: 1
+    skin_source: 1
   }
   {
     id: 9
@@ -104,6 +112,7 @@
     illustrator_cv: 音符,Fukuhara Ayaka,
     order: 1
     class_id: 1
+    skin_source: 3
   }
   {
     id: 10
@@ -113,6 +122,7 @@
     dialog: 전쟁터에서든 수렵장에서든, 지휘관을 위해 승리의 영광을 새기겠습니다.
     order: 1
     class_id: 3
+    skin_source: 3
   }
   {
     id: 11
@@ -124,6 +134,7 @@
     explore_tag: "3001"
     order: 1
     class_id: 1
+    skin_source: 3
   }
   {
     id: 101
@@ -133,6 +144,7 @@
     dialog: 뭐가, 이렇게 입으면 되는 거지? 정말 이해 못 할 바보 같은 취향이네...
     order: 2
     class_id: 2
+    skin_source: 3
   }
   {
     id: 102
@@ -151,6 +163,7 @@
     dialog: 해적이라고 하면 역시 특립독행이지! 반론과 장애물따위 내 앞에선 소용없다구!
     order: 2
     class_id: 2
+    skin_source: 3
   }
   {
     id: 104
@@ -160,6 +173,7 @@
     dialog: 지휘관님...드물게 좋은 취미를 가지고 계시네요. 좋은 차가 있다면 저와 함께 마시지 않으실래요?
     order: 2
     class_id: 3
+    skin_source: 3
   }
   {
     id: 105
@@ -169,6 +183,7 @@
     dialog: 주말에 나랑 데이트 할래? 그 경비 임무도 나한테 맡겨줘, 이번엔 특별 서비스라고?
     order: 2
     class_id: 3
+    skin_source: 3
   }
   {
     id: 106
@@ -178,6 +193,7 @@
     dialog: 얼른 파티를 시작하자! 계속 꾸물대다간 다들 못 참을 거라고!
     order: 2
     class_id: 3
+    skin_source: 3
   }
   {
     id: 201
@@ -242,6 +258,7 @@
     dialog: 냥냥~ 골골골... 어때요, 귀엽나요? 왜 입 꾹 다물고 있어요? 제가 엄청 용기 내서 입은 거라고요! 뭐라도 좀 말해봐요!
     gift_position: "-23.1,-139.2"
     class_id: 52
+    skin_source: 1
   }
   {
     id: 208
@@ -261,6 +278,7 @@
     dialog: 종소리가 수풀 사이에 울려퍼지고 보름달이 붉게 물든다... 조용, 조용... 사냥의 밤이 시작됩니다...
     gift_position: "-83.2,-48.4"
     class_id: 52
+    skin_source: 1
   }
   {
     id: 210
@@ -271,6 +289,7 @@
     dialog: 잠깐! 방호복과 고양이귀 헤드폰을 안 쓴 인원은 실험실에 출입 금지야... 아, 지휘관이네. 조수 인형의 의상에 대한 사소한 요구일 뿐인데, 문제 있어?
     gift_position: "-123.9,-43.8"
     class_id: 52
+    skin_source: 1
   }
   {
     id: 301
@@ -282,6 +301,7 @@
     explore_tag: "3002"
     order: 3
     class_id: 4
+    skin_source: 3
   }
   {
     id: 302
@@ -294,6 +314,7 @@
     gift_position: "-8.5,-157.1"
     order: 3
     class_id: 4
+    skin_source: 1
   }
   {
     id: 303
@@ -306,6 +327,7 @@
     gift_position: "11.2,-142.1"
     order: 3
     class_id: 4
+    skin_source: 1
   }
   {
     id: 304
@@ -317,6 +339,7 @@
     explore_tag: "3002"
     order: 3
     class_id: 4
+    skin_source: 3
   }
   {
     id: 305
@@ -328,6 +351,7 @@
     explore_tag: "3002"
     order: 3
     class_id: 4
+    skin_source: 3
   }
   {
     id: 306
@@ -340,6 +364,7 @@
     explore_tag: "3002"
     order: 3
     class_id: 4
+    skin_source: 3
   }
   {
     id: 307
@@ -351,6 +376,7 @@
     explore_tag: "3002"
     order: 3
     class_id: 4
+    skin_source: 3
   }
   {
     id: 308
@@ -363,6 +389,7 @@
     gift_position: "5.2,-144.3"
     order: 3
     class_id: 4
+    skin_source: 1
   }
   {
     id: 309
@@ -374,6 +401,7 @@
     explore_tag: "3002"
     order: 3
     class_id: 4
+    skin_source: 3
   }
   {
     id: 310
@@ -385,6 +413,7 @@
     explore_tag: "3002"
     order: 3
     class_id: 4
+    skin_source: 3
   }
   {
     id: 401
@@ -394,6 +423,7 @@
     dialog: 우헷~ 새해 폭 마니 바다. 지휘관! 딸꾹!
     order: 4
     class_id: 5
+    skin_source: 3
   }
   {
     id: 402
@@ -404,6 +434,7 @@
     dialog: 지휘관! 새해 복 많이 받아! 신년에도 잔뜩 놀아줘!
     order: 4
     class_id: 5
+    skin_source: 3
   }
   {
     id: 403
@@ -413,6 +444,7 @@
     dialog: 뭐어? 새해맞이 공연? 나, 난 준비 같은 거 안 돼 있는데! ...알겠어. 그, 그럼 시작한다! 웃지 말라고!
     order: 4
     class_id: 5
+    skin_source: 3
   }
   {
     id: 404
@@ -422,6 +454,7 @@
     dialog: 지휘관님, 새해 복 많이 받으세요! 여러 가지로 신세 많이 졌습니다. 저, 올 한해 많이 성장했죠? 내년에도 계속 기대해주세요!
     order: 4
     class_id: 5
+    skin_source: 3
   }
   {
     id: 405
@@ -431,6 +464,7 @@
     dialog: 신년이에요, 지휘관. 올해는 동료가 늘어난다면, 세뱃돈도 잔뜩 준비해야겠어요. 97식의 몫은 어제 줬으니까, 괜찮아요.
     order: 4
     class_id: 5
+    skin_source: 3
   }
   {
     id: 406
@@ -441,6 +475,7 @@
     gift_position: "47.1,-188.9"
     order: 4
     class_id: 5
+    skin_source: 1
   }
   {
     id: 407
@@ -451,6 +486,7 @@
     dialog: 신년이야! 새해라고! 새해 선물의 준비가 큰일이야~ 지휘관님, 도와줘~
     order: 4
     class_id: 5
+    skin_source: 3
   }
   {
     id: 408
@@ -460,6 +496,7 @@
     dialog: 오늘은 밸런타인데이네. 지휘관, 나의 마음을 받아줘! 그렇지 않으면...!
     order: 6
     class_id: 6
+    skin_source: 3
   }
   {
     id: 409
@@ -469,6 +506,7 @@
     dialog: 지휘관. 오늘 받은 초콜릿, 너무 많은 거 아니에요? ...그러니까, 하나 더 받아도 괜찮지? 후훗.
     order: 6
     class_id: 6
+    skin_source: 3
   }
   {
     id: 410
@@ -479,6 +517,7 @@
     illustrator_cv: ZAGALA,Mineuchi Tomomi,
     order: 6
     class_id: 6
+    skin_source: 3
   }
   {
     id: 411
@@ -488,6 +527,7 @@
     dialog: 이번 발렌타인 초콜릿이에요. 독이 없는 것은 확인했습니다. 받아주세요, 지휘관.
     order: 6
     class_id: 6
+    skin_source: 3
   }
   {
     id: 501
@@ -505,6 +545,7 @@
     voice: 4
     dialog: 메이드가 이런 일을 하는 건가요? 그다지 어렵지는 않네요.
     order: 5
+    class_id: 99
   }
   {
     id: 503
@@ -570,6 +611,7 @@
     gift_position: "-61.2,19.5"
     order: 23
     class_id: 53
+    skin_source: 1
   }
   {
     id: 510
@@ -580,6 +622,7 @@
     gift_position: "39.3,-57.1"
     order: 23
     class_id: 53
+    skin_source: 1
   }
   {
     id: 521
@@ -589,6 +632,7 @@
     dialog: 이 기억... 함께 체험해 보고 싶어? 그럼 언제 출발할 건지 정해.
     illustrator_cv: ZAGALA,Mineuchi Tomomi,
     order: 33
+    class_id: 99
   }
   {
     id: 522
@@ -597,6 +641,7 @@
     voice: 4
     dialog: 고막 조심해, 지휘관. 지금부터 행군 시작이야!
     order: 36
+    class_id: 99
   }
   {
     id: 523
@@ -605,6 +650,7 @@
     voice: 4
     dialog: 지휘관님, 제 첫 환자가 되어 주실래요?
     order: 37
+    class_id: 99
   }
   {
     id: 524
@@ -614,6 +660,7 @@
     dialog: 왜 다들 아직도 날 "엘라 아줌마"라고 부르는 거지?... 세이, 내가 봤을 때 옷 말고도 문제 있는 것 같아...
     order: 40
     class_id: 68
+    skin_source: 2
   }
   {
     id: 525
@@ -624,6 +671,7 @@
     gift_position: "-139.8,52.7"
     order: 40
     class_id: 68
+    skin_source: 1
   }
   {
     id: 526
@@ -633,6 +681,7 @@
     dialog: 기지에 화끈한 레슬링 한 판으로 해결할 문제라도 있어?
     order: 40
     class_id: 68
+    skin_source: 2
   }
   {
     id: 527
@@ -642,6 +691,7 @@
     dialog: 드디어 스텔라의 기분을 알 것 같아요, 가슴의 느낌은 조금 부족하지만...
     order: 40
     class_id: 68
+    skin_source: 2
   }
   {
     id: 528
@@ -651,6 +701,7 @@
     dialog: 마치 중학생 시절로 돌아간 기분이네요, 다시 애인을 찾아볼까 싶은데... 어떠세요?
     order: 40
     class_id: 68
+    skin_source: 2
   }
   {
     id: 529
@@ -660,6 +711,7 @@
     dialog: 아름다움의 이름으로! 모두 괜찮아질 거야!
     order: 40
     class_id: 68
+    skin_source: 2
   }
   {
     id: 530
@@ -670,6 +722,7 @@
     illustrator_cv: 影法师,Tomatsu Haruka,
     order: 52
     class_id: 59
+    skin_source: 3
   }
   {
     id: 531
@@ -681,6 +734,7 @@
     illustrator_cv: 影法师,Tamura Yukari,
     order: 52
     class_id: 59
+    skin_source: 1
   }
   {
     id: 532
@@ -692,6 +746,7 @@
     illustrator_cv: 影法师,Katou Emiri,
     order: 52
     class_id: 59
+    skin_source: 1
   }
   {
     id: 533
@@ -703,6 +758,7 @@
     illustrator_cv: 影法师,Yamane Nozomi,
     order: 52
     class_id: 59
+    skin_source: 1
   }
   {
     id: 534
@@ -714,6 +770,7 @@
     illustrator_cv: 影法师,Fukuhara Ayaka,
     order: 52
     class_id: 59
+    skin_source: 1
   }
   {
     id: 535
@@ -725,6 +782,7 @@
     illustrator_cv: 影法师,Mineuchi Tomomi,
     order: 52
     class_id: 59
+    skin_source: 1
   }
   {
     id: 536
@@ -736,6 +794,7 @@
     illustrator_cv: 影法师,Noto Mamiko,
     order: 52
     class_id: 59
+    skin_source: 1
   }
   {
     id: 537
@@ -747,6 +806,7 @@
     illustrator_cv: 影法师,Nonaka Ai,
     order: 52
     class_id: 59
+    skin_source: 1
   }
   {
     id: 538
@@ -758,6 +818,7 @@
     illustrator_cv: 影法师,Fukuhara Ayaka,
     order: 52
     class_id: 59
+    skin_source: 1
   }
   {
     id: 539
@@ -769,6 +830,7 @@
     illustrator_cv: 影法师,Uema Emi,
     order: 52
     class_id: 59
+    skin_source: 1
   }
   {
     id: 540
@@ -777,6 +839,7 @@
     voice: 4
     dialog: 지휘관, 체온이 평소보다 0.2℃ 정도 상승했어. 심박도 빨라지고 있고, 내 모습이 무서워? 눈을 감아달라고? 지금은 안 돼.
     order: 54
+    class_id: 99
   }
   {
     id: 541
@@ -787,6 +850,7 @@
     gift_position: "-89.16,-148.4"
     order: 56
     class_id: 53
+    skin_source: 1
   }
   {
     id: 542
@@ -797,6 +861,7 @@
     gift_position: "-152.9,-104.5"
     order: 56
     class_id: 53
+    skin_source: 1
   }
   {
     id: 543
@@ -807,6 +872,7 @@
     gift_position: "-124.5,-133.1"
     order: 56
     class_id: 53
+    skin_source: 1
   }
   {
     id: 544
@@ -817,6 +883,7 @@
     gift_position: "-121.4,-158.3"
     order: 56
     class_id: 53
+    skin_source: 1
   }
   {
     id: 545
@@ -827,6 +894,7 @@
     gift_position: "-126.3,7.8"
     order: 56
     class_id: 53
+    skin_source: 1
   }
   {
     id: 546
@@ -837,6 +905,7 @@
     gift_position: "-169,-72.4"
     order: 60
     class_id: 53
+    skin_source: 1
   }
   {
     id: 547
@@ -847,6 +916,7 @@
     gift_position: "-61.4,-46.1"
     order: 60
     class_id: 53
+    skin_source: 1
   }
   {
     id: 548
@@ -857,6 +927,7 @@
     gift_position: "-134,-74.2"
     order: 60
     class_id: 53
+    skin_source: 1
   }
   {
     id: 549
@@ -868,6 +939,7 @@
     illustrator_cv: RIRE,Hayami Saori,
     order: 60
     class_id: 53
+    skin_source: 1
   }
   {
     id: 550
@@ -878,6 +950,7 @@
     illustrator_cv: 暖森,Tomatsu Haruka,
     order: 68
     class_id: 60
+    skin_source: 3
   }
   {
     id: 551
@@ -888,6 +961,7 @@
     illustrator_cv: 暖森,Tamura Yukari,
     order: 68
     class_id: 60
+    skin_source: 3
   }
   {
     id: 552
@@ -898,6 +972,7 @@
     illustrator_cv: 暖森,Kato Emiri,
     order: 68
     class_id: 60
+    skin_source: 3
   }
   {
     id: 553
@@ -908,6 +983,7 @@
     illustrator_cv: 暖森,Yamane Nozomi,
     order: 68
     class_id: 60
+    skin_source: 3
   }
   {
     id: 554
@@ -918,6 +994,7 @@
     illustrator_cv: 暖森,Fukuhara Ayaka,
     order: 68
     class_id: 60
+    skin_source: 3
   }
   {
     id: 555
@@ -928,6 +1005,7 @@
     illustrator_cv: --,Mineuchi Tomomi,
     order: 73
     class_id: 64
+    skin_source: 3
   }
   {
     id: 556
@@ -938,6 +1016,7 @@
     illustrator_cv: --,Noto Mamiko,
     order: 73
     class_id: 64
+    skin_source: 3
   }
   {
     id: 557
@@ -948,6 +1027,7 @@
     illustrator_cv: --,Nonaka Ai,
     order: 73
     class_id: 64
+    skin_source: 3
   }
   {
     id: 558
@@ -958,6 +1038,7 @@
     illustrator_cv: --,Fukuhara Ayaka,
     order: 73
     class_id: 64
+    skin_source: 3
   }
   {
     id: 559
@@ -968,6 +1049,7 @@
     illustrator_cv: --,Uema Emi,
     order: 73
     class_id: 64
+    skin_source: 3
   }
   {
     id: 560
@@ -978,6 +1060,7 @@
     gift_position: "-74.7,-105.2"
     order: 68
     class_id: 60
+    skin_source: 1
   }
   {
     id: 561
@@ -987,6 +1070,7 @@
     dialog: 행사에서 연주 끝나면 선배를 위해 한곡 불어드릴게요! 곡은 이미 정해놨어요.
     order: 68
     class_id: 60
+    skin_source: 3
   }
   {
     id: 562
@@ -997,6 +1081,7 @@
     gift_position: "-112.3,-15.4"
     order: 68
     class_id: 60
+    skin_source: 1
   }
   {
     id: 563
@@ -1006,6 +1091,7 @@
     dialog: 저도 오늘 담당 부대 안에 있는데... 아직도 박자를 잘 못 따라잡는 것 같아요. 실전에서 잘 넘어갔으면 좋겠어요.
     order: 68
     class_id: 60
+    skin_source: 3
   }
   {
     id: 564
@@ -1016,6 +1102,7 @@
     gift_position: "-237.8,-104.6"
     order: 68
     class_id: 60
+    skin_source: 1
   }
   {
     id: 565
@@ -1026,6 +1113,7 @@
     gift_position: "-40.4,-2.3"
     order: 68
     class_id: 60
+    skin_source: 1
   }
   {
     id: 566
@@ -1034,6 +1122,7 @@
     voice: 4
     dialog: 로손에 어서오세요! 좋은 아침, 지휘관! 오늘 아침 메뉴는 3가지인데, 내가 가장 혜자스럽고 맛있는 걸 골라놨어!
     order: 66
+    class_id: 99
   }
   {
     id: 567
@@ -1044,6 +1133,7 @@
     gift_position: "-87.1,36.7"
     order: 72
     class_id: 53
+    skin_source: 1
   }
   {
     id: 568
@@ -1054,6 +1144,7 @@
     gift_position: "-183.9,-138.2"
     order: 72
     class_id: 53
+    skin_source: 1
   }
   {
     id: 569
@@ -1064,6 +1155,7 @@
     gift_position: "-120,-106"
     order: 72
     class_id: 53
+    skin_source: 1
   }
   {
     id: 570
@@ -1074,6 +1166,7 @@
     gift_position: "-148.4,-141.2"
     order: 72
     class_id: 53
+    skin_source: 1
   }
   {
     id: 571
@@ -1084,6 +1177,7 @@
     gift_position: "-125,-25.8"
     order: 72
     class_id: 53
+    skin_source: 1
   }
   {
     id: 572
@@ -1093,6 +1187,7 @@
     dialog: 디자이너의 발상은 대부분 어쩌다 든 생각에서 비롯되고, 뛰어난 착용자는 해석을 잘합니다. 이번 모델은 유난히 뛰어납니다, 강한 영향을 받아 졸음이 옵니다.
     illustrator_cv: GINGALA,Fukuhara Ayaka,
     order: 78
+    class_id: 99
   }
   {
     id: 573
@@ -1101,6 +1196,7 @@
     voice: 4
     dialog: 그렇구나, 여긴 이렇게... 어? 지휘관님도 한 판 하실래요? 방금 공략책을 다 읽었으니까 절대 안 진다고요!
     order: 81
+    class_id: 99
   }
   {
     id: 574
@@ -1110,6 +1206,7 @@
     dialog: 거기! M4 SOPMODII Jr 정비사님이 호출받고 도착했는데 뭘 중얼거리고 있어!? 못 고치면 어떡하냐고? 당연히 몽땅 뜯어버려야지!
     illustrator_cv: Su,Tamura Yukari,
     order: 84
+    class_id: 99
   }
   {
     id: 575
@@ -1129,6 +1226,7 @@
     gift_position: "-166.9,-104.2"
     order: 93
     class_id: 80
+    skin_source: 1
   }
   {
     id: 577
@@ -1139,6 +1237,7 @@
     gift_position: "-190.5,-75.2"
     order: 93
     class_id: 80
+    skin_source: 1
   }
   {
     id: 578
@@ -1158,6 +1257,7 @@
     gift_position: "-172,2.1"
     order: 93
     class_id: 80
+    skin_source: 1
   }
   {
     id: 581
@@ -1168,6 +1268,7 @@
     illustrator_cv: umo,Nonaka Ai,
     order: 93
     class_id: 80
+    skin_source: 3
   }
   {
     id: 582
@@ -1178,6 +1279,7 @@
     illustrator_cv: umo,Fukuhara Ayaka,
     order: 93
     class_id: 80
+    skin_source: 3
   }
   {
     id: 583
@@ -1188,6 +1290,7 @@
     illustrator_cv: umo,Noto Mamiko,
     order: 93
     class_id: 80
+    skin_source: 3
   }
   {
     id: 584
@@ -1198,6 +1301,7 @@
     illustrator_cv: umo,Mineuchi Tomomi,
     order: 93
     class_id: 80
+    skin_source: 3
   }
   {
     id: 585
@@ -1208,6 +1312,7 @@
     illustrator_cv: umo,Uema Emi,
     order: 93
     class_id: 80
+    skin_source: 3
   }
   {
     id: 586
@@ -1216,6 +1321,7 @@
     voice: 4
     dialog: 말판 위에서라면 아무리 약한 저도 모두의 운명을 지배할 수 있어요... 저와 겨루려고 한다는 건, 분명 충분히 각오했다는 거겠죠?
     order: 90
+    class_id: 99
   }
   {
     id: 587
@@ -1225,6 +1331,7 @@
     dialog: 무대 위에선 밑의 관중들의 얼굴이 잘 안 보인다고 하는데, 왜 나는 관중석과 시선이 마주칠 때면 항상 당신인 걸까...?
     gift_position: "-172,2.1"
     order: 101
+    skin_source: 1
   }
   {
     id: 588
@@ -1234,6 +1341,7 @@
     dialog: 전!력!질!주! 내 앞을 가로막는 놈은 몽땅 쳐날려버린다! 지휘관? 지휘관은 당연히 내 뒷좌석에 앉아 있어야지!
     gift_position: "-173.8,134.9"
     order: 101
+    skin_source: 1
   }
   {
     id: 589
@@ -1243,6 +1351,7 @@
     dialog: 뜨거운 마음을 품고, 최대한의 노력으로 영혼 가장 깊숙이 닿는 기적을 창조하겠어!
     gift_position: "-117.7,6.9"
     order: 101
+    skin_source: 1
   }
   {
     id: 590
@@ -1252,6 +1361,7 @@
     dialog: 걱정 말아요. 오늘 떠나보낸 노을은 내일 또 찾아오니까요. 당신만 괜찮으시다면 함께 보기로 약속해요!
     gift_position: "-115.1,1.4"
     order: 101
+    skin_source: 1
   }
   {
     id: 591
@@ -1261,6 +1371,7 @@
     dialog: 나비의 날개춤에 마음을 어지럽히지 말지어라, 가시밭에 걸음을 멈추지 말지어라. 첩첩산중을 넘을 용기만 있다면 지옥에 있다 할지어도 반드시 만날 날이 올 것이와요.
     gift_position: "23.6,58.5"
     order: 101
+    skin_source: 1
   }
   {
     id: 592
@@ -1270,6 +1381,7 @@
     dialog: 릴리가 사랑와 그리움을 반짝 빛나는 마법으로 만들어 그 사람의 마음에 전해줄 거야~!
     gift_position: "-112.6,189"
     order: 101
+    skin_source: 1
   }
   {
     id: 593
@@ -1279,6 +1391,7 @@
     dialog: 어아어아, 으아아아아아!!(모든 것을 박살낼 기세로 가득하다!)
     gift_position: "-352.1,67.5"
     order: 101
+    skin_source: 1
   }
   {
     id: 594
@@ -1288,6 +1401,8 @@
     dialog: 지, 지휘관님! 들키고 말았네요. 저 이 둘을 전혀 이기지 못하겠어요... 하아, 지휘관님은 정말 대단해요. 눈깜짝할 사이에 형세를 뒤집어 상대의 말을 모조리 해치우시다니!
     gift_position: "-352.1,67.5"
     order: 104
+    class_id: 99
+    skin_source: 1
   }
   {
     id: 595
@@ -1307,6 +1422,7 @@
     dialog: 블랙럼주를 화이트럼주로 바꾸고, 끝 없는 임무를 질리지 않는 음악으로 바꾸고... 저는 이런 날이 가장 좋아요.
     illustrator_cv: 暖森,Fukuhara Ayaka,
     order: 112
+    class_id: 99
   }
   {
     id: 601
@@ -1317,6 +1433,7 @@
     dialog: 저희 둘의... 관계에 대해? 잘 모르겠습니다만...가르쳐 주시겠어요?
     order: 7
     class_id: 7
+    skin_source: 3
   }
   {
     id: 602
@@ -1327,6 +1444,7 @@
     dialog: 지휘관, 당신과 이 신성한 계약을 맺을 수 있다니, 저는 지금...인생에서 최고로 행복해요! 앞으로 더욱 더 많은 명예를 당신에게 바칠게요.
     order: 7
     class_id: 7
+    skin_source: 3
   }
   {
     id: 603
@@ -1337,6 +1455,7 @@
     dialog: 네?! 제 마음이...닿은 건가요? 아무런 장점도 없는 저에게 이런 날이 오다니...
     order: 7
     class_id: 7
+    skin_source: 3
   }
   {
     id: 604
@@ -1347,6 +1466,7 @@
     dialog: 앞으로 제가 당신을 지키겠습니다. 이것이야 말로 제 생애 최대의 명예!
     order: 7
     class_id: 7
+    skin_source: 3
   }
   {
     id: 605
@@ -1358,6 +1478,7 @@
     gift_position: "18,-165"
     order: 7
     class_id: 7
+    skin_source: 1
   }
   {
     id: 606
@@ -1368,6 +1489,7 @@
     dialog: 이런이런. 최종적으로는 지휘관도 나에게 함락이구나~
     order: 7
     class_id: 7
+    skin_source: 3
   }
   {
     id: 607
@@ -1378,6 +1500,7 @@
     dialog: 중요한 날이지만, 너무 긴장하진 말아줘.
     order: 7
     class_id: 7
+    skin_source: 3
   }
   {
     id: 701
@@ -1387,6 +1510,7 @@
     dialog: 이번에 제 짝궁은 M4A1 인가요, 역시...
     order: 8
     class_id: 8
+    skin_source: 3
   }
   {
     id: 702
@@ -1397,6 +1521,7 @@
     illustrator_cv: 音符,Koga Aoi,
     order: 8
     class_id: 8
+    skin_source: 3
   }
   {
     id: 703
@@ -1406,6 +1531,7 @@
     dialog: 저희 멤버에 가입하실래요?......생존은 놀이가 아니에요.
     order: 8
     class_id: 8
+    skin_source: 3
   }
   {
     id: 704
@@ -1415,6 +1541,7 @@
     dialog: 파도가 왔어. 우리는 저 너머의 더 큰 바다로 가는 거야!
     order: 8
     class_id: 8
+    skin_source: 3
   }
   {
     id: 801
@@ -1427,6 +1554,7 @@
     gift_position: "-4.5,-111.7"
     order: 9
     class_id: 9
+    skin_source: 1
   }
   {
     id: 802
@@ -1438,6 +1566,7 @@
     note: 정말 즐겁게 1년이 지난 것 같아요, 내년엔 더 많은 아이들이 정식 연회에 참가할 수 있었으면 좋겠어요.
     order: 9
     class_id: 9
+    skin_source: 3
   }
   {
     id: 803
@@ -1449,6 +1578,7 @@
     gift_position: "-31.4,-190.9"
     order: 9
     class_id: 9
+    skin_source: 1
   }
   {
     id: 804
@@ -1460,6 +1590,7 @@
     note: 첼로 케이스에 총을 넣고 다니는 것이, 보기에는 예쁜데 생각보다 번거롭단 말이지…… 다음엔 어떻게 해야 좋을까?
     order: 9
     class_id: 9
+    skin_source: 3
   }
   {
     id: 805
@@ -1471,6 +1602,7 @@
     note: 모두들 왜 이렇게 두려워하는 눈빛으로 저를 보는거죠…… 어제 무슨 일 있었나요?
     order: 9
     class_id: 9
+    skin_source: 3
   }
   {
     id: 806
@@ -1481,6 +1613,7 @@
     note: 후…… 어제 파티가 그렇게 힘들지는 않았지만, 그래도 너무 피곤해요. 조금 더 자는 것이 좋겠어요……
     order: 9
     class_id: 9
+    skin_source: 3
   }
   {
     id: 807
@@ -1492,6 +1625,7 @@
     gift_position: "35.8,-104.3"
     order: 9
     class_id: 9
+    skin_source: 1
   }
   {
     id: 808
@@ -1503,6 +1637,7 @@
     illustrator_cv: 音符,Koga Aoi,
     order: 9
     class_id: 9
+    skin_source: 3
   }
   {
     id: 901
@@ -1514,6 +1649,7 @@
     dialog: 네? 제, 제가 왜 이렇게 변한 거죠...아, 안심하세요! 괜찮아요, 저도 싸울 수 있어요!...아마도요...
     order: 10
     class_id: 10
+    skin_source: 3
   }
   {
     id: 902
@@ -1525,6 +1661,7 @@
     dialog: 지휘관님 어깨 안마 해드릴까요?...음, 괜찮아요! 저 힘내볼게요!
     order: 10
     class_id: 10
+    skin_source: 3
   }
   {
     id: 903
@@ -1536,6 +1673,7 @@
     dialog: 우으... 인생은 늘 이렇게 괴로운 걸까? 아니면 어릴 적에만 이런 걸까?
     order: 10
     class_id: 10
+    skin_source: 3
   }
   {
     id: 904
@@ -1547,6 +1685,7 @@
     dialog: 지휘관, 오늘은 어린이에게 선물 안 주면 잡아가는 날이라고?
     order: 10
     class_id: 10
+    skin_source: 3
   }
   {
     id: 905
@@ -1558,6 +1697,7 @@
     dialog: 어라? 원래 제 총이 이렇게 컸나요?...저도 얼른 자랄 수 있도록 노력해야겠네요.
     order: 10
     class_id: 10
+    skin_source: 3
   }
   {
     id: 1101
@@ -1569,6 +1709,7 @@
     gift_position: "-2.9,-122.4"
     order: 12
     class_id: 11
+    skin_source: 1
   }
   {
     id: 1102
@@ -1580,6 +1721,7 @@
     gift_position: "2.7,-147.4"
     order: 12
     class_id: 11
+    skin_source: 1
   }
   {
     id: 1103
@@ -1590,6 +1732,7 @@
     dialog: 정말 멋져요!....바다와 하늘이 이어져 있는 것 같아요!
     order: 12
     class_id: 11
+    skin_source: 3
   }
   {
     id: 1104
@@ -1600,6 +1743,7 @@
     dialog: 지휘관~ 햇빛으로 우리의 그림자를 만들어서 물결위에 새기는 거야!
     order: 12
     class_id: 11
+    skin_source: 3
   }
   {
     id: 1105
@@ -1610,6 +1754,7 @@
     dialog: 지휘관 뿐만 아니라 이번엔 나도 모두의 이목을 끌고 있는 걸? 잘 봐두라고.
     order: 12
     class_id: 11
+    skin_source: 3
   }
   {
     id: 1106
@@ -1620,6 +1765,7 @@
     dialog: 후후, 여름엔 역시 이런 편한 옷으로 갈아입는 게 최고죠!
     order: 12
     class_id: 11
+    skin_source: 3
   }
   {
     id: 1107
@@ -1630,6 +1776,7 @@
     dialog: 지휘관님, 저와 함께 바닷바람을 쐬기 좋은 곳을 찾으러 가요~
     order: 12
     class_id: 11
+    skin_source: 3
   }
   {
     id: 1108
@@ -1641,6 +1788,7 @@
     gift_position: "-14,-100.7"
     order: 12
     class_id: 11
+    skin_source: 1
   }
   {
     id: 1109
@@ -1651,6 +1799,7 @@
     dialog: 후후~ 지휘관, 정말 재미있는 디자인으로 골랐는걸? 어때 만족했어?
     order: 12
     class_id: 11
+    skin_source: 2
   }
   {
     id: 1201
@@ -1661,6 +1810,7 @@
     dialog: 지휘관이었어? 나는 지금 축제에서 최고의 사과 사탕을 찾고 있으니까 방해하지 말아줘.
     order: 13
     class_id: 12
+    skin_source: 3
   }
   {
     id: 1202
@@ -1671,6 +1821,7 @@
     dialog: 아, 이렇게 만나다니 우연이네요...저랑 함께 불꽃놀이가 시작되는 걸 기다리시겠어요?
     order: 13
     class_id: 12
+    skin_source: 3
   }
   {
     id: 1203
@@ -1681,6 +1832,7 @@
     dialog: 이런 즐거운 날은 드물지. 오늘 밤엔 일을 잠시 잊고, 즐기는 게 어때?
     order: 13
     class_id: 12
+    skin_source: 3
   }
   {
     id: 1204
@@ -1691,6 +1843,7 @@
     dialog: 헤헤~ 오늘 밤 축제의 오락은 내가 전부 넘버 원을 차지해주겠어!
     order: 13
     class_id: 12
+    skin_source: 3
   }
   {
     id: 1205
@@ -1701,6 +1854,7 @@
     dialog: 지휘관님, 이번 불꽃놀이 대회 어떨 것 같아요? 무척 기대돼요~
     order: 13
     class_id: 12
+    skin_source: 3
   }
   {
     id: 1301
@@ -1710,6 +1864,7 @@
     dialog: 조금 진지하게 꾸며봤는데, 음... 이정도면 비슷하려나?
     order: 14
     class_id: 13
+    skin_source: 3
   }
   {
     id: 1302
@@ -1719,6 +1874,7 @@
     dialog: 지휘관님, 저는 당신 한 사람만을 위해서 일하겠어요...오직 당신만을 위해.
     order: 14
     class_id: 13
+    skin_source: 3
   }
   {
     id: 1303
@@ -1728,6 +1884,7 @@
     dialog: 간식거리가 필요하신가요? 메뉴에 없는 것도 만들어 볼게요.
     order: 14
     class_id: 13
+    skin_source: 3
   }
   {
     id: 1304
@@ -1737,6 +1894,7 @@
     dialog: 이런...이 옷 헐렁거리는 게, 정말 번거롭구만.
     order: 14
     class_id: 13
+    skin_source: 3
   }
   {
     id: 1305
@@ -1756,6 +1914,7 @@
     explore_tag: "3001"
     order: 15
     class_id: 14
+    skin_source: 3
   }
   {
     id: 1402
@@ -1766,6 +1925,7 @@
     explore_tag: "3001"
     order: 15
     class_id: 14
+    skin_source: 3
   }
   {
     id: 1403
@@ -1777,6 +1937,7 @@
     gift_position: "-66,77"
     order: 15
     class_id: 14
+    skin_source: 1
   }
   {
     id: 1404
@@ -1787,6 +1948,7 @@
     explore_tag: "3001"
     order: 15
     class_id: 14
+    skin_source: 3
   }
   {
     id: 1405
@@ -1797,6 +1959,7 @@
     explore_tag: "3001"
     order: 15
     class_id: 14
+    skin_source: 3
   }
   {
     id: 1406
@@ -1807,6 +1970,7 @@
     explore_tag: "3001"
     order: 15
     class_id: 14
+    skin_source: 3
   }
   {
     id: 1407
@@ -1817,6 +1981,7 @@
     explore_tag: "3001"
     order: 15
     class_id: 14
+    skin_source: 3
   }
   {
     id: 1501
@@ -1827,6 +1992,7 @@
     note: 오페라를 끝까지 볼 수 없던 건 아쉬운 걸. 다음에 기회를 봐서 느긋하게 즐기러 오자고.
     order: 17
     class_id: 15
+    skin_source: 3
   }
   {
     id: 1502
@@ -1839,6 +2005,7 @@
     gift_position: "-57.1,-208.7"
     order: 17
     class_id: 15
+    skin_source: 1
   }
   {
     id: 1503
@@ -1849,6 +2016,7 @@
     note: 영수증을 받을 때 안색이 안 좋아 보이던데...무슨 일이지?
     order: 17
     class_id: 15
+    skin_source: 3
   }
   {
     id: 1504
@@ -1859,6 +2027,7 @@
     note: 격전 중 짤막한 휴식시간에 마시는 한 잔의 즉석커피야말로, 인생의 참맛이지.
     order: 17
     class_id: 15
+    skin_source: 3
   }
   {
     id: 1505
@@ -1870,6 +2039,7 @@
     gift_position: "-93,-61.6"
     order: 17
     class_id: 15
+    skin_source: 1
   }
   {
     id: 1506
@@ -1881,6 +2051,7 @@
     note: 지휘관, 오토바이 열쇠를 하나 줄 테니까, 같이 연습하는 거 잊지 마!
     order: 17
     class_id: 15
+    skin_source: 3
   }
   {
     id: 1507
@@ -1891,6 +2062,7 @@
     note: 이건 폭탄의 도화선…정말 위험하네요, 하지만 제가 모두를 지키겠습니다.
     order: 17
     class_id: 15
+    skin_source: 3
   }
   {
     id: 1601
@@ -1901,6 +2073,7 @@
     explore_tag: "3002"
     order: 18
     class_id: 16
+    skin_source: 3
   }
   {
     id: 1602
@@ -1912,6 +2085,7 @@
     illustrator_cv: 音符,Fukuhara Ayaka,
     order: 18
     class_id: 16
+    skin_source: 3
   }
   {
     id: 1603
@@ -1923,6 +2097,7 @@
     gift_position: "-40.5,-75.5"
     order: 18
     class_id: 16
+    skin_source: 1
   }
   {
     id: 1604
@@ -1933,6 +2108,7 @@
     explore_tag: "3002"
     order: 18
     class_id: 16
+    skin_source: 3
   }
   {
     id: 1605
@@ -1943,6 +2119,7 @@
     explore_tag: "3002"
     order: 18
     class_id: 16
+    skin_source: 3
   }
   {
     id: 1606
@@ -1953,6 +2130,7 @@
     explore_tag: "3002"
     order: 18
     class_id: 16
+    skin_source: 3
   }
   {
     id: 1608
@@ -1963,6 +2141,7 @@
     explore_tag: "3002"
     order: 18
     class_id: 16
+    skin_source: 3
   }
   {
     id: 1701
@@ -1972,6 +2151,7 @@
     dialog: 에헤헤~ 지휘관님, 제 전화번호 알려드릴까요? 앞으로 자주 연락해요~
     order: 19
     class_id: 17
+    skin_source: 3
   }
   {
     id: 1702
@@ -1981,6 +2161,7 @@
     dialog: 이건 요새 한창 유행하고 있는 스타일이야! 비밀의 루트로 입수한 정품이지... 마음껏 칭찬해도 좋다고!
     order: 19
     class_id: 17
+    skin_source: 3
   }
   {
     id: 1703
@@ -1990,6 +2171,7 @@
     dialog: 차가운 물 속에 있다가...... 이제, 이렇게 몸을 따스하게 해주면 행복한 기분을 만끽할 수 있어요.
     order: 19
     class_id: 17
+    skin_source: 3
   }
   {
     id: 1704
@@ -1999,6 +2181,7 @@
     dialog: 서둘러 출발하자, 갈 길이 멀다구! 이런 곳에서 헤매고 있을 시간 없어.
     order: 19
     class_id: 17
+    skin_source: 3
   }
   {
     id: 1705
@@ -2008,6 +2191,7 @@
     dialog: 어머, 유니폼이 아니라도 괜찮은 거야?..... 아아, 그래, 이게 지휘관이 바라는 복무 내용이라면야.
     order: 19
     class_id: 17
+    skin_source: 3
   }
   {
     id: 1801
@@ -2018,6 +2202,7 @@
     note: 내가 바라던 세뱃돈 포장을 할 수 없어서 조금 아쉽지만...... 그래도 꽤나 흥미로운 풍경을 볼 수 있었네......
     order: 20
     class_id: 18
+    skin_source: 3
   }
   {
     id: 1802
@@ -2029,6 +2214,7 @@
     gift_position: "-88.8,-197.6"
     order: 20
     class_id: 18
+    skin_source: 1
   }
   {
     id: 1803
@@ -2040,6 +2226,7 @@
     gift_position: "-37.7,-104.3"
     order: 20
     class_id: 18
+    skin_source: 1
   }
   {
     id: 1804
@@ -2050,6 +2237,7 @@
     note: 인간은 금방 금방 잊어버리는 구나...... 이 스페어 단추처럼, 내가 지휘관이 기억할 수 있도록 도와주겠어!
     order: 20
     class_id: 18
+    skin_source: 3
   }
   {
     id: 1805
@@ -2061,6 +2249,7 @@
     gift_position: "-43.5,-219.8"
     order: 20
     class_id: 18
+    skin_source: 1
   }
   {
     id: 1806
@@ -2071,6 +2260,7 @@
     note: 종이로 이런 장식을 만드는 건 상당히 흥미롭고, 인내심도 기를 수 있습니다. 이번 명절 행사를 도울 수 있어, 정말 보람찼습니다.
     order: 20
     class_id: 18
+    skin_source: 3
   }
   {
     id: 1807
@@ -2081,6 +2271,7 @@
     note: 이 구시대의 골동품 가게에서 찾아낸 기차표 양식...... 정말 옛생각을 나게하는 물건이죠. 잘 간직해야겠어요.
     order: 20
     class_id: 18
+    skin_source: 3
   }
   {
     id: 1808
@@ -2091,6 +2282,7 @@
     note: 명절이라고 이렇게 흥청망청...... 비록 모두와 함께 즐겁게 보내고 있지만... 평소에는 절약해야 하는 걸 잊어선 안 돼.
     order: 20
     class_id: 18
+    skin_source: 3
   }
   {
     id: 1809
@@ -2100,6 +2292,7 @@
     dialog: 주인님,새해 복 많이 받으세요! 새해는 어떻게 보내실 생각이신가요? 느긋히 커피라도 마시며 생각해보시겠어요?
     order: 20
     class_id: 18
+    skin_source: 3
   }
   {
     id: 1901
@@ -2111,6 +2304,7 @@
     note: 분위기 깨는 사진을 남겨서 정말 미안. 근데 사진 찍을땐 솔직히 이런 기분이었어…… 아마도.
     order: 21
     class_id: 19
+    skin_source: 3
   }
   {
     id: 1902
@@ -2122,6 +2316,7 @@
     note: 만약 청첩장을 보내게 될 날이 온다면…… 이 봉랍을 쓰면 되겠는걸.
     order: 21
     class_id: 19
+    skin_source: 3
   }
   {
     id: 1903
@@ -2133,6 +2328,7 @@
     note: 역시 다른 사람들처럼 기다란 드레스를 입고 싶었요…… 그렇게 되기 위해 앞으로도 키가 커질 수 있게 노력할게요!
     order: 21
     class_id: 19
+    skin_source: 3
   }
   {
     id: 1904
@@ -2145,6 +2341,7 @@
     gift_position: "43.6,-175.8"
     order: 21
     class_id: 19
+    skin_source: 1
   }
   {
     id: 1905
@@ -2156,6 +2353,7 @@
     note: 이 도장은 꽤 노골적인걸, 혹시 나중에라도 쓸 기회가 있다면 좋겠네…… 하하, 그럴 일은 없을 테지만.
     order: 21
     class_id: 19
+    skin_source: 3
   }
   {
     id: 1906
@@ -2167,6 +2365,7 @@
     note: 스튜디오에서 축하 선물을 준 건가요? 진짜 결혼식이 어떤 느낌인지는 모르겠지만, 이걸 받자니 조금 미안한 기분이 들어요……
     order: 21
     class_id: 19
+    skin_source: 3
   }
   {
     id: 2001
@@ -2176,6 +2375,7 @@
     dialog: 공주라고 전장에서 만만할 거라는 착각은 버려, 내 앞에서 너무 빨리 무릎 꿇지나 말라고!
     order: 22
     class_id: 20
+    skin_source: 3
   }
   {
     id: 2002
@@ -2185,6 +2385,7 @@
     dialog: 예전부터 지금까지, 저 달빛은 대체 몇번이고 되풀이하며 운명을 예견한 걸까?
     order: 22
     class_id: 20
+    skin_source: 3
   }
   {
     id: 2003
@@ -2194,6 +2395,7 @@
     dialog: 모든 한파를 태워버릴거야, 이 차가운 세계에 나만의 잿더미를 남길거라고!
     order: 22
     class_id: 20
+    skin_source: 3
   }
   {
     id: 2004
@@ -2203,6 +2405,7 @@
     dialog: 세상천지 어디든 내 사정거리 안이라고, 자신있는 녀석은 얼른 나와봐!
     order: 22
     class_id: 20
+    skin_source: 3
   }
   {
     id: 2101
@@ -2213,6 +2416,7 @@
     note: 비밀을 지닌 여자야 말로 매력 있는 법이야... 자기는 호기심과 위기감 중 어느 쪽이 더 강할까?
     order: 24
     class_id: 21
+    skin_source: 3
   }
   {
     id: 2102
@@ -2223,6 +2427,7 @@
     note: 이번 일은 도저히 영문을 모르겠네... 뭐 어때, 이런 걸 고민할 바엔 지휘관한테 보너스 없냐고 물어봐야지!
     order: 24
     class_id: 21
+    skin_source: 3
   }
   {
     id: 2103
@@ -2234,6 +2439,7 @@
     gift_position: "-120.8,-188.4"
     order: 24
     class_id: 21
+    skin_source: 1
   }
   {
     id: 2104
@@ -2245,6 +2451,7 @@
     gift_position: "-91.8,-98"
     order: 24
     class_id: 21
+    skin_source: 1
   }
   {
     id: 2105
@@ -2256,6 +2463,7 @@
     gift_position: "-43.6,-152.8"
     order: 24
     class_id: 21
+    skin_source: 1
   }
   {
     id: 2106
@@ -2266,6 +2474,7 @@
     note: 올해의 소망 말이야? 으음, 앞으로도 항상 이렇게 재미있고 편한 임무 뿐이면 좋겠어!
     order: 24
     class_id: 21
+    skin_source: 3
   }
   {
     id: 2107
@@ -2277,6 +2486,7 @@
     illustrator_cv: ZAGALA,Mineuchi Tomomi,
     order: 24
     class_id: 21
+    skin_source: 3
   }
   {
     id: 2108
@@ -2287,6 +2497,7 @@
     note: 이번엔 물러가지만, 다시 오겠다냥!... 뭐? 이건 악역의 대사냥? 안 속는다냥!
     order: 24
     class_id: 21
+    skin_source: 3
   }
   {
     id: 2109
@@ -2297,6 +2508,7 @@
     note: 우리의 모습이야 말로 진정으로 중요한 거라니... 정말이지, 그렇게 듣고나니 정말 한 순간 내 몸이 반짝이는 듯한 느낌이었어.
     order: 24
     class_id: 21
+    skin_source: 3
   }
   {
     id: 2201
@@ -2309,6 +2521,7 @@
     gift_position: "-4.5,-122.1"
     order: 25
     class_id: 22
+    skin_source: 1
   }
   {
     id: 2202
@@ -2320,6 +2533,7 @@
     dialog: 어, 언니 기다려! 그렇게 천천히 걸으면 나 못 따라잡아!
     order: 25
     class_id: 22
+    skin_source: 3
   }
   {
     id: 2203
@@ -2331,6 +2545,7 @@
     dialog: 지휘관 내 손 꼭 잡고 있어야 돼? 지휘관 또 길 잃어버리면 곤란하니까~
     order: 25
     class_id: 22
+    skin_source: 3
   }
   {
     id: 2204
@@ -2342,6 +2557,7 @@
     dialog: 이런 모습으로 작전에 나가면… 어쩜 적들도 깜짝놀라 진형이 무너질 수도 있겠군, 한 번 해보자!
     order: 25
     class_id: 22
+    skin_source: 3
   }
   {
     id: 2205
@@ -2353,6 +2569,7 @@
     dialog: 한창 자랄 때니까 뼈까지 남김없이 먹어야 해…. 꿀꺽, 뼈가 좀 단단하네.
     order: 25
     class_id: 22
+    skin_source: 3
   }
   {
     id: 2206
@@ -2364,6 +2581,7 @@
     dialog: '''"엄마 아빠"도 없는 우리들도… "아이"라고 할 수 있을까요?'''
     order: 25
     class_id: 22
+    skin_source: 3
   }
   {
     id: 2301
@@ -2374,6 +2592,7 @@
     note: 차를 끓이는 건 참 번거롭지만... 꽤 재미있어. 쉴 때 가끔씩 해도 되겠어.
     order: 26
     class_id: 23
+    skin_source: 3
   }
   {
     id: 2302
@@ -2384,6 +2603,7 @@
     note: 네? 기념 사진 말입니까? 꼭 찍을 필요는 없지 않을까요... 으으... 이런 모습으로 어떻게 찍으라는 거죠...
     order: 26
     class_id: 23
+    skin_source: 3
   }
   {
     id: 2303
@@ -2395,6 +2615,7 @@
     illustrator_cv: 音符,Koga Aoi,
     order: 26
     class_id: 23
+    skin_source: 3
   }
   {
     id: 2304
@@ -2405,6 +2626,7 @@
     note: 아하하... G36 언니, 미안! 한번만 용서해줘, 저번에 비결노트를 빌릴 때 약속했잖아? 다시는 게으름 안 피울 테니까!
     order: 26
     class_id: 23
+    skin_source: 3
   }
   {
     id: 2305
@@ -2415,6 +2637,7 @@
     note: 지휘관이 약속한 휴가는 언제 올까나? 아아... 힘들어...
     order: 26
     class_id: 23
+    skin_source: 3
   }
   {
     id: 2401
@@ -2426,6 +2649,7 @@
     note: 해변 재미있어요! 바다도 재미있어요! ... 그 검은 판자가 어디에 쓰이는 것인지는 모르지만, 발리볼도 재미있었어요!
     order: 27
     class_id: 24
+    skin_source: 3
   }
   {
     id: 2402
@@ -2437,6 +2661,7 @@
     note: 찬 것을 먹으면 머리가 아픈 건 확실히 성능 결함이네, 언제 더 이상 싸울 일이 없어지면 정비를 받아 보지.
     order: 27
     class_id: 24
+    skin_source: 3
   }
   {
     id: 2403
@@ -2448,6 +2673,7 @@
     note: 사탕을 너무 많이 먹으면 문제가 생기지만... 그렇게 진지한 말을 많이 해도, 사탕을 안 먹어도 문제가 생기겠지. 우읍, 빨리 당분을 더 보충해야겠어...
     order: 27
     class_id: 24
+    skin_source: 3
   }
   {
     id: 2404
@@ -2460,6 +2686,7 @@
     gift_position: "-197.9,-117.1"
     order: 27
     class_id: 24
+    skin_source: 1
   }
   {
     id: 2405
@@ -2472,6 +2699,7 @@
     gift_position: "-72.6,-40.3"
     order: 27
     class_id: 24
+    skin_source: 1
   }
   {
     id: 2406
@@ -2484,6 +2712,7 @@
     gift_position: "-189,-81.8"
     order: 27
     class_id: 24
+    skin_source: 1
   }
   {
     id: 2407
@@ -2496,6 +2725,7 @@
     gift_position: "-216.1,-119.93"
     order: 27
     class_id: 24
+    skin_source: 1
   }
   {
     id: 2408
@@ -2507,6 +2737,7 @@
     note: 낡은 방패를 서핑보드로 개조한 건 확실히 도전성이 있었지만, 이래선 여름에만 쓸 수 있을 것 같네...
     order: 27
     class_id: 24
+    skin_source: 3
   }
   {
     id: 2409
@@ -2518,6 +2749,7 @@
     note: 인내심 가지고 기다리면 분명 좋은 일이 생기겠죠? 오, 오늘도 단추를 선물하는 데 성공했어요!
     order: 27
     class_id: 24
+    skin_source: 3
   }
   {
     id: 2410
@@ -2529,6 +2761,7 @@
     note: 어쩌면 그건 물귀신이 아니라, 바다의 수호신이 아니었을까요? 분명 그 가호를 받아서, 공연도 순조로웠던 거겠죠!
     order: 27
     class_id: 24
+    skin_source: 3
   }
   {
     id: 2501
@@ -2539,6 +2772,7 @@
     dialog: 꼭 가사가 무슨 뜻인지 이해할 필요는 없어, 록은 "보는" 음악이라는 것을, 이 공연으로 알려주지.
     order: 28
     class_id: 25
+    skin_source: 3
   }
   {
     id: 2502
@@ -2550,6 +2784,7 @@
     illustrator_cv: 音符,Fukuhara Ayaka,
     order: 28
     class_id: 25
+    skin_source: 3
   }
   {
     id: 2503
@@ -2560,6 +2795,7 @@
     dialog: 천사의 포효와 악마의 기도, 그 모든 잔혹한 욕망을 이 무대에서 보여주지.
     order: 28
     class_id: 25
+    skin_source: 3
   }
   {
     id: 2504
@@ -2570,6 +2806,7 @@
     dialog: 무슨 록이든, 나의 드럼 박자를 따라잡지 못하면 단순한 소음에 불과해.
     order: 28
     class_id: 25
+    skin_source: 3
   }
   {
     id: 2505
@@ -2580,6 +2817,7 @@
     dialog: 들려요... 모두의 환호가. 그럼 저의 베이스 솔로로 여러분의 함성을 최대로 높여 보이죠!
     order: 28
     class_id: 25
+    skin_source: 3
   }
   {
     id: 2601
@@ -2591,6 +2829,7 @@
     explore_tag: "3001"
     order: 29
     class_id: 26
+    skin_source: 3
   }
   {
     id: 2602
@@ -2602,6 +2841,7 @@
     explore_tag: "3001"
     order: 29
     class_id: 26
+    skin_source: 3
   }
   {
     id: 2603
@@ -2613,6 +2853,7 @@
     explore_tag: "3001"
     order: 29
     class_id: 26
+    skin_source: 3
   }
   {
     id: 2604
@@ -2624,6 +2865,7 @@
     explore_tag: "3001"
     order: 29
     class_id: 26
+    skin_source: 3
   }
   {
     id: 2605
@@ -2635,6 +2877,7 @@
     explore_tag: "3001"
     order: 29
     class_id: 26
+    skin_source: 3
   }
   {
     id: 2606
@@ -2646,6 +2889,7 @@
     explore_tag: "3001"
     order: 29
     class_id: 26
+    skin_source: 3
   }
   {
     id: 2701
@@ -2656,6 +2900,7 @@
     dialog: 내 모든 사랑을 총알에 담아 오직 그 사람의 마음을 향해서 발사!
     order: 30
     class_id: 27
+    skin_source: 3
   }
   {
     id: 2702
@@ -2666,6 +2911,7 @@
     dialog: 내가 가사를 까먹으면 모두가 대신 불러줄래? 나중에 악수회 할 때 확실하게 보답해줄 테니까.
     order: 30
     class_id: 27
+    skin_source: 3
   }
   {
     id: 2703
@@ -2677,6 +2923,7 @@
     gift_position: "28.3,-88.7"
     order: 30
     class_id: 27
+    skin_source: 1
   }
   {
     id: 2704
@@ -2687,6 +2934,7 @@
     dialog: 학원파의 아이돌만이 Full Combo를 해낼 수 있어요! 영원히 시대에 뒤떨어지지 않는 모습을 잘 보라고요~
     order: 30
     class_id: 27
+    skin_source: 3
   }
   {
     id: 2705
@@ -2697,6 +2945,7 @@
     dialog: 귀엽고 사랑스러운 기적의 아이돌 HK45 등장! 여러분~ Shall we dance?
     order: 30
     class_id: 27
+    skin_source: 3
   }
   {
     id: 2706
@@ -2707,6 +2956,7 @@
     dialog: 아이돌이란 시대가 아무리 변해도 항상 눈부신 법일세!
     order: 30
     class_id: 27
+    skin_source: 3
   }
   {
     id: 2801
@@ -2718,6 +2968,7 @@
     explore_tag: "3002"
     order: 31
     class_id: 28
+    skin_source: 3
   }
   {
     id: 2802
@@ -2730,6 +2981,7 @@
     gift_position: "-32.9,-157.8"
     order: 31
     class_id: 28
+    skin_source: 1
   }
   {
     id: 2803
@@ -2741,6 +2993,7 @@
     explore_tag: "3002"
     order: 31
     class_id: 28
+    skin_source: 3
   }
   {
     id: 2804
@@ -2752,6 +3005,7 @@
     explore_tag: "3002"
     order: 31
     class_id: 28
+    skin_source: 3
   }
   {
     id: 2805
@@ -2763,6 +3017,7 @@
     explore_tag: "3002"
     order: 31
     class_id: 28
+    skin_source: 3
   }
   {
     id: 2806
@@ -2776,6 +3031,7 @@
     explore_tag: "3002"
     order: 31
     class_id: 28
+    skin_source: 3
   }
   {
     id: 2807
@@ -2787,6 +3043,7 @@
     explore_tag: "3002"
     order: 31
     class_id: 28
+    skin_source: 3
   }
   {
     id: 2901
@@ -2796,6 +3053,7 @@
     dialog: 지휘관, 새해 복 많이 받아... 어, 이거? 메밀국수야. 나도 요리 몇 가지 정도는 할 줄 알거든. 한 입 먹어 볼래?
     order: 32
     class_id: 29
+    skin_source: 3
   }
   {
     id: 2902
@@ -2805,6 +3063,7 @@
     dialog: Happy New Year! 지휘관, 같이 올해의 GOTY 수상작으로 놀래?
     order: 32
     class_id: 29
+    skin_source: 3
   }
   {
     id: 2903
@@ -2815,6 +3074,7 @@
     gift_position: "-171.8,-203.4"
     order: 32
     class_id: 29
+    skin_source: 1
   }
   {
     id: 2904
@@ -2824,6 +3084,7 @@
     dialog: 새해라뇨? 내년까지 아직 일주일이나 남았는데요?
     order: 32
     class_id: 29
+    skin_source: 3
   }
   {
     id: 2905
@@ -2834,6 +3095,7 @@
     gift_position: "-54.5,-4.8"
     order: 32
     class_id: 29
+    skin_source: 1
   }
   {
     id: 2906
@@ -2844,6 +3106,7 @@
     gift_position: "-111.9,-126.8"
     order: 32
     class_id: 29
+    skin_source: 1
   }
   {
     id: 2907
@@ -2853,6 +3116,7 @@
     dialog: 새해가 왔네요, 지휘관님. 저도 좀 성장했을까요? 네? 곰인형이 커졌다고요? 그건 방금 세탁해서 그래요...
     order: 32
     class_id: 29
+    skin_source: 3
   }
   {
     id: 2908
@@ -2862,6 +3126,7 @@
     dialog: 오늘은 숙소 대청소를 할 거야. 하는 김에 지휘관의 방도 정리하자고.
     order: 32
     class_id: 29
+    skin_source: 3
   }
   {
     id: 3001
@@ -2872,6 +3137,7 @@
     note: 사치를 부릴 시간을 희생했지만, 그 대신 꽤 괜찮은 수확을 거둔 것 같네.
     order: 34
     class_id: 30
+    skin_source: 3
   }
   {
     id: 3002
@@ -2882,6 +3148,7 @@
     note: 맞아... "만사형통", 나만 빼고 말이야...
     order: 34
     class_id: 30
+    skin_source: 3
   }
   {
     id: 3003
@@ -2892,6 +3159,7 @@
     note: 여... 역시 바깥은 무서워요...
     order: 34
     class_id: 30
+    skin_source: 3
   }
   {
     id: 3004
@@ -2903,6 +3171,7 @@
     gift_position: "-1.8,-88"
     order: 34
     class_id: 30
+    skin_source: 1
   }
   {
     id: 3005
@@ -2913,6 +3182,7 @@
     note: 봤지? 내 발엔 아무것도 없어!
     order: 34
     class_id: 30
+    skin_source: 3
   }
   {
     id: 3006
@@ -2923,6 +3193,7 @@
     note: 올해엔 나도 더 강해져서, 더 대단한 임무를 맡고 싶다.
     order: 34
     class_id: 30
+    skin_source: 3
   }
   {
     id: 3007
@@ -2933,6 +3204,7 @@
     note: 저... 95식 씨, 저도 다시 인사 행렬에 들어가도 될까요?
     order: 34
     class_id: 30
+    skin_source: 3
   }
   {
     id: 3101
@@ -2944,6 +3216,7 @@
     note: 으으... 언제 이런 사진을 찍은 건가요?! 이런 나약한 모습, 너무 부끄러워요... 만약 지휘관님이 몰래 찍은 거라면 당장 지우세요!
     order: 35
     class_id: 31
+    skin_source: 3
   }
   {
     id: 3102
@@ -2955,6 +3228,7 @@
     note: 이번 임무도 완벽하게 마쳤다. 엘리트 인형의 차이가 무엇인지 이것으로 똑똑히 봤겠지?
     order: 35
     class_id: 31
+    skin_source: 3
   }
   {
     id: 3103
@@ -2967,6 +3241,7 @@
     gift_position: "-20.4,-142.1"
     order: 35
     class_id: 31
+    skin_source: 1
   }
   {
     id: 3105
@@ -2978,6 +3253,7 @@
     note: 헤헤~ 달링과 단둘이 사진 찍었다♥ 달링은 누구에게도 양보하지 않을 거라고!
     order: 35
     class_id: 31
+    skin_source: 3
   }
   {
     id: 3106
@@ -2989,6 +3265,7 @@
     note: 이런 '변신'도 괜찮지만, 그래도 버닝 피버처럼 진정한 히어로로 변신해보고 싶다...
     order: 35
     class_id: 31
+    skin_source: 3
   }
   {
     id: 3107
@@ -3000,6 +3277,7 @@
     note: 아... 힘들어. 그래도 이번엔 꽤 즐거웠어... 아마 예쁜 드레스 덕분이겠지? 월급을 모아서 새 옷을 한 벌 사볼까?
     order: 35
     class_id: 31
+    skin_source: 3
   }
   {
     id: 3201
@@ -3010,6 +3288,7 @@
     dialog: '''"한 걸음 내디딜 때마다 기적의 광채는 더욱 눈부시죠. 당신께서 주신 용기의 강함만큼 이 칼날로 헤쳐나갈 수 있습니다."'''
     order: 38
     class_id: 32
+    skin_source: 3
   }
   {
     id: 3202
@@ -3021,6 +3300,7 @@
     gift_position: "16.6,-128.4"
     order: 38
     class_id: 32
+    skin_source: 1
   }
   {
     id: 3203
@@ -3031,6 +3311,7 @@
     dialog: '''"모두가 사라지면... 아무도 다치지 않아... 왜 이제서야 알았을까?"'''
     order: 38
     class_id: 32
+    skin_source: 3
   }
   {
     id: 3204
@@ -3041,6 +3322,7 @@
     dialog: '''"쉿, 목표가 어디에 있는지만 말하세요, 그게 어떤 인물인지는 제게 중요하지 않아요."'''
     order: 38
     class_id: 32
+    skin_source: 3
   }
   {
     id: 3205
@@ -3051,6 +3333,7 @@
     dialog: '''"헤헤, 싸우는 것보다는 이 하얗고 동그란 것을 모아오는 게 더 도움 되지 않냥?"'''
     order: 38
     class_id: 32
+    skin_source: 3
   }
   {
     id: 3301
@@ -3062,6 +3345,7 @@
     note: 노래하며 춤추는 거라 해도, 후배에게 모범을 보여줄 거야! 잠깐... 지휘관 사진 찍으면 안 돼!
     order: 39
     class_id: 33
+    skin_source: 3
   }
   {
     id: 3302
@@ -3074,6 +3358,7 @@
     gift_position: "-27.1,-67.8"
     order: 39
     class_id: 33
+    skin_source: 1
   }
   {
     id: 3303
@@ -3085,6 +3370,7 @@
     note: 또 이렇게 날 놀래키지 않길 바란다, AK12. 정말 널 어디에 잃어버린 줄... 하지만 오늘 네 덕분에 재밌었다. 고맙다.
     order: 39
     class_id: 33
+    skin_source: 3
   }
   {
     id: 3304
@@ -3096,6 +3382,7 @@
     note: 지휘관님께서 날 더 보살펴줘야겠다는 게 무슨 뜻이지? 흥, 그것보단 요리사 보고 실력 좀 더 닦으라 말하시지.
     order: 39
     class_id: 33
+    skin_source: 3
   }
   {
     id: 3305
@@ -3107,6 +3394,7 @@
     note: 나는 포커의 신이다! 하하하! 뭐야, 누가 또 악플 다는 거야!? 삭제 삭제!
     order: 39
     class_id: 33
+    skin_source: 3
   }
   {
     id: 3306
@@ -3119,6 +3407,7 @@
     gift_position: "-85.7,-175.1"
     order: 39
     class_id: 33
+    skin_source: 1
   }
   {
     id: 3307
@@ -3131,6 +3420,7 @@
     gift_position: "-48.6,-180"
     order: 39
     class_id: 33
+    skin_source: 1
   }
   {
     id: 3308
@@ -3142,6 +3432,7 @@
     note: 굳이 말하자면.... 난 운세고 뭐고 안 믿어, 난 지휘관만을 믿어.
     order: 39
     class_id: 33
+    skin_source: 3
   }
   {
     id: 3309
@@ -3154,6 +3445,7 @@
     gift_position: "-19,-202.9"
     order: 39
     class_id: 33
+    skin_source: 1
   }
   {
     id: 3401
@@ -3165,6 +3457,7 @@
     dialog: 지휘관, 고양이 만져보고 싶으신가요? 그럼 여기... 자, 잠깐만요! 왜 제 머리를 만지세요!?
     order: 41
     class_id: 34
+    skin_source: 3
   }
   {
     id: 3402
@@ -3177,6 +3470,7 @@
     gift_position: "53.7,17.6"
     order: 41
     class_id: 34
+    skin_source: 1
   }
   {
     id: 3403
@@ -3189,6 +3483,7 @@
     illustrator_cv: ZAGALA,Mineuchi Tomomi,
     order: 41
     class_id: 34
+    skin_source: 3
   }
   {
     id: 3404
@@ -3200,6 +3495,7 @@
     dialog: 지휘관, 오늘 같이 나가서 놀 거지? 오늘 나가서 노는 날 맞지?
     order: 41
     class_id: 34
+    skin_source: 3
   }
   {
     id: 3405
@@ -3211,6 +3507,7 @@
     dialog: 오늘 그림의 주제는 평화야. 지휘관, 주제 선정 어떻다고 봐?
     order: 41
     class_id: 34
+    skin_source: 3
   }
   {
     id: 3406
@@ -3222,6 +3519,7 @@
     dialog: 이 인형 말인가요? 오늘 만난 새 친구예요. 절 데리고 나갈 때 얘도 같이 데려가야 해요.
     order: 41
     class_id: 34
+    skin_source: 3
   }
   {
     id: 3501
@@ -3233,6 +3531,7 @@
     note: 지휘관님께서 이 사진을 찍어주신 순간이 이번 해변 여행에서 제 행운이 정점을 찍은 순간일 거예요...
     order: 42
     class_id: 35
+    skin_source: 3
   }
   {
     id: 3502
@@ -3245,6 +3544,7 @@
     gift_position: "-109.18,-36.9"
     order: 42
     class_id: 35
+    skin_source: 1
   }
   {
     id: 3503
@@ -3256,6 +3556,7 @@
     note: 뭘 봐!? 날 배신한 부하들이 만든 포스터를 가지고... 뭐, 잘 그리긴 했지만...
     order: 42
     class_id: 35
+    skin_source: 3
   }
   {
     id: 3504
@@ -3267,6 +3568,7 @@
     note: 세르듀코프 씨가 저를 위해 만든 침수 방지 키트... 왠지 설계가 과학적이지 못한 것 같아요...
     order: 42
     class_id: 35
+    skin_source: 3
   }
   {
     id: 3505
@@ -3278,6 +3580,7 @@
     note: 가장 아름다운 기억은 소녀의 만화에 기록하였나이다... 물론 마인드맵에도 깊이 새겨두었사옵니다.
     order: 42
     class_id: 35
+    skin_source: 3
   }
   {
     id: 3506
@@ -3290,6 +3593,7 @@
     gift_position: "41.5,-83.5"
     order: 42
     class_id: 35
+    skin_source: 1
   }
   {
     id: 3507
@@ -3301,6 +3605,7 @@
     note: 편지를 쓸 대상이 없어서, 쓰지 않는 우표를 소설책에 책갈피로 끼워 넣는데. 최근 편지를 한 통 썼어요...
     order: 42
     class_id: 35
+    skin_source: 3
   }
   {
     id: 3601
@@ -3311,6 +3616,7 @@
     dialog: 이 옷차림으론 수영할 수가 없어서 조금 섭섭한데... 아, 이거 나 주시는 거야? 정말 귀엽다... 고마워!
     order: 43
     class_id: 36
+    skin_source: 3
   }
   {
     id: 3602
@@ -3321,6 +3627,7 @@
     dialog: 오늘 정말 요란하네요, 지휘관님은 놀러 안 가시나요? 후훗, 알겠어요. 지휘관님은 저랑 이야기하고 싶으시군요? 그럼 조용히 얘기해요.
     order: 43
     class_id: 36
+    skin_source: 3
   }
   {
     id: 3603
@@ -3331,6 +3638,7 @@
     dialog: 소원은 다 쓰셨나요? 그럼 제가 걸어놓을게요. 훔쳐보지 않을 테니 걱정 마세요. 전 무슨 소원을 썼냐고요? 후후, 비밀이에요. 말하면 이루어지지 않으니까요.
     order: 43
     class_id: 36
+    skin_source: 3
   }
   {
     id: 3604
@@ -3341,6 +3649,7 @@
     dialog: 많이 기다렸지, 가자. 이 옷 다시는 안 입을래, 입는 법이 너무 귀찮단 말이야.
     order: 43
     class_id: 36
+    skin_source: 3
   }
   {
     id: 3605
@@ -3351,6 +3660,7 @@
     dialog: 비밀 병기에게 이런 옷은 너무 눈에 띄지 않아? 지휘관은 마음에 든다고? 음... 지휘관이 좋다면야... 그럼 나갈 준비를 하자.
     order: 43
     class_id: 36
+    skin_source: 3
   }
   {
     id: 3701
@@ -3360,6 +3670,7 @@
     dialog: 응? 강단 밑에 있으면 안 돼? 저기, 볼펜 줍는 척하면서 가까이 오지 마!
     order: 44
     class_id: 37
+    skin_source: 3
   }
   {
     id: 3702
@@ -3371,6 +3682,7 @@
     illustrator_cv: gingala,
     order: 44
     class_id: 37
+    skin_source: 1
   }
   {
     id: 3703
@@ -3381,6 +3693,7 @@
     illustrator_cv: Nagu,
     order: 44
     class_id: 37
+    skin_source: 3
   }
   {
     id: 3704
@@ -3390,6 +3703,7 @@
     dialog: 헤헷, 부탁할게! 이 몸의 특공대원복에 글자를 정성을 다해서 수놓으라고! 부려먹다니 무슨 소리야, 이 옷을 맡긴다는 건 내 목숨을 맡기는 거랑 똑같다고!
     order: 44
     class_id: 37
+    skin_source: 3
   }
   {
     id: 3705
@@ -3400,6 +3714,7 @@
     gift_position: "17,-180"
     order: 44
     class_id: 37
+    skin_source: 1
   }
   {
     id: 3706
@@ -3409,6 +3724,7 @@
     dialog: 같이 편의점에 가실래요? 금요일에 파는 피자빵이 인기 많은데, 미리 줄 서지 않으면 다 뺏기고 말아요.
     order: 44
     class_id: 37
+    skin_source: 3
   }
   {
     id: 3707
@@ -3418,6 +3734,7 @@
     dialog: 히히, 책상은 역시 낮잠을 자기 위한 것이지. 깨우지 마, 신기록이 코앞이라고!
     order: 44
     class_id: 37
+    skin_source: 3
   }
   {
     id: 3708
@@ -3428,6 +3745,7 @@
     gift_position: "44,-136"
     order: 44
     class_id: 37
+    skin_source: 1
   }
   {
     id: 3801
@@ -3440,6 +3758,7 @@
     explore_tag: "3001"
     order: 45
     class_id: 38
+    skin_source: 3
   }
   {
     id: 3802
@@ -3452,6 +3771,7 @@
     explore_tag: "3001"
     order: 45
     class_id: 38
+    skin_source: 3
   }
   {
     id: 3803
@@ -3464,6 +3784,7 @@
     explore_tag: "3001"
     order: 45
     class_id: 38
+    skin_source: 3
   }
   {
     id: 3805
@@ -3477,6 +3798,7 @@
     gift_position: "19.7,-121.6"
     order: 45
     class_id: 38
+    skin_source: 1
   }
   {
     id: 3806
@@ -3489,6 +3811,7 @@
     explore_tag: "3001"
     order: 45
     class_id: 38
+    skin_source: 3
   }
   {
     id: 3807
@@ -3503,6 +3826,7 @@
     illustrator_cv: 豆芽,
     order: 45
     class_id: 38
+    skin_source: 1
   }
   {
     id: 3808
@@ -3515,6 +3839,7 @@
     explore_tag: "3001"
     order: 45
     class_id: 38
+    skin_source: 3
   }
   {
     id: 3809
@@ -3527,6 +3852,7 @@
     explore_tag: "3001"
     order: 45
     class_id: 38
+    skin_source: 3
   }
   {
     id: 3901
@@ -3536,6 +3862,7 @@
     dialog: 지휘관님, 이번 경기는 부탁해요! 지휘관님의 코드라이버로서, 먼저 신체검사를 해드릴게요...
     order: 46
     class_id: 39
+    skin_source: 3
   }
   {
     id: 3902
@@ -3546,6 +3873,7 @@
     illustrator_cv: 陆银,
     order: 46
     class_id: 39
+    skin_source: 3
   }
   {
     id: 3903
@@ -3555,6 +3883,7 @@
     dialog: 그래, 계기판 끝까지 달려야 멋있는 거지! 뭐야, 지휘관? 지휘관의 별에선 위험하다고?
     order: 46
     class_id: 39
+    skin_source: 3
   }
   {
     id: 3904
@@ -3565,6 +3894,7 @@
     illustrator_cv: 染羽,
     order: 46
     class_id: 39
+    skin_source: 3
   }
   {
     id: 3905
@@ -3575,6 +3905,7 @@
     illustrator_cv: RIRE,
     order: 46
     class_id: 39
+    skin_source: 3
   }
   {
     id: 4001
@@ -3586,6 +3917,7 @@
     explore_tag: "3002"
     order: 47
     class_id: 40
+    skin_source: 3
   }
   {
     id: 4002
@@ -3598,6 +3930,7 @@
     gift_position: "-42.2,-131.5"
     order: 47
     class_id: 40
+    skin_source: 1
   }
   {
     id: 4003
@@ -3609,6 +3942,7 @@
     explore_tag: "3002"
     order: 47
     class_id: 40
+    skin_source: 3
   }
   {
     id: 4004
@@ -3620,6 +3954,7 @@
     explore_tag: "3002"
     order: 47
     class_id: 40
+    skin_source: 3
   }
   {
     id: 4005
@@ -3633,6 +3968,7 @@
     illustrator_cv: 林檎愛す,
     order: 47
     class_id: 40
+    skin_source: 1
   }
   {
     id: 4006
@@ -3644,6 +3980,7 @@
     explore_tag: "3002"
     order: 47
     class_id: 40
+    skin_source: 3
   }
   {
     id: 4007
@@ -3655,6 +3992,7 @@
     explore_tag: "3002"
     order: 47
     class_id: 40
+    skin_source: 3
   }
   {
     id: 4101
@@ -3664,6 +4002,7 @@
     dialog: 짜잔! 내 점괘에 따르면 오늘 지휘관의 운세는 최고야! 히히, 마당 청소 끝나면 같이 놀러 가자고!
     order: 48
     class_id: 41
+    skin_source: 3
   }
   {
     id: 4102
@@ -3675,6 +4014,7 @@
     illustrator_cv: 陆银,
     order: 48
     class_id: 41
+    skin_source: 1
   }
   {
     id: 4103
@@ -3685,6 +4025,7 @@
     gift_position: "-102.7,-188.7"
     order: 48
     class_id: 41
+    skin_source: 1
   }
   {
     id: 4104
@@ -3694,6 +4035,7 @@
     dialog: 저, 지휘관님... 새해 훈련 보러 오실 거죠? 꼭 제 옆에서 봐주세요...
     order: 48
     class_id: 41
+    skin_source: 3
   }
   {
     id: 4105
@@ -3703,6 +4045,7 @@
     dialog: 하하, 겁 먹지 마, 그냥 살짝 깨문 거니까. 올해 항상 행운이 따르라는 뜻이야.
     order: 48
     class_id: 41
+    skin_source: 3
   }
   {
     id: 4106
@@ -3712,6 +4055,7 @@
     dialog: 지휘관님, 제가 찾은 보물이에요! 조금만 침착하면 눈 속에서 보물을 찾을 수 있어요. 헤헤...
     order: 48
     class_id: 41
+    skin_source: 3
   }
   {
     id: 4107
@@ -3721,6 +4065,7 @@
     dialog: 메리! 우리가 소원 빌 차례야! 무슨 소원을 빌 거야? 역시 올해도 나와 함께 있고 싶다는 소원이지?
     order: 48
     class_id: 41
+    skin_source: 3
   }
   {
     id: 4201
@@ -3731,6 +4076,7 @@
     note: 옷장 안에서 이야기 대회 기념사진이에요. 아쉽게도 마지막 이야기를 그 사람에게 들려주지 못했네요...
     order: 49
     class_id: 42
+    skin_source: 3
   }
   {
     id: 4202
@@ -3741,6 +4087,7 @@
     note: 이 청사진 아주 알기 쉽네. 의자를 내 맘대로 커스텀마이징할 수도 있고, 터진 장판을 복구하는 데에도... 아, 아무것도 아니야...
     order: 49
     class_id: 42
+    skin_source: 3
   }
   {
     id: 4203
@@ -3751,6 +4098,7 @@
     note: 가구를 포장하다 남은 재료를 그냥 버리기엔 아까우니까, 지휘관에게서 받은 등롱 위에 장식으로 걸어뒀어.
     order: 49
     class_id: 42
+    skin_source: 3
   }
   {
     id: 4204
@@ -3762,6 +4110,7 @@
     gift_position: "-91.9,-164.9"
     order: 49
     class_id: 42
+    skin_source: 1
   }
   {
     id: 4205
@@ -3773,6 +4122,7 @@
     gift_position: "-144.9,-113.2"
     order: 49
     class_id: 42
+    skin_source: 1
   }
   {
     id: 4206
@@ -3783,6 +4133,7 @@
     note: 임무 중의 깜짝 발견! 내 개인 순위표 탑10에 들어갈 밀크티 가게! 괜찮다면 같이 한 잔 마시러 가죠.
     order: 49
     class_id: 42
+    skin_source: 3
   }
   {
     id: 4207
@@ -3793,6 +4144,7 @@
     note: 이 카드 슬리브를 보니까 제 첫 수중 공연이 떠올라요. 결국엔 소동으로 끝났지만 그래도 꽤 도움이 됐겠죠?
     order: 49
     class_id: 42
+    skin_source: 3
   }
   {
     id: 4208
@@ -3813,6 +4165,7 @@
     note: 구식 다이얼 전화기를 써본 다음 발견한 건... 공공 전화 카드! 그러니 다음 목표는 이 카드를 쓸 수 있는 전화박스를 찾아서 누구에게 전화를 걸어보는 거예요.
     order: 49
     class_id: 42
+    skin_source: 3
   }
   {
     id: 4210
@@ -3823,6 +4176,7 @@
     note: 갑자기 임무를 받아서, 경비팀의 사원증을 받은 것조차 알아차리지 못했어요... 그래도 임무가 끝나고 접객팀 사원증으로 바꿀 필요는 없어요. 작별 인사는 필요 없다는 게 이런 거겠죠.
     order: 49
     class_id: 42
+    skin_source: 3
   }
   {
     id: 4301
@@ -3835,6 +4189,7 @@
     illustrator_cv: Yukuso,Nakae Mitsuki,
     order: 50
     class_id: 43
+    skin_source: 3
   }
   {
     id: 4302
@@ -3847,6 +4202,7 @@
     illustrator_cv: 八号地球,
     order: 50
     class_id: 43
+    skin_source: 3
   }
   {
     id: 4303
@@ -3859,6 +4215,7 @@
     gift_position: "-133,-195.2"
     order: 50
     class_id: 43
+    skin_source: 1
   }
   {
     id: 4304
@@ -3870,6 +4227,7 @@
     note: 꽃, 별, 새 옷, 그리고 지휘관의 말씀, 모두 제 마인드맵에 저장해두겠어요.
     order: 50
     class_id: 43
+    skin_source: 3
   }
   {
     id: 4305
@@ -3881,6 +4239,7 @@
     note: 천사님께 대한 마음의 소리를 더 엄밀히 보관해야겠어요. 그래, 이걸 패스워드로 하죠!
     order: 50
     class_id: 43
+    skin_source: 3
   }
   {
     id: 4306
@@ -3894,6 +4253,7 @@
     illustrator_cv: _椿日_,
     order: 50
     class_id: 43
+    skin_source: 1
   }
   {
     id: 4308
@@ -3906,6 +4266,7 @@
     gift_position: "-171.5,-204.6"
     order: 50
     class_id: 43
+    skin_source: 1
   }
   {
     id: 4309
@@ -3917,6 +4278,7 @@
     note: 정말 예쁜 달이네, 안 그래 지휘관? 그 표정도 잘 기록했어.
     order: 50
     class_id: 43
+    skin_source: 3
   }
   {
     id: 4310
@@ -3929,6 +4291,7 @@
     illustrator_cv: 豆芽,
     order: 50
     class_id: 43
+    skin_source: 3
   }
   {
     id: 4401
@@ -3939,6 +4302,7 @@
     gift_position: "-193,-102.7"
     order: 51
     class_id: 44
+    skin_source: 1
   }
   {
     id: 4402
@@ -3948,6 +4312,7 @@
     dialog: 같이 맛있는 고구마칩 먹으면서 재밌는 게임을 하자! 진 사람에게 줄 벌칙은... 그건 이불 속에서 말하자고~
     order: 51
     class_id: 44
+    skin_source: 3
   }
   {
     id: 4403
@@ -3957,6 +4322,7 @@
     dialog: 보드카에 위스키를 좀 섞으면 특제 우롱차 완성! 자, 얘들아, 신나게 즐길 시간이야~!
     order: 51
     class_id: 44
+    skin_source: 3
   }
   {
     id: 4404
@@ -3966,6 +4332,7 @@
     dialog: 또 나한테 베개를 던지면 오늘 잠 다 잔줄 알아! 이에는 이로, 되로 받으면 말로 갚을 거야!
     order: 51
     class_id: 44
+    skin_source: 3
   }
   {
     id: 4405
@@ -3975,6 +4342,7 @@
     dialog: 공포 소설에서 밤에만 날뛰는 그림자처럼, 입안에 쏟으면 혀 위에서 날뛰는 사탕 가루, 이게 이번 분장의 주제예요!
     order: 51
     class_id: 44
+    skin_source: 3
   }
   {
     id: 4406
@@ -3984,6 +4352,7 @@
     dialog: 파티에 냄새가 심한 음식은 가져오지 말라고 해서, 내 친구 카레토끼를 데려왔어, 카레 냄새가 난다고? 그럴 리가... 헤헤
     order: 51
     class_id: 44
+    skin_source: 3
   }
   {
     id: 4501
@@ -3994,6 +4363,7 @@
     note: 지배자? 아니, 난 그저 이 분위기를 즐길 뿐이야.
     order: 53
     class_id: 45
+    skin_source: 3
   }
   {
     id: 4502
@@ -4005,6 +4375,7 @@
     gift_position: "-49.4,-58.3"
     order: 53
     class_id: 45
+    skin_source: 1
   }
   {
     id: 4503
@@ -4015,6 +4386,7 @@
     note: 정말, 아무리 나말고 맡길 사람이 없다고 해도, 자꾸 이런 급한 건만 주진 말라고!
     order: 53
     class_id: 45
+    skin_source: 3
   }
   {
     id: 4504
@@ -4027,6 +4399,7 @@
     illustrator_cv: --,Fukuhara Ayaka,
     order: 53
     class_id: 45
+    skin_source: 1
   }
   {
     id: 4505
@@ -4039,6 +4412,7 @@
     illustrator_cv: Nagu,Tomatsu Haruka,
     order: 53
     class_id: 45
+    skin_source: 1
   }
   {
     id: 4506
@@ -4051,6 +4425,7 @@
     illustrator_cv: 陆银,Yamane Nozomi,
     order: 53
     class_id: 45
+    skin_source: 1
   }
   {
     id: 4507
@@ -4063,6 +4438,7 @@
     illustrator_cv: 八号地球,Tamura Yukari,
     order: 53
     class_id: 45
+    skin_source: 1
   }
   {
     id: 4508
@@ -4074,6 +4450,7 @@
     gift_position: "-107.9,95.7"
     order: 53
     class_id: 45
+    skin_source: 1
   }
   {
     id: 4509
@@ -4084,6 +4461,7 @@
     note: 삶의 낙엔 이런 것도 있지: 예상치 못한 일에 대처하며 그 안에서 즐거움을 찾는다.
     order: 53
     class_id: 45
+    skin_source: 3
   }
   {
     id: 4510
@@ -4094,6 +4472,7 @@
     note: 속았긴 했지만, 미소녀들의 다른 면을 볼 수 있어서 결과적으론 내가 이득이야!
     order: 53
     class_id: 45
+    skin_source: 3
   }
   {
     id: 4511
@@ -4104,6 +4483,7 @@
     note: 어떻게 케이크를 그렇게 함부로 자를 수 있어! 지휘관님, 와서 좀 말해 보세요!
     order: 53
     class_id: 45
+    skin_source: 3
   }
   {
     id: 4514
@@ -4114,6 +4494,7 @@
     note: 케이크는 당연히 그냥 여덟 조각 내는 게 제일이죠, 달링도 그렇게 생각하죠?
     order: 53
     class_id: 45
+    skin_source: 3
   }
   {
     id: 4601
@@ -4125,6 +4506,7 @@
     dialog: 은하수에 돛단배를 띄우고, 별들과 함께 잠들어... 상상력의 힘을 믿어, 이 세상에 불가능은 없으니까.
     order: 53
     class_id: 46
+    skin_source: 3
   }
   {
     id: 4602
@@ -4136,6 +4518,7 @@
     dialog: 더 빠르게 달리면 언젠가 분명 바람을 타고 구름 위에 뛰어오를 수 있을 거예요, 그렇게 되면... 구름이 솜사탕인지 아이스크림인지 알 수 있을 거예요!
     order: 53
     class_id: 46
+    skin_source: 3
   }
   {
     id: 4603
@@ -4148,6 +4531,7 @@
     gift_position: "-109.55,-189.1"
     order: 53
     class_id: 46
+    skin_source: 1
   }
   {
     id: 4604
@@ -4160,6 +4544,7 @@
     gift_position: "-365.2,150.2"
     order: 53
     class_id: 46
+    skin_source: 1
   }
   {
     id: 4605
@@ -4171,6 +4556,7 @@
     dialog: 핑크가 아니라 마젠타다! 자신의 원칙을 관철해야 진정한 히어로! 지휘관님, 저와 함께 정의를 수호해요!
     order: 53
     class_id: 46
+    skin_source: 3
   }
   {
     id: 4606
@@ -4182,6 +4568,7 @@
     dialog: 사랑은 무엇이든 이길 수 있다고 하죠...? 그럼, 겁쟁이도 용감해질 수 있나요?
     order: 53
     class_id: 46
+    skin_source: 3
   }
   {
     id: 4607
@@ -4193,6 +4580,7 @@
     dialog: 아침에 눈을 뜨면 지난 밤이 궁금해... VZ61! 또 네가 한 짓이지!
     order: 53
     class_id: 46
+    skin_source: 3
   }
   {
     id: 4702
@@ -4203,6 +4591,7 @@
     dialog: 지휘관님, 한 가지 건의할 것이 있는데, 해변까지 와서 제복을 입는 건 아니지 않나요? 그래선 범고래를 타고 모험하기 힘들잖아요.
     order: 55
     class_id: 47
+    skin_source: 3
   }
   {
     id: 4703
@@ -4213,6 +4602,7 @@
     dialog: 등에 선크림을 바르자니 안 닿는 곳이 잔뜩이네... 이렇게 하다마는 건 정말 짜증 나는데요.
     order: 55
     class_id: 47
+    skin_source: 3
   }
   {
     id: 4704
@@ -4224,6 +4614,7 @@
     gift_position: "-272.8,-122.3"
     order: 55
     class_id: 47
+    skin_source: 1
   }
   {
     id: 4705
@@ -4234,6 +4625,7 @@
     dialog: 카리나는 진짜 구두쇠야! 에어컨 틀기 싫다고 이렇게 얼음만 몇 덩이만 주고... 지휘관이 좀 어떻게 해봐!
     order: 55
     class_id: 47
+    skin_source: 3
   }
   {
     id: 4706
@@ -4245,6 +4637,7 @@
     gift_position: "-99.7,25.2"
     order: 55
     class_id: 47
+    skin_source: 1
   }
   {
     id: 4707
@@ -4255,6 +4648,7 @@
     dialog: 지휘관님, 오늘 예정은 아직 안 정하셨죠? 해변에 할인 행사가 있는 것 같은데, 같이 가볼까요?
     order: 55
     class_id: 47
+    skin_source: 3
   }
   {
     id: 4708
@@ -4266,6 +4660,7 @@
     gift_position: "-116.9,-42"
     order: 55
     class_id: 47
+    skin_source: 1
   }
   {
     id: 4709
@@ -4276,6 +4671,7 @@
     dialog: 저, 저기, 지휘관님. 밖에 햇살이 너무 강해서 파라솔을 챙겨왔는데. 저... 그늘에 들어오실래요?
     order: 55
     class_id: 47
+    skin_source: 3
   }
   {
     id: 4801
@@ -4285,6 +4681,7 @@
     dialog: 적이 얼마나 오든 상관없어, 내가 있는 한 그 누구도 지나가지 못할 테니까.
     order: 57
     class_id: 48
+    skin_source: 3
   }
   {
     id: 4802
@@ -4295,6 +4692,7 @@
     note: RIRE,Waki Azumi,
     order: 57
     class_id: 48
+    skin_source: 3
   }
   {
     id: 4803
@@ -4304,6 +4702,7 @@
     dialog: 나는 말이 없어도 보병보다 훨씬 빨리 달릴 수 있소! 그러니 날 고용해다오, 성주 동지!
     order: 57
     class_id: 48
+    skin_source: 3
   }
   {
     id: 4804
@@ -4314,6 +4713,7 @@
     note: 山河草莓,Tachibana Ricca,
     order: 57
     class_id: 48
+    skin_source: 3
   }
   {
     id: 4805
@@ -4323,6 +4723,7 @@
     dialog: 어떠한 미동도 제 눈을 속일 수 없습니다. 순찰 임무는 안심하고 제게 맡겨주세요, 지휘관님! 네? 지금은 성주님이라 부르라고요?
     order: 57
     class_id: 48
+    skin_source: 3
   }
   {
     id: 4901
@@ -4332,6 +4733,7 @@
     dialog: 피로를 싹 날려줄 고에몬부로가 준비되었습니다, 입욕하시죠.
     order: 58
     class_id: 49
+    skin_source: 3
   }
   {
     id: 4902
@@ -4342,6 +4744,7 @@
     illustrator_cv: Mxixi,Koshimizu Ami,
     order: 58
     class_id: 49
+    skin_source: 3
   }
   {
     id: 4903
@@ -4352,6 +4755,7 @@
     gift_position: "-96.1,196.61"
     order: 58
     class_id: 49
+    skin_source: 1
   }
   {
     id: 4904
@@ -4361,6 +4765,7 @@
     dialog: 꿈속에서 그대를 만나, 꿈이란 걸 알면 어찌 깨고 싶으리. 그대와의 만남은 마치 달콤한 꿈과 같아, 곧 다시 만날 거란 예감이 드네요.
     order: 58
     class_id: 49
+    skin_source: 3
   }
   {
     id: 4905
@@ -4370,6 +4775,7 @@
     dialog: 이번은 제가 처음으로 오미쿠지를 담당하는 거예요. 쉿, 지휘관님께 미리 한 번 뽑으셔도 좋아요.
     order: 58
     class_id: 49
+    skin_source: 3
   }
   {
     id: 4906
@@ -4380,6 +4786,7 @@
     gift_position: "-176.3,-59"
     order: 58
     class_id: 49
+    skin_source: 1
   }
   {
     id: 4907
@@ -4389,6 +4796,7 @@
     dialog: 으음... 꽃향기에 취할 것 같은 기분, 모처럼 조용한 날이네요... 앗... 무심코 다 마셔버렸네요.
     order: 58
     class_id: 49
+    skin_source: 3
   }
   {
     id: 4908
@@ -4398,6 +4806,7 @@
     dialog: 야옹! 조심하라냥, 그 에도 시대 천하제일의 검호처럼 고양이에게 혼을 빼앗기지 말라냥!
     order: 58
     class_id: 49
+    skin_source: 3
   }
   {
     id: 5000
@@ -5047,6 +5456,7 @@
     dialog: 잠이 안 오세요? 그럼 여우의 주술로... 얍! 안녕히 주무세요~
     order: 59
     class_id: 50
+    skin_source: 3
   }
   {
     id: 5102
@@ -5056,6 +5466,7 @@
     dialog: 더 이상 앞으로 가지 마세요, 지휘관님. 지금 당신은 혼자이고, 거기에 신은 없어요.
     order: 59
     class_id: 50
+    skin_source: 3
   }
   {
     id: 5103
@@ -5067,6 +5478,7 @@
     illustrator_cv: Nagu,Sakura Ayane,
     order: 59
     class_id: 50
+    skin_source: 1
   }
   {
     id: 5104
@@ -5076,6 +5488,7 @@
     dialog: 어흥! 오늘은 지휘관의 피로 국물을 끓일 테다! 헤헤, 농담이야~
     order: 59
     class_id: 50
+    skin_source: 3
   }
   {
     id: 5105
@@ -5085,6 +5498,7 @@
     dialog: 반드시 출중한 마법사가 되겠어요, 그전에 먼저 마녀께서 절 제자로 받아줘야 하는데...
     order: 59
     class_id: 50
+    skin_source: 3
   }
   {
     id: 5106
@@ -5095,6 +5509,7 @@
     gift_position: "-154.45,-47.3"
     order: 59
     class_id: 50
+    skin_source: 1
   }
   {
     id: 5107
@@ -5104,6 +5519,7 @@
     dialog: 오늘은 무서운 이야기를 해줄게. 이전에 문을 지키는 마녀가 있었는데... 앗, 벌써 가지 마! 사탕 줄 테니까!
     order: 59
     class_id: 50
+    skin_source: 3
   }
   {
     id: 5201
@@ -5113,6 +5529,7 @@
     dialog: 타겟 포착, 은폐 주의! 휴우... 이렇게 진지한 상황이니, 저도 노력해야겠어요.
     order: 61
     class_id: 51
+    skin_source: 3
   }
   {
     id: 5202
@@ -5122,6 +5539,7 @@
     dialog: 도망칠 생각 마. 시간과 운명을 내세워봤자 나는 목표를 찾아낸다! 특수작전부대 소속 SL8, 돌격 준비!
     order: 61
     class_id: 51
+    skin_source: 3
   }
   {
     id: 5203
@@ -5132,6 +5550,7 @@
     gift_position: "-138.5,-87.5"
     order: 61
     class_id: 51
+    skin_source: 1
   }
   {
     id: 5204
@@ -5141,6 +5560,7 @@
     dialog: 저격수는 즉시 엄폐물을 찾아! 표적 제원 보고, 특정 완료... 내가 모두를 엄호할게!
     order: 61
     class_id: 51
+    skin_source: 3
   }
   {
     id: 5205
@@ -5150,6 +5570,7 @@
     dialog: 헬멧을 벗는 건 패배를 의미해. 거기 걸음 멈춰, 더 이상... 에이 몰라, 내가 졌어! 꼭 안아줘!
     order: 61
     class_id: 51
+    skin_source: 3
   }
   {
     id: 5206
@@ -5159,6 +5580,7 @@
     dialog: 간이 통신소 설치 완료, 주변에 인간 또는 이상 신호 없음 확인... 통신 연결. 질문: '비밀은 부정된 사실이니, 어떻게 한다?'
     order: 61
     class_id: 51
+    skin_source: 3
   }
   {
     id: 5301
@@ -5168,6 +5590,7 @@
     dialog: 선물을 주러 온 거니까 긴장하지 말고 협조를 부탁합니다... 이렇게 말하면 오히려 긴장된다고요? 죄송합니다, 이것도 직업병이라서.
     order: 62
     class_id: 54
+    skin_source: 3
   }
   {
     id: 5302
@@ -5178,6 +5601,7 @@
     illustrator_cv: 二花,Asahina Madoka,
     order: 62
     class_id: 54
+    skin_source: 3
   }
   {
     id: 5303
@@ -5187,6 +5611,7 @@
     dialog: 크리스마스가 이토록 즐거운데, 매일 크리스마스였으면 좋겠네요! 그러면 즐거움이 줄어든다고요? 그럼 어쩔 수 없이 참도록하죠...
     order: 62
     class_id: 54
+    skin_source: 3
   }
   {
     id: 5304
@@ -5197,6 +5622,7 @@
     gift_position: "-67.7,68.8"
     order: 62
     class_id: 54
+    skin_source: 1
   }
   {
     id: 5305
@@ -5206,6 +5632,7 @@
     dialog: 4번 팅커벨이 인사드리옵니다. 비록 오늘 하루뿐인 모습이어도, 나리를 위해 빛을 발하겠사옵니다!
     order: 62
     class_id: 54
+    skin_source: 3
   }
   {
     id: 5306
@@ -5216,6 +5643,7 @@
     gift_position: "-84.61,-120.2"
     order: 62
     class_id: 54
+    skin_source: 1
   }
   {
     id: 5307
@@ -5226,6 +5654,7 @@
     gift_position: "22.3,51"
     order: 62
     class_id: 54
+    skin_source: 1
   }
   {
     id: 5308
@@ -5235,6 +5664,7 @@
     dialog: 안녕히 다녀오셨어요, 주인님! 이 새 장비가 궁금하신 모양이군요! 아이와 함께 밤하늘 밑에서 여행을 떠나주신다면 답안을 알려드릴게요~
     order: 62
     class_id: 54
+    skin_source: 3
   }
   {
     id: 5309
@@ -5244,6 +5674,7 @@
     dialog: 키가 작은 것도 나름 장점이 있지, 선물 상자 크기가 딱 맞는구만! 선물이 도착했다네, 지휘관!
     order: 62
     class_id: 54
+    skin_source: 3
   }
   {
     id: 5401
@@ -5254,6 +5685,7 @@
     gift_position: "-123.0,124.5"
     order: 63
     class_id: 55
+    skin_source: 1
   }
   {
     id: 5402
@@ -5267,6 +5699,7 @@
       '''
     order: 63
     class_id: 55
+    skin_source: 3
   }
   {
     id: 5403
@@ -5281,6 +5714,7 @@
     illustrator_cv: 八号地球,Koga Aoi,
     order: 63
     class_id: 55
+    skin_source: 3
   }
   {
     id: 5404
@@ -5291,6 +5725,7 @@
     gift_position: "-99,-106"
     order: 63
     class_id: 55
+    skin_source: 1
   }
   {
     id: 5405
@@ -5305,6 +5740,7 @@
     illustrator_cv: K箱,Mineuchi Tomomi,
     order: 63
     class_id: 55
+    skin_source: 3
   }
   {
     id: 5406
@@ -5315,6 +5751,7 @@
     gift_position: "-108,-116"
     order: 63
     class_id: 55
+    skin_source: 1
   }
   {
     id: 5407
@@ -5324,6 +5761,7 @@
     dialog: 이 옷은 빌린 거겠죠? 오늘 하루만 입는 거라면 돈이 별로 들지 않을 테니... 네? 사신 거라고요? 지휘관님께서요? 정말 고마워요!
     order: 63
     class_id: 55
+    skin_source: 3
   }
   {
     id: 5408
@@ -5333,6 +5771,7 @@
     dialog: 소원을 빌기 좋은 때네. 지휘관과 함께할 수 있어서 정말 기뻐.
     order: 63
     class_id: 55
+    skin_source: 3
   }
   {
     id: 5501
@@ -5342,6 +5781,7 @@
     dialog: 창밖 달은 같아 보여도, 매화가 피니 다른 색이어라... 지휘관, 새해에 지휘실을 좀 꾸미자!
     order: 64
     class_id: 56
+    skin_source: 3
   }
   {
     id: 5502
@@ -5351,6 +5791,7 @@
     dialog: 지휘관 새해 복 많이 받고 기쁜 일만 있길 바랄게! 세뱃돈은 이쪽에 놔줘, 고마워!
     order: 64
     class_id: 56
+    skin_source: 3
   }
   {
     id: 5503
@@ -5361,6 +5802,7 @@
     gift_position: "-1.6,-144.7"
     order: 64
     class_id: 56
+    skin_source: 1
   }
   {
     id: 5504
@@ -5370,6 +5812,7 @@
     dialog: 새해에는 새로운 도전이 찾아오겠지. 지휘관이여, 그댄 또 얼마나 먼 미래를 생각했는가?
     order: 64
     class_id: 56
+    skin_source: 3
   }
   {
     id: 5505
@@ -5379,6 +5822,7 @@
     dialog: 앗, 지휘관님... 죄송해요, 그냥 몰래 한 잔 마시고 싶어서...
     order: 64
     class_id: 56
+    skin_source: 3
   }
   {
     id: 5506
@@ -5390,6 +5834,7 @@
     illustrator_cv: 柱柱,Tanaka Minami,
     order: 64
     class_id: 56
+    skin_source: 1
   }
   {
     id: 5507
@@ -5399,6 +5844,7 @@
     dialog: 일년에 한번뿐인 설날인만큼, 조금은 사치를 부리자고요. 지휘관, 저 이렇게 입으니까 이쁜가요?
     order: 64
     class_id: 56
+    skin_source: 3
   }
   {
     id: 5508
@@ -5408,6 +5854,7 @@
     dialog: 새해에 행운을 받아 재물이 펑펑 쌓이길! 지휘관, 새해 복 많이 받으세요!
     order: 64
     class_id: 56
+    skin_source: 3
   }
   {
     id: 5601
@@ -5420,6 +5867,7 @@
     illustrator_cv: Firewood,Tanezaki Atsumi,
     order: 65
     class_id: 57
+    skin_source: 1
   }
   {
     id: 5602
@@ -5430,6 +5878,7 @@
     dialog: 뭘 아직도 기다리는 거야? 이리 와, 우리 둘만의 시간을 낭비하지 말자고.
     order: 65
     class_id: 57
+    skin_source: 3
   }
   {
     id: 5603
@@ -5440,6 +5889,7 @@
     dialog: 누구에게서 들은 이야기인데, 정성을 담아 종이학을 1000마리 접으면 사랑하는 사람에게 행운이 찾아온다고 해요. 이 마지막 한 마리를 접으면 지휘관님께 행복이 찾아오겠죠?
     order: 65
     class_id: 57
+    skin_source: 3
   }
   {
     id: 5604
@@ -5452,6 +5902,7 @@
     illustrator_cv: 鳩山井鶴,Daimon Kami,
     order: 65
     class_id: 57
+    skin_source: 1
   }
   {
     id: 5605
@@ -5463,6 +5914,7 @@
     illustrator_cv: 哈奈鲁,Katou Emiri,
     order: 65
     class_id: 57
+    skin_source: 3
   }
   {
     id: 5606
@@ -5473,6 +5925,7 @@
     dialog: 흥... 모처럼 한 판 이겼는데 좀 더 기뻐하는 게 어때? 솔직히 말하는데 방금 그건 내가 일부러 져준 거야, 대신 지휘관이 웃어주니까 다행인 거고.
     order: 65
     class_id: 57
+    skin_source: 3
   }
   {
     id: 5607
@@ -5483,6 +5936,7 @@
     dialog: 지휘관님, 여태까지 셀 수 없이 함께 출발했지만... 승리의 종착역까진 아직도 멀다는 것을 알고 있어요, 그래도 반드시 끝까지 당신 곁에 함께하겠어요.
     order: 65
     class_id: 57
+    skin_source: 3
   }
   {
     id: 5608
@@ -5493,6 +5947,7 @@
     dialog: 공작은 거문고 소리를 들으면 저절로 꼬리를 펼쳐 자신의 가장 아름다운 모습을 보여준다고 해요... 제가 지휘관님의 목소리를 들을 때처럼요.
     order: 65
     class_id: 57
+    skin_source: 3
   }
   {
     id: 5701
@@ -5502,6 +5957,7 @@
     dialog: Bonjour, Mon ami~ 내가 프랑스인처럼 보여, 지휘관? 그 회색 뇌세포를 굴려서 잘 생각해 봐, 슬슬 제대로된 일을 하자고.
     order: 67
     class_id: 58
+    skin_source: 3
   }
   {
     id: 5702
@@ -5511,6 +5967,7 @@
     dialog: 예쁜 여자는 모두 굳세여야 해... 안 그럼 어떻게 살아남겠어?
     order: 67
     class_id: 58
+    skin_source: 3
   }
   {
     id: 5703
@@ -5521,6 +5978,7 @@
     illustrator_cv: 小枪,Taneda Risa,
     order: 67
     class_id: 58
+    skin_source: 3
   }
   {
     id: 5704
@@ -5531,6 +5989,7 @@
     gift_position: "-22.11,-167.2"
     order: 67
     class_id: 58
+    skin_source: 1
   }
   {
     id: 5706
@@ -5540,6 +5999,7 @@
     dialog: 탐정들이 이 자리에 모이다니 엄청난 기적이군요. 우리가 실력을 겨루길 기대하나요? 하하, 추리에 승부 같은 건 없어요, 진실은 언제나 하나니까요.
     order: 67
     class_id: 58
+    skin_source: 3
   }
   {
     id: 5707
@@ -5549,6 +6009,7 @@
     dialog: '''"지휘관은 사람을 너무 잘 믿는구나. 나 같으면 절대 안 믿어."'''
     order: 67
     class_id: 58
+    skin_source: 3
   }
   {
     id: 5801
@@ -5558,6 +6019,7 @@
     dialog: 짜짠! 애니버서리 한정판 C93이 화려하게 등장! 화려한 조명 모두 나를 감싸도록 해!
     order: 69
     class_id: 61
+    skin_source: 3
   }
   {
     id: 5802
@@ -5567,6 +6029,7 @@
     dialog: 지휘관, 나랑 내기하지 않을래? 무슨 내기냐면, 이 샴페인을 다 마시기 전에 내가 지휘관의 마음을 훔칠 수 있을지 없을지...
     order: 69
     class_id: 61
+    skin_source: 3
   }
   {
     id: 5803
@@ -5577,6 +6040,7 @@
     gift_position: "-183,101.6"
     order: 69
     class_id: 61
+    skin_source: 1
   }
   {
     id: 5804
@@ -5587,6 +6051,7 @@
     gift_position: "-100.7,-115.2"
     order: 69
     class_id: 61
+    skin_source: 1
   }
   {
     id: 5805
@@ -5597,6 +6062,7 @@
     illustrator_cv: 豆芽,Ootsubo Yuka,
     order: 69
     class_id: 61
+    skin_source: 3
   }
   {
     id: 5806
@@ -5606,6 +6072,7 @@
     dialog: 비 오는 날 둘이서 한 우산을 같이 쓰고서 이 골목을 지나면, 두 영혼은 영원히 떨어지지 않는다고 해요... 어머, 농담이었어요.
     order: 69
     class_id: 61
+    skin_source: 3
   }
   {
     id: 5807
@@ -5615,6 +6082,7 @@
     dialog: 나랑 춤 추지 않을래, 지휘관? 모처럼 차려입고 나왔으니까, 지휘관과 나만의 추억을 만들고 싶어...
     order: 69
     class_id: 61
+    skin_source: 3
   }
   {
     id: 5808
@@ -5624,6 +6092,7 @@
     dialog: 풍선이 이토록 두려움 없이 떠다닐 수 있는 건, 믿을 수 있는 사람이 반대쪽을 잡고 있기 때문이겠죠. 이렇게 안심되는 느낌, 저도 잘 알고 있어요.
     order: 69
     class_id: 61
+    skin_source: 3
   }
   {
     id: 5901
@@ -5635,6 +6104,7 @@
     dialog: 어린 친구들 질서있게 줄을 서서 풍선을 받아가세요! 음... 나도 어린 친구인데...
     order: 70
     class_id: 62
+    skin_source: 3
   }
   {
     id: 5902
@@ -5647,6 +6117,7 @@
     gift_position: "-122.55,-129.8"
     order: 70
     class_id: 62
+    skin_source: 1
   }
   {
     id: 5903
@@ -5658,6 +6129,7 @@
     dialog: 느려요! 제가 직접 찾아올 정도로 기다리게 하다니 간덩이가 부었군요!
     order: 70
     class_id: 62
+    skin_source: 3
   }
   {
     id: 5904
@@ -5669,6 +6141,7 @@
     dialog: 이번 외출은 순조로울 거다, 내가 있으니까.
     order: 70
     class_id: 62
+    skin_source: 3
   }
   {
     id: 5905
@@ -5680,6 +6153,7 @@
     dialog: 후후, 눈부신 미식가 등장! 맛알못들을 향해서 고추장 돌격!
     order: 70
     class_id: 62
+    skin_source: 3
   }
   {
     id: 5906
@@ -5692,6 +6166,7 @@
     gift_position: "-73.69,-61.4"
     order: 70
     class_id: 62
+    skin_source: 1
   }
   {
     id: 5907
@@ -5703,6 +6178,7 @@
     dialog: 고양이들은 대체 무슨 말을 하고 싶은 거지... 빨리 알아듣지 못하면 집에 늦는데...
     order: 70
     class_id: 62
+    skin_source: 3
   }
   {
     id: 5908
@@ -5715,6 +6191,7 @@
     gift_position: "-5.1,-57.61"
     order: 70
     class_id: 62
+    skin_source: 1
   }
   {
     id: 6101
@@ -5725,6 +6202,7 @@
     dialog: 손 잡으면 안 될... 아니, 아무것도 아니야. 그냥 왜 따라오나 했어.
     order: 71
     class_id: 63
+    skin_source: 3
   }
   {
     id: 6102
@@ -5735,6 +6213,7 @@
     dialog: 바닷가에선 항상 동화이야기가 떠오르는데요... 가면서 이야기하죠.
     order: 71
     class_id: 63
+    skin_source: 3
   }
   {
     id: 6103
@@ -5745,6 +6224,7 @@
     dialog: 해변에선 방심할 수가 없어... 하지만 보통 사람에겐 쉬러 오는 곳이겠지.
     order: 71
     class_id: 63
+    skin_source: 3
   }
   {
     id: 6105
@@ -5756,6 +6236,7 @@
     gift_position: "-67.9,-88.74"
     order: 71
     class_id: 63
+    skin_source: 1
   }
   {
     id: 6106
@@ -5766,6 +6247,7 @@
     dialog: 내 고향별의 주민들은 대부분 물을 무서워해. 안 그랬으면 지금 지구에 도망쳐오지 못했을 거야... 바다는 정말 안전한 곳이야.
     order: 71
     class_id: 63
+    skin_source: 3
   }
   {
     id: 6107
@@ -5777,6 +6259,7 @@
     gift_position: "-17.5,38.8"
     order: 71
     class_id: 63
+    skin_source: 1
   }
   {
     id: 6108
@@ -5788,6 +6271,7 @@
     gift_position: "-298.8,-79"
     order: 71
     class_id: 63
+    skin_source: 1
   }
   {
     id: 6109
@@ -5799,6 +6283,7 @@
     illustrator_cv: 柱柱,Ito Asuka,
     order: 71
     class_id: 63
+    skin_source: 3
   }
   {
     id: 6201
@@ -5809,6 +6294,7 @@
     illustrator_cv: 八号地球,Taichi You,
     order: 74
     class_id: 65
+    skin_source: 3
   }
   {
     id: 6202
@@ -5818,6 +6304,7 @@
     dialog: 응? 지휘관 방금 나 불렀어? 잘됐다, 이 봉투 좀 들어줘, 보답으로 이어폰 한쪽 빌려줄게. 공짜로 내가 산 음반을 들을 수 있는 거라고, 이득 본 건 줄 알아.
     order: 74
     class_id: 65
+    skin_source: 3
   }
   {
     id: 6203
@@ -5828,6 +6315,7 @@
     illustrator_cv: 豆芽,Ichinose Kana,
     order: 74
     class_id: 65
+    skin_source: 3
   }
   {
     id: 6204
@@ -5837,6 +6325,7 @@
     dialog: 비록 이곳에 불안한 요소가 가득해도 전 계속 당신의 곁에 있어 드릴 거예요. 그러니까 지휘관님, 절 똑바로 보시고 제 곁을 떠나시면 안 돼요.
     order: 74
     class_id: 65
+    skin_source: 3
   }
   {
     id: 6205
@@ -5846,6 +6335,7 @@
     dialog: 지휘관님, 숙녀의 꼬리를 함부로 만지는 건 신사적인 행위가 아니에요. 어, 절 만나려고 특별히 오신 거라고요? 그럼 어쩔 수 없죠, 딱 1분만이에요, 다음엔 안 돼요.
     order: 74
     class_id: 65
+    skin_source: 3
   }
   {
     id: 6206
@@ -5856,6 +6346,7 @@
     gift_position: "-93.5,-33.3"
     order: 74
     class_id: 65
+    skin_source: 1
   }
   {
     id: 6207
@@ -5865,6 +6356,7 @@
     dialog: 지휘관님, 오늘 날씨가 좋은데, 저랑 숲으로 소풍가지 않으실래요? 반찬이 당근밖에 없지만요.
     order: 74
     class_id: 65
+    skin_source: 3
   }
   {
     id: 6301
@@ -5874,6 +6366,7 @@
     dialog: 여길 봐요, 선배, 스마일~! 가을은 최고의 계절이에요, 물고기도 게도 토실토실해져서 너무 좋아요!
     order: 75
     class_id: 66
+    skin_source: 3
   }
   {
     id: 6302
@@ -5883,6 +6376,7 @@
     dialog: 이제야 왔구나, 지휘관! 아니, 미안해할 거 없어, 기다리는 동안 기대감으로 엄청 즐거웠으니까.
     order: 75
     class_id: 66
+    skin_source: 3
   }
   {
     id: 6303
@@ -5892,6 +6386,7 @@
     dialog: 평소엔 너무 많은 소리를 들어, 경적, 급정거, 호출벨 소리... 지금처럼 조용히 밤하늘을 감상하며 숨돌릴 기회는 정말 드물어.
     order: 75
     class_id: 66
+    skin_source: 3
   }
   {
     id: 6304
@@ -5902,6 +6397,7 @@
     gift_position: "-118.4,-133.4"
     order: 75
     class_id: 66
+    skin_source: 1
   }
   {
     id: 6305
@@ -5911,6 +6407,7 @@
     dialog: 얼굴, 입술, 향기... 모두 꼼꼼히 검사하고 나서야 출격할 수 있어요. 맞아요, 지휘관님. 완벽하게 준비해야 완벽한 데이트를 시작할 수 있어요.
     order: 75
     class_id: 66
+    skin_source: 3
   }
   {
     id: 6306
@@ -5920,6 +6417,7 @@
     dialog: 그네를 타고 공중으로 떠오를 때 중력에서 풀려나는 기분이 들어요... 지휘관님도 한번 느껴보실래요?
     order: 75
     class_id: 66
+    skin_source: 3
   }
   {
     id: 6401
@@ -5930,6 +6428,7 @@
     illustrator_cv: 鳩山井鶴,Daimon Kami,
     order: 76
     class_id: 67
+    skin_source: 3
   }
   {
     id: 6402
@@ -5940,6 +6439,7 @@
     gift_position: "41.5,-158.6"
     order: 76
     class_id: 67
+    skin_source: 1
   }
   {
     id: 6403
@@ -5949,6 +6449,7 @@
     dialog: 나의 권속이 되고 싶으냐, 그럼 심장의 첫 한 방울 피와 맛있는 음식의 첫 한 입을 모두 내게 바쳐라...
     order: 76
     class_id: 67
+    skin_source: 3
   }
   {
     id: 6404
@@ -5958,6 +6459,7 @@
     dialog: 허니~ 이 사탕하고 허니의 마음을 교환해도 될까? 싫다면 힘으로 뺏을 거야~
     order: 76
     class_id: 67
+    skin_source: 3
   }
   {
     id: 6405
@@ -5967,6 +6469,7 @@
     dialog: 길 잃은 양을 비좁은 양우리로 돌려보내는 것보단, 내 따듯한 수장품 궤짝에 오는 게 더 좋을지도 몰라.
     order: 76
     class_id: 67
+    skin_source: 3
   }
   {
     id: 6406
@@ -5976,6 +6479,7 @@
     dialog: 겁 먹지 마세요, 그냥 그 프랑켄슈타인의 괴물의 심정을 느껴보고 싶었어요. 온 세상에 증오받고 배신당하는 것이 어떤 느낌인지...
     order: 76
     class_id: 67
+    skin_source: 3
   }
   {
     id: 6501
@@ -5986,6 +6490,7 @@
     gift_position: "0.5,-38.9"
     order: 77
     class_id: 69
+    skin_source: 1
   }
   {
     id: 6502
@@ -5995,6 +6500,7 @@
     dialog: 여어, 지휘관. 내 전용기에 타볼래? 비행 속도도 위에서 카드 놀이할 때의 쾌적감도 일반 기체의 3배라고.
     order: 77
     class_id: 69
+    skin_source: 3
   }
   {
     id: 6503
@@ -6004,6 +6510,7 @@
     dialog: 반갑습니다, 마스터. HY-088 파일럿 "하얀 유성" 아이가 신고합니다. 괴물이란 오명을 짊어진다 해도 마스터가 모두에게 약속한 모든 전쟁을 끝내는 길을 이끌어가겠어요.
     order: 77
     class_id: 69
+    skin_source: 3
   }
   {
     id: 6504
@@ -6013,6 +6520,7 @@
     dialog: 싱크로율 90% 도달, 창룡호 파일럿 MG36이 언제든지 행동 가능. 이번 작전은 꽤 어려우니까 끝나고 영화 티켓은 지휘관이 끊어줘.
     order: 77
     class_id: 69
+    skin_source: 3
   }
   {
     id: 6505
@@ -6022,6 +6530,7 @@
     dialog: 그 유치하고 순진한 소원을 실현할 방법이 정말 있다면, 지휘관, 저도 당신에게... 흑야! 아직 내 말 안 끝났어! 그 사람한테 함부로 얼굴 비비지 마!
     order: 77
     class_id: 69
+    skin_source: 3
   }
   {
     id: 6507
@@ -6031,6 +6540,7 @@
     dialog: '''"흩날리는 모래, 강철의 드래곤이 황야를 달린다." 지휘관, 나랑 같이 깨물이 타고 바람 쐬러 갈래?'''
     order: 77
     class_id: 69
+    skin_source: 3
   }
   {
     id: 6601
@@ -6040,6 +6550,7 @@
     dialog: 선물 뿌릴 때 꼭 산타하고 같이 있어야 하나요? 제가 발명한 선물 분사기가 효율적일 것 같은데요!
     order: 79
     class_id: 70
+    skin_source: 3
   }
   {
     id: 6603
@@ -6050,6 +6561,7 @@
     illustrator_cv: 八号地球,Takahashi Chiaki,
     order: 79
     class_id: 70
+    skin_source: 3
   }
   {
     id: 6604
@@ -6060,6 +6572,7 @@
     gift_position: "-298.7,89.7"
     order: 79
     class_id: 70
+    skin_source: 1
   }
   {
     id: 6605
@@ -6069,6 +6582,7 @@
     dialog: 지휘관, 같이 파도 타자! 간단하다고, 이렇게 파도를 붙잡고 따라서 올라가면 돼, 마치 바다 위를 걷는 것처럼...
     order: 79
     class_id: 70
+    skin_source: 3
   }
   {
     id: 6606
@@ -6078,6 +6592,7 @@
     dialog: 메리 크리스마스, 지휘관님. 올해의 얼음 수영 챔피언과 함께 선물을 드리러 왔어요! 네? 펭귄은 시합에 참가 못한다고요...?
     order: 79
     class_id: 70
+    skin_source: 3
   }
   {
     id: 6607
@@ -6087,6 +6602,7 @@
     dialog: 택배 왔어, 지휘관! 거기 말고, 내 허그 배달 왔어!
     order: 79
     class_id: 70
+    skin_source: 3
   }
   {
     id: 6608
@@ -6097,6 +6613,7 @@
     gift_position: "-215.8,-3.3"
     order: 79
     class_id: 70
+    skin_source: 1
   }
   {
     id: 6701
@@ -6107,6 +6624,7 @@
     illustrator_cv: RIRE,早見沙織,
     order: 80
     class_id: 71
+    skin_source: 3
   }
   {
     id: 6702
@@ -6116,6 +6634,7 @@
     dialog: 지휘관, 그렇게 계속 쳐다보지 말아줘. 이건 올해 제사를 위해 준비한 옷이니까... 춤을 보고 싶다고? 할 수 없지, 약간만 보여줄게.
     order: 80
     class_id: 71
+    skin_source: 3
   }
   {
     id: 6703
@@ -6125,6 +6644,7 @@
     dialog: 지휘관, 새해에 축구 말고 다른 운동 해볼래? 검도라던가...?
     order: 80
     class_id: 71
+    skin_source: 3
   }
   {
     id: 6704
@@ -6136,6 +6656,7 @@
     illustrator_cv: GINGALA,能登麻美子,
     order: 80
     class_id: 71
+    skin_source: 1
   }
   {
     id: 6705
@@ -6145,6 +6666,7 @@
     dialog: 대나무 위치를 조금 더... 앗, 지휘관이구나. 마침 잘 왔어. 이 "세한삼우" 말인데 어떻게 더 손볼까? 뭐? 그냥 대충하는 게 아니야, 꽃꽂이는 총기 손질처럼 따질 게 많다고!
     order: 80
     class_id: 71
+    skin_source: 3
   }
   {
     id: 6706
@@ -6154,6 +6676,7 @@
     dialog: 하암... 지휘관님, 오, 올해 첫 꿈으로 좋은 꿈 꾸셨나요? 저, 저요? 저는 꿈에서 제기치기밖에 못 봤어요...
     order: 80
     class_id: 71
+    skin_source: 3
   }
   {
     id: 6707
@@ -6173,6 +6696,7 @@
     dialog: 그믐달 밤, 눈밭 위 한란. 설에 비록 달빛은 없지만, 그리폰의 모두가 한자리에서 명절을 즐기는 순간은 보름달보다 아름다워.
     order: 82
     class_id: 72
+    skin_source: 3
   }
   {
     id: 6802
@@ -6182,6 +6706,7 @@
     dialog: 새해 복 많이 받아요! 뭔가 기운이 없어 보이시네요. 그럼 콜리브리가 1년 동안 아껴둔 붉은 호리병 콜라 한정판을 한 모금 마셔 보세요! 향이 그윽하고 정신이 확 든다고요!
     order: 82
     class_id: 72
+    skin_source: 3
   }
   {
     id: 6803
@@ -6191,6 +6716,7 @@
     dialog: 자, 지휘관. 같이 이 이과두주를 비웁시다! 어디 새해에 지휘 실력만큼 주량도 늘었는지 보겠어요!
     order: 82
     class_id: 72
+    skin_source: 3
   }
   {
     id: 6804
@@ -6201,6 +6727,7 @@
     gift_position: "-139.9,-71.1"
     order: 82
     class_id: 72
+    skin_source: 1
   }
   {
     id: 6805
@@ -6210,6 +6737,7 @@
     dialog: 지휘관님, 새해에도 잘 부탁드립니다... 지금 의상 말인가요? 제 관찰에 따르니 이 복장이 그리폰의 새해 복장임을 확신합니다, 저도 빨리 어울려야 해요!
     order: 82
     class_id: 72
+    skin_source: 3
   }
   {
     id: 6806
@@ -6220,6 +6748,7 @@
     gift_position: "-234.3,-83.2"
     order: 82
     class_id: 72
+    skin_source: 1
   }
   {
     id: 6807
@@ -6229,6 +6758,7 @@
     dialog: 저녁 햇빛에 늘어지는 오동 그림자, 산들바람에 풍기는 치자꽃 향기. 주인님, 저의 새해 선물, 바람과 함께 부르는 이 노래가 마음에 드시나요?
     order: 82
     class_id: 72
+    skin_source: 3
   }
   {
     id: 6808
@@ -6240,6 +6770,7 @@
     illustrator_cv: _椿日_,Kitamura Eri,
     order: 82
     class_id: 72
+    skin_source: 1
   }
   {
     id: 6809
@@ -6259,6 +6790,7 @@
     dialog: 지휘관, 정말 이런 미소녀랑 한잔 안 할 거야? 이거 내가 직접 고른 비싼 와인인데... 안심해, 취해도, 지휘관한테 무슨 짓 안 할 테니까~ 후훗♪
     order: 83
     class_id: 73
+    skin_source: 3
   }
   {
     id: 6902
@@ -6271,6 +6803,7 @@
     illustrator_cv: Nagu,Sakura Ayane,
     order: 83
     class_id: 73
+    skin_source: 1
   }
   {
     id: 6903
@@ -6282,6 +6815,7 @@
     illustrator_cv: 二花,Tadokoro Azusa,
     order: 83
     class_id: 73
+    skin_source: 3
   }
   {
     id: 6904
@@ -6292,6 +6826,7 @@
     dialog: 실례됐다면 죄송합니다. 그저 지휘관님께 말해드리고 싶은 게, 지휘관님께서 뭐라 하시든, 저는 당신을 어디까지나 따라가겠어요.
     order: 83
     class_id: 73
+    skin_source: 3
   }
   {
     id: 6905
@@ -6303,6 +6838,7 @@
     gift_position: "-116.9,-87.9"
     order: 83
     class_id: 73
+    skin_source: 1
   }
   {
     id: 6906
@@ -6313,6 +6849,7 @@
     dialog: 내 눈빛 말고, 몸짓만 봐도 내 생각을 읽을 수 있겠지? 그럼... 이제 어떡할 거야...?
     order: 83
     class_id: 73
+    skin_source: 3
   }
   {
     id: 6907
@@ -6323,6 +6860,7 @@
     dialog: 이 때가 오기까지 겨울 내내 기다렸어요. 그리고 지금은 저와 당신 단둘만의 시간이에요.
     order: 83
     class_id: 73
+    skin_source: 3
   }
   {
     id: 6908
@@ -6334,6 +6872,7 @@
     gift_position: "-160.2,56.9"
     order: 83
     class_id: 73
+    skin_source: 1
   }
   {
     id: 6909
@@ -6345,6 +6884,7 @@
     gift_position: "-131.9,-87"
     order: 83
     class_id: 73
+    skin_source: 1
   }
   {
     id: 7001
@@ -6355,6 +6895,7 @@
     illustrator_cv: --,Kokido Shiho,
     order: 85
     class_id: 74
+    skin_source: 3
   }
   {
     id: 7002
@@ -6364,6 +6905,7 @@
     dialog: 알겠습니다 사장님, 이미 처리 대기 사항에 등록해 최우선으로 처리하겠습니다... 공항에 신호가 안 좋아서 이따가 다시 연락할게요... 아싸! 출장을 가장한 휴가는 역시 최고야!
     order: 85
     class_id: 74
+    skin_source: 3
   }
   {
     id: 7003
@@ -6373,6 +6915,7 @@
     dialog: 난 회사가 너무 좋아, 일하는 게 너무 좋아... 이것만 다하면 쉴 수 있으니까 같이 힘내요, 선배님! 제가 생강차를 끓여왔으니까... 선배? 선배님!? 저만 두고 퇴근하지 말아주세요!
     order: 85
     class_id: 74
+    skin_source: 3
   }
   {
     id: 7004
@@ -6382,6 +6925,7 @@
     dialog: 드디어 오퍼를 받았다~ 첫 출근엔 반드시 회사 선배들에게 좋은 인상을 남겨야... 응? 방금 사옥 안에서 비명소리가 들린 것 같은데, 잘못 들었나...?
     order: 85
     class_id: 74
+    skin_source: 3
   }
   {
     id: 7101
@@ -6391,6 +6935,7 @@
     dialog: 저를 찾으셨나요? 도중에 나갈 생각은 없으니까 안심하세요, 그냥 조금 더워서 술로 식히는 거예요... 카펫을 더럽힌다고 나무라진 않으실 거죠?
     order: 86
     class_id: 75
+    skin_source: 3
   }
   {
     id: 7102
@@ -6400,6 +6945,7 @@
     dialog: 붉은 나비... 요즘은 보기 드물죠. 제 고향에 이런 설화가 있는데, 붉은 나비는 꿈속에서 마음에 둔 사람의 모습으로 변한대요... 어, 저는 당연히 진짜죠?
     order: 86
     class_id: 75
+    skin_source: 3
   }
   {
     id: 7103
@@ -6410,6 +6956,7 @@
     gift_position: "-110.9,-2"
     order: 86
     class_id: 75
+    skin_source: 1
   }
   {
     id: 7104
@@ -6419,6 +6966,7 @@
     dialog: 커튼을 들추는 순간, 통제를 벗어난 감정이 쏟아져 나올 거예요... 그래도 가까이 오실 건가요?
     order: 86
     class_id: 75
+    skin_source: 3
   }
   {
     id: 7105
@@ -6428,6 +6976,7 @@
     dialog: 구경하느라 정신없는 걸 보니, 내 정원이 엄청 아름답지? 이 돌을 깎아서 만든 은하수에 스스로 몸을 담그고 싶지 않아?
     order: 86
     class_id: 75
+    skin_source: 3
   }
   {
     id: 7106
@@ -6437,6 +6986,7 @@
     dialog: 제게 기도하세요, 운명은 저를 보내여 당신의 소원을 이루어 드리려... 지금 공연 리허설 중이에요, 주인님! 근데, 방금 비신 소원은... 저를 달래려고 한 말이 아니죠?
     order: 86
     class_id: 75
+    skin_source: 2
   }
   {
     id: 7107
@@ -6446,6 +6996,7 @@
     dialog: 오늘 밤 구름이 몽글몽글한 게 커다란 크림 케이크 같구먼! ...으에, 난 키가 작아서 맛보지도 못한다고? 그렇게 들쑤시지 말게나!
     order: 86
     class_id: 75
+    skin_source: 3
   }
   {
     id: 7108
@@ -6466,6 +7017,7 @@
     gift_position: "-144.2,-5.6"
     order: 87
     class_id: 76
+    skin_source: 1
   }
   {
     id: 7202
@@ -6477,6 +7029,7 @@
     illustrator_cv: 鳩山井鶴,Daimon Kami,
     order: 87
     class_id: 76
+    skin_source: 3
   }
   {
     id: 7203
@@ -6487,6 +7040,7 @@
     dialog: 잠깐, 여긴 내 땅이야. 내 부하들이 지금 겨울잠 자고 있으니까 일없으면 빨리 나가... 음, 그렇게 들어오고 싶어 안달난 모습을 봐서 입장료 내면 들어오게 해줄게.
     order: 87
     class_id: 76
+    skin_source: 3
   }
   {
     id: 7204
@@ -6497,6 +7051,7 @@
     dialog: 자, 잠깐, 끈을 물면 안 돼, 빨리 돌려줘... 앗! 같은 쪽으로 가지 마! 대칭이 깨지잖아! 우으으... 지휘관님, 도와주세요...!
     order: 87
     class_id: 76
+    skin_source: 3
   }
   {
     id: 7205
@@ -6507,6 +7062,7 @@
     dialog: 지휘관, 이건 내가 디자인한 다목적 카트야. 여기에 물건을 올려두면 두 손은 놀 수 있지. 내가 시범 보여줄게... 어라? 왜 연기가 나지!?
     order: 87
     class_id: 76
+    skin_source: 3
   }
   {
     id: 7206
@@ -6517,6 +7073,7 @@
     dialog: 이렇게 오려낸 팬더 귀를 머리에 쓰면 팬더의 친구가 될 수 있어요! 지휘관님 것도 하나 만들었는데요...
     order: 87
     class_id: 76
+    skin_source: 3
   }
   {
     id: 7301
@@ -6526,6 +7083,7 @@
     dialog: 힘들다... 이 애들은 바다를 처음 보는 건가? 냅다 바다로 자폭돌격을 하니까 일일이 끌고와야 했어... 오후 내내.
     order: 88
     class_id: 77
+    skin_source: 2
   }
   {
     id: 7302
@@ -6535,6 +7093,7 @@
     dialog: 감자 스틱을 들고 자판기 옆에 있으면 이 해역에서 가장 흉폭한 맹수를 소환할 수 있다고 들었어요. 근데 지금 반나절을 기다렸는데 갈매기밖에 안 보이는데요...
     order: 88
     class_id: 77
+    skin_source: 3
   }
   {
     id: 7303
@@ -6544,6 +7103,7 @@
     dialog: 조심하거라, 지휘관. 어둠의 군단이 이번엔 열풍으로 우리의 진지를 뒤엎을 셈이다! 마틸다 경은 이미 쓰러졌지만 나는 절대... 얼음으로 지은 성역을 잃는 한이 있어도 나는 굴복하지 않는다!
     order: 88
     class_id: 77
+    skin_source: 2
   }
   {
     id: 7304
@@ -6554,6 +7114,7 @@
     gift_position: "-113,-10.3"
     order: 88
     class_id: 77
+    skin_source: 1
   }
   {
     id: 7305
@@ -6563,6 +7124,7 @@
     dialog: 보고 드립니다. 현재 주변에서 식재로 삼을 어류를 찾고 있습니다. 지금 모두 재밌게 놀고 있지만 지나치게 놀다 배가 고파지면 안 되니까요.
     order: 88
     class_id: 77
+    skin_source: 3
   }
   {
     id: 7306
@@ -6573,6 +7135,7 @@
     gift_position: "-92.8,-0.2"
     order: 88
     class_id: 77
+    skin_source: 1
   }
   {
     id: 7307
@@ -6582,6 +7145,7 @@
     dialog: 같이 과일 좀 먹을래, 지휘관? 어라, 어디서 Vz61이 소리 지르는 것 같은데... 내가 잘못 들었나?
     order: 88
     class_id: 77
+    skin_source: 3
   }
   {
     id: 7308
@@ -6592,6 +7156,7 @@
     gift_position: "-130.9,155.3"
     order: 88
     class_id: 77
+    skin_source: 1
   }
   {
     id: 7401
@@ -6601,6 +7166,7 @@
     dialog: 후우~ 선외 작업 무사 완료. 이제 돌아가도... 어라, 내가 해치 열쇠를 어디다 뒀지!?
     order: 89
     class_id: 78
+    skin_source: 3
   }
   {
     id: 7402
@@ -6610,6 +7176,7 @@
     dialog: 여기엔 씨앗과 요목이 충분이 있어. 환경이 적당한 행성만 찾으면 거기도 과일향이 풍기는 세상으로 만들고 싶어!
     order: 89
     class_id: 78
+    skin_source: 3
   }
   {
     id: 7403
@@ -6619,6 +7186,7 @@
     dialog: 우주 항로를 개척하면 행성간 광관이 유행이 될 거래! 그럼 내가 판다 여행 항로를 뚫어서 온 우주에 동글동글한 귀여움을 전파할 거야!
     order: 89
     class_id: 78
+    skin_source: 3
   }
   {
     id: 7404
@@ -6628,6 +7196,7 @@
     dialog: 외계 침입자를 발견, 즉시 경보! 와아~ 그냥 해본 소리였는데 다들 바로 전투 상태가 됐네, 아하하하!
     order: 89
     class_id: 78
+    skin_source: 3
   }
   {
     id: 7406
@@ -6638,6 +7207,7 @@
     illustrator_cv: 小枪,Kugimiya Rie,
     order: 89
     class_id: 78
+    skin_source: 3
   }
   {
     id: 7407
@@ -6647,6 +7217,7 @@
     dialog: 이 기체로 우주에서 가장 눈부신 섬광을 피워내겠어요. 초신성 결전병기 파일럿, 아이짱 출격!
     order: 89
     class_id: 78
+    skin_source: 3
   }
   {
     id: 7408
@@ -6665,6 +7236,7 @@
     dialog: 수많은 날밤을 세워 연습한 건 바로 오늘 여기서 내 춤을 보여주기 위해서... 이제 내 차례네, 지휘관. 눈 깜빡하지도 말라고.
     order: 92
     class_id: 79
+    skin_source: 3
   }
   {
     id: 7502
@@ -6675,6 +7247,7 @@
     gift_position: "-132,-67"
     order: 92
     class_id: 79
+    skin_source: 1
   }
   {
     id: 7503
@@ -6684,6 +7257,7 @@
     dialog: 저쪽이 기세등등한 걸 봐선 이번 판은 힘들겠어, 지휘관. 그냥 기권하고... 안 돼? 알았어, 그럼 가자고.
     order: 92
     class_id: 79
+    skin_source: 3
   }
   {
     id: 7504
@@ -6693,6 +7267,7 @@
     dialog: 지휘관도 다운힐 경기에 참가할 거야? 여기 지형은 반사신경과 기술을 엄청 요구한다고, 실력에 자신 있다면 같이 출발하자!
     order: 92
     class_id: 79
+    skin_source: 3
   }
   {
     id: 7505
@@ -6702,6 +7277,7 @@
     dialog: 후우... 후우... 선수들의 의욕 모두 나와 Gsh-18의 응원으로 달아올랐어~! 어라, 벌써 시간이 이렇게 됐네? 빨리 다른 시합을 응원하러 가야... 앗, Gsh-18, 기다려!
     order: 92
     class_id: 79
+    skin_source: 3
   }
   {
     id: 7506
@@ -6711,6 +7287,7 @@
     dialog: 동료들의 기대에 부응하기 위해서 여기서 꼭 이겨야 해... 승부의 결정 짓는 건 바로 지금, 내 마지막 카운터를 받아라!
     order: 92
     class_id: 79
+    skin_source: 3
   }
   {
     id: 7601
@@ -6720,6 +7297,7 @@
     dialog: 빨간 풍선 좋아해, 보스? 응? 좀 더 가까이 안 올 거야? 내 모습이 그렇게 무서운 거야? 그건 정말... 흥분되네.
     order: 94
     class_id: 81
+    skin_source: 3
   }
   {
     id: 7602
@@ -6730,6 +7308,7 @@
     gift_position: "-98,2.5"
     order: 94
     class_id: 81
+    skin_source: 1
   }
   {
     id: 7603
@@ -6739,6 +7318,7 @@
     dialog: 이 모습으론 수평을 유지해야 해서 엄청 불편하네요. 한 가지 제안하는데, 제 꼬리를 들어 주세요. 저랑 당신이 꼬리에 발이 걸려 넘어지지 않게.
     order: 94
     class_id: 81
+    skin_source: 3
   }
   {
     id: 7604
@@ -6748,6 +7328,7 @@
     dialog: 칼날과 이빨로 당신께 미래를 열어드리겠습니다. 그 대신에 제 저녁으로 빵과 염화나트륨을 남겨주세요.
     order: 94
     class_id: 81
+    skin_source: 3
   }
   {
     id: 7605
@@ -6757,6 +7338,7 @@
     dialog: 지휘관님을 독점할 수 없다면 지휘관님의 사탕을 독점하겠어요! 다른 사람이 사탕을 못 받아서 장난치면 어쩌냐고요? 흠, 절 따라잡으면 돌려줄게요. 어때요?
     order: 94
     class_id: 81
+    skin_source: 3
   }
   {
     id: 7606
@@ -6777,6 +7359,7 @@
     illustrator_cv: 星迴,Yamane Nozomi,
     order: 94
     class_id: 81
+    skin_source: 3
   }
   {
     id: 7701
@@ -6786,6 +7369,7 @@
     dialog: 전설에 류 일족은 용을 부리는 고수 가문이라고 해요... 이 혈통에 담긴 힘은 분명 제 권법에서 각성하겠죠!
     order: 96
     class_id: 82
+    skin_source: 3
   }
   {
     id: 7702
@@ -6796,6 +7380,7 @@
     gift_position: "-88.6,26.4"
     order: 96
     class_id: 82
+    skin_source: 1
   }
   {
     id: 7703
@@ -6805,6 +7390,7 @@
     dialog: 우산과 일체가 되어 내 마음대로 부린다... 각인을 안 했어도 신기하게 손 안의 물건과 내가 공명하는 것이 느껴져... 이것이 동양 무술의 매력인가?
     order: 96
     class_id: 82
+    skin_source: 3
   }
   {
     id: 7704
@@ -6814,6 +7400,7 @@
     dialog: 마켓의 폐기 직전 술로 어떻게 먼길 따라 보내온 샘물로 빚은 술에 견줄 수 있겠나요? ... 그래요, 산 쪽의 소매점 물건이 싸긴 해요...
     order: 96
     class_id: 82
+    skin_source: 3
   }
   {
     id: 7705
@@ -6823,6 +7410,7 @@
     dialog: 이 기술 "백학전익"을 마스터 하면 소녀가 새해에 그리폰 수호신으로 문에 그려질 수 있다고 들었사옵니다! 응, 열심히 하겠사옵니다!
     order: 96
     class_id: 82
+    skin_source: 3
   }
   {
     id: 7706
@@ -6832,6 +7420,7 @@
     dialog: 설마 쌍절곤을 바나나 같은 색으로 칠했더니 수준이 급상승할 줄이야! (꼬르륵...) 앗, 조금 출출해졌어!
     order: 96
     class_id: 82
+    skin_source: 3
   }
   {
     id: 7801
@@ -6841,6 +7430,7 @@
     dialog: 가져가, 메리 크리스마스... 뭐? 오늘 왜 이어폰 안 끼고 있냐고? 네가 선물받고 뭐라고 하나 듣자고 그러지!
     order: 98
     class_id: 83
+    skin_source: 3
   }
   {
     id: 7802
@@ -6850,6 +7440,7 @@
     dialog: 코치님, 라떼 고마워요! 설원 축구 시합에서 저의 활약을 보실 건가요? 일단 저희팀이 이긴다에 거시면 돼요!
     order: 98
     class_id: 83
+    skin_source: 3
   }
   {
     id: 7804
@@ -6859,6 +7450,7 @@
     dialog: 휴, 방금 그 눈덩이를 아슬아슬 피했네. 어라, MPK가 어디 갔지... 뭐?! 걔랑 지휘관이 방금 그 눈덩이 안에 있었다고!?
     order: 98
     class_id: 83
+    skin_source: 3
   }
   {
     id: 7806
@@ -6868,6 +7460,7 @@
     dialog: 야호! 초고난이도 동작 또 하나 성공이다! 잠깐... 저기 앞에 있는 거 지휘관이잖아? 비켜비켜, 나 멈출 수가 없어어어!
     order: 98
     class_id: 83
+    skin_source: 3
   }
   {
     id: 7807
@@ -6877,6 +7470,7 @@
     dialog: 조심해라, 지휘관. 이 추운 눈밭 속에도 굳세게 피어나는 꽃이 있으니 말이다. 그 마음을 짓밟지 않도록 주의하거라.
     order: 98
     class_id: 83
+    skin_source: 3
   }
   {
     id: 7809
@@ -6896,6 +7490,7 @@
     dialog: 새해 액막이라고 한다면, 그냥 제기보다 이 소형 유탄이 훨씬 낫지 않나? 놀란 거 봐라, 이건 그냥 보드카를 담은 작은 술병일 뿐이야.
     order: 99
     class_id: 84
+    skin_source: 3
   }
   {
     id: 7903
@@ -6905,6 +7500,7 @@
     dialog: 에이, 쫄지 말아! 방금 흔든 건 발포주가 아니라 벚꽃잎 담은 병이야! 자, 아직 다 안 뿌렸을 때 새해 소원하나 빌지 그래?
     order: 99
     class_id: 84
+    skin_source: 3
   }
   {
     id: 7904
@@ -6914,6 +7510,7 @@
     dialog: 새해 첫 해돋이보다는 당신과 함께 별이 가득한 첫 밤하늘을 감상하고 싶어요... 지휘관님, 지도를 챙기고 함께 가주실 거죠?
     order: 99
     class_id: 84
+    skin_source: 3
   }
   {
     id: 7905
@@ -6923,6 +7520,7 @@
     dialog: 기지의 장식이 너무 소박해서 새해 분위기가 전혀 안 나... 그래서 내가 특별히 조경을 한 세트 통째로 주문했지. 이러고 새해 인사를 해야 느낌이 있지 않겠어?
     order: 99
     class_id: 84
+    skin_source: 3
   }
   {
     id: 7906
@@ -6933,6 +7531,7 @@
     illustrator_cv: 巫目目,Sowa Harumi,
     order: 99
     class_id: 84
+    skin_source: 3
   }
   {
     id: 7907
@@ -6952,6 +7551,7 @@
     dialog: 다녀오셨어요, 지휘관님? 아, 이 로봇 토끼요? 지휘관님 기다리는 동안 만든 거예요. 엄청 귀엽죠? 새해 복 많이 받으세요! 새해에도 함께 많은 걸 발명해요~
     order: 100
     class_id: 85
+    skin_source: 3
   }
   {
     id: 8002
@@ -6962,6 +7562,7 @@
     gift_position: "-62.4,-107.1"
     order: 100
     class_id: 85
+    skin_source: 1
   }
   {
     id: 8003
@@ -6971,6 +7572,7 @@
     dialog: 드레스에 주머니가 없어서 끈을 하나 구해서 열쇠를 묶었어. 어라, 무슨 열쇠가 이렇게 많지? 나한테 나조차도 모르는 보물이 잔뜩 있는 것일까?
     order: 100
     class_id: 85
+    skin_source: 3
   }
   {
     id: 8004
@@ -6980,6 +7582,7 @@
     dialog: 지휘관님, 예쁜 새해 예복을 선물해 주셔서 감사합니다. 새해에 청색과 적색이 조합된 치마를 입고 앵무새와 노는 것도 특별한 추억이 되겠죠.
     order: 100
     class_id: 85
+    skin_source: 3
   }
   {
     id: 8005
@@ -6989,6 +7592,7 @@
     dialog: 지휘관님, 샤오롱바오 한 통 드릴까요? 육즙이 가득하고 고소하답니다~ 물론 값어치는 지불하셔야죠. 한 번 껴안아 주시는 건 어때요?
     order: 100
     class_id: 85
+    skin_source: 3
   }
   {
     id: 8006
@@ -6999,6 +7603,7 @@
     gift_position: "-104.6,37.8"
     order: 100
     class_id: 85
+    skin_source: 1
   }
   {
     id: 8007
@@ -7008,6 +7613,7 @@
     dialog: 보스, 다 그렸어? 대체 이 자세를 언제까지 잡고 있어야 돼... 괜찮아, 그렇게 빨리 못 그리는 건 아니까. 그래서 이 새들은 다 모형으로 준비했지, 온몸에 깃털 달라붙는 건 사양이니까.
     order: 100
     class_id: 85
+    skin_source: 3
   }
   {
     id: 8008
@@ -7028,6 +7634,7 @@
     dialog: 호숫가에서 한 약속대로, 오늘 밤 사람이 되어 만나러 왔답니다... 음? 왜 그런 얼굴로 보시나요? 가짜 백조라 해도 당신을 향한 마음은 진실이랍니다.
     order: 103
     class_id: 86
+    skin_source: 3
   }
   {
     id: 8102
@@ -7039,6 +7646,7 @@
     gift_position: "-194.3,62.6"
     order: 103
     class_id: 86
+    skin_source: 1
   }
   {
     id: 8103
@@ -7049,6 +7657,7 @@
     dialog: 여길 잔뜩 뒤져봤지만 멀쩡한 건 이 첼로뿐인 것 같더군요... 잠깐 저주받은 왕자 역할을 맡아, 무겁고 잔잔한 선율에 맞춰 함께 한 곡 춤을 추시겠나요?
     order: 103
     class_id: 86
+    skin_source: 3
   }
   {
     id: 8105
@@ -7059,6 +7668,7 @@
     dialog: 저주의 기한이 찾아오면 왕궁을 감싼 가시덩굴은 그 운명의 사람을 위해 길을 열어준다... 저는 이 이야기의 질서를 참 좋아합니다. 지휘관님께서 1초 차이 없이 약속시간에 맞춰 온 것처럼요.
     order: 103
     class_id: 86
+    skin_source: 3
   }
   {
     id: 8106
@@ -7069,6 +7679,7 @@
     dialog: 지휘관님, 예약하신 "판타지 나무굴 커플 투어"가 곧 출발합니다~ 안심하세요, 날짜를 앞당긴 게 아니라 교통비를 절약하기 위해 거기까지 걸어가는 거예요.
     order: 103
     class_id: 86
+    skin_source: 3
   }
   {
     id: 8107
@@ -7090,6 +7701,7 @@
     dialog: 봄의 진흙 요정들아, 내 곁에 날아오너라! 내가 가장 예쁜 돌멩이를 줄 테니, 너희는 눈부신 새옷을 다오. 지휘관의 시선이 평생 내게서 떨어지지 않도록!
     order: 103
     class_id: 86
+    skin_source: 3
   }
   {
     id: 8201
@@ -7100,6 +7712,7 @@
     illustrator_cv: umo,Yuuki Kana,
     order: 107
     class_id: 87
+    skin_source: 2
   }
   {
     id: 8202
@@ -7110,6 +7723,7 @@
     gift_position: "-187,125.2"
     order: 107
     class_id: 87
+    skin_source: 1
   }
   {
     id: 8203
@@ -7119,6 +7733,7 @@
     dialog: 요, 지휘관. 전설의 크라켄이 바다에 나타났다고 해. 다리 한 가닥만 해도 수십 미터나 된다는데, 같이 사냥하러 가자!
     order: 107
     class_id: 87
+    skin_source: 2
   }
   {
     id: 8204
@@ -7129,6 +7744,7 @@
     illustrator_cv: Luuuo,Shimizu Ai,
     order: 107
     class_id: 87
+    skin_source: 2
   }
   {
     id: 8205
@@ -7138,6 +7754,7 @@
     dialog: 바람의 안내를 따라 함대는 이미 출항했다. 병력이 부족해? 바다 위의 사정은 다 배로 해결하지 병력하곤 관계 없어. 넌 항구에서 내가 돌아오기만을 기다려.
     order: 107
     class_id: 87
+    skin_source: 2
   }
   {
     id: 8206
@@ -7147,6 +7764,7 @@
     dialog: 히히, 키드 선장의 4장의 보물지도롤 찾아냈어요. 이제 이 숫자의 수수께끼만 풀면 돼요. 44-10-66-18, 이게 대체 무슨 뜻일까요...
     order: 107
     class_id: 87
+    skin_source: 2
   }
   {
     id: 8301
@@ -7157,6 +7775,7 @@
     illustrator_cv: RIRE,Nakae Mitsuki,
     order: 108
     class_id: 88
+    skin_source: 2
   }
   {
     id: 8302
@@ -7167,6 +7786,7 @@
     gift_position: "-131.5,93.7"
     order: 108
     class_id: 88
+    skin_source: 1
   }
   {
     id: 8303
@@ -7177,6 +7797,7 @@
     gift_position: "-123.5,-25.6"
     order: 108
     class_id: 88
+    skin_source: 1
   }
   {
     id: 8304
@@ -7186,6 +7807,7 @@
     dialog: 절 계속 지켜보신 게 아니면 제가 계속 지휘관님을 지켜본 걸 어떻게 아시죠? 아무튼 우린 쌤쌤인 거예요... 우리의 이심전심에 건배하는 게 어때요?
     order: 108
     class_id: 88
+    skin_source: 2
   }
   {
     id: 8305
@@ -7195,6 +7817,7 @@
     dialog: 요란한 연회는 외계 지능생물을 끌어온다고 들었습니다... 그래도 걱정 마시길, 여기 특제 해장차가 있으니 제가 상시 지휘관님의 안부를 주의할 수 있습니다.
     order: 108
     class_id: 88
+    skin_source: 2
   }
   {
     id: 8306
@@ -7205,6 +7828,7 @@
     illustrator_cv: yoyo,Tachibana Rika,
     order: 108
     class_id: 88
+    skin_source: 2
   }
   {
     id: 8307
@@ -7214,6 +7838,7 @@
     dialog: 정신 놓아 버려, 지휘관! 총알 세례도 다 겪어봤는데 샴페인 거품쯤 뭐가 대수야!
     order: 108
     class_id: 88
+    skin_source: 2
   }
   {
     id: 8309
@@ -7235,6 +7860,7 @@
     dialog: 말랑말랑 푹신푹신... 후우... 방금 꿈에서 본 지저분한 지하실보다 훨씬 편해...
     order: 110
     class_id: 89
+    skin_source: 3
   }
   {
     id: 8402
@@ -7247,6 +7873,7 @@
     gift_position: "-98.9,207.9"
     order: 110
     class_id: 89
+    skin_source: 1
   }
   {
     id: 8403
@@ -7258,6 +7885,7 @@
     dialog: 98... 99... 음... 잠깐만! 너 사탕봉지 내놔! 한 장만 더 모으면 100장으로 새 막대사탕으로 바꿀 수 있어.
     order: 110
     class_id: 89
+    skin_source: 3
   }
   {
     id: 8404
@@ -7269,6 +7897,7 @@
     dialog: 지휘관, 이 로봇개 주인이 누군지 아시나요? 방금 주방에 음료 꺼내러 갔더니, 계속 졸졸 따라와서...
     order: 110
     class_id: 89
+    skin_source: 3
   }
   {
     id: 8405
@@ -7281,6 +7910,7 @@
     illustrator_cv: 星迴,Itatani Ayaka,
     order: 110
     class_id: 89
+    skin_source: 3
   }
   {
     id: 8406
@@ -7293,6 +7923,7 @@
     illustrator_cv: 小星,Matsui Eriko,
     order: 110
     class_id: 89
+    skin_source: 3
   }
   {
     id: 8501
@@ -7303,6 +7934,7 @@
     gift_position: "-76.4,-129.6"
     order: 113
     class_id: 90
+    skin_source: 1
   }
   {
     id: 8502
@@ -7312,6 +7944,7 @@
     dialog: 파도 소리는 너무 시끄럽지만, 산속 맑은 샘의 소리는 마음이 편해지죠... 지휘관님도 그런 이유로 여기에 오신 거겠죠?
     order: 113
     class_id: 90
+    skin_source: 2
   }
   {
     id: 8503
@@ -7322,6 +7955,7 @@
     illustrator_cv: 星迴,Yukino Satsuki,
     order: 113
     class_id: 90
+    skin_source: 2
   }
   {
     id: 8504
@@ -7331,6 +7965,7 @@
     dialog: 바다 낚시는 쫓고 쫓기는 놀이로, 사냥감과 사냥꾼이 한 순간 뒤집힐 수 있습니다. 사나운 대어가 홀로 떠도는 "작은 물고기"에 이끌렸을 때, 제 사냥감이 될 운명이 되는 것이죠.
     order: 113
     class_id: 90
+    skin_source: 2
   }
   {
     id: 8505
@@ -7340,6 +7975,7 @@
     dialog: 자외선 차단 물품 안 챙겼나요, 지휘관님? 음, 그럴 줄 알았으면 하나 더 챙겼을 텐데... 그럼... 빨리 제 곁에 앉으세요. 여기 나무 그늘도 있고 제 차양모도 있잖아요!
     order: 113
     class_id: 90
+    skin_source: 2
   }
   {
     id: 8506
@@ -7349,6 +7985,7 @@
     dialog: 패스볼 시합 우승의 비결? 간단하지! 이렇게 반듯이 누으면 몸이 저절로 물에 뜨니까 두 손으로 공을 받으면... 어라라? 지휘관은 왜 가라앉는 거야!?
     order: 113
     class_id: 90
+    skin_source: 2
   }
   {
     id: 8507
@@ -7359,6 +7996,7 @@
     gift_position: "-41,-121"
     order: 113
     class_id: 90
+    skin_source: 1
   }
   {
     id: 8601
@@ -7368,6 +8006,7 @@
     dialog: '''"미리 1시간 일찍 출발하라"고 확실히 제가 요구했죠, 당신의 인기와 잠재적인 불한당 수량에 기반해 결정한 것으로... 왜 얼굴이 새파랗게 질렸죠? 그냥 농담이에요.'''
     order: 114
     class_id: 91
+    skin_source: 2
   }
   {
     id: 8602
@@ -7378,6 +8017,7 @@
     gift_position: "-131.5,93.7"
     order: 114
     class_id: 91
+    skin_source: 1
   }
   {
     id: 8603
@@ -7388,6 +8028,7 @@
     gift_position: "-123.5,-25.6"
     order: 114
     class_id: 91
+    skin_source: 1
   }
   {
     id: 8604
@@ -7397,6 +8038,7 @@
     dialog: 재촉하지 말아주세요, 지금 열심히 그리고 있는 중이니까요! 화면에 이상한 창은 왜 이렇게 많냐고요? 이건 영감 수집하기 위한 자료들이에요!
     order: 114
     class_id: 91
+    skin_source: 2
   }
   {
     id: 8605
@@ -7407,6 +8049,7 @@
     gift_position: "-125.62,-161.2"
     order: 114
     class_id: 91
+    skin_source: 1
   }
   {
     id: 8606
@@ -7417,6 +8060,7 @@
     gift_position: "-113.7,-150"
     order: 114
     class_id: 91
+    skin_source: 1
   }
   {
     id: 8607
@@ -7427,6 +8071,7 @@
     gift_position: "-13,-150"
     order: 114
     class_id: 91
+    skin_source: 1
   }
   {
     id: 8608
@@ -7437,6 +8082,7 @@
     gift_position: "-29.8,-150"
     order: 114
     class_id: 91
+    skin_source: 1
   }
   {
     id: 8609
@@ -7446,6 +8092,7 @@
     dialog: 지난 한 해 즐거운 협조를 반영하여, 계약 연장 합의서에 특별 사항을 추가했습니다: 앞으로 만날 때마다 제가 직접 당신께 특별 커피를 끓여 드린다... 이견 없으시다면 여기에 서명해 주세요.
     order: 114
     class_id: 91
+    skin_source: 2
   }
   {
     id: 8610
@@ -7454,6 +8101,17 @@
     voice: 4
     dialog: '''"서명해, 절대 거절할 수 없는 미래에..." 어때, 지휘관? 뜻 있는 청년들 분명 내가 새로 짠 모집 슬로건에 마음이 움직일 거야! 그리폰이 마하의 속도로 발전할 거라구!'''
     illustrator_cv: --,Inoue Marina,
+    order: 114
+    class_id: 91
+    skin_source: 2
+  }
+  {
+    id: 8611
+    name: LWMMG - 봉급 정산가
+    fit_gun: 81
+    voice: 4
+    dialog: 보스의 새 사무실이 참 비범하군요. 보스의 올해 재무 보고서처럼... 그러고 보니 저의 봉급도 조금 올려주실 수 없을까요?
+    gift_position: "-138.6,-154.4"
     order: 114
     class_id: 91
   }
@@ -7485,6 +8143,7 @@
     gift_position: "-96.4,14.32"
     order: 116
     class_id: 92
+    skin_source: 1
   }
   {
     id: 8703
@@ -7530,6 +8189,7 @@
     dialog: 어서 타, 이 콜라 한 캔 다 마시고 바로 출발할게... 사랑의 도피...? 나한테 황야에 내동댕이쳐져도 괜찮다면 다시 말해봐.
     gift_position: "90,-52"
     order: 91
+    skin_source: 1
   }
   {
     id: 30002

@@ -5362,13 +5362,13 @@
   {
     id: 786
     name: 개인임무 보상86
-    item_ids: 17-2
+    item_ids: 14-240,15-100
     content: 처음으로 5성까지 승진.
   }
   {
     id: 787
     name: 개인임무 보상87
-    item_ids: 17-2
+    item_ids: 14-240,15-100
     content: 처음으로 중장비 부대의 경험훈련을 완료.
   }
   {
@@ -5386,7 +5386,7 @@
   {
     id: 790
     name: 개인임무 보상90
-    item_ids: 17-2
+    item_ids: 14-240,15-100
     content: 처음으로 버전 업.
   }
   {
@@ -13387,6 +13387,126 @@
     id: 2138
     name: 300000점 보상
     fairy_ids: 34-757184
+  }
+  {
+    id: 2139
+    name: "6"
+    item_ids: 100196-6
+  }
+  {
+    id: 2140
+    name: "8"
+    item_ids: 100196-8
+  }
+  {
+    id: 2141
+    name: "10"
+    item_ids: 100196-10
+  }
+  {
+    id: 2142
+    name: "12"
+    item_ids: 100196-12
+  }
+  {
+    id: 2143
+    name: "15"
+    item_ids: 100196-15
+  }
+  {
+    id: 2144
+    name: a
+    item_ids: 100194-1
+  }
+  {
+    id: 2145
+    name: b
+    item_ids: 100195-1
+  }
+  {
+    id: 2146
+    name: 2a
+    item_ids: 100194-2
+  }
+  {
+    id: 2147
+    name: 2b
+    item_ids: 100195-2
+  }
+  {
+    id: 2148
+    name: 6+a
+    item_ids: 100196-6,100194-1
+  }
+  {
+    id: 2149
+    name: 6+b
+    item_ids: 100196-6,100195-1
+  }
+  {
+    id: 2150
+    name: 8+a
+    item_ids: 100196-8,100194-1
+  }
+  {
+    id: 2151
+    name: 8+b
+    item_ids: 100196-8,100195-1
+  }
+  {
+    id: 2152
+    name: 10+a
+    item_ids: 100196-10,100194-1
+  }
+  {
+    id: 2153
+    name: 10+b
+    item_ids: 100196-10,100195-1
+  }
+  {
+    id: 2154
+    name: 12+2a
+    item_ids: 100196-12,100194-2
+  }
+  {
+    id: 2155
+    name: 12+2b
+    item_ids: 100196-12,100195-2
+  }
+  {
+    id: 2156
+    name: 15+2b
+    item_ids: 100196-15,100195-2
+  }
+  {
+    id: 2157
+    name: 15+2a
+    item_ids: 100196-15,100194-2
+  }
+  {
+    id: 2158
+    name: 12+b
+    item_ids: 100196-12,100195-1
+  }
+  {
+    id: 2159
+    name: 가구: DIY 스페셜 센터
+    furniture: "20107"
+  }
+  {
+    id: 2160
+    name: 가구: 호승심 블랙홀
+    furniture: "20108"
+  }
+  {
+    id: 2161
+    name: 가구: 벼락치기 나이트
+    furniture: "20109"
+  }
+  {
+    id: 2162
+    name: AS Val 전용장비: 곰돌 보조 처리장치
+    equip_ids: "360"
   }
   {
     id: 3001
@@ -23035,6 +23155,47 @@
     item_ids: 10706-90
   }
   {
+    id: 7624
+    name: 회색지대 기갑지점 보상1
+    ammo: 300
+    mre: 300
+  }
+  {
+    id: 7625
+    name: 회색지대 기갑지점 보상2
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+  }
+  {
+    id: 7626
+    name: 회색지대 기갑지점 보상3
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+    item_ids: 44-15
+  }
+  {
+    id: 7627
+    name: 회색지대 기갑지점 보상4
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+    item_ids: 46-25,44-15
+  }
+  {
+    id: 7628
+    name: 회색지대 기갑지점 보상5
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+    item_ids: 9-5,46-25,44-15
+  }
+  {
     id: 7631
     name: 회색지대 드랍
     item_ids: 10707-30
@@ -23123,6 +23284,96 @@
     id: 7648
     name: 회색지대 드랍
     item_ids: 10707-90
+  }
+  {
+    id: 7649
+    name: 회색지대 드랍
+    item_ids: 10708-30
+  }
+  {
+    id: 7650
+    name: 회색지대 드랍
+    item_ids: 10708-45
+  }
+  {
+    id: 7651
+    name: 회색지대 드랍
+    item_ids: 10708-60
+  }
+  {
+    id: 7652
+    name: 회색지대 드랍
+    item_ids: 10708-45
+  }
+  {
+    id: 7653
+    name: 회색지대 드랍
+    item_ids: 10708-68
+  }
+  {
+    id: 7654
+    name: 회색지대 드랍
+    item_ids: 10708-90
+  }
+  {
+    id: 7655
+    name: 회색지대 드랍
+    item_ids: 10708-90
+  }
+  {
+    id: 7656
+    name: 회색지대 드랍
+    item_ids: 10708-120
+  }
+  {
+    id: 7657
+    name: 회색지대 드랍
+    item_ids: 10708-75
+  }
+  {
+    id: 7658
+    name: 회색지대 드랍
+    item_ids: 10708-150
+  }
+  {
+    id: 7659
+    name: 회색지대 드랍
+    item_ids: 10708-60
+  }
+  {
+    id: 7660
+    name: 회색지대 드랍
+    item_ids: 10708-135
+  }
+  {
+    id: 7661
+    name: 회색지대 드랍
+    item_ids: 10708-180
+  }
+  {
+    id: 7662
+    name: 회색지대 드랍
+    item_ids: 10708-180
+  }
+  {
+    id: 7663
+    name: 회색지대 드랍
+    item_ids: 10708-270
+  }
+  {
+    id: 7664
+    name: 회색지대 드랍
+    item_ids: 10708-360
+  }
+  {
+    id: 7665
+    name: 회색지대 드랍
+    item_ids: 10708-112
+  }
+  {
+    id: 7666
+    name: 회색지대 드랍
+    item_ids: 10708-90
   }
   {
     id: 8001
@@ -23413,7 +23664,7 @@
   {
     id: 8204
     name: 중장비 부대 패키지
-    item_ids: 519-30,46-600,506-1000
+    item_ids: 15-1500,14-3600,46-600,506-1000
     coins: 1-1800,2-1800,3-1800
   }
   {
@@ -23451,7 +23702,7 @@
     id: 8310
     name: 위클리 그리폰:50
     core: 10
-    item_ids: 4-10,1-5,2-5,14-20,50-5,10702-70
+    item_ids: 4-10,1-5,2-5,14-90,50-5,10702-70
     content: 보상 수령
     icon: Bumdle_purple
   }
@@ -23459,7 +23710,7 @@
     id: 8311
     name: 위클리 그리폰:100
     core: 10
-    item_ids: 525-5,3-5,4-10,1-5,2-10,14-30,15-20,50-10,10702-70
+    item_ids: 525-5,3-5,4-10,1-5,2-10,14-120,15-60,50-10,10702-70
     content: 보상 수령
     icon: Bumdle_navy
   }
@@ -23467,21 +23718,21 @@
     id: 8312
     name: 위클리 그리폰:150
     core: 10
-    item_ids: 525-5,3-5,16-5,2-15,14-50,15-20,50-10,41-5,44-10,6009-1,10702-80
+    item_ids: 525-5,3-5,16-5,2-15,14-160,15-70,50-10,41-5,44-10,6009-1,10702-80
     content: 보상 수령
     icon: Bumdle_blue
   }
   {
     id: 8313
     name: 위클리 그리폰:200
-    item_ids: 525-5,3-5,16-5,14-100,15-30,41-15,44-10,10604-1,10702-80
+    item_ids: 525-5,3-5,16-5,14-200,15-95,41-15,44-10,10604-1,10702-80
     content: 보상 수령
     icon: Bumdle_orange
   }
   {
     id: 8314
     name: 위클리 그리폰:250
-    item_ids: 525-5,3-5,15-30,41-20,605-1,10702-80
+    item_ids: 525-5,3-5,14-260,15-130,41-20,605-1,10702-80
     content: 보상 수령
     icon: Bumdle_ruby
   }
@@ -26104,19 +26355,19 @@
   {
     id: 11169
     name: 개인임무 보상 361
-    item_ids: 46-100,519-10,9-50
+    item_ids: 46-250,14-1200,15-500
     content: 보상 수령
   }
   {
     id: 11170
     name: 개인임무 보상 362
-    item_ids: 46-150,519-20,9-100
+    item_ids: 46-450,14-2400,15-1000
     content: 보상 수령
   }
   {
     id: 11171
     name: 개인임무 보상 363
-    item_ids: 46-200,9-150
+    item_ids: 46-650
     content: 보상 수령
   }
   {
@@ -28879,6 +29130,13 @@
     name: 코스튬: 카리나 - 연인의 속삭임
     skin: 208
     icon: NPC_Kalina_208
+  }
+  {
+    id: 12508
+    name: 마물 지배자
+    content: 지휘자는 항상 한쪽 눈을 남겨두어 언제 찾아올지 모를 끝없는 밤에 대비해야 합니다.
+    send_limit: 1
+    commander_uniform: "2920"
   }
   {
     id: 12601
@@ -34542,6 +34800,161 @@
     ammo: 200
     mre: 200
     part: 200
+  }
+  {
+    id: 17461
+    name: 순백의 시련 - 임무 보상
+    item_ids: 46-50
+  }
+  {
+    id: 17462
+    name: 절대적 화력 - 임무 보상
+    core: 5
+  }
+  {
+    id: 17463
+    name: 장벽 잠행 - 임무 보상
+    gift: 200001-50
+  }
+  {
+    id: 17464
+    name: 설원 메아리 - 임무 보상
+    item_ids: 44-50
+  }
+  {
+    id: 17465
+    name: 극한 저격 - 임무 보상
+    gift: 200001-50
+  }
+  {
+    id: 17466
+    name: 고성 여휘 - 임무 보상
+    item_ids: 44-50
+  }
+  {
+    id: 17467
+    name: 순백의 시련-EX - 임무 보상
+    item_ids: 46-100
+  }
+  {
+    id: 17468
+    name: 절대적 화력-EX - 임무 보상
+    core: 10
+  }
+  {
+    id: 17469
+    name: 장벽 잠행-EX - 임무 보상
+    gift: 200001-100
+  }
+  {
+    id: 17470
+    name: 설원 메아리-EX - 임무 보상
+    item_ids: 45-20
+  }
+  {
+    id: 17471
+    name: 극한 저격-EX - 임무 보상
+    gift: 200001-100
+  }
+  {
+    id: 17472
+    name: 고성 여휘-EX - 임무 보상
+    item_ids: 45-30
+  }
+  {
+    id: 17473
+    name: 승부의 천칭 - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17474
+    name: 승부의 천칭-EX - 임무 보상
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+  }
+  {
+    id: 17475
+    name: 갈림길 연역 - 임무 보상
+    item_ids: 46-50
+  }
+  {
+    id: 17476
+    name: 귀로 테스트 - 임무 보상
+    item_ids: 44-50
+  }
+  {
+    id: 17477
+    name: 갈림길 연역-EX - 임무 보상
+    item_ids: 46-100
+  }
+  {
+    id: 17478
+    name: 귀로 테스트-EX - 임무 보상
+    item_ids: 44-100
+  }
+  {
+    id: 17479
+    name: 보충시험 풍운록 - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17488
+    name: 집결명령 - 임무 보상
+    gift: 200001-50
+  }
+  {
+    id: 17489
+    name: 미로생변 - 임무 보상
+    item_ids: 44-50
+  }
+  {
+    id: 17490
+    name: 생존 끝자락 - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17491
+    name: 2차 리부트 - 임무 보상
+    item_ids: 46-50
+  }
+  {
+    id: 17492
+    name: 장외 통찰 - 임무 보상
+    core: 5
+  }
+  {
+    id: 17493
+    name: 후진의 용기 - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17494
+    name: 외양간 고치기 - 임무 보상
+    item_ids: 46-50
+  }
+  {
+    id: 17495
+    name: 여명은 아직 - 임무 보상
+    core: 5
+  }
+  {
+    id: 17496
+    name: 재수 계시록 - 임무 보상
+    gift: 200001-50
   }
   {
     id: 20001
@@ -41534,6 +41947,100 @@
     fairy_ids: 27-910124
   }
   {
+    id: 40593
+    name: 단계 보상I
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    gift: 200001-100
+    coins: 1-100,2-100
+    icon: Bumdle_black
+  }
+  {
+    id: 40594
+    name: 단계 보상II
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    gem: 50
+    gift: 200001-100
+    coins: 1-200,2-200
+    icon: Bumdle_blue
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 40595
+    name: 단계 보상III
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gift: 200001-200
+    coins: 2-200,3-100
+    icon: Bumdle_brown
+  }
+  {
+    id: 40596
+    name: 단계 보상IV
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gem: 50
+    gift: 200001-200,400001-200
+    equip_ids: "85"
+    coins: 3-200
+    icon: Bumdle_purple
+  }
+  {
+    id: 40597
+    name: 단계 보상V
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    item_ids: 514-150,515-150
+    gift: 400001-200
+    icon: Bumdle_red
+  }
+  {
+    id: 40598
+    name: 단계 보상VI
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    gem: 100
+    item_ids: 514-250,515-250,516-200
+    equip_ids: "84"
+    icon: Bumdle_ruby
+  }
+  {
+    id: 40599
+    name: 단계 보상VII
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    item_ids: 515-300,516-400
+    icon: Bumdle_white
+  }
+  {
+    id: 40600
+    name: 단계 보상VIII
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    gem: 100
+    item_ids: 45-500
+    gift: 200001-500
+    equip_ids: "83"
+    icon: Bumdle_yellow
+  }
+  {
     id: 44001
     name: 국지전 3000점 도달 보상
     mp: 500
@@ -45859,6 +46366,11 @@
     furniture: "7243"
   }
   {
+    id: 121008
+    name: 유령 유모차
+    furniture: "2082"
+  }
+  {
     id: 130001
     name: 전선협약 추가보상
     item_ids: 1500014-1
@@ -46657,7 +47169,7 @@
   {
     id: 150005
     name: 회색지대-초회 bonus 보상5
-    item_ids: 32-300
+    item_ids: 506-140
   }
   {
     id: 150006
@@ -46697,7 +47209,7 @@
   {
     id: 150013
     name: 회색지대-초회 bonus 보상13
-    item_ids: 506-140
+    item_ids: 32-300
   }
   {
     id: 150014
@@ -46707,7 +47219,7 @@
   {
     id: 150015
     name: 회색지대-초회 bonus 보상15
-    item_ids: 44-15
+    item_ids: 16-40
   }
   {
     id: 150016
@@ -46722,7 +47234,7 @@
   {
     id: 150018
     name: 회색지대-초회 bonus 보상18
-    item_ids: 16-40
+    item_ids: 44-15
   }
   {
     id: 150019
@@ -46757,12 +47269,12 @@
   {
     id: 150025
     name: 회색지대-초회 bonus 보상25
-    item_ids: 32-300
+    item_ids: 506-140
   }
   {
     id: 150026
     name: 회색지대-초회 bonus 보상26
-    item_ids: 506-140
+    item_ids: 32-300
   }
   {
     id: 150027
@@ -46807,7 +47319,7 @@
   {
     id: 150035
     name: 회색지대-상시 보상5
-    item_ids: 32-100
+    item_ids: 1800002-1
   }
   {
     id: 150036
@@ -46832,7 +47344,7 @@
   {
     id: 150040
     name: 회색지대-상시 보상10
-    item_ids: 1500088-1
+    item_ids: 1700001-1
   }
   {
     id: 150041
@@ -46847,7 +47359,7 @@
   {
     id: 150043
     name: 회색지대-상시 보상13
-    item_ids: 506-60
+    item_ids: 32-100
   }
   {
     id: 150044
@@ -46857,7 +47369,7 @@
   {
     id: 150045
     name: 회색지대-상시 보상15
-    item_ids: 44-25
+    item_ids: 1800001-2
   }
   {
     id: 150046
@@ -46872,7 +47384,7 @@
   {
     id: 150048
     name: 회색지대-상시 보상18
-    item_ids: 16-20
+    item_ids: 44-25
   }
   {
     id: 150049
@@ -46882,7 +47394,7 @@
   {
     id: 150050
     name: 회색지대-상시 보상20
-    item_ids: 1500089-1
+    item_ids: 1700002-1
   }
   {
     id: 150051
@@ -46907,12 +47419,12 @@
   {
     id: 150055
     name: 회색지대-상시 보상25
-    item_ids: 32-100
+    item_ids: 1800002-2
   }
   {
     id: 150056
     name: 회색지대-상시 보상26
-    item_ids: 506-60
+    item_ids: 32-100
   }
   {
     id: 150057
@@ -46932,7 +47444,7 @@
   {
     id: 150060
     name: 회색지대-상시 보상30
-    item_ids: 1500090-1
+    item_ids: 1700003-1
   }
   {
     id: 150074
@@ -47008,5 +47520,1169 @@
     id: 150088
     name: 회색지대 5차-5성 인형 전장풀
     equip_ids: "236,278,247,295,105,349,237,168,282,356,277"
+  }
+  {
+    id: 150089
+    name: 회색지대-6기-5성 장비 선택 범위
+    equip_ids: "16,20,32,44,66,72,90"
+  }
+  {
+    id: 150090
+    name: 회색지대-6기-4성이하 전용장비 선택
+    equip_ids: "211,337,338,342,343,348,248,351,352,355,242,358,359"
+  }
+  {
+    id: 150091
+    name: 회색지대-6기-5성 전용장비 선택
+    equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283"
+  }
+  {
+    id: 200001
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1001"
+  }
+  {
+    id: 200002
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1002"
+  }
+  {
+    id: 200003
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1003"
+  }
+  {
+    id: 200004
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1004"
+  }
+  {
+    id: 200005
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1005"
+  }
+  {
+    id: 200006
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1006"
+  }
+  {
+    id: 200007
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1007"
+  }
+  {
+    id: 200008
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1008"
+  }
+  {
+    id: 200009
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1009"
+  }
+  {
+    id: 200010
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1010"
+  }
+  {
+    id: 200011
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1011"
+  }
+  {
+    id: 200012
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1012"
+  }
+  {
+    id: 200013
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1013"
+  }
+  {
+    id: 200014
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1101"
+  }
+  {
+    id: 200015
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1102"
+  }
+  {
+    id: 200016
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1103"
+  }
+  {
+    id: 200017
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1104"
+  }
+  {
+    id: 200018
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1105"
+  }
+  {
+    id: 200019
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1106"
+  }
+  {
+    id: 200020
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1107"
+  }
+  {
+    id: 200021
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1108"
+  }
+  {
+    id: 200022
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1109"
+  }
+  {
+    id: 200023
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1110"
+  }
+  {
+    id: 200024
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1111"
+  }
+  {
+    id: 200025
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1112"
+  }
+  {
+    id: 200026
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1113"
+  }
+  {
+    id: 200027
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1114"
+  }
+  {
+    id: 200028
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1115"
+  }
+  {
+    id: 200029
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1116"
+  }
+  {
+    id: 200030
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1117"
+  }
+  {
+    id: 200031
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1118"
+  }
+  {
+    id: 200032
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1119"
+  }
+  {
+    id: 200033
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1120"
+  }
+  {
+    id: 200034
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1121"
+  }
+  {
+    id: 200035
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1122"
+  }
+  {
+    id: 200036
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1123"
+  }
+  {
+    id: 200037
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1124"
+  }
+  {
+    id: 200038
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1125"
+  }
+  {
+    id: 200039
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1126"
+  }
+  {
+    id: 200040
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1127"
+  }
+  {
+    id: 200041
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1128"
+  }
+  {
+    id: 200042
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1129"
+  }
+  {
+    id: 201001
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2001"
+  }
+  {
+    id: 201002
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2002"
+  }
+  {
+    id: 201003
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2003"
+  }
+  {
+    id: 201004
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2004"
+  }
+  {
+    id: 201005
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2005"
+  }
+  {
+    id: 201006
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2006"
+  }
+  {
+    id: 201007
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2007"
+  }
+  {
+    id: 201008
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2008"
+  }
+  {
+    id: 201009
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2009"
+  }
+  {
+    id: 201010
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2010"
+  }
+  {
+    id: 201011
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2011"
+  }
+  {
+    id: 201012
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2012"
+  }
+  {
+    id: 201013
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2013"
+  }
+  {
+    id: 201014
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2101"
+  }
+  {
+    id: 201015
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2102"
+  }
+  {
+    id: 201016
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2103"
+  }
+  {
+    id: 201017
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2104"
+  }
+  {
+    id: 201018
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2105"
+  }
+  {
+    id: 201019
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2106"
+  }
+  {
+    id: 201020
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2107"
+  }
+  {
+    id: 201021
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2108"
+  }
+  {
+    id: 201022
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2109"
+  }
+  {
+    id: 201023
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2110"
+  }
+  {
+    id: 201024
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2111"
+  }
+  {
+    id: 201025
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2112"
+  }
+  {
+    id: 201026
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2113"
+  }
+  {
+    id: 201027
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2114"
+  }
+  {
+    id: 201028
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2115"
+  }
+  {
+    id: 201029
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2116"
+  }
+  {
+    id: 201030
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2117"
+  }
+  {
+    id: 201031
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2118"
+  }
+  {
+    id: 201032
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2119"
+  }
+  {
+    id: 201033
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2120"
+  }
+  {
+    id: 201034
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2121"
+  }
+  {
+    id: 201035
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2122"
+  }
+  {
+    id: 201036
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2123"
+  }
+  {
+    id: 201037
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2124"
+  }
+  {
+    id: 201038
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2125"
+  }
+  {
+    id: 201039
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2126"
+  }
+  {
+    id: 201040
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2127"
+  }
+  {
+    id: 201041
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2128"
+  }
+  {
+    id: 201042
+    name: 4성 파츠 보상 목록
+    vehicle_component: "2129"
+  }
+  {
+    id: 202001
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3001"
+  }
+  {
+    id: 202002
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3002"
+  }
+  {
+    id: 202003
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3003"
+  }
+  {
+    id: 202004
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3004"
+  }
+  {
+    id: 202005
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3005"
+  }
+  {
+    id: 202006
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3006"
+  }
+  {
+    id: 202007
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3007"
+  }
+  {
+    id: 202008
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3008"
+  }
+  {
+    id: 202009
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3009"
+  }
+  {
+    id: 202010
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3010"
+  }
+  {
+    id: 202011
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3011"
+  }
+  {
+    id: 202012
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3012"
+  }
+  {
+    id: 202013
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3013"
+  }
+  {
+    id: 202014
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3101"
+  }
+  {
+    id: 202015
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3102"
+  }
+  {
+    id: 202016
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3103"
+  }
+  {
+    id: 202017
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3104"
+  }
+  {
+    id: 202018
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3105"
+  }
+  {
+    id: 202019
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3106"
+  }
+  {
+    id: 202020
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3107"
+  }
+  {
+    id: 202021
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3108"
+  }
+  {
+    id: 202022
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3109"
+  }
+  {
+    id: 202023
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3110"
+  }
+  {
+    id: 202024
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3111"
+  }
+  {
+    id: 202025
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3112"
+  }
+  {
+    id: 202026
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3113"
+  }
+  {
+    id: 202027
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3114"
+  }
+  {
+    id: 202028
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3115"
+  }
+  {
+    id: 202029
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3116"
+  }
+  {
+    id: 202030
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3117"
+  }
+  {
+    id: 202031
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3118"
+  }
+  {
+    id: 202032
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3119"
+  }
+  {
+    id: 202033
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3120"
+  }
+  {
+    id: 202034
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3121"
+  }
+  {
+    id: 202035
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3122"
+  }
+  {
+    id: 202036
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3123"
+  }
+  {
+    id: 202037
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3124"
+  }
+  {
+    id: 202038
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3125"
+  }
+  {
+    id: 202039
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3126"
+  }
+  {
+    id: 202040
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3127"
+  }
+  {
+    id: 202041
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3128"
+  }
+  {
+    id: 202042
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3129"
+  }
+  {
+    id: 203001
+    name: 5성 파츠 선택
+    vehicle_component: 1001;1002;1003;1004;1005;1006;1007;1008;1009;1010;1011;1012;1013;1101;1102;1103;1104;1105;1106;1107;1108;1109;1110;1111;1112;1113;1114;1115;1116;1117;1118;1119;1120;1121;1122;1123;1124;1125;1126;1127;1128;1129
+  }
+  {
+    id: 203002
+    name: 4성 파츠 선택
+    vehicle_component: 2001;2002;2003;2004;2005;2006;2007;2008;2009;2010;2011;2012;2013;2101;2102;2103;2104;2105;2106;2107;2108;2109;2110;2111;2112;2113;2114;2115;2116;2117;2118;2119;2120;2121;2122;2123;2124;2125;2126;2127;2128;2129
+  }
+  {
+    id: 203003
+    name: 3성 파츠 선택
+    vehicle_component: 3001;3002;3003;3004;3005;3006;3007;3008;3009;3010;3011;3012;3013;3101;3102;3103;3104;3105;3106;3107;3108;3109;3110;3111;3112;3113;3114;3115;3116;3117;3118;3119;3120;3121;3122;3123;3124;3125;3126;3127;3128;3129
+  }
+  {
+    id: 204001
+    name: 5성 파츠 다중선택
+    vehicle_component: 1001;1002;1003;1004;1005;1006;1007;1008;1009;1010;1011;1012;1013;1101;1102;1103;1104;1105;1106;1107;1108;1109;1110;1111;1112;1113;1114;1115;1116;1117;1118;1119;1120;1121;1122;1123;1124;1125;1126
+  }
+  {
+    id: 204002
+    name: 4성 파츠 다중선택
+    vehicle_component: 2001;2002;2003;2004;2005;2006;2007;2008;2009;2010;2011;2012;2013;2101;2102;2103;2104;2105;2106;2107;2108;2109;2110;2111;2112;2113;2114;2115;2116;2117;2118;2119;2120;2121;2122;2123;2124;2125;2126
+  }
+  {
+    id: 204003
+    name: 3성 파츠 다중선택
+    vehicle_component: 3001;3002;3003;3004;3005;3006;3007;3008;3009;3010;3011;3012;3013;3101;3102;3103;3104;3105;3106;3107;3108;3109;3110;3111;3112;3113;3114;3115;3116;3117;3118;3119;3120;3121;3122;3123;3124;3125;3126
+  }
+  {
+    id: 205001
+    name: 5성 파츠 고정
+    vehicle_component: 1106-0-770082,reload,precision
+  }
+  {
+    id: 205002
+    name: 4성 파츠 고정
+    vehicle_component: 2001;2002;2003;2004;2005;2006;2007;2008;2009;2010;2011;2012;2013;2101;2102;2103;2104;2105;2106;2107;2108;2109;2110;2111;2112;2113;2114;2115;2116;2117;2118;2119;2120;2121;2122;2123;2124;2125;2126
+  }
+  {
+    id: 205003
+    name: 3성 파츠 고정
+    vehicle_component: 3001;3002;3003;3004;3005;3006;3007;3008;3009;3010;3011;3012;3013;3101;3102;3103;3104;3105;3106;3107;3108;3109;3110;3111;3112;3113;3114;3115;3116;3117;3118;3119;3120;3121;3122;3123;3124;3125;3126
+  }
+  {
+    id: 210001
+    name: 기갑돌격-주력탱크01 클리어보상
+    item_ids: 1800002-2
+  }
+  {
+    id: 210002
+    name: 기갑돌격-주력탱크02 클리어보상
+    item_ids: 1800001-2
+  }
+  {
+    id: 210003
+    name: 기갑돌격-주력탱크03 클리어보상
+    item_ids: 1800002-2
+  }
+  {
+    id: 210004
+    name: 기갑돌격-주력탱크04 클리어보상
+    item_ids: 1800001-2
+  }
+  {
+    id: 210005
+    name: 기갑돌격-주력탱크05 클리어보상
+    item_ids: 1800002-2
+  }
+  {
+    id: 210006
+    name: 기갑돌격-주력탱크06 클리어보상
+    item_ids: 1800001-2
+  }
+  {
+    id: 210007
+    name: 기갑돌격-주력탱크07 클리어보상
+    item_ids: 1800002-2
+  }
+  {
+    id: 210008
+    name: 기갑돌격-주력탱크08 클리어보상
+    item_ids: 1800001-2
+  }
+  {
+    id: 210009
+    name: 기갑돌격-주력탱크09 클리어보상
+    item_ids: 1800002-2
+  }
+  {
+    id: 210010
+    name: 기갑돌격-주력탱크10 클리어보상
+    item_ids: 1800001-2
+  }
+  {
+    id: 210011
+    name: 기갑돌격-주력탱크11 클리어보상
+    item_ids: 1800002-3
+  }
+  {
+    id: 210012
+    name: 기갑돌격-주력탱크12 클리어보상
+    item_ids: 1800001-3
+  }
+  {
+    id: 210013
+    name: 기갑돌격-주력탱크13 클리어보상
+    item_ids: 1800002-3
+  }
+  {
+    id: 210014
+    name: 기갑돌격-주력탱크14 클리어보상
+    item_ids: 1800001-3
+  }
+  {
+    id: 210015
+    name: 기갑돌격-주력탱크15 클리어보상
+    item_ids: 1800002-3
+  }
+  {
+    id: 210016
+    name: 기갑돌격-주력탱크16 클리어보상
+    item_ids: 1800001-3
+  }
+  {
+    id: 210017
+    name: 기갑돌격-주력탱크17 클리어보상
+    item_ids: 1800002-3
+  }
+  {
+    id: 210018
+    name: 기갑돌격-주력탱크18 클리어보상
+    item_ids: 1800001-3
+  }
+  {
+    id: 210019
+    name: 기갑돌격-주력탱크19 클리어보상
+    item_ids: 1800002-3
+  }
+  {
+    id: 210020
+    name: 기갑돌격-주력탱크20 클리어보상
+    item_ids: 1800001-3
+  }
+  {
+    id: 210021
+    name: 기갑돌격-주력탱크21 클리어보상
+    item_ids: 1800002-4
+  }
+  {
+    id: 210022
+    name: 기갑돌격-주력탱크22 클리어보상
+    item_ids: 1800001-4
+  }
+  {
+    id: 210023
+    name: 기갑돌격-주력탱크23 클리어보상
+    item_ids: 1800002-4
+  }
+  {
+    id: 210024
+    name: 기갑돌격-주력탱크24 클리어보상
+    item_ids: 1800001-4
+  }
+  {
+    id: 210025
+    name: 기갑돌격-주력탱크25 클리어보상
+    item_ids: 1800002-4
+  }
+  {
+    id: 210026
+    name: 기갑돌격-주력탱크26 클리어보상
+    item_ids: 1800001-4
+  }
+  {
+    id: 210027
+    name: 기갑돌격-주력탱크27 클리어보상
+    item_ids: 1800002-4
+  }
+  {
+    id: 210028
+    name: 기갑돌격-주력탱크28 클리어보상
+    item_ids: 1800001-4
+  }
+  {
+    id: 210029
+    name: 기갑돌격-주력탱크29 클리어보상
+    item_ids: 1800002-4
+  }
+  {
+    id: 210030
+    name: 기갑돌격-주력탱크30 클리어보상
+    item_ids: 1800001-4
+  }
+  {
+    id: 210031
+    name: 기갑돌격-전술인형기갑01 클리어보상
+    item_ids: 1800002-2
+  }
+  {
+    id: 210032
+    name: 기갑돌격-전술인형기갑02 클리어보상
+    item_ids: 1800001-2
+  }
+  {
+    id: 210033
+    name: 기갑돌격-전술인형기갑03 클리어보상
+    item_ids: 1800002-2
+  }
+  {
+    id: 210034
+    name: 기갑돌격-전술인형기갑04 클리어보상
+    item_ids: 1800001-2
+  }
+  {
+    id: 210035
+    name: 기갑돌격-전술인형기갑05 클리어보상
+    item_ids: 1800002-2
+  }
+  {
+    id: 210036
+    name: 기갑돌격-전술인형기갑06 클리어보상
+    item_ids: 1800001-2
+  }
+  {
+    id: 210037
+    name: 기갑돌격-전술인형기갑07 클리어보상
+    item_ids: 1800002-2
+  }
+  {
+    id: 210038
+    name: 기갑돌격-전술인형기갑08 클리어보상
+    item_ids: 1800001-2
+  }
+  {
+    id: 210039
+    name: 기갑돌격-전술인형기갑09 클리어보상
+    item_ids: 1800002-2
+  }
+  {
+    id: 210040
+    name: 기갑돌격-전술인형기갑10 클리어보상
+    item_ids: 1800001-2
+  }
+  {
+    id: 210041
+    name: 기갑돌격-전술인형기갑11 클리어보상
+    item_ids: 1800002-3
+  }
+  {
+    id: 210042
+    name: 기갑돌격-전술인형기갑12 클리어보상
+    item_ids: 1800001-3
+  }
+  {
+    id: 210043
+    name: 기갑돌격-전술인형기갑13 클리어보상
+    item_ids: 1800002-3
+  }
+  {
+    id: 210044
+    name: 기갑돌격-전술인형기갑14 클리어보상
+    item_ids: 1800001-3
+  }
+  {
+    id: 210045
+    name: 기갑돌격-전술인형기갑15 클리어보상
+    item_ids: 1800002-3
+  }
+  {
+    id: 210046
+    name: 기갑돌격-전술인형기갑16 클리어보상
+    item_ids: 1800001-3
+  }
+  {
+    id: 210047
+    name: 기갑돌격-전술인형기갑17 클리어보상
+    item_ids: 1800002-3
+  }
+  {
+    id: 210048
+    name: 기갑돌격-전술인형기갑18 클리어보상
+    item_ids: 1800001-3
+  }
+  {
+    id: 210049
+    name: 기갑돌격-전술인형기갑19 클리어보상
+    item_ids: 1800002-3
+  }
+  {
+    id: 210050
+    name: 기갑돌격-전술인형기갑20 클리어보상
+    item_ids: 1800001-3
+  }
+  {
+    id: 210051
+    name: 기갑돌격-전술인형기갑21 클리어보상
+    item_ids: 1800002-4
+  }
+  {
+    id: 210052
+    name: 기갑돌격-전술인형기갑22 클리어보상
+    item_ids: 1800001-4
+  }
+  {
+    id: 210053
+    name: 기갑돌격-전술인형기갑23 클리어보상
+    item_ids: 1800002-4
+  }
+  {
+    id: 210054
+    name: 기갑돌격-전술인형기갑24 클리어보상
+    item_ids: 1800001-4
+  }
+  {
+    id: 210055
+    name: 기갑돌격-전술인형기갑25 클리어보상
+    item_ids: 1800002-4
+  }
+  {
+    id: 210056
+    name: 기갑돌격-전술인형기갑26 클리어보상
+    item_ids: 1800001-4
+  }
+  {
+    id: 210057
+    name: 기갑돌격-전술인형기갑27 클리어보상
+    item_ids: 1800002-4
+  }
+  {
+    id: 210058
+    name: 기갑돌격-전술인형기갑28 클리어보상
+    item_ids: 1800001-4
+  }
+  {
+    id: 210059
+    name: 기갑돌격-전술인형기갑29 클리어보상
+    item_ids: 1800002-4
+  }
+  {
+    id: 210060
+    name: 기갑돌격-전술인형기갑30 클리어보상
+    item_ids: 1800001-4
+  }
+  {
+    id: 220001
+    name: 개인임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+  }
+  {
+    id: 220002
+    name: 개인임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    item_ids: 57-1000
+  }
+  {
+    id: 220003
+    name: 개인임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    item_ids: 57-1000
+  }
+  {
+    id: 220004
+    name: 개인임무 보상
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+  }
+  {
+    id: 220005
+    name: 개인임무 보상
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+  }
+  {
+    id: 220006
+    name: 개인임무 보상
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+  }
+  {
+    id: 220007
+    name: 개인임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    item_ids: 1800005-1
+  }
+  {
+    id: 220008
+    name: 개인임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    item_ids: 1800004-1
+  }
+  {
+    id: 220009
+    name: 개인임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    item_ids: 1800004-1
+  }
+  {
+    id: 220010
+    name: 개인임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    item_ids: 1800003-1
+  }
+  {
+    id: 220011
+    name: 개인임무 보상
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    item_ids: 1800001-1,133008-1,133009-1,133011-1,133057-1,133058-1
+  }
+  {
+    id: 220012
+    name: 개인임무 보상
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+  }
+  {
+    id: 220013
+    name: 개인임무 보상
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    item_ids: 1800002-1
+  }
+  {
+    id: 220014
+    name: 개인임무 보상
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+  }
+  {
+    id: 220015
+    name: 개인임무 보상
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    item_ids: 133007-1
+  }
+  {
+    id: 220016
+    name: 개인임무 보상
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    item_ids: 133012-1,133013-1,133014-1,133015-1,133059-1,133060-1
+  }
+  {
+    id: 220017
+    name: 개인임무 보상
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    item_ids: 133016-1,133017-1,133018-1,133019-1,133020-1,133061-1
+  }
+  {
+    id: 220018
+    name: 개인임무 보상
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    item_ids: 133021-1,133022-1,133023-1,133024-1,133025-1,133062-1
+  }
+  {
+    id: 220019
+    name: 개인임무 보상
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    item_ids: 57-1000
+  }
+  {
+    id: 220020
+    name: 개인임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    item_ids: 133026-1,133027-1,133028-1,133029-1,133030-1,133063-1
   }
 ]

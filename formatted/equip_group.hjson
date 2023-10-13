@@ -4,7 +4,7 @@
     name: SHD "V" 세트
     des: SHD 특수 장비 세트를 착용한 요원 Vector는 뛰어난 아군 지원 능력을 얻어 제대 전체의 생존력을 상승시킵니다.
     code: EgroupVec
-    equip_unit: "199,200,201"
+    equip_unit: "201,200,199"
     group_skill: 2:992050,3:992051
     fit_gun: "1028"
     is_addition: 1
@@ -25,7 +25,7 @@
     des: 풀세트 무장을 갖춘 모신나강은 자신의 전투 소질을 최대한으로 발휘할 수 있습니다. 무슨 일이든 잘 풀릴 겁니다.
     code: EgroupM1891
     equip_unit: "337,111,86"
-    group_skill: 2:778217,3:759100
+    group_skill: 3:759100
     fit_gun: "20039"
   }
   {
@@ -34,7 +34,7 @@
     des: 16LAB 특수장비 풀세트를 착용한 ST AR-15는 극한의 작전능력 강화를 받아, 부무장의 사용도 수월해질 것입니다.
     code: EgroupAR15
     equip_unit: "100,338,60"
-    group_skill: 2:778217,3:759094
+    group_skill: 3:759094
     fit_gun: "20057"
   }
   {
@@ -42,8 +42,8 @@
     name: APS 카니발
     des: IOP제 장비 풀세트를 장착한 스테츠킨은 강력한 부대 보조 능력을 얻어 부대 전체적인 실력을 향상합니다.
     code: EgroupAPS
-    equip_unit: "133,171,342"
-    group_skill: 2:778217,3:759134
+    equip_unit: "133,342,171"
+    group_skill: 3:759134
     fit_gun: "20007"
   }
   {
@@ -51,8 +51,8 @@
     name: 정글 모험
     des: 위장 장비 풀세트를 착용한 64식은 밀림 작전 환경에 더 잘 녹아들어, 적에게 불의의 기습을 가할 수 있습니다.
     code: Egroup64type
-    equip_unit: "103,218,343"
-    group_skill: 2:778217,3:759143
+    equip_unit: "218,343,103"
+    group_skill: 3:759143
     fit_gun: "20094"
   }
   {
@@ -60,8 +60,8 @@
     name: 꼬마 집배원
     des: 풀세트 특제 장비를 착용한 MP5는 작전 시 기동성이 대폭 상승해, 부대 간 정보 및 물자 전달이 더 빨라졌습니다.
     code: EgroupMP5
-    equip_unit: "62,157,348"
-    group_skill: 2:778217,3:759187
+    equip_unit: "62,348,157"
+    group_skill: 3:759187
     fit_gun: "20026"
   }
   {
@@ -69,8 +69,8 @@
     name: 사일런서
     des: 풀세트 특제 장비를 착용한 MG4는 요란한 전장에서도 정확하게 타격 대상을 찾아낼 수 있습니다.
     code: EgroupMG4
-    equip_unit: "132,239,349"
-    group_skill: 2:778217,3:759192
+    equip_unit: "239,132,349"
+    group_skill: 3:759192
     fit_gun: "20125"
   }
   {
@@ -79,7 +79,7 @@
     des: 풀세트 전용 장비를 착용한 마카로프는 전장에서 더 정밀한 작전 지휘가 가능해집니다.
     code: EgroupPM
     equip_unit: "180,238,351"
-    group_skill: 2:778217,3:759219
+    group_skill: 3:759219
     fit_gun: "20008"
   }
   {
@@ -88,7 +88,7 @@
     des: 세트를 맞춘 PPSh-41은 다른 인형과 더 밀접하게 협동하며 영광을 거머질 수 있습니다.
     code: EgroupPPSh41
     equip_unit: "352,272,219"
-    group_skill: 2:778217,3:759224
+    group_skill: 3:759224
     fit_gun: "20021"
   }
   {
@@ -97,7 +97,7 @@
     des: 풀 세트 장비를 갖춘 PPK는 적에게 고통을 마음껏 선사할 수 있습니다.
     code: EgroupPPK
     equip_unit: "155,284,355"
-    group_skill: 2:778217,3:759242
+    group_skill: 3:759242
     fit_gun: "20010"
   }
   {
@@ -106,7 +106,25 @@
     des: 404소대 커스터마이징 HK416 전용 세트, HK416의 작전 능력을 크게 높일 수 있습니다.
     code: EgroupHK416KMod
     equip_unit: "106,356,159"
-    group_skill: 2:778217,3:759236
+    group_skill: 3:759236
     fit_gun: "20065"
+  }
+  {
+    id: 13
+    name: 404 커스텀 UMP45
+    des: 404소대 커스텀 UMP9 전용 세트. 기존 성능에서 소닉붐의 영향을 대폭 감소했습니다.
+    code: EgroupUMP45
+    equip_unit: "92,358,125"
+    group_skill: 3:759092
+    fit_gun: "20103"
+  }
+  {
+    id: 14
+    name: 404 커스텀 UMP9
+    des: 404소대 커스텀 UMP9 전용 세트. UMP9의 작전능력을 크게 올릴 수 있습니다.
+    code: EgroupUMP9
+    equip_unit: "92,359,156"
+    group_skill: 3:759093
+    fit_gun: "20101"
   }
 ]

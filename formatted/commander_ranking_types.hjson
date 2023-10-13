@@ -80,31 +80,31 @@
   {
     id: 501
     class_id: 5
-    title: 중장비 부대 레벨
+    title: 화력소대 레벨
     weight: 0.3
   }
   {
     id: 502
     class_id: 5
-    title: 중장비 부대 승진
+    title: 화력소대 승진
     weight: 1
   }
   {
     id: 503
     class_id: 5
-    title: 중장비 부대 버전업
+    title: 화력소대 버전업
     weight: 2
   }
   {
     id: 504
     class_id: 5
-    title: 중장비 부대 스킬 레벨
+    title: 화력소대 스킬 레벨
     weight: 0.9
   }
   {
     id: 505
     class_id: 5
-    title: 중장비 부대 칩셋
+    title: 화력소대 칩셋
     weight: 0.6
   }
   {
@@ -147,7 +147,7 @@
     id: 802
     class_id: 8
     title: 대형 이벤트 전역
-    weight: 0.8
+    weight: 1
   }
   {
     id: 803
@@ -261,6 +261,42 @@
     id: 1108
     class_id: 11
     title: 인형 호감도
+    weight: 1
+  }
+  {
+    id: 1201
+    class_id: 12
+    title: 기동장갑 도감
+    weight: 1
+  }
+  {
+    id: 1202
+    class_id: 12
+    title: 기동장갑 숙련도
+    weight: 0.1
+  }
+  {
+    id: 1203
+    class_id: 12
+    title: 기동장갑 테크트리 해금수
+    weight: 10
+  }
+  {
+    id: 1204
+    class_id: 12
+    title: 5성 파츠 수량
+    weight: 1
+  }
+  {
+    id: 1205
+    class_id: 12
+    title: 5성 파츠 레벨
+    weight: 3
+  }
+  {
+    id: 1206
+    class_id: 12
+    title: 파츠 레벨
     weight: 1
   }
 ]

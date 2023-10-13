@@ -31,7 +31,7 @@
     type: s_win
     count: 15
     title: 작전 행동
-    describe: S 평가로 전투를 10회 승리한다
+    describe: S 평가로 전투를 15회 승리한다
     prize_id: 30014
     activity_bonus: 20
   }
@@ -143,8 +143,8 @@
     id: 16
     type: squad_eat_chip_num
     count: 10
-    title: 칩셋 강화
-    describe: 칩셋 강화에 칩셋을 10개 소모
+    title: 지원 파견
+    describe: 자율작전 10회 완료
     function_control_id: 15
     prize_id: 30026
     activity_bonus: 20
@@ -152,10 +152,9 @@
   {
     id: 17
     type: complete_squad_daily
-    count: 3
-    title: 정보 수집
-    describe: 정보 임무 3개 달성
-    function_control_id: 15
+    count: 10
+    title: 인형 소통
+    describe: 인형 혹은 혼합세력에게 선물 10회 주기
     prize_id: 30027
     activity_bonus: 20
   }
@@ -163,8 +162,8 @@
     id: 18
     type: squad_data_analyse
     count: 10
-    title: 정보 분석
-    describe: 정보 분석 10회 진행
+    title: 작전 행동
+    describe: 전역에서 화력소대 10회 사용
     function_control_id: 15
     prize_id: 30028
     activity_bonus: 20

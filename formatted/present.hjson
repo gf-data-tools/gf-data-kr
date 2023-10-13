@@ -725,4 +725,129 @@
     due_prize_id: 140016
     present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트 중 무작위 아이템을 획득합니다.
   }
+  {
+    item_id: 1700001
+    type: 1
+    prize_id: 150089
+    due_time: 2023/12/11  00:00:00
+    due_prize_id: 140073
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
+  }
+  {
+    item_id: 1700002
+    type: 1
+    prize_id: 150090
+    due_time: 2023/12/11  00:00:00
+    due_prize_id: 140074
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
+  }
+  {
+    item_id: 1700003
+    type: 1
+    prize_id: 150091
+    due_time: 2023/12/11  00:00:00
+    due_prize_id: 140075
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
+  }
+  {
+    item_id: 1800001
+    type: 2
+    drop_package_id: 2000001
+    present_info: 군용급 무기파츠 박스, 개봉 시 5성 무기파츠를 확정 획득합니다.
+    function: 30
+  }
+  {
+    item_id: 1800002
+    type: 2
+    drop_package_id: 2000002
+    present_info: 군용급 기능파츠 박스, 개봉 시 5성 기능파츠 또는 범용파츠를 확정 획득합니다.
+    function: 30
+  }
+  {
+    item_id: 1800003
+    type: 2
+    drop_package_id: 2000003
+    present_info: 프로급 파츠 박스, 개봉 시 중간 확률로 5성 파츠를 얻을 수 있습니다.
+    function: 30
+  }
+  {
+    item_id: 1800004
+    type: 2
+    drop_package_id: 2000004
+    present_info: 공업급 파츠 박스, 개봉 시 낮은 확률로 5성 파츠를 얻을 수 있습니다.
+    function: 30
+  }
+  {
+    item_id: 1800005
+    type: 2
+    drop_package_id: 2000005
+    present_info: 일반급 파츠 박스, 개봉 시 파츠를 얻을 수 있습니다.
+    function: 30
+  }
+  {
+    item_id: 1800011
+    type: 1
+    prize_id: 203001
+    present_info: 5성 파츠 선택 코드
+    function: 30
+  }
+  {
+    item_id: 1800012
+    type: 1
+    prize_id: 203002
+    present_info: 4성 파츠 선택 코드
+    function: 30
+  }
+  {
+    item_id: 1800013
+    type: 1
+    prize_id: 203003
+    present_info: 3성 파츠 선택 코드
+    function: 30
+  }
+  {
+    item_id: 1800021
+    type: 4
+    multi_num: 2
+    prize_id: 204001
+    present_info: 5성 파츠 다중 선택
+    function: 30
+  }
+  {
+    item_id: 1800022
+    type: 4
+    multi_num: 2
+    prize_id: 204002
+    present_info: 4성 파츠 다중 선택
+    function: 30
+  }
+  {
+    item_id: 1800023
+    type: 4
+    multi_num: 2
+    prize_id: 204003
+    present_info: 3성 파츠 다중 선택
+    function: 30
+  }
+  {
+    item_id: 1800031
+    type: 3
+    prize_id: 205001
+    present_info: 5성 파츠 고정
+    function: 30
+  }
+  {
+    item_id: 1800032
+    type: 3
+    prize_id: 205002
+    present_info: 4성 파츠 고정
+    function: 30
+  }
+  {
+    item_id: 1800033
+    type: 3
+    prize_id: 205003
+    present_info: 3성 파츠 고정
+    function: 30
+  }
 ]

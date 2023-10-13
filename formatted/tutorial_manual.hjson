@@ -301,7 +301,7 @@
   {
     id: 500
     type: 1
-    child_ids: "501,502,503,504,505,506,507,508,509"
+    child_ids: "501,502,503,504,505,506,507,508"
     title: 중장비부대
     sub_title: 중장비부대로 전투를 뒤집을 수 있습니다.
     code: manural_squad
@@ -312,7 +312,7 @@
     type: 2
     title: 중장비 소개
     sub_title: 중장비 부대는 강력한 화력 지원을 제공합니다.
-    content: b6beedeeaba91fa7_draw_2008206291.jpg,b31c44a8815c84f7_draw_2008206290.jpg
+    content: f96e2200d8faa063_draw_231011031.jpg,f872473118a4fe8f_draw_231011030.jpg,da28afa95015544a_draw_231011029.jpg,5dcafa3ea31189fb_draw_231011028.jpg
     function_control_id: 15
   }
   {
@@ -320,16 +320,16 @@
     type: 2
     title: 중장비 개발
     sub_title: 정보분석으로 중장비를 개발합시다.
-    content: 266000a026b0b06c_draw_210126005.jpg,dcef88756bb90af8_draw_2008206287.jpg,483ba2abab82ccbe_draw_2008206288.jpg,2273e7418d79495a_draw_2008206289.jpg,4068d97e1f73951e_draw_2008206285.jpg
+    content: f96e2200d8faa063_draw_231011031.jpg,f872473118a4fe8f_draw_231011030.jpg,da28afa95015544a_draw_231011029.jpg,5dcafa3ea31189fb_draw_231011028.jpg
     function_control_id: 15
-    goto_page: 202
+    goto_page: 340
   }
   {
     id: 503
     type: 2
     title: 중장비 투입
     sub_title: 중장비의 위력은 강하지만 단독작전 능력이 없습니다.
-    content: c11b5ef79b850158_draw_2008206284.jpg,7e6df95c38ac9724_draw_2008206282.jpg,3f4c970ad974dc53_draw_2008206279.jpg,f846450f27a12e1e_draw_2008206280.jpg,67fa5b131801a421_draw_2008206283.jpg,ecc5db1b7fb97d26_draw_2008206281.jpg
+    content: 1d5206d9c66bf9cc_draw_231011057.jpg,9297a5193bb9dc3d_draw_231011056.jpg,731c76d0ddd85c59_draw_231011052.jpg,725e34a17f96ad6a_draw_231011055.jpg,81304d88ef914820_draw_231011054.jpg,7db426071a207d11_draw_231011053.jpg
     function_control_id: 15
   }
   {
@@ -337,16 +337,16 @@
     type: 2
     title: 중장비 육성
     sub_title: 중장비를 더 강하게 키워봅시다!
-    content: 0b5e91bc6ed9b363_draw_2008206300.jpg,2a924648d6f6bb9d_draw_2008206299.jpg
+    content: 493296676d34ad30_draw_231011032.jpg
     function_control_id: 15
-    goto_page: 203
+    goto_page: 389
   }
   {
     id: 505
     type: 2
     title: 중장비 회로
     sub_title: 회로에 칩셋을 장착해 능력치를 높입시다.
-    content: 7415d336a54bfcaf_draw_2008206294.jpg,738907fe2928598c_draw_2008206293.jpg,e96cc7890d9373de_draw_2008206295.jpg,2fd18b2bbda09cf9_draw_2008206296.jpg
+    content: 55cd8423db369da8_draw_231011024.jpg,d11f3dfc4685431c_draw_231011022.jpg,97babda6e2111802_draw_231011023.jpg,ed1cae62d8e2023e_draw_231011025.jpg
     function_control_id: 15
   }
   {
@@ -354,16 +354,16 @@
     type: 2
     title: 중장비 스킬
     sub_title: 중장비의 스킬은 훈련을 더 많이 요합니다.
-    content: 0c34a6c273dee152_draw_2008206292.jpg
+    content: 30f614f60f1affe3_draw_231011012.jpg
     function_control_id: 15
-    goto_page: 203
+    goto_page: 389
   }
   {
     id: 507
     type: 2
     title: 중장비 버전 업
     sub_title: 최대레벨에 도달해도 성장 공간이 있답니다.
-    content: c01bbcb7b35af0dd_draw_2008206297.jpg,e06aa529009de95d_draw_2008206298.jpg
+    content: e8b9902349e5865c_draw_231011058.jpg
     function_control_id: 15
   }
   {
@@ -371,18 +371,9 @@
     type: 2
     title: 격납고
     sub_title: 격납고에서 중장비를 확인하고 관리할 수 있습니다.
-    content: a684a1966a17bab5_draw_2008206303.jpg,20c50d966b9ca2ae_draw_2008206304.jpg
+    content: 1e7f71b3aed35483_draw_231011016.jpg,6e4696f36c3eec83_draw_231011017.jpg
     function_control_id: 15
-    goto_page: 203
-  }
-  {
-    id: 509
-    type: 2
-    title: 정보센터
-    sub_title: 정보센터의 정보분석은 중장비를 얻는 주요 방식입니다.
-    content: 47c159eaacdc9d37_draw_2008206301.jpg,0fc12e5db0fe0e92_draw_2008206302.jpg
-    function_control_id: 15
-    goto_page: 202
+    goto_page: 340
   }
   {
     id: 600
@@ -465,7 +456,7 @@
   {
     id: 700
     type: 1
-    child_ids: "701,702,703,704,705,706,707,708,709,710,711,712"
+    child_ids: "701,702,703,704,705,706,707,708,709,710,711,712,713"
     title: 전장 안내
     sub_title: 작전의 규칙과 요령을 알아봅시다.
     code: manural_battle
@@ -556,6 +547,13 @@
     title: 동맹 제대
     sub_title: 가끔 동맹 제대가 배치될 때가 있습니다, 힘을 합쳐 싸워요!
     content: 74b97456fe36f388_draw_2008206219.jpg,1d8401537367bf72_draw_2008206218.jpg
+  }
+  {
+    id: 713
+    type: 2
+    title: 정보 간략화 모드
+    sub_title: 줌아웃하여 전장 정보를 간략화할 수 있습니다. 전장 상황을 한눈에 파악하세요.
+    content: d584ffd741ebbda5_draw_231011013.jpg
   }
   {
     id: 800
@@ -709,7 +707,7 @@
   {
     id: 1000
     type: 1
-    child_ids: "1001,1002,1003,1004,1005"
+    child_ids: "1001,1002,1003,1004,1005,1006"
     title: 제대 편성
     sub_title: 적절한 제대 편성으로 작전 능력을 극대화하세요.
     code: manual_formation
@@ -751,6 +749,13 @@
     sub_title: 장비 프리셋을 설정하고 필요 시에 바로 교체할 수 있습니다.
     content: af700a08c0641b98_draw_2008206242.jpg,1e10bb50b5261b8c_draw_2008206241.jpg,3887896af02093bd_draw_2008206240.jpg
     function_control_id: 2
+  }
+  {
+    id: 1006
+    type: 2
+    title: 편성 및 피격
+    sub_title: 인형이 제대에서의 순서가 피격 우선순위에 영향을 주니 주의하세요.
+    content: deee2a84d250525e_draw_231011018.jpg,5e607c5d44058e47_draw_231011019.jpg
   }
   {
     id: 1100
@@ -850,8 +855,8 @@
     id: 1112
     type: 2
     title: 격납고
-    sub_title: 격납고에서 중장비를 확인하고 관리할 수 있습니다.
-    content: a684a1966a17bab5_draw_2008206303.jpg,20c50d966b9ca2ae_draw_2008206304.jpg
+    sub_title: 격납고에서 기동장갑을 확인 및 관리할 수 있습니다.
+    content: 636e12883d79a356_draw_231011005.jpg,104dddae9d24b973_draw_231011006.jpg,5b10540112458d93_draw_231011007.jpg
     function_control_id: 15
     goto_page: 203
   }
@@ -859,10 +864,10 @@
     id: 1113
     type: 2
     title: 정보센터
-    sub_title: 정보센터의 정보분석은 중장비를 얻는 주요 방식입니다.
-    content: 47c159eaacdc9d37_draw_2008206301.jpg,0fc12e5db0fe0e92_draw_2008206302.jpg
+    sub_title: 정보센터 시설은 화력소대를 지원합니다.
+    content: 1e7f71b3aed35483_draw_231011016.jpg,6e4696f36c3eec83_draw_231011017.jpg
     function_control_id: 15
-    goto_page: 202
+    goto_page: 340
   }
   {
     id: 1114
@@ -1411,7 +1416,7 @@
   {
     id: 2100
     type: 1
-    child_ids: "2101,2102,2103,2104,2105,2106,2107,2108"
+    child_ids: "2101,2102,2103,2104,2105,2106,2107,2108,2109,2110"
     title: 회색지대 탐사
     sub_title: 변방조사단 6번대가 일상 탐사 중 처음 보는 구역을 발견했습니다.
     code: manual_daily
@@ -1480,5 +1485,94 @@
     sub_title: 그리폰 AI 대리작전 시스템 테스트 가동 중.
     content: d1c52d646d987605_draw_230425015.jpg
     function_control_id: 29
+  }
+  {
+    id: 2109
+    type: 2
+    title: 회색지대 계획모드
+    sub_title: 계획 후 회색지대를 자동으로 탐색합니다.
+    content: 27cee21f5b6b508e_draw_231011011.jpg,b382ad1bbcab1bac_draw_231011008.jpg,1f2f6b094ecfdcfd_draw_231011009.jpg,305f3f01f1a18e10_draw_231011010.jpg
+    function_control_id: 29
+  }
+  {
+    id: 2110
+    type: 2
+    title: 기갑 돌격
+    sub_title: 결정 지대의 보스 지점을 공략하면 기갑 돌격 도전 기회를 얻습니다.
+    content: 6e586192ba523f57_draw_231011047.jpg,0bcdd473af3f4f13_draw_231011027.jpg,f738c899920c934e_draw_231011051.jpg,54e5f68ac8273e38_draw_231011026.jpg
+    function_control_id: 30
+  }
+  {
+    id: 2200
+    type: 1
+    child_ids: "2201,2202,2203,2204,2205,2206,2207,2208"
+    title: 기동장갑
+    sub_title: 강적의 위협에 맞서 그리폰은 기동장갑 사용 권한을 얻었습니다.
+    code: manual_vehicle
+    function_control_id: 30
+  }
+  {
+    id: 2201
+    type: 2
+    title: 기갑 상세정보
+    sub_title: 기동장갑 상세정보 인터페이스입니다.
+    content: fe7cdc378f022aae_draw_231011038.jpg,8b0e15e5a5ea3475_draw_231011040.jpg,d01f3f92219203c9_draw_231011039.jpg,a032e0d794d65b32_draw_231011041.jpg,0d1bca998fcdb7b2_draw_231011043.jpg,4560aa550610e249_draw_231011042.jpg
+    function_control_id: 30
+  }
+  {
+    id: 2202
+    type: 2
+    title: 기갑 육성
+    sub_title: 기동장갑의 육성 및 강화.
+    content: 33e4ca82f059532a_draw_231011046.jpg,eeeabb8ce8af1536_draw_231011044.jpg,2f4bf094c3eff3c8_draw_231011045.jpg
+    function_control_id: 30
+  }
+  {
+    id: 2203
+    type: 2
+    title: 파츠 강화
+    sub_title: 기동장갑 파츠의 획득 및 육성
+    content: 6e586192ba523f57_draw_231011048.jpg,f738c899920c934e_draw_231011050.jpg,686307e775ec273c_draw_231011049.jpg
+    function_control_id: 30
+  }
+  {
+    id: 2204
+    type: 2
+    title: 전장 정보
+    sub_title: 전장에서 기동장갑의 정보 표시
+    content: e194a3e6a121c7c2_draw_231011033.jpg,6b8a1bf56d63b243_draw_231011034.jpg,3f59bb953f547fa4_draw_231011035.jpg,88a04a7380b9cd1e_draw_231011036.jpg,601e70b8a6164656_draw_231011037.jpg
+    function_control_id: 30
+  }
+  {
+    id: 2205
+    type: 2
+    title: 기갑 전투
+    sub_title: 기동장갑의 작전 방식을 소개합니다.
+    content: 3f5fd6b92ba598d3_draw_231011014.jpg
+    function_control_id: 30
+  }
+  {
+    id: 2206
+    type: 2
+    title: 격납고
+    sub_title: 격납고에서 기동장갑을 확인하고 관리할 수 있습니다.
+    content: 636e12883d79a356_draw_231011005.jpg,104dddae9d24b973_draw_231011006.jpg,5b10540112458d93_draw_231011007.jpg
+    function_control_id: 30
+  }
+  {
+    id: 2207
+    type: 2
+    title: 특징: 주력탱크
+    sub_title: 주력탱크의 특수 기능 소개
+    content: b0b99e6b02745abe_draw_231011004.jpg,34cd79155a36103c_draw_231011003.jpg
+    function_control_id: 30
+  }
+  {
+    id: 2208
+    type: 2
+    title: 특수: 전술인형기갑
+    sub_title: 전술인형기갑의 특수 기능 소개
+    content: 13d9d9076ea8a9e3_draw_231011002.jpg
+    function_control_id: 30
   }
 ]

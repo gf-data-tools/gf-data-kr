@@ -19474,7 +19474,7 @@
     space: "7,4,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"시소"라는 이름의 어트랙션, 안전 문제로 인간들이 철거했지만. 기지 안의 스릴을 좋아하는 꼬맹이 인형들에겐 체력을 소모하기 최고의 놀이감이다. "뭐? 아키텍트가 이걸 투석기로 쓸 셈이라고?! 빨리 도망쳐!!"'''
+    description: 시소라는 이름의 어트랙션, 안전 문제로 인간들이 철거했지만. 기지 안의 스릴을 좋아하는 꼬맹이 인형들에겐 체력을 소모하기 최고의 놀이감이다. "뭐? 아키텍트가 이걸 투석기로 쓸 셈이라고?! 빨리 도망쳐!!"
     code: qjyd_20230901_deco_1,qjyd_20230901_deco_2,qjyd_20230901_deco_3
     texture_type: "2,2,2"
     sorting: "20,10,0"
@@ -27143,7 +27143,7 @@
   }
   {
     id: 11001
-    name: 7년은 비단처럼 - 나무 무늬 바닥
+    name: furniture-10011001
     classes: 110
     type: 101
     position: "0,0"
@@ -29253,6 +29253,48 @@
     code: 2023PA15_deco_B
     texture_type: "1"
     offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 20107
+    name: DIY 스페셜 센터
+    classes: 81
+    type: 302
+    space: "4,4,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 작전보고서 한장한장 모두 카리나의 수고로 써진 것처럼. 지금 프린터가 쉬지 않고 뱉어내는 공백 시험지도 인형들이 열심히 채워야 합니다. "모두도 수작업의 고생을 느껴보라고!"
+    code: 2023SepActivity_deco_A
+    texture_type: "1"
+    offset: "0.000,0.699,0.000"
+    rotate: "3"
+  }
+  {
+    id: 20108
+    name: 호승심 블랙홀
+    classes: 81
+    type: 201
+    space: "5,4,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 탐험 중 발견한 골동품 기관총 게임기. 기괴한 난이도와 미묘한 랜덤성 때문에 의외로 전술인형들을 중독시킵니다. "뭐야?! 이 그리폰 넘버원 엘리트가 이걸 못 깬다고?! 말도 안 돼! 다시 한 판!"
+    code: 2023SepActivity_deco_B
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 20109
+    name: 벼락치기 나이트
+    classes: 81
+    type: 201
+    space: "6,4,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: '''"G&K 군사안전계약사가 창설된 해는 205... 어... 오십몇 년이었지? 아 그치! 2051년!"(책 넘기는 중)..."으아아아! 바보 바보! 2053년이잖아!!"'''
+    code: 2023SepActivity_deco_C
+    texture_type: "1"
+    offset: "0.000,-0.209,-0.052"
     rotate: "2"
   }
   {
@@ -39275,6 +39317,21 @@
     rotate: "3"
   }
   {
+    id: 38611
+    name: LWMMG - 봉급 정산가
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: LWMMG의 포스터
+    code: poster_OfficeLady2023_LWMMG
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 38612
     name: StG44 - 명탐정 조수
     classes: 300
@@ -39979,12 +40036,11 @@
     type: 201
     space: "1,1,1,1,1,0"
     description: 전선 좌
-    code: SquadBase_leftline
-    texture_type: "1"
-    offset: "-0.1,-0.3,-0.34"
-    rotate: "2"
-    interact_point: "104"
-    interact_point_offset: *2.439,0.043,-0.928
+    code: SquadBase_leftlineA,SquadBase_leftlineB
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-0.010,-0.209,0.000|-0.865,-0.188,2.106"
+    rotate: "2,2"
   }
   {
     id: 40050
@@ -39993,12 +40049,10 @@
     type: 201
     space: "1,1,1,1,1,0"
     description: 전선 중
-    code: SquadBase_centreline
+    code: SquadBase_centreline_new
     texture_type: "1"
-    offset: "0.1,-0.66,-0.14"
+    offset: "0.100,-0.660,-0.140"
     rotate: "2"
-    interact_point: "104"
-    interact_point_offset: *-1.689,-0.078,-0.382
   }
   {
     id: 40051
@@ -40007,52 +40061,48 @@
     type: 201
     space: "1,1,1,1,1,0"
     description: 전선 우
-    code: SquadBase_rightline
+    code: SquadBase_rightline_new
     texture_type: "1"
-    offset: "3.4,-0.8,-0.12"
+    offset: "0.000,-0.418,1.325"
     rotate: "2"
-    interact_point: "104"
-    interact_point_offset: *9.711,-0.460,-0.327
   }
   {
     id: 40052
-    name: 격납고 바닥
+    name: SquadBase 벽장식
     classes: 400
-    type: 101
+    type: 302
     space: "1,1,1,1,1,0"
-    description: 바닥
-    code: SquadLogistics_floor
-    texture_type: "1"
-    offset: "0,0,0"
-    rotate: "1"
-    furniture_bgm: GF_room_intel_loop
+    description: 벽장식
+    code: SquadBase_walldecoA,SquadBase_walldecoB,SquadBase_walldecoC
+    texture_type: "1,1,1"
+    sorting: "0,0,0"
+    offset: "-1.564,0.000,0.000|-0.302,0.000,0.000|6.350,0.803,-0.188"
+    rotate: "3,3,3"
   }
   {
     id: 40053
-    name: 격납고 벽지
+    name: SquadBase 등
     classes: 400
-    type: 301
+    type: 201
     space: "1,1,1,1,1,0"
-    description: 바닥
-    code: SquadLogistics_wall
+    description: 전등
+    code: SquadBase_light
     texture_type: "1"
-    offset: "0,0,0"
-    rotate: "3"
+    offset: "0.000,1.731,0.000"
+    rotate: "2"
   }
   {
     id: 40054
-    name: 격납고 등불
+    name: SquadBase 식물
     classes: 400
     type: 201
-    space: "0,0,0,0,0,0"
-    description: 조명
-    code: SquadLogistics_tube,SquadLogistics_tube,SquadLogistics_tube,SquadLogistics_tube,SquadLogistics_tube,SquadLogistics_tube
-    texture_type: "1,1,1,1,1,1"
-    sorting: "0,0,0,0,0,0"
-    offset: "-3.06,2.14,-3|-3.06,2.14,-1.5|0,2.14,-3|0,2.14,-1.5|3.06,2.14,-3|3.06,2.14,-1.5"
-    rotate: "2,2,2,2,2,2"
-    interact_point: "104"
-    interact_point_offset: *-8.458,11.679,-8.187
+    space: "1,1,1,1,1,0"
+    description: 식물
+    code: SquadBase_plant,SquadBase_plant,SquadBase_plant
+    texture_type: "1,1,1"
+    sorting: "0,0,0"
+    offset: "0.000,0.000,0.000|5.380,0.000,0.000|9.791,0.000,0.000"
+    rotate: "2,2,2"
   }
   {
     id: 40055
@@ -40458,6 +40508,69 @@
     sorting: "0,0,0,0,0,15"
     offset: "-0.928,-0.261,3.274|-0.928,-0.261,0.98|0.157,0.615,1.221|0.157,0.615,3.525 |0.147,0.031,-0.07|-1.283,-0.813,1.773"
     rotate: "4,4,1,1,2,2"
+  }
+  {
+    id: 40085
+    name: 차량 바닥
+    classes: 400
+    type: 101
+    space: "1,1,1,1,1,0"
+    description: 차량 바닥
+    code: vehicleDorm_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 40086
+    name: 차량 벽지
+    classes: 400
+    type: 301
+    space: "1,1,1,1,1,0"
+    description: 차량 벽지
+    code: vehicleDorm_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 40087
+    name: 차량 패널+스티커
+    classes: 400
+    type: 302
+    space: "1,1,1,1,1,0"
+    description: 차량 패널+스티커
+    code: vehicleDorm_walldecoA,vehicleDorm_walldecoB,vehicleDorm_walldecoC,vehicleDorm_walldecoD,vehicleDorm_walldecoE
+    texture_type: "1,1,1,1,1"
+    sorting: "0,0,0,0,0"
+    offset: "6.559,-0.980,0.229|0.146,-0.271,0.063|6.871,1.032,-0.240|1.428,-0.261,0.063|5.933,-0.334,0.073"
+    rotate: "3,3,3,3,3"
+  }
+  {
+    id: 40089
+    name: 차량 기계팔+등
+    classes: 400
+    type: 201
+    space: "0,0,1,1,1,0"
+    description: 차량 기계팔+등
+    code: vehicleDorm_machineArm,vehicleDorm_lightA,vehicleDorm_lightB,vehicleDorm_lightC,vehicleDorm_lightD,vehicleDorm_armA
+    texture_type: "2,1,1,1,1,1"
+    sorting: "10,0,0,20,20,0"
+    offset: "-0.365,-0.667,1.086|-1.334,2.586,1.713|3.273,2.586,1.712|-1.290,2.586,1.606|3.316,2.586,1.606|-0.250,0.949,1.086"
+    rotate: "2,2,2,2,2,2"
+  }
+  {
+    id: 40090
+    name: 차량 난간
+    classes: 400
+    type: 201
+    space: "0,0,1,1,1,0"
+    description: 차량 난간
+    code: vehicleDorm_railingA,vehicleDorm_railingB
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "5.130,0.177,-1.293|-5.286,0.188,-1.293"
+    rotate: "2,2"
   }
   {
     id: 40101
@@ -41637,53 +41750,59 @@
     name: 검측기LV0
     classes: 400
     type: 201
-    space: "6,6,0,0,0,0"
+    space: "5,4,0,0,0,0"
     description: 검측기LV0
     code: SquadBaseDetectorLV0
     texture_type: "1"
+    sorting: "10"
     offset: "0,-0.2,-0.1"
     rotate: "2"
     interact_point: "104"
     interact_point_offset: *0.101,3.762,-0.273
+    touch_area: "6,3,0"
   }
   {
     id: 45011
     name: 검측기LV1
     classes: 400
     type: 201
-    space: "6,6,0,0,0,0"
+    space: "5,4,0,0,0,0"
     description: 검측기LV1
     code: SquadBaseDetectorLV1
     texture_type: "1"
+    sorting: "10"
     offset: "0,-0.11,0"
     rotate: "2"
     interact_point: "104"
     interact_point_offset: *-1.410,9.846,0.000
+    touch_area: "6,3,0"
   }
   {
     id: 45012
     name: 검측기LV2
     classes: 400
     type: 201
-    space: "6,6,0,0,0,0"
+    space: "5,4,0,0,0,0"
     description: 검측기LV2
     code: SquadBaseDetectorLV2_A,SquadBaseDetectorLV2_B
     texture_type: "1,1"
-    sorting: "0,0"
+    sorting: "10,10"
     offset: "-0.18,-0.475,-0.11|-0.83,0,0.181"
     rotate: "2,2"
     interact_point: "104"
     interact_point_offset: *-2.120,6.700,0.494
+    touch_area: "6,3,0"
   }
   {
     id: 45013
     name: 검측기LV3
     classes: 400
     type: 201
-    space: "6,6,0,0,0,0"
+    space: "5,4,0,0,0,0"
     description: 검측기LV3
     code: SquadBaseDetectorLV3
     texture_type: "1"
+    sorting: "10"
     offset: "0,-0.2,0"
     rotate: "2"
     interact_point: "104"
@@ -41699,6 +41818,7 @@
     description: 스캐너LV0
     code: SquadBaseScannerLV0
     texture_type: "1"
+    sorting: "10"
     offset: "0,-0.35,-0.21"
     rotate: "2"
     interact_point: "104"
@@ -41714,6 +41834,7 @@
     description: 스캐너LV1
     code: SquadBaseScannerLV1
     texture_type: "1"
+    sorting: "10"
     offset: "0,-0.27,-0.21"
     rotate: "2"
     interact_point: "104"
@@ -41729,6 +41850,7 @@
     description: 스캐너LV2
     code: SquadBaseScannerLV2
     texture_type: "1"
+    sorting: "10"
     offset: "0,0.3,0"
     rotate: "2"
     interact_point: "104"
@@ -41744,6 +41866,7 @@
     description: 스캐너LV3
     code: SquadBaseScannerLV3
     texture_type: "1"
+    sorting: "10"
     offset: "-0.06,-0.3,0.47"
     rotate: "2"
     interact_point: "104"
@@ -41759,10 +41882,12 @@
     description: 메모리LV0
     code: SquadBaseMemoryLV0
     texture_type: "1"
+    sorting: "5"
     offset: "-0.1,-0.06,-0.01"
     rotate: "2"
     interact_point: "104"
     interact_point_offset: *-1.510,4.335,-0.027
+    touch_area: "8,4,0"
   }
   {
     id: 45031
@@ -41778,6 +41903,7 @@
     rotate: "2"
     interact_point: "104"
     interact_point_offset: *-2.070,3.980,0.000
+    touch_area: "8,4,0"
   }
   {
     id: 45032
@@ -41793,19 +41919,20 @@
     rotate: "2"
     interact_point: "104"
     interact_point_offset: *0.101,4.417,0.273
+    touch_area: "8,4,0"
   }
   {
     id: 45033
     name: 메모리LV3
     classes: 400
     type: 201
-    space: "10,8,0,0,0,0"
+    space: "9,5,0,0,0,0"
     description: 메모리LV3
-    code: SquadBaseMemoryLV3_A,SquadBaseMemoryLV3_B
-    texture_type: "1,1"
-    sorting: "10,10"
-    offset: "-1.38,-0.65,1|0.924,-0.65,1"
-    rotate: "2,2"
+    code: SquadBaseMemoryLV3_A,SquadBaseMemoryLV3_B,SquadBase_rightline_new
+    texture_type: "1,1,1"
+    sorting: "10,10,0"
+    offset: "-1.38,-0.65,1|0.924,-0.65,1|1.978,-0.667,1.846"
+    rotate: "2,2,2"
     interact_point: "104"
     interact_point_offset: *-3.480,3.299,2.729
     touch_area: "8,4,0"
@@ -41819,6 +41946,7 @@
     description: 분석기LV0
     code: SquadBaseAnalyserLV0
     texture_type: "1"
+    sorting: "10"
     offset: "0,-0.17,0.31"
     rotate: "2"
     interact_point: "104"
@@ -41833,7 +41961,7 @@
     description: 분석기LV1
     code: SquadBaseAnalyserLV1,SquadBase_logoLV1
     texture_type: "1,1"
-    sorting: "0,0"
+    sorting: "10,10"
     offset: "-0.18,-0.16,-0.1|-3.816,3.03,4.21"
     rotate: "2,3"
     interact_point: "104"
@@ -41848,7 +41976,7 @@
     description: 분석기LV2
     code: SquadBaseAnalyserLV2,SquadBase_logoLV2,SquadBase_plant
     texture_type: "1,1,1"
-    sorting: "0,0,0"
+    sorting: "10,10,10"
     offset: "-0.2,-0.05,0|-3.816,2.59,4.42|-1.7,-0.4,3.73"
     rotate: "2,3,2"
     interact_point: "104"
@@ -41859,13 +41987,13 @@
     name: 분석기LV3
     classes: 400
     type: 201
-    space: "8,8,0,0,0,0"
+    space: "8,6,0,0,0,0"
     description: 분석기LV3
-    code: SquadBaseAnalyserLV3,SquadBase_logoLV3,SquadBase_plant,SquadBase_carpet
-    texture_type: "1,1,1,1"
-    sorting: "0,0,0,0"
-    offset: "0,-0.36,1|-3.462,2.61,4.06|-1.4,-0.4,3.35|-0.63,-0.36,1.97"
-    rotate: "2,3,2,1"
+    code: SquadBaseAnalyserLV3_new,SquadBase_logoLV3,SquadBase_carpet
+    texture_type: "1,1,1"
+    sorting: "10,10,10"
+    offset: "-0.104,-0.360,1.000|3.827,2.610,4.060|8.070,-0.360,1.970"
+    rotate: "2,3,1"
     interact_point: "104"
     interact_point_offset: *-7.983,9.515,11.079
   }
@@ -41930,15 +42058,13 @@
     name: 훈련장LV0
     classes: 400
     type: 201
-    space: "14,11,0,0,0,0"
+    space: "11,8,0,0,0,0"
     description: 훈련장LV0
-    code: SquadLogisticsRange_f_1,SquadLogisticsRange_f_2,SquadLogisticsRange_m,SquadLogisticsRange_m,SquadLogisticsRange_b_1,SquadLogisticsRange_b_2
-    texture_type: "1,1,1,1,1,1"
-    sorting: "50,50,25,25,20,20"
-    offset: "-0.3,-0.16,0.02|3.679,-0.16,0.02|-0.5,-0.35,0.92|-0.5,-0.15,2.72|-0.3,-0.26,3.62|3.679,-0.275,3.62"
-    rotate: "2,2,2,2,2,2"
-    interact_point: "104"
-    interact_point_offset: *-0.638,3.967,0.055
+    code: SquadLogisticsRange_f_1,SquadLogisticsRange_m,SquadLogisticsRange_m,SquadLogisticsRange_b_1
+    texture_type: "1,1,1,1"
+    sorting: "20,10,10,0"
+    offset: "-0.3,-0.16,0.02|-0.5,-0.35,0.92|-0.5,-0.15,2.72|-0.3,-0.26,3.62"
+    rotate: "2,2,2,2"
     touch_area: "12,4,0"
   }
   {
@@ -41946,15 +42072,13 @@
     name: 훈련장LV1
     classes: 400
     type: 201
-    space: "14,11,0,0,0,0"
+    space: "11,8,0,0,0,0"
     description: 훈련장LV1
-    code: SquadLogisticsRange_f_1,SquadLogisticsRange_f_2,SquadLogisticsRange_m,SquadLogisticsRange_m,SquadLogisticsRange_b_1,SquadLogisticsRange_b_2
-    texture_type: "1,1,1,1,1,1"
-    sorting: "50,50,25,25,20,20"
-    offset: "-0.3,-0.16,0.02|3.679,-0.16,0.02|-0.5,-0.35,0.92|-0.5,-0.15,2.72|-0.3,-0.26,3.62|3.679,-0.275,3.62"
-    rotate: "2,2,2,2,2,2"
-    interact_point: "104"
-    interact_point_offset: *-0.638,3.967,0.055
+    code: SquadLogisticsRange_f_1,SquadLogisticsRange_m,SquadLogisticsRange_m,SquadLogisticsRange_b_1
+    texture_type: "1,1,1,1"
+    sorting: "20,10,10,0"
+    offset: "-0.3,-0.16,0.02|-0.5,-0.35,0.92|-0.5,-0.15,2.72|-0.3,-0.26,3.62"
+    rotate: "2,2,2,2"
     touch_area: "12,4,0"
   }
   {
@@ -41962,15 +42086,13 @@
     name: 훈련장LV2
     classes: 400
     type: 201
-    space: "14,11,0,0,0,0"
+    space: "11,8,0,0,0,0"
     description: 훈련장LV2
-    code: SquadLogisticsRange_f_1,SquadLogisticsRange_f_2,SquadLogisticsRange_m,SquadLogisticsRange_m,SquadLogisticsRange_b_1,SquadLogisticsRange_b_2
-    texture_type: "1,1,1,1,1,1"
-    sorting: "50,50,25,25,20,20"
-    offset: "-0.3,-0.16,0.02|3.679,-0.16,0.02|-0.5,-0.35,0.92|-0.5,-0.15,2.72|-0.3,-0.26,3.62|3.679,-0.275,3.62"
-    rotate: "2,2,2,2,2,2"
-    interact_point: "104"
-    interact_point_offset: *-0.638,3.967,0.055
+    code: SquadLogisticsRange_f_1,SquadLogisticsRange_m,SquadLogisticsRange_m,SquadLogisticsRange_b_1
+    texture_type: "1,1,1,1"
+    sorting: "20,10,10,0"
+    offset: "-0.3,-0.16,0.02|-0.5,-0.35,0.92|-0.5,-0.15,2.72|-0.3,-0.26,3.62"
+    rotate: "2,2,2,2"
     touch_area: "12,4,0"
   }
   {
@@ -41978,15 +42100,13 @@
     name: 훈련장LV3
     classes: 400
     type: 201
-    space: "14,11,0,0,0,0"
+    space: "11,8,0,0,0,0"
     description: 훈련장LV3
-    code: SquadLogisticsRange_f_1,SquadLogisticsRange_f_2,SquadLogisticsRange_m,SquadLogisticsRange_m,SquadLogisticsRange_b_1,SquadLogisticsRange_b_2
-    texture_type: "1,1,1,1,1,1"
-    sorting: "50,50,25,25,20,20"
-    offset: "-0.3,-0.16,0.02|3.679,-0.16,0.02|-0.5,-0.35,0.92|-0.5,-0.15,2.72|-0.3,-0.26,3.62|3.679,-0.275,3.62"
-    rotate: "2,2,2,2,2,2"
-    interact_point: "104"
-    interact_point_offset: *-0.638,3.967,0.055
+    code: SquadLogisticsRange_f_1,SquadLogisticsRange_m,SquadLogisticsRange_m,SquadLogisticsRange_b_1
+    texture_type: "1,1,1,1"
+    sorting: "20,10,10,0"
+    offset: "-0.3,-0.16,0.02|-0.5,-0.35,0.92|-0.5,-0.15,2.72|-0.3,-0.26,3.62"
+    rotate: "2,2,2,2"
     touch_area: "12,4,0"
   }
   {
@@ -43768,5 +43888,100 @@
     sorting: "5"
     offset: "0,0,0"
     rotate: "3"
+  }
+  {
+    id: 410010
+    name: 차량 플랫폼
+    classes: 400
+    type: 201
+    space: "16,14,1,1,1,1"
+    description: 차량 플랫폼
+    code: vehicleDorm_stageA,vehicleDorm_stageB
+    texture_type: "2,2"
+    sorting: "0,20"
+    offset: "0.000,-0.448,3.357|0.000,-0.386,3.170"
+    rotate: "2,2"
+    interact_point: "70"
+    interact_point_offset: "0,0,0"
+    furniture_bgm: BGM_vehicle_garage_main
+    touch_area: "12,6,0"
+  }
+  {
+    id: 410020
+    name: 차량 동력 전환기
+    classes: 400
+    type: 201
+    space: "6,6,0,0,0,0"
+    description: 차량 동력 전환기
+    code: vehicleDorm_energyDevice,vehicleDorm_battery
+    texture_type: "1,2"
+    sorting: "0,0"
+    offset: "-0.270,0.081,0.000|-0.042,0.540,0.137"
+    rotate: "2,2"
+  }
+  {
+    id: 410030
+    name: 차량 조작대
+    classes: 400
+    type: 201
+    space: "5,4,0,0,0,0"
+    description: 차량 조작대
+    code: vehicleDorm_OperationA,vehicleDorm_OperationB,vehicleDorm_chair
+    texture_type: "1,1,1"
+    sorting: "0,0,20"
+    offset: "-0.443,0.000,0.000|1.861,0.005,0.000|0.382,0.000,-0.360"
+    rotate: "2,2,2"
+  }
+  {
+    id: 410040
+    name: 차량 셔터문
+    classes: 400
+    type: 302
+    space: "12,4,0,0,0,0"
+    description: 차량 셔터문
+    code: vehicleDorm_DoorA,vehicleDorm_DoorB
+    texture_type: "1,1"
+    sorting: "20,20"
+    offset: "0.000,-0.104,0.021|-2.492,-0.918,0.209"
+    rotate: "2,2"
+  }
+  {
+    id: 410050
+    name: 차량 파츠 시설대
+    classes: 400
+    type: 201
+    space: "5,6,0,0,0,0"
+    description: 차량 파츠 시설대
+    code: vehicleDorm_Component,vehicleDorm_chair
+    texture_type: "1,1"
+    sorting: "0,10"
+    offset: "0.000,-0.345,0.000|0.282,0.000,-0.407"
+    rotate: "2,2"
+  }
+  {
+    id: 410060
+    name: 차량 기계 시설대
+    classes: 400
+    type: 201
+    space: "8,3,1,1,1,0"
+    description: 차량 기계 시설대
+    code: vehicleDorm_tools,vehicleDorm_chair,vehicleDorm_toolsTable
+    texture_type: "2,1,1"
+    sorting: "10,20,0"
+    offset: "0.079,0.072,0.000|0.000,-0.620,0.702|0.000,-0.620,0.702"
+    rotate: "2,2,2"
+    touch_area: "8,3,0"
+  }
+  {
+    id: 410070
+    name: 미해금 차량 방진포
+    classes: 400
+    type: 201
+    space: "0,0,1,1,1,0"
+    description: 미해금 차량 방진포
+    code: vehicleDorm_stageLock
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
   }
 ]

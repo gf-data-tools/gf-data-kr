@@ -1,0 +1,69 @@
+[
+  {
+    id: 1
+    description: 지휘관 레벨 50 도달
+    task_type: commander_level
+    count: "50"
+    vehicle_id: 1
+    group_type: 1
+  }
+  {
+    id: 2
+    description: 금/은/동훈장 총 120개 획득
+    task_type: mission_medal_all
+    count: "120"
+    vehicle_id: 1
+    group_type: 1
+  }
+  {
+    id: 3
+    description: 100레벨 인형 또는 철혈 10개 보유
+    task_type: i_gun_level
+    count: "10"
+    condition: "100"
+    vehicle_id: 1
+    group_type: 1
+  }
+  {
+    id: 4
+    description: 주력탱크의 기갑 사격장 튜토리얼 완료
+    task_type: c_guide_complete
+    condition: "11487"
+    vehicle_id: 1
+    group_type: 1
+  }
+  {
+    id: 5
+    description: AA-02 아레스 1회 처치.(일반 13-6 전역 권장)
+    task_type: i_kill_enemy_all
+    count: "1"
+    condition: "80"
+    vehicle_id: 2
+    group_type: 1
+  }
+  {
+    id: 6
+    description: 금훈장 총 50개 획득
+    task_type: mission_bestrank5
+    count: "50"
+    vehicle_id: 2
+    group_type: 1
+  }
+  {
+    id: 7
+    description: 100레벨 화력소대 2개 보유
+    task_type: i_squad_level
+    count: "2"
+    condition: "100"
+    vehicle_id: 2
+    group_type: 1
+  }
+  {
+    id: 8
+    description: 전술인형기갑의 기갑 사격장 튜토리얼 완료
+    task_type: c_guide_complete
+    condition: "11486"
+    vehicle_id: 2
+    group_type: 1
+  }
+]

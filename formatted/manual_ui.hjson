@@ -1701,7 +1701,7 @@
     id: 544114
     code_a: Build_PortableEMP
     description_a: 아군 제대
-    description_b: 마인드 충격탄
+    description_b: 정신충격탄
     description_c: 줍기
     code_b: Console_Icon
   }
@@ -1709,7 +1709,7 @@
     id: 544124
     code_a: Build_PortableEMP
     description_a: 아군 제대
-    description_b: 마인드 충격탄
+    description_b: 정신충격탄
     description_c: 투척
     code_b: Console_Icon
     is_manual_target: 2
@@ -6332,6 +6332,73 @@
     description_a: 아군 제대
     description_b: 중앙 제어판
     description_c: 끄기
+    code_b: Console_Icon
+  }
+  {
+    id: 6620001
+    code_a: Boomer
+    description_a: 아군제대
+    description_b: 골리앗
+    description_c: 투척
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6620002
+    code_a: Build_PortableEMP
+    description_a: 아군제대
+    description_b: EMP
+    description_c: 투척
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6620003
+    code_a: portalskill
+    description_a: 아군제대
+    description_b: 빈 거점
+    description_c: 전송
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6620004
+    code_a: Griffin
+    description_a: 아군제대
+    description_b: 개막 동결
+    description_c: 획득
+    code_b: Console_Icon
+  }
+  {
+    id: 6620005
+    code_a: Griffin
+    description_a: 아군제대
+    description_b: 강습의 땅
+    description_c: 획득
+    code_b: Console_Icon
+  }
+  {
+    id: 6620006
+    code_a: Griffin
+    description_a: 아군제대
+    description_b: 융단 엄호
+    description_c: 획득
+    code_b: Console_Icon
+  }
+  {
+    id: 6620007
+    code_a: Build_PortableEMP
+    description_a: 아군제대
+    description_b: EMP
+    description_c: 줍기
+    code_b: Console_Icon
+  }
+  {
+    id: 6620008
+    code_a: Console
+    description_a: 아군제대
+    description_b: 차단문
+    description_c: 열기
     code_b: Console_Icon
   }
   {

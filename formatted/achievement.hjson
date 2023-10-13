@@ -2303,7 +2303,7 @@
     part: 10
     item_ids: 8-1
     title: 훈련개시!
-    content: 스킬훈련 1회 진행
+    content: 인형 스킬레벨 1 상승
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2320,7 +2320,7 @@
     part: 20
     item_ids: 8-1
     title: 기초부터 배운다
-    content: 스킬훈련 누적 10회 진행
+    content: 인형 스킬레벨 누적 10 상승
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2337,7 +2337,7 @@
     part: 30
     item_ids: 8-2
     title: 훈련이 완벽을 만든다
-    content: 스킬훈련 누적 50회 진행
+    content: 인형 스킬레벨 누적 50 상승
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2354,7 +2354,7 @@
     part: 60
     item_ids: 8-2
     title: 백방으로 단련하다
-    content: 스킬훈련 누적 100회 진행
+    content: 인형 스킬레벨 누적 100 상승
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2371,7 +2371,7 @@
     part: 200
     item_ids: 8-3
     title: 식은 죽 먹기
-    content: 스킬훈련 누적 500회 진행
+    content: 인형 스킬레벨 누적 500 상승
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2388,7 +2388,7 @@
     part: 300
     item_ids: 8-3
     title: 마지막 수업
-    content: 스킬훈련 누적 1,000회 진행
+    content: 인형 스킬레벨 누적 1,000 상승
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -2405,7 +2405,7 @@
     part: 600
     item_ids: 8-5
     title: 강철은 이렇게 만들어진다
-    content: 스킬훈련 누적 2,000회 진행
+    content: 인형 스킬레벨 누적 2,000 상승
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -4620,7 +4620,7 @@
     part: 1000
     item_ids: 8-6
     title: 군법 제 5000조
-    content: 스킬훈련 누적 5,000회 완료
+    content: 인형 스킬레벨 누적 5,000 상승
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -4636,7 +4636,7 @@
     part: 1300
     item_ids: 8-8
     title: 코만도
-    content: 스킬훈련 누적 10,000회 완료
+    content: 인형 스킬레벨 누적 10,000 상승
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -4652,7 +4652,7 @@
     part: 1600
     item_ids: 8-10
     title: 폭정으로 이루는 평화
-    content: 스킬훈련 누적 20,000회 완료
+    content: 인형 스킬레벨 누적 20,000 상승
     type_sort: 8
     sort: 127
     icon_code: 技能训练
@@ -8895,7 +8895,7 @@
     part: 10
     item_ids: 8-1
     title: 신선의 숲
-    content: 요정 스킬훈련 1회 진행
+    content: 요정 스킬레벨 1 상승
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8912,7 +8912,7 @@
     part: 20
     item_ids: 8-2
     title: 요정의 계곡
-    content: 요정 스킬훈련 누적 10회 진행
+    content: 요정 스킬레벨 누적 10 상승
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8929,7 +8929,7 @@
     part: 30
     item_ids: 8-3
     title: 고블린 동굴
-    content: 요정 스킬훈련 누적 20회 진행
+    content: 요정 스킬레벨 누적 20 상승
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8946,7 +8946,7 @@
     part: 60
     item_ids: 8-4
     title: 운디네의 샘
-    content: 요정 스킬훈련 누적 50회 진행
+    content: 요정 스킬레벨 누적 50 상승
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8963,7 +8963,7 @@
     part: 200
     item_ids: 8-5
     title: 세이렌의 산호
-    content: 요정 스킬훈련 누적 100회 진행
+    content: 요정 스킬레벨 누적 100 상승
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8980,7 +8980,7 @@
     part: 300
     item_ids: 8-6
     title: 밴시
-    content: 요정 스킬훈련 누적 200회 진행
+    content: 요정 스킬레벨 누적 200 상승
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -8997,7 +8997,7 @@
     part: 600
     item_ids: 8-7
     title: 고르곤 자매
-    content: 요정 스킬훈련 누적 500회 진행
+    content: 요정 스킬레벨 누적 500 상승
     type_sort: 9
     sort: 224
     icon_code: 妖精技能升级
@@ -9390,135 +9390,6 @@
     icon_code: 漫画
   }
   {
-    identity: 611
-    type: squad_get_secret_data
-    count: 1
-    user_exp: 30
-    item_ids: 15-10
-    title: 살인 면허
-    content: 처음으로 핵심 데이터를 획득
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-  }
-  {
-    identity: 612
-    type: squad_get_secret_data
-    count: 10
-    user_exp: 60
-    item_ids: 15-20
-    title: 도둑잡기
-    content: 핵심 데이터를 누적 10개 획득.
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 613
-    type: squad_get_secret_data
-    count: 20
-    user_exp: 100
-    item_ids: 15-40
-    title: 팅커 테일러 솔져 스파이
-    content: 핵심 데이터를 누적 20개 획득.
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 614
-    type: squad_get_secret_data
-    count: 50
-    user_exp: 200
-    item_ids: 15-60
-    title: 캠브리지 파이브
-    content: 핵심 데이터를 누적 50개 획득.
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 615
-    type: squad_get_secret_data
-    count: 100
-    user_exp: 500
-    item_ids: 15-80
-    title: 판도라 프로젝트
-    content: 핵심 데이터를 누적 100개 획득.
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 616
-    type: squad_get_secret_data
-    count: 200
-    user_exp: 1000
-    item_ids: 15-100
-    title: 혼돈 이론
-    content: 핵심 데이터를 누적 200개 획득.
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 617
-    type: squad_get_secret_data
-    count: 500
-    user_exp: 2000
-    item_ids: 15-150
-    title: 건즈 오브 패트리어트
-    content: 핵심 데이터를 누적 500개 획득.
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 618
-    type: squad_get_secret_data
-    count: 1000
-    user_exp: 3000
-    item_ids: 15-200
-    title: 스네이크 이터
-    content: 핵심 데이터를 누적 1000개 획득.
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 619
-    type: squad_get_secret_data
-    count: 2000
-    user_exp: 4000
-    item_ids: 15-250
-    title: 선즈 오브 리버티
-    content: 핵심 데이터를 누적 2000개 획득.
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 620
-    type: squad_get_secret_data
-    count: 5000
-    user_exp: 5000
-    item_ids: 15-300
-    title: 엣지 오브 투모로우
-    content: 핵심 데이터를 누적 5000개 획득.
-    type_sort: 13
-    sort: 241
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
     identity: 621
     type: squad_get_type1_unit
     count: 1
@@ -9575,272 +9446,12 @@
     unlock_function: 15
   }
   {
-    identity: 625
-    type: squad_get_chip
-    count: 1
-    user_exp: 30
-    item_ids: 14-10
-    title: 모노리스
-    content: 처음으로 칩셋을 획득.
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 626
-    type: squad_get_chip
-    count: 10
-    user_exp: 60
-    item_ids: 14-20
-    title: 파스칼 계산기
-    content: 칩셋을 누적 10개 획득.
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 627
-    type: squad_get_chip
-    count: 100
-    user_exp: 100
-    item_ids: 14-40
-    title: 배비지 차분기관
-    content: 칩셋을 누적 100개 획득.
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 628
-    type: squad_get_chip
-    count: 500
-    user_exp: 200
-    item_ids: 14-60
-    title: 자카드 문직기
-    content: 칩셋을 누적 500개 획득.
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 629
-    type: squad_get_chip
-    count: 1000
-    user_exp: 500
-    item_ids: 14-80
-    title: 홀러리스 천공기.
-    content: 칩셋을 누적 1000개 획득.
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 630
-    type: squad_get_chip
-    count: 2000
-    user_exp: 1000
-    item_ids: 14-100
-    title: 노든 폭격조준기
-    content: 칩셋을 누적 2000개 획득.
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 631
-    type: squad_get_chip
-    count: 5000
-    user_exp: 2000
-    item_ids: 14-150
-    title: 추제의 유도장치
-    content: 칩셋을 누적 5000개 획득.
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 632
-    type: squad_get_chip
-    count: 10000
-    user_exp: 3000
-    item_ids: 14-200
-    title: 페이먼의 연필
-    content: 칩셋을 누적 10000개 획득.
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 633
-    type: squad_get_chip
-    count: 20000
-    user_exp: 4000
-    item_ids: 14-250
-    title: 페르미의 계산자
-    content: 칩셋을 누적 20000개 획득.
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 634
-    type: squad_get_chip
-    count: 30000
-    user_exp: 5000
-    item_ids: 14-300
-    title: 노이만의 두뇌
-    content: 칩셋을 누적 30000개 획득.
-    type_sort: 13
-    sort: 245
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 635
-    type: squad_change_data_times
-    count: 1
-    user_exp: 30
-    item_ids: 15-10
-    title: 매듭 문자
-    content: 처음으로 데이터 재구성.
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 636
-    type: squad_change_data_times
-    count: 10
-    user_exp: 60
-    item_ids: 15-20
-    title: 배끼기 숙제
-    content: 데이터 재구성으로 데이터 패치를 누적 10개 획득.
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 637
-    type: squad_change_data_times
-    count: 20
-    user_exp: 100
-    item_ids: 15-40
-    title: 카리나가 하루만에 해주었습니다
-    content: 데이터 재구성으로 데이터 패치를 누적 20개 획득.
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 638
-    type: squad_change_data_times
-    count: 50
-    user_exp: 200
-    item_ids: 15-60
-    title: 그리폰 바이블
-    content: 데이터 재구성으로 데이터 패치를 누적 50개 획득.
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 639
-    type: squad_change_data_times
-    count: 100
-    user_exp: 500
-    item_ids: 15-80
-    title: 팔만대장경
-    content: 데이터 재구성으로 데이터 패치를 누적 100개 획득.
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 640
-    type: squad_change_data_times
-    count: 200
-    user_exp: 1000
-    item_ids: 15-100
-    title: 펀치머신
-    content: 데이터 재구성으로 데이터 패치를 누적 200개 획득.
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 641
-    type: squad_change_data_times
-    count: 500
-    user_exp: 2000
-    item_ids: 15-150
-    title: 카세트 테이프
-    content: 데이터 재구성으로 데이터 패치를 누적 500개 획득.
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 642
-    type: squad_change_data_times
-    count: 1000
-    user_exp: 3000
-    item_ids: 15-200
-    title: 플로피 디스크
-    content: 데이터 재구성으로 데이터 패치를 누적 1000개 획득.
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 643
-    type: squad_change_data_times
-    count: 2000
-    user_exp: 4000
-    item_ids: 15-250
-    title: CD 굽기
-    content: 데이터 재구성으로 데이터 패치를 누적 2000개 획득.
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
-    identity: 644
-    type: squad_change_data_times
-    count: 5000
-    user_exp: 5000
-    item_ids: 15-300
-    title: 클라우드 스토리지
-    content: 데이터 재구성으로 데이터 패치를 누적 5000개 획득.
-    type_sort: 13
-    sort: 246
-    icon_code: 机密资料
-    unlock_function: 15
-  }
-  {
     identity: 645
     type: squad_base_data_analyse
     count: 1
-    item_ids: 301-5
+    item_ids: 14-10
     title: 프로메테우스의 불
-    content: 원시 샘플을 사용해 처음으로 정보 분석.
+    content: 처음으로 원시 데이터 샘플 소모.
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9849,12 +9460,12 @@
   {
     identity: 646
     type: squad_base_data_analyse
-    count: 10
+    count: 200
     user_exp: 60
     gem: 10
     item_ids: 14-20
     title: 아르키메데스의 욕조
-    content: 원시 샘플을 사용해 누적 10번 정보 분석.
+    content: 원시 데이터 샘플 누적 200 소모
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9863,12 +9474,12 @@
   {
     identity: 647
     type: squad_base_data_analyse
-    count: 100
+    count: 2000
     user_exp: 100
     gem: 20
     item_ids: 14-40
     title: 피타고라스 학파
-    content: 원시 샘플을 사용해 누적 100번 정보 분석.
+    content: 원시 데이터 샘플 누적 2000 소모
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9877,12 +9488,12 @@
   {
     identity: 648
     type: squad_base_data_analyse
-    count: 200
+    count: 4000
     user_exp: 200
     gem: 30
     item_ids: 14-60
     title: 유클리드 기하학
-    content: 원시 샘플을 사용해 누적 200번 정보 분석.
+    content: 원시 데이터 샘플 누적 4000 소모
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9891,12 +9502,12 @@
   {
     identity: 649
     type: squad_base_data_analyse
-    count: 500
+    count: 10000
     user_exp: 500
     gem: 50
     item_ids: 14-80
     title: 프톨레마이오스 천문학
-    content: 원시 샘플을 사용해 누적 500번 정보 분석.
+    content: 원시 데이터 샘플 누적 10000 소모
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9905,12 +9516,12 @@
   {
     identity: 650
     type: squad_base_data_analyse
-    count: 1000
+    count: 20000
     user_exp: 1000
     gem: 70
     item_ids: 14-100
     title: 데카르트 좌표
-    content: 원시 샘플을 사용해 누적 1000번 정보 분석.
+    content: 원시 데이터 샘플 누적 20000 소모
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9919,12 +9530,12 @@
   {
     identity: 651
     type: squad_base_data_analyse
-    count: 2000
+    count: 40000
     user_exp: 2000
     gem: 90
     item_ids: 14-150
     title: 라이프니츠 부호
-    content: 원시 샘플을 사용해 누적 2000번 정보 분석.
+    content: 원시 데이터 샘플 누적 40000 소모
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9933,12 +9544,12 @@
   {
     identity: 652
     type: squad_base_data_analyse
-    count: 5000
+    count: 100000
     user_exp: 3000
     gem: 120
     item_ids: 14-200
     title: 뉴턴의 사과
-    content: 원시 샘플을 사용해 누적 5000번 정보 분석.
+    content: 원시 데이터 샘플 누적 100000 소모
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9947,12 +9558,12 @@
   {
     identity: 653
     type: squad_base_data_analyse
-    count: 10000
+    count: 200000
     user_exp: 4000
     gem: 160
     item_ids: 14-250
     title: 라그레인지의 달
-    content: 원시 샘플을 사용해 누적 10000번 정보 분석.
+    content: 원시 데이터 샘플 누적 200000 소모
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9961,12 +9572,12 @@
   {
     identity: 654
     type: squad_base_data_analyse
-    count: 20000
+    count: 400000
     user_exp: 5000
     gem: 200
     item_ids: 14-300
     title: 라플라스의 악마
-    content: 원시 샘플을 사용해 누적 20000번 정보 분석.
+    content: 원시 데이터 샘플 누적 400000 소모
     type_sort: 14
     sort: 261
     icon_code: 数据分析
@@ -9979,7 +9590,7 @@
     user_exp: 30
     gem: 5
     title: 가우스곡선
-    content: 순정 샘플을 사용해 처음으로 정보 분석.
+    content: 처음으로 순정 데이터 샘플 소모.
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -9988,12 +9599,12 @@
   {
     identity: 656
     type: squad_senior_data_analyse
-    count: 10
+    count: 200
     user_exp: 60
     gem: 10
     item_ids: 15-20
     title: 조충지 원주율
-    content: 순정 샘플을 사용해 누적 10번 정보 분석.
+    content: 순정 데이터 샘플 누적 200 소모.
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10002,12 +9613,12 @@
   {
     identity: 657
     type: squad_senior_data_analyse
-    count: 50
+    count: 1000
     user_exp: 100
     gem: 20
     item_ids: 15-40
     title: 플라톤 이데아론
-    content: 순정 샘플을 사용해 누적 50번 정보 분석.
+    content: 순정 데이터 샘플 누적 1000 소모.
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10016,12 +9627,12 @@
   {
     identity: 658
     type: squad_senior_data_analyse
-    count: 100
+    count: 2000
     user_exp: 200
     gem: 30
     item_ids: 15-60
     title: 리만 제타 함수
-    content: 순정 샘플을 사용해 누적 100번 정보 분석.
+    content: 순정 데이터 샘플 누적 2000 소모.
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10030,12 +9641,12 @@
   {
     identity: 659
     type: squad_senior_data_analyse
-    count: 200
+    count: 4000
     user_exp: 500
     gem: 50
     item_ids: 15-80
     title: 케플러의 추측
-    content: 순정 샘플을 사용해 누적 200번 정보 분석.
+    content: 순정 데이터 샘플 누적 4000 소모.
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10044,12 +9655,12 @@
   {
     identity: 660
     type: squad_senior_data_analyse
-    count: 500
+    count: 10000
     user_exp: 1000
     gem: 70
     item_ids: 15-100
     title: 불 대수
-    content: 순정 샘플을 사용해 누적 500번 정보 분석.
+    content: 순정 데이터 샘플 누적 10000 소모.
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10058,12 +9669,12 @@
   {
     identity: 661
     type: squad_senior_data_analyse
-    count: 1000
+    count: 20000
     user_exp: 2000
     gem: 90
     item_ids: 15-150
     title: 아벨방정식
-    content: 순정 샘플을 사용해 누적 1000번 정보 분석.
+    content: 순정 데이터 샘플 누적 20000 소모.
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10072,12 +9683,12 @@
   {
     identity: 662
     type: squad_senior_data_analyse
-    count: 2000
+    count: 40000
     user_exp: 3000
     gem: 120
     item_ids: 15-200
     title: 샤논 신호
-    content: 순정 샘플을 사용해 누적 2000번 정보 분석.
+    content: 순정 데이터 샘플 누적 40000 소모.
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10086,12 +9697,12 @@
   {
     identity: 663
     type: squad_senior_data_analyse
-    count: 5000
+    count: 100000
     user_exp: 4000
     gem: 160
     item_ids: 15-250
     title: 튜링 로직
-    content: 순정 샘플을 사용해 누적 5000번 정보 분석.
+    content: 순정 데이터 샘플 누적 100000 소모.
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10100,12 +9711,12 @@
   {
     identity: 664
     type: squad_senior_data_analyse
-    count: 10000
+    count: 200000
     user_exp: 5000
     gem: 200
     item_ids: 15-300
     title: 내쉬 균형
-    content: 순정 샘플을 사용해 누적 10000번 정보 분석.
+    content: 순정 데이터 샘플 누적 200000 소모.
     type_sort: 14
     sort: 262
     icon_code: 数据分析
@@ -10207,9 +9818,9 @@
     type: squad_rank_max
     count: 1
     user_exp: 30
-    item_ids: 17-2
+    item_ids: 14-240,15-100
     title: 그리폰 하트훈장
-    content: 처음으로 5성 중장비 부대 보유,
+    content: 처음으로 최고 성급 중장비 부대 보유,
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10220,9 +9831,9 @@
     type: squad_rank_max
     count: 3
     user_exp: 60
-    item_ids: 17-4
+    item_ids: 14-480,15-200
     title: 그리폰 명예훈장
-    content: 5성 중장비 부대 누적 3개 보유
+    content: 최고 성급 중장비 부대 누적 3개 보유
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10233,9 +9844,9 @@
     type: squad_rank_max
     count: 5
     user_exp: 100
-    item_ids: 17-6
+    item_ids: 14-720,15-300
     title: 그리폰 십자훈장
-    content: 5성 중장비 부대 누적 5개 보유
+    content: 최고 성급 중장비 부대 누적 5개 보유
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10246,9 +9857,9 @@
     type: squad_rank_max
     count: 10
     user_exp: 200
-    item_ids: 17-8
+    item_ids: 14-960,15-400
     title: 그리폰 영웅상
-    content: 5성 중장비 부대 누적 10개 보유
+    content: 최고 성급 중장비 부대 누적 10개 보유
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10259,9 +9870,9 @@
     type: squad_rank_max
     count: 20
     user_exp: 500
-    item_ids: 17-10
+    item_ids: 14-1200,15-500
     title: 그리폰 명예의 전당
-    content: 5성 중장비 부대 누적 20개 보유
+    content: 최고 성급 중장비 부대 누적 20개 보유
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10272,9 +9883,9 @@
     type: squad_rank_max
     count: 30
     user_exp: 1000
-    item_ids: 17-20
+    item_ids: 14-2400,15-1000
     title: 그리폰 영령전
-    content: 5성 중장비 부대 누적 30개 보유
+    content: 최고 성급 중장비 부대 누적 30개 보유
     type_sort: 14
     sort: 264
     icon_code: 支援小队升星
@@ -10285,7 +9896,7 @@
     type: squad_level_max
     count: 1
     user_exp: 30
-    item_ids: 17-2
+    item_ids: 14-240,15-100
     title: 탱크 헌터
     content: 처음으로 중장비 부대가 최고레벨 달성.
     type_sort: 14
@@ -10298,7 +9909,7 @@
     type: squad_level_max
     count: 3
     user_exp: 60
-    item_ids: 17-4
+    item_ids: 14-480,15-200
     title: 장갑 천적
     content: 누적 3개의 중장비 부대가 최고레벨 달성.
     type_sort: 14
@@ -10311,7 +9922,7 @@
     type: squad_level_max
     count: 5
     user_exp: 100
-    item_ids: 17-6
+    item_ids: 14-720,15-300
     title: 철혈 청소부
     content: 누적 5개의 중장비 부대가 최고레벨 달성.
     type_sort: 14
@@ -10324,7 +9935,7 @@
     type: squad_level_max
     count: 10
     user_exp: 200
-    item_ids: 17-8
+    item_ids: 14-960,15-400
     title: 전장 예초기
     content: 누적 10개의 중장비 부대가 최고레벨 달성.
     type_sort: 14
@@ -10337,7 +9948,7 @@
     type: squad_level_max
     count: 20
     user_exp: 500
-    item_ids: 17-10
+    item_ids: 14-1200,15-500
     title: 걸어다니는 재해
     content: 누적 20개의 중장비 부대가 최고레벨 달성.
     type_sort: 14
@@ -10350,7 +9961,7 @@
     type: squad_level_max
     count: 30
     user_exp: 1000
-    item_ids: 17-20
+    item_ids: 14-2400,15-1000
     title: 대량파괴무기
     content: 누적 30개의 중장비 부대가 최고레벨 달성.
     type_sort: 14
@@ -10359,142 +9970,12 @@
     unlock_function: 15
   }
   {
-    identity: 684
-    type: squad_train_time
-    count: 1
-    user_exp: 30
-    item_ids: 46-10
-    title: 고생은 사서 한다
-    content: 처음으로 중장비 부대 경험훈련 완료.
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 685
-    type: squad_train_time
-    count: 10
-    user_exp: 60
-    item_ids: 46-20
-    title: 그리폰 가야 인형 된다
-    content: 중장비 부대 경험훈련 누적 10시간 완료.
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 686
-    type: squad_train_time
-    count: 100
-    user_exp: 100
-    item_ids: 46-30
-    title: 신병수료식
-    content: 중장비 부대 경험훈련 누적 100시간 완료.
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 687
-    type: squad_train_time
-    count: 200
-    user_exp: 200
-    item_ids: 46-50
-    title: 적을 맞춰야 내가 산다
-    content: 중장비 부대 경험훈련 누적 200시간 완료.
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 688
-    type: squad_train_time
-    count: 500
-    user_exp: 500
-    item_ids: 46-80
-    title: 인형으로 태어나서 할 일도 많다만
-    content: 중장비 부대 경험훈련 누적 500시간 완료.
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 689
-    type: squad_train_time
-    count: 1000
-    user_exp: 1000
-    item_ids: 46-100
-    title: 마지막 구호는 외치지 않는다
-    content: 중장비 부대 경험훈련 누적 1000시간 완료.
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 690
-    type: squad_train_time
-    count: 2000
-    user_exp: 2000
-    item_ids: 46-150
-    title: 편한 나날은 어제로 끝이다
-    content: 중장비 부대 경험훈련 누적 2000시간 완료.
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 691
-    type: squad_train_time
-    count: 5000
-    user_exp: 3000
-    item_ids: 46-200
-    title: 승부는 사전에 정해졌다
-    content: 중장비 부대 경험훈련 누적 5000시간 완료.
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 692
-    type: squad_train_time
-    count: 10000
-    user_exp: 4000
-    item_ids: 46-250
-    title: 평화란 하프타임이다
-    content: 중장비 부대 경험훈련 누적 10000시간 완료.
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
-    identity: 693
-    type: squad_train_time
-    count: 20000
-    user_exp: 5000
-    item_ids: 46-300
-    title: 난 강해졌다
-    content: 중장비 부대 경험훈련 누적 20000시간 완료.
-    type_sort: 14
-    sort: 266
-    icon_code: 支援小队经验训练
-    unlock_function: 15
-  }
-  {
     identity: 694
     type: squad_up_skill_times
     count: 1
     user_exp: 30
     title: 정밀사격훈련
-    content: 처음으로 중장비 부대 스킬훈련 완료.
+    content: 처음으로 중장비 부대 스킬레벨 상승.
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10507,7 +9988,7 @@
     count: 10
     user_exp: 60
     title: 화력제압훈련
-    content: 중장비 부대 스킬훈련 누적 10회 완료.
+    content: 중장비 부대 스킬레벨 누적 10 상승.
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10520,7 +10001,7 @@
     count: 20
     user_exp: 100
     title: 진지전이훈련
-    content: 중장비 부대 스킬훈련 누적 20회 완료.
+    content: 중장비 부대 스킬레벨 누적 20 상승.
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10533,7 +10014,7 @@
     count: 50
     user_exp: 200
     title: 신속발포훈련
-    content: 중장비 부대 스킬훈련 누적 50회 완료.
+    content: 중장비 부대 스킬레벨 누적 50 상승.
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10546,7 +10027,7 @@
     count: 100
     user_exp: 500
     title: 위장은폐훈련
-    content: 중장비 부대 스킬훈련 누적 100회 완료.
+    content: 중장비 부대 스킬레벨 누적 100 상승.
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10559,7 +10040,7 @@
     count: 200
     user_exp: 1000
     title: 목표지정훈련
-    content: 중장비 부대 스킬훈련 누적 200회 완료.
+    content: 중장비 부대 스킬레벨 누적 200 상승.
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10572,7 +10053,7 @@
     count: 500
     user_exp: 2000
     title: 지형개조훈련
-    content: 중장비 부대 스킬훈련 누적 500회 완료.
+    content: 중장비 부대 스킬레벨 누적 500 상승.
     type_sort: 14
     sort: 267
     icon_code: 支援小队技能训练
@@ -10584,7 +10065,7 @@
     type: squad_up_advanced_times
     count: 1
     user_exp: 30
-    item_ids: 17-2
+    item_ids: 14-240,15-100
     title: 데뷔공연
     content: 처음으로 중장비 부대 버전 업.
     type_sort: 14
@@ -10597,7 +10078,7 @@
     type: squad_up_advanced_times
     count: 5
     user_exp: 60
-    item_ids: 17-4
+    item_ids: 14-480,15-200
     title: 전장을 울리다
     content: 중장비 부대 누적 5회 버전 업.
     type_sort: 14
@@ -10610,7 +10091,7 @@
     type: squad_up_advanced_times
     count: 10
     user_exp: 100
-    item_ids: 17-6
+    item_ids: 14-720,15-300
     title: 알람 종소리
     content: 중장비 부대 누적 10회 버전 업.
     type_sort: 14
@@ -10623,7 +10104,7 @@
     type: squad_up_advanced_times
     count: 20
     user_exp: 200
-    item_ids: 17-8
+    item_ids: 14-960,15-400
     title: 포화 속으로
     content: 중장비 부대 누적 20회 버전 업.
     type_sort: 14
@@ -10636,7 +10117,7 @@
     type: squad_up_advanced_times
     count: 50
     user_exp: 500
-    item_ids: 17-10
+    item_ids: 14-1200,15-500
     title: 크로스 파이어
     content: 중장비 부대 누적 50회 버전 업.
     type_sort: 14
@@ -10649,7 +10130,7 @@
     type: squad_up_advanced_times
     count: 100
     user_exp: 1000
-    item_ids: 17-15
+    item_ids: 14-1800,15-750
     title: 킬링 필드
     content: 중장비 부대 누적 100회 버전 업.
     type_sort: 14
@@ -10662,7 +10143,7 @@
     type: squad_up_advanced_times
     count: 200
     user_exp: 2000
-    item_ids: 17-20
+    item_ids: 14-2400,15-1000
     title: 미사일 오케스트라
     content: 중장비 부대 누적 200회 버전 업.
     type_sort: 14
@@ -10675,259 +10156,12 @@
     type: squad_up_advanced_times
     count: 300
     user_exp: 3000
-    item_ids: 17-30
+    item_ids: 14-3600,15-1500
     title: 포성의 왈츠
     content: 중장비 부대 누적 300회 버전 업.
     type_sort: 14
     sort: 268
     icon_code: 强化
-    unlock_function: 15
-  }
-  {
-    identity: 709
-    type: squad_chip_retire_times
-    count: 1
-    user_exp: 30
-    item_ids: 14-10
-    title: 칩셋 해체
-    content: 처음으로 칩셋을 해체.
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 710
-    type: squad_chip_retire_times
-    count: 10
-    user_exp: 60
-    item_ids: 14-20
-    title: 키보드 크래셔
-    content: 칩셋을 누적 10개 해체.
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 711
-    type: squad_chip_retire_times
-    count: 100
-    user_exp: 100
-    item_ids: 14-40
-    title: 그래픽카드 박살
-    content: 칩셋을 누적 100개 해체.
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 712
-    type: squad_chip_retire_times
-    count: 200
-    user_exp: 200
-    item_ids: 14-60
-    title: 메인보드 찢기
-    content: 칩셋을 누적 200개 해체.
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 713
-    type: squad_chip_retire_times
-    count: 500
-    user_exp: 500
-    item_ids: 14-80
-    title: CPU 밟기
-    content: 칩셋을 누적 500개 해체.
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 714
-    type: squad_chip_retire_times
-    count: 1000
-    user_exp: 1000
-    item_ids: 14-100
-    title: 메인 전원 불태우기
-    content: 칩셋을 누적 1000개 해체.
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 715
-    type: squad_chip_retire_times
-    count: 2000
-    user_exp: 2000
-    item_ids: 14-150
-    title: 하드디스크 세탁
-    content: 칩셋을 누적 2000개 해체.
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 716
-    type: squad_chip_retire_times
-    count: 5000
-    user_exp: 3000
-    item_ids: 14-200
-    title: 젖은 내장메모리
-    content: 칩셋을 누적 5000개 해체.
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 717
-    type: squad_chip_retire_times
-    count: 10000
-    user_exp: 4000
-    item_ids: 14-250
-    title: 모니터 펀치
-    content: 칩셋을 누적 10000개 해체.
-    type_sort: 14
-    sort: 269
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 718
-    type: squad_eat_chip_num
-    count: 1
-    user_exp: 30
-    item_ids: 14-10
-    title: 칩셋 강화
-    content: 처음으로 칩셋을 강화.
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 719
-    type: squad_eat_chip_num
-    count: 10
-    user_exp: 60
-    item_ids: 14-20
-    title: 오버클럭 입문자
-    content: 강화를 통해 칩셋을 누적 10개 소모.
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 720
-    type: squad_eat_chip_num
-    count: 100
-    user_exp: 100
-    item_ids: 14-40
-    title: 오버클럭 연습생
-    content: 강화를 통해 칩셋을 누적 100개 소모.
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 721
-    type: squad_eat_chip_num
-    count: 200
-    user_exp: 200
-    item_ids: 14-60
-    title: 오버클럭 수련가
-    content: 강화를 통해 칩셋을 누적 200개 소모.
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 722
-    type: squad_eat_chip_num
-    count: 500
-    user_exp: 500
-    item_ids: 14-80
-    title: 오버클럭 챌린저
-    content: 강화를 통해 칩셋을 누적 500개 소모.
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 723
-    type: squad_eat_chip_num
-    count: 1000
-    user_exp: 1000
-    item_ids: 14-100
-    title: 오버클럭 판타지아
-    content: 강화를 통해 칩셋을 누적 1000개 소모.
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 724
-    type: squad_eat_chip_num
-    count: 2000
-    user_exp: 2000
-    item_ids: 14-150
-    title: 오버클럭 각성자
-    content: 강화를 통해 칩셋을 누적 2000개 소모.
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 725
-    type: squad_eat_chip_num
-    count: 5000
-    user_exp: 3000
-    item_ids: 14-200
-    title: 오버클럭 승천자
-    content: 강화를 통해 칩셋을 누적 5000개 소모.
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 726
-    type: squad_eat_chip_num
-    count: 10000
-    user_exp: 4000
-    item_ids: 14-250
-    title: 오버클럭 지배자
-    content: 강화를 통해 칩셋을 누적 10000개 소모.
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
-    unlock_function: 15
-  }
-  {
-    identity: 727
-    type: squad_eat_chip_num
-    count: 20000
-    user_exp: 5000
-    item_ids: 14-300
-    title: 오버클럭 초월체
-    content: 강화를 통해 칩셋을 누적 20000개 소모.
-    type_sort: 14
-    sort: 270
-    icon_code: 芯片
     unlock_function: 15
   }
   {
@@ -13508,7 +12742,7 @@
     user_exp: 30
     item_ids: 515-100,516-80
     title: 아군이 된 적 보정
-    content: 처음으로 혼합세력유닛 스킬훈련 실행.
+    content: 처음으로 혼합세력유닛 스킬레벨 상승.
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13521,7 +12755,7 @@
     user_exp: 60
     item_ids: 515-150,516-100
     title: 꾸준한 단련
-    content: 혼합세력유닛 스킬훈련 누적 10회.
+    content: 혼합세력유닛 스킬레벨 누적 10 상승
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13534,7 +12768,7 @@
     user_exp: 100
     item_ids: 515-200,516-150
     title: 작은 성과
-    content: 혼합세력유닛 스킬훈련 누적 50회.
+    content: 혼합세력유닛 스킬레벨 누적 50 상승
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13547,7 +12781,7 @@
     user_exp: 200
     item_ids: 515-220,516-180
     title: 다져진 실력
-    content: 혼합세력유닛 스킬훈련 누적 100회.
+    content: 혼합세력유닛 스킬레벨 누적 100 상승
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13560,7 +12794,7 @@
     user_exp: 500
     item_ids: 515-260,516-220
     title: 논문 편찬
-    content: 혼합세력유닛 스킬훈련 누적 500회.
+    content: 혼합세력유닛 스킬레벨 누적 500 상승
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13573,7 +12807,7 @@
     user_exp: 1000
     item_ids: 515-300,516-250
     title: 요령의 나침반
-    content: 혼합세력유닛 스킬훈련 누적 1000회.
+    content: 혼합세력유닛 스킬레벨 누적 1000 상승
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13586,7 +12820,7 @@
     user_exp: 2000
     item_ids: 515-350,516-300
     title: 규율의 천칭
-    content: 혼합세력유닛 스킬훈련 누적 2000회.
+    content: 혼합세력유닛 스킬레벨 누적 2000 상승
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13599,7 +12833,7 @@
     user_exp: 3000
     item_ids: 515-400,516-350
     title: 땀의 결실
-    content: 혼합세력유닛 스킬훈련 누적 5000회.
+    content: 혼합세력유닛 스킬레벨 누적 5000 상승
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13612,7 +12846,7 @@
     user_exp: 4000
     item_ids: 515-450,516-400
     title: 힘으로 지배
-    content: 혼합세력유닛 스킬훈련 누적 10000회.
+    content: 혼합세력유닛 스킬레벨 누적 10000 상승
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -13625,7 +12859,7 @@
     user_exp: 5000
     item_ids: 515-500,516-450
     title: 튜닝의 끝은 순정
-    content: 혼합세력유닛 스킬훈련 누적 20000회.
+    content: 혼합세력유닛 스킬레벨 누적 20000 상승
     type_sort: 15
     sort: 282
     icon_code: 融合势力技能训练
@@ -15882,5 +15116,2275 @@
     sort: 308
     icon_code: 谷底回声
     condition: "11418"
+  }
+  {
+    identity: 1074
+    type: squad_get_chip
+    count: 1
+    user_exp: 30
+    item_ids: 14-10
+    title: 모노리스
+    content: 처음으로 칩셋을 해금.
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1075
+    type: squad_get_chip
+    count: 10
+    user_exp: 60
+    item_ids: 14-20
+    title: 파스칼 계산기
+    content: 칩셋을 누적 10개 해금
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1076
+    type: squad_get_chip
+    count: 20
+    user_exp: 100
+    item_ids: 14-40
+    title: 배비지 차분기관
+    content: 칩셋을 누적 20개 해금
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1077
+    type: squad_get_chip
+    count: 30
+    user_exp: 200
+    item_ids: 14-60
+    title: 자카드 문직기
+    content: 칩셋을 누적 30개 해금
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1078
+    type: squad_get_chip
+    count: 50
+    user_exp: 500
+    item_ids: 14-80
+    title: 홀러리스 천공기.
+    content: 칩셋을 누적 50개 해금
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1079
+    type: squad_get_chip
+    count: 70
+    user_exp: 1000
+    item_ids: 14-100
+    title: 노든 폭격조준기
+    content: 칩셋을 누적 70개 해금
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1080
+    type: squad_get_chip
+    count: 100
+    user_exp: 2000
+    item_ids: 14-150
+    title: 추제의 유도장치
+    content: 칩셋을 누적 100개 해금
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1081
+    type: squad_get_chip
+    count: 150
+    user_exp: 3000
+    item_ids: 14-200
+    title: 페이먼의 연필
+    content: 칩셋을 누적 150개 해금
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1082
+    type: squad_get_chip
+    count: 200
+    user_exp: 4000
+    item_ids: 14-250
+    title: 페르미의 계산자
+    content: 칩셋을 누적 200개 해금
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1083
+    type: squad_get_chip
+    count: 300
+    user_exp: 5000
+    item_ids: 14-300
+    title: 노이만의 두뇌
+    content: 칩셋을 누적 300개 해금
+    type_sort: 13
+    sort: 245
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1084
+    type: squad_eat_chip_num
+    count: 1
+    user_exp: 30
+    item_ids: 14-10
+    title: 칩셋 강화
+    content: 칩셋을 처음으로 최대레벨 강화.
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1085
+    type: squad_eat_chip_num
+    count: 10
+    user_exp: 60
+    item_ids: 14-20
+    title: 오버클럭 입문자
+    content: 칩셋을 누적 10개 최대레벨로 강화.
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1086
+    type: squad_eat_chip_num
+    count: 20
+    user_exp: 100
+    item_ids: 14-40
+    title: 오버클럭 연습생
+    content: 칩셋을 누적 20개 최대레벨로 강화.
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1087
+    type: squad_eat_chip_num
+    count: 30
+    user_exp: 200
+    item_ids: 14-60
+    title: 오버클럭 수련가
+    content: 칩셋을 누적 30개 최대레벨로 강화.
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1088
+    type: squad_eat_chip_num
+    count: 50
+    user_exp: 500
+    item_ids: 14-80
+    title: 오버클럭 챌린저
+    content: 칩셋을 누적 50개 최대레벨로 강화.
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1089
+    type: squad_eat_chip_num
+    count: 70
+    user_exp: 1000
+    item_ids: 14-100
+    title: 오버클럭 판타지아
+    content: 칩셋을 누적 70개 최대레벨로 강화.
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1090
+    type: squad_eat_chip_num
+    count: 100
+    user_exp: 2000
+    item_ids: 14-150
+    title: 오버클럭 각성자
+    content: 칩셋을 누적 100개 최대레벨로 강화.
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1091
+    type: squad_eat_chip_num
+    count: 150
+    user_exp: 3000
+    item_ids: 14-200
+    title: 오버클럭 승천자
+    content: 칩셋을 누적 150개 최대레벨로 강화.
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1092
+    type: squad_eat_chip_num
+    count: 200
+    user_exp: 4000
+    item_ids: 14-250
+    title: 오버클럭 지배자
+    content: 칩셋을 누적 200개 최대레벨로 강화.
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1093
+    type: squad_eat_chip_num
+    count: 300
+    user_exp: 5000
+    item_ids: 14-300
+    title: 오버클럭 초월체
+    content: 칩셋을 누적 300개 최대레벨로 강화.
+    type_sort: 14
+    sort: 270
+    icon_code: 芯片
+    unlock_function: 15
+  }
+  {
+    identity: 1094
+    type: different_vehicle
+    count: 1
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    item_ids: 57-1000,1800005-1
+    title: 트리톤
+    content: 기동장갑 도감을 1개 해금
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1095
+    type: different_vehicle
+    count: 2
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 오스틴
+    content: 각각 다른 기동장갑 도감을 2개 해금.
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1096
+    type: different_vehicle
+    count: 3
+    user_exp: 1500
+    mp: 1500
+    ammo: 1500
+    mre: 1500
+    part: 1500
+    title: 크리스티
+    content: 각각 다른 기동장갑 도감을 3개 해금.
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1097
+    type: different_vehicle
+    count: 4
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 긴즈버그
+    content: 각각 다른 기동장갑 도감을 4개 해금.
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1098
+    type: different_vehicle
+    count: 5
+    user_exp: 2500
+    mp: 2500
+    ammo: 2500
+    mre: 2500
+    part: 2500
+    title: 코쉬킨
+    content: 각각 다른 기동장갑 도감을 5개 해금.
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1099
+    type: different_vehicle
+    count: 6
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 발렌타인
+    content: 각각 다른 기동장갑 도감을 6개 해금.
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1100
+    type: different_vehicle
+    count: 7
+    user_exp: 3500
+    mp: 3500
+    ammo: 3500
+    mre: 3500
+    part: 3500
+    title: 셔먼
+    content: 각각 다른 기동장갑 도감을 7개 해금.
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1101
+    type: different_vehicle
+    count: 8
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 부지드
+    content: 각각 다른 기동장갑 도감을 8개 해금.
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1102
+    type: different_vehicle
+    count: 9
+    user_exp: 4500
+    mp: 4500
+    ammo: 4500
+    mre: 4500
+    part: 4500
+    title: 코틴
+    content: 각각 다른 기동장갑 도감을 9개 해금.
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1103
+    type: different_vehicle
+    count: 10
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 카르체프
+    content: 각각 다른 기동장갑 도감을 10개 해금.
+    type_sort: 13
+    sort: 309
+    icon_code: 解锁不同载具图鉴
+    unlock_function: 30
+  }
+  {
+    identity: 1104
+    type: get_vehicle_component_rank5
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 레어 파츠 입문
+    content: 5성 기동장갑 파츠 1개 획득.
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1105
+    type: get_vehicle_component_rank5
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 레어 파츠 학도
+    content: 5성 기동장갑 파츠 누적 5개 획득.
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1106
+    type: get_vehicle_component_rank5
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 레어 파츠 기술자
+    content: 5성 기동장갑 파츠 누적 10개 획득.
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1107
+    type: get_vehicle_component_rank5
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 레어 파츠 엘리트
+    content: 5성 기동장갑 파츠 누적 50개 획득.
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1108
+    type: get_vehicle_component_rank5
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 레어 파츠 전문가
+    content: 5성 기동장갑 파츠 누적 100개 획득.
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1109
+    type: get_vehicle_component_rank5
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    item_ids: 133032-1,133033-1,133035-1,133036-1,133064-1,133065-1
+    title: 레어 파츠 마스터
+    content: 5성 기동장갑 파츠 누적 500개 획득.
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1110
+    type: get_vehicle_component_rank5
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 레어 파츠 달인
+    content: 5성 기동장갑 파츠 누적 1000개 획득.
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1111
+    type: get_vehicle_component_rank5
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 레어 파츠 공장장
+    content: 5성 기동장갑 파츠 누적 2000개 획득.
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1112
+    type: get_vehicle_component_rank5
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 레어 파츠 타이쿤
+    content: 5성 기동장갑 파츠 누적 5000개 획득.
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1113
+    type: get_vehicle_component_rank5
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 레어 파츠 제패
+    content: 5성 기동장갑 파츠 누적 10000개 획득.
+    type_sort: 13
+    sort: 310
+    icon_code: 累计获取5星载具组件
+    unlock_function: 30
+  }
+  {
+    identity: 1114
+    type: get_vehicle_component_type0
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 범용파츠 입문
+    content: 범용 기동장갑 파츠 1개 획득.
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1115
+    type: get_vehicle_component_type0
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 범용파츠 학도
+    content: 범용 기동장갑 파츠 누적 5개 획득.
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1116
+    type: get_vehicle_component_type0
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 범용파츠 기술자
+    content: 범용 기동장갑 파츠 누적 10개 획득.
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1117
+    type: get_vehicle_component_type0
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 범용파츠 엘리트
+    content: 범용 기동장갑 파츠 누적 50개 획득.
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1118
+    type: get_vehicle_component_type0
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 범용파츠 전문가
+    content: 범용 기동장갑 파츠 누적 100개 획득.
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1119
+    type: get_vehicle_component_type0
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 범용파츠 마스터
+    content: 범용 기동장갑 파츠 누적 500개 획득.
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1120
+    type: get_vehicle_component_type0
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 범용파츠 달인
+    content: 범용 기동장갑 파츠 누적 1000개 획득.
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1121
+    type: get_vehicle_component_type0
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 범용파츠 공장장
+    content: 범용 기동장갑 파츠 누적 2000개 획득.
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1122
+    type: get_vehicle_component_type0
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 범용파츠 타이쿤
+    content: 범용 기동장갑 파츠 누적 5000개 획득.
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1123
+    type: get_vehicle_component_type0
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 범용파츠 제패
+    content: 범용 기동장갑 파츠 누적 10000개 획득.
+    type_sort: 13
+    sort: 311
+    icon_code: 累计获取通用武器
+    unlock_function: 30
+  }
+  {
+    identity: 1124
+    type: get_vehicle_component_type1
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 중화기 입문
+    content: 기동장갑 중화기 파츠 1개 획득.
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1125
+    type: get_vehicle_component_type1
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 중화기 학도
+    content: 기동장갑 중화기 파츠 누적 5개 획득.
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1126
+    type: get_vehicle_component_type1
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 중화기 기술자
+    content: 기동장갑 중화기 파츠 누적 10개 획득.
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1127
+    type: get_vehicle_component_type1
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 중화기 엘리트
+    content: 기동장갑 중화기 파츠 누적 50개 획득.
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1128
+    type: get_vehicle_component_type1
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 중화기 전문가
+    content: 기동장갑 중화기 파츠 누적 100개 획득.
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1129
+    type: get_vehicle_component_type1
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 중화기 마스터
+    content: 기동장갑 중화기 파츠 누적 500개 획득.
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1130
+    type: get_vehicle_component_type1
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 중화기 달인
+    content: 기동장갑 중화기 파츠 누적 1000개 획득.
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1131
+    type: get_vehicle_component_type1
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 중화기 공장장
+    content: 기동장갑 중화기 파츠 누적 2000개 획득.
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1132
+    type: get_vehicle_component_type1
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 중화기 타이쿤
+    content: 기동장갑 중화기 파츠 누적 5000개 획득.
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1133
+    type: get_vehicle_component_type1
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 중화기 제패
+    content: 기동장갑 중화기 파츠 누적 10000개 획득.
+    type_sort: 13
+    sort: 312
+    icon_code: 累计获取重武器
+    unlock_function: 30
+  }
+  {
+    identity: 1134
+    type: get_vehicle_component_type2
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 경화기 입문
+    content: 기동장갑 경화기 파츠 1개 획득
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1135
+    type: get_vehicle_component_type2
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 경화기 학도
+    content: 기동장갑 경화기 파츠 누적 5개 획득.
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1136
+    type: get_vehicle_component_type2
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 경화기 기술자
+    content: 기동장갑 경화기 파츠 누적 10개 획득.
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1137
+    type: get_vehicle_component_type2
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 경화기 엘리트
+    content: 기동장갑 경화기 파츠 누적 50개 획득.
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1138
+    type: get_vehicle_component_type2
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 경화기 전문가
+    content: 기동장갑 경화기 파츠 누적 100개 획득.
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1139
+    type: get_vehicle_component_type2
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 경화기 마스터
+    content: 기동장갑 경화기 파츠 누적 500개 획득.
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1140
+    type: get_vehicle_component_type2
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 경화기 달인
+    content: 기동장갑 경화기 파츠 누적 1000개 획득.
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1141
+    type: get_vehicle_component_type2
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 경화기 공장장
+    content: 기동장갑 경화기 파츠 누적 2000개 획득.
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1142
+    type: get_vehicle_component_type2
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 경화기 타이쿤
+    content: 기동장갑 경화기 파츠 누적 5000개 획득.
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1143
+    type: get_vehicle_component_type2
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 경화기 제패
+    content: 기동장갑 경화기 파츠 누적 10000개 획득.
+    type_sort: 13
+    sort: 313
+    icon_code: 累计获取轻武器
+    unlock_function: 30
+  }
+  {
+    identity: 1144
+    type: get_vehicle_component_type3
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 기능파츠 입문
+    content: 기동장갑 기능파츠 파츠 1개 획득.
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1145
+    type: get_vehicle_component_type3
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 기능파츠 학도
+    content: 기동장갑 기능파츠 파츠 누적 5개 획득.
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1146
+    type: get_vehicle_component_type3
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 기능파츠 기술자
+    content: 기동장갑 기능파츠 파츠 누적 10개 획득.
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1147
+    type: get_vehicle_component_type3
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 기능파츠 엘리트
+    content: 기동장갑 기능파츠 파츠 누적 50개 획득.
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1148
+    type: get_vehicle_component_type3
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 기능파츠 전문가
+    content: 기동장갑 기능파츠 파츠 누적 100개 획득.
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1149
+    type: get_vehicle_component_type3
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 기능파츠 마스터
+    content: 기동장갑 기능파츠 파츠 누적 500개 획득.
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1150
+    type: get_vehicle_component_type3
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 기능파츠 달인
+    content: 기동장갑 기능파츠 파츠 누적 1000개 획득.
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1151
+    type: get_vehicle_component_type3
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 기능파츠 공장장
+    content: 기동장갑 기능파츠 파츠 누적 2000개 획득.
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1152
+    type: get_vehicle_component_type3
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 기능파츠 타이쿤
+    content: 기동장갑 기능파츠 파츠 누적 5000개 획득.
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1153
+    type: get_vehicle_component_type3
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 기능파츠 제패
+    content: 기동장갑 기능파츠 파츠 누적 10000개 획득.
+    type_sort: 13
+    sort: 314
+    icon_code: 累计获取功能组件
+    unlock_function: 30
+  }
+  {
+    identity: 1154
+    type: get_vehicle_component_type4
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 방호파츠 입문
+    content: 기동장갑 방호파츠 파츠 1개 획득.
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1155
+    type: get_vehicle_component_type4
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 방호파츠 학도
+    content: 기동장갑 방호파츠 파츠 5개 획득.
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1156
+    type: get_vehicle_component_type4
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 방호파츠 기술자
+    content: 기동장갑 방호파츠 파츠 10개 획득.
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1157
+    type: get_vehicle_component_type4
+    count: 50
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 방호파츠 엘리트
+    content: 기동장갑 방호파츠 파츠 50개 획득.
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1158
+    type: get_vehicle_component_type4
+    count: 100
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 방호파츠 전문가
+    content: 기동장갑 방호파츠 파츠 100개 획득.
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1159
+    type: get_vehicle_component_type4
+    count: 500
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 방호파츠 마스터
+    content: 기동장갑 방호파츠 파츠 500개 획득.
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1160
+    type: get_vehicle_component_type4
+    count: 1000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 방호파츠 달인
+    content: 기동장갑 방호파츠 파츠 1000개 획득.
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1161
+    type: get_vehicle_component_type4
+    count: 2000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 방호파츠 공장장
+    content: 기동장갑 방호파츠 파츠 2000개 획득.
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1162
+    type: get_vehicle_component_type4
+    count: 5000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 방호파츠 타이쿤
+    content: 기동장갑 방호파츠 파츠 5000개 획득.
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1163
+    type: get_vehicle_component_type4
+    count: 10000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 방호파츠 제패
+    content: 기동장갑 방호파츠 파츠 10000개 획득.
+    type_sort: 13
+    sort: 315
+    icon_code: 累计获取防护组件
+    unlock_function: 30
+  }
+  {
+    identity: 1164
+    type: vehicle_progress
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: "-0.53,53.20"
+    content: 기동장갑 테크트리 노드 1개 해금.
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1165
+    type: vehicle_progress
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: "30.30,59.90"
+    content: 기동장갑 테크트리 노드 누적 5개 해금.
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1166
+    type: vehicle_progress
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: "7.00,51.50"
+    content: 기동장갑 테크트리 노드 누적 10개 해금.
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1167
+    type: vehicle_progress
+    count: 15
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    item_ids: 133037-1,133038-1,133039-1,133040-1,133041-1,133066-1,133067-1
+    title: "9.20,48.8"
+    content: 기동장갑 테크트리 노드 누적 15개 해금.
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1168
+    type: vehicle_progress
+    count: 30
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: "36.22,49.98"
+    content: 기동장갑 테크트리 노드 누적 30개 해금.
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1169
+    type: vehicle_progress
+    count: 45
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: "60.00,57.98"
+    content: 기동장갑 테크트리 노드 누적 45개 해금.
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1170
+    type: vehicle_progress
+    count: 60
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: "-83.03,42.34"
+    content: 기동장갑 테크트리 노드 누적 60개 해금.
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1171
+    type: vehicle_progress
+    count: 90
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: "-0.13,51.50"
+    content: 기동장갑 테크트리 노드 누적 90개 해금.
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1172
+    type: vehicle_progress
+    count: 120
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: "44.45,48.70"
+    content: 기동장갑 테크트리 노드 누적 120개 해금.
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1173
+    type: vehicle_progress
+    count: 150
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: "116.40,39.91"
+    content: 기동장갑 테크트리 노드 누적 150개 해금.
+    type_sort: 13
+    sort: 316
+    icon_code: 激活天赋树节点
+    unlock_function: 30
+  }
+  {
+    identity: 1174
+    type: vehicle_skin
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 1674 5R4.4/14
+    content: 장갑 도면 1개 획득.
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1175
+    type: vehicle_skin
+    count: 5
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 1092 6.3YR7/9.6
+    content: 장갑 도면 누적 5개 획득.
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1176
+    type: vehicle_skin
+    count: 10
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: FS 13591
+    content: 장갑 도면 누적 10개 획득.
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1177
+    type: vehicle_skin
+    count: 20
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: FS 14193
+    content: 장갑 도면 누적 20개 획득.
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1178
+    type: vehicle_skin
+    count: 50
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: S 1560-R90B
+    content: 장갑 도면 누적 50개 획득.
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1179
+    type: vehicle_skin
+    count: 100
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: S 3560-R90B
+    content: 장갑 도면 누적 100개 획득.
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1180
+    type: vehicle_skin
+    count: 200
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: Ral 4007
+    content: 장갑 도면 누적 200개 획득.
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1181
+    type: vehicle_skin
+    count: 500
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: Ral 9011
+    content: 장갑 도면 누적 500개 획득.
+    type_sort: 13
+    sort: 317
+    icon_code: 累计获得载具皮肤
+    unlock_function: 30
+  }
+  {
+    identity: 1182
+    type: vehicle_kill
+    count: 50
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 오디세우스
+    content: 기동장갑을 이용해 전투에서 승리하며 적을 누적 50기 처치.
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1183
+    type: vehicle_kill
+    count: 100
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 참을 수 없는 무게의 철댕이
+    content: 기동장갑을 이용해 전투에서 승리하며 적을 누적 100기 처치.
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1184
+    type: vehicle_kill
+    count: 200
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 죄와 벌
+    content: 기동장갑을 이용해 전투에서 승리하며 적을 누적 200기 처치.
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1185
+    type: vehicle_kill
+    count: 500
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    item_ids: 133056-1
+    title: 카츄샤
+    content: 기동장갑을 이용해 전투에서 승리하며 적을 누적 500기 처치.
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1186
+    type: vehicle_kill
+    count: 1000
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    item_ids: 133042-1,133043-1,133044-1,133045-1,133046-1,133068-1
+    title: 폴류시카 폴레
+    content: 기동장갑을 이용해 전투에서 승리하며 적을 누적 1000기 처치.
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1187
+    type: vehicle_kill
+    count: 2000
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 벨라 차오
+    content: 기동장갑을 이용해 전투에서 승리하며 적을 누적 2000기 처치.
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1188
+    type: vehicle_kill
+    count: 5000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 노병들은 죽지 않는다.
+    content: 기동장갑을 이용해 전투에서 승리하며 적을 누적 5000기 처치.
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1189
+    type: vehicle_kill
+    count: 10000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 전쟁과 평화
+    content: 기동장갑을 이용해 전투에서 승리하며 적을 누적 10000기 처치.
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1190
+    type: vehicle_kill
+    count: 20000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 조용한 돈강
+    content: 기동장갑을 이용해 전투에서 승리하며 적을 누적 20000기 처치.
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1191
+    type: vehicle_kill
+    count: 50000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 여기의 여명은 고요하여라
+    content: 기동장갑을 이용해 전투에서 승리하며 적을 누적 50000기 처치.
+    type_sort: 1
+    sort: 318
+    icon_code: 胜利使用载具主动杀敌
+    unlock_function: 30
+  }
+  {
+    identity: 1192
+    type: vehicle_consume
+    count: 100
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 차량운전 초보
+    content: 기동장갑 동력 누적 100 소모.
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1193
+    type: vehicle_consume
+    count: 200
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 차량운전 입문
+    content: 기동장갑 동력 누적 200 소모.
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1194
+    type: vehicle_consume
+    count: 500
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 차량운전 수련
+    content: 기동장갑 동력 누적 500 소모.
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1195
+    type: vehicle_consume
+    count: 1000
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 차량운전 도전
+    content: 기동장갑 동력 누적 1000 소모.
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1196
+    type: vehicle_consume
+    count: 2000
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 차량운전 통제
+    content: 기동장갑 동력 누적 2000 소모.
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1197
+    type: vehicle_consume
+    count: 5000
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 차량운전 깨달음
+    content: 기동장갑 동력 누적 5000 소모.
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1198
+    type: vehicle_consume
+    count: 10000
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 차량운전 장악
+    content: 기동장갑 동력 누적 10000 소모.
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1199
+    type: vehicle_consume
+    count: 20000
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 차량운전 숙달
+    content: 기동장갑 동력 누적 20000 소모.
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1200
+    type: vehicle_consume
+    count: 50000
+    user_exp: 4000
+    mp: 4000
+    ammo: 4000
+    mre: 4000
+    part: 4000
+    title: 차량운전 정통
+    content: 기동장갑 동력 누적 50000 소모.
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1201
+    type: vehicle_consume
+    count: 100000
+    user_exp: 5000
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    title: 차량운전 신들림
+    content: 기동장갑 동력 누적 100000 소모.
+    type_sort: 1
+    sort: 319
+    icon_code: 消耗能源
+    unlock_function: 30
+  }
+  {
+    identity: 1202
+    type: vehicle_defeat_challenge_1
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 싸움의 고향: Lv1
+    content: 기갑돌격-주력탱크 1층 클리어
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1203
+    type: vehicle_defeat_challenge_1
+    count: 3
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    item_ids: 133031-1
+    title: 싸움의 고향: Lv3
+    content: 기갑돌격-주력탱크 3층 클리어
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1204
+    type: vehicle_defeat_challenge_1
+    count: 5
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    title: 싸움의 고향: Lv5
+    content: 기갑돌격-주력탱크 5층 클리어
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1205
+    type: vehicle_defeat_challenge_1
+    count: 10
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    title: 싸움의 고향: Lv10
+    content: 기갑돌격-주력탱크 10층 클리어
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1206
+    type: vehicle_defeat_challenge_1
+    count: 15
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 싸움의 고향: Lv15
+    content: 기갑돌격-주력탱크 15층 클리어
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1207
+    type: vehicle_defeat_challenge_1
+    count: 20
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    title: 싸움의 고향: Lv20
+    content: 기갑돌격-주력탱크 20층 클리어
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1208
+    type: vehicle_defeat_challenge_1
+    count: 25
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 싸움의 고향: Lv25
+    content: 기갑돌격-주력탱크 25층 클리어
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1209
+    type: vehicle_defeat_challenge_1
+    count: 30
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 싸움의 고향: Lv30
+    content: 기갑돌격-주력탱크 30층 클리어
+    type_sort: 1
+    sort: 320
+    icon_code: 坦克通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1210
+    type: vehicle_defeat_challenge_2
+    count: 1
+    user_exp: 30
+    mp: 30
+    ammo: 30
+    mre: 30
+    part: 30
+    title: 그레이존 블리츠: G
+    content: 기갑돌격-전술인형기갑1층 클리어
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1211
+    type: vehicle_defeat_challenge_2
+    count: 3
+    user_exp: 60
+    mp: 60
+    ammo: 60
+    mre: 60
+    part: 60
+    title: 그레이존 블리츠: S
+    content: 기갑돌격-전술인형기갑3층 클리어
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1212
+    type: vehicle_defeat_challenge_2
+    count: 5
+    user_exp: 100
+    mp: 100
+    ammo: 100
+    mre: 100
+    part: 100
+    item_ids: 133055-1
+    title: 신 그레이존 블리츠
+    content: 기갑돌격-전술인형기갑5층 클리어
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1213
+    type: vehicle_defeat_challenge_2
+    count: 10
+    user_exp: 200
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    item_ids: 133047-1,133048-1,133049-1,133050-1,133069-1
+    title: 그레이존 블리츠: F
+    content: 기갑돌격-전술인형기갑10층 클리어
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1214
+    type: vehicle_defeat_challenge_2
+    count: 15
+    user_exp: 500
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    title: 그레이존 블리츠: 64
+    content: 기갑돌격-전술인형기갑15층 클리어
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1215
+    type: vehicle_defeat_challenge_2
+    count: 20
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    item_ids: 133051-1,133052-1,133053-1,133054-1,133070-1
+    title: 그레이존 블리츠: EX
+    content: 기갑돌격-전술인형기갑20층 클리어
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1216
+    type: vehicle_defeat_challenge_2
+    count: 25
+    user_exp: 2000
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    title: 그레이존 블리츠: α
+    content: 기갑돌격-전술인형기갑25층 클리어
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1217
+    type: vehicle_defeat_challenge_2
+    count: 30
+    user_exp: 3000
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    title: 그레이존 블리츠: OG
+    content: 기갑돌격-전술인형기갑30층 클리어
+    type_sort: 1
+    sort: 321
+    icon_code: 机甲通关日常玩法ex层数
+    unlock_function: 30
+  }
+  {
+    identity: 1218
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 만점 시험지!
+    content: 퍼미션 리로딩-승부의 천칭-EX: 저지, AA-02 아레스, 니토를 처치하고 클리어.
+    type_sort: 100
+    sort: 322
+    icon_code: 满分试卷
+    condition: 11474:1147405
   }
 ]

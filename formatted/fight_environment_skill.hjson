@@ -531,6 +531,42 @@
     skill_group: "756231"
   }
   {
+    id: 230901
+    name: 개막 동결
+    desc:
+      '''
+      전투 시작 시 모든 적을 5초간 기절시킨다.
+      <color=#CF8000>1턴간 유효함</color>
+      '''
+    if_display: 1
+    code: assess202309fightskill_1
+    skill_group: "759262"
+  }
+  {
+    id: 230902
+    name: 강습의 땅
+    desc:
+      '''
+      전투 시작 시 모든 적의 받는 피해 20% 증폭.
+      <color=#CF8000>1턴간 유효함</color>
+      '''
+    if_display: 1
+    code: assess202309fightskill_2
+    skill_group: "759263"
+  }
+  {
+    id: 230903
+    name: 융단 엄호
+    desc:
+      '''
+      전투 중 5초마다 모든 적에게 3000피해와 1000 파쇄를 준다.
+      <color=#CF8000>1턴간 유효함</color>
+      '''
+    if_display: 1
+    code: assess202309fightskill_3
+    skill_group: "759264"
+  }
+  {
     id: 1133001
     name: 저격 지원
     desc: 전투 시작 후 6초마다 한 번씩 [저격]을 발동하여, 가장 위협적인 적에게 장갑을 무사하는 18000 피해를 준다

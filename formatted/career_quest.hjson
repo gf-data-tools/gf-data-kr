@@ -693,10 +693,10 @@
   {
     id: 172
     type: squad_base_data_analyse
-    count: 1
+    count: 20
     prize_id: 780
-    title: 중장비 부대: 원시 샘플
-    content: '''"정보센터-분석기"에서 원시샘플로 정보분석 1회 실행'''
+    title: 화력소대: 원시 샘플
+    content: 원시 데이터 샘플을 누적 20 소모
     new_type: 1
     grade_id: 29
     sort: 206
@@ -704,43 +704,21 @@
   {
     id: 173
     type: squad_senior_data_analyse
-    count: 1
+    count: 20
     prize_id: 781
-    title: 중장비 부대: 순정 샘플
-    content: '''"정보센터-분석기"에서 순정샘플로 정보분석 1회 실행'''
+    title: 화력소대: 순정 샘플
+    content: 순정 데이터 샘플을 누적 20 소모
     new_type: 1
     grade_id: 29
     sort: 207
-  }
-  {
-    id: 174
-    type: squad_get_chip
-    count: 1
-    prize_id: 782
-    title: 중장비 부대: 칩셋
-    content: 처음으로 칩셋을 획득.
-    new_type: 1
-    grade_id: 29
-    sort: 208
-  }
-  {
-    id: 175
-    type: squad_get_secret_data
-    count: 1
-    prize_id: 783
-    title: 중장비 부대: 핵심 데이터
-    content: 처음으로 핵심 데이터를 획득.
-    new_type: 1
-    grade_id: 29
-    sort: 209
   }
   {
     id: 176
     type: squad_get_type1_unit
     count: 1
     prize_id: 784
-    title: 중장비 부대: 개방
-    content: 처음으로 중장비 부대를 개방
+    title: 화력소대: 해금
+    content: 처음으로 중장비부대-화력소대를 해금
     new_type: 1
     grade_id: 29
     sort: 210
@@ -750,8 +728,8 @@
     type: squad_up_rank
     count: 1
     prize_id: 785
-    title: 중장비 부대: 승진
-    content: 처음으로 중장비 부대를 승진
+    title: 화력소대: 승진
+    content: 처음으로 화력소대를 승진
     new_type: 1
     grade_id: 30
     sort: 222
@@ -761,30 +739,19 @@
     type: squad_rank_max
     count: 1
     prize_id: 786
-    title: 중장비 부대: 최고 승진
-    content: 처음으로 중장비 부대를 5성으로 승진
+    title: 화력소대: 승진
+    content: 처음으로 화력소대를 5성으로 승진
     new_type: 1
     grade_id: 33
     sort: 264
-  }
-  {
-    id: 179
-    type: squad_train_time
-    count: 1
-    prize_id: 787
-    title: 중장비 부대: 경험훈련
-    content: '''"격납고-훈련장"에서 중장비 부대의 경험 훈련 1회 실행'''
-    new_type: 1
-    grade_id: 29
-    sort: 211
   }
   {
     id: 180
     type: squad_level_max
     count: 1
     prize_id: 788
-    title: 중장비 부대: 최대훈련
-    content: 중장비 부대 하나가 Lv.100에 도달
+    title: 화력소대: 레벨업
+    content: 화력소대 하나를 레벨100으로 강화
     new_type: 1
     grade_id: 33
     sort: 265
@@ -794,8 +761,8 @@
     type: squad_up_skill_times
     count: 1
     prize_id: 789
-    title: 중장비 부대: 스킬훈련
-    content: '''"격납고-훈련장"에서 중장비 부대의 스킬훈련 1회 실행'''
+    title: 화력소대: 스킬 훈련
+    content: 정보센터-훈련장에서 화력소대의 스킬 훈련을 완료.
     new_type: 1
     grade_id: 30
     sort: 223
@@ -805,33 +772,11 @@
     type: squad_up_advanced_times
     count: 1
     prize_id: 790
-    title: 중장비 부대: 버전업
-    content: 처음으로 중장비 부대를 버전업
+    title: 화력소대: 버전업
+    content: 처음으로 화력소대를 버전업
     new_type: 1
     grade_id: 33
     sort: 266
-  }
-  {
-    id: 184
-    type: squad_chip_retire_times
-    count: 1
-    prize_id: 792
-    title: 중장비 부대: 칩셋 해체
-    content: '''"격납고-칩셋 창고"에서 칩셋 분해 1회 실행'''
-    new_type: 1
-    grade_id: 30
-    sort: 224
-  }
-  {
-    id: 185
-    type: squad_eat_chip_num
-    count: 1
-    prize_id: 793
-    title: 중장비 부대: 칩셋 강화
-    content: '''"격납고-칩셋 창고"에서 칩셋 강화 1회 실행'''
-    new_type: 1
-    grade_id: 30
-    sort: 225
   }
   {
     id: 186
@@ -2716,10 +2661,10 @@
   {
     id: 355
     type: squad_base_data_analyse
-    count: 20
+    count: 400
     prize_id: 11163
-    title: 중장비 부대: 원시샘플
-    content: '''"정보센터-분석기"에서 원시샘플로 정보분석 20회'''
+    title: 화력소대: 원시 샘플
+    content: 원시 데이터 샘플을 누적 400 소모
     new_type: 1
     grade_id: 30
     sort: 226
@@ -2727,10 +2672,10 @@
   {
     id: 356
     type: squad_senior_data_analyse
-    count: 5
+    count: 100
     prize_id: 11164
-    title: 중장비 부대: 순정샘플
-    content: '''"정보센터-분석기"에서 순정샘플로 정보분석 5회'''
+    title: 화력소대: 순정 샘플
+    content: 순정 데이터 샘플을 누적 100 소모
     new_type: 1
     grade_id: 30
     sort: 227
@@ -2740,8 +2685,8 @@
     type: c_squad_rank
     count: 1
     prize_id: 11165
-    title: 중장비 부대: 승진
-    content: 중장비 부대 하나를 3성으로 승진
+    title: 화력소대: 승진
+    content: 화력소대 하나를 3성으로 승진
     new_type: 1
     grade_id: 31
     sort: 241
@@ -2752,8 +2697,8 @@
     type: c_squad_rank
     count: 1
     prize_id: 11166
-    title: 중장비 부대: 승진
-    content: 중장비 부대 하나를 4성으로 승진
+    title: 화력소대: 승진
+    content: 화력소대 하나를 4성으로 승진
     new_type: 1
     grade_id: 32
     sort: 253
@@ -2764,8 +2709,8 @@
     type: write_squad_report
     count: 1
     prize_id: 11167
-    title: 중장비 부대: 특수작전보고서
-    content: '''"자료실-책상"에서 특수작전보고서 1회 작성'''
+    title: 화력소대: 특수작전보고서
+    content: 자료실 - 테이블에서 특수작전보고서를 작성
     new_type: 1
     grade_id: 29
     sort: 212
@@ -2775,8 +2720,8 @@
     type: exchange_squad_report
     count: 1
     prize_id: 11168
-    title: 중장비 부대: 특수작전보고서
-    content: '''"전진기지-블랙마켓"에서 특수작전보고서 1회 교환'''
+    title: 화력소대: 특수작전보고서
+    content: 전진기지-블랙마켓에서 특수작전보고서를 구매
     new_type: 1
     grade_id: 30
     sort: 228
@@ -2786,8 +2731,8 @@
     type: c_squad_level
     count: 1
     prize_id: 11169
-    title: 중장비 부대: 경험 훈련
-    content: '''"격납고-훈련장"에서 중장비 부대 하나를 레벨30까지 강화'''
+    title: 화력소대: 레벨업
+    content: 화력소대 하나를 레벨30으로 강화
     new_type: 1
     grade_id: 30
     sort: 229
@@ -2798,8 +2743,8 @@
     type: c_squad_level
     count: 1
     prize_id: 11170
-    title: 중장비 부대: 경험 훈련
-    content: '''"격납고-훈련장"에서 중장비 부대 하나를 레벨50까지 강화'''
+    title: 화력소대: 레벨업
+    content: 화력소대 하나를 레벨50으로 강화
     new_type: 1
     grade_id: 31
     sort: 242
@@ -2810,8 +2755,8 @@
     type: c_squad_level
     count: 1
     prize_id: 11171
-    title: 중장비 부대: 경험 훈련
-    content: '''"격납고-훈련장"에서 중장비 부대 하나를 레벨70까지 강화'''
+    title: 화력소대: 레벨업
+    content: 화력소대 하나를 레벨70으로 강화
     new_type: 1
     grade_id: 32
     sort: 254
@@ -2822,8 +2767,8 @@
     type: c_squad_allskills_level
     count: 1
     prize_id: 11172
-    title: 중장비 부대: 스킬훈련
-    content: '''"격납고-훈련장"에서 중장비 부대 하나의 스킬 레벨 총합을 6까지 강화'''
+    title: 화력소대: 스킬 훈련
+    content: 정보센터-훈련장에서 화력소대 하나의 스킬 레벨을 총합 6까지 훈련.
     new_type: 1
     grade_id: 30
     sort: 230
@@ -2834,8 +2779,8 @@
     type: c_squad_allskills_level
     count: 1
     prize_id: 11173
-    title: 중장비 부대: 스킬훈련
-    content: '''"격납고-훈련장"에서 중장비 부대 하나의 스킬 레벨 총합을 15까지 강화'''
+    title: 화력소대: 스킬 훈련
+    content: 정보센터-훈련장에서 화력소대 하나의 스킬 레벨을 총합 15까지 훈련.
     new_type: 1
     grade_id: 31
     sort: 243
@@ -2846,8 +2791,8 @@
     type: c_squad_allskills_level
     count: 1
     prize_id: 11174
-    title: 중장비 부대: 스킬훈련
-    content: '''"격납고-훈련장"에서 중장비 부대 하나의 스킬 레벨 총합을 24까지 강화'''
+    title: 화력소대: 스킬 훈련
+    content: 정보센터-훈련장에서 화력소대 하나의 스킬 레벨을 총합 24까지 훈련.
     new_type: 1
     grade_id: 32
     sort: 255
@@ -2858,151 +2803,20 @@
     type: c_squad_allskills_level
     count: 1
     prize_id: 11175
-    title: 중장비 부대: 스킬훈련
-    content: '''"격납고-훈련장"에서 중장비 부대 하나의 스킬 레벨 총합을 30까지 강화'''
+    title: 화력소대: 스킬 훈련
+    content: 정보센터-훈련장에서 화력소대 하나의 스킬 레벨을 총합 30까지 훈련.
     new_type: 1
     grade_id: 33
     sort: 267
     condition: "30"
   }
   {
-    id: 368
-    type: c_squad_chip_level
-    count: 1
-    prize_id: 11176
-    title: 중장비 부대: 칩셋 강화
-    content: 중장비 칩셋 1개를 레벨5로 강화
-    new_type: 1
-    grade_id: 30
-    sort: 231
-    condition: "5"
-  }
-  {
-    id: 369
-    type: c_squad_chip_level
-    count: 3
-    prize_id: 11177
-    title: 중장비 부대: 칩셋 강화
-    content: 중장비 칩셋 3개를 레벨5로 강화
-    new_type: 1
-    grade_id: 31
-    sort: 244
-    condition: "5"
-  }
-  {
-    id: 370
-    type: c_squad_chip_level
-    count: 6
-    prize_id: 11178
-    title: 중장비 부대: 칩셋 강화
-    content: 중장비 칩셋 6개를 레벨10으로 강화
-    new_type: 1
-    grade_id: 32
-    sort: 256
-    condition: "10"
-  }
-  {
-    id: 371
-    type: c_squad_chip_level
-    count: 6
-    prize_id: 11179
-    title: 중장비 부대: 칩셋 강화
-    content: 중장비 칩셋 6개를 레벨30으로 강화
-    new_type: 1
-    grade_id: 33
-    sort: 268
-    condition: "20"
-  }
-  {
-    id: 372
-    type: squad_get_chip
-    count: 20
-    prize_id: 11180
-    title: 중장비 부대: 칩셋
-    content: 칩셋을 누적 20개 획득
-    new_type: 1
-    grade_id: 30
-    sort: 232
-  }
-  {
-    id: 373
-    type: c_establish_up
-    count: 1
-    prize_id: 11181
-    title: 중장비 부대: 창고
-    content: '''"격납고"의 창고를 레벨1로 강화'''
-    new_type: 1
-    grade_id: 29
-    sort: 213
-    condition: "601"
-  }
-  {
-    id: 374
-    type: c_establish_up
-    count: 3
-    prize_id: 11182
-    title: 중장비 부대: 창고
-    content: '''"격납고"의 창고를 레벨3으로 강화'''
-    new_type: 1
-    grade_id: 30
-    sort: 233
-    condition: "601"
-  }
-  {
-    id: 375
-    type: c_establish_up
-    count: 6
-    prize_id: 11183
-    title: 중장비 부대: 창고
-    content: '''"격납고"의 창고를 레벨6으로 강화'''
-    new_type: 1
-    grade_id: 32
-    sort: 245
-    condition: "601"
-  }
-  {
-    id: 376
-    type: c_establish_up
-    count: 10
-    prize_id: 11184
-    title: 중장비 부대: 창고
-    content: '''"격납고"의 창고를 레벨10으로 강화'''
-    new_type: 1
-    grade_id: 33
-    sort: 257
-    condition: "601"
-  }
-  {
-    id: 377
-    type: c_establish_up
-    count: 1
-    prize_id: 11185
-    title: 중장비 부대: 수복 설비
-    content: '''"격납고"의 수복설비를 레벨1로 강화'''
-    new_type: 1
-    grade_id: 29
-    sort: 214
-    condition: "602"
-  }
-  {
-    id: 378
-    type: c_establish_up
-    count: 2
-    prize_id: 11186
-    title: 중장비 부대: 수복 설비
-    content: '''"격납고"의 수복설비를 레벨2로 강화'''
-    new_type: 1
-    grade_id: 30
-    sort: 234
-    condition: "602"
-  }
-  {
     id: 381
     type: c_establish_up
     count: 1
     prize_id: 11187
-    title: 중장비 부대: 훈련장
-    content: '''"격납고"의 훈련장을 레벨1로 강화'''
+    title: 화력소대: 훈련장
+    content: 정보센터의 훈련장을 1레벨로 강화
     new_type: 1
     grade_id: 29
     sort: 215
@@ -3013,8 +2827,8 @@
     type: c_establish_up
     count: 3
     prize_id: 11188
-    title: 중장비 부대: 훈련장
-    content: '''"격납고"의 훈련장을 레벨3로 강화'''
+    title: 화력소대: 훈련장
+    content: 정보센터의 훈련장을 3레벨로 강화
     new_type: 1
     grade_id: 30
     sort: 235
@@ -3025,8 +2839,8 @@
     type: c_establish_up
     count: 6
     prize_id: 11189
-    title: 중장비 부대: 훈련장
-    content: '''"격납고"의 훈련장을 레벨6으로 강화'''
+    title: 화력소대: 훈련장
+    content: 정보센터의 훈련장을 6레벨로 강화
     new_type: 1
     grade_id: 32
     sort: 247
@@ -3037,68 +2851,20 @@
     type: c_establish_up
     count: 10
     prize_id: 11190
-    title: 중장비 부대: 훈련장
-    content: '''"격납고"의 훈련장을 레벨10으로 강화'''
+    title: 화력소대: 훈련장
+    content: 정보센터의 훈련장을 10레벨로 강화
     new_type: 1
     grade_id: 33
     sort: 259
     condition: "603"
   }
   {
-    id: 385
-    type: c_establish_up
-    count: 1
-    prize_id: 11191
-    title: 중장비 부대: 브리핑 테이블
-    content: '''"정보센터"의 브리핑 테이블을 레벨1까지 강화'''
-    new_type: 1
-    grade_id: 29
-    sort: 216
-    condition: "502"
-  }
-  {
-    id: 386
-    type: c_establish_up
-    count: 3
-    prize_id: 11192
-    title: 중장비 부대: 브리핑 테이블
-    content: '''"정보센터"의 브리핑 테이블을 레벨3까지 강화'''
-    new_type: 1
-    grade_id: 30
-    sort: 236
-    condition: "502"
-  }
-  {
-    id: 387
-    type: c_establish_up
-    count: 6
-    prize_id: 11193
-    title: 중장비 부대: 브리핑 테이블
-    content: '''"정보센터"의 브리핑 테이블을 레벨6까지 강화'''
-    new_type: 1
-    grade_id: 32
-    sort: 248
-    condition: "502"
-  }
-  {
-    id: 388
-    type: c_establish_up
-    count: 10
-    prize_id: 11194
-    title: 중장비 부대: 브리핑 테이블
-    content: '''"정보센터"의 브리핑 테이블을 레벨10까지 강화'''
-    new_type: 1
-    grade_id: 33
-    sort: 260
-    condition: "502"
-  }
-  {
     id: 389
     type: c_establish_up
     count: 1
     prize_id: 11195
-    title: 중장비 부대: 감청소
-    content: '''"정보센터"의 감청소를 레벨1까지 강화'''
+    title: 화력소대: 감청소
+    content: 정보센터의 감청소를 1레벨로 강화
     new_type: 1
     grade_id: 29
     sort: 217
@@ -3109,8 +2875,8 @@
     type: c_establish_up
     count: 3
     prize_id: 11196
-    title: 중장비 부대: 감청소
-    content: '''"정보센터"의 감청소를 레벨3까지 강화'''
+    title: 화력소대: 감청소
+    content: 정보센터의 감청소를 3레벨로 강화
     new_type: 1
     grade_id: 30
     sort: 237
@@ -3121,8 +2887,8 @@
     type: c_establish_up
     count: 6
     prize_id: 11197
-    title: 중장비 부대: 감청소
-    content: '''"정보센터"의 감청소를 레벨6까지 강화'''
+    title: 화력소대: 감청소
+    content: 정보센터의 감청소를 6레벨로 강화
     new_type: 1
     grade_id: 32
     sort: 249
@@ -3133,8 +2899,8 @@
     type: c_establish_up
     count: 10
     prize_id: 11198
-    title: 중장비 부대: 감청소
-    content: '''"정보센터"의 감청소를 레벨10까지 강화'''
+    title: 화력소대: 감청소
+    content: 정보센터의 감청소를 10레벨로 강화
     new_type: 1
     grade_id: 33
     sort: 261
@@ -3145,8 +2911,8 @@
     type: c_establish_up
     count: 1
     prize_id: 11199
-    title: 중장비 부대: 기록장치
-    content: '''"정보센터"의 기록장치를 레벨1까지 강화'''
+    title: 화력소대: 기록장치
+    content: 정보센터의 기록장치를 1레벨로 강화
     new_type: 1
     grade_id: 29
     sort: 218
@@ -3157,8 +2923,8 @@
     type: c_establish_up
     count: 3
     prize_id: 11200
-    title: 중장비 부대: 기록장치
-    content: '''"정보센터"의 기록장치를 레벨3까지 강화'''
+    title: 화력소대: 기록장치
+    content: 정보센터의 기록장치를 3레벨로 강화
     new_type: 1
     grade_id: 30
     sort: 238
@@ -3169,8 +2935,8 @@
     type: c_establish_up
     count: 6
     prize_id: 11201
-    title: 중장비 부대: 기록장치
-    content: '''"정보센터"의 기록장치를 레벨6까지 강화'''
+    title: 화력소대: 기록장치
+    content: 정보센터의 기록장치를 6레벨로 강화
     new_type: 1
     grade_id: 32
     sort: 250
@@ -3181,60 +2947,12 @@
     type: c_establish_up
     count: 10
     prize_id: 11202
-    title: 중장비 부대: 기록장치
-    content: '''"정보센터"의 기록장치를 레벨10까지 강화'''
+    title: 화력소대: 기록장치
+    content: career_quest-20000396
     new_type: 1
     grade_id: 33
     sort: 262
     condition: "503"
-  }
-  {
-    id: 397
-    type: c_establish_up
-    count: 1
-    prize_id: 11203
-    title: 중장비 부대: 분석기
-    content: '''"정보센터"의 분석기를 레벨1까지 강화'''
-    new_type: 1
-    grade_id: 29
-    sort: 219
-    condition: "504"
-  }
-  {
-    id: 398
-    type: c_establish_up
-    count: 3
-    prize_id: 11204
-    title: 중장비 부대: 분석기
-    content: '''"정보센터"의 분석기를 레벨3까지 강화'''
-    new_type: 1
-    grade_id: 30
-    sort: 239
-    condition: "504"
-  }
-  {
-    id: 399
-    type: c_establish_up
-    count: 6
-    prize_id: 11205
-    title: 중장비 부대: 분석기
-    content: '''"정보센터"의 분석기를 레벨6까지 강화'''
-    new_type: 1
-    grade_id: 32
-    sort: 251
-    condition: "504"
-  }
-  {
-    id: 400
-    type: c_establish_up
-    count: 10
-    prize_id: 11206
-    title: 중장비 부대: 분석기
-    content: '''"정보센터"의 분석기를 레벨10까지 강화'''
-    new_type: 1
-    grade_id: 33
-    sort: 263
-    condition: "504"
   }
   {
     id: 401
@@ -4471,8 +4189,8 @@
     type: c_tutorial_mission
     count: 1
     prize_id: 11312
-    title: 중장비 부대: 초급 검정
-    content: 승급 전역을 클리어하기, 중장비로 시설을 파괴해 국면을 바꾸세요
+    title: 화력소대: 초급 검정
+    content: 승진 전역을 클리어합시다. 화력소대로 전장 시설을 파괴해 판도를 바꿀 수 있습니다.
     new_type: 1
     grade_id: 29
     sort: 220
@@ -4484,8 +4202,8 @@
     type: c_tutorial_mission
     count: 1
     prize_id: 11313
-    title: 중장비 부대: 중급 검정
-    content: 승급 전역을 클리어하기, 중장비를 활용해 역장을 지닌 적을 쓰러뜨리세요.
+    title: 화력소대: 중급 검정
+    content: 승진 전역을 클리어합시다. 화력소대를 이용해 왜곡방벽을 지닌 적을 쓰러뜨리세요.
     new_type: 1
     grade_id: 31
     sort: 252
@@ -4497,8 +4215,8 @@
     type: c_tutorial_mission
     count: 1
     prize_id: 11314
-    title: 중장비 부대: 최종 검정
-    content: 승급 전역을 클리어하기, 높은 등급의 중장비 부대로 강적을 쓰러뜨려야 통과할 수 있습니다.
+    title: 화력소대: 최종 검정
+    content: 승진 전역을 클리어합시다. 높은 레벨의 화력소대로 강적을 쓰러뜨려야 최종 검정을 통과할 수 있습니다.
     new_type: 1
     grade_id: 33
     sort: 269
@@ -4510,8 +4228,8 @@
     type: c_tutorial_mission
     count: 1
     prize_id: 11315
-    title: 중장비 부대: 시설 부수기
-    content: 학습 전역 클리어, 중장비 부대로 시설을 파괴하는 법을 알아봅시다.
+    title: 화력소대: 시설 파괴
+    content: 튜토리얼 전역을 클리어합시다. 화력소대로 어떻게 전장시설을 파괴하는지 알아보세요.
     new_type: 1
     grade_id: 29
     sort: 221
@@ -4522,8 +4240,8 @@
     type: c_tutorial_mission
     count: 1
     prize_id: 11316
-    title: 중장비 부대: 역장 깨기
-    content: 학습 전역 클리어, 중장비 부대로 역장을 지닌 적을 쓰러뜨려 봅시다.
+    title: 화력소대: 역장 파괴
+    content: 튜토리얼 전역을 클리어합시다. 화력소대로 어떻게 왜곡방벽을 지닌 적을 쓰러뜨릴지 알아보세요.
     new_type: 1
     grade_id: 30
     sort: 240
@@ -4823,8 +4541,8 @@
     type: map_capture
     count: 1
     prize_id: 765
-    title: 회색지대 탐사: 전선 추진
-    content: 회색지대 탐사에서 지점을 1곳 점령.
+    title: 회색지대: 전선 추진
+    content: 회색지대에서 지역 하나 점령
     new_type: 1
     grade_id: 45
     sort: 359
@@ -4834,8 +4552,8 @@
     type: map_refresh
     count: 1
     prize_id: 765
-    title: 회색지대 탐사: 전장 개척
-    content: 회색지대 탐사에서 탐사 구역 1회 리셋
+    title: 회색지대: 전장 개척
+    content: 회색지대의 맵을 한 번 리셋
     new_type: 1
     grade_id: 45
     sort: 360
@@ -4845,8 +4563,8 @@
     type: daily_game_boss_win
     count: 1
     prize_id: 765
-    title: 회색지대 탐사: 참수작전
-    content: 회색지대 탐사에서 보스 지점 1회 클리어
+    title: 회색지대: 참수 작전
+    content: 회색지대에서 보스 지점을 한 번 클리어
     new_type: 1
     grade_id: 45
     sort: 361
@@ -4856,8 +4574,8 @@
     type: daily_game_reward
     count: 1
     prize_id: 765
-    title: 회색지대 탐사: 성과 회수
-    content: 회색지대 탐사에서 맵 전체 공략 보너스를 얻는다.
+    title: 회색지대: 전과회수
+    content: 회색지대에서 전부 점령 보너스를 한 번 받기
     new_type: 1
     grade_id: 45
     sort: 362
@@ -4867,8 +4585,8 @@
     type: c_tutorial_mission
     count: 1
     prize_id: 11337
-    title: 거점: 보급수리소
-    content: 튜토리얼 전역을 통해 보급수리소의 기능을 알아봅시다.
+    title: 특수 거점: 보급정비소
+    content: 튜토리얼 전역을 클리어합시다. 보급정비소의 매커니즘을 알아보세요.
     new_type: 1
     grade_id: 45
     sort: 359
@@ -4879,11 +4597,457 @@
     type: c_tutorial_mission
     count: 1
     prize_id: 11338
-    title: 거점: 전장효과
-    content: 튜토리얼 전역을 통해 전장효과의 기능을 알아봅시다.
+    title: 맵 기믹: 전장효과
+    content: 튜토리얼 전역을 클리어합시다. 전장효과의 매커니즘을 알아보세요.
     new_type: 1
     grade_id: 45
     sort: 360
     condition: "10921"
+  }
+  {
+    id: 564
+    type: different_vehicle_1
+    count: 1
+    prize_id: 220019
+    title: 기동장갑: 첫 포격
+    content: 주력탱크의 도감을 해금
+    new_type: 1
+    grade_id: 65
+    sort: 361
+  }
+  {
+    id: 565
+    type: get_vehicle_component
+    count: 1
+    prize_id: 220007
+    title: 기동장갑: 파츠 획득
+    content: 아무 기동장갑 파츠를 하나 획득
+    new_type: 1
+    grade_id: 65
+    sort: 362
+  }
+  {
+    id: 566
+    type: vehicle_shooting_range
+    count: 1
+    prize_id: 220002
+    title: 기동장갑: 실탄 사격
+    content: 기갑 사격장의 기동장갑 테스트를 1회 클리어
+    new_type: 1
+    grade_id: 65
+    sort: 363
+  }
+  {
+    id: 567
+    type: vehicle_progress
+    count: 1
+    prize_id: 220008
+    title: 기동장갑: 과학 발전
+    content: 기동장갑 테크트리 노드를 하나 활성화
+    new_type: 1
+    grade_id: 65
+    sort: 364
+  }
+  {
+    id: 568
+    type: vehicle_kill
+    count: 1
+    prize_id: 220002
+    title: 기동장갑: 첫 작전
+    content: 기동장갑으로 직접 적 부대와 교전하여 승리
+    new_type: 1
+    grade_id: 65
+    sort: 365
+  }
+  {
+    id: 569
+    type: vehicle_component_level
+    count: 3
+    prize_id: 220002
+    title: 기동장갑: 파츠 강화
+    content: 아무 파츠를 3레벨로 강화
+    new_type: 1
+    grade_id: 65
+    sort: 366
+  }
+  {
+    id: 570
+    type: get_vehicle_component
+    count: 10
+    prize_id: 220009
+    title: 기동장갑: 파츠 획득
+    content: 기동장갑 파츠를 10개 획득
+    new_type: 1
+    grade_id: 66
+    sort: 367
+  }
+  {
+    id: 571
+    type: vehicle_progress
+    count: 3
+    prize_id: 220002
+    title: 기동장갑: 과학 발전
+    content: 기동장갑 테크트리 노드를 3개 활성화
+    new_type: 1
+    grade_id: 66
+    sort: 368
+  }
+  {
+    id: 572
+    type: vehicle_kill
+    count: 5
+    prize_id: 220003
+    title: 기동장갑: 첫 성과
+    content: 기동장갑으로 직접 적 부대와 교전하여 적을 5기 처치
+    new_type: 1
+    grade_id: 66
+    sort: 369
+  }
+  {
+    id: 573
+    type: get_vehicle_component_rank5
+    count: 1
+    prize_id: 220010
+    title: 기동장갑: 레어 파츠
+    content: 5성 기동장갑 파츠를 1개 획득
+    new_type: 1
+    grade_id: 66
+    sort: 370
+  }
+  {
+    id: 574
+    type: vehicle_skill_progress
+    count: 1
+    prize_id: 220002
+    title: 기동장갑: 스킬 강화
+    content: 스킬 테크트리 노드를 1개 활성화
+    new_type: 1
+    grade_id: 66
+    sort: 371
+  }
+  {
+    id: 575
+    type: vehicle_daily_game
+    count: 1
+    prize_id: 220003
+    title: 기동장갑: 회색지대
+    content: 회색지대“결정지대-지옥”의 아무 지점을 점령
+    new_type: 1
+    grade_id: 66
+    sort: 372
+  }
+  {
+    id: 576
+    type: get_vehicle_component_rank5
+    count: 5
+    prize_id: 220011
+    title: 기동장갑: 레어 파츠
+    content: 5성 기동장갑 파츠를 5개 획득
+    new_type: 1
+    grade_id: 67
+    sort: 373
+  }
+  {
+    id: 577
+    type: vehicle_unlock_slot1
+    count: 2
+    prize_id: 220003
+    title: 기동장갑: 슬롯 해금
+    content: 주력탱크의 모든 파츠 슬롯을 해금
+    new_type: 1
+    grade_id: 68
+    sort: 374
+  }
+  {
+    id: 578
+    type: vehicle_defeat_challenge_1
+    count: 1
+    prize_id: 220016
+    title: 기동장갑: 정진돌격
+    content: 기갑돌격-주력탱크 1층을 클리어
+    new_type: 1
+    grade_id: 67
+    sort: 375
+  }
+  {
+    id: 579
+    type: vehicle_kill
+    count: 20
+    prize_id: 220015
+    title: 기동장갑: 전장의 베테랑
+    content: 기동장갑으로 직접 적 부대와 교전하여 적을 20기 처치
+    new_type: 1
+    grade_id: 67
+    sort: 376
+  }
+  {
+    id: 580
+    type: vehicle_skill_progress
+    count: 2
+    prize_id: 220004
+    title: 기동장갑: 스킬 강화
+    content: 스킬 테크트리 노드를 2개 활성화
+    new_type: 1
+    grade_id: 67
+    sort: 377
+  }
+  {
+    id: 581
+    type: vehicle_daily_game_boss
+    count: 3
+    prize_id: 220017
+    title: 기동장갑: 회색지대
+    content: 회색지대“결정지대-지옥”의 지점을 3개 점령
+    new_type: 1
+    grade_id: 68
+    sort: 378
+  }
+  {
+    id: 582
+    type: vehicle_daily_game
+    count: 60
+    prize_id: 220004
+    title: 기동장갑: 회색지대
+    content: 회색지대“결정지대-지옥”의 지점을 60개 점령
+    new_type: 1
+    grade_id: 68
+    sort: 379
+  }
+  {
+    id: 583
+    type: vehicle_progress
+    count: 10
+    prize_id: 220018
+    title: 기동장갑: 과학 발전
+    content: 기동장갑 테크트리 노드를 10개 활성화
+    new_type: 1
+    grade_id: 67
+    sort: 380
+  }
+  {
+    id: 584
+    type: c_tutorial_mission
+    count: 1
+    prize_id: 220003
+    title: 기동장갑: 최종검정
+    content: 주력탱크로 진행하는 테스트 전역
+    new_type: 1
+    grade_id: 69
+    sort: 381
+    condition: "11481"
+  }
+  {
+    id: 585
+    type: c_tutorial_mission
+    count: 1
+    prize_id: 220020
+    title: 기동장갑: 최종검정
+    content: 전술인형기갑으로 진행하는 테스트 전역
+    new_type: 1
+    grade_id: 69
+    sort: 382
+    condition: "11480"
+  }
+  {
+    id: 586
+    type: vehicle_defeat_challenge_1
+    count: 10
+    prize_id: 220005
+    title: 기동장갑: 정진돌격
+    content: 기갑돌격-주력탱크 10층을 클리어
+    new_type: 1
+    grade_id: 68
+    sort: 383
+  }
+  {
+    id: 587
+    type: vehicle_skill_progress
+    count: 4
+    prize_id: 220006
+    title: 기동장갑: 스킬 강화
+    content: 스킬 테크트리 노드를 4개 활성화
+    new_type: 1
+    grade_id: 68
+    sort: 384
+  }
+  {
+    id: 588
+    type: get_vehicle_component_rank5
+    count: 30
+    prize_id: 220005
+    title: 기동장갑: 레어 파츠
+    content: 5성 기동장갑 파츠를 30개 획득
+    new_type: 1
+    grade_id: 69
+    sort: 385
+  }
+  {
+    id: 589
+    type: vehicle_defeat_challenge_1
+    count: 30
+    prize_id: 220006
+    title: 기동장갑: 정진돌격
+    content: 기갑돌격-주력탱크 30층 클리어
+    new_type: 1
+    grade_id: 69
+    sort: 386
+  }
+  {
+    id: 590
+    type: vehicle_component_level_type0
+    count: 10
+    prize_id: 220003
+    title: 기동장갑: 파츠 강화
+    content: 아무 기동장갑 범용파츠를 10레벨로 강화
+    new_type: 1
+    grade_id: 69
+    sort: 387
+  }
+  {
+    id: 591
+    type: vehicle_component_level_type1
+    count: 10
+    prize_id: 220003
+    title: 기동장갑: 파츠 강화
+    content: 아무 기동장갑 중화기 파츠를 10레벨로 강화
+    new_type: 1
+    grade_id: 69
+    sort: 388
+  }
+  {
+    id: 592
+    type: vehicle_component_level_type2
+    count: 10
+    prize_id: 220003
+    title: 기동장갑: 파츠 강화
+    content: 아무 기동장갑 경화기 파츠를 10레벨로 강화
+    new_type: 1
+    grade_id: 69
+    sort: 389
+  }
+  {
+    id: 593
+    type: vehicle_component_level_type3
+    count: 10
+    prize_id: 220003
+    title: 기동장갑: 파츠 강화
+    content: 아무 기동장갑 기동파츠를 10레벨로 강화
+    new_type: 1
+    grade_id: 69
+    sort: 390
+  }
+  {
+    id: 594
+    type: vehicle_component_level_type4
+    count: 10
+    prize_id: 220003
+    title: 기동장갑: 파츠 강화
+    content: 아무 기동장갑 방호파츠를 10레벨로 강화
+    new_type: 1
+    grade_id: 69
+    sort: 391
+  }
+  {
+    id: 595
+    type: vehicle_progress
+    count: 15
+    prize_id: 220006
+    title: 기동장갑: 과학 발전
+    content: 기동장갑 테크트리 노드를 15개 활성화
+    new_type: 1
+    grade_id: 68
+    sort: 392
+  }
+  {
+    id: 600
+    type: vehicle_progress
+    count: 30
+    prize_id: 220005
+    title: 기동장갑: 과학 발전
+    content: 기동장갑 테크트리 노드를 30개 활성화
+    new_type: 1
+    grade_id: 69
+    sort: 393
+  }
+  {
+    id: 1003
+    type: squad_get_chip
+    count: 1
+    prize_id: 782
+    title: 화력소대: 칩셋
+    content: 처음으로 화력소대 칩셋을 탑재
+    new_type: 1
+    grade_id: 29
+    sort: 208
+  }
+  {
+    id: 1005
+    type: squad_eat_chip_num
+    count: 1
+    prize_id: 793
+    title: 화력소대: 칩셋 강화
+    content: 화력소대의 칩셋 강화를 실행
+    new_type: 1
+    grade_id: 30
+    sort: 225
+  }
+  {
+    id: 1008
+    type: c_squad_chip_level
+    count: 1
+    prize_id: 11176
+    title: 화력소대: 칩셋 강화
+    content: 화력소대 칩셋 하나를 5레벨로 강화
+    new_type: 1
+    grade_id: 30
+    sort: 231
+    condition: "5"
+  }
+  {
+    id: 1009
+    type: c_squad_chip_level
+    count: 3
+    prize_id: 11177
+    title: 화력소대: 칩셋 강화
+    content: 화력소대 칩셋 3개를 5레벨로 강화
+    new_type: 1
+    grade_id: 31
+    sort: 244
+    condition: "5"
+  }
+  {
+    id: 1010
+    type: c_squad_chip_level
+    count: 6
+    prize_id: 11178
+    title: 화력소대: 칩셋 강화
+    content: 화력소대 칩셋 6개를 10레벨로 강화
+    new_type: 1
+    grade_id: 32
+    sort: 256
+    condition: "10"
+  }
+  {
+    id: 1011
+    type: c_squad_chip_level
+    count: 6
+    prize_id: 11179
+    title: 화력소대: 칩셋 강화
+    content: 화력소대 칩셋 6개를 20레벨로 강화
+    new_type: 1
+    grade_id: 33
+    sort: 268
+    condition: "20"
+  }
+  {
+    id: 1012
+    type: squad_get_chip
+    count: 20
+    prize_id: 11180
+    title: 화력소대: 칩셋
+    content: 화력소대 칩셋을 20개 해금
+    new_type: 1
+    grade_id: 30
+    sort: 232
   }
 ]

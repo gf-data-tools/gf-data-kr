@@ -3,6 +3,8 @@
     id: 1
     name: 수렵 랭킹
     type: 1
+    sub_rank: 1
+    sub_rank_name: 총점수
     refresh: month:1:0
     title: 매일 4시 갱신
     visable_rank: 100
@@ -14,6 +16,8 @@
     name: 자료추출 초급 랭킹
     type: 2
     sub_type: "1"
+    sub_rank: 2
+    sub_rank_name: 총점수
     refresh: week:7:0
     title: 매일 4시 갱신
     visable_rank: 100
@@ -25,6 +29,8 @@
     name: 자료추출 중급 랭킹
     type: 2
     sub_type: "2"
+    sub_rank: 3
+    sub_rank_name: 총점수
     refresh: week:7:0
     title: 매일 4시 갱신
     visable_rank: 100
@@ -36,6 +42,8 @@
     name: 자료추출 고급 랭킹
     type: 2
     sub_type: "3"
+    sub_rank: 1
+    sub_rank_name: 총점수
     refresh: week:7:0
     title: 매일 4시 갱신
     visable_rank: 100
@@ -1065,6 +1073,19 @@
     title: 피해 감당
     visable_rank: 100
     ranking_onlist_number: 160000
+    visable_count: 100
+  }
+  {
+    id: 301
+    name: 이상한 나라로 PLUS 상시
+    type: 10
+    sub_type: "10105"
+    sub_rank: 1
+    sub_rank_name: 점수
+    refresh: test
+    title: <이상한 나라로+> 상시 랭킹
+    visable_rank: 100
+    ranking_onlist_number: 80000
     visable_count: 100
   }
   {

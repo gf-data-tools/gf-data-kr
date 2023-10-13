@@ -1,0 +1,31 @@
+[
+  {
+    name: 범용
+    name_en: Common Component
+    code: common_component
+  }
+  {
+    id: 1
+    name: 중화기
+    name_en: Heavy Weapon
+    code: h_weapon
+  }
+  {
+    id: 2
+    name: 경화기
+    name_en: Light Weapon
+    code: l_weapon
+  }
+  {
+    id: 3
+    name: 기능 파츠
+    name_en: Functional Component
+    code: functional_component
+  }
+  {
+    id: 4
+    name: 방호 파츠
+    name_en: Protective Component
+    code: protective_component
+  }
+]

@@ -164,6 +164,11 @@
     goto_page_id: 380
   }
   {
+    obtain_id: 40
+    description: 기갑 스타일 상점에서 구매
+    goto_page_id: 407
+  }
+  {
     obtain_id: 101
     description: 상시 이벤트 【저체온증】에서 구조 가능
   }
@@ -1219,5 +1224,9 @@
   {
     obtain_id: 3098
     description: 기간한정 이벤트 <사고영역 항해> 재화 상점 교환
+  }
+  {
+    obtain_id: 3099
+    description: 기간한정 이벤트 <퍼미션 리로딩> 재화 상점 교환
   }
 ]

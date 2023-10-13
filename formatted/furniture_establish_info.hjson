@@ -2934,7 +2934,7 @@
     description: 정보 센터 전선 좌
     furniture_id: "40049"
     update_furniture_id: "40049"
-    furniture_postion: "3,5"
+    furniture_postion: "4,11"
     establish_lv: "1"
   }
   {
@@ -2944,17 +2944,17 @@
     description: 정보 센터 전선 우
     furniture_id: "40050"
     update_furniture_id: "40050"
-    furniture_postion: "22,1"
+    furniture_postion: "9,0"
     establish_lv: "1"
   }
   {
     establish_id: "50005"
-    establish_name: 정보 센터 전선 중
+    establish_name: 정보센터 장식테이블
     room_id: "5"
-    description: 정보 센터 전선 중
-    furniture_id: "40051"
-    update_furniture_id: "40051"
-    furniture_postion: "2,1"
+    description: 정보센터 장식테이블
+    furniture_id: "45023"
+    update_furniture_id: "45023"
+    furniture_postion: "20,0"
     establish_lv: "1"
   }
   {
@@ -2964,7 +2964,7 @@
     description: 먼지 쌓인 천으로 어떤 전자설비를 덮은 것 같습니다. 오래된 무선 통신기로 보이며, 흐릿하게 “WAVE”라고 새겨져 있습니다.
     furniture_id: "45010"
     update_furniture_id: "45010"
-    furniture_postion: "5,4"
+    furniture_postion: "5,9"
     establish_type: "501"
     parameter_1: "10,0"
     parameter_2: "90,0"
@@ -2976,7 +2976,7 @@
     description: 과거 전쟁 중에서 정보요원은 이렇게 오래된 설비로 수없는 기밀 암호문을 해독하여 전황을 뒤집었습니다. 지금은 당신도 할 수 있어요!
     furniture_id: "45011"
     update_furniture_id: "45011"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "1"
     upgrade_coin: "5"
@@ -2991,7 +2991,7 @@
     description: 과거 전쟁 중에서 정보요원은 이렇게 오래된 설비로 수없는 기밀 암호문을 해독하여 전황을 뒤집었습니다. 지금은 당신도 할 수 있어요!
     furniture_id: "45011"
     update_furniture_id: "45011"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "2"
     upgrade_coin: "50"
@@ -3006,7 +3006,7 @@
     description: 과거 전쟁 중에서 정보요원은 이렇게 오래된 설비로 수없는 기밀 암호문을 해독하여 전황을 뒤집었습니다. 지금은 당신도 할 수 있어요!
     furniture_id: "45011"
     update_furniture_id: "45011"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "3"
     upgrade_coin: "100"
@@ -3021,7 +3021,7 @@
     description: 과거 전쟁 중에서 정보요원은 이렇게 오래된 설비로 수없는 기밀 암호문을 해독하여 전황을 뒤집었습니다. 지금은 당신도 할 수 있어요!
     furniture_id: "45011"
     update_furniture_id: "45011"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "4"
     upgrade_coin: "150"
@@ -3036,7 +3036,7 @@
     description: 과거 전쟁 중에서 정보요원은 이렇게 오래된 설비로 수없는 기밀 암호문을 해독하여 전황을 뒤집었습니다. 지금은 당신도 할 수 있어요!
     furniture_id: "45011"
     update_furniture_id: "45011"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "5"
     upgrade_coin: "200"
@@ -3051,7 +3051,7 @@
     description: 뭐, 지하시설에서 안테나를 설치하는 건 효과가 나빴죠. 이제 기지 밖에 안테나를 설치해서 더 많은 정보를 감청할 수 있어요.
     furniture_id: "45012"
     update_furniture_id: "45012"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "6"
     upgrade_coin: "250"
@@ -3066,7 +3066,7 @@
     description: 뭐, 지하시설에서 안테나를 설치하는 건 효과가 나빴죠. 이제 기지 밖에 안테나를 설치해서 더 많은 정보를 감청할 수 있어요.
     furniture_id: "45012"
     update_furniture_id: "45012"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "7"
     upgrade_coin: "350"
@@ -3081,7 +3081,7 @@
     description: 뭐, 지하시설에서 안테나를 설치하는 건 효과가 나빴죠. 이제 기지 밖에 안테나를 설치해서 더 많은 정보를 감청할 수 있어요.
     furniture_id: "45012"
     update_furniture_id: "45012"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "8"
     upgrade_coin: "450"
@@ -3096,7 +3096,7 @@
     description: 뭐, 지하시설에서 안테나를 설치하는 건 효과가 나빴죠. 이제 기지 밖에 안테나를 설치해서 더 많은 정보를 감청할 수 있어요.
     furniture_id: "45012"
     update_furniture_id: "45012"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "9"
     upgrade_coin: "600"
@@ -3111,7 +3111,7 @@
     description: 정보화 시대에서 정보 공작은 WAVE에서 제공한 더 선진한 설비를 통해 폭발적인 데이터량을 처리해야 해요. 딥러닝 시스템을 추가해서 인터넷 시대 때부터 생성된 대량의 스팸 광고를 걸러낼 수 있게되어 유효적인 정보 비율이 늘어났어요!
     furniture_id: "45013"
     update_furniture_id: "45013"
-    furniture_postion: "5,5"
+    furniture_postion: "5,9"
     establish_type: "501"
     establish_lv: "10"
     upgrade_coin: "800"
@@ -3122,7 +3122,7 @@
   {
     establish_id: "50200"
     establish_name: 지저분한 브리핑 테이블
-    room_id: "5"
+    room_id: "6"
     description: 정보 공작의 역사 속에서 수많은 수수께기는 이런 소박한 보드판에서 풀렸어요. 지금 조용히 여기에 서서 당신이 천을 걷기를 기다리고 있어요.
     furniture_id: "45020"
     update_furniture_id: "45020"
@@ -3134,7 +3134,7 @@
   {
     establish_id: "50201"
     establish_name: 임시 브리핑 테이블
-    room_id: "5"
+    room_id: "6"
     description: 모든 정보요원(과 정보요원인 척하는 애들)의 필수품입니다. 얽히고 꼬인 단서들의 줄 잇기도 모자라 이 낡아 빠진 암호기는 분명 어지러움을 유발하겠죠. “적을 속이려면 아군부터 속여라”란 말도 있으니까요.
     furniture_id: "45021"
     update_furniture_id: "45021"
@@ -3149,7 +3149,7 @@
   {
     establish_id: "50202"
     establish_name: 임시 브리핑 테이블
-    room_id: "5"
+    room_id: "6"
     description: 모든 정보요원(과 정보요원인 척하는 애들)의 필수품입니다. 얽히고 꼬인 단서들의 줄 잇기도 모자라 이 낡아 빠진 암호기는 분명 어지러움을 유발하겠죠. “적을 속이려면 아군부터 속여라”란 말도 있으니까요.
     furniture_id: "45021"
     update_furniture_id: "45021"
@@ -3164,7 +3164,7 @@
   {
     establish_id: "50203"
     establish_name: 임시 브리핑 테이블
-    room_id: "5"
+    room_id: "6"
     description: 모든 정보요원(과 정보요원인 척하는 애들)의 필수품입니다. 얽히고 꼬인 단서들의 줄 잇기도 모자라 이 낡아 빠진 암호기는 분명 어지러움을 유발하겠죠. “적을 속이려면 아군부터 속여라”란 말도 있으니까요.
     furniture_id: "45021"
     update_furniture_id: "45021"
@@ -3179,7 +3179,7 @@
   {
     establish_id: "50204"
     establish_name: 임시 브리핑 테이블
-    room_id: "5"
+    room_id: "6"
     description: 모든 정보요원(과 정보요원인 척하는 애들)의 필수품입니다. 얽히고 꼬인 단서들의 줄 잇기도 모자라 이 낡아 빠진 암호기는 분명 어지러움을 유발하겠죠. “적을 속이려면 아군부터 속여라”란 말도 있으니까요.
     furniture_id: "45021"
     update_furniture_id: "45021"
@@ -3194,7 +3194,7 @@
   {
     establish_id: "50205"
     establish_name: 임시 브리핑 테이블
-    room_id: "5"
+    room_id: "6"
     description: 모든 정보요원(과 정보요원인 척하는 애들)의 필수품입니다. 얽히고 꼬인 단서들의 줄 잇기도 모자라 이 낡아 빠진 암호기는 분명 어지러움을 유발하겠죠. “적을 속이려면 아군부터 속여라”란 말도 있으니까요.
     furniture_id: "45021"
     update_furniture_id: "45021"
@@ -3209,7 +3209,7 @@
   {
     establish_id: "50206"
     establish_name: 냉전 브리핑 테이블
-    room_id: "5"
+    room_id: "6"
     description: 라이트박스가 뿜는 차가운 불빛이 식별하기 힘든 항공사진 필름을 넘어, 탁상 앞에 앉은 지휘관님의 무거운 표정을 비춥니다. 냉전 시기 때의 그들도 아마 같은 표정이었겠죠. “이놈들 폭격기의 수를 거짓 보고했어!”
     furniture_id: "45022"
     update_furniture_id: "45022"
@@ -3224,7 +3224,7 @@
   {
     establish_id: "50207"
     establish_name: 냉전 브리핑 테이블
-    room_id: "5"
+    room_id: "6"
     description: 라이트박스가 뿜는 차가운 불빛이 식별하기 힘든 항공사진 필름을 넘어, 탁상 앞에 앉은 지휘관님의 무거운 표정을 비춥니다. 냉전 시기 때의 그들도 아마 같은 표정이었겠죠. “이놈들 폭격기의 수를 거짓 보고했어!”
     furniture_id: "45022"
     update_furniture_id: "45022"
@@ -3239,7 +3239,7 @@
   {
     establish_id: "50208"
     establish_name: 냉전 브리핑 테이블
-    room_id: "5"
+    room_id: "6"
     description: 라이트박스가 뿜는 차가운 불빛이 식별하기 힘든 항공사진 필름을 넘어, 탁상 앞에 앉은 지휘관님의 무거운 표정을 비춥니다. 냉전 시기 때의 그들도 아마 같은 표정이었겠죠. “이놈들 폭격기의 수를 거짓 보고했어!”
     furniture_id: "45022"
     update_furniture_id: "45022"
@@ -3254,7 +3254,7 @@
   {
     establish_id: "50209"
     establish_name: 냉전 브리핑 테이블
-    room_id: "5"
+    room_id: "6"
     description: 라이트박스가 뿜는 차가운 불빛이 식별하기 힘든 항공사진 필름을 넘어, 탁상 앞에 앉은 지휘관님의 무거운 표정을 비춥니다. 냉전 시기 때의 그들도 아마 같은 표정이었겠죠. “이놈들 폭격기의 수를 거짓 보고했어!”
     furniture_id: "45022"
     update_furniture_id: "45022"
@@ -3269,11 +3269,11 @@
   {
     establish_id: "50210"
     establish_name: 홀로그램 임무 센터
-    room_id: "5"
+    room_id: "6"
     description: 최첨단 기술로 무장한 임무 센터입니다. 홀로그램 모니터에 임무마다 자세한 첨부 이미지가 붙어있고, 터치 한 번으로 지휘관님 이동 설비에 다운로드할 수 있어요. 거기에 초고속 인터넷 기능까지 있다니 정말 최고예요!
     furniture_id: "45023"
     update_furniture_id: "45023"
-    furniture_postion: "4,1"
+    furniture_postion: "20,0"
     establish_type: "502"
     establish_lv: "10"
     upgrade_coin: "800"
@@ -3288,9 +3288,9 @@
     description: 천 밑에 있는 건 거대하고 묵직한 장치로 보입니다. 중공업 설비 같은 금속광택은 흔히 아는 전자 설비의 이미지와는 거리가 멉니다. 이걸로 정말 데이터를 저장할 수 있나요?
     furniture_id: "45030"
     update_furniture_id: "45030"
-    furniture_postion: "13,6"
+    furniture_postion: "11,8"
     establish_type: "503"
-    parameter_1: "600,20"
+    parameter_1: "1500,600"
   }
   {
     establish_id: "50301"
@@ -3299,12 +3299,12 @@
     description: 얼굴보다 커다란 양면 플로피 디스크를 50장 가진 대형 저장설비입니다. (전체 용량 3.75MB) 비록 데이터를 읽을 때 재봉틀처럼 울리지만 손으로 문서 작성하는 것보단 낫잖아요?
     furniture_id: "45031"
     update_furniture_id: "45031"
-    furniture_postion: "13,6"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "1"
     upgrade_coin: "5"
     upgrade_time: "60"
-    parameter_1: "900,100"
+    parameter_1: "1750,700"
   }
   {
     establish_id: "50302"
@@ -3313,12 +3313,12 @@
     description: 얼굴보다 커다란 양면 플로피 디스크를 50장 가진 대형 저장설비입니다. (전체 용량 3.75MB) 비록 데이터를 읽을 때 재봉틀처럼 울리지만 손으로 문서 작성하는 것보단 낫잖아요?
     furniture_id: "45031"
     update_furniture_id: "45031"
-    furniture_postion: "13,6"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "2"
     upgrade_coin: "50"
     upgrade_time: "300"
-    parameter_1: "1200,200"
+    parameter_1: "2000,800"
   }
   {
     establish_id: "50303"
@@ -3327,12 +3327,12 @@
     description: 얼굴보다 커다란 양면 플로피 디스크를 50장 가진 대형 저장설비입니다. (전체 용량 3.75MB) 비록 데이터를 읽을 때 재봉틀처럼 울리지만 손으로 문서 작성하는 것보단 낫잖아요?
     furniture_id: "45031"
     update_furniture_id: "45031"
-    furniture_postion: "13,6"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "3"
     upgrade_coin: "100"
     upgrade_time: "1800"
-    parameter_1: "1500,300"
+    parameter_1: "2250,900"
   }
   {
     establish_id: "50304"
@@ -3341,12 +3341,12 @@
     description: 얼굴보다 커다란 양면 플로피 디스크를 50장 가진 대형 저장설비입니다. (전체 용량 3.75MB) 비록 데이터를 읽을 때 재봉틀처럼 울리지만 손으로 문서 작성하는 것보단 낫잖아요?
     furniture_id: "45031"
     update_furniture_id: "45031"
-    furniture_postion: "13,6"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "4"
     upgrade_coin: "150"
     upgrade_time: "3600"
-    parameter_1: "1800,400"
+    parameter_1: "2500,1000"
   }
   {
     establish_id: "50305"
@@ -3355,12 +3355,12 @@
     description: 얼굴보다 커다란 양면 플로피 디스크를 50장 가진 대형 저장설비입니다. (전체 용량 3.75MB) 비록 데이터를 읽을 때 재봉틀처럼 울리지만 손으로 문서 작성하는 것보단 낫잖아요?
     furniture_id: "45031"
     update_furniture_id: "45031"
-    furniture_postion: "13,6"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "5"
     upgrade_coin: "200"
     upgrade_time: "7200"
-    parameter_1: "2100,500"
+    parameter_1: "2750,1100"
   }
   {
     establish_id: "50306"
@@ -3369,12 +3369,12 @@
     description: 신기술을 채용한 이 저장 설비는 무려 2.52GB의 데이터 샘플을 저장할 수 있어요. 그저 전술인형에게 “데이터를 읽을 때 반짝이는 건 정상적인 현상이고 방사능 같은 건 아니다”라고 설명하는 게 힘들었어요, 애초에 인형에게 방사능은 안 통하잖아요!
     furniture_id: "45032"
     update_furniture_id: "45032"
-    furniture_postion: "12,7"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "6"
     upgrade_coin: "250"
     upgrade_time: "14400"
-    parameter_1: "2400,600"
+    parameter_1: "3000,1200"
   }
   {
     establish_id: "50307"
@@ -3383,12 +3383,12 @@
     description: 신기술을 채용한 이 저장 설비는 무려 2.52GB의 데이터 샘플을 저장할 수 있어요. 그저 전술인형에게 “데이터를 읽을 때 반짝이는 건 정상적인 현상이고 방사능 같은 건 아니다”라고 설명하는 게 힘들었어요, 애초에 인형에게 방사능은 안 통하잖아요!
     furniture_id: "45032"
     update_furniture_id: "45032"
-    furniture_postion: "12,7"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "7"
     upgrade_coin: "350"
     upgrade_time: "28800"
-    parameter_1: "2700,700"
+    parameter_1: "3250,1300"
   }
   {
     establish_id: "50308"
@@ -3397,12 +3397,12 @@
     description: 신기술을 채용한 이 저장 설비는 무려 2.52GB의 데이터 샘플을 저장할 수 있어요. 그저 전술인형에게 “데이터를 읽을 때 반짝이는 건 정상적인 현상이고 방사능 같은 건 아니다”라고 설명하는 게 힘들었어요, 애초에 인형에게 방사능은 안 통하잖아요!
     furniture_id: "45032"
     update_furniture_id: "45032"
-    furniture_postion: "12,7"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "8"
     upgrade_coin: "450"
     upgrade_time: "43200"
-    parameter_1: "3000,800"
+    parameter_1: "3500,1400"
   }
   {
     establish_id: "50309"
@@ -3411,12 +3411,12 @@
     description: 신기술을 채용한 이 저장 설비는 무려 2.52GB의 데이터 샘플을 저장할 수 있어요. 그저 전술인형에게 “데이터를 읽을 때 반짝이는 건 정상적인 현상이고 방사능 같은 건 아니다”라고 설명하는 게 힘들었어요, 애초에 인형에게 방사능은 안 통하잖아요!
     furniture_id: "45032"
     update_furniture_id: "45032"
-    furniture_postion: "12,7"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "9"
     upgrade_coin: "600"
     upgrade_time: "64800"
-    parameter_1: "3300,900"
+    parameter_1: "3750,1500"
   }
   {
     establish_id: "50310"
@@ -3425,21 +3425,21 @@
     description: 데이터 샘플 저장의 궁극체입니다. 읽고 쓰는 속도가 너무 빨라서 평소에 특별한 냉각액에 담궈야 해요. 과학의 힘이란 대단해!
     furniture_id: "45033"
     update_furniture_id: "45033"
-    furniture_postion: "11,2"
+    furniture_postion: "11,8"
     establish_type: "503"
     establish_lv: "10"
     upgrade_coin: "800"
     upgrade_time: "86400"
-    parameter_1: "3600,1000"
+    parameter_1: "4000,1600"
   }
   {
     establish_id: "50400"
     establish_name: 방치된 분석기
-    room_id: "5"
+    room_id: "6"
     description: 방수포로 덮인 거대한 쇳덩어리입니다. 영문 모를 계기판과 단추들로 가득한데, 이 기계를 움직이면 데이터를 분석해서 강력한 무기의 설계도를 만들 수 있다고 상층부에서 말했어요.
     furniture_id: "45040"
     update_furniture_id: "45040"
-    furniture_postion: "23,6"
+    furniture_postion: "3,1"
     establish_type: "504"
     parameter_1: "1"
     parameter_2: "100"
@@ -3447,11 +3447,11 @@
   {
     establish_id: "50401"
     establish_name: 통용 튜링 분석기
-    room_id: "5"
+    room_id: "6"
     description: 튜링의 구상을 실현하기 위한 시도로, 설계는 이상적이었지만 쓰자고 하니 문제투성이로 분석 속도와 스레드 모두 엄청난 제한이 있지만, 이제서야 분석을 할 수 있게 됐어요.
     furniture_id: "45041"
     update_furniture_id: "45041"
-    furniture_postion: "23,6"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "1"
     upgrade_coin: "5"
@@ -3462,11 +3462,11 @@
   {
     establish_id: "50402"
     establish_name: 통용 튜링 분석기
-    room_id: "5"
+    room_id: "6"
     description: 튜링의 구상을 실현하기 위한 시도로, 설계는 이상적이었지만 쓰자고 하니 문제투성이로 분석 속도와 스레드 모두 엄청난 제한이 있지만, 이제서야 분석을 할 수 있게 됐어요.
     furniture_id: "45041"
     update_furniture_id: "45041"
-    furniture_postion: "23,6"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "2"
     upgrade_coin: "50"
@@ -3477,11 +3477,11 @@
   {
     establish_id: "50403"
     establish_name: 통용 튜링 분석기
-    room_id: "5"
+    room_id: "6"
     description: 튜링의 구상을 실현하기 위한 시도로, 설계는 이상적이었지만 쓰자고 하니 문제투성이로 분석 속도와 스레드 모두 엄청난 제한이 있지만, 이제서야 분석을 할 수 있게 됐어요.
     furniture_id: "45041"
     update_furniture_id: "45041"
-    furniture_postion: "23,6"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "3"
     upgrade_coin: "100"
@@ -3492,11 +3492,11 @@
   {
     establish_id: "50404"
     establish_name: 통용 튜링 분석기
-    room_id: "5"
+    room_id: "6"
     description: 튜링의 구상을 실현하기 위한 시도로, 설계는 이상적이었지만 쓰자고 하니 문제투성이로 분석 속도와 스레드 모두 엄청난 제한이 있지만, 이제서야 분석을 할 수 있게 됐어요.
     furniture_id: "45041"
     update_furniture_id: "45041"
-    furniture_postion: "23,6"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "4"
     upgrade_coin: "150"
@@ -3507,11 +3507,11 @@
   {
     establish_id: "50405"
     establish_name: 통용 튜링 분석기
-    room_id: "5"
+    room_id: "6"
     description: 튜링의 구상을 실현하기 위한 시도로, 설계는 이상적이었지만 쓰자고 하니 문제투성이로 분석 속도와 스레드 모두 엄청난 제한이 있지만, 이제서야 분석을 할 수 있게 됐어요.
     furniture_id: "45041"
     update_furniture_id: "45041"
-    furniture_postion: "23,6"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "5"
     upgrade_coin: "200"
@@ -3522,11 +3522,11 @@
   {
     establish_id: "50406"
     establish_name: 첨단 대형 분석기
-    room_id: "5"
+    room_id: "6"
     description: 새로운 기계의 거대한 껍데기 안에는 무려 96K의 대형 내장 메모리와 고속 CPU를 탑재하여 분석 속도와 스레드 수 모두 새로운 경지에 도달했습니다. 그리고 쉴 새 없이 변화하는 불빛도 매우 현란하니, 그야말로 분석기의 유니콘이라 할 수 있겠죠.
     furniture_id: "45042"
     update_furniture_id: "45042"
-    furniture_postion: "23,7"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "6"
     upgrade_coin: "250"
@@ -3537,11 +3537,11 @@
   {
     establish_id: "50407"
     establish_name: 첨단 대형 분석기
-    room_id: "5"
+    room_id: "6"
     description: 새로운 기계의 거대한 껍데기 안에는 무려 96K의 대형 내장 메모리와 고속 CPU를 탑재하여 분석 속도와 스레드 수 모두 새로운 경지에 도달했습니다. 그리고 쉴 새 없이 변화하는 불빛도 매우 현란하니, 그야말로 분석기의 유니콘이라 할 수 있겠죠.
     furniture_id: "45042"
     update_furniture_id: "45042"
-    furniture_postion: "23,7"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "7"
     upgrade_coin: "350"
@@ -3552,11 +3552,11 @@
   {
     establish_id: "50408"
     establish_name: 첨단 대형 분석기
-    room_id: "5"
+    room_id: "6"
     description: 새로운 기계의 거대한 껍데기 안에는 무려 96K의 대형 내장 메모리와 고속 CPU를 탑재하여 분석 속도와 스레드 수 모두 새로운 경지에 도달했습니다. 그리고 쉴 새 없이 변화하는 불빛도 매우 현란하니, 그야말로 분석기의 유니콘이라 할 수 있겠죠.
     furniture_id: "45042"
     update_furniture_id: "45042"
-    furniture_postion: "23,7"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "8"
     upgrade_coin: "450"
@@ -3567,11 +3567,11 @@
   {
     establish_id: "50409"
     establish_name: 첨단 대형 분석기
-    room_id: "5"
+    room_id: "6"
     description: 새로운 기계의 거대한 껍데기 안에는 무려 96K의 대형 내장 메모리와 고속 CPU를 탑재하여 분석 속도와 스레드 수 모두 새로운 경지에 도달했습니다. 그리고 쉴 새 없이 변화하는 불빛도 매우 현란하니, 그야말로 분석기의 유니콘이라 할 수 있겠죠.
     furniture_id: "45042"
     update_furniture_id: "45042"
-    furniture_postion: "23,7"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "9"
     upgrade_coin: "600"
@@ -3582,11 +3582,11 @@
   {
     establish_id: "50410"
     establish_name: 미래 분석 단말기
-    room_id: "5"
+    room_id: "6"
     description: 컴퓨터의 연산속도가 아무리 빨라도 인간의 정교한 두뇌를 따라잡지는 못하죠. 양쪽의 장점을 결합하면 분석 속도가 경이로운 수준으로... 어라, 왜 멈춘 거지... 혹시 또 조는 건지 봐요!
     furniture_id: "45043"
     update_furniture_id: "45043"
-    furniture_postion: "23,2"
+    furniture_postion: "3,1"
     establish_type: "504"
     establish_lv: "10"
     upgrade_coin: "800"
@@ -3595,33 +3595,43 @@
     parameter_2: "25"
   }
   {
+    establish_id: "50500"
+    establish_name: 미래 분석 단말기
+    room_id: "5"
+    description: 컴퓨터의 연산속도가 아무리 빨라도 인간의 정교한 두뇌를 따라잡지는 못하죠. 양쪽의 장점을 결합하면 분석 속도가 경이로운 수준으로... 어라, 왜 멈춘 거지... 혹시 또 조는 건지 봐요!
+    furniture_id: "45043"
+    update_furniture_id: "45043"
+    furniture_postion: "3,1"
+    establish_type: "505"
+  }
+  {
     establish_id: "60001"
-    establish_name: 격납고 바닥
-    room_id: "6"
-    description: 격납고 바닥
+    establish_name: 정보센터 벽장식
+    room_id: "5"
+    description: 정보센터 벽장식
     furniture_id: "40052"
     update_furniture_id: "40052"
-    furniture_postion: "2,2"
+    furniture_postion: "6,10"
     establish_lv: "1"
   }
   {
     establish_id: "60002"
-    establish_name: 격납고 벽지
-    room_id: "6"
-    description: 격납고 벽지
+    establish_name: 정보센터 전등
+    room_id: "5"
+    description: 정보센터 전등
     furniture_id: "40053"
     update_furniture_id: "40053"
-    furniture_postion: "2,2"
+    furniture_postion: "5,0"
     establish_lv: "1"
   }
   {
     establish_id: "60003"
-    establish_name: 격납고 등 좌
-    room_id: "6"
-    description: 격납고 등 좌
+    establish_name: 정보센터 식물
+    room_id: "5"
+    description: 정보센터 식물
     furniture_id: "40054"
     update_furniture_id: "40054"
-    furniture_postion: "16,2"
+    furniture_postion: "2,2"
     establish_lv: "1"
   }
   {
@@ -3841,11 +3851,11 @@
   {
     establish_id: "60300"
     establish_name: 종합 실내 훈련장
-    room_id: "6"
+    room_id: "5"
     description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
     furniture_id: "46020"
     update_furniture_id: "46020"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     parameter_1: "1"
     parameter_2: "1"
@@ -3853,11 +3863,11 @@
   {
     establish_id: "60301"
     establish_name: 종합 실내 훈련장
-    room_id: "6"
+    room_id: "5"
     description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
     furniture_id: "46020"
     update_furniture_id: "46020"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "1"
     upgrade_coin: "5"
@@ -3868,11 +3878,11 @@
   {
     establish_id: "60302"
     establish_name: 종합 실내 훈련장
-    room_id: "6"
+    room_id: "5"
     description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
     furniture_id: "46021"
     update_furniture_id: "46021"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "2"
     upgrade_coin: "50"
@@ -3883,11 +3893,11 @@
   {
     establish_id: "60303"
     establish_name: 종합 실내 훈련장
-    room_id: "6"
+    room_id: "5"
     description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
     furniture_id: "46021"
     update_furniture_id: "46021"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "3"
     upgrade_coin: "100"
@@ -3898,11 +3908,11 @@
   {
     establish_id: "60304"
     establish_name: 종합 실내 훈련장
-    room_id: "6"
+    room_id: "5"
     description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
     furniture_id: "46021"
     update_furniture_id: "46021"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "4"
     upgrade_coin: "150"
@@ -3913,11 +3923,11 @@
   {
     establish_id: "60305"
     establish_name: 종합 실내 훈련장
-    room_id: "6"
+    room_id: "5"
     description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
     furniture_id: "46022"
     update_furniture_id: "46022"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "5"
     upgrade_coin: "200"
@@ -3928,11 +3938,11 @@
   {
     establish_id: "60306"
     establish_name: 종합 실내 훈련장
-    room_id: "6"
+    room_id: "5"
     description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
     furniture_id: "46022"
     update_furniture_id: "46022"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "6"
     upgrade_coin: "250"
@@ -3943,11 +3953,11 @@
   {
     establish_id: "60307"
     establish_name: 종합 실내 훈련장
-    room_id: "6"
+    room_id: "5"
     description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
     furniture_id: "46022"
     update_furniture_id: "46022"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "7"
     upgrade_coin: "350"
@@ -3958,11 +3968,11 @@
   {
     establish_id: "60308"
     establish_name: 종합 실내 훈련장
-    room_id: "6"
+    room_id: "5"
     description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
     furniture_id: "46023"
     update_furniture_id: "46023"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "8"
     upgrade_coin: "450"
@@ -3973,11 +3983,11 @@
   {
     establish_id: "60309"
     establish_name: 종합 실내 훈련장
-    room_id: "6"
+    room_id: "5"
     description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
     furniture_id: "46023"
     update_furniture_id: "46023"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "9"
     upgrade_coin: "600"
@@ -3988,11 +3998,11 @@
   {
     establish_id: "60310"
     establish_name: 종합 실내 훈련장
-    room_id: "6"
+    room_id: "5"
     description: 많은 인형이 훈련 시 일제 사격으로 일어난 소규모 지진을 주민들이 눈치챘어요. 사실을 덮기 위해, 이제 사격훈련은 순차적으로 사격을 해요, 훈련 효율은 변하지 않습니다.
     furniture_id: "46023"
     update_furniture_id: "46023"
-    furniture_postion: "18,3"
+    furniture_postion: "23,6"
     establish_type: "603"
     establish_lv: "10"
     upgrade_coin: "800"
@@ -4800,5 +4810,123 @@
     update_furniture_id: "49041"
     furniture_postion: "19,0"
     establish_type: "904"
+  }
+  {
+    establish_id: "100001"
+    establish_name: 벽지
+    room_id: "10"
+    description: 벽지
+    furniture_id: "40085"
+    update_furniture_id: "40085"
+    furniture_postion: "0,0"
+  }
+  {
+    establish_id: "100002"
+    establish_name: 바닥
+    room_id: "10"
+    description: 바닥
+    furniture_id: "40086"
+    update_furniture_id: "40086"
+    furniture_postion: "0,0"
+  }
+  {
+    establish_id: "100003"
+    establish_name: 전경
+    room_id: "10"
+    description: 전경
+    furniture_id: "40090"
+    update_furniture_id: "40090"
+    furniture_postion: "17,13"
+  }
+  {
+    establish_id: "100004"
+    establish_name: 벽장식
+    room_id: "10"
+    description: 벽장식
+    furniture_id: "40087"
+    update_furniture_id: "40087"
+    furniture_postion: "6,10"
+  }
+  {
+    establish_id: "100005"
+    establish_name: 등
+    room_id: "10"
+    description: 등
+    furniture_id: "40089"
+    update_furniture_id: "40089"
+    furniture_postion: "18,0"
+  }
+  {
+    establish_id: "100100"
+    establish_name: 작업대
+    room_id: "10"
+    description: 격납고에 전시할 기동장갑을 선택할 수 있습니다. 터치하면 기동장갑 도면 또는 상세정보 화면으로 이동합니다.
+    furniture_id: "410030"
+    update_furniture_id: "410030"
+    furniture_postion: "25,10"
+    establish_type: "1006"
+  }
+  {
+    establish_id: "100200"
+    establish_name: 동력 생성기
+    room_id: "10"
+    description: 기동장갑 운용에 필요한 동력을 생성하며 동력 상한을 제공합니다.
+    furniture_id: "410020"
+    update_furniture_id: "410020"
+    furniture_postion: "3,6"
+    establish_type: "1002"
+    parameter_1: "4000"
+    parameter_2: "50"
+  }
+  {
+    establish_id: "100300"
+    establish_name: 개발대
+    room_id: "10"
+    description: 터치하여 기동장갑 테크트리 화면을 엽니다.
+    furniture_id: "410060"
+    update_furniture_id: "410060"
+    furniture_postion: "25,1"
+    establish_type: "1003"
+  }
+  {
+    establish_id: "100400"
+    establish_name: 파츠 창고
+    room_id: "10"
+    description: 파츠 창고 상한을 제공하며, 터치해 파츠 목록을 엽니다.
+    furniture_id: "410050"
+    update_furniture_id: "410050"
+    furniture_postion: "30,5"
+    establish_type: "1004"
+    parameter_1: "1000"
+  }
+  {
+    establish_id: "100500"
+    establish_name: 기갑 사격장
+    room_id: "10"
+    description: 터치하여 기갑 사격장으로 이동합니다.
+    furniture_id: "410040"
+    update_furniture_id: "410040"
+    furniture_postion: "11,9"
+    establish_type: "1005"
+  }
+  {
+    establish_id: "100600"
+    establish_name: 기동장갑 바닥
+    room_id: "10"
+    description: 기동장갑 바닥
+    furniture_id: "410010"
+    update_furniture_id: "410010"
+    furniture_postion: "9,0"
+    establish_type: "1001"
+  }
+  {
+    establish_id: "100700"
+    establish_name: 기동장갑
+    room_id: "10"
+    description: 현재 기동장갑
+    furniture_id: "410070"
+    update_furniture_id: "410070"
+    furniture_postion: "16,12"
+    establish_type: "1010"
   }
 ]

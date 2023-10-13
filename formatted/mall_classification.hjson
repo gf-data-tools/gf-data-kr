@@ -63,7 +63,7 @@
     sort: 7
     name:
       '''
-      라이칸의 성역
+      퍼미션 리로딩
       재화 교환
       '''
   }
@@ -73,7 +73,7 @@
     sort: 8
     name:
       '''
-      라이칸의 성역
+      퍼미션 리로딩
       훈장 교환
       '''
   }
@@ -128,14 +128,20 @@
     name: 협약 재현
   }
   {
+    id: 3007
+    parent_id: 3000
+    sort: 6
+    name: 코스튬 랜덤 박스
+  }
+  {
     id: 4000
-    sort: 5
+    sort: 6
     name: 의상
     description: 指挥官服装
   }
   {
     id: 5000
-    sort: 6
+    sort: 5
     name: 물자
     description: 消耗品
   }
@@ -182,7 +188,12 @@
   }
   {
     id: 7000
-    sort: 7
+    sort: 8
     name: 우정상점
+  }
+  {
+    id: 8000
+    sort: 7
+    name: 기갑 튜닝샵
   }
 ]

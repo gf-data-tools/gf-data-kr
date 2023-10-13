@@ -1,0 +1,1238 @@
+[
+  {
+    id: 10001
+    name: 범용형 - 데저트 옐로우 도면
+    type: 1
+    vehicle_id: "1"
+    class_id: 1
+    code: TankM1_1001
+    item_id: 133007
+    obtain: "7"
+    introduction: 노랑-갈색-검정의 조합으로 사막에 당신의 모습을 감춘다.
+    is_show: 1
+  }
+  {
+    id: 10002
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 101
+    class_id: 1
+    code: MG_Single_1001
+    item_id: 133008
+    obtain: "7"
+    introduction: 기본 기관총, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10003
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 102
+    class_id: 1
+    code: RF_AntiTank_1001
+    item_id: 133009
+    obtain: "7"
+    introduction: 대장갑 저격총, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10005
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 103
+    class_id: 1
+    code: MG_Multi_Barrel_1001
+    item_id: 133011
+    obtain: "7"
+    introduction: 촘촘한 화망을 제공, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10006
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 105
+    class_id: 1
+    code: Searchlight_1001
+    item_id: 133012
+    obtain: "7"
+    introduction: 야간 시야 제공, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10007
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 106
+    class_id: 1
+    code: Flame_Ejector_1001
+    item_id: 133013
+    obtain: "7"
+    introduction: 근거리 화염 방사, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10008
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 107
+    class_id: 1
+    code: MG_Cannon_1001
+    item_id: 133014
+    obtain: "7"
+    introduction: 소구경 포탄 발사기, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10009
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 108
+    class_id: 1
+    code: GrenadeComponent_1001
+    item_id: 133015
+    obtain: "7"
+    introduction: 상황 대응에 유연한 다목적 발사기, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10010
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 109
+    class_id: 1
+    code: Laser_Weapon_1001
+    item_id: 133016
+    obtain: "7"
+    introduction: 군중지속타격 병기, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10011
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 110
+    class_id: 1
+    code: Cannon_1001
+    item_id: 133017
+    obtain: "7"
+    introduction: 광범위 타격 화포, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10012
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 111
+    class_id: 1
+    code: Flak_Cannon_1001
+    item_id: 133018
+    obtain: "7"
+    introduction: 원거리 특화 캐논, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10013
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 112
+    class_id: 1
+    code: Pulse_Cannon_1001
+    item_id: 133019
+    obtain: "7"
+    introduction: 근거리 지속 타격 캐논, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10014
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 113
+    class_id: 1
+    code: Armor_Cannon_1001
+    item_id: 133020
+    obtain: "7"
+    introduction: 추가 장갑 보호를 제공하는 캐논, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10015
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 114
+    class_id: 1
+    code: Interference_Gun_1001
+    item_id: 133021
+    obtain: "7"
+    introduction: 기계유닛을 약화하는 교란탄 발사, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10016
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 115
+    class_id: 1
+    code: Jammer_1001
+    item_id: 133022
+    obtain: "7"
+    introduction: 범위 약화 지원 설비, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10017
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 116
+    class_id: 1
+    code: Signal_Tower_1001
+    item_id: 133023
+    obtain: "7"
+    introduction: 아군 강화 지원 설비, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10018
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 117
+    class_id: 1
+    code: Smoke_Emitter_1001
+    item_id: 133024
+    obtain: "7"
+    introduction: 적을 방해하는 연막 생성, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10019
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 118
+    class_id: 1
+    code: Small_Missile_Launcher_1001
+    item_id: 133025
+    obtain: "7"
+    introduction: 전투 중 정밀 타격 제공, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10020
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 119
+    class_id: 1
+    code: Medium_Missile_Launcher_1001
+    item_id: 133026
+    obtain: "7"
+    introduction: 아군에게 강력한 화력 지원, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10021
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 120
+    class_id: 1
+    code: Electromagnetic_Artillery_1001
+    item_id: 133027
+    obtain: "7"
+    introduction: 막강한 위력의 주력 병기, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10022
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 141
+    class_id: 1
+    code: Protective_Generator_1001
+    item_id: 133028
+    obtain: "7"
+    introduction: 각종 무기 스위칭 가능, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10023
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 122
+    class_id: 1
+    code: Rotating_Turret_1001
+    item_id: 133029
+    obtain: "7"
+    introduction: 전투 드론 방출, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10024
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 123
+    class_id: 1
+    code: UAV_Compartment_1001
+    item_id: 133030
+    obtain: "7"
+    introduction: 기동장갑에 방호 제공, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10025
+    name: 범용형 - 시가전 위장 도면
+    type: 1
+    vehicle_id: "1"
+    class_id: 2
+    code: TankM1_1002
+    item_id: 133031
+    obtain: "7"
+    introduction: 철심 콘크리트의 정글, 나는 사냥꾼이고 너는 사냥감이다.
+    is_show: 1
+  }
+  {
+    id: 10026
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 101
+    class_id: 2
+    code: MG_Single_1002
+    item_id: 133032
+    obtain: "7"
+    introduction: 기본 기관총, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10027
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 102
+    class_id: 2
+    code: RF_AntiTank_1002
+    item_id: 133033
+    obtain: "7"
+    introduction: 대장갑 저격총, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10029
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 103
+    class_id: 2
+    code: MG_Multi_Barrel_1002
+    item_id: 133035
+    obtain: "7"
+    introduction: 다총열 기관총, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10030
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 105
+    class_id: 2
+    code: Searchlight_1002
+    item_id: 133036
+    obtain: "7"
+    introduction: 야간 시야 제공, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10031
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 106
+    class_id: 2
+    code: Flame_Ejector_1002
+    item_id: 133037
+    obtain: "7"
+    introduction: 근거리 화염 방사, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10032
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 107
+    class_id: 2
+    code: MG_Cannon_1002
+    item_id: 133038
+    obtain: "7"
+    introduction: 소구경 포탄 발사기, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10033
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 108
+    class_id: 2
+    code: GrenadeComponent_1002
+    item_id: 133039
+    obtain: "7"
+    introduction: 상황 대응에 유연한 다목적 발사기, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10034
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 109
+    class_id: 2
+    code: Laser_Weapon_1002
+    item_id: 133040
+    obtain: "7"
+    introduction: 군중지속타격 병기, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10035
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 110
+    class_id: 2
+    code: Cannon_1002
+    item_id: 133041
+    obtain: "7"
+    introduction: 광범위 타격 화포, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10036
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 111
+    class_id: 2
+    code: Flak_Cannon_1002
+    item_id: 133042
+    obtain: "7"
+    introduction: 원거리 특화 캐논, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10037
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 112
+    class_id: 2
+    code: Pulse_Cannon_1002
+    item_id: 133043
+    obtain: "7"
+    introduction: 근거리 지속 타격 캐논, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10038
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 113
+    class_id: 2
+    code: Armor_Cannon_1002
+    item_id: 133044
+    obtain: "7"
+    introduction: 추가 장갑 보호를 제공하는 캐논, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10039
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 114
+    class_id: 2
+    code: Interference_Gun_1002
+    item_id: 133045
+    obtain: "7"
+    introduction: 기계유닛을 약화하는 교란탄 발사, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10040
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 115
+    class_id: 2
+    code: Jammer_1002
+    item_id: 133046
+    obtain: "7"
+    introduction: 범위 약화 지원 설비, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10041
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 116
+    class_id: 2
+    code: Signal_Tower_1002
+    item_id: 133047
+    obtain: "7"
+    introduction: 아군 강화 지원 설비, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10042
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 117
+    class_id: 2
+    code: Smoke_Emitter_1002
+    item_id: 133048
+    obtain: "7"
+    introduction: 적을 방해하는 연막 생성, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10043
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 118
+    class_id: 2
+    code: Small_Missile_Launcher_1002
+    item_id: 133049
+    obtain: "7"
+    introduction: 전투 중 정밀 타격 제공, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10044
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 119
+    class_id: 2
+    code: Medium_Missile_Launcher_1002
+    item_id: 133050
+    obtain: "7"
+    introduction: 아군에게 화력 지원, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10045
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 120
+    class_id: 2
+    code: Electromagnetic_Artillery_1002
+    item_id: 133051
+    obtain: "7"
+    introduction: 막강한 위력의 주력 병기, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10046
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 141
+    class_id: 2
+    code: Protective_Generator_1002
+    item_id: 133052
+    obtain: "7"
+    introduction: 각종 무기 스위칭 가능, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10047
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 122
+    class_id: 2
+    code: Rotating_Turret_1002
+    item_id: 133053
+    obtain: "7"
+    introduction: 전투 드론 방출, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10048
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 123
+    class_id: 2
+    code: UAV_Compartment_1002
+    item_id: 133054
+    obtain: "7"
+    introduction: 기동장갑에 방호 제공, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10049
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 140
+    class_id: 1
+    code: LMGCom_1001
+    item_id: 133057
+    obtain: "7"
+    introduction: 다수 약체 타깃 대상 기관총, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10050
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 142
+    class_id: 1
+    code: ElecGun_1001
+    item_id: 133058
+    obtain: "7"
+    introduction: 화력을 희생해 사속을 취한 전자기총, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10051
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 124
+    class_id: 1
+    code: AutoDef_1001
+    item_id: 133059
+    obtain: "7"
+    introduction: 기동장갑에 방호 제공, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10052
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 143
+    class_id: 1
+    code: LaserSup_1001
+    item_id: 133060
+    obtain: "7"
+    introduction: 적의 화력 조준을 방해, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10053
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 104
+    class_id: 1
+    code: HMGCom_1001
+    item_id: 133061
+    obtain: "7"
+    introduction: 화력이 더 강력한 기관총, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10054
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 125
+    class_id: 1
+    code: PAR_1001
+    item_id: 133062
+    obtain: "7"
+    introduction: 범위 탐지 제공, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10055
+    name: 범용형 - 데저트 옐로우
+    type: 2
+    group_id: 121
+    class_id: 1
+    code: ERA_1001
+    item_id: 133063
+    obtain: "7"
+    introduction: 철갑탄 공격에 효과적인 대응, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10056
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 140
+    class_id: 2
+    code: LMGCom_1002
+    item_id: 133064
+    obtain: "7"
+    introduction: 다수 약체 타깃 대상 기관총, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10057
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 142
+    class_id: 2
+    code: ElecGun_1002
+    item_id: 133065
+    obtain: "7"
+    introduction: 화력을 희생해 사속을 취한 전자기총, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10058
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 124
+    class_id: 2
+    code: AutoDef_1002
+    item_id: 133066
+    obtain: "7"
+    introduction: 기동장갑에 방호 제공, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10059
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 143
+    class_id: 2
+    code: LaserSup_1002
+    item_id: 133067
+    obtain: "7"
+    introduction: 적의 조준 설비를 교란, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10060
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 104
+    class_id: 2
+    code: HMGCom_1002
+    item_id: 133068
+    obtain: "7"
+    introduction: 화력이 더 강력한 기관총, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10061
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 125
+    class_id: 2
+    code: PAR_1002
+    item_id: 133069
+    obtain: "7"
+    introduction: 범위 탐지 제공, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10062
+    name: 범용형 - 시가전 위장
+    type: 2
+    group_id: 121
+    class_id: 2
+    code: ERA_1002
+    item_id: 133070
+    obtain: "7"
+    introduction: 철갑탄 공격에 효과적인 대응, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10063
+    name: 범용형 - 데저트 옐로우 도면
+    type: 1
+    vehicle_id: "2"
+    class_id: 1
+    code: Warjack_1001
+    item_id: 133055
+    obtain: "7"
+    introduction: 노랑-갈색-검정의 조합으로 사막에 당신의 모습을 감춘다.
+    is_show: 1
+  }
+  {
+    id: 10064
+    name: 범용형 - 시가전 위장 도면
+    type: 1
+    vehicle_id: "2"
+    class_id: 2
+    code: Warjack_1002
+    item_id: 133056
+    obtain: "7"
+    introduction: 철심 콘크리트의 정글, 나는 사냥꾼이고 너는 사냥감이다.
+    is_show: 1
+  }
+  {
+    id: 10065
+    name: KV-2 - 아이언 샤크 도면
+    type: 1
+    vehicle_id: "1"
+    class_id: 3
+    code: TankM1_1003
+    item_id: 133071
+    obtain: "40"
+    introduction: 입을 쩍 벌린 상어와 이 강철의 괴수하고는 안성맞춤이지!
+    is_show: 1
+  }
+  {
+    id: 10066
+    name: KV-2 - 설원 위장 도면
+    type: 1
+    vehicle_id: "1"
+    class_id: 4
+    code: TankM1_1004
+    item_id: 133072
+    obtain: "40"
+    introduction: 이 녀석에 비하면 눈사태도 별것 아니야.
+    is_show: 1
+  }
+  {
+    id: 10067
+    name: 심판 - 필드 그레이 도면
+    type: 1
+    vehicle_id: "1"
+    class_id: 5
+    code: TankM1_1005
+    item_id: 133073
+    obtain: "40"
+    introduction: 이 새로 칠한 페인트와 깔끔한 강선을 보라고, 이 녀석의 첫 포효를 듣게 될 행운의 디너게이트는 누굴까?
+    is_show: 1
+  }
+  {
+    id: 10068
+    name: 심판 - 설원 위장 도면
+    type: 1
+    vehicle_id: "1"
+    class_id: 6
+    code: TankM1_1006
+    item_id: 133074
+    obtain: "40"
+    introduction: 아무리 차가운 캐터필러도 녀석의 뜨거운 화염을 막을 수 없다.
+    is_show: 1
+  }
+  {
+    id: 10069
+    name: 심판 - 데저트 옐로우 도면
+    type: 1
+    vehicle_id: "1"
+    class_id: 7
+    code: TankM1_1007
+    item_id: 133075
+    obtain: "40"
+    introduction: 엔진의 포효를 사막에 울려 퍼뜨리자!
+    is_show: 1
+  }
+  {
+    id: 10070
+    name: 심판 - 정글 위장 도면
+    type: 1
+    vehicle_id: "1"
+    class_id: 8
+    code: TankM1_1008
+    item_id: 133076
+    obtain: "40"
+    introduction: 산길을 열고 강에 다리를 놓고, 진흙을 튕기고 나무가지를 흩날린다.
+    is_show: 1
+  }
+  {
+    id: 10071
+    name: TCW48-A3 클로 도면
+    type: 1
+    vehicle_id: "2"
+    class_id: 9
+    code: Warjack_1009
+    item_id: 133077
+    obtain: "40"
+    introduction: 숙련과 침착함이 가장 강력한 무기다.
+    is_show: 1
+  }
+  {
+    id: 10072
+    name: TCW48-A3 클로
+    type: 2
+    group_id: 106
+    class_id: 9
+    code: Flame_Ejector_1009
+    item_id: 133078
+    obtain: "40"
+    introduction: 클로 세팅 화염방사기, 근거리 화염 방사 가능
+    is_show: 1
+  }
+  {
+    id: 10073
+    name: TCW48-A3 클로
+    type: 2
+    group_id: 103
+    class_id: 9
+    code: MG_Multi_Barrel_1009
+    item_id: 133079
+    obtain: "40"
+    introduction: 클로 세팅 다총열 기관총, 촘촘한 화망을 제공。
+    is_show: 1
+  }
+  {
+    id: 10074
+    name: TCW48-A3 클로
+    type: 2
+    group_id: 107
+    class_id: 9
+    code: MG_Cannon_1009
+    item_id: 133080
+    obtain: "40"
+    introduction: 클로 세팅 기총포, 소구경 포탄 발사기。
+    is_show: 1
+  }
+  {
+    id: 10075
+    name: TCW48-A3 클로
+    type: 2
+    group_id: 124
+    class_id: 9
+    code: AutoDef_1009
+    item_id: 133081
+    obtain: "40"
+    introduction: 클로 세팅 보호막 생성기, 클로에게 방호 제공.
+    is_show: 1
+  }
+  {
+    id: 10076
+    name: TCW48-A3 클로
+    type: 2
+    group_id: 115
+    class_id: 9
+    code: Jammer_1009
+    item_id: 133082
+    obtain: "40"
+    introduction: 클로 세팅 교란기, 광범위 교란 제공.
+    is_show: 1
+  }
+  {
+    id: 10083
+    name: KV-2 - 범용
+    type: 2
+    group_id: 101
+    class_id: 3
+    code: MG_Single_1003
+    item_id: 133089
+    obtain: "40"
+    introduction: 기본 기관총, KV-2에 적합한 모든 스타일을 도색
+    is_show: 1
+  }
+  {
+    id: 10084
+    name: KV-2 - 아이언 샤크
+    type: 2
+    group_id: 105
+    class_id: 3
+    code: Searchlight_1003
+    item_id: 133090
+    obtain: "40"
+    introduction: 야간 시야 제공, KV-2와 세팅된 아이언 샤크 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10085
+    name: KV-2 - 아이언 샤크
+    type: 2
+    group_id: 141
+    class_id: 3
+    code: Protective_Generator_1003
+    item_id: 133091
+    obtain: "40"
+    introduction: 기동장갑에 방호 제공, KV-2와 세팅된 아이언 샤크 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10086
+    name: KV-2 - 아이언 샤크
+    type: 2
+    group_id: 118
+    class_id: 3
+    code: Small_Missile_Launcher_1003
+    item_id: 133092
+    obtain: "40"
+    introduction: 전투 중 정밀 타격 제공, KV-2와 세팅된 아이언 샤크 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10087
+    name: KV-2 - 아이언 샤크
+    type: 2
+    group_id: 106
+    class_id: 3
+    code: Flame_Ejector_1003
+    item_id: 133093
+    obtain: "40"
+    introduction: 근거리 화염 방사, KV-2와 세팅된 아이언 샤크 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10088
+    name: KV-2 -설원 위장
+    type: 2
+    group_id: 105
+    class_id: 4
+    code: Searchlight_1004
+    item_id: 133094
+    obtain: "40"
+    introduction: 야간 시야 제공, KV-2와 세팅된 설원 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10089
+    name: KV-2 -설원 위장
+    type: 2
+    group_id: 141
+    class_id: 4
+    code: Protective_Generator_1004
+    item_id: 133095
+    obtain: "40"
+    introduction: 기동장갑에 방호 제공, KV-2와 세팅된 설원 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10090
+    name: KV-2 -설원 위장
+    type: 2
+    group_id: 118
+    class_id: 4
+    code: Small_Missile_Launcher_1004
+    item_id: 133096
+    obtain: "40"
+    introduction: 전투 중 정밀 타격 제공, KV-2와 세팅된 설원 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10091
+    name: KV-2 -설원 위장
+    type: 2
+    group_id: 106
+    class_id: 4
+    code: Flame_Ejector_1004
+    item_id: 133097
+    obtain: "40"
+    introduction: 근거리 화염 방사, KV-2와 세팅된 설원 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10092
+    name: 심판 - 필드 그레이
+    type: 2
+    group_id: 111
+    class_id: 5
+    code: Flak_Cannon_1005
+    item_id: 133098
+    obtain: "40"
+    introduction: 원거리 특화 캐논, 심판과 세팅된 필드 그레이 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10093
+    name: 심판 - 필드 그레이
+    type: 2
+    group_id: 117
+    class_id: 5
+    code: Smoke_Emitter_1005
+    item_id: 133099
+    obtain: "40"
+    introduction: 적을 방해하는 연막 생성, 심판과 세팅된 필드 그레이 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10094
+    name: 심판 - 범용
+    type: 2
+    group_id: 116
+    class_id: 5
+    code: Signal_Tower_1005
+    item_id: 133100
+    obtain: "40"
+    introduction: 아군 강화 지원 설비, 심판과 세팅된 모든 스타일로 도색。
+    is_show: 1
+  }
+  {
+    id: 10095
+    name: 심판 - 필드 그레이
+    type: 2
+    group_id: 107
+    class_id: 5
+    code: MG_Cannon_1005
+    item_id: 133101
+    obtain: "40"
+    introduction: 소구경 포탄 발사기, 심판과 세팅된 필드 그레이 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10096
+    name: 심판 - 필드 그레이
+    type: 2
+    group_id: 118
+    class_id: 5
+    code: Small_Missile_Launcher_1005
+    item_id: 133102
+    obtain: "40"
+    introduction: 전투 중 정밀 타격 제공, 심판과 세팅된 필드 그레이 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10097
+    name: 심판 - 범용
+    type: 2
+    group_id: 111
+    class_id: 6
+    code: Flak_Cannon_1006
+    item_id: 133103
+    obtain: "40"
+    introduction: 원거리 특화 캐논, 심판과 세팅된 위장 및 사막 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10098
+    name: 심판 - 설원 위장
+    type: 2
+    group_id: 117
+    class_id: 6
+    code: Smoke_Emitter_1006
+    item_id: 133104
+    obtain: "40"
+    introduction: 적을 방해하는 연막 생성, 심판과 세팅된 설원 위장으로 도색.
+    is_show: 1
+  }
+  {
+    id: 10099
+    name: 심판 - 설원 위장
+    type: 2
+    group_id: 107
+    class_id: 6
+    code: MG_Cannon_1006
+    item_id: 133105
+    obtain: "40"
+    introduction: 소구경 포탄 발사기, 심판과 세팅된 설원 위장으로 도색.
+    is_show: 1
+  }
+  {
+    id: 10100
+    name: 심판 - 설원 위장
+    type: 2
+    group_id: 118
+    class_id: 6
+    code: Small_Missile_Launcher_1006
+    item_id: 133106
+    obtain: "40"
+    introduction: 전투 중 정밀 타격 제공, 심판과 세팅된 설원 위장으로 도색.
+    is_show: 1
+  }
+  {
+    id: 10101
+    name: 심판 - 범용
+    type: 2
+    group_id: 117
+    class_id: 7
+    code: Smoke_Emitter_1007
+    item_id: 133107
+    obtain: "40"
+    introduction: 적을 방해하는 연막 생성, 심판과 세팅된 사막 및 정글 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10102
+    name: 심판 - 데저트 옐로우
+    type: 2
+    group_id: 107
+    class_id: 7
+    code: MG_Cannon_1007
+    item_id: 133108
+    obtain: "40"
+    introduction: 소구경 포탄 발사기, 심판과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10103
+    name: 심판 - 데저트 옐로우
+    type: 2
+    group_id: 118
+    class_id: 7
+    code: Small_Missile_Launcher_1007
+    item_id: 133109
+    obtain: "40"
+    introduction: 전투 중 정밀 타격 제공, 심판과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 10104
+    name: 심판 - 정글 위장
+    type: 2
+    group_id: 107
+    class_id: 8
+    code: MG_Cannon_1008
+    item_id: 133110
+    obtain: "40"
+    introduction: 소구경 포탄 발사기, 심판과 세팅된 정글 위장으로 도색.
+    is_show: 1
+  }
+  {
+    id: 10105
+    name: 심판 - 정글 위장
+    type: 2
+    group_id: 118
+    class_id: 8
+    code: Small_Missile_Launcher_1008
+    item_id: 133111
+    obtain: "40"
+    introduction: 전투 중 정밀 타격 제공, 심판과 세팅된 정글 위장으로 도색.
+    is_show: 1
+  }
+  {
+    id: 11100
+    name: 기린 도면
+    type: 1
+    vehicle_id: "1"
+    class_id: 11
+    code: TankM1_1011
+    item_id: 133112
+    obtain: "40"
+    introduction: 우리는 적을 떨게 만드는 사자. 우리는 승리를 가져오는 기린.
+    is_show: 1
+  }
+  {
+    id: 11101
+    name: 기린
+    type: 2
+    group_id: 108
+    class_id: 11
+    code: GrenadeComponent_1011
+    item_id: 133113
+    obtain: "40"
+    introduction: 기린 세트의 유탄발사기, 상황 대응에 유연한 다목적 발사기
+    is_show: 1
+  }
+  {
+    id: 11102
+    name: 기린
+    type: 2
+    group_id: 117
+    class_id: 11
+    code: Smoke_Emitter_1011
+    item_id: 133114
+    obtain: "40"
+    introduction: 기린 세트의 연막발사기, 적을 방해하는 연막 생성。
+    is_show: 1
+  }
+  {
+    id: 11103
+    name: 기린
+    type: 2
+    group_id: 143
+    class_id: 11
+    code: LaserSup_1011
+    item_id: 133115
+    obtain: "40"
+    introduction: 기린 세트의 레이저 제압 장치, 적의 조준 설비를 교란。
+    is_show: 1
+  }
+  {
+    id: 11104
+    name: 기린
+    type: 2
+    group_id: 118
+    class_id: 11
+    code: Small_Missile_Launcher_1011
+    item_id: 133116
+    obtain: "40"
+    introduction: 기린 세트의 미사일 런처 MK1, 전투 중 정밀 타격 제공。
+    is_show: 1
+  }
+  {
+    id: 11105
+    name: 기린
+    type: 2
+    group_id: 107
+    class_id: 11
+    code: MG_Cannon_1011
+    item_id: 133117
+    obtain: "40"
+    introduction: 기린 세트의 기총포, 소구경 포탄 발사기.
+    is_show: 1
+  }
+]

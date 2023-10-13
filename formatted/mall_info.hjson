@@ -227,25 +227,6 @@
     classification_id: "5004"
   }
   {
-    id: "26"
-    type: "1"
-    sort: "13"
-    item_ids: 16-1
-    gemprice: "50"
-    discount: "1.00"
-    classification_id: "5004"
-  }
-  {
-    id: "27"
-    type: "1"
-    sort: "14"
-    item_ids: 16-10
-    gemprice: "380"
-    if_cheap: "1"
-    discount: "1.00"
-    classification_id: "5004"
-  }
-  {
     id: "28"
     type: "1"
     sort: "3"
@@ -898,7 +879,7 @@
     gift: 605-1
     gemprice: "1888"
     quota: "2001"
-    giftbag_name: PK - 당신과 함께
+    giftbag_name: 혼신을 담은 패키지
     event_code: dailyGiftbag
     icon: Bumdle_whiteValentine
     discount: "1.00"
@@ -944,7 +925,7 @@
     gemprice: "2888"
     original_price: "6620"
     quota: "2001"
-    giftbag_name: 혼신을 담은 패키지
+    giftbag_name: PK - 당신과 함께
     event_code: dailyGiftbag
     icon: Bumdle_ruby
     daily_quota: "50"
@@ -1021,7 +1002,7 @@
     gift: 807-1
     gemprice: "2588"
     quota: "2001"
-    giftbag_name: SR-3MP - 검은토끼 마키아또
+    giftbag_name: 작전 보급 패키지
     event_code: dailyGiftbag
     icon: Bumdle_1yearpackage
     discount: "1.00"
@@ -1035,7 +1016,7 @@
     gift: 803-1
     gemprice: "1888"
     quota: "2001"
-    giftbag_name: 모신-나강 - 달빛 바다
+    giftbag_name: 혼신을 담은 패키지
     event_code: dailyGiftbag
     icon: Bumdle_1yearpackage
     discount: "1.00"
@@ -1049,7 +1030,7 @@
     gift: 801-1
     gemprice: "1288"
     quota: "2001"
-    giftbag_name: 스콜피온 - 붉은 은하수
+    giftbag_name: 매일 특별선물 패키지
     event_code: dailyGiftbag
     icon: Bumdle_1yearpackage
     discount: "1.00"
@@ -1064,7 +1045,7 @@
     gemprice: "128"
     original_price: "290"
     quota: "2001"
-    giftbag_name: 작전보급 패키지
+    giftbag_name: SR-3MP - 검은토끼 마키아또
     event_code: dailyGiftbag
     icon: Bumdle_indigo
     daily_quota: "10"
@@ -1082,7 +1063,7 @@
     gemprice: "2888"
     original_price: "6620"
     quota: "2001"
-    giftbag_name: 혼신을 담은 패키지
+    giftbag_name: 모신나강 - 달빛 바다
     event_code: dailyGiftbag
     icon: Bumdle_ruby
     daily_quota: "50"
@@ -1095,7 +1076,7 @@
     item_ids: 2-5,9-20
     gemprice: "188"
     quota: "2001"
-    giftbag_name: 매일 특별선물 패키지
+    giftbag_name: 스콜피온 - 붉은 은하수
     event_code: dailyGiftbag
     icon: Bumdle_indigo
     daily_quota: "5"
@@ -1175,7 +1156,7 @@
     gift: 1102-1
     gemprice: "2468"
     quota: "2001"
-    giftbag_name: 95식 - 여름의 풍류
+    giftbag_name: 작전보급 패키지
     event_code: dailyGiftbag
     icon: Bumdle_black
     discount: "1.00"
@@ -1189,7 +1170,7 @@
     gift: 1108-1
     gemprice: "1888"
     quota: "2001"
-    giftbag_name: WA2000 - 모불라 작전
+    giftbag_name: mall-10000170
     event_code: dailyGiftbag
     icon: Bumdle_black
     discount: "1.00"
@@ -1217,7 +1198,7 @@
     gift: 1101-1
     gemprice: "1388"
     quota: "2001"
-    giftbag_name: NTW-20 - 무더위 속 임무
+    giftbag_name: mall-10000172
     event_code: dailyGiftbag
     icon: Bumdle_black
     discount: "1.00"
@@ -33387,6 +33368,461 @@
     classification_id: "3002"
   }
   {
+    id: "11537"
+    type: "88"
+    item_ids: 133071-1
+    gemprice: "320"
+    original_price: "400"
+    quota: "2001"
+    giftbag_name: KV-2 아이언 샤크 - 주력탱크 장갑 도면
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11538"
+    type: "88"
+    item_ids: 133090-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: KV-2 아이언 샤크 - 차량 야시경
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11539"
+    type: "88"
+    item_ids: 133091-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: KV-2 아이언 샤크 - 자동방호 시스템
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11540"
+    type: "88"
+    item_ids: 133092-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: KV-2 아이언 샤크 - 미사일 런처MK1
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11541"
+    type: "88"
+    item_ids: 133093-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: KV-2 아이언 샤크 - 화염방사기
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11542"
+    type: "88"
+    item_ids: 133072-1
+    gemprice: "320"
+    original_price: "400"
+    quota: "2001"
+    giftbag_name: KV-2 설원 위장 - 주력탱크 장갑 도면
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11543"
+    type: "88"
+    item_ids: 133094-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: KV-2 설원 위장 - 차량 야시경
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11544"
+    type: "88"
+    item_ids: 133095-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: KV-2 설원 위장 - 자동방호 시스템
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11545"
+    type: "88"
+    item_ids: 133096-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: KV-2 설원 위장 - 미사일 런처MK1
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11546"
+    type: "88"
+    item_ids: 133097-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: KV-2 설원 위장 - 화염방사기
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11547"
+    type: "88"
+    item_ids: 133089-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: KV-2 범용-범용 기관총 MK-I
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11548"
+    type: "88"
+    item_ids: 133073-1
+    gemprice: "320"
+    original_price: "400"
+    quota: "2001"
+    giftbag_name: 심판-필드 그레이 - 주력탱크 장갑 도면
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11549"
+    type: "88"
+    item_ids: 133098-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: 심판-필드 그레이 - 고사 캐논
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11550"
+    type: "88"
+    item_ids: 133099-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: 심판-필드 그레이 - 연막 발사기
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11551"
+    type: "88"
+    item_ids: 133101-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: 심판-필드 그레이 - 기총포
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11552"
+    type: "88"
+    item_ids: 133102-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: 심판-필드 그레이 - 미사일 런처MK1
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11553"
+    type: "88"
+    item_ids: 133074-1
+    gemprice: "320"
+    original_price: "400"
+    quota: "2001"
+    giftbag_name: 심판-설원 위장 - 주력탱크 장갑 도면
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11554"
+    type: "88"
+    item_ids: 133104-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: 심판-설원 위장 - 연막 발사기
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11555"
+    type: "88"
+    item_ids: 133105-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: 심판-설원 위장 - 기총포
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11556"
+    type: "88"
+    item_ids: 133106-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: 심판-설원 위장 - 미사일 런처MK1
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11557"
+    type: "88"
+    item_ids: 133075-1
+    gemprice: "320"
+    original_price: "400"
+    quota: "2001"
+    giftbag_name: 심판-데저트 옐로우 - 주력탱크 장갑 도면
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11558"
+    type: "88"
+    item_ids: 133108-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: 심판-데저트 옐로우 - 기총포
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11559"
+    type: "88"
+    item_ids: 133109-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: 심판-데저트 옐로우 - 미사일 런처MK1
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11560"
+    type: "88"
+    item_ids: 133076-1
+    gemprice: "320"
+    original_price: "400"
+    quota: "2001"
+    giftbag_name: 심판-정글 위장 - 주력탱크 장갑 도면
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11561"
+    type: "88"
+    item_ids: 133110-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: 심판-정글 위장 - 기총포
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11562"
+    type: "88"
+    item_ids: 133111-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: 심판-정글 위장 - 미사일 런처MK1
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11563"
+    type: "88"
+    item_ids: 133100-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: 심판-범용-신호탑
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11564"
+    type: "88"
+    item_ids: 133103-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: 심판-범용-고사 캐논
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11565"
+    type: "88"
+    item_ids: 133107-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: 심판-범용-연막 발사기
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11566"
+    type: "88"
+    item_ids: 133077-1
+    gemprice: "320"
+    original_price: "400"
+    quota: "2001"
+    giftbag_name: TCW48-A3 클로 - 전술인형기갑 장갑 도면
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11567"
+    type: "88"
+    item_ids: 133078-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: TCW48-A3 클로 - 화염방사기
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11568"
+    type: "88"
+    item_ids: 133079-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: TCW48-A3 클로 - 다총열 기관총
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11569"
+    type: "88"
+    item_ids: 133080-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: TCW48-A3 클로 - 기총포
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11570"
+    type: "88"
+    item_ids: 133081-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: TCW48-A3 클로 - 레이저 제압 장치
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
+    id: "11571"
+    type: "88"
+    item_ids: 133082-1
+    gemprice: "128"
+    original_price: "160"
+    quota: "2001"
+    giftbag_name: TCW48-A3 클로 - 교란기
+    event_code: dailyGiftbag
+    discount: "1.00"
+    on_sale_days: "28"
+    classification_id: "8000"
+  }
+  {
     id: "11572"
     type: "8"
     item_ids: 7-1,41-100
@@ -33394,7 +33830,7 @@
     gemprice: "2588"
     if_cheap: "1"
     quota: "2001"
-    giftbag_name: QBU-191 - 싱잉 포 유
+    giftbag_name: QBU-191 - 싱잉 포유
     event_code: dailyGiftbag
     icon: Bumdle_newskin04
     discount: "1.00"
