@@ -1229,4 +1229,8 @@
     obtain_id: 3099
     description: 기간한정 이벤트 <퍼미션 리로딩> 재화 상점 교환
   }
+  {
+    obtain_id: 3100
+    description: 특별 구출 작전G
+  }
 ]

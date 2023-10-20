@@ -13392,6 +13392,24 @@
     rank: 1
   }
   {
+    id: 2373
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M327
+    item_name: 카드배경: 봄 언덕 술래잡기
+    introduction: 카드배경: 봄 언덕 술래잡기
+    rank: 1
+  }
+  {
+    id: 2374
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M327
+    item_name: M327 - 귀요미 특훈사
+    introduction: M327 - 귀요미 특훈사
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -18373,6 +18391,22 @@
     rank: 1
   }
   {
+    id: 140025
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *유탄포수
+    rank: 1
+  }
+  {
+    id: 140026
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *유탄포수
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -18664,6 +18698,15 @@
     rank: 1
   }
   {
+    id: 200032
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M327
+    item_name: 액자·프리 스마일!
+    introduction: 액자·프리 스마일!
+    rank: 1
+  }
+  {
     id: 900030
     type: 4
     arg: "100030"
@@ -18795,7 +18838,7 @@
     arg: "1500009"
     code: package_choose
     item_name: 기초 장비 자유선택 코드
-    introduction: 개봉 시 해당 코드 안의 장비를 하나 선택해 얻을 수 있습니다.
+    introduction: 개봉 시 리스트 중 한 가지 장비를 지정해서 획득합니다.
     rank: 1
     sort: -1
   }
@@ -18804,8 +18847,8 @@
     type: 15
     arg: "1500010"
     code: package_choose
-    item_name: 부속 장비 자유선택 코드
-    introduction: 개봉 시 해당 코드 안의 장비를 하나 선택해 얻을 수 있습니다.
+    item_name: 부속 장비 선택 코드
+    introduction: 지정 범위에서 원하는 부속 유형 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
   }
@@ -19748,6 +19791,46 @@
     sort: -1
   }
   {
+    id: 1500099
+    type: 15
+    arg: "1500099"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약-아침 공원 산책 보상, 지정 범위에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500100
+    type: 15
+    arg: "1500100"
+    code: package_choose
+    item_name: 부속 장비 선택 코드
+    introduction: 전선협약-아침 공원 산책 보상, 지정 범위에서 원하는 부속 유형 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500101
+    type: 15
+    arg: "1500101"
+    code: package_random
+    item_name: 미해금 인형 확정 코드
+    introduction: 전선협약-아침 공원 산책 보상, 목록 중 도감을 해금하지 않은 인형을 하나 확정으로 획득합니다. 전부 해금한 경우 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500102
+    type: 15
+    arg: "1500102"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-아침 공원 산책 보상, 목록 중 무작위 한 가지 보상을 얻습니다.
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -19798,6 +19881,36 @@
     id: 1700003
     type: 15
     arg: "1700003"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700004
+    type: 15
+    arg: "1700004"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700005
+    type: 15
+    arg: "1700005"
+    code: package_choose
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700006
+    type: 15
+    arg: "1700006"
     code: package_choose
     item_name: 고등 전용장비 선택 코드
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.

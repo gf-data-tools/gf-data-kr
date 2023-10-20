@@ -162,28 +162,28 @@
   }
   {
     id: 3005
-    name: 엘리트 저격
+    name: 엘리트 타격
     type: 2
     skill_id: 220167
     group: 3
   }
   {
     id: 3006
-    name: 조합 지원
+    name: 콤보 서포트
     type: 2
     skill_id: 220185
     group: 3
   }
   {
     id: 4001
-    name: 경화기 장갑
+    name: 경화기 보호막
     type: 2
     skill_id: 770090
     group: 4
   }
   {
     id: 4002
-    name: 중화길 장갑
+    name: 중화기 보호막
     type: 2
     skill_id: 770091
     group: 4

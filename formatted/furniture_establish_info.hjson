@@ -4911,9 +4911,9 @@
   }
   {
     establish_id: "100600"
-    establish_name: 기동장갑 바닥
+    establish_name: 기동장갑 플랫폼
     room_id: "10"
-    description: 기동장갑 바닥
+    description: 기동장갑 플랫폼
     furniture_id: "410010"
     update_furniture_id: "410010"
     furniture_postion: "9,0"
