@@ -53,7 +53,7 @@ fight_environment_skill-20000718,3초마다 앞열의 아군 인형의 회피와
 fight_environment_skill-10000719,결사저항
 fight_environment_skill-20000719,15초마다 적이 잃은 체력 10%만큼의 보호막을 생성한다//c 지속시간 6초
 fight_environment_skill-10000720,강철과녁
-fight_environment_skill-20000720,10초마다 편제당 체력 1000의 5편제 과녁기를 소환한다.
+fight_environment_skill-20000720,10초마다 최대체력 1000인 5편제 과녁기를 소환한다.
 fight_environment_skill-10000721,양면공세
 fight_environment_skill-20000721,6초마다 아군 제대 전방에 적을 하나 소환한다
 fight_environment_skill-10000722,샘솟는 용기
@@ -355,7 +355,7 @@ fight_environment_skill-32022601,전투 중 8초마다 체력이 가장 낮은 �
 fight_environment_skill-22022701,보호막 해제
 fight_environment_skill-32022701,전투 중 10초마다 적의 보호막을 완전 해제한다.
 fight_environment_skill-22022801,협동 도발
-fight_environment_skill-32022801,전투 개시 시 편제당 체력 1000인 5편제 과녁기를 하나 소환한다.
+fight_environment_skill-32022801,전투 시작 시 최대체력 1000인 5편제 과녁기를 소환한다.
 fight_environment_skill-22022901,마비 꽃가루
 fight_environment_skill-32022901,전투 개시 시 모든 적을 4초 마비시킨다.
 fight_environment_skill-22023001,철갑의 힘
@@ -376,3 +376,4 @@ fight_environment_skill-10230902,강습의 땅
 fight_environment_skill-20230902,전투 시작 시 모든 적의 받는 피해 20% 증폭.//n<color=#CF8000>1턴간 유효함</color>
 fight_environment_skill-10230903,융단 엄호
 fight_environment_skill-20230903,전투 중 5초마다 모든 적에게 3000피해와 1000 파쇄를 준다.//n<color=#CF8000>1턴간 유효함</color>
+fight_environment_skill-10230901,개막 동결fight_environment_skill-20230901,전투 시작 시//c 모든 적을 5초 기절시킨다.//n<color=#CF8000>효과 1턴간 유지</color>fight_environment_skill-10230902,강습의 땅fight_environment_skill-20230902,전투 시작 시//c 모든 적에게 받는 피해 20% 증폭을 부여한다.//n<color=#CF8000>효과 1턴간 유지</color>fight_environment_skill-10230903,융단 엄호fight_environment_skill-20230903,전투 중 5초마다 모든 적에게 3000 피해와 1000 파쇄를 준다.//n<color=#CF8000>효과 1턴간 유지</color>

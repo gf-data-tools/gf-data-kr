@@ -112,7 +112,7 @@
   {
     id: 13
     name: 404 커스텀 UMP45
-    des: 404소대 커스텀 UMP9 전용 세트. 기존 성능에서 소닉붐의 영향을 대폭 감소했습니다.
+    des: 404소대 커스텀 제작 UMP45 전용세트. UMP45의 작전능력을 대폭 상승시킨다.
     code: EgroupUMP45
     equip_unit: "92,358,125"
     group_skill: 3:759092
@@ -121,7 +121,7 @@
   {
     id: 14
     name: 404 커스텀 UMP9
-    des: 404소대 커스텀 UMP9 전용 세트. UMP9의 작전능력을 크게 올릴 수 있습니다.
+    des: 404소대 커스텀 제작 UMP9 전용세트. UMP9의 작전능력을 대폭 상승시킨다.
     code: EgroupUMP9
     equip_unit: "92,359,156"
     group_skill: 3:759093

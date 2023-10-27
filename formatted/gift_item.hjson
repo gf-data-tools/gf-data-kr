@@ -9580,6 +9580,104 @@
     normal_description: 선물 시 호감도 획득
   }
   {
+    id: 8801
+    name: 콜트 파이슨 - 그레이브 레이더
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 4
+    skin: 8801
+    poster: 38801
+    code: gift_bundle_Halloween2023_Python
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 8802
+    name: NZ75 - 블러드문워커
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 126
+    skin: 8802
+    poster: 38802
+    code: gift_bundle_Halloween2023_NZ75
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 8803
+    name: 스털링 - 투시(자화상)
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 359
+    skin: 8803
+    poster: 38803
+    code: gift_bundle_Halloween2023_Sterling
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 8804
+    name: 100식 - 사탕 대풍년 작전!
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 228
+    skin: 8804
+    poster: 38804
+    code: gift_bundle_Halloween2023_Type100
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 8805
+    name: 스테츠킨 - 마녀의 물약 세일 중
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 7
+    skin: 8805
+    poster: 38805
+    code: gift_bundle_Halloween2023_APS
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 8806
+    name: 4식 - 마법사의 구상세계
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 270
+    skin: 8806
+    poster: 38806
+    code: gift_bundle_Halloween2023_4type
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 8807
+    name: 마이크로 우지 - 까마귀 울적에
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 32
+    skin: 8807
+    poster: 38807
+    code: gift_bundle_Halloween2023_MicroUZI
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     type: 2

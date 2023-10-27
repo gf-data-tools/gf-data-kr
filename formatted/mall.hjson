@@ -34195,6 +34195,282 @@
     classification_id: 1007
   }
   {
+    id: 11601
+    type: 8
+    item_ids: 7-1,41-50
+    gift: 8805-1
+    gemprice: 1888
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 스테츠킨 - 마녀의 물약 세일 중
+    event_code: dailyGiftbag
+    icon: Bumdle_halloween
+    discount: 1
+    classification_id: 3003
+  }
+  {
+    id: 11602
+    type: 8
+    item_ids: 605-10,515-1000
+    gemprice: 1120
+    quota: 2003
+    giftbag_name: 혼합세력 지정보급
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 11603
+    type: 8
+    item_ids: 7-1,506-1000,8-1
+    gift: 100003-10
+    gemprice: 580
+    quota: 2002
+    giftbag_name: 11월 특별 패키지
+    event_code: dailyGiftbag
+    icon: Bumdle_package
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 11604
+    type: 8
+    item_ids: 506-100,605-1,516-200
+    gemprice: 158
+    quota: 2001
+    giftbag_name: 11월 일일 패키지
+    event_code: dailyGiftbag
+    icon: Bumdle_navy
+    daily_quota: 1
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 11605
+    type: 9
+    item_ids: 2383-1
+    gemprice: 3200
+    original_price: 8000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 카드배경: 레드셔츠의 경례
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11606
+    type: 9
+    item_ids: 1079-1
+    gemprice: 1600
+    original_price: 4000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 카드배경: Dragoon
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11607
+    type: 9
+    item_ids: 1080-1
+    gemprice: 4000
+    original_price: 10000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 카드배경: Sangvis Ferri
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11608
+    type: 9
+    item_ids: 2382-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 리엔필드 아이콘
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11609
+    type: 9
+    item_ids: 1237-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 아이콘: 재회
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11610
+    type: 9
+    item_ids: 1261-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 아이콘: 부활절 토끼
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11611
+    type: 9
+    item_ids: 200033-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 액자：용기의 훈장
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11612
+    type: 9
+    item_ids: 10604-1
+    gemprice: 2000
+    quota: 2001
+    giftbag_name: 초전도 펄스
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11613
+    type: 9
+    gift: 100003-1
+    gemprice: 150
+    quota: 2003
+    giftbag_name: 딸기치즈케익
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11614
+    type: 9
+    gift: 100002-1
+    gemprice: 60
+    quota: 2003
+    giftbag_name: 소프트콘
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11615
+    type: 9
+    gift: 100001-1
+    gemprice: 30
+    quota: 2003
+    giftbag_name: 막대사탕
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 11616
+    type: 88
+    item_ids: 133124-1
+    gemprice: 320
+    original_price: 400
+    quota: 2001
+    giftbag_name: AA-02M 리디머 - 전술인형기갑 도면
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11617
+    type: 88
+    item_ids: 133125-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: AA-02M 리디머 - 미사일 런처MK1
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11618
+    type: 88
+    item_ids: 133126-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: AA-02M 리디머 - 범용 기관총MK-I
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11619
+    type: 88
+    item_ids: 133127-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: AA-02M 리디머 - 기총포
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11620
+    type: 88
+    item_ids: 133128-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: AA-02M 리디머 - 보호막 생성기
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
+    id: 11621
+    type: 88
+    item_ids: 133129-1
+    gemprice: 128
+    original_price: 160
+    quota: 2001
+    giftbag_name: AA-02M 리디머 - 신호탑
+    event_code: dailyGiftbag
+    discount: 1
+    on_sale_days: 28
+    classification_id: 8000
+  }
+  {
     id: 30001
     type: 8
     gift: 8611-1

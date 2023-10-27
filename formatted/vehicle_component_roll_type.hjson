@@ -127,7 +127,7 @@
   }
   {
     id: 2006
-    name: 조합 지원
+    name: 콤보 서포트
     type: 2
     skill_id: 770113
     group: 2
@@ -246,7 +246,7 @@
   }
   {
     id: 5002
-    name: 페러데우스 증폭
+    name: 패러데우스 증폭
     type: 2
     skill_id: 770039
     group: 5
@@ -302,7 +302,7 @@
   }
   {
     id: 6003
-    name: 랜덤 약화
+    name: 무작위 약화
     type: 2
     skill_id: 770026
     group: 6

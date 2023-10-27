@@ -1377,7 +1377,7 @@
   }
   {
     id: 309
-    name: 번뜩이는 송곳니
+    name: 辉之牙
     action_order: "103,102"
     action_delay: "60,178"
     action_playspeed: "100,100"
@@ -1411,7 +1411,7 @@
   }
   {
     id: 311
-    name: 꽃피는 지옥
+    name: 恶毒绽放
     action_order: "102"
     action_playspeed: "100"
     creation_order: "408,435,471,472,473,474,475,476,477,478,479,486"
@@ -1426,7 +1426,7 @@
   }
   {
     id: 312
-    name: 브뤼메르의 처형식
+    name: 雾月处刑
     action_order: "103,102"
     action_delay: "0,136"
     action_playspeed: "100,100"
@@ -1486,7 +1486,7 @@
   }
   {
     id: 317
-    name: 제누와즈
+    name: 压轴甜点
     action_order: "102,103"
     action_delay: "0,150"
     action_playspeed: "100,100"
@@ -5630,7 +5630,7 @@
   }
   {
     id: 1614
-    name: 战区번뜩이는 송곳니
+    name: 战区辉之牙
     action_order: "103,102"
     action_delay: "60,178"
     action_playspeed: "100,100"
@@ -9274,7 +9274,7 @@
   }
   {
     id: 3037
-    name: 번뜩이는 송곳니
+    name: 辉之牙
     action_order: "103,102"
     action_delay: "60,178"
     action_playspeed: "100,100"
@@ -9376,7 +9376,7 @@
   }
   {
     id: 3048
-    name: 꽃피는 지옥
+    name: 恶毒绽放
     action_order: "102"
     action_playspeed: "100"
     creation_order: "408,435,471,472,473,474,475,476,477,478,479,3085"
@@ -24247,6 +24247,33 @@
     action_playspeed: "100"
     creation_order: "9488"
     creation_delay: "8"
+  }
+  {
+    id: 8850
+    name: rpg29攻击
+    creation_order: "948501,9495"
+    creation_delay: "0,0"
+    sound_order: BT_squad_howitzer,BT_squad_howitzer,BT_squad_howitzer
+    sound_delay: "0,13,26"
+  }
+  {
+    id: 8851
+    name: rpg29特殊导弹攻击
+    creation_order: "9490,9495"
+    creation_delay: "0,0"
+    sound_order: BT_squad_howitzer,BT_squad_howitzer,BT_squad_howitzer
+    sound_delay: "0,13,26"
+  }
+  {
+    id: 8852
+    name: rpg29cutIn
+    action_order: wait,attack
+    action_delay: "0,5"
+    action_playspeed: "100,100"
+    creation_order: "9489"
+    creation_delay: "15"
+    sound_order: BT_squad_howitzer,BT_squad_howitzer,BT_squad_howitzer,BT_squad_howitzer,BT_squad_howitzer,BT_squad_howitzer,BT_squad_howitzer
+    sound_delay: "11,14,17,20,23,26,29,32"
   }
   {
     id: 9001

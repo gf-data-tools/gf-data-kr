@@ -1235,4 +1235,76 @@
     introduction: 기린 세트의 기총포, 소구경 포탄 발사기.
     is_show: 1
   }
+  {
+    id: 11300
+    name: AA-02M 리디머 도면
+    type: 1
+    vehicle_id: "2"
+    class_id: 13
+    code: Warjack_1013
+    item_id: 133124
+    obtain: "40"
+    introduction: 늑대무리 출동!
+    is_show: 1
+  }
+  {
+    id: 11301
+    name: AA-02M 리디머
+    type: 2
+    group_id: 118
+    class_id: 13
+    code: Small_Missile_Launcher_1013
+    item_id: 133125
+    obtain: "40"
+    introduction: AA-02M과 세팅된 소형 미사일 런처, 전투 중 정밀 타격 제공.
+    is_show: 1
+  }
+  {
+    id: 11302
+    name: AA-02M 리디머
+    type: 2
+    group_id: 101
+    class_id: 13
+    code: MG_Single_1013
+    item_id: 133126
+    obtain: "40"
+    introduction: AA-02M과 세팅된 범용 기관총, 스텐다드 옵션.
+    is_show: 1
+  }
+  {
+    id: 11303
+    name: AA-02M 리디머
+    type: 2
+    group_id: 107
+    class_id: 13
+    code: MG_Cannon_1013
+    item_id: 133127
+    obtain: "40"
+    introduction: AA-02M과 세팅된 기총포, 소구경 포탄 발사기.
+    is_show: 1
+  }
+  {
+    id: 11304
+    name: AA-02M 리디머
+    type: 2
+    group_id: 124
+    class_id: 13
+    code: AutoDef_1013
+    item_id: 133128
+    obtain: "40"
+    introduction: AA-02M과 세팅된 보호막 생성기, AA-02에게 방호를 제공한다.
+    is_show: 1
+  }
+  {
+    id: 11305
+    name: AA-02M 리디머
+    type: 2
+    group_id: 116
+    class_id: 13
+    code: Signal_Tower_1013
+    item_id: 133129
+    obtain: "40"
+    introduction: AA-02M과 세팅된 신호탑, 아군 강화 지원 설비.
+    is_show: 1
+  }
 ]

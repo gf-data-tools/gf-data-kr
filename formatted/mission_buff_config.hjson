@@ -1341,7 +1341,7 @@
     id: 482001
     name: 가속
     description: 추가 행동 가능
-    code: speedup
+    code: SpeedUp
     type: 1
     duration_type: "1"
     duration_time: "99"

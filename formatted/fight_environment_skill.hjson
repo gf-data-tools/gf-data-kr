@@ -217,7 +217,7 @@
   {
     id: 720
     name: 강철과녁
-    desc: 10초마다 편제당 체력 1000의 5편제 과녁기를 소환한다.
+    desc: 10초마다 최대체력 1000인 5편제 과녁기를 소환한다.
     if_display: 1
     code: fight_skill_hurt103
     skill_group: "990017"
@@ -535,8 +535,8 @@
     name: 개막 동결
     desc:
       '''
-      전투 시작 시 모든 적을 5초간 기절시킨다.
-      <color=#CF8000>1턴간 유효함</color>
+      전투 시작 시, 모든 적을 5초 기절시킨다.
+      <color=#CF8000>효과 1턴간 유지</color>
       '''
     if_display: 1
     code: assess202309fightskill_1
@@ -547,8 +547,8 @@
     name: 강습의 땅
     desc:
       '''
-      전투 시작 시 모든 적의 받는 피해 20% 증폭.
-      <color=#CF8000>1턴간 유효함</color>
+      전투 시작 시, 모든 적에게 받는 피해 20% 증폭을 부여한다.
+      <color=#CF8000>효과 1턴간 유지</color>
       '''
     if_display: 1
     code: assess202309fightskill_2
@@ -559,8 +559,8 @@
     name: 융단 엄호
     desc:
       '''
-      전투 중 5초마다 모든 적에게 3000피해와 1000 파쇄를 준다.
-      <color=#CF8000>1턴간 유효함</color>
+      전투 중 5초마다 모든 적에게 3000 피해와 1000 파쇄를 준다.
+      <color=#CF8000>효과 1턴간 유지</color>
       '''
     if_display: 1
     code: assess202309fightskill_3
@@ -1465,7 +1465,7 @@
   {
     id: 12022801
     name: 협동 도발
-    desc: 전투 개시 시 편제당 체력 1000인 5편제 과녁기를 하나 소환한다.
+    desc: 전투 시작 시 최대체력 1000인 5편제 과녁기를 소환한다.
     if_display: 1
     code: daily_game_28
     skill_group: "120228"

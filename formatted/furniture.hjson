@@ -39437,6 +39437,111 @@
     rotate: "3"
   }
   {
+    id: 38801
+    name: 콜트 파이슨 - 그레이브 레이더
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 콜트 파이슨의 포스터
+    code: poster_Halloween2023_Python
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38802
+    name: NZ75 - 블러드문워커
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: NZ75의 포스터
+    code: poster_Halloween2023_NZ75
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38803
+    name: 스털링 - 투시(자화상)
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 스털링의 포스터
+    code: poster_Halloween2023_Sterling
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38804
+    name: 100식 - 사탕 대풍년 작전!
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 100식의 포스터
+    code: poster_Halloween2023_Type100
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38805
+    name: 스테츠킨 - 마녀의 물약 세일 중
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 스테츠킨의 포스터
+    code: poster_Halloween2023_APS
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38806
+    name: 4식 - 마법사의 구상세계
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 4식의 포스터
+    code: poster_Halloween2023_4type
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38807
+    name: 마이크로 우지 - 까마귀 울적에
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 마이크로 우지의 포스터
+    code: poster_Halloween2023_MicroUZI
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 40001
     name: 구호소벽지
     classes: 400
