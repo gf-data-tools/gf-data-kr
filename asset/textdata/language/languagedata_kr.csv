@@ -1032,6 +1032,7 @@ BATTLE,10205,공속 상한,,0
 BATTLE,10206,이 유닛은 드래그 조작할 수 없습니다.,,0
 BATTLE,10207,쿨타임: 없음,,0
 BATTLE,10208,초기 쿨타임: 없음,,0
+BATTLE,10209,模拟作战扫荡奖励详情(todo),,0
 CARNIVAL,11000,진행도,,0
 CARNIVAL,11001,보상수령,,0
 CARNIVAL,11002,GETREWARD,,0
@@ -1758,6 +1759,7 @@ DEPLOYMENT,30554,제대 조달,,0
 DEPLOYMENT,30555,전장에 배치할 수 없는 제대가 존재해 자동 철수했습니다.,,0
 DEPLOYMENT,30556,출격 유닛을 최소 하나 선택하세요,,0
 DEPLOYMENT,30557,작전 중 기갑 편성을 편집할 수 없으며 꾹 눌러 상세정보만 확인 가능합니다.,,0
+DEPLOYMENT,30558,可用能源(todo),,0
 DORM,31000,수납고,,0
 DORM,31001,Warehouse,,0
 DORM,31002,구매,,0
@@ -2323,6 +2325,11 @@ DORM,31978,이 기동장갑 세팅이 재밌다 생각해 쪽지를 남겨 칭�
 DORM,31979,상호작용,,0
 DORM,31980,방문 정보,,0
 DORM,31981,격납고 방문 허용,,0
+DORM,31982,仅显示收藏角色(todo),,0
+DORM,31983,搜索角色名(todo),,0
+DORM,31984,收藏成功(todo),,0
+DORM,31985,取消收藏成功(todo),,0
+DORM,31986,当前未标记任何角色(todo),,0
 FACTORY,32000,개시,,0
 FACTORY,32001,제조완료,,0
 FACTORY,32002,인형제조,,0
@@ -2930,6 +2937,7 @@ ILLUSTRATEDBOOK,35199,추억회상 기능이 잠겨 있습니다. 우선 해당 
 ILLUSTRATEDBOOK,35205,기동장갑 파츠,,0
 ILLUSTRATEDBOOK,35206,기동장갑,,0
 ILLUSTRATEDBOOK,35207,기동장갑 외관,,0
+ILLUSTRATEDBOOK,35208,查找(todo),,0
 LOGIN,36000,암호분실,,0
 LOGIN,36001,고객센터,,0
 LOGIN,36002,이용약관,,0
@@ -3684,6 +3692,9 @@ MISSIONSELECTION,40486,추가혼합점수 {0}점//c 기초혼합점수 {1}점을
 MISSIONSELECTION,40487,기초혼합점수 {0}점을 소모해 전역을 {1}회 실행하겠습니까?,,0
 MISSIONSELECTION,40488,소탕을 {0}회 완료하여 다음 보상을 얻었습니다.,,0
 MISSIONSELECTION,40489,지원 상한에 도달하여 추가할 수 없습니다.,,0
+MISSIONSELECTION,40490,生命值(todo),,0
+MISSIONSELECTION,40491,升级还需{0}(todo),,0
+MISSIONSELECTION,40492,暂无技能(todo),,0
 REINFORCEMENT,50000,인형선택,,0
 REINFORCEMENT,50001,잠겨있음,,0
 REINFORCEMENT,50002,LOCKED,,0
@@ -3734,6 +3745,7 @@ REINFORCEMENT,50046,일괄수복:,,0
 REINFORCEMENT,50047,그리폰 인형,,0
 REINFORCEMENT,50048,혼합세력유닛,,0
 REINFORCEMENT,50049,일괄수복,,0
+REINFORCEMENT,50050,快捷选择修复对象：(todo),,0
 RESEARCH,51000,인형선택,,0
 RESEARCH,51001,훈련 중,,0
 RESEARCH,51002,남은시간,,0
@@ -3848,6 +3860,7 @@ RESEARCH,51111,현재 진화 경험치가 가득차 계속 훈련할 필요가 �
 RESEARCH,51112,기억파편은 인형회상을 처음 보거나 모의작전을 통해 얻을 수 있습니다,,0
 RESEARCH,51113,버프 상승,,0
 RESEARCH,51114,현재 진화 경험치가 진화에 필요한 수치를 크게 넘었습니다. 그래도 훈련하시겠습니까?,,0
+RESEARCH,51115,组件强化规则(todo),,0
 SETTING,52000,음향,,0
 SETTING,52001,Sound,,0
 SETTING,52002,게임,,0
@@ -4171,7 +4184,12 @@ EQUIP,54116,방치 중,,0
 EQUIP,54117,{0}건 장비,,0
 EQUIP,54118,전용 버프,,0
 EQUIP,54119,일반공격 강화,,0
-EQUIP,54120,적합 장비,,0
+EQUIP,54120,适配类型(todo),,0
+EQUIP,54121,{0}(改型)(todo),,0
+EQUIP,54122,爆伤(todo),,0
+EQUIP,54123,暴击概率(todo),,0
+EQUIP,54124,暴击伤害(todo),,0
+EQUIP,54125,夜视能力(todo),,0
 SEPCIALOPS,60000,큐브작전,,0
 SEPCIALOPS,60001,관련공지,,0
 SEPCIALOPS,60002,작전 중,,0
@@ -6586,6 +6604,10 @@ SQUAD,190304,*달성 후 획득,,0
 SQUAD,190305,소모 자원,,0
 SQUAD,190306,해금할 칩셋을 선택하세요,,0
 SQUAD,190307,원시 칩셋,,0
+SQUAD,190308,请选择需要满级的芯片(todo),,0
+SQUAD,190309,批量满级(todo),,0
+SQUAD,190310,一键满级(todo),,0
+SQUAD,190311,请选择需要满级的芯片(todo),,0
 TOAST,200000,진형 프리셋이 설정되었습니다,,0
 TOAST,200001,사용가능한 요정이 없습니다,,0
 TOAST,200002,전역을 {0}개 클리어 후 <color=#ffb400>요정</color>이 개방됩니다  현재 클리어 수 {1}/{2},,0
@@ -8387,6 +8409,8 @@ MINIGAME,280571,*권장 기동장갑 평점≥{0},,0
 MINIGAME,280572,계획모드 가동,,0
 MINIGAME,280573,계획모드가 가능한 지점이 없습니다.,,0
 MINIGAME,280574,선택한 지점만큼 자원이 충분하지 않습니다.,,0
+MINIGAME,280575,— 无 —(todo),,0
+MINIGAME,280576,需完成一次该挑战(todo),,0
 VEHICLE,290001,범용파츠,,0
 VEHICLE,290002,중화기,,0
 VEHICLE,290003,경화기,,0
@@ -8543,3 +8567,7 @@ VEHICLE,290153,프리셋 {0}의 세팅을 적용하겠습니까?,,0
 VEHICLE,290154,현재 기동장갑 세팅을 프리셋 {0}에 저장하겠습니까?,,0
 VEHICLE,290155,현재 동력이 부족해 전투를 계속할 수 없습니다.//n대리작전을 중지합니다.,,0
 VEHICLE,290156,쾌속수복계약이 부족해 대리작전을 중지했습니다.,,0
+VEHICLE,290157,当前装配无变更，无需保存(todo),,0
+VEHICLE,290158,词条冲突(todo),,0
+VEHICLE,290159,동력 비축,,0
+VEHICLE,290160,切换后会丢失当前预览外观，是否对当前预览项进行结算?(todo),,0

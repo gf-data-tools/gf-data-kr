@@ -45,7 +45,7 @@
     recommend_squad_tip: 만전
     recommend_squads: " 1,2,3,4,5,6,7"
     recommended_vehicles: "1,2"
-    recommended_vehicle_tip: 完整
+    recommended_vehicle_tip: 만전
     recommended_vehicles_effect: "30000"
     default_effects: RC_ndsj
     default_bg: "#802E3DFF"

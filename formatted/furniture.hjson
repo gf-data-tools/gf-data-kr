@@ -29312,6 +29312,20 @@
     rotate: "2"
   }
   {
+    id: 20111
+    name: 봄바람 부채
+    classes: 81
+    type: 302
+    space: "3,5,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 봄바람을 잔뜩 쐰 제비를 부채면에 담고, 소녀는 턱을 괴고서 다음 봄이 오기를 기대합니다.
+    code: 202395type_decoA
+    texture_type: "1"
+    offset: "0.000,0.679,0.000"
+    rotate: "2"
+  }
+  {
     id: 30001
     name: 마카로프 - 잭오랜턴
     classes: 300

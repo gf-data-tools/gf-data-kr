@@ -29851,7 +29851,7 @@
     name: 콜트 워커
     en_name: ColtWalker
     code: ColtWalker
-    extra: 一块二毛一斤,,
+    extra: 一块二毛一斤,Ishigami Shizuka,
     en_introduce:
       '''
       Type                       Revolver
@@ -29913,7 +29913,7 @@
     name: Erma
     en_name: Erma
     code: Erma
-    extra: 脆皮炸虾球,,
+    extra: 脆皮炸虾球,Hasegawa Ikumi,
     en_introduce:
       '''
       Type                       Submachine gun
@@ -29981,7 +29981,7 @@
     name: SCAR-H
     en_name: SCAR-H
     code: SCARH
-    extra: LIN+,,
+    extra: LIN+,Ishigami Shizuka,
     en_introduce:
       '''
       Type                        Rifle
@@ -30058,7 +30058,7 @@
     name: SCAR-L
     en_name: SCAR-L
     code: SCARL
-    extra: LIN+,,
+    extra: LIN+,Hasegawa Ikumi,
     en_introduce:
       '''
       Type                        Assault rifle
@@ -30135,7 +30135,7 @@
     name: P10C
     en_name: P10C
     code: P10C
-    extra: ニナハチ,,
+    extra: ニナハチ,Yanagisawa Hirone,
     en_introduce:
       '''
       Type                       Pistol
@@ -30193,7 +30193,7 @@
     name: APC9K
     en_name: APC9K
     code: APC9K
-    extra: 虚,,
+    extra: 虚,Yanagisawa Hirone,
     en_introduce:
       '''
       Type                       Submachine gun
@@ -30257,7 +30257,7 @@
     name: M110
     en_name: M110
     code: M110
-    extra: ちょこ庵,,
+    extra: ちょこ庵,Nagumo Nozomi,
     en_introduce:
       '''
       Type                       Rifle
@@ -30322,7 +30322,7 @@
     name: MSBS
     en_name: MSBS
     code: MSBS
-    extra: redflowers,,
+    extra: redflowers,Harusaki Non,
     en_introduce:
       '''
       Type                       Assault rifle
@@ -30389,7 +30389,7 @@
     name: VP9
     en_name: VP9
     code: VP9
-    extra: 大丈夫,,
+    extra: 大丈夫,Youmiya Hina,
     en_introduce:
       '''
       Type                       Semi-automatic pistol
