@@ -127,4 +127,22 @@
     group_skill: 3:759093
     fit_gun: "20101"
   }
+  {
+    id: 15
+    name: 미래 도약
+    des: 풀세트 장비를 착용한 한양조 88식은 현대 병기 기술에 대한 인식을 뒤집어 놓습니다.
+    code: Egroup88type
+    equip_unit: "221,158,365"
+    group_skill: 3:759276
+    fit_gun: "20095"
+  }
+  {
+    id: 16
+    name: 캔디캔
+    des: 풀세트 장비를 착용한 M1919A4는 아무도 얕볼 수 없는 무지막지한 폭발력을 발휘합니다.
+    code: EgroupM1919A4
+    equip_unit: "366,220,333"
+    group_skill: 3:759271
+    fit_gun: "20080"
+  }
 ]

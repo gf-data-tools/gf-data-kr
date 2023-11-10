@@ -12469,4 +12469,11 @@
     title: 재수 계시록
     start: -62-10
   }
+  {
+    id: 1251
+    mission_id: "11497"
+    campaign: -63
+    title: 비밀의 소용돌이plus
+    start: -63-tips
+  }
 ]

@@ -1992,8 +1992,8 @@
     armor_rank: 3
     speed_rank: 3
     range_rank: 1
-    counter: 주의! 접촉 전에 제대 화력이 충분한지 확인하세요! 능력이 부족할 경우 피해가는 것이 상책입니다.
-    character: "309,321"
+    counter: 이 유닛은 매우 높은 장갑과 근성을 지니고 있습니다. 계속 증원되는 골리앗도 주의하세요!
+    character: "1003,1005,334,321"
     enemy_skill: "21"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "100,100,1"
@@ -4238,6 +4238,27 @@
     enemy_skill: "108,109,110"
     launch_time: 2035-5-20 00:00:00
     org_id: 10603
+  }
+  {
+    id: 216
+    name: 드리머-미스트 글라이더
+    type: 1
+    code: Dreamer_Halloween
+    introduce: 드리머-미스트 글라이더는 야간 환경 특화로 개발된 전용모델입니다. 개량한 레이저 무기는 더 먼 거리에서 적의 후방을 관통타격할 수 있으며, 드리머 본인의 취향대로 제작한 악마뿔도 전투 중 교란 신호를 발산하여 아군을 맹목과 혼돈, 죽음을 뿌리는 검은 안개 속에 감춥니다. 그녀와 밤에 마주치지 않기를 바라는 것이 좋을 것입니다. 그녀의 절대 홈그라운드에서 어떤 사냥감도 살아남을 수 없으니.
+    forces: 1
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "1001,209"
+    enemy_skill: "70,97"
+    launch_time: 2035-5-20 00:00:00
+    org_id: 10604
   }
   {
     id: 100001

@@ -685,6 +685,15 @@
     rank: 1
   }
   {
+    id: 130
+    type: 3
+    arg: "31"
+    code: Medal_2020summer_re_rank
+    item_name: 어둠 쫓는 자 훈장
+    introduction: '''"이중난수" 랭킹 전역 "비밀의 소용돌이+에서 눈부신 성적을 얻은 지휘관에게 수여합니다. "어둠이 모든 별빛을 집어삼켰다. 이를 걷어내는 것은 오직 당신의 떠오르는 햇빛이다."'''
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -13554,6 +13563,33 @@
     rank: 1
   }
   {
+    id: 2384
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season13_1
+    item_name: 결단기모 · Code11: 틈새
+    introduction: 결단기모 · Code11: 틈새
+    rank: 1
+  }
+  {
+    id: 2385
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season13_2
+    item_name: 궤술기책 · Code11: 틈새
+    introduction: 궤술기책 · Code11: 틈새
+    rank: 1
+  }
+  {
+    id: 2386
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season13_3
+    item_name: 방략종횡 · Code11: 틈새
+    introduction: 방략종횡 · Code11: 틈새
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -14736,6 +14772,15 @@
     id: 10708
     type: 18
     arg: "10708"
+    code: daily_points
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
+    rank: 1
+  }
+  {
+    id: 10709
+    type: 18
+    arg: "10709"
     code: daily_points
     item_name: 회색지대 점수
     introduction: 회색지대 점수
@@ -17149,6 +17194,15 @@
     rank: 1
   }
   {
+    id: 110066
+    type: 4
+    arg: "110066"
+    code: EventPT8
+    item_name: 이벤트 점수
+    introduction: 이벤트 점수
+    rank: 1
+  }
+  {
     id: 120001
     type: 10
     arg: "1"
@@ -17218,6 +17272,15 @@
     code: FlightChessMap5_small
     item_name: 기묘한 경치
     introduction: 견고한 요새 배경-기묘한 경치
+    rank: 1
+  }
+  {
+    id: 121003
+    type: 1
+    arg: "1"
+    code: FlightChessMap6_small
+    item_name: 보물 항구
+    introduction: 쇠뿔 싸움 말판 배경-보물 항구
     rank: 1
   }
   {

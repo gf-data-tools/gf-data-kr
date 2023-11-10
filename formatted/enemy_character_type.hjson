@@ -2661,7 +2661,7 @@
   {
     id: 10107
     type: 2
-    name: enemy_character_type-20010107
+    name: 아라크네
     enemy_info: 大蜘蛛
     code: MechanicalSpiderM
     maxlife: 28000
@@ -2676,14 +2676,13 @@
     rate: 30
     def: 6000
     level: 30100
-    character: enemy_character_type-10010107
+    character: 엘리트,치명내성,거대,장갑,제조
     normal_attack: 120901
     passive_skill: "200303,120902,120904,740089,770042"
     effect_ratio: 1.41
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30010107
     enemy_illustration_id: 200
     tenacity: 30
     danger: 40
@@ -2691,7 +2690,7 @@
   {
     id: 10108
     type: 2
-    name: enemy_character_type-20010108
+    name: 아라크네 클론
     enemy_info: 小蜘蛛
     code: MechanicalSpiderS
     maxlife: 220
@@ -2706,19 +2705,18 @@
     rate: 50
     def: 99999
     level: 30100
-    character: enemy_character_type-10010108
+    character: 근접,고속,기교,장갑,약화
     normal_attack: 120905
     passive_skill: "200303,200304,770042"
     effect_ratio: 0.84
     deployment_scale: 1
-    recommend_description: enemy_character_type-30010108
     enemy_illustration_id: 201
     danger: 10
   }
   {
     id: 10109
     type: 4
-    name: enemy_character_type-20010109
+    name: 트로이
     enemy_info: 堡垒机器人
     code: Fortress
     maxlife: 36000
@@ -2733,14 +2731,13 @@
     rate: 35
     def: 8000
     level: 30100
-    character: enemy_character_type-10010109
+    character: 엘리트,치명내성,거대,장갑,범위살상,피해차감
     normal_attack: 121001
     passive_skill: "200303,121002,121003,121004,740089,770042"
     effect_ratio: 0.95
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30010109
     enemy_illustration_id: 202
     tenacity: 50
     danger: 40
@@ -2748,7 +2745,7 @@
   {
     id: 10110
     type: 3
-    name: enemy_character_type-20010110
+    name: 메카닉
     enemy_info: 工程师
     code: Engineer
     maxlife: 18000
@@ -2762,21 +2759,20 @@
     rate: 100
     def: 4000
     level: 30100
-    character: enemy_character_type-10010110
+    character: 엘리트,제조
     normal_attack: 121101
     passive_skill: "200303,121102,121103,770042"
     effect_ratio: 0.82
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30010110
     enemy_illustration_id: 203
     danger: 30
   }
   {
     id: 10111
     type: 4
-    name: enemy_character_type-20010111
+    name: 라돈
     enemy_info: 机甲
     code: Mecha_N
     maxlife: 60000
@@ -2791,21 +2787,20 @@
     rate: 60
     def: 6000
     level: 30100
-    character: enemy_character_type-10010111
+    character: 엘리트,고위협,거대,장갑,피해차감,범위살상,보호막
     normal_attack: 121201
     passive_skill: "200303,121202,121203,121204,740089,119019,770042"
     effect_ratio: 1.19
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30010111
     enemy_illustration_id: 204
     danger: 50
   }
   {
     id: 10112
     type: 3
-    name: enemy_character_type-20010112
+    name: 빔 거너
     enemy_info: 炮兵
     code: Artillery
     maxlife: 16000
@@ -2819,19 +2814,18 @@
     rate: 40
     def: 3000
     level: 30100
-    character: enemy_character_type-10010112
+    character: 고위협,범위살상,약화
     normal_attack: 121301
     passive_skill: "200303,200304,121302,121303,119019,770042"
     effect_ratio: 1
     deployment_scale: 1
-    recommend_description: enemy_character_type-30010112
     enemy_illustration_id: 205
     danger: 50
   }
   {
     id: 10113
     type: 3
-    name: enemy_character_type-20010113
+    name: 别斯兰警察
     enemy_info: 别斯兰警察
     code: USSR_Agent
     maxlife: 3200
@@ -2845,19 +2839,18 @@
     rate: 40
     def: 99999
     level: 30100
-    character: enemy_character_type-10010113
+    character: 精英
     normal_attack: 902264
     effect_ratio: 1
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30010113
     enemy_illustration_id: 212
   }
   {
     id: 10114
     type: 3
-    name: enemy_character_type-20010114
+    name: 허약한 아스클레피오스의 지팡이
     enemy_info: 巨神兵小兵弱化版（夜）
     code: Obelisk_partB
     maxlife: 1950
@@ -2871,13 +2864,39 @@
     rate: 40
     def: 1500
     level: 30100
-    character: enemy_character_type-10010114
+    character: 엘리트,고위협,실명,관통
     normal_attack: 755057
     passive_skill: "755058,119020,770042"
     effect_ratio: 0.8
     deployment_scale: 1
-    recommend_description: enemy_character_type-30010114
     enemy_illustration_id: 213
+    danger: 60
+  }
+  {
+    id: 10115
+    type: 2
+    name: 골리앗 공장
+    enemy_info: 铁血兵工厂
+    code: Golyat_Factory
+    maxlife: 20000
+    pow: 10
+    hit: 15
+    range: 8
+    speed: 10
+    number: 1
+    angle: 180
+    armor: 350
+    rate: 25
+    def: 99999
+    level: 30100
+    character: 고위협,치명내성,중장갑,제조
+    normal_attack: 900107
+    passive_skill: "200304,755312,755000,770044"
+    effect_ratio: 1.41
+    unable_buff_type: "221"
+    deployment_scale: 1
+    enemy_illustration_id: 99
+    tenacity: 80
     danger: 60
   }
   {
@@ -4585,7 +4604,7 @@
   {
     id: 12107
     type: 2
-    name: enemy_character_type-20012107
+    name: 아라크네
     enemy_info: 大蜘蛛
     code: MechanicalSpiderM
     maxlife: 26000
@@ -4600,14 +4619,13 @@
     rate: 30
     def: 6000
     level: 30100
-    character: enemy_character_type-10012107
+    character: 엘리트,치명내성,거대,장갑,제조
     normal_attack: 120901
     passive_skill: "200303,120902,120904,740089,770042"
     effect_ratio: 1.41
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30012107
     enemy_illustration_id: 200
     tenacity: 30
     danger: 40
@@ -4615,7 +4633,7 @@
   {
     id: 12108
     type: 2
-    name: enemy_character_type-20012108
+    name: 아라크네 클론
     enemy_info: 小蜘蛛
     code: MechanicalSpiderS
     maxlife: 200
@@ -4630,19 +4648,18 @@
     rate: 50
     def: 99999
     level: 30100
-    character: enemy_character_type-10012108
+    character: 근접,고속,기교,장갑,약화
     normal_attack: 120905
     passive_skill: "200303,200304,770042"
     effect_ratio: 0.84
     deployment_scale: 1
-    recommend_description: enemy_character_type-30012108
     enemy_illustration_id: 201
     danger: 10
   }
   {
     id: 12109
     type: 4
-    name: enemy_character_type-20012109
+    name: 트로이
     enemy_info: 堡垒机器人
     code: Fortress
     maxlife: 33000
@@ -4657,14 +4674,13 @@
     rate: 35
     def: 8000
     level: 30100
-    character: enemy_character_type-10012109
+    character: 엘리트,치명내성,거대,장갑,범위살상,피해차감
     normal_attack: 121001
     passive_skill: "200303,121002,121003,121004,740089,770042"
     effect_ratio: 0.95
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30012109
     enemy_illustration_id: 202
     tenacity: 50
     danger: 40
@@ -4672,7 +4688,7 @@
   {
     id: 12110
     type: 3
-    name: enemy_character_type-20012110
+    name: 메카닉
     enemy_info: 工程师
     code: Engineer
     maxlife: 16000
@@ -4686,21 +4702,20 @@
     rate: 100
     def: 4000
     level: 30100
-    character: enemy_character_type-10012110
+    character: 엘리트,제조
     normal_attack: 121101
     passive_skill: "200303,121102,121103,770042"
     effect_ratio: 0.82
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30012110
     enemy_illustration_id: 203
     danger: 30
   }
   {
     id: 12111
     type: 4
-    name: enemy_character_type-20012111
+    name: 라돈
     enemy_info: 机甲
     code: Mecha_N
     maxlife: 55000
@@ -4715,21 +4730,20 @@
     rate: 60
     def: 6000
     level: 30100
-    character: enemy_character_type-10012111
+    character: 엘리트,고위협,거대,장갑,피해차감,범위살상,보호막
     normal_attack: 121201
     passive_skill: "200303,121202,121203,121204,740089,119019,770042"
     effect_ratio: 1.19
     unable_buff_type: "221"
     able_buff_id: "133,135,136,137,3918,8034"
     deployment_scale: 1
-    recommend_description: enemy_character_type-30012111
     enemy_illustration_id: 204
     danger: 50
   }
   {
     id: 12112
     type: 3
-    name: enemy_character_type-20012112
+    name: 빔 거너
     enemy_info: 炮兵
     code: Artillery
     maxlife: 15000
@@ -4743,19 +4757,18 @@
     rate: 40
     def: 3000
     level: 30100
-    character: enemy_character_type-10012112
+    character: 고위협,범위살상,약화
     normal_attack: 121301
     passive_skill: "200303,200304,121302,121303,119019,770042"
     effect_ratio: 1
     deployment_scale: 1
-    recommend_description: enemy_character_type-30012112
     enemy_illustration_id: 205
     danger: 50
   }
   {
     id: 12113
     type: 3
-    name: enemy_character_type-20012113
+    name: 허약한 아스클레피오스의 지팡이
     enemy_info: 巨神兵小兵弱化版（夜）
     code: Obelisk_partB
     maxlife: 1650
@@ -4769,13 +4782,39 @@
     rate: 40
     def: 1500
     level: 30100
-    character: enemy_character_type-10012113
+    character: 엘리트,고위협,실명,관통
     normal_attack: 755057
     passive_skill: "755058,119020,770042"
     effect_ratio: 0.8
     deployment_scale: 1
-    recommend_description: enemy_character_type-30012113
     enemy_illustration_id: 213
+    danger: 60
+  }
+  {
+    id: 12114
+    type: 2
+    name: 골리앗 공장
+    enemy_info: 铁血兵工厂(夜)
+    code: Golyat_Factory
+    maxlife: 16000
+    pow: 10
+    hit: 15
+    range: 8
+    speed: 10
+    number: 1
+    angle: 180
+    armor: 350
+    rate: 25
+    def: 99999
+    level: 30100
+    character: 고위협,치명내성,중장갑,제조
+    normal_attack: 900107
+    passive_skill: "200304,755312,755000,770044"
+    effect_ratio: 1.41
+    unable_buff_type: "221"
+    deployment_scale: 1
+    enemy_illustration_id: 99
+    tenacity: 80
     danger: 60
   }
   {
@@ -22008,6 +22047,61 @@
     voice: "1,2,3"
     deployment_scale: 1
     enemy_illustration_id: 155
+    danger: 1000
+  }
+  {
+    id: 900624
+    type: 1
+    name: 디스트로이어
+    enemy_info: 秃洞复刻BOSS135夜
+    code: DestroyerPlus
+    maxlife: 320000
+    pow: 160
+    hit: 75
+    dodge: 60
+    range: 20
+    speed: 50
+    number: 1
+    angle: 180
+    armor_piercing: 80
+    rate: 40
+    boss_hp: 320000
+    def: 99999
+    level: 100
+    character: 엘리트,원격,범위살상
+    normal_attack: 300304
+    passive_skill: "120612,120613,120614,119029,770044"
+    effect_ratio: 1.05
+    deployment_scale: 1
+    enemy_illustration_id: 198
+    danger: 1000
+  }
+  {
+    id: 900625
+    type: 1
+    name: 드리머-미스트 글라이더
+    enemy_info: 捕获Boss
+    code: Dreamer_Halloween
+    maxlife: 350000
+    pow: 240
+    hit: 70
+    dodge: 50
+    range: 16
+    speed: 40
+    number: 1
+    angle: 180
+    armor_piercing: 40
+    rate: 60
+    boss_hp: 350000
+    def: 99999
+    level: 100
+    character: 엘리트,드리머
+    normal_attack: 750898
+    passive_skill: "119029,770044"
+    effect_ratio: 1
+    voice: "1,2,3"
+    deployment_scale: 1
+    enemy_illustration_id: 216
     danger: 1000
   }
   {

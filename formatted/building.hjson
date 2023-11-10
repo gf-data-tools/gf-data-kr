@@ -36320,7 +36320,6 @@
     is_focus: "-1"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: 【标记】略
     confront_des: 이 시설은 파괴할 수 없습니다.
     missionskill_on_death: "1,1146801,6629200,0;1,1146802,6629200,0;1,1146803,6629200,0;1,1146804,6629200,0;1,1146805,6629200,0;1,1146806,6629200,0;1,1146807,6629200,0;1,1146808,6629200,0;1,1146809,6629200,0"
   }
@@ -36343,9 +36342,194 @@
     is_focus: "-1"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: 【标记】略
     confront_des: 이 시설은 파괴할 수 없습니다.
     missionskill_on_death: "1,1146901,6629300,0;1,1146902,6629300,0;1,1146903,6629300,0;1,1146904,6629300,0;1,1146905,6629300,0;1,1146906,6629300,0;1,1146907,6629300,0;1,1146908,6629300,0;1,1146909,6629300,0"
+  }
+  {
+    id: 6630001
+    defender: 500
+    defender_upper: 500
+    belong: 2
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    is_destroy: "1"
+    name: 돌무더기
+    code: Rock_S
+    shifting_spot: "0,120"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6630019"
+    inherent_mission_skill: "6630001"
+    type: 7
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 돌덩이가 쌓여 통로를 막았습니다.
+    confront_des:
+      '''
+      이 전역에서 가능한 대처법: 
+      중장비 포격
+      '''
+  }
+  {
+    id: 6630002
+    defender: 99999
+    defender_upper: 99999
+    belong: 1
+    hold_belong: 1
+    mission_skill: 0;6630004;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 생략
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "6630004"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 생략
+    confront_des: 이 시설은 파괴할 수 없습니다.
+    missionskill_on_death: "1,6630101,6630009,0;1,6630102,6630009,0;1,6630103,6630009,0;1,6630104,6630009,0;1,6630105,6630009,0;1,6630106,6630009,0;1,6630107,6630009,0;1,6630108,6630009,0;1,6630109,6630009,0;1,6630110,6630009,0;1,6630111,6630009,0;1,6630112,6630009,0;1,6630113,6630009,0;1,6630114,6630009,0;1,6630115,6630009,0;1,6630116,6630009,0;1,6630117,6630009,0;1,6630118,6630009,0;1,6630119,6630009,0;1,6630120,6630009,0;1,6630121,6630009,0;1,6630122,6630009,0;1,6630123,6630009,0;1,6630124,6630009,0;1,6630125,6630009,0;1,6630126,6630009,0;1,6630127,6630009,0;1,6630128,6630009,0;1,6630129,6630009,0;1,6630130,6630009,0;1,6630131,6630009,0;1,6630132,6630009,0;1,6630133,6630009,0;1,6630134,6630009,0;1,6630135,6630009,0;1,6630136,6630009,0;1,6630191,6630009,0;1,6630192,6630009,0;2,6630001,6630009,0"
+  }
+  {
+    id: 6630003
+    defender: 99999
+    defender_upper: 99999
+    belong: 1
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 생략
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "6630003"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 생략
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 6630004
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;1:1,1:0
+    name: 버려진 골리앗
+    code: Boomer
+    shifting_spot: "45,100"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "6630020"
+    active_mission_skill: "6630005"
+    inherent_mission_skill: "6630002"
+    type: 7
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 생략
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 6630005
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: 생략
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "9411228"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 생략
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 6630006
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: 생략
+    code: Hiding
+    shifting_spot: "0,65"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    trigger_distance: 1
+    active_mission_skill: "6630017,6630018,6630019,6630020,6630021"
+    inherent_mission_skill: "6630015,6630016"
+    type: 5
+    is_focus: "-1,0"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 생략
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 6630007
+    defender: 99999
+    defender_upper: 99999
+    belong: 1
+    hold_belong: 1
+    mission_skill: 0;6630022;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 생략
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "6630022"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 생략
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 6630008
+    defender: 99999
+    defender_upper: 99999
+    belong: 1
+    hold_belong: 1
+    mission_skill: 0;6630023;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 생략
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "6630023"
+    type: 5
+    is_focus: "-1"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 생략
+    confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
     id: 9031001
@@ -45600,8 +45784,8 @@
   }
   {
     id: 9411207
-    defender: 50
-    defender_upper: 50
+    defender: 99999
+    defender_upper: 99999
     belong: 3
     hold_belong: 1
     mission_skill: 0;0;0;0

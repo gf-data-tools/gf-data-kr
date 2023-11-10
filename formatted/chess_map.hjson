@@ -29,4 +29,10 @@
     code: FlightChessMap5
     unlock_item_id: 121002
   }
+  {
+    id: 6
+    name: 보물 항구
+    code: FlightChessMap6
+    unlock_item_id: 121003
+  }
 ]

@@ -6381,7 +6381,7 @@
     id: 6620006
     code_a: Griffin
     description_a: 아군제대
-    description_b: 융단 엄호
+    description_b: 융단 지원
     description_c: 획득
     code_b: Console_Icon
   }
@@ -6399,6 +6399,41 @@
     description_a: 아군제대
     description_b: 차단문
     description_c: 열기
+    code_b: Console_Icon
+  }
+  {
+    id: 6630001
+    code_a: Boomer
+    description_a: 아군제대
+    description_b: 골리앗(시설 폭파)
+    description_c: 투척
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6630002
+    code_a: Boomer
+    description_a: 아군제대
+    description_b: 골리앗(적 폭파)
+    description_c: 투척
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6630003
+    code_a: Griffin
+    description_a: 아군제대
+    description_b: 시야 보너스
+    description_c: 개방
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 6630004
+    code_a: Boomer
+    description_a: 아군제대
+    description_b: 골리앗
+    description_c: 버리기
     code_b: Console_Icon
   }
   {
