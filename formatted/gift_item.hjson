@@ -9678,6 +9678,20 @@
     normal_description: 선물 시 호감도 획득
   }
   {
+    id: 8908
+    name: 팔콘-메이드 페더
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 256
+    skin: 8908
+    poster: 38908
+    code: gift_bundle_Dining2023_Falcon
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     type: 2

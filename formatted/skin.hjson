@@ -8254,6 +8254,16 @@
     class_id: 93
   }
   {
+    id: 8908
+    name: 팔콘-메이드 페더
+    fit_gun: 256
+    voice: 4
+    dialog: 바닥 미끄러우니까 조심해, 메리. 디저트가 맛있어도 너무 먹지는 말고... 응, 청소 끝나면 찾으러갈게. 그전까진 얘가 대신 놀아줄 거야.
+    illustrator_cv: 星迴,Ohzora Naomi,
+    order: 119
+    class_id: 94
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     fit_gun: 57

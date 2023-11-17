@@ -39556,6 +39556,21 @@
     rotate: "3"
   }
   {
+    id: 38908
+    name: 팔콘-메이드 페더
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 팔콘의 포스터
+    code: poster_Dining2023_Falcon
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 40001
     name: 구호소벽지
     classes: 400

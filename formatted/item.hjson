@@ -13590,6 +13590,15 @@
     rank: 1
   }
   {
+    id: 2393
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_Falcon
+    item_name: 팔콘-메이드 페더
+    introduction: 팔콘-메이드 페더
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
