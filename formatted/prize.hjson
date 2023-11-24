@@ -12746,6 +12746,46 @@
     item_ids: 121003-1
   }
   {
+    id: 1980
+    name: 성탄 코인15
+    item_ids: 100201-15
+  }
+  {
+    id: 1981
+    name: 성탄 코인20
+    item_ids: 100201-20
+  }
+  {
+    id: 1982
+    name: 성탄 코인15+훈장a
+    item_ids: 100201-15,100202-1
+  }
+  {
+    id: 1983
+    name: 성탄 코인20+훈장b
+    item_ids: 100201-20,100203-1
+  }
+  {
+    id: 1984
+    name: 훈장a
+    item_ids: 100202-1
+  }
+  {
+    id: 1985
+    name: 훈장b
+    item_ids: 100203-1
+  }
+  {
+    id: 1986
+    name: 훈장2a
+    item_ids: 100202-2
+  }
+  {
+    id: 1987
+    name: 훈장2b
+    item_ids: 100203-2
+  }
+  {
     id: 2001
     name: WA2000 - 고성에서의 모험
     gift: 6-1
@@ -15010,6 +15050,16 @@
     id: 4322
     name: 아이콘: 나르시스 아이콘
     item_ids: 2372-1
+  }
+  {
+    id: 4323
+    name: 혼합세력: 드리머-미스트 글라이더
+    sangvis: "1026"
+  }
+  {
+    id: 4324
+    name: 아이콘: 드리머-미스트 글라이더
+    item_ids: 2396-1
   }
   {
     id: 5001
@@ -24092,6 +24142,26 @@
     id: 8543
     name: 전선협약 복각
     gift: 578-1
+  }
+  {
+    id: 8544
+    name: 전선협약68
+    item_ids: 140026-1
+  }
+  {
+    id: 8545
+    name: 전선협약98
+    item_ids: 140027-1,10606-300,200034-1,2394-1
+  }
+  {
+    id: 8546
+    name: 전선협약30
+    item_ids: 140027-1,10606-300,200034-1,2394-1
+  }
+  {
+    id: 8547
+    name: 전선협약 복각
+    gift: 30002-1
   }
   {
     id: 9101
@@ -46365,6 +46435,54 @@
     commander_uniform: "5552"
   }
   {
+    id: 95711
+    name: 천식백미
+    send_limit: 1
+    commander_uniform: "5711"
+  }
+  {
+    id: 95712
+    name: 찻향 꽃말
+    send_limit: 1
+    commander_uniform: "5712"
+  }
+  {
+    id: 95720
+    name: 시각 잔치
+    send_limit: 1
+    commander_uniform: "5720"
+  }
+  {
+    id: 95731
+    name: 요리 인생
+    send_limit: 1
+    commander_uniform: "5731"
+  }
+  {
+    id: 95732
+    name: 과수원 노래
+    send_limit: 1
+    commander_uniform: "5732"
+  }
+  {
+    id: 95740
+    name: 장인의 주방
+    send_limit: 1
+    commander_uniform: "5740"
+  }
+  {
+    id: 95751
+    name: 술기운 스텝
+    send_limit: 1
+    commander_uniform: "5751"
+  }
+  {
+    id: 95752
+    name: 찹쌀맛 꿈
+    send_limit: 1
+    commander_uniform: "5752"
+  }
+  {
     id: 99999
     name: 신입 지휘관 첫 충전 보상
     mp: 1000
@@ -47472,6 +47590,28 @@
     item_ids: 1500101-1
   }
   {
+    id: 120094
+    name: 증량보급-15레벨
+    item_ids: 41-30,1500103-1
+  }
+  {
+    id: 120095
+    name: 증량보급-25레벨
+    item_ids: 41-30
+    gift: 30013-1
+  }
+  {
+    id: 120096
+    name: 증량보급-35레벨
+    item_ids: 41-30,1500104-1
+  }
+  {
+    id: 120097
+    name: 증량보급-45레벨
+    gem: 680
+    item_ids: 1500105-1
+  }
+  {
     id: 121001
     name: 요란한 돌
     furniture: "7240"
@@ -47735,6 +47875,21 @@
     id: 130039
     name: 공수물자 전시 보상-13
     item_ids: 10606-300,200032-1,2373-1
+  }
+  {
+    id: 130040
+    name: 전선협약 추가보상-14
+    item_ids: 1500106-1
+  }
+  {
+    id: 130041
+    name: 육로물자 전시 보상-14
+    item_ids: 602-1,1500103-1,1500104-1,505-680
+  }
+  {
+    id: 130042
+    name: 공수물자 전시 보상-14
+    item_ids: 10606-300,200034-1,2394-1
   }
   {
     id: 140001
@@ -48371,6 +48526,46 @@
     id: 140124
     name: 미획득 인형 확정 코드-RPK-16
     gun_id: "292"
+  }
+  {
+    id: 140125
+    name: 미해금 인형 확정 코드-HP-35
+    gun_id: "303"
+  }
+  {
+    id: 140126
+    name: 미해금 인형 확정 코드-P90
+    gun_id: "245"
+  }
+  {
+    id: 140127
+    name: 미해금 인형 확정 코드-C-MS
+    gun_id: "213"
+  }
+  {
+    id: 140128
+    name: 미해금 인형 확정 코드-ZB-26
+    gun_id: "307"
+  }
+  {
+    id: 140129
+    name: 미해금 인형 확정 코드-SCR
+    gun_id: "365"
+  }
+  {
+    id: 140130
+    name: 미해금 인형 확정 코드-88식
+    gun_id: "238"
+  }
+  {
+    id: 140131
+    name: 미해금 인형 확정 코드-VSK-94
+    gun_id: "312"
+  }
+  {
+    id: 140132
+    name: 미해금 인형 확정 코드-AK-15
+    gun_id: "293"
   }
   {
     id: 150001

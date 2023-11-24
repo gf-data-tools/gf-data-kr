@@ -13590,12 +13590,93 @@
     rank: 1
   }
   {
+    id: 2387
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_M4A1
+    item_name: M4A1 - 벨벳 래빗 후르츠티
+    introduction: M4A1 - 벨벳 래빗 후르츠티
+    rank: 1
+  }
+  {
+    id: 2388
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_M4 SOPMOD II
+    item_name: M4 SOPMODII - 질주 파르페
+    introduction: M4 SOPMODII - 질주 파르페
+    rank: 1
+  }
+  {
+    id: 2389
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_AR15
+    item_name: ST AR-15 - 부엉이 라떼
+    introduction: ST AR-15 - 부엉이 라떼
+    rank: 1
+  }
+  {
+    id: 2390
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_M16A1
+    item_name: M16A1 - 낙원 블렌딩
+    introduction: M16A1 - 낙원 블렌딩
+    rank: 1
+  }
+  {
+    id: 2391
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_RO635
+    item_name: RO635 - 벚꽃 요거트
+    introduction: RO635 - 벚꽃 요거트
+    rank: 1
+  }
+  {
+    id: 2392
+    type: 5
+    arg: "1"
+    code: profilePic_Dining2023_A545
+    item_name: A-545 - 은방울꽃 기사
+    introduction: A-545 - 은방울꽃 기사
+    rank: 1
+  }
+  {
     id: 2393
     type: 5
     arg: "1"
     code: profilePic_Dining2023_Falcon
     item_name: 팔콘-메이드 페더
     introduction: 팔콘-메이드 페더
+    rank: 1
+  }
+  {
+    id: 2394
+    type: 5
+    arg: "1"
+    code: card_BattlePass_HK433
+    item_name: 카드배경: 경고! 주방 요지
+    introduction: 카드배경: 경고! 주방 요지
+    rank: 1
+  }
+  {
+    id: 2395
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_HK433
+    item_name: HK433 - 마음 도둑 키친
+    introduction: HK433 - 마음 도둑 키친
+    rank: 1
+  }
+  {
+    id: 2396
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Dreamer_Halloween
+    item_name: 드리머-미스트 글라이더 아이콘
+    introduction: 드리머-미스트 글라이더 아이콘
     rank: 1
   }
   {
@@ -16618,6 +16699,43 @@
     rank: 1
   }
   {
+    id: 100200
+    type: 4
+    arg: "100200"
+    code: Bumdle_October2
+    item_name: 123占用
+    introduction: 123占用
+    rank: 1
+  }
+  {
+    id: 100201
+    type: 9
+    arg: "100201"
+    code: Christmas_Coin
+    item_name: 성탄 코인
+    introduction: 성탄 코인
+    rank: 1
+    daily_limit: "80"
+  }
+  {
+    id: 100202
+    type: 4
+    arg: "100202"
+    code: Nova_medal_black
+    item_name: 노바훈장·한푼차이
+    introduction: 노바훈장·한푼차이
+    rank: 1
+  }
+  {
+    id: 100203
+    type: 4
+    arg: "100203"
+    code: Platinum_medal_black
+    item_name: 백금훈장·한푼차이
+    introduction: 백금훈장·한푼차이
+    rank: 1
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -17492,6 +17610,15 @@
     code: Y_Z_zhihuiguan_Dancer
     item_name: 백일몽 시대
     introduction: 반짝이는 미러볼이 댄서들을 평등하게 비춥니다. 이 순간 춤은 신분 차이와 이해관계에서 벗어나 단순히 즐거움을 나누는 표현이 됩니다.
+    rank: 1
+  }
+  {
+    id: 130023
+    type: 12
+    arg: "130023"
+    code: Y_Z_zhihuiguan_Restaurant
+    item_name: 스릴 묘기
+    introduction: 룰은 간단해: 식칼이 사과에 명중하면 오늘 설거지는 네가 하는 거고, 못 맞히면 할 수 없이 내가 설거지를 해야지.
     rank: 1
   }
   {
@@ -18685,6 +18812,22 @@
     rank: 1
   }
   {
+    id: 140027
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *유탄 포수
+    rank: 1
+  }
+  {
+    id: 140028
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *유탄 포수
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -18991,6 +19134,15 @@
     code: profileFrame_friendmall_MLEMK1
     item_name: 액자·용기의 훈장
     introduction: 액자·용기의 훈장
+    rank: 1
+  }
+  {
+    id: 200034
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_HK433
+    item_name: 액자·찜기 메모
+    introduction: 액자·찜기 메모
     rank: 1
   }
   {
@@ -20114,6 +20266,46 @@
     code: package_random
     item_name: 전선협약-추가보상
     introduction: 전선협약-아침 공원 산책 보상, 목록 중 무작위 한 가지 보상을 얻습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500103
+    type: 15
+    arg: "1500103"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약-맞보기 아침 보상, 지정 범위에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500104
+    type: 15
+    arg: "1500104"
+    code: package_choose
+    item_name: 탄약 장비 선택 코드
+    introduction: 전선협약-맞보기 아침 보상, 지정 범위에서 원하는 탄약 유형 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500105
+    type: 15
+    arg: "1500105"
+    code: package_random
+    item_name: 미해금 인형 확정 코드
+    introduction: 전선협약-맞보기 아침 보상, 목록 중 도감을 해금하지 않은 인형을 하나 확정으로 획득합니다. 전부 해금한 경우 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500106
+    type: 15
+    arg: "1500106"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-맞보기 아침 보상, 목록 중 무작위 한 가지 보상을 얻습니다.
     rank: 1
     sort: -1
   }

@@ -3460,6 +3460,146 @@
     color_icon_id: "957"
   }
   {
+    id: 5711
+    name: 천식백미
+    description: 음식의 색깔은 각자 다른 풍미를 의미하며, 훌륭한 요리사의 헤어스타일도 독특한 품격을 나타낼 수 있죠. 이것이 바로 요리의 미!
+    code: Head1
+    icon: commander_5711_icon
+    type: 1
+    gender: 1
+    uniform_class: "57"
+    color_normal: Commander_5711_N
+    color_0: Commander_5711_0
+    color_1: Commander_5711_1
+    color_2: Commander_5711_2
+    color_3: Commander_5711_3
+    color_4: Commander_5711_4
+    color_icon_id: "900,901,902,903,904,905"
+  }
+  {
+    id: 5712
+    name: 찻향 꽃말
+    description: 깜찍하게 찰랑이는 머리결이 너무 아름다워 첫 메뉴가 완성되기도 전에 샴푸를 알아보는 문의전화가 폭주했어요!
+    code: Head2
+    icon: commander_5712_icon
+    type: 1
+    gender: 2
+    uniform_class: "57"
+    color_normal: Commander_5712_N
+    color_0: Commander_5712_0
+    color_1: Commander_5712_1
+    color_2: Commander_5712_2
+    color_3: Commander_5712_3
+    color_4: Commander_5712_4
+    color_icon_id: "906,907,908,909,910,911"
+  }
+  {
+    id: 5720
+    name: 시각 잔치
+    description: 단돈 100크레딧으로 프로그램의 주방장에게 귀여운 악세사리를 달아줄 수 있습니다! 고민하지 말고 지금 바로 움직이세요!
+    code: HeadAcco
+    icon: commander_5720_icon
+    type: 2
+    uniform_class: "57"
+    color_normal: Commander_5720_N
+    color_0: Commander_5720_0
+    color_1: Commander_5720_1
+    color_2: Commander_5720_2
+    color_3: Commander_5720_3
+    color_4: Commander_5720_4
+    bone_name: HairBinder2
+    scale: 0.2
+    position: "0.132,0.517"
+    color_icon_id: "912,913,914,915,916,917"
+  }
+  {
+    id: 5731
+    name: 요리 인생
+    description: 시청자 투표로 선정한 최고의 요리복, 멋지면서 몸에 잘 맞아, 당신도 진정한 마스터 셰프처럼 꾸며줄 수 있습니다!
+    code: Body1
+    icon: commander_5731_icon
+    type: 3
+    gender: 1
+    uniform_class: "57"
+    color_normal: Commander_5731_N
+    color_0: Commander_5731_0
+    color_1: Commander_5731_1
+    color_2: Commander_5731_2
+    color_3: Commander_5731_3
+    color_4: Commander_5731_4
+    color_icon_id: "918,919,920,921,922,923"
+  }
+  {
+    id: 5732
+    name: 과수원 노래
+    description: 프릴로 장식한 예쁜 앞치마, 이것을 입으면 분명 식재료의 때깔을 한 단계 더 높일 수 있겠죠!
+    code: Body2
+    icon: commander_5732_icon
+    type: 3
+    gender: 2
+    uniform_class: "57"
+    color_normal: Commander_5732_N
+    color_0: Commander_5732_0
+    color_1: Commander_5732_1
+    color_2: Commander_5732_2
+    color_3: Commander_5732_3
+    color_4: Commander_5732_4
+    color_icon_id: "924,925,926,927,928,929"
+  }
+  {
+    id: 5740
+    name: 장인의 주방
+    description: 훌륭한 요리사는 영혼과 이어진 요리도구를 잔뜩 가지고 있습니다. 하지만 스스로 만든 암흑요리 앞에서 책임을 이들에게 돌리면 안 됩니다.
+    code: BodyAcco
+    icon: commander_5740_icon
+    type: 4
+    uniform_class: "57"
+    color_normal: Commander_5740_N
+    color_0: Commander_5740_0
+    color_1: Commander_5740_1
+    color_2: Commander_5740_2
+    color_3: Commander_5740_3
+    color_4: Commander_5740_4
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "-0.123,0.007"
+    color_icon_id: "930,931,932,933,934,935"
+  }
+  {
+    id: 5751
+    name: 술기운 스텝
+    description: 요리하는 동시에 탭댄스를 추기 위해 디자인된 하의, 비록 최종적으론 기각된 아이디어지만 그 자체의 멋있는 디자인이 시청자들의 시선을 끌어모았습니다!
+    code: Foot1
+    icon: commander_5751_icon
+    type: 5
+    gender: 1
+    uniform_class: "57"
+    color_normal: Commander_5751_N
+    color_0: Commander_5751_0
+    color_1: Commander_5751_1
+    color_2: Commander_5751_2
+    color_3: Commander_5751_3
+    color_4: Commander_5751_4
+    color_icon_id: "936,937,938,939,940,941"
+  }
+  {
+    id: 5752
+    name: 찹쌀맛 꿈
+    description: 귀여운 나비 매듭은 케이크 위의 딸기처럼 빠질 수 없는 물건이죠. 저만 믿으세요. 이번 방송만 나가면 요리업계에서 가장 유행하는 패션이 될 테니까요!
+    code: Foot2
+    icon: commander_5752_icon
+    type: 5
+    gender: 2
+    uniform_class: "57"
+    color_normal: Commander_5752_N
+    color_0: Commander_5752_0
+    color_1: Commander_5752_1
+    color_2: Commander_5752_2
+    color_3: Commander_5752_3
+    color_4: Commander_5752_4
+    color_icon_id: "942,943,944,945,946,947"
+  }
+  {
     id: 9920
     name: 활기찬 위장
     description: 언제나 가장 좋은 모습으로.

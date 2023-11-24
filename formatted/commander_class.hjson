@@ -566,6 +566,19 @@
     source_description: 연휴 출석
   }
   {
+    id: 57
+    name: 풍미 있는 식당
+    description: 식사 중에 먹방 프로그램을 보며 식욕을 돋우고 싶으신가요? 미각 모듈을 자극하는 동시에 시각 모듈에도 눈요기 거리를 주고 싶으신가요? 문제 없습니다! S09 구역 지휘관의 유일무이한 요리 실력으로 당신의 수요를 충족시켜드립니다! 그리폰 최신 미식 예능 프로그램을 시청해주세요!
+    group_id: "99"
+    code: commander_5731_icon
+    bonus_plastic: "130023"
+    skill_id: 108
+    path: CLASS57
+    is_class: 1
+    des_year: "2023"
+    source: 1
+  }
+  {
     id: 99
     name: 거짓말 마스크
     description: 내 생각을 감추고, 내 바람을 드러낸다.

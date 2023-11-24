@@ -27595,6 +27595,216 @@
     interact_point_offset: *-2.538,2.106,-1.679|*2.975,1.252,-1.821
   }
   {
+    id: 11201
+    name: 헥사곤 레스토랑 - 눈꽃 타일 바닥
+    classes: 112
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 가끔 콜라나 소스, 연유 등등을 먹기도 하지만 괜찮습니다, 깨끗이 닦으면 다시 말끔해지죠!
+    code: Dining2023_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 11202
+    name: 헥사곤 레스토랑 - 적갈색 벽
+    classes: 112
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 복고풍의 적갈색 벽, 차분하고 조용한 느낌이 납니다. 소문으론 지휘관의 어느 제복 색깔을 본뜬 것이라 합니다.
+    code: Dining2023_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 11203
+    name: 헥사곤 레스토랑 - 쿼터 메뉴판
+    classes: 112
+    type: 302
+    position: "5,1"
+    space: "10,6,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 5성급 품질, 합리적인 가격, 모두가 극찬!
+    code: Dining2023_deco_01
+    texture_type: "1"
+    offset: "0.000,1.543,0.000"
+    rotate: "3"
+  }
+  {
+    id: 11204
+    name: 헥사곤 레스토랑 - 밀크티 샌드위치
+    classes: 112
+    type: 202
+    position: "21,4"
+    space: "7,3,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 밀크티는 잔을 손으로 쥐고 드시길 바랍니다. 무리한 챌린지로 바닥을 더럽히지 마세요.
+    code: Dining2023_deco_17,Dining2023_deco_11,Dining2023_deco_12
+    texture_type: "1,1,1"
+    sorting: "20,0,0"
+    offset: "0.000,0.000,0.000|-0.807,0.000,0.000|0.820,0.000,0.000"
+    rotate: "2,2,2"
+    interact_point: "18,19"
+    interact_point_offset: *2.188,1.565,0.114|*-2.071,1.537,-0.285
+  }
+  {
+    id: 11205
+    name: 헥사곤 레스토랑 - 에그 바베큐
+    classes: 112
+    type: 202
+    position: "26,10"
+    space: "7,3,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 평일 점심에 톡톡 쏘는 사이다, 두 배의 쾌감!
+    code: Dining2023_deco_10,Dining2023_deco_11
+    texture_type: "1,1"
+    sorting: "20,0"
+    offset: "0.313,-0.250,-0.052|-0.845,0.000,0.000"
+    rotate: "2,2"
+    interact_point: "19"
+    interact_point_offset: *-2.333,1.480,0.142
+  }
+  {
+    id: 11206
+    name: 헥사곤 레스토랑 - 버터 아이스크림 토스트
+    classes: 112
+    type: 202
+    position: "2,7"
+    space: "8,5,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 버터고 아이스크림이고 다 차가운데 왜 열량이 높다고 하지?
+    code: Dining2023_deco_16,Dining2023_deco_14
+    texture_type: "1,1"
+    sorting: "20,0"
+    offset: "-0.250,-0.323,-0.073|0.996,0.079,0.020"
+    rotate: "2,2"
+    interact_point: "18"
+    interact_point_offset: *2.421,1.224,0.341
+  }
+  {
+    id: 11207
+    name: 헥사곤 레스토랑 - 찐만두 세트
+    classes: 112
+    type: 202
+    position: "13,7"
+    space: "8,5,1,1,1,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: '''"밥묵읐나? 차헌잔혀." CF05가 밀크티를 빨며 이렇게 말하자 RO635는 그 발음에 의문을 표했습니다.'''
+    code: Dining2023_deco_15,Dining2023_deco_13
+    texture_type: "1,1"
+    sorting: "20,0"
+    offset: "0.334,-0.282,-0.063|-0.980,0.109,0.028"
+    rotate: "2,2"
+    interact_point: "19"
+    interact_point_offset: *-1.925,1.537,-0.285
+  }
+  {
+    id: 11208
+    name: 헥사곤 레스토랑 - 연꽃잎 전등
+    classes: 112
+    type: 201
+    position: "25,8"
+    space: "1,1,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: '''"전등 덮개가 연꽃잎이고, 전등을 연꽃심 모양으로 만들면... 윽, 아니다." 어느 환공포증 환자가 몸을 떨었습니다.'''
+    code: Dining2023_deco_02,Dining2023_deco_03
+    texture_type: "1,1"
+    sorting: "0,0"
+    offset: "-2.053,1.523,0.351|2.555,1.558,0.360"
+    rotate: "2,2"
+  }
+  {
+    id: 11209
+    name: 헥사곤 레스토랑 - 풍성한 카운터
+    classes: 112
+    type: 201
+    position: "2,1"
+    space: "12,4,1,1,1,0"
+    deco_rate: 1300
+    decompose_gift: 100003
+    description: 스낵, 디저트, 음료, 원하는 건 다 있습니다, 카리나의 적극 추천! 잠깐, 이 인형들은 비매품이니까 주무르지 마세요!
+    code: Dining2023_deco_04
+    texture_type: "1"
+    offset: "0.000,-0.167,-0.042"
+    rotate: "2"
+  }
+  {
+    id: 11210
+    name: 헥사곤 레스토랑 - 오늘의 근무표
+    classes: 112
+    type: 302
+    position: "9,8"
+    space: "4,8,1,1,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 카리나는 돈을 아끼기 위해 원래 벽에 걸 그림 대신 이 포스터를 걸었고, 작은 칠판들을 추가했습니다.
+    code: Dining2023_deco_05
+    texture_type: "1"
+    offset: "0.000,0.417,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11211
+    name: 헥사곤 레스토랑 - 높이 매단 그릴
+    classes: 112
+    type: 201
+    position: "19,0"
+    space: "13,3,1,1,0,0"
+    deco_rate: 1300
+    decompose_gift: 100003
+    description: 처음 식당이 완공됐을 때 그릴은 테이블보다 약간 높은 정도였지만, 자꾸 오리와 닭고기가 도둑을 맞고, 그릴판엔 매화꽃 모양 발자국만 남아서 이렇게 높아졌습니다.
+    code: Dining2023_deco_06,Dining2023_deco_07,Dining2023_ants,Dining2023_deco_18,Dining2023_deco_19
+    texture_type: "1,1,2,1,1"
+    sorting: "0,0,0,20,20"
+    offset: "0.000,0.000,0.000|4.600,0.000,0.000|-1.083,0.838,-0.044|0.000,0.000,0.000|4.600,0.000,0.000"
+    rotate: "2,2,2,2,2"
+  }
+  {
+    id: 11212
+    name: 헥사곤 레스토랑 - 배고픈 고양이
+    classes: 112
+    type: 302
+    position: "15,15"
+    space: "3,8,1,1,1,1"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 미스터리한 도둑이 주방에 잠입을 시도하며, 자신의 몸이 100% 액체인 척을 합니다.
+    code: Dining2023_deco_08
+    texture_type: "1"
+    offset: "0.000,0.302,0.000"
+    rotate: "3"
+  }
+  {
+    id: 11213
+    name: 헥사곤 레스토랑 - 황금빛 간판
+    classes: 112
+    type: 302
+    position: "19,2"
+    space: "5,4,1,1,1,1"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 원래 지휘관은 커다란 간판 두 짝을 주문할 셈이었지만, 가격을 듣자 생각을 접었습니다.
+    code: Dining2023_deco_09,Dining2023_lightA,Dining2023_lightB
+    texture_type: "1,2,2"
+    sorting: "0,0,0"
+    offset: "0.352,0.000,0.000|-0.658,-0.423,0.000|0.345,-0.380,0.000"
+    rotate: "3,3,3"
+  }
+  {
     id: 20000
     name: 명탕 라오
     classes: 81
@@ -39556,6 +39766,96 @@
     rotate: "3"
   }
   {
+    id: 38901
+    name: M4A1 - 벨벳 래빗 후르츠티
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M4A1의 포스터
+    code: poster_Dining2023_M4A1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38902
+    name: M4 SOPMODII - 질주 파르페
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M4 SOPMODII의 포스터
+    code: poster_Dining2023_M4 SOPMOD II
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38903
+    name: ST AR-15 - 부엉이 라떼
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ST AR-15의 포스터
+    code: poster_Dining2023_AR15
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38904
+    name: M16A1 - 낙원 블렌딩
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M16A1의 포스터
+    code: poster_Dining2023_M16A1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38905
+    name: RO635 - 벚꽃 요거트
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: RO635의 포스터
+    code: poster_Dining2023_RO635
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 38906
+    name: A-545 - 은방울꽃 기사
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: A-545의 포스터
+    code: poster_Dining2023_A545
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 38908
     name: 팔콘-메이드 페더
     classes: 300
@@ -44033,6 +44333,21 @@
     decompose_gift: 100003
     description: M327의 포스터
     code: poster_BattlePass_M327
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330013
+    name: HK433 - 마음 도둑 키친
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: HK433의 포스터。
+    code: poster_BattlePass_HK433
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

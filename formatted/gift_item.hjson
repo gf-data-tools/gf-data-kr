@@ -9678,6 +9678,90 @@
     normal_description: 선물 시 호감도 획득
   }
   {
+    id: 8901
+    name: M4A1 - 벨벳 래빗 후르츠티
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 55
+    skin: 8901
+    poster: 38901
+    code: gift_bundle_Dining2023_M4A1
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 8902
+    name: M4 SOPMODII - 질주 파르페
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 56
+    skin: 8902
+    poster: 38902
+    code: gift_bundle_Dining2023_M4 SOPMOD II
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 8903
+    name: ST AR-15 - 부엉이 라떼
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 57
+    skin: 8903
+    poster: 38903
+    code: gift_bundle_Dining2023_AR15
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 8904
+    name: M16A1 - 낙원 블렌딩
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 54
+    skin: 8904
+    poster: 38904
+    code: gift_bundle_Dining2023_M16A1
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 8905
+    name: RO635 - 벚꽃 요거트
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 143
+    skin: 8905
+    poster: 38905
+    code: gift_bundle_Dining2023_RO635
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 8906
+    name: A-545 - 은방울꽃 기사
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 356
+    skin: 8906
+    poster: 38906
+    code: gift_bundle_Dining2023_A545
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
     id: 8908
     name: 팔콘-메이드 페더
     type: 2
@@ -9855,6 +9939,20 @@
     skin: 30012
     poster: 330012
     code: gift_bundle_BattlePass_M327
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 30013
+    name: HK433 - 마음 도둑 키친
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 390
+    skin: 30013
+    poster: 330013
+    code: gift_bundle_BattlePass_HK433
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
     normal_description: 선물 시 호감도 획득
