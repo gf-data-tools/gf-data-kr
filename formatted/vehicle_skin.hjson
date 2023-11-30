@@ -888,6 +888,78 @@
     is_show: 1
   }
   {
+    id: 10077
+    name: 페가사스 도면
+    type: 1
+    vehicle_id: "1"
+    class_id: 10
+    code: TankM1_1010
+    item_id: 133083
+    obtain: "40"
+    introduction: 무게감과 슬림함이 여기서 완벽한 조화를 이룬다!
+    is_show: 1
+  }
+  {
+    id: 10078
+    name: 페가사스
+    type: 2
+    group_id: 117
+    class_id: 10
+    code: Smoke_Emitter_1010
+    item_id: 133084
+    obtain: "40"
+    introduction: 페가사스와 셋팅된 연막발사기, 적을 방해하는 연막 생성.
+    is_show: 1
+  }
+  {
+    id: 10079
+    name: 페가사스
+    type: 2
+    group_id: 119
+    class_id: 10
+    code: Medium_Missile_Launcher_1010
+    item_id: 133085
+    obtain: "40"
+    introduction: 페가사스와 셋팅된 중형 미사일 발사기, 아군에게 강력한 화력 지원을 제공한다.
+    is_show: 1
+  }
+  {
+    id: 10080
+    name: 페가사스
+    type: 2
+    group_id: 142
+    class_id: 10
+    code: ElecGun_1010
+    item_id: 133086
+    obtain: "40"
+    introduction: 페가사스와 셋팅된 속사 가우스건, 소형 전자기탄을 연속 발사할 수 있다.
+    is_show: 1
+  }
+  {
+    id: 10081
+    name: 페가사스
+    type: 2
+    group_id: 107
+    class_id: 10
+    code: MG_Cannon_1010
+    item_id: 133087
+    obtain: "40"
+    introduction: 페가사스와 셋팅된 기총포, 좁은 범위의 피해를 줄 수 있다.
+    is_show: 1
+  }
+  {
+    id: 10082
+    name: 페가사스
+    type: 2
+    group_id: 115
+    class_id: 10
+    code: Jammer_1010
+    item_id: 133088
+    obtain: "40"
+    introduction: 페가사스와 셋팅된 교란기, 범위 교란을 제공한다.
+    is_show: 1
+  }
+  {
     id: 10083
     name: KV-2 - 범용
     type: 2

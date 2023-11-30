@@ -13680,6 +13680,24 @@
     rank: 1
   }
   {
+    id: 2397
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_NTW20
+    item_name: NTW-20 아이콘
+    introduction: NTW-20 아이콘
+    rank: 1
+  }
+  {
+    id: 2398
+    type: 5
+    arg: "1"
+    code: card_friendmall_NTW20
+    item_name: 카드배경: 헌터즈 파티
+    introduction: 카드배경: 헌터즈 파티
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -18288,6 +18306,60 @@
     rank: 5
   }
   {
+    id: 133083
+    type: 13
+    arg: "55"
+    code: TankM1_1010
+    item_name: 페가사스-주력탱크 장갑 도면
+    introduction: 무게감과 슬림함이 여기서 완벽한 조화를 이룬다!
+    rank: 5
+  }
+  {
+    id: 133084
+    type: 13
+    arg: "55"
+    code: Smoke_Emitter_1010
+    item_name: 페가사스-연막발사기
+    introduction: 페가사스와 셋팅된 연막발사기, 적을 방해하는 연막 생성.
+    rank: 5
+  }
+  {
+    id: 133085
+    type: 13
+    arg: "55"
+    code: Medium_Missile_Launcher_1010
+    item_name: 페가사스-미사일 런처MK2
+    introduction: 페가사스와 셋팅된 중형 미사일 발사기, 아군에게 강력한 화력 지원을 제공한다.
+    rank: 5
+  }
+  {
+    id: 133086
+    type: 13
+    arg: "55"
+    code: ElecGun_1010
+    item_name: 페가사스-경량 연사 가우스건
+    introduction: 페가사스와 셋팅된 속사 가우스건, 소형 전자기탄을 연속 발사할 수 있다.
+    rank: 5
+  }
+  {
+    id: 133087
+    type: 13
+    arg: "55"
+    code: MG_Cannon_1010
+    item_name: 페가사스-기총포
+    introduction: 페가사스와 셋팅된 기총포, 좁은 범위의 피해를 줄 수 있다.
+    rank: 5
+  }
+  {
+    id: 133088
+    type: 13
+    arg: "55"
+    code: Jammer_1010
+    item_name: 페가사스-교란기
+    introduction: 페가사스와 셋팅된 교란기, 범위 교란을 제공한다.
+    rank: 5
+  }
+  {
     id: 133089
     type: 13
     arg: "55"
@@ -19143,6 +19215,15 @@
     code: profileFrame_BattlePass_HK433
     item_name: 액자·찜기 메모
     introduction: 액자·찜기 메모
+    rank: 1
+  }
+  {
+    id: 200035
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_NTW20
+    item_name: 액자·노을의 인사
+    introduction: 액자·노을의 인사
     rank: 1
   }
   {

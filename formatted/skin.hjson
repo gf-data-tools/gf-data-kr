@@ -8258,7 +8258,6 @@
     name: M4A1 - 벨벳 래빗 후르츠티
     fit_gun: 55
     voice: 4
-    is_hidden: 1
     dialog: 여기 차는 다 세심한 레시피로, 재료와 찻잎 모두 다른 가게에서 볼 수 없는 것들이에요. 분명 마음에 들 거라 생각해요... 구체적으로 무엇을 넣었냐고요? 그건 비밀이에요.
     illustrator_cv: umo,Tomatsu Haruka,
     order: 119
@@ -8270,7 +8269,6 @@
     name: M4 SOPMODII - 질주 파르페
     fit_gun: 56
     voice: 4
-    is_hidden: 1
     dialog: 응! 왔다 왔어! 슈퍼라지 사이즈 후르츠 파르페에 레몬티 주문한 쪽 어디야? 슝슝~ 꺄하핫! 괜찮아, 안 쏟아! 나 수평 잘 맞추니까아앗!?
     illustrator_cv: umo,Tamura Yukari,
     order: 119
@@ -8282,7 +8280,6 @@
     name: ST AR-15 - 부엉이 라떼
     fit_gun: 57
     voice: 4
-    is_hidden: 1
     dialog: 뭘 주문할지 정한 다음에 부르세요. 저는 먼저 커피를 끓여드릴 테니... 프림이랑 설탕은 다 서비스지만 너무 많이 넣지는 마시고요.
     illustrator_cv: umo,Katou Emiri,
     order: 119
@@ -8294,7 +8291,6 @@
     name: M16A1 - 낙원 블렌딩
     fit_gun: 54
     voice: 4
-    is_hidden: 1
     dialog: 이 잔은 서비스다, 항상 이용해주는 것에 대한 감사로... 표정? 미안, 나는 고객의 취식 과정만 책임지지, 스마일은 별도 요금이다.
     illustrator_cv: umo,Yamane Nozomi,
     order: 119
@@ -8306,7 +8302,6 @@
     name: RO635 - 벚꽃 요거트
     fit_gun: 143
     voice: 4
-    is_hidden: 1
     dialog: 저번 세기말 미국에선 일부 여종업원이 이렇게 플레이트에 시가를 놓고 호객했다고 들었어요. 지금 시가는 없지만 대신 요거트 한 잔 드실래요?
     illustrator_cv: umo,Fukuhara Ayaka,
     order: 119
