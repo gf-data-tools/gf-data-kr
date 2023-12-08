@@ -14895,6 +14895,15 @@
     rank: 1
   }
   {
+    id: 10710
+    type: 18
+    arg: "10710"
+    code: daily_points
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
+    rank: 1
+  }
+  {
     id: 100001
     type: 4
     arg: "100001"
@@ -20391,6 +20400,26 @@
     sort: -1
   }
   {
+    id: 1500107
+    type: 15
+    arg: "1500023"
+    code: Bumdle_invocation_1
+    item_name: 4성 인형 임용장
+    introduction: 창고에서 이 임용장을 사용하면 지정 범위 중 4성 인형을 하나 선택해 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500108
+    type: 15
+    arg: "1500030"
+    code: Bumdle_invocation_2
+    item_name: 5성 인형 임용장
+    introduction: 창고에서 이 임용장을 사용하면 지정 범위 중 5성 인형을 하나 선택해 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -20474,6 +20503,36 @@
     code: package_choose
     item_name: 고등 전용장비 선택 코드
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700007
+    type: 15
+    arg: "1700007"
+    code: package_choose
+    item_name: 기초장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700008
+    type: 15
+    arg: "1700008"
+    code: package_choose
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700009
+    type: 15
+    arg: "1700009"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
   }
