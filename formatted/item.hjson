@@ -20587,6 +20587,28 @@
     sort: -1
   }
   {
+    id: 1800006
+    type: 15
+    arg: "1800006"
+    code: package_random
+    item_name: item-11800006
+    introduction: item-21800006
+    rank: 5
+    sort: -1
+    detail_introduction: item-31800006
+  }
+  {
+    id: 1800007
+    type: 15
+    arg: "1800007"
+    code: package_random
+    item_name: item-11800007
+    introduction: item-21800007
+    rank: 5
+    sort: -1
+    detail_introduction: item-31800007
+  }
+  {
     id: 1800011
     type: 15
     arg: "1800011"
