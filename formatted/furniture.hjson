@@ -39871,6 +39871,111 @@
     rotate: "3"
   }
   {
+    id: 39001
+    name: M26-MASS - 별빛 가이드
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M26-MASS의 포스터.
+    code: poster_Christmas2023_M26MASS
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 39003
+    name: SPAS-15 - 순백 복슬복슬 파티
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SPAS-15의 포스터.
+    code: poster_Christmas2023_SPAS15
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 39004
+    name: TKB-408 - 데생 애플
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: TKB-408의 포스터.
+    code: poster_Christmas2023_TKB408
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 39005
+    name: Mk23 - 프레젠트 레드벨벳
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Mk23의 포스터.
+    code: poster_Christmas2023_Mk23
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 39006
+    name: MP5 - 굿모닝 스패로우
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MP5의 포스터.
+    code: poster_Christmas2023_MP5
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 39007
+    name: Zas M76 - 순록의 일화
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Zas M76의 포스터.
+    code: poster_Christmas2023_ZasM76
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 39008
+    name: PPSh-41 - 순수한 화환
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: PPSh-41의 포스터.
+    code: poster_Christmas2023_PPsh41
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 40001
     name: 구호소벽지
     classes: 400

@@ -8330,6 +8330,80 @@
     class_id: 94
   }
   {
+    id: 9001
+    name: M26-MASS - 별빛 가이드
+    fit_gun: 351
+    voice: 19
+    dialog: 푹 쉬었어, 지휘관? 다음 마켓에 가서 한바탕 '혈전'을 벌일 때야!
+    illustrator_cv: 多尔,Yuzuki Ryoka,
+    order: 121
+    class_id: 95
+    skin_source: 2
+  }
+  {
+    id: 9003
+    name: SPAS-15 - 순백 복슬복슬 파티
+    fit_gun: 366
+    voice: 19
+    dialog: 오늘 밤 파티를 그렇게나 기대했구나, 지휘관... 그럼 1시간 일찍 온 보상으로 선물 아무거나 하나 골라~ 물론 나를 골라도 괜찮구, 지휘관~
+    order: 121
+    class_id: 95
+    skin_source: 2
+  }
+  {
+    id: 9004
+    name: TKB-408 - 데생 애플
+    fit_gun: 340
+    voice: 19
+    dialog: 방금 산 사과랑 빵 색깔 괜찮지? 히히, 내가 페인팅 연습에 새로 쓸 참조물이야! ...어디서 연습하냐고? 당연히 지휘관 지휘실에서지!
+    illustrator_cv: 星迴,Kuwahara Yuuki,
+    order: 121
+    class_id: 95
+    skin_source: 2
+  }
+  {
+    id: 9005
+    name: Mk23 - 프레젠트 레드벨벳
+    fit_gun: 99
+    voice: 19
+    dialog: 달링 어서 와서 봐봐! 사랑의 마법이 평범한 크림 케익을 매혹적인 빨강으로 물들일 거야~ 마법이 평생 지속됐으면 좋겠어? 그럼 얌전히 먹으라구~
+    illustrator_cv: YeoNwa,Akao Hikaru,
+    order: 121
+    class_id: 95
+    skin_source: 2
+  }
+  {
+    id: 9006
+    name: MP5 - 굿모닝 스패로우
+    fit_gun: 26
+    voice: 19
+    dialog: 지휘관님, 빨리 안 일어나시면 문앞의 선물 다 뺏기고 없어요! 어? 바로 문 여셨네요? 농담이었어요, 제가 단단히 지키고 있었답니다!
+    gift_position: "-32.8,-52"
+    illustrator_cv: 小星,Mukaiyama Naomi,
+    order: 121
+    class_id: 95
+    skin_source: 1
+  }
+  {
+    id: 9007
+    name: Zas M76 - 순록의 일화
+    fit_gun: 284
+    voice: 19
+    dialog: 우와~ 엄청 큰 보따리잖아요! 고마워요, 지휘관님! 이게 있으면 선물들을 몽땅 집어넣어서 더 많은 아이들에게 나눠줄 수 있어요! 물론 지휘관님의 몫도 있죠!
+    order: 121
+    class_id: 95
+    skin_source: 2
+  }
+  {
+    id: 9008
+    name: PPSh-41 - 순수한 화환
+    fit_gun: 21
+    voice: 19
+    dialog: '''"행복이 언제까지나 계속되고, 소나무처럼 늘 푸르길 바랍니다." ...설마 지휘관님도 저처럼 이런 전통적인 장식을 좋아하실 줄 몰랐어요. 다행이다, 선물 제대로 골랐네요!'''
+    order: 121
+    class_id: 95
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     fit_gun: 57

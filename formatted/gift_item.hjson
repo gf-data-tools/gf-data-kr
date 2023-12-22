@@ -9776,6 +9776,104 @@
     normal_description: 선물 시 호감도 획득
   }
   {
+    id: 9001
+    name: M26-MASS - 별빛 가이드
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 351
+    skin: 9001
+    poster: 39001
+    code: gift_bundle_Christmas2023_M26MASS
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 9003
+    name: SPAS-15 - 순백 복슬복슬 파티
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 366
+    skin: 9003
+    poster: 39003
+    code: gift_bundle_Christmas2023_SPAS15
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 9004
+    name: TKB-408 - 데생 애플
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 340
+    skin: 9004
+    poster: 39004
+    code: gift_bundle_Christmas2023_TKB408
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 9005
+    name: Mk23 - 프레젠트 레드벨벳
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 99
+    skin: 9005
+    poster: 39005
+    code: gift_bundle_Christmas2023_Mk23
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 9006
+    name: MP5 - 굿모닝 스패로우
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 26
+    skin: 9006
+    poster: 39006
+    code: gift_bundle_Christmas2023_MP5
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 9007
+    name: Zas M76 - 순록의 일화
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 284
+    skin: 9007
+    poster: 39007
+    code: gift_bundle_Christmas2023_ZasM76
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 9008
+    name: PPSh-41 - 순수한 화환
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 21
+    skin: 9008
+    poster: 39008
+    code: gift_bundle_Christmas2023_PPsh41
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     type: 2

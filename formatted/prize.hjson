@@ -24559,84 +24559,84 @@
     id: 10086
     name: 카니발 보상
     mp: 100
-    item_ids: 110065-10
+    item_ids: 110068-10
   }
   {
     id: 10087
     name: 카니발 보상
     mp: 100
-    item_ids: 110065-20
+    item_ids: 110068-20
   }
   {
     id: 10088
     name: 카니발 보상
     ammo: 200
-    item_ids: 110065-20
+    item_ids: 110068-20
   }
   {
     id: 10089
     name: 카니발 보상
     ammo: 200
-    item_ids: 110065-30
+    item_ids: 110068-30
   }
   {
     id: 10090
     name: 카니발 보상
     mre: 200
-    item_ids: 110065-20
+    item_ids: 110068-20
   }
   {
     id: 10091
     name: 카니발 보상
     mre: 200
-    item_ids: 110065-30
+    item_ids: 110068-30
   }
   {
     id: 10092
     name: 카니발 보상
     mre: 200
-    item_ids: 110065-50
+    item_ids: 110068-50
   }
   {
     id: 10093
     name: 카니발 보상
     part: 100
-    item_ids: 110065-30
+    item_ids: 110068-30
   }
   {
     id: 10094
     name: 카니발 보상
     part: 100
-    item_ids: 110065-50
+    item_ids: 110068-50
   }
   {
     id: 10095
     name: 카니발 보상
     part: 100
-    item_ids: 110065-100
+    item_ids: 110068-100
   }
   {
     id: 10096
     name: 카니발 보상
     part: 200
-    item_ids: 110065-50
+    item_ids: 110068-50
   }
   {
     id: 10097
     name: 카니발 보상
     part: 200
-    item_ids: 110065-100
+    item_ids: 110068-100
   }
   {
     id: 10098
     name: 카니발 보상
     part: 300
-    item_ids: 110065-150
+    item_ids: 110068-150
   }
   {
     id: 10099
     name: 카니발 보상
-    item_ids: 110065-200,45-200
+    item_ids: 110068-200,45-200
   }
   {
     id: 10100
@@ -24674,7 +24674,7 @@
   {
     id: 10105
     name: 이벤트 보상
-    gift: 100003-10,8807-1
+    gift: 100003-10,9008-1
     icon: Bumdle_bline
   }
   {

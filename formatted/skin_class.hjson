@@ -470,6 +470,11 @@
     name: 소녀의 오후 서곡
   }
   {
+    id: 95
+    theme_type: 8
+    name: 따듯한 겨울 찬송
+  }
+  {
     id: 99
     theme_type: 9
     name: 기타

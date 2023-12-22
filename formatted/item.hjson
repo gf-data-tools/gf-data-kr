@@ -13698,6 +13698,69 @@
     rank: 1
   }
   {
+    id: 2399
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2023_M26MASS
+    item_name: M26-MASS - 별빛 가이드
+    introduction: M26-MASS - 별빛 가이드
+    rank: 1
+  }
+  {
+    id: 2400
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2023_SPAS15
+    item_name: SPAS-15 - 순백 복슬복슬 파티
+    introduction: SPAS-15 - 순백 복슬복슬 파티
+    rank: 1
+  }
+  {
+    id: 2401
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2023_TKB408
+    item_name: TKB-408 - 데생 애플
+    introduction: TKB-408 - 데생 애플
+    rank: 1
+  }
+  {
+    id: 2402
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2023_Mk23
+    item_name: Mk23 - 프레젠트 레드벨벳
+    introduction: Mk23 - 프레젠트 레드벨벳
+    rank: 1
+  }
+  {
+    id: 2403
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2023_MP5
+    item_name: MP5 - 굿모닝 스패로우
+    introduction: MP5 - 굿모닝 스패로우
+    rank: 1
+  }
+  {
+    id: 2404
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2023_ZasM76
+    item_name: Zas M76 - 순록의 일화
+    introduction: Zas M76 - 순록의 일화
+    rank: 1
+  }
+  {
+    id: 2405
+    type: 5
+    arg: "1"
+    code: profilePic_Christmas2023_PPsh41
+    item_name: PPSh-41 - 순수한 화환
+    introduction: PPSh-41 - 순수한 화환
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -17357,6 +17420,24 @@
     rank: 1
   }
   {
+    id: 110067
+    type: 4
+    arg: "110067"
+    code: PT
+    item_name: 이벤트 점수
+    introduction: 이벤트 점수
+    rank: 1
+  }
+  {
+    id: 110068
+    type: 4
+    arg: "110068"
+    code: PT
+    item_name: 이벤트 점수
+    introduction: 이벤트 점수
+    rank: 1
+  }
+  {
     id: 120001
     type: 10
     arg: "1"
@@ -20591,22 +20672,20 @@
     type: 15
     arg: "1800006"
     code: package_random
-    item_name: item-11800006
-    introduction: item-21800006
+    item_name: 군용급 중화기 범용 파츠 상자
+    introduction: 개봉 시 5성 중화기/범용 파츠 확정 획득
     rank: 5
     sort: -1
-    detail_introduction: item-31800006
   }
   {
     id: 1800007
     type: 15
     arg: "1800007"
     code: package_random
-    item_name: item-11800007
-    introduction: item-21800007
+    item_name: 군용급 경화기 범용 파츠 상자
+    introduction: 개봉 시 5성 경화기/범용 파츠 확정 획득
     rank: 5
     sort: -1
-    detail_introduction: item-31800007
   }
   {
     id: 1800011
