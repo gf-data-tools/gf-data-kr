@@ -1233,4 +1233,52 @@
     obtain_id: "3100"
     description: 특별 구출 작전G
   }
+  {
+    obtain_id: "3101"
+    description: 2024년 1월 출석 보상
+  }
+  {
+    obtain_id: "3102"
+    description: 2024년 2월 출석 보상
+  }
+  {
+    obtain_id: "3103"
+    description: 2024년 3월 출석 보상
+  }
+  {
+    obtain_id: "3104"
+    description: 2024년 4월 출석 보상
+  }
+  {
+    obtain_id: "3105"
+    description: 2024년 5월 출석 보상
+  }
+  {
+    obtain_id: "3106"
+    description: 2024년 6월 출석 보상
+  }
+  {
+    obtain_id: "3107"
+    description: 2024년 7월 출석 보상
+  }
+  {
+    obtain_id: "3108"
+    description: 2024년 8월 출석 보상
+  }
+  {
+    obtain_id: "3109"
+    description: 2024년 9월 출석 보상
+  }
+  {
+    obtain_id: "3110"
+    description: 2024년 10월 출석 보상
+  }
+  {
+    obtain_id: "3111"
+    description: 2024년 11월 출석 보상
+  }
+  {
+    obtain_id: "3112"
+    description: 2024년 12월 출석 보상
+  }
 ]

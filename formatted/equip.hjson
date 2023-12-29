@@ -11505,4 +11505,38 @@
     is_show: 1
     obtain_ids: "3092"
   }
+  {
+    id: 373
+    name: GP11 개량탄
+    description:
+      '''
+      관통+<armor_piercing>
+      화력+<pow>스킬 강화$K31 전용
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "3,5"
+    armor_piercing: "110,120"
+    retire_ammo: 4
+    retire_mre: 2
+    retire_part: 3
+    code: Magazine_SP_K31
+    develop_duration: 3300
+    company: IOP
+    fit_guns: "247"
+    equip_introduction: 선미형을 사용한 탄두로 탄속이 아주 긴 비거리 동안 유지됩니다. GP11의 기초에서 개량한 물건으로 K31이 가장 애용하는 탄자입니다.
+    powerup_mp: 0.08
+    powerup_ammo: 0.5
+    powerup_mre: 0.3
+    powerup_part: 0.3
+    exclusive_rate: 3
+    bonus_type: armor_piercing:500,pow:1000
+    skill: 759303
+    passive_skill: "759304"
+    max_level: 10
+    auto_select_id: 19071
+    is_show: 1
+    obtain_ids: "3101"
+  }
 ]

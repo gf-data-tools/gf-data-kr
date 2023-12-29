@@ -44459,6 +44459,21 @@
     rotate: "3"
   }
   {
+    id: 330014
+    name: M950A - 헤드뱅잉 신드롬
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M950A의 포스터.
+    code: poster_BattlePass_M950A
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 410010
     name: 차량 플랫폼
     classes: 400

@@ -688,9 +688,6 @@ enemy_character_type-30012064,
 enemy_character_type-20012065,아르고-퍼피스
 enemy_character_type-10012065,
 enemy_character_type-30012065,
-enemy_character_type-20012050,미노타우로스
-enemy_character_type-10012050,거대//c근접//c장갑//c피해차감
-enemy_character_type-30012050,
 enemy_character_type-20013101,칵테일 투척수
 enemy_character_type-10013101,엘리트//c평범
 enemy_character_type-30013101,

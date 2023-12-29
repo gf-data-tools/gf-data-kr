@@ -13761,6 +13761,42 @@
     rank: 1
   }
   {
+    id: 2406
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M950A
+    item_name: 카드 배경: 쥬시 헤븐
+    introduction: 카드 배경: 쥬시 헤븐
+    rank: 1
+  }
+  {
+    id: 2407
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M950A
+    item_name: M950A - 헤드뱅잉 신드롬
+    introduction: M950A - 헤드뱅잉 신드롬
+    rank: 1
+  }
+  {
+    id: 2408
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_A545
+    item_name: A-545 아이콘
+    introduction: A-545 아이콘
+    rank: 1
+  }
+  {
+    id: 2409
+    type: 5
+    arg: "1"
+    code: card_friendmall_A545
+    item_name: 카드 배경: 독한 술에 취해
+    introduction: 카드 배경: 독한 술에 취해
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -14852,7 +14888,7 @@
     type: 1
     arg: "10605"
     code: weekly_accumulation
-    item_name: item-10010605
+    item_name: 활약도
     introduction: 【그리폰 일일 업무】를 완수하여 획득. 지휘관의 활약 수준을 나타냅니다.
     rank: 1
   }
@@ -14870,10 +14906,9 @@
     type: 16
     arg: "10607"
     code: pass_accumulation
-    item_name: item-10010607
-    introduction: item-20010607
+    item_name: 전선협약 강화 카드
+    introduction: 이거 쓰면 더 많고 좋은 물자를 얻을 수 있다며? 어디에 있어!? "바로 발밑에 있지 않습니까, 존경하는 지휘관님."
     rank: 1
-    detail_introduction: item-30010607
   }
   {
     id: 10701
@@ -18990,6 +19025,22 @@
     rank: 1
   }
   {
+    id: 140029
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *유탄 포수
+    rank: 1
+  }
+  {
+    id: 140030
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *유탄 포수
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -19314,6 +19365,24 @@
     code: profileFrame_friendmall_NTW20
     item_name: 액자·노을의 인사
     introduction: 액자·노을의 인사
+    rank: 1
+  }
+  {
+    id: 200036
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M950A
+    item_name: 액자·츄릅——
+    introduction: 액자·츄릅——
+    rank: 1
+  }
+  {
+    id: 200037
+    type: 5
+    arg: "1"
+    code: profileFrame_friendmall_A545
+    item_name: 액자·불똥
+    introduction: 액자·불똥
     rank: 1
   }
   {
@@ -19835,8 +19904,8 @@
     type: 15
     arg: "1500042"
     code: package_choose
-    item_name: 부속 장비 선택 코드
-    introduction: 지정 범위 안의 부속류 장비 하나를 선택할 수 있습니다.
+    item_name: 탄약 장비 선택 코드
+    introduction: 지정 범위에서 원하는 탄약 유형 장비를 하나 골라 획득할 수 있습니다.
     rank: 1
     sort: -1
   }
@@ -20497,6 +20566,46 @@
     code: Bumdle_invocation_2
     item_name: 5성 인형 임용장
     introduction: 창고에서 이 임용장을 사용하면 지정 범위 중 5성 인형을 하나 선택해 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500109
+    type: 15
+    arg: "1500109"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약-브리스크 더 록! 보상, 지정 범위에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500110
+    type: 15
+    arg: "1500110"
+    code: package_choose
+    item_name: 인형 장비 선택 코드
+    introduction: 전선협약-브리스크 더 록! 보상, 지정 범위에서 원하는 인형 유형 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500111
+    type: 15
+    arg: "1500111"
+    code: package_random
+    item_name: 미해금 인형 확정 코드
+    introduction: 전선협약-브리스크 더 록! 보상, 목록 중 도감을 해금하지 않은 인형을 하나 확정으로 획득합니다. 전부 해금한 경우 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500112
+    type: 15
+    arg: "1500112"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-브리스크 더 록! 보상, 목록 중 무작위 한 가지 보상을 얻습니다.
     rank: 1
     sort: -1
   }

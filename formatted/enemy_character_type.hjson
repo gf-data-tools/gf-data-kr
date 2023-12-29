@@ -3602,7 +3602,7 @@
     rate: 20
     def: 99999
     level: 30100
-    character: 거대,근접,장갑,피해차감
+    character: 근접,장갑,피해차감
     normal_attack: 403801
     passive_skill: "200303,200304,403802,403803,200303,403903,740089,770043"
     effect_ratio: 1.74

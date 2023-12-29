@@ -253,7 +253,7 @@
   }
   {
     id: 70021
-    name: 【标记】求救신호
+    name: 【标记】求救信号
     code: M_buff04
     description: Shocker！
     priority: 5
