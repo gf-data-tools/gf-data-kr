@@ -8404,6 +8404,79 @@
     class_id: 95
   }
   {
+    id: 10001
+    name: Kar98k - 여우신님의 축복
+    fit_gun: 46
+    voice: 15
+    dialog: 조용히, 신단 앞에서 예를 갖추세요... 물론, 제사가 끝나고 가볍게 한잔하죠, 지휘관.
+    illustrator_cv: RIRE,Nakae Mitsuki,
+    order: 122
+    class_id: 96
+    skin_source: 1
+  }
+  {
+    id: 10002
+    name: M110 - 어혼 사방홍
+    fit_gun: 381
+    voice: 15
+    dialog: 정월 축하드려요, 지휘관님. 지금 이 자리에 있는 건 베이커릴 기술을 정월Plus 버전으로 연마한 슈퍼 파티셰인 저랍니다! 방금 따근따근하게 익은 카가미모찌를 드셔보세요!
+    gift_position: "-86,84"
+    order: 122
+    class_id: 96
+    skin_source: 2
+  }
+  {
+    id: 10004
+    name: ZB-26 - 밤매미
+    fit_gun: 307
+    voice: 15
+    dialog: 지휘관님이시군요... 이쪽 물건은 모두 정리하고 쉬는 중이었답니다. 이 아이요? 엄청 귀엽지 않나요?
+    order: 122
+    class_id: 96
+    skin_source: 1
+  }
+  {
+    id: 10005
+    name: APC556 - 푸른 달 보라빛 덩굴
+    fit_gun: 343
+    voice: 15
+    dialog: 보스? ...잠깐만 기다려 봐, 아직 안 끝나서... 기지 곳곳에 이런 꽃다발을 매달 생각이거든. 이걸 보는 사람 모두 기분이 조아질 거잖아.
+    order: 122
+    class_id: 96
+    skin_source: 1
+  }
+  {
+    id: 10006
+    name: C14 - 세신박사
+    fit_gun: 308
+    voice: 15
+    dialog: 앗... 욱, 윽... 꿀꺽... 푸하, 목에 걸려 죽는 줄 알았어... 보고 있었어, 지휘관~? 사냥꾼도 가끔은 쉬어야지! 방금 본 건 비밀로 해줘~ 자, 새우 한 마리 나눠줄 테니까~
+    order: 122
+    class_id: 96
+  }
+  {
+    id: 10007
+    name: HK45 - 감귤 향기
+    fit_gun: 167
+    voice: 15
+    dialog: 이쪽 손님~ 주문하신 귤이에요~ 네? 주문한 적 없다고요? 어머, 이러시면 안 돼요. 종업원이 너무 매력적이라고 이런 식으로 작업을 거시다니, 지휘관~
+    illustrator_cv: 巫目目,Fujii Ayaka,
+    order: 122
+    class_id: 96
+    skin_source: 1
+  }
+  {
+    id: 10008
+    name: M1 개런드 - 겨울 사슴 소리
+    fit_gun: 34
+    voice: 15
+    dialog: 안녕하세요, 지휘관님. 오늘도 안색이 참 좋아 보이네요... 제가 이렇게 말하는 건 이상한가요? 아쉽네요, 저는 제법 괜찮다고 생각했는데.
+    illustrator_cv: Alize,Taneda Risa,
+    order: 122
+    class_id: 96
+    skin_source: 1
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     fit_gun: 57
@@ -8428,6 +8501,7 @@
     fit_gun: 253
     voice: 4
     dialog: 가을처럼 시원한 계절엔 말들도 심심해서 산책하고 싶어해. 혹시 지휘관도 시간이 있다면... 나랑 같이 말하고 놀까?
+    gift_position: "-410.3,113.7"
     order: 97
   }
   {

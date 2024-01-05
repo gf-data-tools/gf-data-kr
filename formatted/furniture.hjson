@@ -44264,6 +44264,111 @@
     rotate: "3,2,2"
   }
   {
+    id: 310001
+    name: Kar98k - 여우신님의 축복
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Kar98k의 포스터
+    code: poster_NewYear2024_98K
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310002
+    name: M110 - 어혼 사방홍
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M110의 포스터
+    code: poster_NewYear2024_M110
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310004
+    name: ZB-26 - 밤매미
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ZB-26의 포스터
+    code: poster_NewYear2024_ZB26
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310005
+    name: APC556 - 푸른 달 보라빛 덩굴
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: APC556의 포스터
+    code: poster_NewYear2024_APC556
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310006
+    name: C14 - 세신박사
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: C14의 포스터
+    code: poster_NewYear2024_C14
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310007
+    name: HK45 - 감귤 향기
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: HK45의 포스터
+    code: poster_NewYear2024_HK45
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310008
+    name: M1 개런드 - 겨울 사슴 소리
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M1 개런드의 포스터
+    code: poster_NewYear2024_M1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 330001
     name: ST AR-15 - 여름의 솔솔 바람
     classes: 300

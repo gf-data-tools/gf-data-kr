@@ -475,6 +475,11 @@
     name: 따듯한 겨울 찬송
   }
   {
+    id: 96
+    theme_type: 2
+    name: 새해 상경길
+  }
+  {
     id: 99
     theme_type: 9
     name: 기타
