@@ -2335,7 +2335,7 @@
   }
   {
     id: 192
-    mission_id: "10017"
+    mission_id: "10017,10105"
     description: AR팀은 위기에서 벗어났지만, 페르시카 씨께서 주피터 포를 한 대 노획하라고 요청하셨어요, 노획이 끝나기 전에 철혈의 공세를 막아주세요!
     scripts: -5-1-1,-5-1-3Round10
     campaign: -5
@@ -3098,13 +3098,6 @@
     campaign: -22
     bgm: BGM_Frontline
     title: End of the Moonlight EX
-  }
-  {
-    id: 260
-    mission_id: "10105"
-    campaign: -23
-    bgm: BGM_Frontline
-    title: 이상한 나라로+
   }
   {
     id: 261
