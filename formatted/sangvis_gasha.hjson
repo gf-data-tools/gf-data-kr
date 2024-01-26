@@ -1040,7 +1040,7 @@
   }
   {
     id: 80
-    name: sangvis_gasha-10000080
+    name: '''"돌풍" N2 비밀심문실'''
     type: 1
     start_time: 2024-01-26 15:00:00
     end_time: 2024-02-23 15:00:00
@@ -1053,7 +1053,7 @@
   }
   {
     id: 81
-    name: sangvis_gasha-10000081
+    name: S09 심해 잿더미
     type: 1
     start_time: 2024-01-26 15:00:00
     end_time: 2024-02-23 15:00:00

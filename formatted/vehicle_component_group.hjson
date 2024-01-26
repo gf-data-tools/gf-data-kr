@@ -196,4 +196,29 @@
     name: 레이저 제압 장치
     component_type: 3
   }
+  {
+    id: 144
+    name: 차량 산탄총
+    component_type: 2
+  }
+  {
+    id: 145
+    name: 소형 박격포
+    component_type: 1
+  }
+  {
+    id: 146
+    name: 레이저 거리측량기
+    component_type: 3
+  }
+  {
+    id: 147
+    name: 위장망
+    component_type: 4
+  }
+  {
+    id: 148
+    name: 상부 격자 장갑
+    component_type: 4
+  }
 ]

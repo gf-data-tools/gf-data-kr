@@ -6936,8 +6936,8 @@
   }
   {
     id: 6630001
-    name: mission_buff_config-16630001
-    description: mission_buff_config-26630001
+    name: 점수 보너스
+    description: 처치 시 추가 득점 200점
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -6950,8 +6950,8 @@
   }
   {
     id: 6630002
-    name: mission_buff_config-16630002
-    description: mission_buff_config-26630002
+    name: 점수 보너스
+    description: 처치 시 추가 득점 400점
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -6965,8 +6965,8 @@
   }
   {
     id: 6630003
-    name: mission_buff_config-16630003
-    description: mission_buff_config-26630003
+    name: 점수 보너스
+    description: 처치 시 추가 득점 600점
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -6980,8 +6980,8 @@
   }
   {
     id: 6630004
-    name: mission_buff_config-16630004
-    description: mission_buff_config-26630004
+    name: 점수 보너스
+    description: 처치 시 추가 득점 800점
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -6995,8 +6995,8 @@
   }
   {
     id: 6630005
-    name: mission_buff_config-16630005
-    description: mission_buff_config-26630005
+    name: 점수 보너스
+    description: 처치 시 추가 득점 1000점
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -7010,8 +7010,8 @@
   }
   {
     id: 6630011
-    name: mission_buff_config-16630011
-    description: mission_buff_config-26630011
+    name: 이동 횟수
+    description: 이번 턴 이동 횟수:0
     code: buff
     type: 1
     duration_type: "1"
@@ -7024,8 +7024,8 @@
   }
   {
     id: 6630012
-    name: mission_buff_config-16630012
-    description: mission_buff_config-26630012
+    name: 이동 횟수
+    description: 이번 턴 이동 횟수:1
     code: buff
     type: 1
     duration_type: "1"
@@ -7039,8 +7039,8 @@
   }
   {
     id: 6630013
-    name: mission_buff_config-16630013
-    description: mission_buff_config-26630013
+    name: 이동 횟수
+    description: 이번 턴 이동 횟수:2
     code: buff
     type: 1
     duration_type: "1"
@@ -7054,8 +7054,8 @@
   }
   {
     id: 6630014
-    name: mission_buff_config-16630014
-    description: mission_buff_config-26630014
+    name: 이동 횟수
+    description: 이번 턴 이동 횟수:3
     code: buff
     type: 1
     duration_type: "1"
@@ -7069,8 +7069,8 @@
   }
   {
     id: 6630015
-    name: mission_buff_config-16630015
-    description: mission_buff_config-26630015
+    name: 이동 횟수
+    description: 이번 턴 이동 횟수:4
     code: buff
     type: 1
     duration_type: "1"
@@ -7084,8 +7084,8 @@
   }
   {
     id: 6630016
-    name: mission_buff_config-16630016
-    description: mission_buff_config-26630016
+    name: 이동 횟수
+    description: 이번 턴 이동 횟수:5
     code: buff
     type: 1
     duration_type: "1"
@@ -7099,8 +7099,8 @@
   }
   {
     id: 6630017
-    name: mission_buff_config-16630017
-    description: mission_buff_config-26630017
+    name: 이동 횟수
+    description: 이번 턴 이동 횟수:6
     code: buff
     type: 1
     duration_type: "1"
@@ -7114,8 +7114,8 @@
   }
   {
     id: 6630018
-    name: mission_buff_config-16630018
-    description: mission_buff_config-26630018
+    name: 이동 횟수
+    description: 이번 턴 이동 횟수:7
     code: buff
     type: 1
     duration_type: "1"
@@ -7129,8 +7129,8 @@
   }
   {
     id: 6630019
-    name: mission_buff_config-16630019
-    description: mission_buff_config-26630019
+    name: 이번 턴 이동 시 추가 소모
+    description: 이번 턴 이동 시 추가 소모
     code: Vpm5
     type: 1
     duration_type: "1"
@@ -7142,8 +7142,8 @@
   }
   {
     id: 6630020
-    name: mission_buff_config-16630020
-    description: mission_buff_config-26630020
+    name: 소지 표식
+    description: 골리앗 소지
     type: 1
     duration_type: "99"
     duration_time: "1"
@@ -7154,8 +7154,8 @@
   }
   {
     id: 6630021
-    name: mission_buff_config-16630021
-    description: mission_buff_config-26630021
+    name: 증폭
+    description: 제대 시야 증폭
     code: NightView
     type: 1
     duration_type: "1"
@@ -7166,8 +7166,8 @@
   }
   {
     id: 6630022
-    name: mission_buff_config-16630022
-    description: mission_buff_config-26630022
+    name: 소지 표식
+    description: 제대 시야 증폭 스킬 소지
     code: buff
     type: 1
     duration_type: "1"

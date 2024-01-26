@@ -758,6 +758,13 @@
     content: deee2a84d250525e_draw_231011018.jpg,5e607c5d44058e47_draw_231011019.jpg
   }
   {
+    id: 1007
+    type: 2
+    title: 제대공유
+    sub_title: 제대 편성을 다른 지휘관에게 공유하거나 다른 지휘관이 공유한 편성을 적용합니다.
+    content: d492ee02e8bf1231_draw_240125007.jpg,f01920b2f15b8021_draw_240125008.jpg
+  }
+  {
     id: 1100
     type: 1
     child_ids: "1101,1102,1103,1104,1105,1106,1107,1108,1109,1110,1111,1112,1113,1114"
@@ -1483,7 +1490,7 @@
     type: 2
     title: 대리 작전
     sub_title: 그리폰 AI 대리작전 시스템 테스트 가동 중.
-    content: d1c52d646d987605_draw_230425015.jpg
+    content: d1c52d646d987605_draw_230425015.jpg,94f8a9da680fb29d_draw_240125006.jpg,a208be00bdbb4f4b_draw_240125005.jpg
     function_control_id: 29
   }
   {
@@ -1499,7 +1506,7 @@
     type: 2
     title: 기갑 돌격
     sub_title: 결정 지대의 보스 지점을 공략하면 기갑 돌격 도전 기회를 얻습니다.
-    content: 6e586192ba523f57_draw_231011047.jpg,0bcdd473af3f4f13_draw_231011027.jpg,f738c899920c934e_draw_231011051.jpg,54e5f68ac8273e38_draw_231011026.jpg
+    content: 6e586192ba523f57_draw_231011047.jpg,0bcdd473af3f4f13_draw_231011027.jpg,f738c899920c934e_draw_231011051.jpg,54e5f68ac8273e38_draw_231011026.jpg,01963f6175db32e6_draw_240125001.jpg
     function_control_id: 30
   }
   {
@@ -1573,6 +1580,14 @@
     title: 특수: 전술인형기갑
     sub_title: 전술인형기갑의 특수 기능 소개
     content: 13d9d9076ea8a9e3_draw_231011002.jpg
+    function_control_id: 30
+  }
+  {
+    id: 2209
+    type: 2
+    title: 기갑 튜닝샵
+    sub_title: 기갑 튜닝샵에서 기동장갑을 당신만의 기갑 스타일로 꾸미세요.
+    content: c0b03dbafe50dce9_draw_240125002.jpg,36cac5efa53bbe93_draw_240125003.jpg,049f587b1ced3248_draw_240125004.jpg
     function_control_id: 30
   }
 ]

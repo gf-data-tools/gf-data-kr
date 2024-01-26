@@ -1207,6 +1207,21 @@
     sub_rank_name: 점수
   }
   {
+    id: "303"
+    name: 말벌집 PLUS 상시
+    type: "10"
+    sub_type: "10508"
+    refresh: test
+    title: <말벌집+> 상시 랭킹보드
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "80000"
+    every_table_num: "30000"
+    mission_rank_type: "1"
+    sub_rank: "1"
+    sub_rank_name: 점수
+  }
+  {
     id: "1001"
     name: 사가 응원판
     type: "1001"

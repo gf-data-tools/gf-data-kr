@@ -19503,6 +19503,45 @@
     touch_area: "4,4,0"
   }
   {
+    id: 7244
+    name: 팝핑 파티
+    classes: 72
+    type: 201
+    space: "4,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 옥수수알마다 정밀한 가공을 거치고 특제 기계에 넣어 연마한 끝에야 향기를 뿜고, 자신의 가치를 다하게 됩니다... 라운지에 이런 슬로건을 쓰면 정말 모두에게 동기부여가 되나요?
+    code: qjyd_20240101_deco01,qjyd_20240101_popcorn
+    texture_type: "1,2"
+    sorting: "0,0"
+    offset: "0.000,0.000,0.000|-0.182,0.692,0.105"
+    rotate: "2,2"
+    interact_point: "44"
+    interact_point_offset: *1.050,0.541,1.736
+  }
+  {
+    id: 7245
+    name: 철댕이 일병 구하기
+    classes: 72
+    type: 201
+    space: "4,3,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description:
+      '''
+      전설에, 부처가 지옥에 거미줄을 한올 내려뜨려 고난을 받는 악귀들을 구원하려 했지만, 악귀들은 항상 거미줄에 다같이 몰려들어 거미줄을 끊어지게 만들었다고 한다...
+      "무슨 뜻인데?"
+      "내가 못 낚는 게 아니라 저것들이 못 매달리는 거라고."
+      '''
+    code: qjyd_20240101_clawcrane
+    texture_type: "2"
+    offset: "0,0,0"
+    rotate: "2"
+    interact_point: "64,71,72"
+    interact_point_offset: *2.348,-0.347,0.000|*-2.873,-0.296,0.000|*0.000,-0.407,0.000
+    touch_area: "3,3,3"
+  }
+  {
     id: 7301
     name: 아쿠아리움 - 아크릴 바닥
     classes: 73

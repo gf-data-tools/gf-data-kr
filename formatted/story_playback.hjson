@@ -3,6 +3,8 @@
     id: 1
     name: 제0전역
     type: 1
+    tag: EP.
+    order: 1
   }
   {
     id: 2
@@ -10,6 +12,8 @@
     name: 제1전역
     chapter: "1"
     type: 1
+    tag: EP.
+    order: 2
   }
   {
     id: 3
@@ -17,6 +21,8 @@
     name: 제2전역
     chapter: "2"
     type: 1
+    tag: EP.
+    order: 3
   }
   {
     id: 4
@@ -24,6 +30,8 @@
     name: 제3전역
     chapter: "3"
     type: 1
+    tag: EP.
+    order: 4
   }
   {
     id: 5
@@ -31,6 +39,8 @@
     name: 제4전역
     chapter: "4"
     type: 1
+    tag: EP.
+    order: 5
   }
   {
     id: 6
@@ -38,6 +48,8 @@
     name: 제5전역
     chapter: "5"
     type: 1
+    tag: EP.
+    order: 6
   }
   {
     id: 7
@@ -45,6 +57,8 @@
     name: 큐브작전
     chapter: "5.5"
     type: 2
+    tag: EP.
+    order: 7
   }
   {
     id: 8
@@ -52,6 +66,8 @@
     name: 제6전역
     chapter: "6"
     type: 1
+    tag: EP.
+    order: 8
   }
   {
     id: 9
@@ -59,13 +75,17 @@
     name: 제7전역
     chapter: "7"
     type: 1
+    tag: EP.
+    order: 9
   }
   {
     id: 10
-    story_campaign_id: "-2,-3,-4,-5"
+    story_campaign_id: "-2,-3,-4,-5,-23"
     name: 저체온증
     chapter: "7.5"
     type: 2
+    tag: EP.
+    order: 10
   }
   {
     id: 11
@@ -73,6 +93,8 @@
     name: 파해법칙
     chapter: "7.75"
     type: 2
+    tag: EP.
+    order: 11
   }
   {
     id: 12
@@ -80,6 +102,8 @@
     name: 제8전역
     chapter: "8"
     type: 1
+    tag: EP.
+    order: 12
   }
   {
     id: 13
@@ -87,6 +111,8 @@
     name: 심층투영
     chapter: "8.5"
     type: 2
+    tag: EP.
+    order: 13
   }
   {
     id: 14
@@ -94,6 +120,8 @@
     name: 제9전역
     chapter: "9"
     type: 1
+    tag: EP.
+    order: 14
   }
   {
     id: 15
@@ -101,6 +129,8 @@
     name: 제10전역
     chapter: "10"
     type: 1
+    tag: EP.
+    order: 15
   }
   {
     id: 16
@@ -108,6 +138,8 @@
     name: 특이점
     chapter: "10.5"
     type: 2
+    tag: EP.
+    order: 16
   }
   {
     id: 17
@@ -115,6 +147,8 @@
     name: 난류연속
     chapter: "10.75"
     type: 2
+    tag: EP.
+    order: 17
   }
   {
     id: 18
@@ -122,6 +156,8 @@
     name: 제11전역
     chapter: "11"
     type: 1
+    tag: EP.
+    order: 18
   }
   {
     id: 19
@@ -129,6 +165,8 @@
     name: 이성질체
     chapter: "11.5"
     type: 2
+    tag: EP.
+    order: 19
   }
   {
     id: 20
@@ -136,6 +174,8 @@
     name: 연쇄분열
     chapter: "11.75"
     type: 2
+    tag: EP.
+    order: 20
   }
   {
     id: 21
@@ -143,6 +183,8 @@
     name: 제12전역
     chapter: "12"
     type: 1
+    tag: EP.
+    order: 21
   }
   {
     id: 22
@@ -150,6 +192,8 @@
     name: 편극광
     chapter: "12.5"
     type: 2
+    tag: EP.
+    order: 22
   }
   {
     id: 23
@@ -157,6 +201,8 @@
     name: 제13전역
     chapter: "13"
     type: 1
+    tag: EP.
+    order: 23
   }
   {
     id: 24
@@ -164,6 +210,8 @@
     name: 이중난수
     chapter: "13.25"
     type: 2
+    tag: EP.
+    order: 24
   }
   {
     id: 25
@@ -171,6 +219,8 @@
     name: 거울단계
     chapter: "13.5"
     type: 2
+    tag: EP.
+    order: 25
   }
   {
     id: 26
@@ -178,6 +228,8 @@
     name: 재귀정리
     chapter: "13.75"
     type: 2
+    tag: EP.
+    order: 26
   }
   {
     id: 27
@@ -185,6 +237,8 @@
     name: 고정점
     chapter: "13.8"
     type: 2
+    tag: EP.
+    order: 27
   }
   {
     id: 28
@@ -192,6 +246,8 @@
     name: 세로변형
     chapter: "13.9"
     type: 2
+    tag: EP.
+    order: 28
   }
   {
     id: 29
@@ -199,6 +255,8 @@
     name: 만성쇼크
     chapter: "14"
     type: 2
+    tag: EP.
+    order: 29
   }
   {
     id: 30
@@ -206,6 +264,8 @@
     name: 팬텀 신드롬
     chapter: "2019"
     type: 3
+    tag: C.E.
+    order: 30
   }
   {
     id: 31
@@ -213,6 +273,8 @@
     name: 거룩한 밤 광상곡
     chapter: "2019"
     type: 3
+    tag: C.E.
+    order: 31
   }
   {
     id: 32
@@ -220,6 +282,8 @@
     name: 사진관 미스테리
     chapter: "2020"
     type: 3
+    tag: C.E.
+    order: 32
   }
   {
     id: 33
@@ -227,6 +291,8 @@
     name: 한푼차이
     chapter: "2021"
     type: 3
+    tag: C.E.
+    order: 33
   }
   {
     id: 34
@@ -234,6 +300,8 @@
     name: 사로스 주기
     chapter: "2022"
     type: 3
+    tag: C.E.
+    order: 34
   }
   {
     id: 35
@@ -241,6 +309,8 @@
     name: 바다 저 멀리
     chapter: "2020"
     type: 3
+    tag: C.E.
+    order: 35
   }
   {
     id: 36
@@ -248,5 +318,7 @@
     name: 웨이브 랭글러
     chapter: "2021"
     type: 3
+    tag: C.E.
+    order: 36
   }
 ]
