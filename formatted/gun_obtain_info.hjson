@@ -525,6 +525,22 @@
     description: 상시 이벤트 【연쇄분열】에서 구조 가능
   }
   {
+    obtain_id: "425"
+    description: 상시 이벤트 【편극광】에서 구출 가능
+  }
+  {
+    obtain_id: "426"
+    description: 상시 이벤트 【이중난수】에서 구출 가능
+  }
+  {
+    obtain_id: "427"
+    description: 상시 이벤트 【거울이론】에서 구출 가능
+  }
+  {
+    obtain_id: "428"
+    description: 상시 이벤트 【재귀정리】에서 구출 가능
+  }
+  {
     obtain_id: "502"
     description: 상시 이벤트 【난류연속】 랭킹 전역 보상
   }
@@ -562,7 +578,7 @@
   }
   {
     obtain_id: "511"
-    description: 상시 이벤트 【심층투영】 랭킹 전역 보상
+    description: 상시 이벤트 【심층투영】 랭킹 전역 【허수미궁】 점수 보상
   }
   {
     obtain_id: "512"

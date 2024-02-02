@@ -760,7 +760,7 @@
   {
     id: 1007
     type: 2
-    title: 제대공유
+    title: 제대 공유
     sub_title: 제대 편성을 다른 지휘관에게 공유하거나 다른 지휘관이 공유한 편성을 적용합니다.
     content: d492ee02e8bf1231_draw_240125007.jpg,f01920b2f15b8021_draw_240125008.jpg
   }
@@ -1586,7 +1586,7 @@
     id: 2209
     type: 2
     title: 기갑 튜닝샵
-    sub_title: 기갑 튜닝샵에서 기동장갑을 당신만의 기갑 스타일로 꾸미세요.
+    sub_title: 기갑 튜닝샵에서 당신의 기동장갑을 꾸미세요.
     content: c0b03dbafe50dce9_draw_240125002.jpg,36cac5efa53bbe93_draw_240125003.jpg,049f587b1ced3248_draw_240125004.jpg
     function_control_id: 30
   }

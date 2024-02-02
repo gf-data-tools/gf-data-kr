@@ -1425,6 +1425,15 @@
     class_id: 99
   }
   {
+    id: 597
+    name: MG42 - 체스계의 신성
+    fit_gun: 86
+    voice: 4
+    dialog: 지휘관님! 아니, 선생님! 보다시피 지금 여기서 체스계의 신성이 눈부시게 떠올라여! 저는 이미 준비됐으니까, 바로 첫번째 수업을 시작해여!
+    order: 112
+    class_id: 99
+  }
+  {
     id: 601
     name: 토카레프 - 두 사람의 인생
     fit_gun: 6
@@ -5449,6 +5458,42 @@
     note: 오리지널
   }
   {
+    id: 5070
+    name: EVO 3-오리지널
+    fit_gun: 20131
+    voice: 4
+    is_hidden: 2
+    dialog: 오리지널
+    note: 오리지널
+  }
+  {
+    id: 5071
+    name: Px4 스톰-오리지널
+    fit_gun: 20233
+    voice: 4
+    is_hidden: 2
+    dialog: 오리지널
+    note: 오리지널
+  }
+  {
+    id: 5072
+    name: 팔콘-오리지널
+    fit_gun: 20256
+    voice: 4
+    is_hidden: 2
+    dialog: 오리지널
+    note: 오리지널
+  }
+  {
+    id: 5073
+    name: EM-2-오리지널
+    fit_gun: 20262
+    voice: 4
+    is_hidden: 2
+    dialog: 오리지널
+    note: 오리지널
+  }
+  {
     id: 5101
     name: 류 소총 - 버드나무 여우불
     fit_gun: 316
@@ -8510,6 +8555,7 @@
     fit_gun: 375
     voice: 4
     dialog: 어서와, 지휘관. 게임 규칙을 마지막으로 한 번 말해줄게. 7일 후, 이 모든 상금은 나를 붙잡은 사람의 것이다... 그럼, 사냥을 시작하지.
+    gift_position: "-150.2,297.5"
     order: 99
   }
   {
@@ -8592,6 +8638,15 @@
     voice: 4
     dialog: 안녕, 지휘관, 이제야 왔구나. 물건은 다 챙겨왔지? 좋아, 정식 연주하기 전에 주스 하나 사줄게. 마침 동전 딱 두 개 남았거든.
     illustrator_cv: 八号地球,Koga Aoi,
+    order: 122
+  }
+  {
+    id: 30015
+    name: 95식-가을 연못의 꿈
+    fit_gun: 129
+    voice: 4
+    dialog: '''"님은 언제 돌아오시나"... 이건 슬픈 노래가 아니랍니다. 저는 제가 기다리는 그분께서 분명 약속대로 오실 거라 믿기 때문이죠. 그렇죠, 지휘관님?'''
+    illustrator_cv: --,Koga Aoi,
     order: 122
   }
 ]

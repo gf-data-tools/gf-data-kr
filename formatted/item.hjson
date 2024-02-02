@@ -13869,6 +13869,42 @@
     rank: 1
   }
   {
+    id: 2428
+    type: 5
+    arg: "1"
+    code: profilePic_rank4_EVO3Mod
+    item_name: EVO 3 MOD 아이콘
+    introduction: EVO 3 MOD 아이콘
+    rank: 1
+  }
+  {
+    id: 2429
+    type: 5
+    arg: "1"
+    code: profilePic_rank6_Px4StormMod
+    item_name: Px4 스톰 MOD 아이콘
+    introduction: Px4 스톰 MOD 아이콘
+    rank: 1
+  }
+  {
+    id: 2430
+    type: 5
+    arg: "1"
+    code: profilePic_rank4_FalconMod
+    item_name: 팔콘 MOD 아이콘
+    introduction: 팔콘 MOD 아이콘
+    rank: 1
+  }
+  {
+    id: 2431
+    type: 5
+    arg: "1"
+    code: profilePic_rank5_EM2Mod
+    item_name: EM-2 MOD 아이콘
+    introduction: EM-2 MOD 아이콘
+    rank: 1
+  }
+  {
     id: 2432
     type: 5
     arg: "1"
@@ -13884,6 +13920,60 @@
     code: card_friendmall_VHS
     item_name: 카드배경: 상여자는 폭발을 돌아보지 않아
     introduction: 카드배경: 상여자는 폭발을 돌아보지 않아
+    rank: 1
+  }
+  {
+    id: 2442
+    type: 5
+    arg: "1"
+    code: card_BattlePass_95type
+    item_name: 카드 배경: 울창한 정자 아래
+    introduction: 카드 배경: 울창한 정자 아래
+    rank: 1
+  }
+  {
+    id: 2443
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_95type
+    item_name: 95식 - 청단에 안갯비
+    introduction: 95식 - 청단에 안갯비
+    rank: 1
+  }
+  {
+    id: 2444
+    type: 5
+    arg: "1"
+    code: profilePic_ChessBonus_MG42
+    item_name: MG42 - 체스계의 신성
+    introduction: MG42 - 체스계의 신성
+    rank: 1
+  }
+  {
+    id: 2445
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season14_1
+    item_name: 원초 시계 · code12: 광원뿔
+    introduction: 원초 시계 · code12: 광원뿔
+    rank: 1
+  }
+  {
+    id: 2446
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season14_2
+    item_name: 항성 미터 · code12: 광원뿔
+    introduction: 항성 미터 · code12: 광원뿔
+    rank: 1
+  }
+  {
+    id: 2447
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season14_3
+    item_name: 축퇴 기원 · code12: 광원뿔
+    introduction: 축퇴 기원 · code12: 광원뿔
     rank: 1
   }
   {
@@ -15122,6 +15212,15 @@
     id: 10711
     type: 18
     arg: "10711"
+    code: daily_points
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
+    rank: 1
+  }
+  {
+    id: 10712
+    type: 18
+    arg: "10712"
     code: daily_points
     item_name: 회색지대 점수
     introduction: 회색지대 점수
@@ -16984,6 +17083,34 @@
     code: Platinum_medal_black
     item_name: 백금훈장·한푼차이
     introduction: 백금훈장·한푼차이
+    rank: 1
+  }
+  {
+    id: 100207
+    type: 9
+    arg: "100207"
+    code: Scar2022
+    item_name: 그림자 코인
+    introduction: 그림자 코인
+    rank: 1
+    daily_limit: "60"
+  }
+  {
+    id: 100208
+    type: 4
+    arg: "100208"
+    code: Nova_medal
+    item_name: 노바 훈장·사로스 주기
+    introduction: 노바 훈장·사로스 주기
+    rank: 1
+  }
+  {
+    id: 100209
+    type: 4
+    arg: "100209"
+    code: Platinum_medal
+    item_name: 백금 훈장·사로스 주기
+    introduction: 백금 훈장·사로스 주기
     rank: 1
   }
   {
@@ -19167,6 +19294,22 @@
     rank: 1
   }
   {
+    id: 140031
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *유탄포수
+    rank: 1
+  }
+  {
+    id: 140032
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *유탄포수
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -19520,6 +19663,15 @@
     introduction: item-20200038
     rank: 1
     detail_introduction: item-30200038
+  }
+  {
+    id: 200039
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_95type
+    item_name: 액자·푸른 냇물 쟁소리
+    introduction: 액자·푸른 냇물 쟁소리
+    rank: 1
   }
   {
     id: 900030
@@ -20746,6 +20898,46 @@
     sort: -1
   }
   {
+    id: 1500113
+    type: 15
+    arg: "1500113"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약-가을 연못의 꿈 보상, 지정 범위에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500114
+    type: 15
+    arg: "1500114"
+    code: package_choose
+    item_name: 부속 장비 선택 코드
+    introduction: 전선협약-가을 연못의 꿈 보상, 지정 범위에서 원하는 부속 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500115
+    type: 15
+    arg: "1500115"
+    code: package_random
+    item_name: 미해금 인형 확정 코드
+    introduction: 전선협약-가을 연못의 꿈 보상, 목록 중 도감을 해금하지 않은 인형을 하나 확정으로 획득합니다. 전부 해금한 경우 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500116
+    type: 15
+    arg: "1500116"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-가을 연못의 꿈 보상, 목록 중 무작위 한 가지 보상을 얻습니다.
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -20886,6 +21078,36 @@
     id: 1700012
     type: 15
     arg: "1700012"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700013
+    type: 15
+    arg: "1700013"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700014
+    type: 15
+    arg: "1700014"
+    code: package_choose
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700015
+    type: 15
+    arg: "1700015"
     code: package_choose
     item_name: 고등 전용장비 선택 코드
     introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.

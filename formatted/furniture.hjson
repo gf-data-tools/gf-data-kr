@@ -31420,6 +31420,21 @@
     rotate: "3"
   }
   {
+    id: 30597
+    name: MG42 - 체스계의 신성
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MG42의 포스터
+    code: poster_ChessBonus_MG42
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 30601
     name: 토카레프 - 두 사람의 인생
     classes: 300
@@ -44612,6 +44627,21 @@
     decompose_gift: 100003
     description: M950A의 포스터.
     code: poster_BattlePass_M950A
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330015
+    name: 95식 - 청단에 안갯비
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 95식의 포스터
+    code: poster_BattlePass_95type
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

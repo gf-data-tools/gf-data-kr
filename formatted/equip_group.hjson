@@ -181,4 +181,22 @@
     group_skill: 2:759300
     fit_gun: "20161"
   }
+  {
+    id: 21
+    name: 모두를 위해
+    des: G3를 위해 맞춤제작한 세트, 모두를 도우려 하는 G3의 결의가 담겨 있습니다.
+    code: EgroupG3
+    equip_unit: "124,0,374"
+    group_skill: 2:759308
+    fit_gun: "20063"
+  }
+  {
+    id: 22
+    name: Darling
+    des: M1911을 위해 맞춤제작한 세트, 명명은 본인의 강한 요구가 반영되었습니다.
+    code: EgroupM1911
+    equip_unit: "375,101,0"
+    group_skill: 2:759312
+    fit_gun: "20002"
+  }
 ]
