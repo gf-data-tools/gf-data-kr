@@ -29575,6 +29575,23 @@
     rotate: "2"
   }
   {
+    id: 20117
+    name: 타치코마
+    classes: 299
+    type: 299
+    space: "3,5,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 사고전차. 천연 오일을 좋아하며, 필살기는 슈퍼 썬더볼트 스핀킥과 울트라 매지컬 토네이도 슛이다.
+    code: 2024Ghost_Tachikoma
+    texture_type: "1"
+    offset: "0.093,-0.050,-0.011"
+    rotate: "2"
+    interact_point: "17"
+    interact_point_offset: *0.166,0.105,-0.285
+    bonus_id: 3108
+  }
+  {
     id: 30001
     name: 마카로프 - 잭오랜턴
     classes: 300
@@ -44417,6 +44434,126 @@
     decompose_gift: 100003
     description: M1 개런드의 포스터
     code: poster_NewYear2024_M1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310101
+    name: QBZ-191 - 냉향묵염
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: QBZ-191의 포스터
+    code: poster_SpringFes2024_QBZ191
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310102
+    name: SCR - 서리 바람의 노래
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SCR의 포스터
+    code: poster_SpringFes2024_SCR
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310103
+    name: SPAS-12 - 새해 대박 기원
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SPAS-12의 포스터
+    code: poster_SpringFes2024_SPAS12
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310104
+    name: PTRD - 깊은 밤 촛불
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: PTRD의 포스터
+    code: poster_SpringFes2024_PTRD
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310105
+    name: PP-19 - 바람에 눈꽃 흩날려
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: PP-19의 포스터
+    code: poster_SpringFes2024_PP19
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310106
+    name: AS Val - 시냇물에 흩날리는 꽃잎
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: AS Val의 포스터
+    code: poster_SpringFes2024_ASVAL
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310107
+    name: Bren ten - 잉어로운 한해
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Bren ten의 포스터
+    code: poster_SpringFes2024_BrenTen
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310108
+    name: QBU-191 - 그 향을 찾아서
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: QBU-191의 포스터
+    code: poster_SpringFes2024_QBU191
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

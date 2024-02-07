@@ -579,6 +579,20 @@
     source: 1
   }
   {
+    id: 58
+    name: 용의 봄맞이
+    description: 그믐 대청소를 마치고 기지 곳곳은 붉은 색으로 뒤덮혀 경사스러운 분위기가 넘칩니다. 모두 새해를 맞이할 준비를 마쳤죠, 물론 지휘관님을 위해 모두가 한땀한땀 정성을 들여 만든 새해 의상을 포함해서요!
+    group_id: "100"
+    code: commander_5831_icon
+    bonus_plastic: "130024"
+    skill_id: 112
+    path: CLASS58
+    is_class: 1
+    des_year: "2024"
+    source: 2
+    source_description: 2024년 구정 이벤트 보상
+  }
+  {
     id: 99
     name: 거짓말 마스크
     description: 내 생각을 감추고, 내 바람을 드러낸다.

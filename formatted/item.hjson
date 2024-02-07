@@ -13923,6 +13923,78 @@
     rank: 1
   }
   {
+    id: 2434
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_QBZ191
+    item_name: QBZ-191 - 냉향묵염
+    introduction: QBZ-191 - 냉향묵염
+    rank: 1
+  }
+  {
+    id: 2435
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_SCR
+    item_name: SCR - 서리 바람의 노래
+    introduction: SCR - 서리 바람의 노래
+    rank: 1
+  }
+  {
+    id: 2436
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_SPAS12
+    item_name: SPAS-12 - 새해 대박 기원
+    introduction: SPAS-12 - 새해 대박 기원
+    rank: 1
+  }
+  {
+    id: 2437
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_PTRD
+    item_name: PTRD - 깊은 밤 촛불
+    introduction: PTRD - 깊은 밤 촛불
+    rank: 1
+  }
+  {
+    id: 2438
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_PP19
+    item_name: PP-19 - 바람에 눈꽃 흩날려
+    introduction: PP-19 - 바람에 눈꽃 흩날려
+    rank: 1
+  }
+  {
+    id: 2439
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_ASVAL
+    item_name: AS Val - 시냇물에 흩날리는 꽃잎
+    introduction: AS Val - 시냇물에 흩날리는 꽃잎
+    rank: 1
+  }
+  {
+    id: 2440
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_BrenTen
+    item_name: Bren ten - 잉어로운 한해
+    introduction: Bren ten - 잉어로운 한해
+    rank: 1
+  }
+  {
+    id: 2441
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFes2024_QBU191
+    item_name: QBU-191 - 그 향을 찾아서
+    introduction: QBU-191 - 그 향을 찾아서
+    rank: 1
+  }
+  {
     id: 2442
     type: 5
     arg: "1"
@@ -13974,6 +14046,15 @@
     code: profilePic_ChessFlight_season14_3
     item_name: 축퇴 기원 · code12: 광원뿔
     introduction: 축퇴 기원 · code12: 광원뿔
+    rank: 1
+  }
+  {
+    id: 2448
+    type: 5
+    arg: "1"
+    code: profilePic_mask_2024SpringFes
+    item_name: 아이콘: 최첨단 마스크·용이 보우하는 봄
+    introduction: 아이콘: 최첨단 마스크·용이 보우하는 봄
     rank: 1
   }
   {
@@ -17114,6 +17195,24 @@
     rank: 1
   }
   {
+    id: 100210
+    type: 4
+    arg: "100210"
+    code: core_mask_springfestival
+    item_name: 최첨단 마스크·용이 보우하는 봄
+    introduction: 최첨단 마스크·용이 보우하는 봄
+    rank: 1
+  }
+  {
+    id: 100211
+    type: 4
+    arg: "100211"
+    code: Bumdle_2024springfestival
+    item_name: 갑진이시
+    introduction: 갑진이시
+    rank: 1
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -17726,6 +17825,15 @@
     rank: 1
   }
   {
+    id: 110069
+    type: 4
+    arg: "110069"
+    code: PT
+    item_name: 이벤트 점수
+    introduction: 이벤트 점수
+    rank: 1
+  }
+  {
     id: 120001
     type: 10
     arg: "1"
@@ -18015,6 +18123,15 @@
     code: Y_Z_zhihuiguan_Restaurant
     item_name: 스릴 묘기
     introduction: 룰은 간단해: 식칼이 사과에 명중하면 오늘 설거지는 네가 하는 거고, 못 맞히면 할 수 없이 내가 설거지를 해야지.
+    rank: 1
+  }
+  {
+    id: 130024
+    type: 12
+    arg: "130024"
+    code: Y_Z_zhihuiguan_baozhu
+    item_name: 결채뇌동
+    introduction: 옛말에 이르길 폭죽 소리는 지난해의 묵은 때를 쫓아낸다고 합니다. 폭죽으로 새해를 경축하는 건 확실히 분위기 있지만 기지 안에서 터뜨리는 녀석은 폭죽소리에 놀란 자동포탑을 상대하도록 하세요.
     rank: 1
   }
   {
@@ -19674,6 +19791,15 @@
     rank: 1
   }
   {
+    id: 200040
+    type: 1
+    arg: "1"
+    code: profileFrame_bonus_snack
+    item_name: 액자·장은제세
+    introduction: 액자·장은제세
+    rank: 1
+  }
+  {
     id: 900030
     type: 4
     arg: "100030"
@@ -20938,6 +21064,36 @@
     sort: -1
   }
   {
+    id: 1500117
+    type: 15
+    arg: "1500117"
+    code: Bumdle_Coupons3
+    item_name: 레어 코스튬 추첨권
+    introduction: 창고에서 이 추첨권을 사용하면 출현 범위 중 보유하지 않은 코스튬 하나를 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500118
+    type: 15
+    arg: "1500118"
+    code: Bumdle_Coupons2
+    item_name: 럭셔리 코스튬 추첨권
+    introduction: 창고에서 이 추첨권을 사용하면 출현 범위 중 보유하지 않은 코스튬 하나를 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500119
+    type: 15
+    arg: "1500119"
+    code: Bumdle_Coupons1
+    item_name: 로열 코스튬 추첨권
+    introduction: 창고에서 이 추첨권을 사용하면 출현 범위 중 보유하지 않은 코스튬 하나를 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -21181,6 +21337,26 @@
     code: package_random
     item_name: 군용급 경화기 범용 파츠 상자
     introduction: 개봉 시 5성 경화기/범용 파츠 확정 획득
+    rank: 5
+    sort: -1
+  }
+  {
+    id: 1800008
+    type: 15
+    arg: "1800008"
+    code: package_random
+    item_name: 군용급 무기 파츠 박스 2.0
+    introduction: 개봉 시 5성 중/경화기 파츠 확정 획득
+    rank: 5
+    sort: -1
+  }
+  {
+    id: 1800009
+    type: 15
+    arg: "1800009"
+    code: package_random
+    item_name: 군용급 기능 파츠 박스 2.0
+    introduction: 개봉 시 5성 기능/방호/범용 파츠 확정 획득
     rank: 5
     sort: -1
   }

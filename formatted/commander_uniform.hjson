@@ -3600,6 +3600,106 @@
     color_icon_id: "942,943,944,945,946,947"
   }
   {
+    id: 5811
+    name: 도소연회
+    description: 아무 말도 하지마! 이게 가장 전통적이고 가장 세련하고, 가장 술상에 어울리는 헤어스타일이니까! 지휘관, 새해에 우리 곯아빠지도록 마셔야겠지!?——술에 목숨을 건 디자이너
+    code: Head1
+    icon: commander_5811_icon
+    type: 1
+    gender: 1
+    uniform_class: "58"
+    color_normal: Commander_5811_N
+    color_icon_id: "950"
+  }
+  {
+    id: 5812
+    name: 설영번화
+    description: 밖에서 큰돈을 주고 이걸 사왔어요! 가게에서 말하길 봄에 피어난 첫 한 송이 꽃이라서 엄청 귀한 거래요, 어서 머리에 써보세요!——돈을 물처럼 쓰는 디자이너
+    code: Head2
+    icon: commander_5812_icon
+    type: 1
+    gender: 2
+    uniform_class: "58"
+    color_normal: Commander_5812_N
+    color_icon_id: "951"
+  }
+  {
+    id: 5820
+    name: 경축백가
+    description: 설이 오면 모두 새해를 축하하며, 모든 인형이 지휘관님께 세배를 드리고 세뱃돈을 받아가죠.——이따가 크루거 씨한테도 세배 드릴까?
+    code: HeadAcco
+    icon: commander_5820_icon
+    type: 2
+    uniform_class: "58"
+    color_normal: Commander_5820_N
+    bone_name: HairBinder2
+    scale: 0.2
+    position: "0.611,0.575"
+    color_icon_id: "952"
+  }
+  {
+    id: 5831
+    name: 홍채만복
+    description: 고민해 봤는데 역시 가장 큰 복을 지휘관한테 몰아줘야겠지. 그래서 년화를 옷에다 붙였어! 당연히 등에도 붙였고, 무슨 그림인지는... 히히!——개구쟁이 디자이너
+    code: Body1
+    icon: commander_5831_icon
+    type: 3
+    gender: 1
+    uniform_class: "58"
+    color_normal: Commander_5831_N
+    color_icon_id: "953"
+  }
+  {
+    id: 5832
+    name: 사한영춘
+    description: 설날이라 하지만 날씨는 여전히 춥죠. 인사돌릴 때 감기 걸리니 쉬우니까 옷깃에 털을 달았어요. 이러면 조금은 따스한 봄 기운이 느껴지지 않나요?——다정한 디자이너
+    code: Body2
+    icon: commander_5832_icon
+    type: 3
+    gender: 2
+    uniform_class: "58"
+    color_normal: Commander_5832_N
+    color_icon_id: "954"
+  }
+  {
+    id: 5840
+    name: 성방등화
+    description: 다들 등롱 좋아하는 거 아니까 사람마다 하나씩 준비해뒀어. 하지만 이건 어디까지나 조명과 장식을 위한 전통 공예품이니까 이거 들고 막 흔들지 마!——쥐불놀이도 하지 말고!
+    code: BodyAcco
+    icon: commander_5840_icon
+    type: 4
+    uniform_class: "58"
+    color_normal: Commander_5840_N
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "-0.161,-0.137"
+    color_icon_id: "955"
+  }
+  {
+    id: 5851
+    name: 순제신다
+    description: 지휘관님이 이걸 믿으시는지는 모르겠지만 뭐 믿으면 있는 거고 안 믿으면 그만인 거니까요. 새해에 좋은 운세를 빌자고요! 자자, 향을 피우고 기도한 다음 소원을 빌어요!——민속에 빠삭한 디자이너
+    code: Foot1
+    icon: commander_5851_icon
+    type: 5
+    gender: 1
+    uniform_class: "58"
+    color_normal: Commander_5851_N
+    color_icon_id: "956"
+  }
+  {
+    id: 5852
+    name: 점화도부
+    description: 제비뽑기 결과를 보아하니, 지휘관이 이 옷을 입기만 하면 새해 초부터 큰 행운을 만날 거야! 왜 잔뜩 의심하는 얼굴인데, 이거 영험하다니까!——점술에 빠진 디자이너
+    code: Foot2
+    icon: commander_5852_icon
+    type: 5
+    gender: 2
+    uniform_class: "58"
+    color_normal: Commander_5852_N
+    color_icon_id: "957"
+  }
+  {
     id: 9920
     name: 활기찬 위장
     description: 언제나 가장 좋은 모습으로.

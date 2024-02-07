@@ -480,6 +480,11 @@
     name: 새해 상경길
   }
   {
+    id: 97
+    theme_type: 1
+    name: 봄바람 돌아올 때
+  }
+  {
     id: 99
     theme_type: 9
     name: 기타

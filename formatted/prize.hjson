@@ -13757,6 +13757,613 @@
     item_ids: 100209-2
   }
   {
+    id: 2213
+    name: 2024설날 출석 보상3
+    core: 50
+  }
+  {
+    id: 2214
+    name: 2024설날 출석 보상4
+    item_ids: 10603-12
+    bp_pay: 12
+  }
+  {
+    id: 2215
+    name: 2024설날 출석 보상6
+    commander_uniform: "5820"
+  }
+  {
+    id: 2216
+    name: 전술인형: 82식
+    gun_id: "391"
+  }
+  {
+    id: 2217
+    name: 전술인형: QBU-191
+    gun_id: "388"
+  }
+  {
+    id: 2218
+    name: 전술인형: 보이스
+    gun_id: "389"
+  }
+  {
+    id: 2219
+    name: 전술인형: HK433
+    gun_id: "390"
+  }
+  {
+    id: 2220
+    name: 전술인형: 베오울프
+    gun_id: "393"
+  }
+  {
+    id: 2221
+    name: 전술인형: FM24
+    gun_id: "395"
+  }
+  {
+    id: 2222
+    name: 전술인형: 스티븐스 520
+    gun_id: "397"
+  }
+  {
+    id: 2223
+    name: 전술인형: 스티븐스 620
+    gun_id: "398"
+  }
+  {
+    id: 2224
+    name: 보석*5
+    gem: 5
+  }
+  {
+    id: 2225
+    name: 보석*15
+    gem: 15
+  }
+  {
+    id: 2226
+    name: 보석*25
+    gem: 25
+  }
+  {
+    id: 2227
+    name: 보석*50
+    gem: 50
+  }
+  {
+    id: 2228
+    name: 보석*88
+    gem: 88
+  }
+  {
+    id: 2229
+    name: Bren ten - 잉어로운 한해
+    gift: 10107-1
+  }
+  {
+    id: 2230
+    name: 공각기동대 콜라보 출석 보상3
+    coins: 2-500
+  }
+  {
+    id: 2231
+    name: 공각기동대 콜라보 출석 보상5
+    coins: 3-400
+  }
+  {
+    id: 2232
+    name: 공각기동대 콜라보 출석 보상7
+    furniture: "20117"
+  }
+  {
+    id: 2233
+    name: 레어 코스튬 추첨권
+    item_ids: 1500117-1
+    icon: Bumdle_Coupons3
+  }
+  {
+    id: 2234
+    name: 럭셔리 코스튬 추첨권
+    item_ids: 1500118-1
+    icon: Bumdle_Coupons2
+  }
+  {
+    id: 2235
+    name: 로열 코스튬 추첨권
+    item_ids: 1500119-1
+    icon: Bumdle_Coupons1
+  }
+  {
+    id: 2236
+    name: 푸짐해용
+    core: 50
+    item_ids: 41-588,45-1000,506-1000
+    gift: 100003-10
+    icon: Bumdle_dragon01
+  }
+  {
+    id: 2237
+    name: 사랑해용
+    item_ids: 7-4
+    gift: 100003-10
+    icon: Bumdle_dragon02
+  }
+  {
+    id: 2238
+    name: 노력해용
+    item_ids: 41-200,10603-30
+    gift: 100003-5
+    icon: Bumdle_dragon05
+    bp_pay: 30
+  }
+  {
+    id: 2239
+    name: AR-57 - 눈속에도 푸르게
+    gift: 6705-1
+  }
+  {
+    id: 2240
+    name: V-PM5 - 첫 꿈은 제기치기
+    gift: 6706-1
+  }
+  {
+    id: 2241
+    name: M14 - 풍년을 부르는 아기 범
+    gift: 6707-1
+  }
+  {
+    id: 2242
+    name: G36 - 우뚝 선 치자꽃
+    gift: 6807-1
+  }
+  {
+    id: 2243
+    name: 스테츠킨 - 봉숭아 봉오리
+    gift: 6808-1
+  }
+  {
+    id: 2244
+    name: FN-49 - 수줍은 해당
+    gift: 6809-1
+  }
+  {
+    id: 2245
+    name: T77 - 저편의 별빛
+    gift: 6906-1
+  }
+  {
+    id: 2246
+    name: M1 개런드 - 동백의 편지
+    gift: 6907-1
+  }
+  {
+    id: 2247
+    name: 팔콘 - 이슬의 노래
+    gift: 6908-1
+  }
+  {
+    id: 2248
+    name: Rex Zero 1 - 심야에 차 한 잔
+    gift: 7003-1
+  }
+  {
+    id: 2249
+    name: C14 - 신입사원
+    gift: 7004-1
+  }
+  {
+    id: 2250
+    name: M4 SOPMODII - 황천의 정비사 Jr
+    gift: 574-1
+  }
+  {
+    id: 2251
+    name: MP-443 - 금박지 편지
+    gift: 7105-1
+  }
+  {
+    id: 2252
+    name: 나강 리볼버 - 네뷸라 크림
+    gift: 7107-1
+  }
+  {
+    id: 2253
+    name: 64식 - 바람을 홀짝이며
+    gift: 7108-1
+  }
+  {
+    id: 2254
+    name: 타부크 - 훈련사의 일상
+    gift: 7204-1
+  }
+  {
+    id: 2255
+    name: 56식반 - 팬더귀 오리기
+    gift: 7206-1
+  }
+  {
+    id: 2256
+    name: AK74M - 회극의 스피릿
+    gift: 7305-1
+  }
+  {
+    id: 2257
+    name: EVO 3 - 진홍색 여름
+    gift: 7307-1
+  }
+  {
+    id: 2258
+    name: CF05 - 둥실둥실 흑백 음표
+    gift: 7306-1
+  }
+  {
+    id: 2259
+    name: TS12 - 은하에 바치는 꽃다발
+    gift: 7408-1
+  }
+  {
+    id: 2260
+    name: 노바 - 샤이닝 슈팅스타
+    gift: 7505-1
+  }
+  {
+    id: 2261
+    name: C14 - 아크 문라이트
+    gift: 7506-1
+  }
+  {
+    id: 2262
+    name: UMP9 - 비스 니즈
+    gift: 583-1
+  }
+  {
+    id: 2263
+    name: UMP40 - 물속 보름달
+    gift: 585-1
+  }
+  {
+    id: 2264
+    name: 스텐 MkII - 누가 내 사탕을 건드렸나
+    gift: 7605-1
+  }
+  {
+    id: 2265
+    name: G43 - 백작의 야간방문
+    gift: 7607-1
+  }
+  {
+    id: 2266
+    name: MG42 - 마녀 실습생
+    gift: 7606-1
+  }
+  {
+    id: 2267
+    name: Ak 5 - 잠자리 물 찍기
+    gift: 7704-1
+  }
+  {
+    id: 2268
+    name: 4식 - 학 다리 서기
+    gift: 7705-1
+  }
+  {
+    id: 2269
+    name: MPL - 서리를 뛰어넘어
+    gift: 7804-1
+  }
+  {
+    id: 2270
+    name: MPK - 얼음절벽의 불꽃
+    gift: 7806-1
+  }
+  {
+    id: 2271
+    name: KSVK - 쌓인 눈 밑에
+    gift: 7807-1
+  }
+  {
+    id: 2272
+    name: Bren Ten - 푹신푹신 딸기타르트
+    gift: 7809-1
+  }
+  {
+    id: 2273
+    name: LTLX7000 - 온라인 레이디
+    gift: 6702-1
+  }
+  {
+    id: 2274
+    name: Lusa - 죽도로 눈바닥 쓸기
+    gift: 6703-1
+  }
+  {
+    id: 2275
+    name: UMP9 - 유현의 여행객
+    gift: 6704-1
+  }
+  {
+    id: 2276
+    name: 콜리브리 - 나팔꽃 납시오
+    gift: 6802-1
+  }
+  {
+    id: 2277
+    name: A-545 - 뺨에 붉은 꽃
+    gift: 6803-1
+  }
+  {
+    id: 2278
+    name: HS.50 - 여울가 소나무
+    gift: 6805-1
+  }
+  {
+    id: 2279
+    name: TKB-408 - 춤추는 모란
+    gift: 6804-1
+  }
+  {
+    id: 2280
+    name: MP7 - 폴링 블루스타
+    gift: 6806-1
+  }
+  {
+    id: 2281
+    name: P22 - 환상의 왈츠
+    gift: 6903-1
+  }
+  {
+    id: 2282
+    name: 79식 - 티끌 사이에서 고개 들기
+    gift: 6904-1
+  }
+  {
+    id: 2283
+    name: 97식 - 바람을 맞으며 기도
+    gift: 6902-1
+  }
+  {
+    id: 2284
+    name: K5 - 비너스의 진
+    gift: 6905-1
+  }
+  {
+    id: 2285
+    name: CZ75 - 야근 사절
+    gift: 7001-1
+  }
+  {
+    id: 2286
+    name: FX-05 - 구름을 향해서
+    gift: 7002-1
+  }
+  {
+    id: 2287
+    name: 100식 - 나비 기담
+    gift: 7102-1
+  }
+  {
+    id: 2288
+    name: 콜트 디펜더 - 스타더스트 커튼
+    gift: 7104-1
+  }
+  {
+    id: 2289
+    name: 라이노 - 고독한 달의 관
+    gift: 7103-1
+  }
+  {
+    id: 2290
+    name: Px4 스톰 - 겨울잠 꿈지기
+    gift: 7203-1
+  }
+  {
+    id: 2291
+    name: MG3 - 미래 구상가
+    gift: 7205-1
+  }
+  {
+    id: 2292
+    name: VSK-94 - 햇님처럼 뛰놀기
+    gift: 7201-1
+  }
+  {
+    id: 2293
+    name: Savage 99 - 감자 스틱 먹을래
+    gift: 7302-1
+  }
+  {
+    id: 2294
+    name: IWS 2000 - 모래성 파괴자
+    gift: 7308-1
+  }
+  {
+    id: 2295
+    name: HS.50 - 노을 진 바다로
+    gift: 7304-1
+  }
+  {
+    id: 2296
+    name: ACR - 별의 바다 탐사
+    gift: 7401-1
+  }
+  {
+    id: 2297
+    name: QBU-88 - 판다의 기묘한 항해
+    gift: 7403-1
+  }
+  {
+    id: 2298
+    name: SCR - 팜 랩소디
+    gift: 7402-1
+  }
+  {
+    id: 2299
+    name: SIG MCX - 초시공 경비대
+    gift: 7404-1
+  }
+  {
+    id: 2300
+    name: CAWS - 역경의 공격수
+    gift: 7503-1
+  }
+  {
+    id: 2301
+    name: SAF - 언덕 질주
+    gift: 7504-1
+  }
+  {
+    id: 2302
+    name: SR-2 - 홈런의 여왕
+    gift: 7502-1
+  }
+  {
+    id: 2303
+    name: HK416 - 화이트 네그로니
+    gift: 581-1
+  }
+  {
+    id: 2304
+    name: G11 - 머릿속의 지우개
+    gift: 582-1
+  }
+  {
+    id: 2305
+    name: AUG Para - 피스코 사워
+    gift: 579-1
+  }
+  {
+    id: 2306
+    name: SL8 - 고스트 피즈
+    gift: 576-1
+  }
+  {
+    id: 2307
+    name: VHS - 위스키 플로트
+    gift: 577-1
+  }
+  {
+    id: 2308
+    name: JS 9 - 대나무를 감싸는 은색 비늘
+    gift: 7603-1
+  }
+  {
+    id: 2309
+    name: PPQ - 손끝에서 태어나
+    gift: 7604-1
+  }
+  {
+    id: 2310
+    name: KH2002 - 지옥의 선봉대
+    gift: 7602-1
+  }
+  {
+    id: 2311
+    name: 류 소총 - 드래곤 소울
+    gift: 7701-1
+  }
+  {
+    id: 2312
+    name: VP1915 - 검은 비늘 가시
+    gift: 7703-1
+  }
+  {
+    id: 2313
+    name: QBZ-191 - 우뚝 선 소나무처럼
+    gift: 7702-1
+  }
+  {
+    id: 2314
+    name: Lusa - 라떼는 노루야
+    gift: 7802-1
+  }
+  {
+    id: 2315
+    name: Vector - 눈밭을 즈려밟으며
+    gift: 6701-1
+  }
+  {
+    id: 2316
+    name: SP9 - 고고한 한란
+    gift: 6801-1
+  }
+  {
+    id: 2317
+    name: 루이스 - 붓꽃에 취한 나비
+    gift: 6901-1
+  }
+  {
+    id: 2318
+    name: ZB-26 - 흔들리는 흑장미
+    gift: 7101-1
+  }
+  {
+    id: 2319
+    name: 95식 - 늦봄 연놀이
+    gift: 7202-1
+  }
+  {
+    id: 2320
+    name: G41 - 천상특급
+    gift: 7406-1
+  }
+  {
+    id: 2321
+    name: 한양조 88식 - 슈퍼 노바 소울
+    gift: 7407-1
+  }
+  {
+    id: 2322
+    name: PA-15 - 얼음 바다 환상의 춤
+    gift: 7501-1
+  }
+  {
+    id: 2323
+    name: UMP45 - 석양빛 맥주
+    gift: 584-1
+  }
+  {
+    id: 2324
+    name: M327 - 항상 뒤에 있어
+    gift: 7601-1
+  }
+  {
+    id: 2325
+    name: 56-1식 - 무쌍 쌍절곤
+    gift: 7706-1
+  }
+  {
+    id: 2326
+    name: 드 라일 - 별빛 뜨개질
+    gift: 7801-1
+  }
+  {
+    id: 2327
+    name: AK-47 - 전쟁의 왕
+    gift: 501-1
+  }
+  {
+    id: 2328
+    name: FNC - 딸기 케익과 코스모스
+    gift: 4308-1
+  }
+  {
+    id: 2329
+    name: 아스트라 리볼버 - 아스트라의 표류기
+    gift: 4708-1
+  }
+  {
+    id: 2330
+    name: 토카레프 - 괴도 스위티
+    gift: 5106-1
+  }
+  {
+    id: 2331
+    name: V-PM5 - 날아라 불가사리
+    gift: 6107-1
+  }
+  {
     id: 3001
     name: 콜트 리볼버
     item_ids: 1318-1
@@ -24026,6 +24633,96 @@
     item_ids: 10712-90
   }
   {
+    id: 7739
+    name: 회색지대 드랍
+    item_ids: 10713-30
+  }
+  {
+    id: 7740
+    name: 회색지대 드랍
+    item_ids: 10713-45
+  }
+  {
+    id: 7741
+    name: 회색지대 드랍
+    item_ids: 10713-60
+  }
+  {
+    id: 7742
+    name: 회색지대 드랍
+    item_ids: 10713-45
+  }
+  {
+    id: 7743
+    name: 회색지대 드랍
+    item_ids: 10713-68
+  }
+  {
+    id: 7744
+    name: 회색지대 드랍
+    item_ids: 10713-90
+  }
+  {
+    id: 7745
+    name: 회색지대 드랍
+    item_ids: 10713-90
+  }
+  {
+    id: 7746
+    name: 회색지대 드랍
+    item_ids: 10713-120
+  }
+  {
+    id: 7747
+    name: 회색지대 드랍
+    item_ids: 10713-75
+  }
+  {
+    id: 7748
+    name: 회색지대 드랍
+    item_ids: 10713-150
+  }
+  {
+    id: 7749
+    name: 회색지대 드랍
+    item_ids: 10713-60
+  }
+  {
+    id: 7750
+    name: 회색지대 드랍
+    item_ids: 10713-135
+  }
+  {
+    id: 7751
+    name: 회색지대 드랍
+    item_ids: 10713-180
+  }
+  {
+    id: 7752
+    name: 회색지대 드랍
+    item_ids: 10713-180
+  }
+  {
+    id: 7753
+    name: 회색지대 드랍
+    item_ids: 10713-270
+  }
+  {
+    id: 7754
+    name: 회색지대 드랍
+    item_ids: 10713-360
+  }
+  {
+    id: 7755
+    name: 회색지대 드랍
+    item_ids: 10713-112
+  }
+  {
+    id: 7756
+    name: 회색지대 드랍
+    item_ids: 10713-90
+  }
+  {
     id: 8001
     name: 신규 유저 일주일 누적 충전 이벤트 1일차
     gem: 50
@@ -24909,84 +25606,84 @@
     id: 10086
     name: 카니발 보상
     mp: 100
-    item_ids: 110068-10
+    item_ids: 110069-10
   }
   {
     id: 10087
     name: 카니발 보상
     mp: 100
-    item_ids: 110068-20
+    item_ids: 110069-20
   }
   {
     id: 10088
     name: 카니발 보상
     ammo: 200
-    item_ids: 110068-20
+    item_ids: 110069-20
   }
   {
     id: 10089
     name: 카니발 보상
     ammo: 200
-    item_ids: 110068-30
+    item_ids: 110069-30
   }
   {
     id: 10090
     name: 카니발 보상
     mre: 200
-    item_ids: 110068-20
+    item_ids: 110069-20
   }
   {
     id: 10091
     name: 카니발 보상
     mre: 200
-    item_ids: 110068-30
+    item_ids: 110069-30
   }
   {
     id: 10092
     name: 카니발 보상
     mre: 200
-    item_ids: 110068-50
+    item_ids: 110069-50
   }
   {
     id: 10093
     name: 카니발 보상
     part: 100
-    item_ids: 110068-30
+    item_ids: 110069-30
   }
   {
     id: 10094
     name: 카니발 보상
     part: 100
-    item_ids: 110068-50
+    item_ids: 110069-50
   }
   {
     id: 10095
     name: 카니발 보상
     part: 100
-    item_ids: 110068-100
+    item_ids: 110069-100
   }
   {
     id: 10096
     name: 카니발 보상
     part: 200
-    item_ids: 110068-50
+    item_ids: 110069-50
   }
   {
     id: 10097
     name: 카니발 보상
     part: 200
-    item_ids: 110068-100
+    item_ids: 110069-100
   }
   {
     id: 10098
     name: 카니발 보상
     part: 300
-    item_ids: 110068-150
+    item_ids: 110069-150
   }
   {
     id: 10099
     name: 카니발 보상
-    item_ids: 110068-200,45-200
+    item_ids: 110069-200,45-200
   }
   {
     id: 10100
@@ -24998,47 +25695,51 @@
   {
     id: 10101
     name: 이벤트 보상
-    item_ids: 9-20,4-5,6003-2,525-5
+    item_ids: 9-20,4-2,6003-2,525-5
     icon: Bumdle_brown
   }
   {
     id: 10102
     name: 이벤트 보상
-    item_ids: 3-5,525-5
+    item_ids: 3-2,525-5
     coins: 2-200
     icon: Bumdle_indigo
+    commander_uniform: "5811,5812"
   }
   {
     id: 10103
     name: 이벤트 보상
-    item_ids: 1-5,45-100,506-200,601-2,525-5
+    item_ids: 1-2,45-100,506-200,525-5
     icon: Bumdle_guoqing
+    commander_uniform: "5851,5852"
   }
   {
     id: 10104
     name: 이벤트 보상
-    core: 10
-    item_ids: 41-20,8-1
+    core: 5
+    item_ids: 41-20
     icon: Bumdle_yellow
+    commander_uniform: "5831,5832"
   }
   {
     id: 10105
     name: 이벤트 보상
-    gift: 100003-10,9008-1
+    gun_id: "399"
+    gift: 100003-10
     icon: Bumdle_bline
   }
   {
     id: 10106
     name: 이벤트 보상
-    item_ids: 45-100,6009-2
-    coins: 3-200
+    item_ids: 601-1,6009-2
+    coins: 3-100
     icon: Bumdle_navy
     bp_pay: 10
   }
   {
     id: 10107
     name: 이벤트 보상
-    item_ids: 45-200,41-50,1-10,103-1,10604-3
+    item_ids: 45-100,41-20,1-5,103-1,10604-3
     icon: Bumdle_blue
   }
   {
@@ -49908,6 +50609,21 @@
     equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294,182,371,198,266"
   }
   {
+    id: 150104
+    name: 회색지대-제11기-5성 장비 선택 풀
+    equip_ids: "16,20,32,44,66,72,90"
+  }
+  {
+    id: 150105
+    name: 회색지대-제11기-4성이하 인형 전용장비 풀
+    equip_ids: "211,337,338,342,343,348,248,351,352,355,242,358,359,365,366,368,369,264,372,374,375,216,385"
+  }
+  {
+    id: 150106
+    name: 회색지대-제11기-5성인형 전용장비 풀
+    equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294,182,371,198,266,304,384"
+  }
+  {
     id: 200001
     name: 5성 파츠 보상 목록
     vehicle_component: "1001"
@@ -50116,6 +50832,31 @@
     id: 200042
     name: 5성 파츠 보상 목록
     vehicle_component: "1129"
+  }
+  {
+    id: 200043
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1130"
+  }
+  {
+    id: 200044
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1131"
+  }
+  {
+    id: 200045
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1132"
+  }
+  {
+    id: 200046
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1133"
+  }
+  {
+    id: 200047
+    name: 5성 파츠 보상 목록
+    vehicle_component: "1134"
   }
   {
     id: 201001
@@ -50328,6 +51069,36 @@
     vehicle_component: "2129"
   }
   {
+    id: 201043
+    name: prize-10201043
+    content: prize-20201043
+    vehicle_component: "2130"
+  }
+  {
+    id: 201044
+    name: prize-10201044
+    content: prize-20201044
+    vehicle_component: "2131"
+  }
+  {
+    id: 201045
+    name: prize-10201045
+    content: prize-20201045
+    vehicle_component: "2132"
+  }
+  {
+    id: 201046
+    name: prize-10201046
+    content: prize-20201046
+    vehicle_component: "2133"
+  }
+  {
+    id: 201047
+    name: prize-10201047
+    content: prize-20201047
+    vehicle_component: "2134"
+  }
+  {
     id: 202001
     name: 3성 파츠 보상 목록
     vehicle_component: "3001"
@@ -50536,6 +51307,31 @@
     id: 202042
     name: 3성 파츠 보상 목록
     vehicle_component: "3129"
+  }
+  {
+    id: 202043
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3130"
+  }
+  {
+    id: 202044
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3131"
+  }
+  {
+    id: 202045
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3132"
+  }
+  {
+    id: 202046
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3133"
+  }
+  {
+    id: 202047
+    name: 3성 파츠 보상 목록
+    vehicle_component: "3134"
   }
   {
     id: 203001

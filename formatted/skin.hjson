@@ -8522,6 +8522,91 @@
     skin_source: 1
   }
   {
+    id: 10101
+    name: QBZ-191 - 냉향묵염
+    fit_gun: 361
+    voice: 15
+    dialog: 지휘관도 《구구소한도》에 흥미가 있어? 맞아, 이 아홉 송이 매화꽃의 아홉 꽃잎에 색을 전부 칠하면 겨울이 지나가게 되지... 자, 같이 겨울을 이겨내자!
+    order: 123
+    class_id: 97
+    skin_source: 2
+  }
+  {
+    id: 10102
+    name: SCR - 서리 바람의 노래
+    fit_gun: 365
+    voice: 15
+    dialog: 이 자세로 괜찮나요...? 악기 모델을 하는 건 처음이네요, 얼굴을 드러내진 않는다지만... 뭐, 뭐요? 얼굴이 보여요? 으, 면사포가 너무 얇구나. 다음에 마스크로 바꿔도 돼요?
+    order: 123
+    class_id: 97
+    skin_source: 2
+  }
+  {
+    id: 10103
+    name: SPAS-12 - 새해 대박 기원
+    fit_gun: 162
+    voice: 15
+    dialog: 새해에 행운이 덩굴채로 굴러오길! 지휘관, 축복은 했으니까 세해 잔칫상 먹으러 갈게! 지나치게 먹긴 무슨, 스타킹 터질 일도 없어... 아마도...
+    illustrator_cv: YoYo,Kobori Miyuki,
+    order: 123
+    class_id: 97
+    skin_source: 2
+  }
+  {
+    id: 10104
+    name: PTRD - 깊은 밤 촛불
+    fit_gun: 42
+    voice: 15
+    dialog: 환한 전등보다 밤에 촛불을 켜서 어둡고 밝은 게 분위기가 있다고? ...그렇지, 그럼 불장난은 조심해야 해.
+    order: 123
+    class_id: 97
+    skin_source: 2
+  }
+  {
+    id: 10105
+    name: PP-19 - 바람에 눈꽃 흩날려
+    fit_gun: 136
+    voice: 15
+    dialog: 큰일이다 큰일, 옷을 고르느라 시간을 잊어서 지휘관한테 세배도 안 했어! ...앗, 지휘관? 새해 복 많이 받아! 해마다 즐겁길 바라!
+    gift_position: "-36.3,-22.7"
+    illustrator_cv: 多尔,Serizawa Yuu,
+    order: 123
+    class_id: 97
+    skin_source: 1
+  }
+  {
+    id: 10106
+    name: AS Val - 시냇물에 흩날리는 꽃잎
+    fit_gun: 60
+    voice: 15
+    dialog: 꽃잎이 떨어지는 소리... 곰돌이가 무척 좋아해요.
+    illustrator_cv: 星迴,Uesaka Sumire,
+    order: 123
+    class_id: 97
+    skin_source: 2
+  }
+  {
+    id: 10107
+    name: Bren ten - 잉어로운 한해
+    fit_gun: 139
+    voice: 15
+    dialog: 저는 올해에 엄청 커다란 등롱을 만들어서 저랑 지휘관님을 태우고 날아올라 하늘 위의 달님을 볼 거예요!
+    illustrator_cv: 小星,Sato Arise,
+    order: 123
+    class_id: 97
+  }
+  {
+    id: 10108
+    name: QBU-191 - 그 향을 찾아서
+    fit_gun: 388
+    voice: 15
+    dialog: 물을 뜨면 달을 손 안에 담고, 꽃을 따면 향이 옷에 가득해지네. 지휘관, 이렇게 특별한 꽃 향기를 가져다 주어 고마워요.
+    gift_position: "223.4,224.2"
+    order: 123
+    class_id: 97
+    skin_source: 1
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     fit_gun: 57
