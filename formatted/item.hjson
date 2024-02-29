@@ -694,6 +694,15 @@
     rank: 1
   }
   {
+    id: 131
+    type: 3
+    arg: "32"
+    code: Medal_SAC2045
+    item_name: 거울 탈출자 훈장
+    introduction: '''"거울문의 지속" 이벤트에서 눈부신 활약을 보인 지휘관 및 휘하 인형에게 수여합니다. "잔잔한 수면 밑에 급류가 거칠게 흐른다, 오직 너의 눈만이 진실을 꿰뚫어 본다."'''
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -14058,6 +14067,51 @@
     rank: 1
   }
   {
+    id: 2449
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_Motoko
+    item_name: 쿠사나기 모토코 - 고스트의 속삭임
+    introduction: 쿠사나기 모토코 - 고스트의 속삭임
+    rank: 1
+  }
+  {
+    id: 2450
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_Ezaki
+    item_name: 에사키 푸린 - 고스트 해커
+    introduction: 에사키 푸린 - 고스트 해커
+    rank: 1
+  }
+  {
+    id: 2451
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_Mizukinn
+    item_name: 미즈카네 스즈카 - 몽중 레퀴엠
+    introduction: 미즈카네 스즈카 - 몽중 레퀴엠
+    rank: 1
+  }
+  {
+    id: 2452
+    type: 5
+    arg: "1"
+    code: profilePic_friendmall_M110
+    item_name: M110 아이콘
+    introduction: M110 아이콘
+    rank: 1
+  }
+  {
+    id: 2453
+    type: 5
+    arg: "1"
+    code: card_friendmall_M110
+    item_name: 카드배경: 드림 베이커리
+    introduction: 카드배경: 드림 베이커리
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -15302,6 +15356,15 @@
     id: 10712
     type: 18
     arg: "10712"
+    code: daily_points
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
+    rank: 1
+  }
+  {
+    id: 10713
+    type: 18
+    arg: "10713"
     code: daily_points
     item_name: 회색지대 점수
     introduction: 회색지대 점수
@@ -17164,6 +17227,34 @@
     code: Platinum_medal_black
     item_name: 백금훈장·한푼차이
     introduction: 백금훈장·한푼차이
+    rank: 1
+  }
+  {
+    id: 100204
+    type: 9
+    arg: "100204"
+    code: Coin_SAC2045
+    item_name: 파경의 명예
+    introduction: 파경의 명예
+    rank: 1
+    daily_limit: "60"
+  }
+  {
+    id: 100205
+    type: 4
+    arg: "100205"
+    code: Nova_medal_black
+    item_name: 노바 훈장·거울문의 지속
+    introduction: 노바 훈장·거울문의 지속
+    rank: 1
+  }
+  {
+    id: 100206
+    type: 4
+    arg: "100206"
+    code: Platinum_medal_black
+    item_name: 백금 훈장·거울문의 지속
+    introduction: 백금 훈장·거울문의 지속
     rank: 1
   }
   {
@@ -19174,16 +19265,15 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄 포수
+    item_name: *제1기 전선협약
     rank: 1
-    detail_introduction: item-30140001
   }
   {
     id: 140002
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄 포수
+    item_name: *제1기 전선협약 강화
     rank: 1
   }
   {
@@ -19191,7 +19281,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄 포수
+    item_name: *제2기 전선협약
     rank: 1
   }
   {
@@ -19199,7 +19289,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄 포수
+    item_name: *제2기 전선협약 강화
     rank: 1
   }
   {
@@ -19207,7 +19297,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄포수
+    item_name: *제3기 전선협약
     rank: 1
   }
   {
@@ -19215,7 +19305,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄포수
+    item_name: *제3기 전선협약 강화
     rank: 1
   }
   {
@@ -19223,7 +19313,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄 포수
+    item_name: *제4기 전선협약
     rank: 1
   }
   {
@@ -19231,7 +19321,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄 포수
+    item_name: *제4기 전선협약 강화
     rank: 1
   }
   {
@@ -19239,7 +19329,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄포수
+    item_name: *제5기 전선협약
     rank: 1
   }
   {
@@ -19247,7 +19337,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄포수
+    item_name: *제5기 전선협약 강화
     rank: 1
   }
   {
@@ -19255,7 +19345,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄포수
+    item_name: *제6기 전선협약
     rank: 1
   }
   {
@@ -19263,7 +19353,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄포수
+    item_name: *제6기 전선협약 강화
     rank: 1
   }
   {
@@ -19271,7 +19361,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄 포수
+    item_name: *제7기 전선협약
     rank: 1
   }
   {
@@ -19279,7 +19369,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄 포수
+    item_name: *제7기 전선협약 강화
     rank: 1
   }
   {
@@ -19287,7 +19377,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄 포수
+    item_name: *제8기 전선협약
     rank: 1
   }
   {
@@ -19295,7 +19385,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄 포수
+    item_name: *제8기 전선협약 강화
     rank: 1
   }
   {
@@ -19303,7 +19393,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄포수
+    item_name: *제9기 전선협약
     rank: 1
   }
   {
@@ -19311,7 +19401,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄포수
+    item_name: *제9기 전선협약 강화
     rank: 1
   }
   {
@@ -19319,7 +19409,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄 포수
+    item_name: *제10기 전선협약
     rank: 1
   }
   {
@@ -19327,7 +19417,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄 포수
+    item_name: *제10기 전선협약 강화
     rank: 1
   }
   {
@@ -19335,7 +19425,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄 포수
+    item_name: *제11기 전선협약
     rank: 1
   }
   {
@@ -19343,7 +19433,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄 포수
+    item_name: *제11기 전선협약 강화
     rank: 1
   }
   {
@@ -19351,7 +19441,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄포수
+    item_name: *제12기 전선협약
     rank: 1
   }
   {
@@ -19359,7 +19449,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄포수
+    item_name: *제12기 전선협약 강화
     rank: 1
   }
   {
@@ -19367,7 +19457,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄포수
+    item_name: *제13기 전선협약
     rank: 1
   }
   {
@@ -19375,7 +19465,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄포수
+    item_name: *제13기 전선협약 강화
     rank: 1
   }
   {
@@ -19383,7 +19473,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄 포수
+    item_name: *제14기 전선협약
     rank: 1
   }
   {
@@ -19391,7 +19481,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄 포수
+    item_name: *제14기 전선협약 강화
     rank: 1
   }
   {
@@ -19399,7 +19489,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄 포수
+    item_name: *제15기 전선협약
     rank: 1
   }
   {
@@ -19407,7 +19497,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄 포수
+    item_name: *제15기 전선협약 강화
     rank: 1
   }
   {
@@ -19415,7 +19505,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄포수
+    item_name: *제16기 전선협약
     rank: 1
   }
   {
@@ -19423,7 +19513,7 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: *유탄포수
+    item_name: *제16기 전선협약 강화
     rank: 1
   }
   {
@@ -19797,6 +19887,15 @@
     code: profileFrame_bonus_snack
     item_name: 액자·장은제세
     introduction: 액자·장은제세
+    rank: 1
+  }
+  {
+    id: 200041
+    type: 1
+    arg: "1"
+    code: profileFrame_friendmall_M110
+    item_name: 액자·찹쌀 동화
+    introduction: 액자·찹쌀 동화
     rank: 1
   }
   {
@@ -21267,6 +21366,36 @@
     code: package_choose
     item_name: 고등 전용장비 선택 코드
     introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700016
+    type: 15
+    arg: "1700016"
+    code: package_choose
+    item_name: 기초장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700017
+    type: 15
+    arg: "1700017"
+    code: package_choose
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700018
+    type: 15
+    arg: "1700018"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
   }

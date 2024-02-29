@@ -11996,4 +11996,38 @@
     is_show: 1
     obtain_ids: "3016"
   }
+  {
+    id: 386
+    name: 특제 PR 레일
+    description:
+      '''
+      치명률+<critical_percent><%>
+      명중+<hit>스킬 강화$MG5 전용
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    hit: "14,16"
+    critical_percent: "18,20"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: Accessories_SP_MG5
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "109"
+    equip_introduction: 클래식한 디자인에 중합소재를 채용하여, 레일의 무게를 줄이는 동시에, 디자인도 어느 정도 정밀해졌습니다.
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: hit:1000,critical_percent:1000
+    passive_skill: "1000301"
+    max_level: 10
+    auto_select_id: 18118
+    is_show: 1
+    obtain_ids: "3103"
+    description_skill: 1000301
+  }
 ]
