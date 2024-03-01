@@ -199,4 +199,22 @@
     group_skill: 2:759312
     fit_gun: "20002"
   }
+  {
+    id: 23
+    name: 단독군장
+    des: LWMMG를 위해 맞춤 제작한 세트, 모두 가성비 높은 재료를 사용하여 예산 낭비가 없습니다.
+    code: EgroupLWMMG
+    equip_unit: "0,131,385"
+    group_skill: 2:1000103
+    fit_gun: "20081"
+  }
+  {
+    id: 24
+    name: 스탠드 바이 유
+    des: M950A를 위해 맞춤 제작한 세트, 벗과의 유대, 그리고 모두와 함께 나아갈 소망을 담았습니다.
+    code: EgroupM950A
+    equip_unit: "179,0,384"
+    group_skill: 2:1000203
+    fit_gun: "20097"
+  }
 ]

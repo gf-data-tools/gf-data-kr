@@ -3646,8 +3646,10 @@
     powerup_part: 0.15
     exclusive_rate: 3
     bonus_type: hit:1000,pow:1000,critical_percent:1000
+    passive_skill: "1000101"
     max_level: 10
     auto_select_id: 18025
+    group_id: "23"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -5209,8 +5211,10 @@
     powerup_part: 0.23
     exclusive_rate: 3
     bonus_type: dodge:700,critical_percent:350
+    passive_skill: "1000201"
     max_level: 10
     auto_select_id: 18051
+    group_id: "24"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -11995,6 +11999,75 @@
     auto_select_id: 20080
     is_show: 1
     obtain_ids: "3016"
+  }
+  {
+    id: 384
+    name: FA 오리지널 외골격
+    description:
+      '''
+      명중<hit>
+      회피+<dodge>$M950A MOD 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    hit: "-5,-3"
+    dodge: "20,25"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_M950AMod
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "20097"
+    equip_introduction: 망가진 M950A의 외골격을 전면 업그레이드했지만, 양식은 바뀌지 않았습니다. 이 장비를 선물해준 한 친구를 기념하기 위해서라고 하네요.
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: dodge:800
+    passive_skill: "1000202"
+    max_level: 10
+    auto_select_id: 20081
+    group_id: "24"
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
+    id: 385
+    name: 64형 경량 군장
+    description:
+      '''
+      치명상+<critical_harm_rate><%>
+      장탄수+<bullet_number_up>$LWMMG MOD 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    critical_harm_rate: "6,10"
+    bullet_number_up: "3,4"
+    retire_mp: 1
+    retire_ammo: 1
+    retire_mre: 1
+    retire_part: 5
+    code: TDoll_SP_LWMMGMod
+    develop_duration: 3420
+    company: IOP
+    fit_guns: "20081"
+    equip_introduction: LWMMG를 위해 설계한 보병 장비. 가성비 높은 재료로 제작하여 튼튼하게 오래 쓸 수 있습니다.
+    powerup_mp: 0.1
+    powerup_ammo: 0.1
+    powerup_mre: 0.1
+    powerup_part: 0.55
+    exclusive_rate: 3
+    bonus_type: bullet_number_up:1000,critical_harm_rate:1000
+    passive_skill: "1000102"
+    max_level: 10
+    auto_select_id: 20082
+    group_id: "23"
+    is_show: 1
+    obtain_ids: "3096"
   }
   {
     id: 386
