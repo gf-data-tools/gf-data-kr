@@ -36912,45 +36912,6 @@
     classification_id: 3002
   }
   {
-    id: 11805
-    type: 8
-    gift: 600-1
-    gemprice: 1280
-    if_cheap: 1
-    quota: 2001
-    giftbag_name: 쿠사나기 모토코 - 고스트의 속삭임
-    event_code: dailyGiftbag
-    icon: Bumdle_suzi
-    discount: 1
-    classification_id: 3003
-  }
-  {
-    id: 11806
-    type: 8
-    gift: 598-1
-    gemprice: 1280
-    if_cheap: 1
-    quota: 2001
-    giftbag_name: 에사키 푸린 - 고스트 해커
-    event_code: dailyGiftbag
-    icon: Bumdle_pulin
-    discount: 1
-    classification_id: 3003
-  }
-  {
-    id: 11807
-    type: 8
-    gift: 599-1
-    gemprice: 1280
-    if_cheap: 1
-    quota: 2001
-    giftbag_name: 미즈카네 스즈카 - 몽중 레퀴엠
-    event_code: dailyGiftbag
-    icon: Bumdle_linglu
-    discount: 1
-    classification_id: 3003
-  }
-  {
     id: 11808
     type: 9
     item_ids: 2453-1
