@@ -222,4 +222,22 @@
     pic: ai_guard
     color: ffffff
   }
+  {
+    id: 26
+    force_id: 2
+    ai_type: 201
+    name: 순찰
+    description: 지정된 경로를 따라 이동합니다. 동시에 인접 거점을 경계하여, 경로에서 최대 1칸 이탈할 수 있습니다. 특정 스킬의 영향을 받습니다.
+    pic: ai_patrol
+    color: ffffff
+  }
+  {
+    id: 27
+    force_id: 2
+    ai_type: 202
+    name: 경계
+    description: 警경계 범위 안에 다른 세력이 없을 경우 제자리를 지키며, 경계 범위에 다른 세력이 들어오면 "가능한 최단 경로"를 따라 "가장 가까운" 적 제대를 향해 이동합니다. 특정 스킬의 영향을 받습니다.
+    pic: ai_guard
+    color: ffffff
+  }
 ]

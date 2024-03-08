@@ -27844,6 +27844,229 @@
     rotate: "3,3,3"
   }
   {
+    id: 11301
+    name: 성결한 찬송가-아치 지붕 아래
+    classes: 113
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 화려한 건물과 장식 아래에 있는 것은 차곡차곡 쌓아올린 벽돌입니다. 수수하고 튼튼하게 행복의 무게를 짊어지고 있죠.
+    code: WhiteV2024_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 11302
+    name: 성결한 찬송가-꿈속의 에덴 동산
+    classes: 113
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 비록 초록이 가득하고 근심 없는 생활이 몽환포영에 불과해도, 이상향을 향하는 추구는 끝내 우리를 각자의 낙원으로 인도할 것입니다.
+    code: WhiteV2024_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 11303
+    name: 성결한 찬송가-안녕의 담벽
+    classes: 113
+    type: 201
+    position: "19,5"
+    space: "6,4,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 주인공과 하객들 사이를 나누는 신성한 분계선. 앞줄은 좋지만 너무 열정적인 건 안 돼요.
+    code: WhiteV2024_deco_01
+    texture_type: "1"
+    offset: "-0.042,-0.511,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11304
+    name: 성결한 찬송가-고요의 담벽
+    classes: 113
+    type: 201
+    position: "9,5"
+    space: "6,4,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 주인공과 하객들 사이를 나누는 신성한 분계선. 앞줄은 좋지만 너무 열정적인 건 안 돼요.
+    code: WhiteV2024_deco_02
+    texture_type: "1"
+    offset: "0.010,-0.375,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11305
+    name: 성결한 찬송가-기원 성상
+    classes: 113
+    type: 201
+    position: "7,0"
+    space: "3,3,1,1,1,0"
+    deco_rate: 950
+    decompose_gift: 100003
+    description: 역사의 풍파를 견딘 오래된 석상, 기도하는 순간에 고정되어 있습니다. "만약 나도 꿈쩍하지 않으면 미래의 인류도 내게 인사하지 않을까?" 디너게이트 한 마리는 이렇게 생각하며 슬쩍 자신을 회색으로 도색합니다.
+    code: WhiteV2024_deco_03
+    texture_type: "1"
+    offset: "0.000,-0.094,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11306
+    name: 성결한 찬송가-샴페인의 유혹
+    classes: 113
+    type: 201
+    position: "29,11"
+    space: "5,3,1,1,1,0"
+    deco_rate: 1050
+    decompose_gift: 100003
+    description: 많은 이들은 결혼식을 보기 위해서가 아닌 감미로운 술을 노리고 옵니다. 하지만 신성한 땅에도 금기가 있나니, 병에 담긴 물건은 그저 탄산음료일 뿐입니다.
+    code: WhiteV2024_deco_04
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "2"
+  }
+  {
+    id: 11307
+    name: 성결한 찬송가-미니 스태프
+    classes: 113
+    type: 202
+    position: "10,9"
+    space: "4,5,1,1,1,0"
+    deco_rate: 1050
+    decompose_gift: 100003
+    description: 바쁘게 움직이는 촬영팀, 멀찍이서 노란 디너게이트가 지휘하는 소리가 들립니다. "너, 캔버스 잘 봐! 너넨 삼각대 고정 단단히 하고!...어라, 내 확성기 어디 갔어?"
+    code: WhiteV2024_videoAnt
+    texture_type: "2"
+    offset: "0.125,0.219,0.000"
+    rotate: "2"
+    interact_point: "73"
+    interact_point_offset: *-0.788,0.882,0.000
+    touch_area: "4,5,4"
+  }
+  {
+    id: 11308
+    name: 성결한 찬송가-풍요로운 존엄
+    classes: 113
+    type: 201
+    position: "24,11"
+    space: "5,3,1,1,1,0"
+    deco_rate: 1050
+    decompose_gift: 100003
+    description: 사람들로 북적이는 샴페인 테이블에 맞서, 과일 화채 테이블도 이에 질세라 존재감을 과시합니다... 냄비와 젓가락은 뭐냐고요? 그저 눈높이를 맞추기 위한 장식일 뿐입니다.
+    code: WhiteV2024_deco_05
+    texture_type: "1"
+    offset: "-0.240,-0.125,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11309
+    name: 성결한 찬송가-소원 연못
+    classes: 113
+    type: 201
+    position: "27,0"
+    space: "6,5,1,1,1,0"
+    deco_rate: 1050
+    decompose_gift: 100003
+    description: '''"분수대를 등지고 금화 한닢을 안에 던지면 소원을 3개 빌 수 있어요, 엄청 영험하답니다!" --분수 관리자 카리나의 친절한 설명.'''
+    code: WhiteV2024_deco_06,WhiteV2024_fountainPigeon
+    texture_type: "1,2"
+    sorting: "0,0"
+    offset: "-0.270,-0.169,0.000|-0.125,2.117,0.000"
+    rotate: "2,2"
+  }
+  {
+    id: 11310
+    name: 성결한 찬송가-서약의 단상
+    classes: 113
+    type: 201
+    position: "11,0"
+    space: "12,5,1,1,0,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 레드 카펫의 끝은 이곳으로 이어집니다. 여기서는 말 한마디 한마디 모두 경외심을 가지고 해야 합니다. 단상 위에 신께서 듣고 계시니까요.
+    code: WhiteV2024_deco_07,WhiteV2024_deco_08,WhiteV2024_deco_09,WhiteV2024_weddingStage
+    texture_type: "1,1,1,2"
+    sorting: "0,0,20,10"
+    offset: "-1.189,-0.271,0.000|3.419,-0.271,0.000|0.083,0.375,0.000|-0.021,2.252,0.000"
+    rotate: "2,2,2,2"
+    interact_point: "74"
+    interact_point_offset: *0.204,1.366,-0.285
+  }
+  {
+    id: 11311
+    name: 성결한 찬송가-행복의 새장
+    classes: 113
+    type: 202
+    position: "0,0"
+    space: "7,7,1,1,0,0"
+    deco_rate: 1100
+    decompose_gift: 100003
+    description: 새덫의 기본 원리를 참고하여, 안에 편안한 그네 의자를 뒀습니다. 이것으로 아무리 신준한 하객도 이것의 유혹을 뿌리칠 수가 없게 되죠, 대신 초당으로 계산되는 요금이 대가입니다.
+    code: WhiteV2024_deco_10,WhiteV2024_swingPigeon,WhiteV2024_swingPigeon2
+    texture_type: "1,2,2"
+    sorting: "0,0,0"
+    offset: "-0.375,-1.387,3.305|-0.688,2.742,3.305|-0.288,-0.624,3.305"
+    rotate: "2,2,2"
+    interact_point: "12"
+    interact_point_offset: *0.263,2.533,-0.285
+  }
+  {
+    id: 11312
+    name: 성결한 찬송가-평화 광장의 성연
+    classes: 113
+    type: 201
+    position: "19,9"
+    space: "4,4,1,1,0,0"
+    deco_rate: 1050
+    decompose_gift: 100003
+    description: 왜 이들이 날지 않는지 더는 묻지 마세요, 배부르게 먹어야 퍼포먼스할 기운이 나지 않겠습니까!
+    code: WhiteV2024_pigeon
+    texture_type: "2"
+    offset: "0,0,0"
+    rotate: "2"
+    touch_area: "4,4,4"
+  }
+  {
+    id: 11313
+    name: 성결한 찬송가-축복의 별고리
+    classes: 113
+    type: 201
+    position: "16,6"
+    space: "2,2,1,1,1,1"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 회전하며 분해되어... 하늘 저편 가장 아름다운 행성이 여기에 풍요로운 축복을 내립니다.
+    code: WhiteV2024_deco_11
+    texture_type: "1"
+    offset: "0.000,1.037,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11314
+    name: 성결한 찬송가-뇌전백영
+    classes: 113
+    type: 201
+    position: "3,10"
+    space: "6,3,1,1,1,1"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 왕자에게 왕관이 없을 순 있어도 우아한 마필이 없어선 안 되죠. 설령 회전목마에서 떼어낸 부품이라 할지라도 아무것도 없는 것보다는 났죠.
+    code: WhiteV2024_deco_12
+    texture_type: "1"
+    offset: "0.000,-0.209,0.000"
+    rotate: "2"
+    interact_point: "12"
+    interact_point_offset: *-0.613,2.874,-0.285
+  }
+  {
     id: 20000
     name: 명탕 라오
     classes: 81
@@ -29575,6 +29798,80 @@
     rotate: "2"
   }
   {
+    id: 20112
+    name: 사이버 수정구슬
+    classes: 19
+    type: 201
+    space: "2,2,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 원래는 2Z64 구역 운행을 보조하던 AI였지만, 일부 설정과 프로그램을 떼어낸 후 지금은 인형의 질문에 무엇이든 대답해주는 수정구슬이 되었습니다.
+    code: 2024Ghost_deco01,2024Ghost_Cyberbrain
+    texture_type: "1,2"
+    sorting: "0,20"
+    offset: "0.000,-0.176,-0.041|0.000,1.096,0.253"
+    rotate: "2,2"
+  }
+  {
+    id: 20113
+    name: 풀 다이브 에뮬레이터
+    classes: 19
+    type: 202
+    space: "3,3,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 원래는 지휘관이 2Z64 구역에 접속할 수 있게 만드는 체험 디바이스였지만, 지금은 낮잠 자기 편한 의자가 됐습니다.
+    code: 2024Ghost_deco04,2024Ghost_deco02,2024Ghost_LinkedDevice
+    texture_type: "1,1,2"
+    sorting: "0,20,10"
+    offset: "0.000,-0.057,-0.013|0.000,-0.054,-0.013|0.670,0.315,-0.137"
+    rotate: "2,2,2"
+    interact_point: "14"
+    interact_point_offset: *-1.021,1.593,-0.285
+  }
+  {
+    id: 20114
+    name: 철창 단체사진
+    classes: 19
+    type: 302
+    space: "5,6,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2Z64 구역에서 촬영한 단체사진, 익명을 요구한 여성분의 강한 요구로 지휘실에 걸어놨습니다.
+    code: 2024Ghost_deco03
+    texture_type: "1"
+    offset: "0.000,0.558,0.000"
+    rotate: "3"
+  }
+  {
+    id: 20115
+    name: 끝나지 않는 밤
+    classes: 19
+    type: 301
+    space: "9,5,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 여기서 더는 시간의 흐름을 느낄 수 없고, 오직 데이터 스트림만이 밤하늘을 쉬지 않고 가로지릅니다.
+    code: 2024Ghost_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20116
+    name: 잠이 없는 바닥
+    classes: 19
+    type: 101
+    space: "3,5,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 시간의 흐름이 의미가 없어지니, 수면도 자연스레 떠났습니다.
+    code: 2024Ghost_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
     id: 20117
     name: 타치코마
     classes: 299
@@ -29590,6 +29887,34 @@
     interact_point: "17"
     interact_point_offset: *0.166,0.105,-0.285
     bonus_id: 3108
+  }
+  {
+    id: 20118
+    name: 영원을 가리키는 문양
+    classes: 19
+    type: 302
+    space: "2,5,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 어쩌면 인류는 저너머에 있는 행복에 영영 도달하지 못할 수도 있지만, 그래도 망설이지 마세요, 우리가 지나가온 흔적은 따라오는 자에게 앞길을 가리켜줄 테니.
+    code: 2024Ghost_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20119
+    name: 설원향의 방과 별
+    classes: 81
+    type: 201
+    space: "5,4,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 북쪽땅의 기나긴 밤을 별들이 수놓으며, 오로라가 소나무 끝에 드리워, 깊은 밤하늘과 함께 새하얀 꿈을 자아냅니다.
+    code: 2024KP31_decoA
+    texture_type: "1"
+    offset: "0.000,-0.120,-0.028"
+    rotate: "2"
   }
   {
     id: 30001
@@ -31446,6 +31771,51 @@
     decompose_gift: 100003
     description: MG42의 포스터
     code: poster_ChessBonus_MG42
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30598
+    name: 에사키 푸린 - 고스트 해커
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 에사키 푸린의 포스터
+    code: poster_Ghost2024_Ezaki
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30599
+    name: 미즈카네 스즈카 - 몽중 레퀴엠
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 미즈카네 스즈카의 포스터
+    code: poster_Ghost2024_Mizukinn
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 30600
+    name: 쿠사나기 모토코 - 고스트의 속삭임
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 쿠사나기 모토코의 포스터
+    code: poster_Ghost2024_Motoko
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
@@ -44560,6 +44930,141 @@
     rotate: "3"
   }
   {
+    id: 310201
+    name: Erma - 달밑 천사의 눈물
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Erma의 포스터
+    code: poster_WhiteV2024_Erma
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310202
+    name: HK433 - 해질녘의 헤메라의 창
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: HK433의 포스터
+    code: poster_WhiteV2024_HK433
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310203
+    name: HK416 - 투명한 파랑
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: HK416의 포스터
+    code: poster_WhiteV2024_HK416
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310204
+    name: 류 소총 - 맑은 목소리 솔직한 마음
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 류 소총의 포스터
+    code: poster_WhiteV2024_GeneralLiu
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310205
+    name: X95 - 에이레네의 속삭임
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: X95의 포스터
+    code: poster_WhiteV2024_X95
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310207
+    name: K2 - 꽃 아래에 둘이서
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: K2의 포스터
+    code: poster_WhiteV2024_K2
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310208
+    name: Saiga-12 - 물속의 여린 그림자
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Saiga-12의 포스터
+    code: poster_WhiteV2024_Saiga12
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310209
+    name: G3 - 마일드 스칼렛
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: G3의 포스터
+    code: poster_WhiteV2024_G3
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310210
+    name: G43 - 광영의 춤
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: G43의 포스터
+    code: poster_WhiteV2024_G43
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 330001
     name: ST AR-15 - 여름의 솔솔 바람
     classes: 300
@@ -44779,6 +45284,21 @@
     decompose_gift: 100003
     description: 95식의 포스터
     code: poster_BattlePass_95type
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330017
+    name: M16A1 - 요원에게 휴일이란 없다
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M16A1의 포스터
+    code: poster_BattlePass_M16A1
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

@@ -433,6 +433,18 @@
     description: 기간한정 이벤트 【만성쇼크】 보급상자에서 출현
   }
   {
+    obtain_id: "260"
+    description: 기간한정 이벤트【거울문의 지속】클리어 보상
+  }
+  {
+    obtain_id: "261"
+    description: 기간한정 이벤트【거울문의 지속】에서 구조 가능
+  }
+  {
+    obtain_id: "262"
+    description: 기간한정 이벤트【거울문의 지속】 상점 교환
+  }
+  {
     obtain_id: "301"
     description: 기간한정 이벤트 【황금 달빛】 보상
   }
@@ -1300,5 +1312,9 @@
   {
     obtain_id: "3112"
     description: 2024년 12월 출석 보상
+  }
+  {
+    obtain_id: "3113"
+    description: 기간한정 이벤트 <거울문의 지속> 상점 교환
   }
 ]

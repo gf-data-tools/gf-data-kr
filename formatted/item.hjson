@@ -13878,6 +13878,105 @@
     rank: 1
   }
   {
+    id: 2417
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_01
+    item_name: 아이콘: 지켜보는 우수
+    introduction: 아이콘: 지켜보는 우수
+    rank: 1
+  }
+  {
+    id: 2418
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_02
+    item_name: 아이콘: 분홍빛 소용돌이로
+    introduction: 아이콘: 분홍빛 소용돌이로
+    rank: 1
+  }
+  {
+    id: 2419
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_03
+    item_name: 아이콘: 유대를 이어서
+    introduction: 아이콘: 유대를 이어서
+    rank: 1
+  }
+  {
+    id: 2420
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_04
+    item_name: 아이콘: 기사의 돌격 시기
+    introduction: 아이콘: 기사의 돌격 시기
+    rank: 1
+  }
+  {
+    id: 2421
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_05
+    item_name: 아이콘: 땅거미를 바라보다
+    introduction: 아이콘: 땅거미를 바라보다
+    rank: 1
+  }
+  {
+    id: 2422
+    type: 5
+    arg: "1"
+    code: profilePic_Ghost2024_06
+    item_name: 아이콘: 술잔에 밤 벚꽃
+    introduction: 아이콘: 술잔에 밤 벚꽃
+    rank: 1
+  }
+  {
+    id: 2423
+    type: 5
+    arg: "1"
+    code: card_Ghost2024_01
+    item_name: 카드배경: 속 타는 밤
+    introduction: 카드배경: 속 타는 밤
+    rank: 1
+  }
+  {
+    id: 2424
+    type: 5
+    arg: "1"
+    code: card_Ghost2024_02
+    item_name: 카드배경: 진리는 가시처럼
+    introduction: 카드배경: 진리는 가시처럼
+    rank: 1
+  }
+  {
+    id: 2425
+    type: 5
+    arg: "1"
+    code: card_Ghost2024_03
+    item_name: 카드배경: 세상의 끝자락
+    introduction: 카드배경: 세상의 끝자락
+    rank: 1
+  }
+  {
+    id: 2426
+    type: 5
+    arg: "1"
+    code: card_Ghost2024_04
+    item_name: 카드배경: 냉혹한 도원향
+    introduction: 카드배경: 냉혹한 도원향
+    rank: 1
+  }
+  {
+    id: 2427
+    type: 5
+    arg: "1"
+    code: cg_Ghost2024
+    item_name: 기지배경: 타치코마의 일상
+    introduction: 기지배경: 타치코마의 일상
+    rank: 1
+  }
+  {
     id: 2428
     type: 5
     arg: "1"
@@ -14109,6 +14208,105 @@
     code: card_friendmall_M110
     item_name: 카드배경: 드림 베이커리
     introduction: 카드배경: 드림 베이커리
+    rank: 1
+  }
+  {
+    id: 2454
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M16A1
+    item_name: 카드배경: 총성이 울리고
+    introduction: 카드배경: 총성이 울리고
+    rank: 1
+  }
+  {
+    id: 2455
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M16A1
+    item_name: M16A1 - 요원에게 휴일이란 없다
+    introduction: M16A1 - 요원에게 휴일이란 없다
+    rank: 1
+  }
+  {
+    id: 2456
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_Erma
+    item_name: Erma - 달밑 천사의 눈물
+    introduction: Erma - 달밑 천사의 눈물
+    rank: 1
+  }
+  {
+    id: 2457
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_HK433
+    item_name: HK433 - 해질녘의 헤메라의 창
+    introduction: HK433 - 해질녘의 헤메라의 창
+    rank: 1
+  }
+  {
+    id: 2458
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_HK416
+    item_name: HK416 - 투명한 파랑
+    introduction: HK416 - 투명한 파랑
+    rank: 1
+  }
+  {
+    id: 2459
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_GeneralLiu
+    item_name: 류 소총 - 맑은 목소리 솔직한 마음
+    introduction: 류 소총 - 맑은 목소리 솔직한 마음
+    rank: 1
+  }
+  {
+    id: 2460
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_X95
+    item_name: X95 - 에이레네의 속삭임
+    introduction: X95 - 에이레네의 속삭임
+    rank: 1
+  }
+  {
+    id: 2461
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_K2
+    item_name: K2 - 꽃 아래에 둘이서
+    introduction: K2 - 꽃 아래에 둘이서
+    rank: 1
+  }
+  {
+    id: 2462
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_Saiga12
+    item_name: Saiga-12 - 물속의 여린 그림자
+    introduction: Saiga-12 - 물속의 여린 그림자
+    rank: 1
+  }
+  {
+    id: 2463
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_G3
+    item_name: G3 - 마일드 스칼렛
+    introduction: G3 - 마일드 스칼렛
+    rank: 1
+  }
+  {
+    id: 2464
+    type: 5
+    arg: "1"
+    code: profilePic_WhiteV2024_G43
+    item_name: G43 - 광영의 춤
+    introduction: G43 - 광영의 춤
     rank: 1
   }
   {
@@ -19517,6 +19715,22 @@
     rank: 1
   }
   {
+    id: 140033
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제17기 전선협약
+    rank: 1
+  }
+  {
+    id: 140034
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제17기 전선협약 강화
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -19891,11 +20105,20 @@
   }
   {
     id: 200041
-    type: 1
+    type: 5
     arg: "1"
     code: profileFrame_friendmall_M110
     item_name: 액자·찹쌀 동화
     introduction: 액자·찹쌀 동화
+    rank: 1
+  }
+  {
+    id: 200042
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M16A1
+    item_name: 프로필 액자·등잔밑의 먼지
+    introduction: 프로필 액자·등잔밑의 먼지
     rank: 1
   }
   {
@@ -21189,6 +21412,46 @@
     code: Bumdle_Coupons1
     item_name: 로열 코스튬 추첨권
     introduction: 창고에서 이 추첨권을 사용하면 출현 범위 중 보유하지 않은 코스튬 하나를 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500120
+    type: 15
+    arg: "1500120"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약 - 위스키 스톰 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500121
+    type: 15
+    arg: "1500121"
+    code: package_choose
+    item_name: 탄창 장비 선택 코드
+    introduction: 전선협약 - 위스키 스톰 보상, 지정 리스트에서 원하는 탄창 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500122
+    type: 15
+    arg: "1500122"
+    code: package_random
+    item_name: 미해금 인형 확정 코드
+    introduction: 전선협약 - 위스키 스톰 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500123
+    type: 15
+    arg: "1500123"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약 - 위스키 스톰 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
     rank: 1
     sort: -1
   }

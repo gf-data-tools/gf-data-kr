@@ -1821,6 +1821,15 @@
     offset: "0,0"
   }
   {
+    id: 1000167
+    name: 콜라보 스캔 이팩트
+    code: LDFX_saomiao
+    description: 콜라보 스캔 이팩트
+    duration: 1
+    size: 1.5
+    offset: "0,0"
+  }
+  {
     id: 9490401
     name: 【표식】반짝반짝
     code: ddl_xingxing

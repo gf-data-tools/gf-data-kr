@@ -1480,6 +1480,20 @@
     years: 2023
   }
   {
+    id: 113
+    name: 성결한 찬송가
+    rank: 5
+    bonus_picture: "3109"
+    k_bonus: 6:2000,9:5000,12:8000
+    bonus_number: 14
+    description: 하얀 예식장을 주제로 한 가구 세트입니다. 그날, 하얀 비둘기가 하늘의 축복을 물어오고, 스테인드글라스 창문이 순백의 드레스를 물들여... 여기서 우리는 서로의 손을 잡고 평생 잊지 않기를 맹세합니다.
+    bonus_description: 가구세트를 모아 숙소에 배치하면 특별한 일들이 일어납니다.
+    code: WhiteV2024_deco_07_icon
+    is_showed: 1
+    placement: 1
+    years: 2023
+  }
+  {
     id: 299
     name: 애완동물
     rank: 5

@@ -369,4 +369,17 @@
     is_date: "2"
     decorate_code: Logo_Events
   }
+  {
+    id: "32"
+    name: 거울 탈출자 훈장
+    order: "68"
+    evo_step: "1"
+    appearance_id: "196"
+    item_id: "131"
+    medal_obtain: '''"거울문의 지속" 이벤트에서 눈부신 활약을 보인 지휘관 및 휘하 인형에게 수여합니다.'''
+    medal_color: "#ff0000"
+    is_date: "2"
+    decorate_code: Logo_Events
+    if_elite_medal: "1"
+  }
 ]

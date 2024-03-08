@@ -547,7 +547,7 @@ vehicle_component-20001132,패시브: 중화기 공격 거리 상승. 일정시�
 vehicle_component-40001132,
 vehicle_component-50001132,
 vehicle_component-10001133,위장망
-vehicle_component-20001133,전략 스킬: 3턴간 적에게 발견되지 않는다.(원격 타격 제외)
+vehicle_component-20001133,전역 스킬: 3턴간 적에게 탐지되지 않는다(원격 타격 제외). 단 한번만 사용 가능.
 vehicle_component-40001133,
 vehicle_component-50001133,
 vehicle_component-10001134,상부 격자 장갑
@@ -567,7 +567,7 @@ vehicle_component-20002132,패시브: 중화기 공격 거리 상승. 일정시�
 vehicle_component-40002132,
 vehicle_component-50002132,
 vehicle_component-10002133,위장망
-vehicle_component-20002133,전략 스킬: 3턴간 적에게 발견되지 않는다.(원격 타격 제외)
+vehicle_component-20002133,전역 스킬: 3턴간 적에게 탐지되지 않는다(원격 타격 제외). 단 한번만 사용 가능.
 vehicle_component-40002133,
 vehicle_component-50002133,
 vehicle_component-10002134,상부 격자 장갑
@@ -587,10 +587,22 @@ vehicle_component-20003132,패시브: 중화기 공격 거리 상승. 일정시�
 vehicle_component-40003132,
 vehicle_component-50003132,
 vehicle_component-10003133,위장망
-vehicle_component-20003133,전략 스킬: 3턴간 적에게 발견되지 않는다.(원격 타격 제외)
+vehicle_component-20003133,전역 스킬: 3턴간 적에게 탐지되지 않는다(원격 타격 제외). 단 한번만 사용 가능.
 vehicle_component-40003133,
 vehicle_component-50003133,
 vehicle_component-10003134,상부 격자 장갑
 vehicle_component-20003134,패시브: 전투 시작 시 보호를 받아 받는 피해를 일정수치로 제한한다. 피해를 일정횟수 받은 후 해제. 액티브: 해당 효과를 다시 얻는다.
 vehicle_component-40003134,
 vehicle_component-50003134,
+vehicle_component-10000101,타치코마
+vehicle_component-20000101,중화기 계수<h_weapon_ratio> 명중 계수<hit_ratio> 사속 계수<atk_speed_ratio> 장전 계수<reload_ratio> 정밀 계수<precision_ratio>
+vehicle_component-40000101,
+vehicle_component-50000101,
+vehicle_component-10000102,타치코마
+vehicle_component-20000102,색적 범위<search_range> 경화기 계수<l_weapon_ratio> 명중 계수<hit_ratio> 사속 계수<atk_speed_ratio> 장전 계수<reload_ratio> 정밀 계수<precision_ratio>
+vehicle_component-40000102,
+vehicle_component-50000102,
+vehicle_component-10000103,타치코마
+vehicle_component-20000103,
+vehicle_component-40000103,
+vehicle_component-50000103,

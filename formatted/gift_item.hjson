@@ -1866,6 +1866,48 @@
     normal_description: 선물 시 호감도 획득
   }
   {
+    id: 598
+    name: 에사키 푸린 - 고스트 해커
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 1043
+    skin: 598
+    poster: 30598
+    code: gift_bundle_Ghost2024_Ezaki
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 599
+    name: 미즈카네 스즈카 - 몽중 레퀴엠
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 1044
+    skin: 599
+    poster: 30599
+    code: gift_bundle_Ghost2024_Mizukinn
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 600
+    name: 쿠사나기 모토코 - 고스트의 속삭임
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 1042
+    skin: 600
+    poster: 30600
+    code: gift_bundle_Ghost2024_Motoko
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
     id: 601
     name: 토카레프 - 두 사람의 인생
     type: 2
@@ -10098,6 +10140,132 @@
     normal_description: 선물 시 호감도 획득
   }
   {
+    id: 10201
+    name: Erma - 달밑 천사의 눈물
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 376
+    skin: 10201
+    poster: 310201
+    code: gift_bundle_WhiteV2024_Erma
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10202
+    name: HK433 - 해질녘의 헤메라의 창
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 390
+    skin: 10202
+    poster: 310202
+    code: gift_bundle_WhiteV2024_HK433
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10203
+    name: HK416 - 투명한 파랑
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 65
+    skin: 10203
+    poster: 310203
+    code: gift_bundle_WhiteV2024_HK416
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10204
+    name: 류 소총 - 맑은 목소리 솔직한 마음
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 316
+    skin: 10204
+    poster: 310204
+    code: gift_bundle_WhiteV2024_GeneralLiu
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10205
+    name: X95 - 에이레네의 속삭임
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 251
+    skin: 10205
+    poster: 310205
+    code: gift_bundle_WhiteV2024_X95
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10207
+    name: K2 - 꽃 아래에 둘이서
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 194
+    skin: 10207
+    poster: 310207
+    code: gift_bundle_WhiteV2024_K2
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10208
+    name: Saiga-12 - 물속의 여린 그림자
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 160
+    skin: 10208
+    poster: 310208
+    code: gift_bundle_WhiteV2024_Saiga12
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10209
+    name: G3 - 마일드 스칼렛
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 63
+    skin: 10209
+    poster: 310209
+    code: gift_bundle_WhiteV2024_G3
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10210
+    name: G43 - 광영의 춤
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 47
+    skin: 10210
+    poster: 310210
+    code: gift_bundle_WhiteV2024_G43
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     type: 2
@@ -10303,6 +10471,20 @@
     skin: 30015
     poster: 330015
     code: gift_bundle_BattlePass_95type
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 30017
+    name: M16A1 - 요원에게 휴일이란 없다
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 54
+    skin: 30017
+    poster: 330017
+    code: gift_bundle_BattlePass_M16A1
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
     normal_description: 선물 시 호감도 획득
@@ -10583,6 +10765,20 @@
     normal_description: 선물 시 호감도 획득
   }
   {
+    id: 100022
+    name: 비터 푸딩
+    type: 1
+    rank: 5
+    favor: 30000
+    code: gift_item_GhostPudding
+    bonus_description: 자판기에서 흔히 볼 수 있는 캐러멜 푸딩, 그런데 어째서인지 약간 씁쓸한 맛이 납니다.
+    description: 선물받은 인형의 호감도가 3 상승합니다.
+    item_access: "2"
+    detail_introduction: 자판기에서 흔히 볼 수 있는 캐러멜 푸딩, 그런데 어째서인지 약간 씁쓸한 맛이 납니다.
+    sort: -1017
+    normal_description: 선물 시 호감도 획득
+  }
+  {
     id: 200001
     name: 작전보고서
     type: 3
@@ -10854,6 +11050,20 @@
     item_access: "2"
     detail_introduction: 아이돌이 되는 길에 지름길은 없고, 오로지 꾸준한 연습을 통해야만 무대에 올라 관객들이 뒤돌아보게 할 수 있다.
     sort: -1016
+    normal_description: 인형과 요정에게 선물 시 경험치 획득
+  }
+  {
+    id: 200022
+    name: 전자 파편
+    type: 3
+    rank: 5
+    code: gift_item_GhostPiece
+    bonus_description: 2Z64 구역에서 노획한 데이터 단편, 해체하여 분석하면 그 안의 경험을 취득할 수 있습니다.
+    description: 숙소에서 인형에게 선물 시, 경험치가 10000 상승합니다.
+    exp: 10000
+    item_access: "2"
+    detail_introduction: 2Z64 구역에서 노획한 데이터 단편, 해체하여 분석하면 그 안의 경험을 취득할 수 있습니다.
+    sort: -1017
     normal_description: 인형과 요정에게 선물 시 경험치 획득
   }
   {

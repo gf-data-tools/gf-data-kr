@@ -3100,6 +3100,14 @@
     code_b: Console_Icon
   }
   {
+    id: 640104
+    code_a: Rouge_591004
+    description_a: 타치코마
+    description_b: 광학위장 탐지
+    description_c: 가동
+    code_b: Console_Icon
+  }
+  {
     id: 1000101
     code_a: Rock
     description_a: 아군 제대
@@ -4798,6 +4806,22 @@
     description_a: 아군 제대
     description_b: 차단문 X1
     description_c: 열기
+    code_b: Console_Icon
+  }
+  {
+    id: 6400000
+    code_a: SAC2045_CamouflageSkill
+    description_a: 아군 제대
+    description_b: 광학위장
+    description_c: 가동
+    code_b: Console_Icon
+  }
+  {
+    id: 6400003
+    code_a: SAC2045_CamouflageSkill
+    description_a: 아군 제대
+    description_b: 광학위장
+    description_c: 해제
     code_b: Console_Icon
   }
   {
