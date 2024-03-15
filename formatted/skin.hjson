@@ -1441,6 +1441,7 @@
     dialog: 정기 보안 검사예요! 아무리 숨기려고 해도 제 스캔에서 벗어날 순 없어요!
     gift_position: "-131.7,391.4"
     order: 124
+    class_id: 53
     skin_source: 1
   }
   {
@@ -1451,6 +1452,7 @@
     dialog: 가상세계에 의식을 맡기고, 현실의 고민은 잊어버려. 그렇게 사는 게 편하지 않겠어?
     gift_position: "-345.2,-23.4"
     order: 124
+    class_id: 53
     skin_source: 1
   }
   {
@@ -1461,6 +1463,7 @@
     dialog: 쉿... 고스트가 속삭이고 있어...
     gift_position: "-148.8,-37.1"
     order: 124
+    class_id: 53
     skin_source: 1
   }
   {
