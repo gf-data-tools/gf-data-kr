@@ -3613,8 +3613,10 @@
     powerup_part: 0.15
     exclusive_rate: 3
     bonus_type: critical_percent:1000,hit:1000
+    passive_skill: "1000401"
     max_level: 10
     auto_select_id: 18024
+    group_id: "25"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -5650,8 +5652,10 @@
     powerup_part: 0.38
     exclusive_rate: 3
     bonus_type: dodge:800
+    passive_skill: "1000501"
     max_level: 10
     auto_select_id: 20027
+    group_id: "26"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -12203,5 +12207,109 @@
     is_addition: 1
     is_show: 1
     obtain_ids: "3113"
+  }
+  {
+    id: 390
+    name: Maid 전용 칩셋
+    description:
+      '''
+      화력+<pow> 명중+<hit>
+      회피+<dodge>$G36 Mod 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "10,15"
+    hit: "3,5"
+    dodge: "8,10"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_G36
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "20064"
+    equip_introduction: G36에 맞춤 제작한 칩셋, 아무리 바쁜 때라도 계산 미스를 최소화합니다.
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:700,hit:1000,dodge:1000
+    passive_skill: "1000402"
+    max_level: 10
+    auto_select_id: 20079
+    group_id: "25"
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
+    id: 391
+    name: MK5식 신호총
+    description:
+      '''
+      명중+<hit>
+      제대 명중+20%$RO635 Mod 전용
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    hit: "12,15"
+    skill_effect: 150
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: Magazine_SP_RO635
+    develop_duration: 3600
+    company: 16Lab
+    fit_guns: "20143"
+    equip_introduction: RO635가 임무 수행 시 항상 휴대하는 신호총, 여러 위험한 순간에서 중요한 역할을 해와서 낡았다고 핀잔을 줘도 바꿀 생각을 않습니다.
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3
+    bonus_type: hit:700
+    passive_skill: "759034,1000502"
+    max_level: 10
+    auto_select_id: 19074
+    group_id: "26"
+    is_show: 1
+    obtain_ids: "3096"
+    sp_description: 제대 명중+20%
+  }
+  {
+    id: 392
+    name: 9x18mm SPK
+    description:
+      '''
+      화력+<pow>
+      관통<armor_piercing>스킬 강화$시프카 전용
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "12,15"
+    armor_piercing: "-10,-7"
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: Magazine_SP_Shipka
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "150"
+    equip_introduction: 기존 9x18mm 권총탄을 기반으로 개량하여, 탄두 심을 원뿔 구조로 설계해 총구 속도를 높인 시프카가 애용하는 탄약입니다.
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3
+    bonus_type: pow:500
+    passive_skill: "1001001"
+    max_level: 10
+    auto_select_id: 19075
+    is_show: 1
+    obtain_ids: "3104"
+    description_skill: 1001001
   }
 ]

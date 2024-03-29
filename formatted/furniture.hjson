@@ -37582,6 +37582,21 @@
     rotate: "3"
   }
   {
+    id: 36307
+    name: Zas M76 - 길 찾는 티티나
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Zas M76의 포스터
+    code: poster_AprilFool2024_ZasM76
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 36401
     name: 95식 - 티끌 없는 물결
     classes: 300

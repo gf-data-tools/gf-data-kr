@@ -14310,6 +14310,15 @@
     rank: 1
   }
   {
+    id: 2465
+    type: 5
+    arg: "1"
+    code: profilePic_AprilFool2024_ZasM76
+    item_name: Zas M76 - 길 찾는 티티나
+    introduction: Zas M76 - 길 찾는 티티나
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -15563,6 +15572,15 @@
     id: 10713
     type: 18
     arg: "10713"
+    code: daily_points
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
+    rank: 1
+  }
+  {
+    id: 10714
+    type: 18
+    arg: "10714"
     code: daily_points
     item_name: 회색지대 점수
     introduction: 회색지대 점수
@@ -18117,6 +18135,15 @@
     id: 110069
     type: 4
     arg: "110069"
+    code: PT
+    item_name: 이벤트 점수
+    introduction: 이벤트 점수
+    rank: 1
+  }
+  {
+    id: 110070
+    type: 4
+    arg: "110070"
     code: PT
     item_name: 이벤트 점수
     introduction: 이벤트 점수
@@ -21656,6 +21683,36 @@
     id: 1700018
     type: 15
     arg: "1700018"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700019
+    type: 15
+    arg: "1700019"
+    code: package_choose
+    item_name: 기초장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700020
+    type: 15
+    arg: "1700020"
+    code: package_choose
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1700021
+    type: 15
+    arg: "1700021"
     code: package_choose
     item_name: 고등 전용장비 선택 코드
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.

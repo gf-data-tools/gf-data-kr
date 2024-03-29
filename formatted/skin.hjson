@@ -6498,6 +6498,16 @@
     skin_source: 3
   }
   {
+    id: 6307
+    name: Zas M76 - 길 찾는 티티나
+    fit_gun: 284
+    voice: 4
+    dialog: 우리 도시 한복판에서 길을 잃은 걸까요? 기왕 이렇게 된 거, 종착지 없는 산책을 하자고요~!
+    illustrator_cv: --,Izumi Fuka,
+    order: 127
+    class_id: 99
+  }
+  {
     id: 6401
     name: 95식 - 티끌 없는 물결
     fit_gun: 129
