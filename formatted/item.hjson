@@ -14319,6 +14319,24 @@
     rank: 1
   }
   {
+    id: 2467
+    type: 5
+    arg: "1"
+    code: card_BattlePass_HS50
+    item_name: 카드배경: 급제의 환송가
+    introduction: 카드배경: 급제의 환송가
+    rank: 1
+  }
+  {
+    id: 2468
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_HS50
+    item_name: HS.50 - 전자오락 프로 육성기
+    introduction: HS.50 - 전자오락 프로 육성기
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -19758,6 +19776,22 @@
     rank: 1
   }
   {
+    id: 140035
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제18기 전선협약
+    rank: 1
+  }
+  {
+    id: 140036
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제18기 전선협약 plus
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -20146,6 +20180,15 @@
     code: profileFrame_BattlePass_M16A1
     item_name: 프로필 액자·등잔밑의 먼지
     introduction: 프로필 액자·등잔밑의 먼지
+    rank: 1
+  }
+  {
+    id: 200043
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_HS50
+    item_name: 액자: 러브, 머신 앤 시그널
+    introduction: 액자: 러브, 머신 앤 시그널
     rank: 1
   }
   {
@@ -21479,6 +21522,46 @@
     code: package_random
     item_name: 전선협약-추가보상
     introduction: 전선협약 - 위스키 스톰 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500124
+    type: 15
+    arg: "1500124"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약-클라우드 쓰론 보상, 지정 범위에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500125
+    type: 15
+    arg: "1500125"
+    code: package_choose
+    item_name: 인형 장비 선택 코드
+    introduction: 전선협약-클라우드 쓰론 보상, 지정 범위에서 원하는 인형 유형 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500126
+    type: 15
+    arg: "1500126"
+    code: package_random
+    item_name: 미해금 인형 확정 코드
+    introduction: 전선협약-클라우드 쓰론 보상, 목록 중 도감을 해금하지 않은 인형을 하나 확정으로 획득합니다. 전부 해금한 경우 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500127
+    type: 15
+    arg: "1500127"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-클라우드 쓰론 보상, 목록 중 무작위 한 가지 보상을 얻습니다.
     rank: 1
     sort: -1
   }

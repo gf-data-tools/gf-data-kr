@@ -8884,4 +8884,12 @@
     illustrator_cv: 小枪,Yamane Nozomi,
     order: 125
   }
+  {
+    id: 30018
+    name: HS.50 - 전자오락 프로 육성기
+    fit_gun: 348
+    voice: 4
+    dialog: 기지 실험실에서 최신 개발한 AI 슈팅 미니게임. 1등상은... 지휘관님과 함께 만찬?! 저, 전원 케이블이 어디 있지? 열심히 해야겠어!
+    order: 128
+  }
 ]

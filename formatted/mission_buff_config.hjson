@@ -53,7 +53,7 @@
     description: 피해차감
     code: buff
     type: 1
-    duration_type: "1,5"
+    duration_type: "1,51"
     duration_time: "1,1"
     exp_buff: "1"
     battle_skill_config_id: 900113
@@ -113,7 +113,7 @@
     description: 피해차감
     code: buff
     type: 1
-    duration_type: "1,5"
+    duration_type: "1,51"
     duration_time: "1,2"
     exp_buff: "1"
     battle_skill_config_id: 900113
@@ -125,7 +125,7 @@
     description: 제대 능력치 상승
     code: buff
     type: 1
-    duration_type: "1,5"
+    duration_type: "1,51"
     duration_time: "1,1"
     exp_buff: "1"
     battle_skill_config_id: 900154
@@ -444,7 +444,7 @@
     description: 사막 환경에서 이동속도, 사속, 명중 지속 감소. 모래춤 요정 소지 시 디버프 저항 및 피해 차감.
     code: ExtraAp
     type: 1
-    duration_type: "1,5"
+    duration_type: "1,51"
     duration_time: "1,1"
     exp_buff: "1"
     battle_skill_config_id: 900900
@@ -509,7 +509,7 @@
     description: 제대 능력치 상승
     code: buff
     type: 1
-    duration_type: "1,5"
+    duration_type: "1,51"
     duration_time: "1,2"
     exp_buff: "1"
     battle_skill_config_id: 900154

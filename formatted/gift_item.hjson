@@ -10504,6 +10504,20 @@
     normal_description: 선물 시 호감도 획득
   }
   {
+    id: 30018
+    name: HS.50 - 전자오락 프로 육성기
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 348
+    skin: 30018
+    poster: 330018
+    code: gift_bundle_BattlePass_HS50
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
     id: 100001
     name: 막대사탕
     type: 1
