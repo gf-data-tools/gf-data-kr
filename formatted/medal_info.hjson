@@ -382,4 +382,17 @@
     decorate_code: Logo_Events
     if_elite_medal: "1"
   }
+  {
+    id: "33"
+    name: 시간지불자 훈장
+    order: "67"
+    evo_step: "1"
+    appearance_id: "197"
+    item_id: "132"
+    medal_obtain: 기간한정 이벤트 오귀인의 샘물의 모든 도전을 완수한 지휘관님께 수여합니다.
+    medal_color: "#ff0000"
+    is_date: "2"
+    decorate_code: Logo_Events
+    if_elite_medal: "1"
+  }
 ]

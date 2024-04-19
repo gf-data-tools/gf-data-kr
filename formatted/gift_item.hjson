@@ -10280,6 +10280,104 @@
     normal_description: 선물 시 호감도 획득
   }
   {
+    id: 10301
+    name: TPS - 심장 멈추기 놀이
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 387
+    skin: 10301
+    poster: 310301
+    code: gift_bundle_Hospital2024_TPS
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10302
+    name: 콜트 워커 - 매기와 나이트 토킹
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 375
+    skin: 10302
+    poster: 310302
+    code: gift_bundle_Hospital2024_ColtWalker
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10303
+    name: 97식 산탄총 - 자백제 어뷰저
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 161
+    skin: 10303
+    poster: 310303
+    code: gift_bundle_Hospital2024_97typeS
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10304
+    name: Mk48 - 연애뇌 메이커
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 121
+    skin: 10304
+    poster: 310304
+    code: gift_bundle_Hospital2024_Mk48
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10305
+    name: 표도로프 - 박하색 입김
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 335
+    skin: 10305
+    poster: 310305
+    code: gift_bundle_Hospital2024_Fedorov
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10306
+    name: PP-90 - 등불 밑 자장가
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 23
+    skin: 10306
+    poster: 310306
+    code: gift_bundle_Hospital2024_PP90
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10307
+    name: CZ52 - 까마귀 퇴치 마녀
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 210
+    skin: 10307
+    poster: 310307
+    code: gift_bundle_Hospital2024_CZ52
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     type: 2

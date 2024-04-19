@@ -1,5 +1,12 @@
 [
   {
+    id: -15
+    name: 그림자 스티븐스520
+    code: NPC_Stevens520_Shadow
+    title: 그림자 스티븐스520
+    ai: 9999
+  }
+  {
     id: -14
     name: 그리폰
     code: Org_Griffin

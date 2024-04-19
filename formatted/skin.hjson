@@ -719,7 +719,7 @@
     fit_gun: 55
     voice: 4
     dialog: 집의 좌표는 항상 기억해둬요, 하지만 여행을 포기하진 않아요. 당신도 저와 함께 풍선에 매달려 모험을 떠날 건가요?
-    illustrator_cv: 影法师,Tomatsu Haruka,
+    illustrator_cv: STAR影法师,Tomatsu Haruka,
     order: 52
     class_id: 59
     skin_source: 3
@@ -731,7 +731,7 @@
     voice: 4
     dialog: 얘네들 왜 자꾸 나만 귀찮게 하는 걸까? 누가 대신 쫓아내줬으면 좋겠는데...
     gift_position: "-137.1,-115.5"
-    illustrator_cv: 影法师,Tamura Yukari,
+    illustrator_cv: STAR影法师,Tamura Yukari,
     order: 52
     class_id: 59
     skin_source: 1
@@ -743,7 +743,7 @@
     voice: 4
     dialog: 왜 당신의 정신 나간 모험에 어울려주냐고요? 까마귀는 책상과 닮았으니까.
     gift_position: "-117.4,-159.7"
-    illustrator_cv: 影法师,Katou Emiri,
+    illustrator_cv: STAR影法师,Katou Emiri,
     order: 52
     class_id: 59
     skin_source: 1
@@ -755,7 +755,7 @@
     voice: 4
     dialog: 서둘러, 이제 시간이 없어... 그럼, 이 마지막 남은 시간에 네 질문을 하나만 대답해줄게.
     gift_position: "-156.9,-65.1"
-    illustrator_cv: 影法师,Yamane Nozomi,
+    illustrator_cv: STAR影法师,Yamane Nozomi,
     order: 52
     class_id: 59
     skin_source: 1
@@ -767,7 +767,7 @@
     voice: 4
     dialog: 참 지겨운 일이지만, 당신을 지킬 수만 있다면 24시간 내내 기다릴 수 있습니다.
     gift_position: "-103.86,-153.6"
-    illustrator_cv: 影法师,Fukuhara Ayaka,
+    illustrator_cv: STAR影法师,Fukuhara Ayaka,
     order: 52
     class_id: 59
     skin_source: 1
@@ -779,7 +779,7 @@
     voice: 4
     dialog: 똑똑똑~ 예약하신 마술 서비스가 왔습니다~ 예약한 적 없다고요? 그럼 비켜, 지금 문을 발로 뻥 차서 열 테니까.
     gift_position: "-168.1,-125.5"
-    illustrator_cv: 影法师,Mineuchi Tomomi,
+    illustrator_cv: STAR影法师,Mineuchi Tomomi,
     order: 52
     class_id: 59
     skin_source: 1
@@ -791,7 +791,7 @@
     voice: 4
     dialog: 짠짠짠! 마술사의 소원성취 사무소가 문을 열었습니다! 이루고 싶은 소원이 있으면 45 언니 뒤에 줄을 서!
     gift_position: "-37.9,-144.7"
-    illustrator_cv: 影法师,Noto Mamiko,
+    illustrator_cv: STAR影法师,Noto Mamiko,
     order: 52
     class_id: 59
     skin_source: 1
@@ -803,7 +803,7 @@
     voice: 4
     dialog: 쏙쏙쏙... 이 사탕을 먹은 순간 저와 약속하는 거예요. 안 지키면 가만 안 둘 겁니다.
     gift_position: "-113.1,-146.1"
-    illustrator_cv: 影法师,Nonaka Ai,
+    illustrator_cv: STAR影法师,Nonaka Ai,
     order: 52
     class_id: 59
     skin_source: 1
@@ -815,7 +815,7 @@
     voice: 4
     dialog: 찍찍찍~ 응? 토끼는 울음소리가 없다고? 그럼 나중에 누가 찾을 때 그냥 자는 척하면 되겠다...
     gift_position: "-121.8,-80.1"
-    illustrator_cv: 影法师,Fukuhara Ayaka,
+    illustrator_cv: STAR影法师,Fukuhara Ayaka,
     order: 52
     class_id: 59
     skin_source: 1
@@ -827,7 +827,7 @@
     voice: 4
     dialog: 쑥쑥쑥~ 내게 맡긴 소원들은 아무도 모르는 화분 속에서 싹트고 있어...
     gift_position: "-109.4,-181"
-    illustrator_cv: 影法师,Uema Emi,
+    illustrator_cv: STAR影法师,Uema Emi,
     order: 52
     class_id: 59
     skin_source: 1
@@ -5527,6 +5527,15 @@
     note: 오리지널
   }
   {
+    id: 5074
+    name: 79식 - 오리지널
+    fit_gun: 20127
+    voice: 4
+    is_hidden: 2
+    dialog: 오리지널
+    note: 오리지널
+  }
+  {
     id: 5101
     name: 류 소총 - 버드나무 여우불
     fit_gun: 316
@@ -8747,6 +8756,81 @@
     class_id: 98
   }
   {
+    id: 10301
+    name: TPS - 심장 멈추기 놀이
+    fit_gun: 387
+    voice: 4
+    dialog: 게임 한 판 하자, 지휘관. 누가 심장을 더 오래 멈추나! 그치, 인형은 심장이 없지, 그러니까 내가 백퍼 이긴다구~
+    order: 129
+    class_id: 100
+    skin_source: 2
+  }
+  {
+    id: 10302
+    name: 콜트 워커 - 매기와 나이트 토킹
+    fit_gun: 375
+    voice: 4
+    dialog: 투자에 관해 상담하러 왔어? 최근 마침 몇 억짜리... 아, 대본 잘못 들었다. 잠깐만... 지휘관, 오늘도 심리 상담 서비스를 받을 거야?
+    order: 129
+    class_id: 100
+    skin_source: 2
+  }
+  {
+    id: 10303
+    name: 97식 산탄총 - 자백제 어뷰저
+    fit_gun: 161
+    voice: 4
+    dialog: 지휘관님, 왜 그렇게 우물쭈물하시죠? 할말 있으면 그냥 하세요! 계속 안 말하면 자백제를 투여할 거예요!
+    illustrator_cv: 豆芽,Ootsubo Yuka,
+    order: 129
+    class_id: 100
+    skin_source: 2
+  }
+  {
+    id: 10304
+    name: Mk48 - 연애뇌 메이커
+    fit_gun: 121
+    voice: 4
+    dialog: CT 사진을 보니까 나에 대한 사랑이 아직 부족한걸. 걱정 마, 이쪽하고 이쪽 뇌조직을 도려내면 완전한 연애뇌가 될 테니까~
+    gift_position: "-241,87.5"
+    illustrator_cv: YoYo,Tachibana Ricca,
+    order: 129
+    class_id: 100
+    skin_source: 1
+  }
+  {
+    id: 10305
+    name: 표도로프 - 박하색 입김
+    fit_gun: 335
+    voice: 4
+    dialog: 제가 새로 배운 릴랙스 방법을 시도해 보실래요? 자, 절 따라 심호흡하세요. 후읍... 하아... 어떄요? 고민 걱정 다 날아가는 기분인가요?
+    order: 129
+    class_id: 100
+    skin_source: 2
+  }
+  {
+    id: 10306
+    name: PP-90 - 등불 밑 자장가
+    fit_gun: 23
+    voice: 4
+    dialog: 무슨 말씀을 하시는지 모르겠어요. 무슨 시스터후드라든가, 메이드라든가... 이상한 꿈이라도 꾸셨나요? 그럼 이쪽에 누우세요, 제가 옆에서 재워드릴 테니까요.
+    illustrator_cv: 多尔,Aoki Shiki,
+    order: 129
+    class_id: 100
+    skin_source: 2
+  }
+  {
+    id: 10307
+    name: CZ52 - 까마귀 퇴치 마녀
+    fit_gun: 210
+    voice: 4
+    dialog: 실수로 깨우고 말았네요. 전 그저 지휘관님이 낮에 차 루프를 까마귀가 더럽힌 걸 보고 한숨 쉬는 걸 봐서, 뭐라도 해드려야 할 것 같아서... 지휘관님의 걱정을 덜 수 있다면 다행이에요.
+    gift_position: "-106,104.7"
+    illustrator_cv: 小星,Kawakami Asuka,
+    order: 129
+    class_id: 100
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     fit_gun: 57
@@ -8798,6 +8882,7 @@
     fit_gun: 285
     voice: 4
     dialog: 지휘관, 여기가 내가 말했던 그 가게야! 나비 표본과 꽃 향기에 둘러싸여 즐기는 애프터눈티... 그런데 왜 유명하지 않은 걸까?
+    gift_position: "34.7,183.3"
     order: 105
   }
   {

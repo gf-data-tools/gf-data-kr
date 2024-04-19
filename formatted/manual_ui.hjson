@@ -3108,6 +3108,30 @@
     code_b: Console_Icon
   }
   {
+    id: 680301
+    code_a: 202404book
+    description_a: 아군 제대
+    description_b: 동화책
+    description_c: 줍기
+    code_b: Console_Icon
+  }
+  {
+    id: 680521
+    code_a: Door_Left
+    description_a: 제어콘솔
+    description_b: 차단문
+    description_c: 열기
+    code_b: Console_Icon
+  }
+  {
+    id: 680531
+    code_a: Door_Left
+    description_a: 제어콘솔
+    description_b: 차단문
+    description_c: 닫기
+    code_b: Console_Icon
+  }
+  {
     id: 1000101
     code_a: Rock
     description_a: 아군 제대

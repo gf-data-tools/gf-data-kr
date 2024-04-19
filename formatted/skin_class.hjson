@@ -494,4 +494,9 @@
     theme_type: 9
     name: 기타
   }
+  {
+    id: 100
+    theme_type: 9
+    name: 하얀 괴담
+  }
 ]

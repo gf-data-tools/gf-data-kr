@@ -1317,4 +1317,8 @@
     obtain_id: 3113
     description: 기간한정 이벤트 <거울문의 지속> 상점 교환
   }
+  {
+    obtain_id: 3114
+    description: 기간한정 이벤트 <오귀인의 샘물> 재화 상점 교환
+  }
 ]

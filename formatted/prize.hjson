@@ -14546,6 +14546,204 @@
     equip_ids: "392"
   }
   {
+    id: 2335
+    name: 오귀인의 샘물6+a
+    item_ids: 100214-6,100212-1
+  }
+  {
+    id: 2336
+    name: 오귀인의 샘물8+a
+    item_ids: 100214-8,100212-1
+  }
+  {
+    id: 2337
+    name: 오귀인의 샘물8+2a
+    item_ids: 100214-8,100212-2
+  }
+  {
+    id: 2338
+    name: 오귀인의 샘물10+b
+    item_ids: 100214-10,100213-1
+  }
+  {
+    id: 2339
+    name: 오귀인의 샘물10+2a
+    item_ids: 100214-10,100212-2
+  }
+  {
+    id: 2340
+    name: 오귀인의 샘물10+a+b
+    item_ids: 100214-10,100212-1,100213-1
+  }
+  {
+    id: 2341
+    name: 오귀인의 샘물12+b
+    item_ids: 100214-12,100213-1
+  }
+  {
+    id: 2342
+    name: 오귀인의 샘물12+2b
+    item_ids: 100214-12,100213-2
+  }
+  {
+    id: 2343
+    name: 오귀인의 샘물15+2b
+    item_ids: 100214-15,100213-2
+  }
+  {
+    id: 2344
+    name: 오귀인의 샘물15+2a+2b
+    item_ids: 100214-15,100212-2,100213-2
+  }
+  {
+    id: 2345
+    name: 오귀인의 샘물6
+    item_ids: 100214-6
+  }
+  {
+    id: 2346
+    name: 오귀인의 샘물8
+    item_ids: 100214-8
+  }
+  {
+    id: 2347
+    name: 오귀인의 샘물10
+    item_ids: 100214-10
+  }
+  {
+    id: 2348
+    name: 오귀인의 샘물12
+    item_ids: 100214-12
+  }
+  {
+    id: 2349
+    name: 오귀인의 샘물15
+    item_ids: 100214-15
+  }
+  {
+    id: 2350
+    name: 오귀인의 샘물a
+    item_ids: 100212-1
+  }
+  {
+    id: 2351
+    name: 오귀인의 샘물b
+    item_ids: 100213-1
+  }
+  {
+    id: 2352
+    name: 오귀인의 샘물2a
+    item_ids: 100212-2
+  }
+  {
+    id: 2353
+    name: 오귀인의 샘물2b
+    item_ids: 100213-2
+  }
+  {
+    id: 2354
+    name: PP-90 전용장비: FMG 방호 외골격
+    equip_ids: "395"
+  }
+  {
+    id: 2355
+    name: 가구: 숨바꼭질 명소
+    furniture: "20124"
+  }
+  {
+    id: 2356
+    name: 가구: 천사 분수 조각상
+    furniture: "20127"
+  }
+  {
+    id: 2357
+    name: 가구: 시간의 유적
+    furniture: "20125"
+  }
+  {
+    id: 2358
+    name: 가구: 현상수배령
+    furniture: "20128"
+  }
+  {
+    id: 2359
+    name: 전술인형: TPS
+    gun_id: "387"
+  }
+  {
+    id: 2360
+    name: 전술인형: 97식 산탄총
+    gun_id: "161"
+  }
+  {
+    id: 2361
+    name: 오귀인의 샘 한정 코스튬 쿠폰·α
+    item_ids: 1500128-1
+    icon: Bumdle_summergarden01
+  }
+  {
+    id: 2362
+    name: 오귀인의 샘 한정 코스튬 쿠폰·β
+    item_ids: 1500129-1
+    icon: Bumdle_summergarden02
+  }
+  {
+    id: 2363
+    name: 오귀인의 샘 한정 코스튬 쿠폰·γ
+    item_ids: 1500130-1
+    icon: Bumdle_summergarden03
+  }
+  {
+    id: 2364
+    name: UMP45 - 펜로즈 스핀
+    gift: 555-1
+  }
+  {
+    id: 2365
+    name: UMP45 - 소원을 좇는 마술사
+    gift: 535-1
+  }
+  {
+    id: 2366
+    name: UMP45 - "이번만이야"
+    gift: 410-1
+  }
+  {
+    id: 2367
+    name: Erma - 달밑 천사의 눈물
+    gift: 10201-1
+  }
+  {
+    id: 2368
+    name: AR-18 - 루어 미끼
+    gift: 8504-1
+  }
+  {
+    id: 2369
+    name: UMP45 - 고독한 여행인
+    gift: 5405-1
+  }
+  {
+    id: 2370
+    name: UMP45 - 깡총 요원
+    gift: 3403-1
+  }
+  {
+    id: 2371
+    name: UMP45 - 다이아몬드의 꽃
+    gift: 2107-1
+  }
+  {
+    id: 2372
+    name: Erma - 그윽한 매화향
+    gift: 8003-1
+  }
+  {
+    id: 2373
+    name: UMP45 - 석양빛 맥주
+    gift: 584-1
+  }
+  {
     id: 3001
     name: 콜트 리볼버
     item_ids: 1318-1
@@ -14936,6 +15134,14 @@
     equip_ids: "239"
     skin: 5047
     content: 개조 보상
+  }
+  {
+    id: 3127
+    name: 79식
+    item_ids: 2466-1,200003-1
+    equip_ids: "396"
+    skin: 5074
+    content: 인형 개조 보상
   }
   {
     id: 3131
@@ -16218,6 +16424,12 @@
     name: prize-10005028
     furniture: "20078"
     content: prize-20005028
+  }
+  {
+    id: 5029
+    name: 만성쇼크 PV 보상
+    furniture: "20131"
+    content: 보상 수령
   }
   {
     id: 6001
@@ -37058,6 +37270,177 @@
     name: 세상 끝의 석양 - 임무 보상
     item_ids: 131-1
     furniture: "20118"
+  }
+  {
+    id: 17631
+    name: 반항자 - 임무 보상
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+  }
+  {
+    id: 17632
+    name: 하늘 나는 새 - 임무 보상
+    core: 10
+  }
+  {
+    id: 17633
+    name: 침묵하는 이 - 임무 보상
+    coins: 1-200
+  }
+  {
+    id: 17634
+    name: 사치, 조용함과 기쁨 - 임무 보상
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+  }
+  {
+    id: 17635
+    name: 열린 창문 - 임무 보상
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+  }
+  {
+    id: 17636
+    name: 문턱의 함정 속 - 임무 보상
+    coins: 2-200
+  }
+  {
+    id: 17637
+    name: 빨강 속의 조화 - 임무 보상
+    furniture: "20120"
+  }
+  {
+    id: 17638
+    name: 금이 간 병 - 임무 보상
+    furniture: "20121"
+  }
+  {
+    id: 17639
+    name: 라 퐁텐 우화 - 임무 보상
+    coins: 3-200
+  }
+  {
+    id: 17640
+    name: 요람 - 임무 보상
+    furniture: "20122"
+  }
+  {
+    id: 17641
+    name: 인조천당 - 임무 보상
+    furniture: "20126"
+  }
+  {
+    id: 17642
+    name: 영혼을 곤혹하는 배반 - 임무 보상
+    item_ids: 51-2
+  }
+  {
+    id: 17643
+    name: 등불 - 임무 보상
+    furniture: "20129"
+  }
+  {
+    id: 17644
+    name: 악의 꽃 - 임무 보상
+    furniture: "20123"
+  }
+  {
+    id: 17645
+    name: 세계 끝의 등대 - 임무 보상
+    item_ids: 45-100
+  }
+  {
+    id: 17646
+    name: 난 태어나 죽는다 - 임무 보상
+    item_ids: 132-1
+    furniture: "20130"
+  }
+  {
+    id: 17647
+    name: 새의 그림 - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17648
+    name: 국왕과 새 - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17649
+    name: 슈랄레의 춤 - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17650
+    name: 카드 플레이어 - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17651
+    name: 폐허의 새 - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+  }
+  {
+    id: 17652
+    name: 문턱의 함정 속EX - 임무 보상
+    gift: 200001-100
+  }
+  {
+    id: 17653
+    name: 라 퐁텐 우화EX - 임무 보상
+    item_ids: 46-100
+  }
+  {
+    id: 17654
+    name: 영혼을 곤혹하는 배반EX - 임무 보상
+    item_ids: 51-2
+  }
+  {
+    id: 17655
+    name: 세계 끝의 등대EX - 임무 보상
+    item_ids: 100215-1
+  }
+  {
+    id: 17656
+    name: 죽은 자의 노래 - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17657
+    name: 죽은 자의 노래EX - 임무 보상
+    core: 10
+  }
+  {
+    id: 17658
+    name: 화재 이후 - 임무 보상
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
   }
   {
     id: 20001

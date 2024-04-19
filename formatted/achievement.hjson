@@ -17421,4 +17421,21 @@
     icon_code: 第六只眼
     condition: 11506:640101,11517:640101
   }
+  {
+    identity: 1221
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 나 잡아봐라~
+    content: 오귀인의 샘물-침묵하는 이: 전투 횟수가 1회를 넘지 않으면서 클리어.
+    type_sort: 100
+    sort: 325
+    icon_code: 诶嘿打不着
+    condition: 11633:1163302
+  }
 ]

@@ -1830,6 +1830,15 @@
     offset: "0,0"
   }
   {
+    id: 1000168
+    name: 벽뚫기
+    code: CS_zheng
+    description: 벽뚫기
+    priority: 1
+    size: 1
+    offset: "0,0"
+  }
+  {
     id: 9490401
     name: 【표식】반짝반짝
     code: ddl_xingxing

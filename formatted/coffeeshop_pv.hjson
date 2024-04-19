@@ -125,4 +125,11 @@
     cost: 506-1000
     prize_id: "5028"
   }
+  {
+    id: "19"
+    title: 만성쇼크
+    description: 2023년 상반기 이벤트 PV
+    cost: 506-1000
+    prize_id: "5029"
+  }
 ]

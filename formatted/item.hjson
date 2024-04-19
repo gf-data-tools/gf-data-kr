@@ -703,6 +703,15 @@
     rank: 1
   }
   {
+    id: 132
+    type: 3
+    arg: "33"
+    code: Medal_202404Activity
+    item_name: 시간지불자 훈장
+    introduction: '''"오귀인의 샘물" 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "분계선을 넘어서 이곳, 죽어버린 꿈의 왕국에서 황금빛 환상이 다시 나타나다."'''
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -14319,6 +14328,15 @@
     rank: 1
   }
   {
+    id: 2466
+    type: 5
+    arg: "1"
+    code: profilePic_rank6_79typeMod
+    item_name: 79식 개조 아이콘
+    introduction: 79식 개조 아이콘
+    rank: 1
+  }
+  {
     id: 2467
     type: 5
     arg: "1"
@@ -14334,6 +14352,132 @@
     code: profilePic_BattlePass_HS50
     item_name: HS.50 - 전자오락 프로 육성기
     introduction: HS.50 - 전자오락 프로 육성기
+    rank: 1
+  }
+  {
+    id: 2469
+    type: 5
+    arg: "1"
+    code: profilePic_Hospital2024_TPS
+    item_name: TPS - 심장 멈추기 놀이
+    introduction: TPS - 심장 멈추기 놀이
+    rank: 1
+  }
+  {
+    id: 2470
+    type: 5
+    arg: "1"
+    code: profilePic_Hospital2024_ColtWalker
+    item_name: 콜트 워커 - 매기와 나이트 토킹
+    introduction: 콜트 워커 - 매기와 나이트 토킹
+    rank: 1
+  }
+  {
+    id: 2471
+    type: 5
+    arg: "1"
+    code: profilePic_Hospital2024_97typeS
+    item_name: 97식 산탄총 - 자백제 어뷰저
+    introduction: 97식 산탄총 - 자백제 어뷰저
+    rank: 1
+  }
+  {
+    id: 2472
+    type: 5
+    arg: "1"
+    code: profilePic_Hospital2024_Mk48
+    item_name: Mk48 - 연애뇌 메이커
+    introduction: Mk48 - 연애뇌 메이커
+    rank: 1
+  }
+  {
+    id: 2473
+    type: 5
+    arg: "1"
+    code: profilePic_Hospital2024_Fedorov
+    item_name: 표도로프 - 박하색 입김
+    introduction: 표도로프 - 박하색 입김
+    rank: 1
+  }
+  {
+    id: 2474
+    type: 5
+    arg: "1"
+    code: profilePic_Hospital2024_PP90
+    item_name: PP-90 - 등불 밑 자장가
+    introduction: PP-90 - 등불 밑 자장가
+    rank: 1
+  }
+  {
+    id: 2475
+    type: 5
+    arg: "1"
+    code: profilePic_Hospital2024_CZ52
+    item_name: CZ52 - 까마귀 퇴치 마녀
+    introduction: CZ52 - 까마귀 퇴치 마녀
+    rank: 1
+  }
+  {
+    id: 2476
+    type: 5
+    arg: "1"
+    code: profilePic_202404Acticity_01
+    item_name: 키홀더
+    introduction: 키홀더
+    rank: 1
+  }
+  {
+    id: 2477
+    type: 5
+    arg: "1"
+    code: profilePic_202404Acticity_02
+    item_name: 세월 속 고정된 눈길
+    introduction: 세월 속 고정된 눈길
+    rank: 1
+  }
+  {
+    id: 2478
+    type: 5
+    arg: "1"
+    code: profilePic_202404Acticity_03
+    item_name: 탈피
+    introduction: 탈피
+    rank: 1
+  }
+  {
+    id: 2479
+    type: 5
+    arg: "1"
+    code: card_202404Acticity_01
+    item_name: 엘마가 보낸 메시지
+    introduction: 엘마가 보낸 메시지
+    rank: 1
+  }
+  {
+    id: 2480
+    type: 5
+    arg: "1"
+    code: card_202404Acticity_02
+    item_name: 세계의 계단을 타고
+    introduction: 세계의 계단을 타고
+    rank: 1
+  }
+  {
+    id: 2481
+    type: 5
+    arg: "1"
+    code: card_202404Acticity_03
+    item_name: 우화
+    introduction: 우화
+    rank: 1
+  }
+  {
+    id: 2482
+    type: 5
+    arg: "1"
+    code: cg_202404Acticity
+    item_name: 전용 수감실
+    introduction: 전용 수감실
     rank: 1
   }
   {
@@ -17535,6 +17679,43 @@
     code: Bumdle_2024springfestival
     item_name: 갑진이시
     introduction: 갑진이시
+    rank: 1
+  }
+  {
+    id: 100212
+    type: 4
+    arg: "100212"
+    code: Nova_medal_black
+    item_name: 노바 훈장·오귀인의 샘물
+    introduction: 노바 훈장·오귀인의 샘물
+    rank: 1
+  }
+  {
+    id: 100213
+    type: 4
+    arg: "100213"
+    code: Platinum_medal_black
+    item_name: 백금 훈장·오귀인의 샘물
+    introduction: 백금 훈장·오귀인의 샘물
+    rank: 1
+  }
+  {
+    id: 100214
+    type: 9
+    arg: "100214"
+    code: Coin_202404Shapeofmemory
+    item_name: 기억의 형상
+    introduction: 기억은 충실하게 기록되어 과거에 파묻혔습니다. 그 사람이 모든 열쇠를 찾아낸다면 자신의 보물을 되찾을 수 있겠죠.
+    rank: 1
+    daily_limit: "60"
+  }
+  {
+    id: 100215
+    type: 4
+    arg: "100215"
+    code: coremask2_202404
+    item_name: 마음 파먹는 가면·오귀인의 샘물
+    introduction: 기이한 기운을 풍기는 마스크, 극한의 시련을 뛰어넘은 자만이 얻을 수 있습니다. 가지고 있어봤자 쓸모 없어 보이지만, 상점에서 학수고대한 만남과 교환할 수 있을 겁니다.
     rank: 1
   }
   {
@@ -21562,6 +21743,36 @@
     code: package_random
     item_name: 전선협약-추가보상
     introduction: 전선협약-클라우드 쓰론 보상, 목록 중 무작위 한 가지 보상을 얻습니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500128
+    type: 15
+    arg: "1500128"
+    code: Bumdle_summergarden01
+    item_name: 오귀인의 샘 한정 코스튬 쿠폰·α
+    introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 하나를 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500129
+    type: 15
+    arg: "1500129"
+    code: Bumdle_summergarden02
+    item_name: 오귀인의 샘 한정 코스튬 쿠폰·β
+    introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 하나를 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+  }
+  {
+    id: 1500130
+    type: 15
+    arg: "1500130"
+    code: Bumdle_summergarden03
+    item_name: 오귀인의 샘 한정 코스튬 쿠폰·γ
+    introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 하나를 무작위로 획득합니다.
     rank: 1
     sort: -1
   }
