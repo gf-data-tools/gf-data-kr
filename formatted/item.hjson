@@ -712,6 +712,15 @@
     rank: 1
   }
   {
+    id: 133
+    type: 3
+    arg: "34"
+    code: Medal_21winter_re_rank
+    item_name: 안개의 끝 훈장
+    introduction: '''"안개 거두기+" 랭킹 전역에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "안개가 걷힐 때, 햇빛이 우리의 웃는 얼굴을 환하게 비출 것이다."'''
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -1169,6 +1178,16 @@
     item_name: 모의작전 기초점수
     introduction: 일부 모의작전 진행에 소모하여 인형 및 요정 육성 재료를 얻을 수 있습니다.
     rank: 1
+  }
+  {
+    id: 542
+    type: 1
+    arg: "542"
+    code: 2020winter_rabbit_plus
+    item_name: 안개 거두기+
+    introduction: 안개 거두기+에서 적을 처치한 증표. 제어콘솔에서 버프 효과를 교환할 수 있습니다. 가격: 10/회.
+    rank: 1
+    is_hide_info: 1
   }
   {
     id: 601
@@ -14481,6 +14500,33 @@
     rank: 1
   }
   {
+    id: 2483
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season15_1
+    item_name: 시간열 진열 · Code13:시간대
+    introduction: 시간열 진열 · Code13:시간대
+    rank: 1
+  }
+  {
+    id: 2484
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season15_2
+    item_name: 종향파동 · Code13:시간대
+    introduction: 종향파동 · Code13:시간대
+    rank: 1
+  }
+  {
+    id: 2485
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season15_3
+    item_name: 영원한 대역폭 · Code13:시간대
+    introduction: 영원한 대역폭 · Code13:시간대
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -18344,6 +18390,15 @@
     type: 4
     arg: "110070"
     code: PT
+    item_name: 이벤트 점수
+    introduction: 이벤트 점수
+    rank: 1
+  }
+  {
+    id: 110071
+    type: 4
+    arg: "110071"
+    code: EventPT9
     item_name: 이벤트 점수
     introduction: 이벤트 점수
     rank: 1

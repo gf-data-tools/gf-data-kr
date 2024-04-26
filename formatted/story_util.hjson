@@ -12586,103 +12586,162 @@
   {
     id: 1272
     mission_id: "11631"
+    description: '''"나는 반항한다, 고로 존재한다."'''
+    scripts: -68-A-2
     campaign: -68
+    title: 반항자
     start: -68-A-2
   }
   {
     id: 1273
     mission_id: "11632"
+    description: '''"꽃밭의 끝에서 황금빛 여신상이 나는 새를 노려본다."'''
+    scripts: -68-A-4
     campaign: -68
+    title: 하늘 나는 새
     start: -68-A-4
   }
   {
     id: 1274
     mission_id: "11634"
+    description: '''"옛친구의 안내를 따라 엘마는 버려진 꽃밭에 돌아왔다."'''
+    scripts: -68-A-6
     campaign: -68
+    title: 사치, 조용함과 기쁨
     start: -68-A-6
   }
   {
     id: 1275
     mission_id: "11635"
+    description: '''"금빛 찬란한 대궁전 안에 국왕 폐하가 묻어둔 비밀이 있다."'''
+    scripts: -68-A-8
     campaign: -68
+    title: 열린 창문
     start: -68-A-8
   }
   {
     id: 1276
     mission_id: "11637"
+    description: '''"폭스 시스터후드에서 온 유실물이 엘마를 새로운 여정으로 인도한다."'''
+    scripts: -68-A-10
     campaign: -68
+    title: 빨강 속의 조화
     start: -68-A-10
   }
   {
     id: 1277
     mission_id: "11638"
+    description: '''"우리는 항상 과거를 바라본다. 과거의 심연을 마주볼 수 있어야만 시간은 계속해서 흐를 수 있다."'''
+    scripts: -68-A-12
     campaign: -68
+    title: 금이 간 병
     start: -68-A-12
   }
   {
     id: 1278
     mission_id: "11640"
+    description: '''"우리는 어머니의 요람에서 태어나, 결국엔 처음의 그곳으로 돌아갈 운명이다."'''
+    scripts: -68-A-14
     campaign: -68
+    title: 요람
     start: -68-A-14
   }
   {
     id: 1279
     mission_id: "11641"
+    description: '''"소위 천국이란 것은 사람들의 상상에 불과하다. 네가 믿는 모습이 천당의 모습이 된다."'''
+    scripts: -68-A-16
     campaign: -68
+    title: 인조천당
     start: -68-A-16
   }
   {
     id: 1280
     mission_id: "11643"
+    description: '''"여기서 돌멩이는 외롭다. 넓으면서 우울한 영혼을 품은 그대는 낮이 영영 도래하지 않는 밤길을 걷는다."'''
+    scripts: -68-A-18
     campaign: -68
+    title: 등불
     start: -68-A-18
   }
   {
     id: 1281
     mission_id: "11644"
+    description: '''"그들은 우리의 영원한 갈망을 알고 있으며 그들은 사람 고유의 어둠을 수많은 불과 하나로 합쳤다."'''
+    scripts: -68-A-20
     campaign: -68
+    title: 글씨 새긴 돌
     start: -68-A-20
   }
   {
     id: 1282
     mission_id: "11646"
+    description: '''"너의 피가 식었으니 다시 끓어오르게 하라."'''
+    scripts: -68-A-22
     campaign: -68
+    title: 난 태어나 죽는다
     start: -68-A-22
   }
   {
     id: 1283
     mission_id: "11647"
+    description: '''"나는 새는 저멀리 첫 편지를 전달했다."'''
+    scripts: -68-S-1
     campaign: -68
+    title: 새의 그림
     start: -68-S-1
   }
   {
     id: 1284
     mission_id: "11648"
+    description: '''"동화책 한 권이 류드밀라의 손에 도착했다."'''
+    scripts: -68-S-2
     campaign: -68
+    title: 국왕과 새
     start: -68-S-2
   }
   {
     id: 1285
     mission_id: "11649"
+    description: '''"순탄하거나 험난하거나, 류드밀라는 어지러운 소용돌이에 빠졌다."'''
+    scripts: -68-S-3
     campaign: -68
+    title: 슈랄레의 춤
     start: -68-S-3
   }
   {
     id: 1286
     mission_id: "11650"
+    description: '''"류드밀라는 항상 자신이 무지몽매하지 않을까 걱정했지만, 사실 자신이 가장 룰을 잘 아는 플레이어임을 깨달았다."'''
+    scripts: -68-S-4
     campaign: -68
+    title: 카드 플레이어
     start: -68-S-4
   }
   {
     id: 1287
     mission_id: "11651"
+    description: '''"폐허의 새는 스스로 죽음에서 벗어나, 햇빛 아래의 회색 돌 사이에 둥지를 지었다. 그는 모든 슬픔과 기억을 뛰어넘어, 영원함엔 내일이 없음을 익히 알고 있었다."'''
+    scripts: -68-S-5
     campaign: -68
+    title: 폐허의 새
     start: -68-S-5
   }
   {
     id: 1288
     mission_id: "11658"
+    description: '''"이곳의 부호는 무너져내렸고, 때는 여명 무렵이다."'''
+    scripts: -68-E-1
     campaign: -68
+    title: 화재 이후
     start: -68-E-1
+  }
+  {
+    id: 1289
+    mission_id: "11549"
+    campaign: -65
+    title: 안개 거두기plus
+    start: -65-tips
+    round: 2:-65-tips2
   }
 ]
