@@ -235,4 +235,22 @@
     group_skill: 2:1000503
     fit_gun: "20143"
   }
+  {
+    id: 27
+    name: 정점등극
+    des: 브렌에게 맞춤 제작된 세트, 브렌이 바라는 정점에 도달할 수 있도록 도와줍니다.
+    code: EgroupBrenMKMod
+    equip_unit: "393,123,0"
+    group_skill: 2:1001103
+    fit_gun: "20089"
+  }
+  {
+    id: 28
+    name: 설탕포탄
+    des: AA-12에게 맞춤 제작된 세트, 보다 문명적으로 문제를 해결할 수 있도록 도와줍니다.
+    code: EgroupAA12
+    equip_unit: "394,174,0"
+    group_skill: 2:1001203
+    fit_gun: "163"
+  }
 ]
