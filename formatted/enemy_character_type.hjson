@@ -9218,7 +9218,7 @@
     character: 엘리트,엑스큐셔너,장갑
     special_attack: 4
     normal_attack: 300301
-    passive_skill: "400201,770044"
+    passive_skill: "400201,770044,119029"
     effect_ratio: 1.5
     voice: "1,2"
     deployment_scale: 1
@@ -9246,7 +9246,7 @@
     character: 엘리트,엑스큐셔너,장갑
     special_attack: 4
     normal_attack: 300301
-    passive_skill: "400201,770044"
+    passive_skill: "400201,770044,119029"
     effect_ratio: 1.5
     voice: "1,2"
     deployment_scale: 1

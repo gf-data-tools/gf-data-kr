@@ -8831,6 +8831,104 @@
     class_id: 100
   }
   {
+    id: 10401
+    name: HK21 - 빨라지는 두근거림
+    fit_gun: 208
+    voice: 4
+    dialog: 붉은 드레스가 분명 눈에 띄겠지, 언... 지휘관? 지휘관 눈에도 띄었어? ...알았어, 나 춤은 잘 못 추니까 발을 밟아도 이해해줘.
+    illustrator_cv: 多尔,Lynn,
+    order: 131
+    class_id: 101
+    skin_source: 2
+  }
+  {
+    id: 10402
+    name: Vector - 잠깐의 심취
+    fit_gun: 20
+    voice: 4
+    dialog: 여기 앉아서 쉬고 싶어? ...괜찮아, 앉아... 소파에 자리 있는데 왜 내 다리 위에 앉아? ...잠깐, 일어나! 얼마나 마신 거야?
+    gift_position: "-41.8,-93.2"
+    illustrator_cv: RIRE,Hayami Saori,
+    order: 131
+    class_id: 101
+    skin_source: 1
+  }
+  {
+    id: 10403
+    name: 97식 - 새들의 소리
+    fit_gun: 130
+    voice: 4
+    dialog: '''"와악~ 와아악~" 지휘관, 나 흉내 비슷했어? ...까마귀 소리라니, 공작 울음소리야, 공작!!!'''
+    illustrator_cv: 鸠山井鹤,Sakura Ayane,
+    order: 131
+    class_id: 101
+    skin_source: 2
+  }
+  {
+    id: 10404
+    name: ART556 - 여우숲 세레나데
+    fit_gun: 175
+    voice: 4
+    dialog: 히히, 별빛과 꽃향기가 들려? 참으로 기묘하지? 여기에 지휘관의 황금빛 미소를 더하면, 퍼펙트!
+    gift_position: "-207.2,21"
+    illustrator_cv: 小星,Hidaka Rina,
+    order: 131
+    class_id: 101
+    skin_source: 1
+  }
+  {
+    id: 10405
+    name: TAC-50 - 메이플 샴페인
+    fit_gun: 222
+    voice: 4
+    dialog: 지휘관님, 저의 특별 브렌딩 메이플 샴페인을 마셔 보실래요? 이건 슈가 80%로... 당연히 특별한 의미가 있죠. 2년 후엔 슈가 100%로 마시자고요!
+    order: 131
+    class_id: 101
+    skin_source: 2
+  }
+  {
+    id: 10406
+    name: FO-12 - 스위트 레스큐
+    fit_gun: 350
+    voice: 4
+    dialog: 잭, 지휘관이 치마자락에 포위당했는데 구해줘야 할까?...그렇네, 저기 싱글벙글 웃고 건배하는 걸 보면... 그럼 우리 먼저 디저트나 먹자, 배가 든든해야 구조할 힘이 나지~
+    gift_position: "-94.5,-43.2"
+    order: 131
+    class_id: 101
+    skin_source: 1
+  }
+  {
+    id: 10407
+    name: 스티븐스 520 - 보라장미의 말
+    fit_gun: 397
+    voice: 4
+    dialog: 너무 뜨겁거나 요란한 꽃은 오늘 파티에 어울리지 않아, 클랙식하고 우아한 보라색에 오스틴 화형이야 말로 최적해지. 꽃말에 대해선 깊게 생각하지 말고...
+    order: 131
+    class_id: 101
+    skin_source: 2
+  }
+  {
+    id: 10408
+    name: M2HB - 파티 숨돌리기
+    fit_gun: 77
+    voice: 4
+    dialog: 한잔 할래?...다 마시고 숙소에 돌아가 자려고. 어휴, 왔다갔다 너무 피곤하다니까... 지휘관도 같이 갈래?
+    illustrator_cv: 二花,Iwamatsu Izumi,
+    order: 131
+    class_id: 101
+  }
+  {
+    id: 10409
+    name: 6P62 - 세월의 악장
+    fit_gun: 138
+    voice: 4
+    dialog: 지휘관, 건배! ... 이 베일이 눈에 익다고? 저번 주에 지휘관 거실의 커튼 교체한 거 버리기엔 아까워서 손질해 봤지. 드레스하고 엄청 어울리지?
+    illustrator_cv: YoYo,Inoue Marina,
+    order: 131
+    class_id: 101
+    skin_source: 2
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     fit_gun: 57
@@ -8891,6 +8989,7 @@
     fit_gun: 367
     voice: 4
     dialog: 산탄총은 이렇게 수리하는 게 아니라고요? 지휘관님, 다른 사람이 우리한테 어떻게 해야 옳은지 알려줘야 하나요? 예술을 향한 우리의 열정에 따르기만 하면 돼요!
+    gift_position: "-154.6,148.6"
     order: 105
   }
   {
@@ -8976,5 +9075,25 @@
     voice: 4
     dialog: 기지 실험실에서 최신 개발한 AI 슈팅 미니게임. 1등상은... 지휘관님과 함께 만찬?! 저, 전원 케이블이 어디 있지? 열심히 해야겠어!
     order: 128
+  }
+  {
+    id: 30019
+    name: M99 - 막을 여는 장단
+    fit_gun: 128
+    voice: 4
+    dialog: '''"하나 둘 하나... 고개 돌리고, 스마일, 북채 돌리고..." 좋아! 축제 때도 세찬 발걸음으로, 지휘관님의 미소에 긴장하지 말고.. 어라? 북채가... 떨어지겠어!'''
+    illustrator_cv: 小星,Okubo Rumi,
+    order: 130
+  }
+  {
+    id: 50001
+    name: 한양조 88식 - 별들에게
+    fit_gun: 95
+    voice: 4
+    dialog: 저는 무수한 별들 사이 보잘것 없는 희미한 빛이지만, 모두와 함께 하늘을 수놓는 은하가 될 수 있어서 참으로 기뻐요!
+    gift_position: "-231.9,39.7"
+    order: 132
+    class_id: 99
+    skin_source: 1
   }
 ]

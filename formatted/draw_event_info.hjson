@@ -8510,6 +8510,34 @@
     type: "1"
   }
   {
+    id: "1141"
+    item_id: "100216"
+    start_time: 2024-05-20 00:00:00
+    end_time: 2024-06-02 23:59:59
+    drop_ids: 69:2328,70:2329,71:2330
+    title_res: b096ed814584fed1_draw_240516003.png
+    amount_coordinate: "397,-195"
+    bg_res: 881b3e5dbb2d62cb_draw_240516002.jpg
+    is_show: "1"
+    prize_skip: 2375:71,2376:71,2377:71,2378:71
+    can_ten_draws: "1"
+    type: "1"
+  }
+  {
+    id: "1142"
+    item_id: "100218"
+    start_time: 2024-05-15 10:00:00
+    end_time: 2024-06-13 23:59:59
+    drop_ids: 100:2331
+    title_res: 7b528925d02bd106_draw_240516004.png
+    amount_coordinate: "-568,-120"
+    bg_res: f8218226665866a8_draw_240516001.jpg
+    is_show: "1"
+    use_animation: "1"
+    goto_to_mall: "1"
+    type: "2"
+  }
+  {
     id: "6001"
     start_time: 2019-03-30 00:00:00
     end_time: 2019-04-07 13:00:00

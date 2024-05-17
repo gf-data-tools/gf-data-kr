@@ -3700,6 +3700,20 @@
     color_icon_id: "957"
   }
   {
+    id: 5940
+    name: 그루브 웨이브
+    description: 오직 이날 음악을 울려 소녀들을 초연 자욱한 전장에서 이끌고 벗어나, 카니발의 밤을 즐기세요.
+    code: BodyAcco
+    icon: commander_5940_icon
+    type: 4
+    uniform_class: "59"
+    color_normal: Commander_5940_N
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "-0.172,0.008"
+    color_icon_id: "958"
+  }
+  {
     id: 9920
     name: 활기찬 위장
     description: 언제나 가장 좋은 모습으로.

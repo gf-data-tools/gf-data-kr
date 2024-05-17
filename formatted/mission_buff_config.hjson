@@ -656,8 +656,8 @@
   }
   {
     id: 50000
-    name: 전술칩 버프
-    description: 추가 탄약 식량 소지
+    name: 연료 충분
+    description: 제대가 식량과 탄약을 추가로 2칸 소지할 수 있습니다.
     code: ExtraAmmo
     type: 1
     duration_type: "1"
@@ -668,8 +668,8 @@
   }
   {
     id: 50001
-    name: 전술칩 버프
-    description: 추가 행동력
+    name: 기습 행동
+    description: 턴마다 제대가 처음 이동할 경우 행동점수를 소비하지 않습니다.
     code: ExtraAp
     type: 1
     duration_type: "1,5"
@@ -680,8 +680,8 @@
   }
   {
     id: 50002
-    name: 전술칩 버프
-    description: 추가 작전 탄식
+    name: 검소절약
+    description: 제대를 배치하고 첫 전투에서 탄약과 식량을 소모하지 않고 화력이 15% 상승합니다.
     code: AmmoReduce
     type: 1
     duration_type: "4"
@@ -694,8 +694,8 @@
   }
   {
     id: 50003
-    name: 전술칩 버프
-    description: 야전 시야 강화
+    name: 야간 시야
+    description: 야간 작전에서 추가 시야를 1칸 제공합니다.
     code: NightView
     type: 1
     duration_type: "1"
@@ -706,8 +706,8 @@
   }
   {
     id: 50004
-    name: 전술칩 버프
-    description: 야시능력 강화
+    name: 야시 능력
+    description: 야간 작전에서 명중 페널티를 100% 상쇄합니다.
     code: nighthitBuff
     type: 1
     duration_type: "1"

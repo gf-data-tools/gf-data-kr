@@ -593,6 +593,17 @@
     source_description: 2024년 구정 이벤트 보상
   }
   {
+    id: 59
+    name: 열광의 관악
+    description: 주년 파티의 분위기를 뛰어줄 개막 공연. 걱정 마세요, 그저 지휘관님께서 이걸 불기만 하면 목적은 무조건 달성이니까요!
+    group_id: "101"
+    code: commander_5940_icon
+    path: CLASS59
+    des_year: "2024"
+    source: 2
+    source_description: 8주년 이벤트 보상
+  }
+  {
     id: 99
     name: 거짓말 마스크
     description: 내 생각을 감추고, 내 바람을 드러낸다.

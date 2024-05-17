@@ -77,6 +77,13 @@
     desc: 주력탱크를 위해 디자인한 기린 모델 도면 세트, 모든 것이 심플하고 효율적.
   }
   {
+    id: 12
+    name: 64년식-갤럭시
+    vehicle_ids: "1,2"
+    pic_code: 2:Warjack_1012_set
+    desc: 그리폰 64년식 제식 작전 기갑, 우리를 앞의 모든 어둠을 찢어발기리.
+  }
+  {
     id: 13
     name: AA-02M 리디머
     vehicle_ids: "1,2"

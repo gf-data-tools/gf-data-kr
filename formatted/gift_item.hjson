@@ -10378,6 +10378,132 @@
     normal_description: 선물 시 호감도 획득
   }
   {
+    id: 10401
+    name: HK21 - 빨라지는 두근거림
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 208
+    skin: 10401
+    poster: 310401
+    code: gift_bundle_Anniversary2024_HK21
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10402
+    name: Vector - 잠깐의 심취
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 20
+    skin: 10402
+    poster: 310402
+    code: gift_bundle_Anniversary2024_Vector
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10403
+    name: 97식 - 새들의 소리
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 130
+    skin: 10403
+    poster: 310403
+    code: gift_bundle_Anniversary2024_97type
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10404
+    name: ART556 - 여우숲 세레나데
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 175
+    skin: 10404
+    poster: 310404
+    code: gift_bundle_Anniversary2024_ART556
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10405
+    name: TAC-50 - 메이플 샴페인
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 222
+    skin: 10405
+    poster: 310405
+    code: gift_bundle_Anniversary2024_TAC50
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10406
+    name: FO-12 - 스위트 레스큐
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 350
+    skin: 10406
+    poster: 310406
+    code: gift_bundle_Anniversary2024_FO12
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10407
+    name: 스티븐스 520 - 보라장미의 말
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 397
+    skin: 10407
+    poster: 310407
+    code: gift_bundle_Anniversary2024_Stevens520
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10408
+    name: M2HB - 파티 숨돌리기
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 77
+    skin: 10408
+    poster: 310408
+    code: gift_bundle_Anniversary2024_M2HB
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 10409
+    name: 6P62 - 세월의 악장
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 138
+    skin: 10409
+    poster: 310409
+    code: gift_bundle_Anniversary2024_6P62
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     type: 2
@@ -10611,6 +10737,34 @@
     skin: 30018
     poster: 330018
     code: gift_bundle_BattlePass_HS50
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 30019
+    name: M99 - 막을 여는 장단
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 128
+    skin: 30019
+    poster: 330019
+    code: gift_bundle_BattlePass_M99
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    normal_description: 선물 시 호감도 획득
+  }
+  {
+    id: 50001
+    name: 한양조 88식 - 별들에게
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 95
+    skin: 50001
+    poster: 350001
+    code: gift_bundle_Anniversary2024_88type
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
     normal_description: 선물 시 호감도 획득

@@ -1,5 +1,40 @@
 [
   {
+    id: -20
+    name: 콜트 워커
+    code: NPC_ColtWalker_30004
+    title: 콜트 워커
+    ai: 9999
+  }
+  {
+    id: -19
+    name: 페르시카_썩소
+    code: NPC_Persica_snicker
+    title: 페르시카_썩소
+    ai: 9999
+  }
+  {
+    id: -18
+    name: 넬레
+    code: NPC_Nele
+    title: 넬레
+    ai: 9999
+  }
+  {
+    id: -17
+    name: 댄들라이
+    code: NPC_Dandelion
+    title: 댄들라이
+    ai: 9999
+  }
+  {
+    id: -16
+    name: 캐서린
+    code: NPC_Catherine
+    title: 캐서린
+    ai: 9999
+  }
+  {
     id: -15
     name: 그림자 스티븐스520
     code: NPC_Stevens520_Shadow
