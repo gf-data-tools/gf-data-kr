@@ -10,6 +10,7 @@
     sort: 501
     item_access: "1,4,5,3"
     detail_introduction: 공장 - 인형제조에서 IOP에 인형제조를 의뢰합니다.
+    type_sort: 3
   }
   {
     id: 2
@@ -22,6 +23,7 @@
     sort: 502
     item_access: "1,4,5,3"
     detail_introduction: 공장 - 장비제조에서 16lab에 장비제조를 의뢰합니다.
+    type_sort: 3
   }
   {
     id: 3
@@ -34,6 +36,7 @@
     sort: 503
     item_access: "1,4,5,3"
     detail_introduction: 인형 또는 장비의 제조를 즉시 완료합니다.
+    type_sort: 3
   }
   {
     id: 4
@@ -46,6 +49,7 @@
     sort: 504
     item_access: "1,4,5,3"
     detail_introduction: 손상 유닛의 수복을 즉시 완료합니다.
+    type_sort: 3
   }
   {
     id: 5
@@ -76,6 +80,7 @@
     sort: 505
     item_access: "1"
     detail_introduction: 호감도가 최대치인 인형과 서약을 맺어, 호감도 상한을 높입니다.
+    type_sort: 3
   }
   {
     id: 8
@@ -88,6 +93,7 @@
     sort: 506
     item_access: "1,3"
     detail_introduction: 스킬 훈련을 즉시 완료합니다.
+    type_sort: 3
   }
   {
     id: 9
@@ -100,6 +106,7 @@
     sort: 2
     item_access: "25,6"
     detail_introduction: 공장 - 인형강화에서 상한에 미달한 4가지 능력치를 상승시킬 수 있습니다. 넘친 부분은 일부 다른 능력치에 나눠집니다.
+    type_sort: 2
   }
   {
     id: 10
@@ -112,6 +119,7 @@
     sort: 3
     item_access: "7,5,6,3"
     detail_introduction: 공장 - 편제확대에서 같은 인형대신 사용할 수 있습니다.
+    type_sort: 2
   }
   {
     id: 11
@@ -141,6 +149,7 @@
     rank: 1
     sort: -507
     item_access: "2"
+    type_sort: 3
   }
   {
     id: 14
@@ -153,6 +162,7 @@
     sort: 4
     item_access: "8,5"
     detail_introduction: 정보센터에서 데이터 분석을 하여, 중장비 부대의 핵심 데이터 또는 칩셋을 얻을 수 있습니다.
+    type_sort: 2
   }
   {
     id: 15
@@ -165,6 +175,7 @@
     sort: 5
     item_access: "8,5"
     detail_introduction: 정보센터에서 데이터 분석을 하여, 원시 샘플보다 핵심 데이터와 고레어 칩셋이 출현할 확률이 높습니다.
+    type_sort: 2
   }
   {
     id: 16
@@ -177,6 +188,7 @@
     sort: 508
     item_access: "1,5,2"
     detail_introduction: 정보센터에서 정보 분석을 즉시 완료합니다.
+    type_sort: 3
   }
   {
     id: 17
@@ -189,6 +201,7 @@
     sort: -1
     item_access: "9,10"
     detail_introduction: 5성 100레벨 중장비 부대의 버전업에 사용됩니다.
+    type_sort: 2
   }
   {
     id: 31
@@ -202,6 +215,7 @@
     upper_limit: 9999
     item_access: "12"
     detail_introduction: 개발 - 스킬훈련에서 그리폰 유닛의 기초적인 스킬 훈련을 진행할 수 있습니다.
+    type_sort: 2
   }
   {
     id: 32
@@ -215,6 +229,7 @@
     upper_limit: 9999
     item_access: "12"
     detail_introduction: 개발 - 스킬훈련에서 그리폰 유닛의 본격적인 스킬 훈련을 진행할 수 있습니다.
+    type_sort: 2
   }
   {
     id: 33
@@ -228,6 +243,7 @@
     upper_limit: 9999
     item_access: "12"
     detail_introduction: 개발 - 스킬훈련에서 그리폰 유닛의 심화적인 스킬 훈련을 진행할 수 있습니다.
+    type_sort: 2
   }
   {
     id: 41
@@ -241,6 +257,7 @@
     upper_limit: 300000
     item_access: "1,4,5,2"
     detail_introduction: 숙소에서 가구와 인형 코스튬 뽑기에 사용됩니다.
+    type_sort: 3
   }
   {
     id: 42
@@ -253,6 +270,7 @@
     sort: 510
     item_access: "11"
     detail_introduction: 숙소 - 구매 - 한정교환에서 해당 뽑기의 가구와 코스튬을 교환할 수 있습니다. 뽑기 기간 종료 후 1대1 비율로 구매토큰으로 교환됩니다.
+    type_sort: 3
   }
   {
     id: 43
@@ -265,6 +283,7 @@
     sort: 511
     item_access: "11"
     detail_introduction: 숙소 - 구매 - 블랙카드에서 인형 코스튬과 교환할 수 있습니다.
+    type_sort: 3
   }
   {
     id: 44
@@ -277,6 +296,7 @@
     sort: 10
     item_access: "13,5"
     detail_introduction: 개발에서 장비 또는 요정의 교정에 사용됩니다.
+    type_sort: 2
   }
   {
     id: 45
@@ -290,6 +310,7 @@
     upper_limit: 9999
     item_access: "14,15"
     detail_introduction: 개발 - 인형개조에서 인형의 마인드맵 업그레이드에 사용됩니다.
+    type_sort: 2
   }
   {
     id: 46
@@ -302,6 +323,7 @@
     sort: 12
     item_access: "24,16,6"
     detail_introduction: 격납고에서 중장비 부대의 경험훈련에 사용됩니다.
+    type_sort: 2
   }
   {
     id: 47
@@ -339,6 +361,7 @@
     sort: 13
     item_access: "6,5"
     detail_introduction: 개발 - 장비강화에서 장비 개발 수치를 올려줍니다.
+    type_sort: 2
   }
   {
     id: 51
@@ -352,6 +375,7 @@
     upper_limit: 9999
     item_access: "6"
     detail_introduction: 고레어도 인형의 마인드맵 업그레이드에 사용됩니다.
+    type_sort: 2
   }
   {
     id: 52
@@ -381,6 +405,7 @@
     rank: 1
     sort: -508
     detail_introduction: 블랙카드칩 여러개로 창고에서 블랙카드로 합성하거나, 코스튬 교환 시 블랙카드 한 장대신으로 지불할 수 있습니다.
+    type_sort: 3
   }
   {
     id: 55
@@ -392,6 +417,7 @@
     rank: 1
     sort: -15
     detail_introduction: 개조&돌파에서 요정 돌파경험치를 상승시킵니다.
+    type_sort: 2
   }
   {
     id: 57
@@ -413,6 +439,7 @@
     sort: 16
     item_access: "7"
     detail_introduction: 파츠에 100 개발수치 제공
+    type_sort: 2
   }
   {
     id: 100
@@ -871,6 +898,7 @@
     upper_limit: 9999
     item_access: "17,6,5"
     detail_introduction: 숙소 부속실의 시설을 승급하고 일상 활동에 사용됩니다.
+    type_sort: 3
   }
   {
     id: 507
@@ -892,6 +920,7 @@
     sort: 510
     item_access: "17,18,5"
     detail_introduction: 우정상점에서 카드배경, 아이콘, 기지배경 등과 교환할 수 있습니다.
+    type_sort: 3
   }
   {
     id: 509
@@ -932,6 +961,7 @@
     sort: 511
     item_access: "7"
     detail_introduction: 통합회수 - 커널상점에서 고급 상품과 교환할 수 있습니다.
+    type_sort: 3
   }
   {
     id: 513
@@ -944,6 +974,7 @@
     sort: 512
     item_access: "7"
     detail_introduction: 통합회수 - 커널상점에서 상품과 교환할 수 있습니다.
+    type_sort: 3
   }
   {
     id: 514
@@ -956,6 +987,7 @@
     sort: 17
     item_access: "20,19,22"
     detail_introduction: 공장 - 강화&개발에서 혼합세력유닛의 레어도를 높여줍니다.
+    type_sort: 2
   }
   {
     id: 515
@@ -968,6 +1000,7 @@
     sort: 18
     item_access: "20,19,22"
     detail_introduction: 개발 - 스킬훈련에서 혼합세력유닛의 기초적인 스킬 훈련을 할 수 있습니다.
+    type_sort: 2
   }
   {
     id: 516
@@ -980,6 +1013,7 @@
     sort: 19
     item_access: "20,19,22"
     detail_introduction: 개발 - 스킬훈련에서 혼합세력유닛의 심화적인 스킬 훈련을 할 수 있습니다.
+    type_sort: 2
   }
   {
     id: 517
@@ -992,6 +1026,7 @@
     sort: -513
     item_access: "2"
     detail_introduction: 공방-장비제조에서 I.O.P 특수주문이 가능합니다.
+    type_sort: 3
   }
   {
     id: 518
@@ -1013,6 +1048,7 @@
     sort: -20
     item_access: "9"
     detail_introduction: 필요한 핵심 데이터를 대신해 중장비의 해금, 승진에 사용됩니다.
+    type_sort: 2
   }
   {
     id: 520
@@ -1024,6 +1060,7 @@
     rank: 1
     sort: -3000
     item_access: "2"
+    type_sort: 4
   }
   {
     id: 521
@@ -1035,6 +1072,7 @@
     rank: 1
     sort: -3001
     item_access: "2"
+    type_sort: 4
   }
   {
     id: 522
@@ -1046,6 +1084,7 @@
     rank: 1
     sort: -3002
     item_access: "2"
+    type_sort: 4
   }
   {
     id: 523
@@ -1066,6 +1105,7 @@
     rank: 1
     sort: -3003
     item_access: "2"
+    type_sort: 4
   }
   {
     id: 525
@@ -1078,6 +1118,7 @@
     sort: 514
     item_access: "23,5,2"
     detail_introduction: 자율작전을 즉시 완료합니다.
+    type_sort: 3
   }
   {
     id: 526
@@ -1089,6 +1130,7 @@
     rank: 1
     sort: -515
     detail_introduction: 공방-장비제조에서 중형제조의 I.O.P 특수주문이 가능합니다.Testtest
+    type_sort: 3
   }
   {
     id: 527
@@ -1200,6 +1242,7 @@
     sort: 516
     item_access: "1,2"
     detail_introduction: 지휘관 의상을 무작위로 염색합니다.
+    type_sort: 3
   }
   {
     id: 602
@@ -1212,6 +1255,7 @@
     sort: 517
     item_access: "2"
     detail_introduction: 지휘관 의상을 지정한 색상으로 염색합니다.
+    type_sort: 3
   }
   {
     id: 603
@@ -1244,6 +1288,7 @@
     sort: 518
     item_access: "1,5,3,2"
     detail_introduction: 통합회수작전에서 스바로그에 의뢰하여 구역 전체에 남아있는 유닛 중 하나를 회수합니다.
+    type_sort: 3
   }
   {
     id: 606
@@ -1256,6 +1301,7 @@
     sort: 21
     item_access: "19"
     detail_introduction: 프로토콜 센터에서 두 동명 혼합세력유닛의 육성 상태를 교환할 수 있습니다.
+    type_sort: 2
   }
   {
     id: 1001
@@ -15655,6 +15701,7 @@
     rank: 1
     sort: -22
     detail_introduction: item-30009033
+    type_sort: 2
   }
   {
     id: 9034
@@ -15666,6 +15713,7 @@
     rank: 1
     sort: -23
     detail_introduction: item-30009034
+    type_sort: 2
   }
   {
     id: 9035
@@ -15677,6 +15725,7 @@
     rank: 1
     sort: -24
     detail_introduction: item-30009035
+    type_sort: 2
   }
   {
     id: 9036
@@ -15688,6 +15737,7 @@
     rank: 1
     sort: -25
     detail_introduction: item-30009036
+    type_sort: 2
   }
   {
     id: 9037
@@ -15699,6 +15749,7 @@
     rank: 1
     sort: -26
     detail_introduction: item-30009037
+    type_sort: 2
   }
   {
     id: 9038
@@ -15710,6 +15761,7 @@
     rank: 1
     sort: -27
     detail_introduction: item-30009038
+    type_sort: 2
   }
   {
     id: 9039
@@ -15739,6 +15791,7 @@
     rank: 1
     sort: -3004
     is_hide_info: 1
+    type_sort: 4
   }
   {
     id: 9042
@@ -15750,6 +15803,7 @@
     rank: 1
     sort: -3005
     is_hide_info: 1
+    type_sort: 4
   }
   {
     id: 9043
@@ -15783,6 +15837,7 @@
     consume_type: 1
     item_access: "5,3,2"
     detail_introduction: 통합회수작전에서 화면 위의 혼합세력유닛의 회수를 시도할 수 있습니다.
+    type_sort: 3
   }
   {
     id: 10605
@@ -15829,6 +15884,7 @@
     introduction: 회색지대에 진입해 탐사할 수 있는 허가증입니다. 이것을 제시하면 추가 자원을 소비할 필요가 없습니다.
     rank: 1
     sort: -520
+    type_sort: 3
   }
   {
     id: 10703
@@ -17322,6 +17378,7 @@
     rank: 1
     sort: -3006
     item_access: "2"
+    type_sort: 4
   }
   {
     id: 100152
@@ -17517,6 +17574,7 @@
     introduction: 획득 후 이벤트에서 아군 제대는 연합돌격 스킬을 얻고, 사용 시 저격지원, 포격지원, 공습지원 전장효과를 얻는다.
     rank: 1
     sort: -3007
+    type_sort: 4
   }
   {
     id: 100173
@@ -17527,6 +17585,7 @@
     introduction: 획득 후 이벤트에서 아군 제대는 집중 스킬을 얻고, 사용 시 동명 전장효과를 얻는다.
     rank: 1
     sort: -3008
+    type_sort: 4
   }
   {
     id: 100174
@@ -17537,6 +17596,7 @@
     introduction: 획득 후 이벤트에서 아군 제대는 집중 스킬을 얻고, 사용 시 동명 전장효과를 얻는다.
     rank: 1
     sort: -3009
+    type_sort: 4
   }
   {
     id: 100175
@@ -20830,6 +20890,7 @@
     introduction: 개봉 시 리스트 중 한 가지 장비를 지정해서 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500010
@@ -20840,6 +20901,7 @@
     introduction: 지정 범위에서 원하는 부속 유형 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500011
@@ -20850,6 +20912,7 @@
     introduction: 개봉 시 해당 코드 안의 장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500012
@@ -20860,6 +20923,7 @@
     introduction: 개봉 시 해당 코드 안의 장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500013
@@ -20870,6 +20934,7 @@
     introduction: 개봉 시 코드 중 해금되지 않은 인형을 확정 획득합니다. 모든 인형을 해금한 경우 무작위로 하나를 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500014
@@ -20880,6 +20945,7 @@
     introduction: 개봉 시 해당 구간공수코드 중 한 가지 도구를 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500015
@@ -20890,6 +20956,7 @@
     introduction: 개봉 시, 목록 중 도감 개방이 안 된 인형을 확정 획득합니다. 목록 중 인형 도감이 전부 개방된 경우 무작위로 하나 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500016
@@ -20900,6 +20967,7 @@
     introduction: 개봉 시 리스트 중 한 가지 도구를 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500017
@@ -20910,6 +20978,7 @@
     introduction: 개봉 시 리스트 중 한 가지 장비를 지정해서 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500018
@@ -20920,6 +20989,7 @@
     introduction: 개봉 시 목록 중 장비를 하나 선택해서 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500019
@@ -20930,6 +21000,7 @@
     introduction: 개봉 시 목록 중 도감을 해금 안 한 인형을 확정 획득합니다. 전부 보유할 경우 무작위 출현.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500020
@@ -20940,6 +21011,7 @@
     introduction: 개봉 시 목록 중 도구 하나를 무작위로 얻습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500021
@@ -20950,6 +21022,7 @@
     introduction: 기지 복귀 보상.창고에서 이 임용장을 사용하면 지정 범위 중 4성 인형을 하나 선택해 획득할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500022
@@ -20960,6 +21033,7 @@
     introduction: 기지 복귀 보상.개봉 시 목록 중 장비를 하나 선택해서 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500023
@@ -20975,6 +21049,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500024
@@ -20989,6 +21064,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500025
@@ -21003,6 +21079,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500026
@@ -21017,6 +21094,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500027
@@ -21031,6 +21109,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500028
@@ -21045,6 +21124,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500029
@@ -21059,6 +21139,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500030
@@ -21074,6 +21155,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500031
@@ -21088,6 +21170,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500032
@@ -21102,6 +21185,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500033
@@ -21116,6 +21200,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500034
@@ -21130,6 +21215,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500035
@@ -21144,6 +21230,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500036
@@ -21158,6 +21245,7 @@
       '''
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500037
@@ -21168,6 +21256,7 @@
     introduction: 리스트 중 원하는 장비를 하나 선택해 획득할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500038
@@ -21178,6 +21267,7 @@
     introduction: 리스트 중 원하는 부속류 장비를 하나 선택해 획득할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500039
@@ -21188,6 +21278,7 @@
     introduction: 리스트 중 획득하지 않은 인형을 확정 획득합니다. 전부 소유한 경우 무작위로 하나 출현합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500040
@@ -21198,6 +21289,7 @@
     introduction: 리스트 중 한 가지 보상을 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500041
@@ -21208,6 +21300,7 @@
     introduction: 지정 범위 안의 장비 하나를 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500042
@@ -21218,6 +21311,7 @@
     introduction: 지정 범위에서 원하는 탄약 유형 장비를 하나 골라 획득할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500043
@@ -21228,6 +21322,7 @@
     introduction: 범위 중 도감이 해금되지 않은 하나를 반드시 획득합니다. 모두 해금된 경우 무작위로 하나 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500044
@@ -21238,6 +21333,7 @@
     introduction: 해당 범위에서 무작위로 하나를 얻습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500045
@@ -21248,6 +21344,7 @@
     introduction: 창고에서 이 추첨권을 사용하면 출현 범위 중 보유하지 않은 코스튬 하나를 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500046
@@ -21258,6 +21355,7 @@
     introduction: 창고에서 이 추첨권을 사용하면 출현 범위 중 보유하지 않은 코스튬 하나를 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500047
@@ -21268,6 +21366,7 @@
     introduction: 창고에서 이 추첨권을 사용하면 출현 범위 중 보유하지 않은 코스튬 하나를 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500048
@@ -21278,6 +21377,7 @@
     introduction: 전선협약-산들바람과 햇살 보상, 지정 범위에서 원하는 장비를 하나 골라 획득할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500049
@@ -21288,6 +21388,7 @@
     introduction: 전선협약-산들바람과 햇살 보상, 지정 범위에서 원하는 인형 유형 장비를 하나 골라 획득할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500050
@@ -21298,6 +21399,7 @@
     introduction: 전선협약-산들바람과 햇살 보상, 범위 중 도감이 해금되지 않은 인형을 반드시 하나 획득. 전부 해금된 상태일 경우 무작위로 하나 획득.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500051
@@ -21308,6 +21410,7 @@
     introduction: 전선협약-산들바람과 햇살 보상, 범위 중 한 가지 도구를 무작위로 획득합니다
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500052
@@ -21318,6 +21421,7 @@
     introduction: 개봉 시 목록 중 장비를 하나 선택해서 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500053
@@ -21328,6 +21432,7 @@
     introduction: 전선협약-휴일무드 보상, 지정 범위에서 원하는 인형 유형 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500054
@@ -21338,6 +21443,7 @@
     introduction: 전선협약-휴일무드 보상, 목록 중 도감을 해금하지 않은 인형을 하나 확정으로 획득합니다. 전부 해금한 경우 무작위로 하나 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500055
@@ -21348,6 +21454,7 @@
     introduction: 전선협약-휴일무드 보상, 목록 중 무작위 한 가지 보상을 얻습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500056
@@ -21358,6 +21465,7 @@
     introduction: 전선협약-심야 등불 밑 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500057
@@ -21368,6 +21476,7 @@
     introduction: 전선협약-심야 등불 밑 보상, 지정 리스트에서 원하는 탄창 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500058
@@ -21378,6 +21487,7 @@
     introduction: 전선협약-심야 등불 밑 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500059
@@ -21388,6 +21498,7 @@
     introduction: 기지 복귀 보상.개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500060
@@ -21398,6 +21509,7 @@
     introduction: 개봉 시 목록 중 장비를 하나 선택해서 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500061
@@ -21408,6 +21520,7 @@
     introduction: 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500062
@@ -21418,6 +21531,7 @@
     introduction: 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500063
@@ -21428,6 +21542,7 @@
     introduction: 창고에서 이 임용장을 사용하면, 지정 범위에서 원하는 인형을 하나 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500064
@@ -21438,6 +21553,7 @@
     introduction: 전선협약-심야 등불 밑 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500065
@@ -21448,6 +21564,7 @@
     introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 하나를 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500066
@@ -21458,6 +21575,7 @@
     introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 하나를 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500067
@@ -21468,6 +21586,7 @@
     introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 하나를 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500068
@@ -21478,6 +21597,7 @@
     introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 하나를 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500069
@@ -21488,6 +21608,7 @@
     introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 하나를 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500070
@@ -21498,6 +21619,7 @@
     introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 하나를 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500071
@@ -21508,6 +21630,7 @@
     introduction: 전선협약-회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500072
@@ -21518,6 +21641,7 @@
     introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500073
@@ -21528,6 +21652,7 @@
     introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500074
@@ -21538,6 +21663,7 @@
     introduction: 전선협약-구름에 머무는 학 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500075
@@ -21548,6 +21674,7 @@
     introduction: 전선협약-구름에 머무는 학 보상, 지정 리스트에서 원하는 인형 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500076
@@ -21558,6 +21685,7 @@
     introduction: 전선협약-구름에 머무는 학 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500077
@@ -21568,6 +21696,7 @@
     introduction: 전선협약-구름에 머무는 학 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500078
@@ -21578,6 +21707,7 @@
     introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500079
@@ -21588,6 +21718,7 @@
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500080
@@ -21598,6 +21729,7 @@
     introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500081
@@ -21608,6 +21740,7 @@
     introduction: 전선협약-뜨뜻한 시간 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500082
@@ -21618,6 +21751,7 @@
     introduction: 전선협약-뜨뜻한 시간 보상, 지정 리스트에서 원하는 인형 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500083
@@ -21628,6 +21762,7 @@
     introduction: 전선협약-뜨뜻한 시간 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500084
@@ -21638,6 +21773,7 @@
     introduction: 전선협약-뜨뜻한 시간 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500085
@@ -21648,6 +21784,7 @@
     introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500086
@@ -21658,6 +21795,7 @@
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500087
@@ -21668,6 +21806,7 @@
     introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500088
@@ -21678,6 +21817,7 @@
     introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500089
@@ -21688,6 +21828,7 @@
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500090
@@ -21698,6 +21839,7 @@
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500091
@@ -21708,6 +21850,7 @@
     introduction: 전선협약-트레저 베이의 여름 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500092
@@ -21718,6 +21861,7 @@
     introduction: 전선협약-트레저 베이의 여름 보상, 지정 리스트에서 원하는 탄창 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500093
@@ -21728,6 +21872,7 @@
     introduction: 전선협약-트레저 베이의 여름 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500094
@@ -21738,6 +21883,7 @@
     introduction: 전선협약-트레저 베이의 여름 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500095
@@ -21748,6 +21894,7 @@
     introduction: 전선협약-왕소버거의 습격 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500096
@@ -21758,6 +21905,7 @@
     introduction: 전선협약-왕소버거의 습격 보상, 지정 리스트에서 원하는 인형 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500097
@@ -21768,6 +21916,7 @@
     introduction: 전선협약-왕소버거의 습격 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500098
@@ -21778,6 +21927,7 @@
     introduction: 전선협약-왕소버거의 습격 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500099
@@ -21788,6 +21938,7 @@
     introduction: 전선협약-아침 공원 산책 보상, 지정 범위에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500100
@@ -21798,6 +21949,7 @@
     introduction: 전선협약-아침 공원 산책 보상, 지정 범위에서 원하는 부속 유형 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500101
@@ -21808,6 +21960,7 @@
     introduction: 전선협약-아침 공원 산책 보상, 목록 중 도감을 해금하지 않은 인형을 하나 확정으로 획득합니다. 전부 해금한 경우 무작위로 하나 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500102
@@ -21818,6 +21971,7 @@
     introduction: 전선협약-아침 공원 산책 보상, 목록 중 무작위 한 가지 보상을 얻습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500103
@@ -21828,6 +21982,7 @@
     introduction: 전선협약-맞보기 아침 보상, 지정 범위에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500104
@@ -21838,6 +21993,7 @@
     introduction: 전선협약-맞보기 아침 보상, 지정 범위에서 원하는 탄약 유형 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500105
@@ -21848,6 +22004,7 @@
     introduction: 전선협약-맞보기 아침 보상, 목록 중 도감을 해금하지 않은 인형을 하나 확정으로 획득합니다. 전부 해금한 경우 무작위로 하나 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500106
@@ -21858,6 +22015,7 @@
     introduction: 전선협약-맞보기 아침 보상, 목록 중 무작위 한 가지 보상을 얻습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500107
@@ -21868,6 +22026,7 @@
     introduction: 창고에서 이 임용장을 사용하면 지정 범위 중 4성 인형을 하나 선택해 획득할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500108
@@ -21878,6 +22037,7 @@
     introduction: 창고에서 이 임용장을 사용하면 지정 범위 중 5성 인형을 하나 선택해 획득할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500109
@@ -21888,6 +22048,7 @@
     introduction: 전선협약-브리스크 더 록! 보상, 지정 범위에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500110
@@ -21898,6 +22059,7 @@
     introduction: 전선협약-브리스크 더 록! 보상, 지정 범위에서 원하는 인형 유형 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500111
@@ -21908,6 +22070,7 @@
     introduction: 전선협약-브리스크 더 록! 보상, 목록 중 도감을 해금하지 않은 인형을 하나 확정으로 획득합니다. 전부 해금한 경우 무작위로 하나 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500112
@@ -21918,6 +22081,7 @@
     introduction: 전선협약-브리스크 더 록! 보상, 목록 중 무작위 한 가지 보상을 얻습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500113
@@ -21928,6 +22092,7 @@
     introduction: 전선협약-가을 연못의 꿈 보상, 지정 범위에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500114
@@ -21938,6 +22103,7 @@
     introduction: 전선협약-가을 연못의 꿈 보상, 지정 범위에서 원하는 부속 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500115
@@ -21948,6 +22114,7 @@
     introduction: 전선협약-가을 연못의 꿈 보상, 목록 중 도감을 해금하지 않은 인형을 하나 확정으로 획득합니다. 전부 해금한 경우 무작위로 하나 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500116
@@ -21958,6 +22125,7 @@
     introduction: 전선협약-가을 연못의 꿈 보상, 목록 중 무작위 한 가지 보상을 얻습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500117
@@ -21968,6 +22136,7 @@
     introduction: 창고에서 이 추첨권을 사용하면 출현 범위 중 보유하지 않은 코스튬 하나를 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500118
@@ -21978,6 +22147,7 @@
     introduction: 창고에서 이 추첨권을 사용하면 출현 범위 중 보유하지 않은 코스튬 하나를 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500119
@@ -21988,6 +22158,7 @@
     introduction: 창고에서 이 추첨권을 사용하면 출현 범위 중 보유하지 않은 코스튬 하나를 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500120
@@ -21998,6 +22169,7 @@
     introduction: 전선협약 - 위스키 스톰 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500121
@@ -22008,6 +22180,7 @@
     introduction: 전선협약 - 위스키 스톰 보상, 지정 리스트에서 원하는 탄창 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500122
@@ -22018,6 +22191,7 @@
     introduction: 전선협약 - 위스키 스톰 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500123
@@ -22028,6 +22202,7 @@
     introduction: 전선협약 - 위스키 스톰 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500124
@@ -22038,6 +22213,7 @@
     introduction: 전선협약-클라우드 쓰론 보상, 지정 범위에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500125
@@ -22048,6 +22224,7 @@
     introduction: 전선협약-클라우드 쓰론 보상, 지정 범위에서 원하는 인형 유형 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500126
@@ -22058,6 +22235,7 @@
     introduction: 전선협약-클라우드 쓰론 보상, 목록 중 도감을 해금하지 않은 인형을 하나 확정으로 획득합니다. 전부 해금한 경우 무작위로 하나 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500127
@@ -22068,6 +22246,7 @@
     introduction: 전선협약-클라우드 쓰론 보상, 목록 중 무작위 한 가지 보상을 얻습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500128
@@ -22078,6 +22257,7 @@
     introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 하나를 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500129
@@ -22088,6 +22268,7 @@
     introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 하나를 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500130
@@ -22098,6 +22279,7 @@
     introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 하나를 무작위로 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500131
@@ -22108,6 +22290,7 @@
     introduction: 전선협약-깜찍한 연습반 보상, 지정 범위에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500132
@@ -22118,6 +22301,7 @@
     introduction: 전선협약-깜찍한 연습반 보상, 지정 범위에서 원하는 부속 유형 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500133
@@ -22128,6 +22312,7 @@
     introduction: 전선협약-깜찍한 연습반 보상, 목록 중 도감을 해금하지 않은 인형을 하나 확정으로 획득합니다. 전부 해금한 경우 무작위로 하나 획득합니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1500134
@@ -22138,6 +22323,7 @@
     introduction: 전선협약-깜찍한 연습반 보상, 목록 중 무작위 한 가지 보상을 얻습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1600001
@@ -22175,6 +22361,7 @@
     introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700002
@@ -22185,6 +22372,7 @@
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700003
@@ -22195,6 +22383,7 @@
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700004
@@ -22205,6 +22394,7 @@
     introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700005
@@ -22215,6 +22405,7 @@
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700006
@@ -22225,6 +22416,7 @@
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700007
@@ -22235,6 +22427,7 @@
     introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700008
@@ -22245,6 +22438,7 @@
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700009
@@ -22255,6 +22449,7 @@
     introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700010
@@ -22265,6 +22460,7 @@
     introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700011
@@ -22275,6 +22471,7 @@
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700012
@@ -22285,6 +22482,7 @@
     introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700013
@@ -22295,6 +22493,7 @@
     introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700014
@@ -22305,6 +22504,7 @@
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700015
@@ -22315,6 +22515,7 @@
     introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700016
@@ -22325,6 +22526,7 @@
     introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700017
@@ -22335,6 +22537,7 @@
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700018
@@ -22345,6 +22548,7 @@
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700019
@@ -22355,6 +22559,7 @@
     introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700020
@@ -22365,6 +22570,7 @@
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700021
@@ -22375,6 +22581,7 @@
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700022
@@ -22385,6 +22592,7 @@
     introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700023
@@ -22395,6 +22603,7 @@
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700024
@@ -22405,6 +22614,7 @@
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700025
@@ -22415,6 +22625,7 @@
     introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700026
@@ -22425,6 +22636,7 @@
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1700027
@@ -22435,6 +22647,7 @@
     introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800001
@@ -22445,6 +22658,7 @@
     introduction: 개봉 시 5성 중/경화기 파츠 확정 획득
     rank: 5
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800002
@@ -22455,6 +22669,7 @@
     introduction: 개봉 시 5성 기능/방호/범용 파츠 확정 획득
     rank: 5
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800003
@@ -22465,6 +22680,7 @@
     introduction: 개봉 시 중간 확률로 5성 파츠 획득
     rank: 4
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800004
@@ -22475,6 +22691,7 @@
     introduction: 개봉 시 낮은 확률로 5성 파츠 획득
     rank: 3
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800005
@@ -22485,6 +22702,7 @@
     introduction: 개봉 시 파츠 획득
     rank: 2
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800006
@@ -22495,6 +22713,7 @@
     introduction: 개봉 시 5성 중화기/범용 파츠 확정 획득
     rank: 5
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800007
@@ -22505,6 +22724,7 @@
     introduction: 개봉 시 5성 경화기/범용 파츠 확정 획득
     rank: 5
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800008
@@ -22515,6 +22735,7 @@
     introduction: 개봉 시 5성 중/경화기 파츠 확정 획득
     rank: 5
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800009
@@ -22525,6 +22746,7 @@
     introduction: 개봉 시 5성 기능/방호/범용 파츠 확정 획득
     rank: 5
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800011
@@ -22535,6 +22757,7 @@
     introduction: 5성 파츠 선택 코드
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800012
@@ -22545,6 +22768,7 @@
     introduction: 4성 파츠 선택 코드
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800013
@@ -22555,6 +22779,7 @@
     introduction: 3성 파츠 선택 코드
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800021
@@ -22565,6 +22790,7 @@
     introduction: 5성 파츠 다중선택
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800022
@@ -22575,6 +22801,7 @@
     introduction: 4성 파츠 다중선택
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800023
@@ -22585,6 +22812,7 @@
     introduction: 3성 파츠 다중선택
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800031
@@ -22595,6 +22823,7 @@
     introduction: 5성 파츠 고정
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800032
@@ -22605,6 +22834,7 @@
     introduction: 4성 파츠 고정
     rank: 1
     sort: -1
+    type_sort: 1
   }
   {
     id: 1800033
@@ -22616,5 +22846,6 @@
     rank: 1
     sort: -1
     detail_introduction: item-31800033
+    type_sort: 1
   }
 ]
