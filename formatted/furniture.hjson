@@ -30140,6 +30140,36 @@
     rotate: "2,2,2"
   }
   {
+    id: 20135
+    name: 캠핑 아이템
+    classes: 19
+    type: 201
+    space: "8,6,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 캠핑 매니아에게 필수품인 야외 여행 세트. 이것이 있으면 바쁜 현실에서 벗어나 산 속 나무 사이의 한가로움을 즐길 수 있습니다. 따듯한 커피는 직접 움직여야 하지만요. 여기 칼하고 도끼요, 먼저 장작 패는 것부터 시작하죠...
+    code: qjyd_20240530_camping_deco1,qjyd_20240530_camping_deco2,qjyd_20240530_camping_deco3,qjyd_20240530_camping_deco4
+    texture_type: "1,1,1,1"
+    sorting: "0,10,20,30"
+    offset: "0.156,-0.886,0.000|0.156,-0.886,0.000|0.156,-0.886,0.000|0.156,-0.886,0.000"
+    rotate: "2,2,2,2"
+  }
+  {
+    id: 20136
+    name: 야생의 맛
+    classes: 19
+    type: 201
+    space: "6,4,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 캠핑 매니아에게 필수품인 대형 그릴. 수풀 무성한 야외에서 미식을 마음껏 즐길 수 있습니다. 고기 굽는 냄새에 주변 맹수를 불러올 수 있지만... 좋게 생각하면 산지직송의 고기가 생기는 거 아닐까요?
+    code: qjyd_20240530_bbq_deco1,qjyd_202405_bbq
+    texture_type: "1,2"
+    sorting: "0,10"
+    offset: "0.177,-0.094,0.000|-0.542,0.344,0.000"
+    rotate: "2,2"
+  }
+  {
     id: 30001
     name: 마카로프 - 잭오랜턴
     classes: 300

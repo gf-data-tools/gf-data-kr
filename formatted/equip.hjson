@@ -12485,4 +12485,134 @@
     obtain_ids: "3105"
     description_skill: 1001301
   }
+  {
+    id: 400
+    name: HB 탄띠 상자
+    description:
+      '''
+      치명률+<critical_percent><%>
+      장탄수+<bullet_number_up>$M2HB 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    critical_percent: "12,15"
+    bullet_number_up: "3,4"
+    retire_mp: 1
+    retire_ammo: 1
+    retire_mre: 1
+    retire_part: 5
+    code: TDoll_SP_M2HB
+    develop_duration: 3420
+    company: IOP
+    fit_guns: "77"
+    equip_introduction: M2HB가 가장 좋아하는 탄띠 상자. 그녀의 전투 욕구를 충족시킬 수 있습니다.
+    powerup_mp: 0.1
+    powerup_ammo: 0.1
+    powerup_mre: 0.1
+    powerup_part: 0.55
+    exclusive_rate: 3
+    bonus_type: bullet_number_up:500,critical_percent:700
+    max_level: 10
+    auto_select_id: 20081
+    is_show: 1
+    obtain_ids: "3003"
+  }
+  {
+    id: 401
+    name: Model 칩셋
+    description: 화력+<pow> 사속+<rate>//치명상<critical_harm_rate><%>$Model L 전용
+    rank: 5
+    category: 3
+    type: 20
+    pow: "10,12"
+    rate: "12,16"
+    critical_harm_rate: "-50,-50"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: TDoll_SP_Modell
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "223"
+    equip_introduction: Model L을 위해 특별 제작된 칩셋. 업무와 놀이의 연산력 소모 균형을 맞춰줄 수 있다고 합니다.
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:500,rate:600
+    max_level: 10
+    auto_select_id: 20082
+    is_show: 1
+    obtain_ids: "3003"
+  }
+  {
+    id: 402
+    name: USP 신호총
+    description:
+      '''
+      명중+<hit>
+      제대 명중+10%$USP-C 전용
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    hit: "6,10"
+    skill_effect: 150
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: Magazine_SP_USPC
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "141"
+    equip_introduction: USP Compact에게 특별 지급된 신호총. 위험을 마주치면 모두에게 구조 요청 신호를 보낼 수 있습니다.
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3
+    bonus_type: hit:1000
+    passive_skill: "300903"
+    max_level: 10
+    auto_select_id: 19079
+    is_show: 1
+    obtain_ids: "3003"
+    sp_description: 제대 명중+10%
+  }
+  {
+    id: 403
+    name: 9mm XD탄+P
+    description:
+      '''
+      화력+<pow>
+      사속<rate>$Vector 전용
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "12,15"
+    rate: "-8,-5"
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: Magazine_SP_Vector
+    develop_duration: 3180
+    company: IOP
+    fit_guns: "20"
+    equip_introduction: IOP에서 Vector를 위해 특수 제작한 +P 9mm 탄약. 기존 Vector에게 +P 탄약이 부적합한 문제를 개선하면서 XD탄두를 채용해 살상력을 크게 높였습니다.
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3
+    bonus_type: pow:1000
+    passive_skill: "1001601"
+    max_level: 10
+    auto_select_id: 19080
+    is_show: 1
+    obtain_ids: "3106"
+    description_skill: 1001601
+  }
 ]
