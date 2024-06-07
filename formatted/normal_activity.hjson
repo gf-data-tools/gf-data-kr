@@ -262,7 +262,7 @@
     name: 재귀정리
     chapter_name: 재귀정리
     bg_code: active_PoincareRecurrence
-    bg_config: "#000000C7,#3D415166,#A3BD13,#FFFFFFFF"
+    bg_config: "#000000C7,#3D415166,#E64801,#FFFFFFFF"
     desc: 이벤트 기간:2021.9.10-10.09
     scene_name: PoincareRecurrencelogo
   }
@@ -378,5 +378,17 @@
     bg_code: missionselect_PolarizedLight_RE
     event_prize_level: 10005
     rank_id: "305"
+  }
+  {
+    id: 34
+    campaign_id: -59
+    tag: C.E.|2023
+    order: 104
+    name: 특별 이벤트Ⅴ
+    chapter_name: 문제상자 가설
+    bg_code: active_2023Rouge
+    bg_config: "#000000C7,#3D415166,#5065bdFF,#FFFFFFFF"
+    desc: 이벤트 기간:2023.01.18-02.10
+    scene_name: active_2023Rougelogo
   }
 ]

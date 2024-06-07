@@ -253,4 +253,22 @@
     group_skill: 2:1001203
     fit_gun: "163"
   }
+  {
+    id: 29
+    name: 핀셋 작전
+    des: SV-98에게 맞춤 제작한 세트. 보다 정확한 측량과 계산을 도와줍니다.
+    code: EgroupSV98
+    equip_unit: "398,0,115"
+    group_skill: 2:1001403
+    fit_gun: "20044"
+  }
+  {
+    id: 30
+    name: 완벽 작전
+    des: PKP에게 맞춤 제작한 세트. 단신으로 수많은 적을 상대해도 결코 뒤처지지 않습니다.
+    code: EgroupPKP
+    equip_unit: "399,316,0"
+    group_skill: 2:1001503
+    fit_gun: "173"
+  }
 ]

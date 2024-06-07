@@ -16049,6 +16049,15 @@
     rank: 1
   }
   {
+    id: 10716
+    type: 18
+    arg: "10716"
+    code: daily_points
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
+    rank: 1
+  }
+  {
     id: 100001
     type: 4
     arg: "100001"
@@ -18048,6 +18057,34 @@
     item_name: 8주년 코스튬 쿠폰
     introduction: 8주년 코스튬 쿠폰
     rank: 1
+  }
+  {
+    id: 100219
+    type: 4
+    arg: "100219"
+    code: Nova_medal
+    item_name: 노바훈장·퍼미션 리로딩
+    introduction: 노바훈장·퍼미션 리로딩
+    rank: 1
+  }
+  {
+    id: 100220
+    type: 4
+    arg: "100220"
+    code: Platinum_medal
+    item_name: 백금훈장·퍼미션 리로딩
+    introduction: 백금훈장·퍼미션 리로딩
+    rank: 1
+  }
+  {
+    id: 100221
+    type: 9
+    arg: "100221"
+    code: Loading_Coin
+    item_name: 로딩 코인
+    introduction: 로딩 코인
+    rank: 1
+    daily_limit: "120"
   }
   {
     id: 110001
