@@ -504,4 +504,9 @@
     theme_type: 4
     name: 2922번째 만남
   }
+  {
+    id: 102
+    theme_type: 9
+    name: 괴도 아티스트
+  }
 ]

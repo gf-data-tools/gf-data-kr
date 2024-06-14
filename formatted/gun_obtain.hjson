@@ -1325,4 +1325,8 @@
     obtain_id: 3114
     description: 기간한정 이벤트 <오귀인의 샘물> 재화 상점 교환
   }
+  {
+    obtain_id: 3115
+    description: 기간한정 이벤트 <22중 곤경> 재화 교환
+  }
 ]

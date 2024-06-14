@@ -5396,6 +5396,49 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 233001
+    id: 233
+    name: 라플라스의 괴물
+    sub_name: 라플라스의 괴물
+    type: 1
+    code: LaplaceBoss
+    introduce: 정체 불명의 픽셀 덩어리. 악랄한 성격에 기괴한 행동거지로 생각을 짐작하기가 힘들다. 이 이상한 세계의 각종 능력을 한몸에 지닌 강하고 위험한 상대다.
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 정보 불명, 신중하게 상대하세요!
+    character: "1001,1004,1006"
+    enemy_skill: "231,232,233,234,235,236,237"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    sub_id: 234001
+    id: 234
+    name: 엘리사
+    sub_name: 엘리사
+    type: 1
+    code: Eliza_boss_Free
+    introduce: 철혈을 버린 엘리사는 더욱 잔혹하고 비정해졌으며 완벽한 AI에 더 가까워졌다. 잃을 것이 없으면 두려울 것도 없는 법.
+    forces: 1
+    pow_rank: 7
+    life_rank: 6
+    hit_rank: 5
+    dodge_rank: 4
+    rate_rank: 4
+    range_rank: 5
+    counter: 역붕괴의 영향은 인형을 잠시 무력화하지만 공중에 떠올라 일부 공격을 피할 수 있습니다. 이를 잘 활용해 거대한 피해를 회피하세요!
+    character: "1001,900"
+    enemy_skill: "85,86,87"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "60,60,1"
+  }
+  {
     sub_id: 100001001
     id: 100001
     name: 게베뉴

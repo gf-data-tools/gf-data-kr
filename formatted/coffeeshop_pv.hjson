@@ -132,4 +132,11 @@
     cost: 506-1000
     prize_id: "5029"
   }
+  {
+    id: "20"
+    title: 오귀인의 샘물
+    description: 2024년 한정 이벤트 PV
+    cost: 506-1000
+    prize_id: "5030"
+  }
 ]

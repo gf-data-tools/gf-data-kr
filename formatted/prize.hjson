@@ -14951,6 +14951,314 @@
     item_ids: 100221-20,100220-1
   }
   {
+    id: 2414
+    name: 22중 곤경6+a
+    item_ids: 100224-6,100222-1
+  }
+  {
+    id: 2415
+    name: 22중 곤경8+b
+    item_ids: 100224-8,100223-1
+  }
+  {
+    id: 2416
+    name: 22중 곤경8+2a
+    item_ids: 100224-8,100222-2
+  }
+  {
+    id: 2417
+    name: 22중 곤경10+2a
+    item_ids: 100224-10,100222-2
+  }
+  {
+    id: 2418
+    name: 22중 곤경10+a+b
+    item_ids: 100224-10,100222-1,100223-1
+  }
+  {
+    id: 2419
+    name: 22중 곤경12+b
+    item_ids: 100224-12,100223-1
+  }
+  {
+    id: 2420
+    name: 22중 곤경12+2b
+    item_ids: 100224-12,100223-2
+  }
+  {
+    id: 2421
+    name: 22중 곤경15+2b
+    item_ids: 100224-15,100223-2
+  }
+  {
+    id: 2422
+    name: 22중 곤경15+2a+2b
+    item_ids: 100224-15,100222-2,100223-2
+  }
+  {
+    id: 2423
+    name: 22중 곤경6
+    item_ids: 100224-6
+  }
+  {
+    id: 2424
+    name: 22중 곤경8
+    item_ids: 100224-8
+  }
+  {
+    id: 2425
+    name: 22중 곤경10
+    item_ids: 100224-10
+  }
+  {
+    id: 2426
+    name: 22중 곤경12
+    item_ids: 100224-12
+  }
+  {
+    id: 2427
+    name: 22중 곤경15
+    item_ids: 100224-15
+  }
+  {
+    id: 2428
+    name: 22중 곤경a
+    item_ids: 100222-1
+  }
+  {
+    id: 2429
+    name: 22중 곤경b
+    item_ids: 100223-1
+  }
+  {
+    id: 2430
+    name: 22중 곤경2a
+    item_ids: 100222-2
+  }
+  {
+    id: 2431
+    name: 22중 곤경2b
+    item_ids: 100223-2
+  }
+  {
+    id: 2432
+    name: DSR-50 전용장비: 야행 망토
+    equip_ids: "405"
+  }
+  {
+    id: 2433
+    name: 가구: 예언 안내소
+    furniture: "20137"
+  }
+  {
+    id: 2434
+    name: 전술인형: P2000
+    gun_id: "399"
+  }
+  {
+    id: 2435
+    name: 전술인형: M16A1
+    gun_id: "54"
+  }
+  {
+    id: 2436
+    name: 전술인형: M4A1
+    gun_id: "55"
+  }
+  {
+    id: 2437
+    name: 전술인형: M4 SOPMODII
+    gun_id: "56"
+  }
+  {
+    id: 2438
+    name: 전술인형: ST AR-15
+    gun_id: "57"
+  }
+  {
+    id: 2439
+    name: 전술인형: RO635
+    gun_id: "143"
+  }
+  {
+    id: 2440
+    name: 22중 곤경 한정 코스튬 쿠폰·α
+    item_ids: 1500135-1
+    icon: Bumdle_cartesiantheatre01
+  }
+  {
+    id: 2441
+    name: 22중 곤경 한정 코스튬 쿠폰·β
+    item_ids: 1500136-1
+    icon: Bumdle_cartesiantheatre02
+  }
+  {
+    id: 2442
+    name: 22중 곤경 한정 코스튬 쿠폰·β
+    item_ids: 1500137-1
+    icon: Bumdle_cartesiantheatre03
+  }
+  {
+    id: 2443
+    name: M16A1 - 낙원 블렌딩
+    gift: 8904-1
+  }
+  {
+    id: 2444
+    name: M16A1 - 폐허 위의 태양
+    gift: 553-1
+  }
+  {
+    id: 2445
+    name: M16A1 - 애꾸 백토기사
+    gift: 533-1
+  }
+  {
+    id: 2446
+    name: M4 SOPMODII - 질주 파르페
+    gift: 8902-1
+  }
+  {
+    id: 2447
+    name: M4 SOPMODII - 모두의 귀염둥이
+    gift: 531-1
+  }
+  {
+    id: 2448
+    name: M4 SOPMODII - 황천의 정비사 Jr
+    gift: 574-1
+  }
+  {
+    id: 2449
+    name: M4A1 - 소녀세계일주
+    gift: 530-1
+  }
+  {
+    id: 2450
+    name: M4A1 - 벨벳 래빗 후르츠티
+    gift: 8901-1
+  }
+  {
+    id: 2451
+    name: M4A1 - 소나무 사이 햇볕
+    gift: 550-1
+  }
+  {
+    id: 2452
+    name: ST AR-15 - 환상의 봄바람
+    gift: 552-1
+  }
+  {
+    id: 2453
+    name: ST AR-15 - 부엉이 라떼
+    gift: 8903-1
+  }
+  {
+    id: 2454
+    name: ST AR-15 - 꽃밭의 실크햇
+    gift: 532-1
+  }
+  {
+    id: 2455
+    name: ST AR-15 - 계절학교에 가다
+    gift: 701-1
+  }
+  {
+    id: 2456
+    name: 나강 리볼버 - 네뷸라 크림
+    gift: 7107-1
+  }
+  {
+    id: 2457
+    name: 나강 리볼버 - 눈꽃공주
+    gift: 5309-1
+  }
+  {
+    id: 2458
+    name: M16A1 - 앞길의 인도자
+    gift: 4506-1
+  }
+  {
+    id: 2459
+    name: RO635 - 논밭의 수호자
+    gift: 534-1
+  }
+  {
+    id: 2460
+    name: RO635 - 규율의 집행인
+    gift: 4504-1
+  }
+  {
+    id: 2461
+    name: RO635 - 물에 잠긴 달
+    gift: 554-1
+  }
+  {
+    id: 2462
+    name: RO635 - 벚꽃 요거트
+    gift: 8905-1
+  }
+  {
+    id: 2463
+    name: M4 SOPMODII - 연석의 약탈자
+    gift: 4507-1
+  }
+  {
+    id: 2464
+    name: M4A1 - 세월의 정착자
+    gift: 4505-1
+  }
+  {
+    id: 2465
+    name: ST AR-15 - 꿈속의 수감자
+    gift: 4508-1
+  }
+  {
+    id: 2466
+    name: SIG MCX - 초시공 경비대
+    gift: 7404-1
+  }
+  {
+    id: 2467
+    name: SIG MCX - 스칼렛 메테오
+    gift: 6502-1
+  }
+  {
+    id: 2468
+    name: 나강 리볼버 - 별들의 유대
+    gift: 2706-1
+  }
+  {
+    id: 2469
+    name: M4 SOPMODII - 숲의 울림
+    gift: 551-1
+  }
+  {
+    id: 2470
+    name: DSR-50 - 베스트 오퍼
+    gift: 2101-1
+  }
+  {
+    id: 2471
+    name: DSR-50 - 비목단
+    gift: 1801-1
+  }
+  {
+    id: 2472
+    name: 드 라일 - 코요테 블루스
+    gift: 6202-1
+  }
+  {
+    id: 2473
+    name: 드 라일 - 별빛 뜨개질
+    gift: 7801-1
+  }
+  {
+    id: 2474
+    name: SIG MCX - 크라켄 헌터
+    gift: 8203-1
+  }
+  {
     id: 3001
     name: 콜트 리볼버
     item_ids: 1318-1
@@ -15549,6 +15857,14 @@
     equip_ids: "275"
     skin: 5057
     content: 개조 보상
+  }
+  {
+    id: 3310
+    name: Rex Zero 1
+    item_ids: 2502-1
+    equip_ids: "404"
+    skin: 5075
+    content: 인형개조 보상
   }
   {
     id: 4001
@@ -16636,6 +16952,12 @@
     id: 5029
     name: 만성쇼크 PV 보상
     furniture: "20131"
+    content: 보상 수령
+  }
+  {
+    id: 5030
+    name: 카페 2024 오귀인의 샘물 PV 보상
+    furniture: "20139"
     content: 보상 수령
   }
   {
@@ -31679,7 +32001,7 @@
   {
     id: 12503
     name: 코스튬: 카리나 - 그리폰 제복
-    skin: 204
+    gift: 204-1
     icon: NPC_Kalina_204
   }
   {
@@ -31699,13 +32021,13 @@
   {
     id: 12506
     name: 코스튬: 카리나 - 크리스마스 파티
-    skin: 206
+    gift: 206-1
     icon: NPC_Kalina_206
   }
   {
     id: 12507
     name: 코스튬: 카리나 - 연인의 속삭임
-    skin: 208
+    gift: 208-1
     icon: NPC_Kalina_208
   }
   {
@@ -37885,6 +38207,188 @@
     ammo: 200
     mre: 200
     part: 200
+  }
+  {
+    id: 17659
+    name: 죽음의 기사 - 임무 보상
+    coins: 1-300
+  }
+  {
+    id: 17660
+    name: 죽음의 기사EX - 임무 보상
+    item_ids: 506-100
+  }
+  {
+    id: 17661
+    name: 계몽의 시대 - 임무 보상
+    coins: 2-300
+  }
+  {
+    id: 17662
+    name: 계몽의 시대EX - 임무 보상
+    gift: 200001-100
+  }
+  {
+    id: 17663
+    name: 리퍼 - 임무 보상
+    coins: 3-300
+  }
+  {
+    id: 17664
+    name: 리퍼EX - 임무 보상
+    item_ids: 51-2
+  }
+  {
+    id: 17665
+    name: 이중비밀 - 임무 보상
+    item_ids: 45-100
+  }
+  {
+    id: 17666
+    name: 침묵의 눈 - 임무 보상
+    item_ids: 51-2
+  }
+  {
+    id: 17667
+    name: 침묵의 눈EX - 임무 보상
+    item_ids: 100225-1
+  }
+  {
+    id: 17668
+    name: 사랑의 노래 - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17669
+    name: 사랑의 노래EX - 임무 보상
+    core: 10
+  }
+  {
+    id: 17670
+    name: 마녀의 연회 - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17671
+    name: 기적의 땅 - 임무 보상
+    core: 5
+  }
+  {
+    id: 17672
+    name: 꿰뚫린 시간 - 임무 보상
+    item_ids: 46-50
+  }
+  {
+    id: 17673
+    name: 푸른 금빛 - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17674
+    name: 진리를 찾아서 - 임무 보상
+    item_ids: 9-50
+  }
+  {
+    id: 17675
+    name: 길잃은 기수 - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17676
+    name: 오류의 거울 - 임무 보상
+    core: 5
+  }
+  {
+    id: 17677
+    name: 철새 - 임무 보상
+    item_ids: 46-50
+  }
+  {
+    id: 17678
+    name: 광대의 카니발 - 임무 보상
+    item_ids: 2517-1
+  }
+  {
+    id: 17679
+    name: 공백의 사인 - 임무 보상
+    item_ids: 2518-1
+  }
+  {
+    id: 17680
+    name: 잠 - 임무 보상
+    item_ids: 2519-1
+  }
+  {
+    id: 17681
+    name: 세계의 탄생 - 임무 보상
+    item_ids: 2516-1,136-1
+    furniture: "20138"
+  }
+  {
+    id: 17682
+    name: prize-10017682
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017682
+  }
+  {
+    id: 17683
+    name: prize-10017683
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017683
+  }
+  {
+    id: 17684
+    name: prize-10017684
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017684
+  }
+  {
+    id: 17685
+    name: prize-10017685
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017685
+  }
+  {
+    id: 17686
+    name: prize-10017686
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017686
+  }
+  {
+    id: 17687
+    name: prize-10017687
+    mp: 200
+    ammo: 200
+    mre: 200
+    part: 200
+    content: prize-20017687
   }
   {
     id: 20001
@@ -52679,6 +53183,21 @@
     id: 150115
     name: 회색지대-제14기-5성인형 전용장비 풀
     equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294,182,371,198,266,304,384,315,391,316,394,319,399"
+  }
+  {
+    id: 150116
+    name: 회색지대-제15기-5성 장비 선택 풀
+    equip_ids: "16,20,32,44,66,72,90"
+  }
+  {
+    id: 150117
+    name: 회색지대-제15기-4성이하 인형 전용장비 풀
+    equip_ids: "211,337,338,342,343,348,248,351,352,355,242,358,359,365,366,368,369,264,372,374,375,216,385,246,390,250,393,218,398,94,407"
+  }
+  {
+    id: 150118
+    name: 회색지대-제15기-5성인형 전용장비 풀
+    equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294,182,371,198,266,304,384,315,391,316,394,319,399,321,406"
   }
   {
     id: 200001

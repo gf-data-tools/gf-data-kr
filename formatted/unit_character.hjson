@@ -643,4 +643,9 @@
     name: 근성
     character_des: 이 유닛은 치명타 피해에 어느 정도 저항력을 가지고 있습니다.
   }
+  {
+    id: 1006
+    name: EMP 내성
+    character_des: EMP의 효과를 대폭 차감해서 받는다.
+  }
 ]

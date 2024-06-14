@@ -30170,6 +30170,52 @@
     rotate: "2,2"
   }
   {
+    id: 20137
+    name: 예언 안내소
+    classes: 19
+    type: 201
+    space: "5,3,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 작은 카드 테이블 앞에서 영혼은 마침내 고민합니다. "직감으로 뒤집은 카드는 과연 자유의지의 우연일까, 혹은 운명으로 정해진 결과일까?"
+    code: 202406Activity_Tarot_deco1,202406Activity_Tarot
+    texture_type: "1,2"
+    sorting: "0,10"
+    offset: "0.000,0.000,0.000|0.035,0.608,0.144"
+    rotate: "2,2"
+    interact_point: "82013701,82013702,82013703,82013704,82013705,82013706,82013707,82013708,82013709,82013710,82013711"
+    interact_point_offset: *0.000,0.854,0.000|*0.000,0.854,0.000|*0.000,0.854,0.000|*0.000,0.854,0.000|*0.000,0.854,0.000|*0.000,0.854,0.000|*0.000,0.854,0.000|*0.000,0.854,0.000|*0.000,0.854,0.000|*0.000,0.854,0.000|*0.000,0.854,0.000
+  }
+  {
+    id: 20138
+    name: 윤회 결단자 훈장
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: '''"22중 곤경" 이벤트에서 뛰어난 활약을 보인 지휘관과 휘하 인형에게 수여합니다. "너를 위해 수천만번이고."'''
+    code: 202406Activity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20139
+    name: 포스터-2024 오귀인의 샘물
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2024 한정 이벤트-오귀인의 샘물 특전 포스터.
+    code: pv_202404activity
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
+    rotate: "3"
+  }
+  {
     id: 30001
     name: 마카로프 - 잭오랜턴
     classes: 300
@@ -45567,6 +45613,111 @@
     decompose_gift: 100003
     description: 6P62의 포스터.
     code: poster_Anniversary2024_6P62
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310501
+    name: DSR-50 - 블랙 벨벳 섀도우
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: DSR-50의 포스터
+    code: poster_Masque2024_DSR50
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310502
+    name: P2000 - 스위트 하트 캡터
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: P2000의 포스터
+    code: poster_Masque2024_P2000
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310503
+    name: SIG MCX - 암흑봉인
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SIG MCX의 포스터
+    code: poster_Masque2024_SIGMCX
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310504
+    name: 드 라일 - 문라이트 매지션
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 드 라일의 포스터
+    code: poster_Masque2024_Delisle
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310505
+    name: SSG3000 - 천사소녀의 선물
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SSG3000의 포스터
+    code: poster_Masque2024_SSG3000
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310506
+    name: ZiP.22 - 두근거리는 밤
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ZiP.22의 포스터
+    code: poster_Masque2024_ZIP22
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310507
+    name: 나강 리볼버 - 괴도 사학자
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 나강 리볼버의 포스터
+    code: poster_Masque2024_M1895
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

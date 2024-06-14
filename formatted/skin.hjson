@@ -5536,6 +5536,15 @@
     note: 오리지널
   }
   {
+    id: 5075
+    name: Rex Zero 1 - 오리지널
+    fit_gun: 20310
+    voice: 4
+    is_hidden: 2
+    dialog: 오리지널
+    note: 오리지널
+  }
+  {
     id: 5101
     name: 류 소총 - 버드나무 여우불
     fit_gun: 316
@@ -8927,6 +8936,80 @@
     order: 131
     class_id: 101
     skin_source: 2
+  }
+  {
+    id: 10501
+    name: DSR-50 - 블랙 벨벳 섀도우
+    fit_gun: 179
+    voice: 4
+    dialog: 지휘관, 호신용품의 재질을 테스트해볼래? 살살 할 테니까... 아니면, 다른 방식으로 할까?
+    illustrator_cv: 小枪,Saito Yuka,
+    order: 133
+    class_id: 102
+    skin_source: 2
+  }
+  {
+    id: 10502
+    name: P2000 - 스위트 하트 캡터
+    fit_gun: 399
+    voice: 4
+    dialog: 배기구로 분홍색 하트를 뿜으며, 추월할 수 없는 스피드로 루비가 승리의 종점으로 달려간다!
+    order: 133
+    class_id: 102
+    skin_source: 2
+  }
+  {
+    id: 10503
+    name: SIG MCX - 암흑봉인
+    fit_gun: 338
+    voice: 4
+    dialog: 봉인된 어둠의... 앗, 지휘관, 사슬 당기지 마, 이거 4시간 걸려서 세팅한 거란 말이야!
+    gift_position: "-154.4,-60.9"
+    order: 133
+    class_id: 102
+    skin_source: 1
+  }
+  {
+    id: 10504
+    name: 드 라일 - 문라이트 매지션
+    fit_gun: 337
+    voice: 4
+    dialog: 마술사로서 오늘 가장 중요한 것은 노이즈 캔슬링 이어폰을 쓰는 것이야. 무대 밑 관중들이 아무리 갈채하거나 야유해도 침착함을 유지하고 긴장을 드러내선 안 돼.
+    illustrator_cv: 鳗鱼,Sakura Ayane,
+    order: 133
+    class_id: 102
+    skin_source: 2
+  }
+  {
+    id: 10505
+    name: SSG3000 - 천사소녀의 선물
+    fit_gun: 273
+    voice: 4
+    dialog: 무슨 고민이 있으신가요, 지휘관님? 제가 경청해 드릴 테니 마음껏 털어놓으세요. 만약 제가 도울 수 있는 일이라면 더할나위 없고요.
+    illustrator_cv: 小星,Oowada Hitomi,
+    order: 133
+    class_id: 102
+    skin_source: 2
+  }
+  {
+    id: 10506
+    name: ZiP.22 - 두근거리는 밤
+    fit_gun: 354
+    voice: 4
+    dialog: 괴도로 변신? 외줄타기? 나한테 걸리면 식은 죽 먹기지! 앗... 바람이 왜 이렇게 세지, 가면이 벗겨지겠어! 지휘관, 빨리 대신 주워줘!
+    order: 133
+    class_id: 102
+    skin_source: 2
+  }
+  {
+    id: 10507
+    name: 나강 리볼버 - 괴도 사학자
+    fit_gun: 5
+    voice: 4
+    dialog: 괴도란 하나의 예술이라네, 지금부터 역사에서 유명한... 내 머리 문지르지 말게나! 어르신의 덕담을 어린이 이야기 취급하지 말게나!
+    gift_position: "-113.9,239.6"
+    order: 133
+    class_id: 102
   }
   {
     id: 30001

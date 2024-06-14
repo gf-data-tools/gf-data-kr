@@ -11986,6 +11986,118 @@
     type_sort: 6
   }
   {
+    id: 10501
+    name: DSR-50 - 블랙 벨벳 섀도우
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 179
+    skin: 10501
+    poster: 310501
+    code: gift_bundle_Masque2024_DSR50
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10502
+    name: P2000 - 스위트 하트 캡터
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 399
+    skin: 10502
+    poster: 310502
+    code: gift_bundle_Masque2024_P2000
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10503
+    name: SIG MCX - 암흑봉인
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 338
+    skin: 10503
+    poster: 310503
+    code: gift_bundle_Masque2024_SIGMCX
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10504
+    name: 드 라일 - 문라이트 매지션
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 337
+    skin: 10504
+    poster: 310504
+    code: gift_bundle_Masque2024_Delisle
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10505
+    name: SSG3000 - 천사소녀의 선물
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 273
+    skin: 10505
+    poster: 310505
+    code: gift_bundle_Masque2024_SSG3000
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10506
+    name: ZiP.22 - 두근거리는 밤
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 354
+    skin: 10506
+    poster: 310506
+    code: gift_bundle_Masque2024_ZIP22
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10507
+    name: 나강 리볼버 - 괴도 사학자
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 5
+    skin: 10507
+    poster: 310507
+    code: gift_bundle_Masque2024_M1895
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     type: 2
