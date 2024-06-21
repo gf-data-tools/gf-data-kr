@@ -12747,163 +12747,163 @@
   {
     id: 1290
     mission_id: "11670"
-    description: story_util-10001290
+    description: '''"스타피쉬 너머에 있는 것은 이상한 세계. 정령들이 이곳에 모이고, 숙명이 영혼들을 이곳에 모았다."'''
     scripts: -69-A-2
     campaign: -69
-    title: story_util-20001290
+    title: 마녀의 연회
     start: -69-A-2
   }
   {
     id: 1291
     mission_id: "11671"
-    description: story_util-10001291
+    description: '''"정령들은 각자 다른 소녀를 선택하였고, 소녀들도 자신의 운명을 선택했다."'''
     scripts: -69-A-4
     campaign: -69
-    title: story_util-20001291
+    title: 기적의 땅
     start: -69-A-4
   }
   {
     id: 1292
     mission_id: "11672"
-    description: story_util-10001292
+    description: '''"사신은 추락했지만, 죽음의 그늘은 여전히 이세계의 모든 영혼 위에 드리웠다."'''
     scripts: -69-A-6
     campaign: -69
-    title: story_util-20001292
+    title: 꿰뚫린 시간
     start: -69-A-6
   }
   {
     id: 1293
     mission_id: "11673"
-    description: story_util-10001293
+    description: '''"좁은 길에 갈림길이 나타났다. 한쪽은 안개가 자욱한 슬픈 과거, 한쪽은 햇빛이 영원히 화창한 정원."'''
     scripts: -69-A-8
     campaign: -69
-    title: story_util-20001293
+    title: 푸른 금빛
     start: -69-A-8
   }
   {
     id: 1294
     mission_id: "11674"
-    description: story_util-10001294
+    description: '''"자신이 수호하는 진리를 위해서 출혈과 희생은 항상 피할 수 없다."'''
     scripts: -69-A-10
     campaign: -69
-    title: story_util-20001294
+    title: 진리를 찾아서
     start: -69-A-10
   }
   {
     id: 1295
     mission_id: "11675"
-    description: story_util-10001295
+    description: '''"사람이 이미 궁지에 몰렸다 생각했을 때 항상 더 깊은 절망이 끝에서 기다린다."'''
     scripts: -69-A-12
     campaign: -69
-    title: story_util-20001295
+    title: 길잃은 기수
     start: -69-A-12
   }
   {
     id: 1296
     mission_id: "11676"
-    description: story_util-10001296
+    description: '''"세상은 파멸을 택했다. 이는 철저한 종말을 부를 것인가, 아니면 새롭게 시작하게 될 것인가?"'''
     scripts: -69-A-14
     campaign: -69
-    title: story_util-20001296
+    title: 오류의 거울
     start: -69-A-14
   }
   {
     id: 1297
     mission_id: "11677"
-    description: story_util-10001297
+    description: '''"가장 좋은 결말에 도달하기 위해, 그녀들은 한 세계에서 다른 세계로 뛰어넘었다."'''
     scripts: -69-A-16
     campaign: -69
-    title: story_util-20001297
+    title: 철새
     start: -69-A-16
   }
   {
     id: 1298
     mission_id: "11678"
-    description: story_util-10001298
+    description: '''"죽음의 기운이 깔린 어둠 속, 익숙한 목소리가 희망을 가져다줬다."'''
     scripts: -69-A-18
     campaign: -69
-    title: story_util-20001298
+    title: 광대의 카니발
     start: -69-A-18
   }
   {
     id: 1299
     mission_id: "11679"
-    description: story_util-10001299
+    description: '''"찢어진 카드 한 장이 그녀의 마지막 의탁이 되었다."'''
     scripts: -69-A-20
     campaign: -69
-    title: story_util-20001299
+    title: 공백의 사인
     start: -69-A-20
   }
   {
     id: 1300
     mission_id: "11680"
-    description: story_util-10001300
+    description: '''"한참 흩어져 있던 벗들이 다시 모였을 때, 이별의 카운트다운이 저절로 시작된다."'''
     scripts: -69-A-22
     campaign: -69
-    title: story_util-20001300
+    title: 잠
     start: -69-A-22
   }
   {
     id: 1301
     mission_id: "11681"
-    description: story_util-10001301
+    description: '''"계속해서 눈을 뜬다. 진실을, 현실을, 세계를 뚜렷하게 보기 위해."'''
     scripts: -69-A-24
     campaign: -69
-    title: story_util-20001301
+    title: 세계의 탄생
     start: -69-A-24
   }
   {
     id: 1302
     mission_id: "11682"
-    description: story_util-10001302
+    description: '''"세계의 진실 한 조각이 모습을 드러냈다."'''
     scripts: -69-S-1
     campaign: -69
-    title: story_util-20001302
+    title: 토트의 조각Ⅰ
     start: -69-S-1
   }
   {
     id: 1303
     mission_id: "11683"
-    description: story_util-10001303
+    description: '''"세계가 점점 더 많은 진실을 보여준다."'''
     scripts: -69-S-2
     campaign: -69
-    title: story_util-20001303
+    title: 토트의 조각Ⅱ
     start: -69-S-2
   }
   {
     id: 1304
     mission_id: "11684"
-    description: story_util-10001304
+    description: '''"어두워진 카드 뒷면은 우울한 죽음인가, 아니면 더 깊은 비밀인가?"'''
     scripts: -69-S-3
     campaign: -69
-    title: story_util-20001304
+    title: 토트의 조각Ⅲ
     start: -69-S-3
   }
   {
     id: 1305
     mission_id: "11685"
-    description: story_util-10001305
+    description: '''"배후의 진실까지, 거의 다 왔다."'''
     scripts: -69-S-4
     campaign: -69
-    title: story_util-20001305
+    title: 토트의 조각Ⅳ
     start: -69-S-4
   }
   {
     id: 1306
     mission_id: "11686"
-    description: story_util-10001306
+    description: '''"당신은 모든 것을 통찰했다, 동시에 모든 것을 잃었다."'''
     scripts: -69-S-5
     campaign: -69
-    title: story_util-20001306
+    title: 토트의 조각Ⅴ
     start: -69-S-5
   }
   {
     id: 1307
     mission_id: "11687"
-    description: story_util-10001307
+    description: '''"셀 수 없는 윤회, 셀 수 없는 망각, 그녀에게 남긴 것은 마지막 집념뿐."'''
     scripts: -69-E-1
     campaign: -69
-    title: story_util-20001307
+    title: 고리 모양 운명
     start: -69-E-1
   }
 ]

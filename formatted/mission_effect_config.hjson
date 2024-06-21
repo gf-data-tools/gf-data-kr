@@ -1840,9 +1840,9 @@
   }
   {
     id: 1000169
-    name: mission_effect_config-11000169
+    name: 타로카드 이펙트
     code: Tarot_ka01
-    description: mission_effect_config-21000169
+    description: 성배
     priority: 1
     size: 1
     sound: BT_CARD_BURN
@@ -1850,9 +1850,9 @@
   }
   {
     id: 1000170
-    name: mission_effect_config-11000170
+    name: 타로카드 이펙트
     code: Tarot_ka02
-    description: mission_effect_config-21000170
+    description: 동전
     priority: 1
     size: 1
     sound: BT_CARD_BURN
@@ -1860,9 +1860,9 @@
   }
   {
     id: 1000171
-    name: mission_effect_config-11000171
+    name: 타로카드 이펙트
     code: Tarot_ka03
-    description: mission_effect_config-21000171
+    description: 지팡이
     priority: 1
     size: 1
     sound: BT_CARD_BURN
@@ -1870,9 +1870,9 @@
   }
   {
     id: 1000172
-    name: mission_effect_config-11000172
+    name: 타로카드 이펙트
     code: Tarot_ka04
-    description: mission_effect_config-21000172
+    description: 검
     priority: 1
     size: 1
     sound: BT_CARD_BURN
@@ -1880,9 +1880,9 @@
   }
   {
     id: 1000173
-    name: mission_effect_config-11000173
+    name: 라플라스 실드
     code: Laplace_dun_uv
-    description: mission_effect_config-21000173
+    description: 라플라스 실드
     priority: 1
     size: 1
     offset: "0,0"

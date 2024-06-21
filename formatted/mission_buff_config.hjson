@@ -4432,9 +4432,58 @@
     carry_mission_skill: "640104"
   }
   {
+    id: 670103
+    name: 준비
+    description: 때가 되었다
+    code: 561mod
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 670103
+    priority: 1
+    carry_mission_skill: "670104"
+  }
+  {
+    id: 670104
+    name: 강림
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    battle_skill_config_id: 778219
+    conflict_type: 670104
+    priority: 1
+    is_still_alive: 1
+  }
+  {
+    id: 670105
+    name: 번개 돌진
+    description: 1턴간 회피와 이동속도를 상승시킨다
+    code: Racing_Fly
+    type: 1
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 778220
+    conflict_type: 670105
+    priority: 1
+  }
+  {
+    id: 670106
+    name: 강림2
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    battle_skill_config_id: 778221
+    conflict_type: 670106
+    priority: 1
+    is_still_alive: 1
+  }
+  {
     id: 690001
-    name: mission_buff_config-10690001
-    description: mission_buff_config-20690001
+    name: 【标记】角色初始化
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4445,8 +4494,8 @@
   }
   {
     id: 690022
-    name: mission_buff_config-10690022
-    description: mission_buff_config-20690022
+    name: 지팡이
+    description: EMP 영향을 받는다
     code: Theresa_Back
     type: 1
     duration_type: "1"
@@ -4460,8 +4509,8 @@
   }
   {
     id: 690032
-    name: mission_buff_config-10690032
-    description: mission_buff_config-20690032
+    name: 검
+    description: 다음 전투에서 화력 대폭 상승, 대신 전투 후 이번 턴 이동 불가
     code: powBuff
     type: 1
     duration_type: "1"
@@ -4477,8 +4526,8 @@
   }
   {
     id: 690042
-    name: mission_buff_config-10690042
-    description: mission_buff_config-20690042
+    name: 성배
+    description: 1턴 동안 전투 시작 시 보호막 획득
     code: shield
     type: 1
     duration_type: "1"
@@ -4491,8 +4540,8 @@
   }
   {
     id: 690052
-    name: mission_buff_config-10690052
-    description: mission_buff_config-20690052
+    name: 고정
+    description: 기진맥진
     code: Theresa_Back
     type: 1
     duration_type: "1"
@@ -4505,8 +4554,7 @@
   }
   {
     id: 690502
-    name: mission_buff_config-10690502
-    description: mission_buff_config-20690502
+    name: 【标记】AR初始化
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4517,8 +4565,7 @@
   }
   {
     id: 690503
-    name: mission_buff_config-10690503
-    description: mission_buff_config-20690503
+    name: 【标记】人形初始化
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4529,8 +4576,7 @@
   }
   {
     id: 690504
-    name: mission_buff_config-10690504
-    description: mission_buff_config-20690504
+    name: 골리앗 소지
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4542,8 +4588,7 @@
   }
   {
     id: 690701
-    name: mission_buff_config-10690701
-    description: mission_buff_config-20690701
+    name: 【标记】AR初始化
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4555,8 +4600,7 @@
   }
   {
     id: 690702
-    name: mission_buff_config-10690702
-    description: mission_buff_config-20690702
+    name: 【标记】BOSS2动
     code: ExtraMove
     type: 1
     duration_type: "1"
@@ -4571,8 +4615,7 @@
   }
   {
     id: 690703
-    name: mission_buff_config-10690703
-    description: mission_buff_config-20690703
+    name: 【标记】BOSS3动
     code: ExtraMove2
     type: 1
     duration_type: "1"
@@ -4587,8 +4630,7 @@
   }
   {
     id: 690704
-    name: mission_buff_config-10690704
-    description: mission_buff_config-20690704
+    name: 【标记】BOSS4动
     code: ExtraMove3
     type: 1
     duration_type: "1"
@@ -4603,8 +4645,7 @@
   }
   {
     id: 690705
-    name: mission_buff_config-10690705
-    description: mission_buff_config-20690705
+    name: 【标记】BOSS5动
     code: 561mod
     type: 1
     duration_type: "1"
@@ -4616,8 +4657,7 @@
   }
   {
     id: 690800
-    name: mission_buff_config-10690800
-    description: mission_buff_config-20690800
+    name: 【标记】EMP计数
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4627,8 +4667,7 @@
   }
   {
     id: 690801
-    name: mission_buff_config-10690801
-    description: mission_buff_config-20690801
+    name: 【标记】BOSS强化
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4640,8 +4679,7 @@
   }
   {
     id: 690804
-    name: mission_buff_config-10690804
-    description: mission_buff_config-20690804
+    name: EMP 폭탄 소지
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4653,8 +4691,7 @@
   }
   {
     id: 690813
-    name: mission_buff_config-10690813
-    description: mission_buff_config-20690813
+    name: EMP 마비
     code: Theresa_Back
     type: 1
     duration_type: "1"

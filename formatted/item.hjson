@@ -775,6 +775,15 @@
     rank: 1
   }
   {
+    id: 137
+    type: 3
+    arg: "38"
+    code: Medal_21summer_re_rank
+    item_name: 악몽 종식 훈장
+    introduction: 기간한정 이벤트 "악몽의 미로성+" 랭킹모드에서 뛰어난 성적을 기록한 지휘관에게 수여합니다. "끝없는 연옥을 당신이 걷어내어, 사람들은 행복한 단잠을 이룰 수 있게 되었습니다."
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -14514,8 +14523,8 @@
     type: 5
     arg: "1"
     code: profilePic_202404Acticity_01
-    item_name: 키홀더
-    introduction: 키홀더
+    item_name: 아이콘: 키홀더
+    introduction: 아이콘: 키홀더
     rank: 1
   }
   {
@@ -14523,8 +14532,8 @@
     type: 5
     arg: "1"
     code: profilePic_202404Acticity_02
-    item_name: 세월 속 고정된 눈길
-    introduction: 세월 속 고정된 눈길
+    item_name: 아이콘: 세월 속 고정된 눈길
+    introduction: 아이콘: 세월 속 고정된 눈길
     rank: 1
   }
   {
@@ -14532,8 +14541,8 @@
     type: 5
     arg: "1"
     code: profilePic_202404Acticity_03
-    item_name: 탈피
-    introduction: 탈피
+    item_name: 아이콘: 탈피
+    introduction: 아이콘: 탈피
     rank: 1
   }
   {
@@ -14541,8 +14550,8 @@
     type: 5
     arg: "1"
     code: card_202404Acticity_01
-    item_name: 엘마가 보낸 메시지
-    introduction: 엘마가 보낸 메시지
+    item_name: 카드배경: 엘마에게서 온 메시지
+    introduction: 카드배경: 엘마에게서 온 메시지
     rank: 1
   }
   {
@@ -14550,8 +14559,8 @@
     type: 5
     arg: "1"
     code: card_202404Acticity_02
-    item_name: 세계의 계단을 타고
-    introduction: 세계의 계단을 타고
+    item_name: 카드배경: 세계의 계단을 타고
+    introduction: 카드배경: 세계의 계단을 타고
     rank: 1
   }
   {
@@ -14559,8 +14568,8 @@
     type: 5
     arg: "1"
     code: card_202404Acticity_03
-    item_name: 우화
-    introduction: 우화
+    item_name: 카드배경: 우화
+    introduction: 카드배경: 우화
     rank: 1
   }
   {
@@ -14568,8 +14577,8 @@
     type: 5
     arg: "1"
     code: cg_202404Acticity
-    item_name: 전용 수감실
-    introduction: 전용 수감실
+    item_name: 기지배경: 전용 수감실
+    introduction: 기지배경: 전용 수감실
     rank: 1
   }
   {
@@ -14820,100 +14829,108 @@
     type: 5
     arg: "1"
     code: profilePic_202406Activity_01
-    item_name: item-10002510
-    introduction: item-20002510
+    item_name: 아이콘: 각성한 열쇠
+    introduction: 아이콘: 각성한 열쇠
     rank: 1
-    detail_introduction: item-30002510
   }
   {
     id: 2511
     type: 5
     arg: "1"
     code: profilePic_202406Activity_02
-    item_name: item-10002511
-    introduction: item-20002511
+    item_name: 아이콘: 고독한 새 그림자
+    introduction: 아이콘: 고독한 새 그림자
     rank: 1
-    detail_introduction: item-30002511
   }
   {
     id: 2512
     type: 5
     arg: "1"
     code: profilePic_202406Activity_03
-    item_name: item-10002512
-    introduction: item-20002512
+    item_name: 아이콘: 둥지의 우두머리
+    introduction: 아이콘: 둥지의 우두머리
     rank: 1
-    detail_introduction: item-30002512
   }
   {
     id: 2513
     type: 5
     arg: "1"
     code: card_202406Activity_01
-    item_name: item-10002513
-    introduction: item-20002513
+    item_name: 카드배경: 미로 행적
+    introduction: 카드배경: 미로 행적
     rank: 1
-    detail_introduction: item-30002513
   }
   {
     id: 2514
     type: 5
     arg: "1"
     code: card_202406Activity_02
-    item_name: item-10002514
-    introduction: item-20002514
+    item_name: 카드배경: 뒤집힌 시간
+    introduction: 카드배경: 뒤집힌 시간
     rank: 1
-    detail_introduction: item-30002514
   }
   {
     id: 2515
     type: 5
     arg: "1"
     code: card_202406Activity_03
-    item_name: item-10002515
-    introduction: item-20002515
+    item_name: 카드배경: 이단의 시계탑
+    introduction: 카드배경: 이단의 시계탑
     rank: 1
-    detail_introduction: item-30002515
   }
   {
     id: 2516
     type: 5
     arg: "1"
     code: card_202406Activity_04
-    item_name: item-10002516
-    introduction: item-20002516
+    item_name: 카드배경: 나비날개와 죄수
+    introduction: 카드배경: 나비날개와 죄수
     rank: 1
-    detail_introduction: item-30002516
   }
   {
     id: 2517
     type: 5
     arg: "1"
     code: cg_202406Activity_01
-    item_name: item-10002517
-    introduction: item-20002517
+    item_name: 기지배경: 갈림길의 미궁
+    introduction: 기지배경: 갈림길의 미궁
     rank: 1
-    detail_introduction: item-30002517
   }
   {
     id: 2518
     type: 5
     arg: "1"
     code: cg_202406Activity_02
-    item_name: item-10002518
-    introduction: item-20002518
+    item_name: 기지배경: 소용돌이 위, 심연 밑
+    introduction: 기지배경: 소용돌이 위, 심연 밑
     rank: 1
-    detail_introduction: item-30002518
   }
   {
     id: 2519
     type: 5
     arg: "1"
     code: cg_202406Activity_03
-    item_name: item-10002519
-    introduction: item-20002519
+    item_name: 기지배경: 토막난 허공
+    introduction: 기지배경: 토막난 허공
     rank: 1
-    detail_introduction: item-30002519
+  }
+  {
+    id: 2520
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M1897
+    item_name: M1897 - 깔끔 론도
+    introduction: M1897 - 깔끔 론도
+    rank: 1
+  }
+  {
+    id: 2521
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M1897
+    item_name: 카드배경: 어지러운 간주
+    introduction: 카드배경: 어지러운 간주
+    rank: 1
   }
   {
     id: 4001
@@ -16045,10 +16062,9 @@
     type: 1
     arg: "9044"
     code: ActivityTarot2
-    item_name: item-10009044
-    introduction: item-20009044
+    item_name: 동전 에이스
+    introduction: 이 제대를 2칸 거리 내 빈 거점으로 전송한다.
     rank: 1
-    detail_introduction: item-30009044
     is_hide_info: 1
   }
   {
@@ -16056,10 +16072,9 @@
     type: 1
     arg: "9045"
     code: ActivityTarot4
-    item_name: item-10009045
-    introduction: item-20009045
+    item_name: 지팡이 에이스
+    introduction: 1칸 거리 내 적을 선택해 EMP 공격을 하여 능력치를 깎고 1턴간 이동할 수 없게 한다.
     rank: 1
-    detail_introduction: item-30009045
     is_hide_info: 1
   }
   {
@@ -16067,10 +16082,9 @@
     type: 1
     arg: "9046"
     code: ActivityTarot1
-    item_name: item-10009046
-    introduction: item-20009046
+    item_name: 검 에이스
+    introduction: 이 제대에게 추가 행동력을 2 부여하고, 다음 전투에서 버프를 제공한다. 대신 전투 후 더 이상 이동할 수 없다.
     rank: 1
-    detail_introduction: item-30009046
     is_hide_info: 1
   }
   {
@@ -16078,10 +16092,9 @@
     type: 1
     arg: "9047"
     code: ActivityTarot3
-    item_name: item-10009047
-    introduction: item-20009047
+    item_name: 성배 에이스
+    introduction: 전투 중 지속적으로 보호막을 제공한다. 1턴간 지속.
     rank: 1
-    detail_introduction: item-30009047
     is_hide_info: 1
   }
   {
@@ -18316,41 +18329,37 @@
     type: 4
     arg: "100222"
     code: Nova_medal_black
-    item_name: item-10100222
-    introduction: item-20100222
+    item_name: 노바훈장·22중 곤경
+    introduction: 노바훈장·22중 곤경
     rank: 1
-    detail_introduction: item-30100222
   }
   {
     id: 100223
     type: 4
     arg: "100223"
     code: Platinum_medal_black
-    item_name: item-10100223
-    introduction: item-20100223
+    item_name: 백금훈장·22중 곤경
+    introduction: 백금훈장·22중 곤경
     rank: 1
-    detail_introduction: item-30100223
   }
   {
     id: 100224
     type: 9
     arg: "100224"
     code: Coin_202406CartesianTheatre
-    item_name: item-10100224
-    introduction: item-20100224
+    item_name: 운명의 주사위
+    introduction: 다른 주사위와 다르게, 정사면체 주사위의 눈은 바닥에 감춰진다. 모든 오답을 통찰해야만 운명의 진정한 선물을 알 수 있다.
     rank: 1
     daily_limit: "60"
-    detail_introduction: item-30100224
   }
   {
     id: 100225
     type: 4
     arg: "100225"
     code: coremask2_202406
-    item_name: item-10100225
-    introduction: item-20100225
+    item_name: 마음 파먹는 가면·22중 곤경
+    introduction: 기이한 기운을 풍기는 마스크, 극한의 시련을 뛰어넘은 자만이 얻을 수 있습니다. 가지고 있어봤자 쓸모 없어 보이지만, 상점에서 학수고대한 만남과 교환할 수 있을 겁니다.
     rank: 1
-    detail_introduction: item-30100225
   }
   {
     id: 110001
@@ -18996,6 +19005,15 @@
     type: 4
     arg: "110072"
     code: PT
+    item_name: 이벤트 점수
+    introduction: 이벤트 점수
+    rank: 1
+  }
+  {
+    id: 110073
+    type: 4
+    arg: "110073"
+    code: EventPT2
     item_name: 이벤트 점수
     introduction: 이벤트 점수
     rank: 1
@@ -20695,6 +20713,22 @@
     rank: 1
   }
   {
+    id: 140039
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *20기 전선협약
+    rank: 1
+  }
+  {
+    id: 140040
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *20기 전선협약 강화
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -21100,6 +21134,15 @@
     code: profileFrame_BattlePass_M99
     item_name: 액자·칠색 인트로
     introduction: 액자·칠색 인트로
+    rank: 1
+  }
+  {
+    id: 200045
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M1897
+    item_name: 액자·티끌 없는 심포니
+    introduction: 액자·티끌 없는 심포니
     rank: 1
   }
   {
@@ -22677,11 +22720,10 @@
     type: 15
     arg: "1500135"
     code: Bumdle_cartesiantheatre01
-    item_name: item-11500135
-    introduction: item-21500135
+    item_name: 22중 곤경 코스튬 쿠폰·α
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유 안 한 코스튬을 랜덤으로 획득합니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500135
     type_sort: 1
   }
   {
@@ -22689,11 +22731,10 @@
     type: 15
     arg: "1500136"
     code: Bumdle_cartesiantheatre02
-    item_name: item-11500136
-    introduction: item-21500136
+    item_name: 22중 곤경 코스튬 쿠폰·β
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유 안 한 코스튬을 랜덤으로 획득합니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500136
     type_sort: 1
   }
   {
@@ -22701,11 +22742,54 @@
     type: 15
     arg: "1500137"
     code: Bumdle_cartesiantheatre03
-    item_name: item-11500137
-    introduction: item-21500137
+    item_name: 22중 곤경 코스튬 쿠폰·γ
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유 안 한 코스튬을 랜덤으로 획득합니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500137
+    type_sort: 1
+  }
+  {
+    id: 1500138
+    type: 15
+    arg: "1500138"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약-드림 멜로디 보상, 지정 범위에서 원하는 장비를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500139
+    type: 15
+    arg: "1500139"
+    code: package_choose
+    item_name: 탄창 장비 선택 코드
+    introduction: 전선협약-드림 멜로디 보상, 지정 범위에서 원하는 탄창 유형 장비를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500140
+    type: 15
+    arg: "1500140"
+    code: package_random
+    item_name: 미획득 인형 확정 코드
+    introduction: 전선협약-드림 멜로디 보상, 범위 중 도감이 해금되지 않은 인형을 반드시 하나 획득. 전부 해금된 상태일 경우 무작위로 하나 획득.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500141
+    type: 15
+    arg: "1500141"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-드림 멜로디 보상, 범위 중 한 가지 도구를 무작위로 획득합니다
+    rank: 1
+    sort: -1
     type_sort: 1
   }
   {
@@ -23037,11 +23121,10 @@
     type: 15
     arg: "1700028"
     code: package_choose
-    item_name: item-11700028
-    introduction: item-21700028
+    item_name: 기초장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31700028
     type_sort: 1
   }
   {
@@ -23049,11 +23132,10 @@
     type: 15
     arg: "1700029"
     code: package_choose
-    item_name: item-11700029
-    introduction: item-21700029
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31700029
     type_sort: 1
   }
   {
@@ -23061,11 +23143,10 @@
     type: 15
     arg: "1700030"
     code: package_choose
-    item_name: item-11700030
-    introduction: item-21700030
+    item_name: 고등 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31700030
     type_sort: 1
   }
   {
