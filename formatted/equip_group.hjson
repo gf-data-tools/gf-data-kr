@@ -271,4 +271,22 @@
     group_skill: 2:1001503
     fit_gun: "173"
   }
+  {
+    id: 31
+    name: 흑야의 칼날
+    des: 웰로드 MkⅡ에게 맞춤 제작된 세트. 그늘에 숨어 모든 불의를 매장하리라는 이념을 관철합니다.
+    code: EgroupWelrod
+    equip_unit: "406,0,213"
+    group_skill: 2:1001703
+    fit_gun: "20114"
+  }
+  {
+    id: 32
+    name: 오발 여왕
+    des: 스텐 MkⅡ에게 맞춤 제작된 세트. 자신의 결함을 직시할 수 있게 되자 마침내 제몫을 할 수 있게 됐습니다.
+    code: EgroupStenMK2
+    equip_unit: "407,0,128"
+    group_skill: 2:1001803
+    fit_gun: "20029"
+  }
 ]

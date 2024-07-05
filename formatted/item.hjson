@@ -161,7 +161,7 @@
     rank: 1
     sort: 4
     item_access: "8,5"
-    detail_introduction: 정보센터에서 데이터 분석을 하여, 중장비 부대의 핵심 데이터 또는 칩셋을 얻을 수 있습니다.
+    detail_introduction: 화력소대 칩셋 해금 및 강화에 사용됩니다.
     type_sort: 2
   }
   {
@@ -174,7 +174,7 @@
     rank: 1
     sort: 5
     item_access: "8,5"
-    detail_introduction: 정보센터에서 데이터 분석을 하여, 원시 샘플보다 핵심 데이터와 고레어 칩셋이 출현할 확률이 높습니다.
+    detail_introduction: 화력소대 해금, 승진, 버전업 및 칩셋 강화에 사용됩니다.
     type_sort: 2
   }
   {
@@ -186,8 +186,8 @@
     introduction: 데이터 분석가를 재촉해주지 않으면, 자신의 상사가 얼마나 뛰어난지를 모릅니다. "계약측의 취미 때문에, 이 계약을 사용 시 진짜 고양이 사진 한 장을 더 지불해야 합니다."
     rank: 1
     sort: 508
-    item_access: "1,5,2"
-    detail_introduction: 정보센터에서 정보 분석을 즉시 완료합니다.
+    item_access: "5,2"
+    detail_introduction: 화력소대 승진을 즉시 완료합니다.
     type_sort: 3
   }
   {
@@ -200,7 +200,7 @@
     rank: 1
     sort: -1
     item_access: "9,10"
-    detail_introduction: 5성 100레벨 중장비 부대의 버전업에 사용됩니다.
+    detail_introduction: 화력소대 버전업에 사용됩니다.
     type_sort: 2
   }
   {
@@ -322,7 +322,7 @@
     rank: 1
     sort: 12
     item_access: "24,16,6"
-    detail_introduction: 격납고에서 중장비 부대의 경험훈련에 사용됩니다.
+    detail_introduction: 정보센터에서 화력소대을 경험 훈련할 수 있습니다.
     type_sort: 2
   }
   {
@@ -16098,6 +16098,15 @@
     is_hide_info: 1
   }
   {
+    id: 9048
+    type: 1
+    arg: "9048"
+    code: mind_PT
+    item_name: 사고영역 항해PT
+    introduction: 사고영역 항해PT
+    rank: 1
+  }
+  {
     id: 10603
     type: 1
     arg: "1"
@@ -16290,6 +16299,15 @@
     id: 10716
     type: 18
     arg: "10716"
+    code: daily_points
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
+    rank: 1
+  }
+  {
+    id: 10717
+    type: 18
+    arg: "10717"
     code: daily_points
     item_name: 회색지대 점수
     introduction: 회색지대 점수
@@ -18360,6 +18378,34 @@
     item_name: 마음 파먹는 가면·22중 곤경
     introduction: 기이한 기운을 풍기는 마스크, 극한의 시련을 뛰어넘은 자만이 얻을 수 있습니다. 가지고 있어봤자 쓸모 없어 보이지만, 상점에서 학수고대한 만남과 교환할 수 있을 겁니다.
     rank: 1
+  }
+  {
+    id: 100226
+    type: 4
+    arg: "100226"
+    code: Nova_medal
+    item_name: 노바훈장·사고영역 항해
+    introduction: 노바훈장·사고영역 항해
+    rank: 1
+  }
+  {
+    id: 100227
+    type: 4
+    arg: "100227"
+    code: Platinum_medal
+    item_name: 백금훈장·사고영역 항해
+    introduction: 백금훈장·사고영역 항해
+    rank: 1
+  }
+  {
+    id: 100228
+    type: 9
+    arg: "100228"
+    code: Mind_Coin
+    item_name: 생각 코인
+    introduction: 생각 코인
+    rank: 1
+    daily_limit: "120"
   }
   {
     id: 110001
