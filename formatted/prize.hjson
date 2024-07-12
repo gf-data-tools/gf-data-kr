@@ -12825,12 +12825,12 @@
   {
     id: 1993
     name: 4성 인형 임용장 만료 보상
-    gem: 300
+    gem: 330
   }
   {
     id: 1994
     name: 5성 인형 임용장 만료 보상
-    gem: 800
+    gem: 920
   }
   {
     id: 1995
@@ -41447,6 +41447,390 @@
     part: 200
   }
   {
+    id: 37011
+    name: 독침 - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 37012
+    name: 추격 II - 임무 보상
+    gift: 200001-100
+  }
+  {
+    id: 37013
+    name: 니케 II - 임무 보상
+    coins: 1-200
+  }
+  {
+    id: 37014
+    name: 족쇄 풀기 - 임무 보상
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37015
+    name: 잠복 I - 임무 보상
+    item_ids: 506-200
+  }
+  {
+    id: 37016
+    name: 잠복 III - 임무 보상
+    item_ids: 51-2
+  }
+  {
+    id: 37017
+    name: 횡단 - 임무 보상
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37018
+    name: 역광 II - 임무 보상
+    coins: 2-200
+  }
+  {
+    id: 37019
+    name: 교차점 II - 임무 보상
+    item_ids: 525-30
+  }
+  {
+    id: 37020
+    name: 핏빛 달 I - 임무 보상
+    item_ids: 506-100
+  }
+  {
+    id: 37021
+    name: 그믐 - 임무 보상
+    item_ids: 51-2
+  }
+  {
+    id: 37022
+    name: 碾杀 - 임무 보상
+    coins: 3-200
+  }
+  {
+    id: 37023
+    name: 옛비 I - 임무 보상
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37024
+    name: 무인도 I - 임무 보상
+    coins: 1-200
+  }
+  {
+    id: 37025
+    name: 배신자 I - 임무 보상
+    item_ids: 506-100
+  }
+  {
+    id: 37026
+    name: 重生 - 임무 보상
+    item_ids: 51-2
+  }
+  {
+    id: 37027
+    name: 잠복 III - EX - 임무 보상
+    item_ids: 46-100
+  }
+  {
+    id: 37028
+    name: 횡단 - EX - 임무 보상
+    coins: 1-300
+  }
+  {
+    id: 37029
+    name: 역광 II - EX - 임무 보상
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37030
+    name: 교차점 II - EX - 임무 보상
+    item_ids: 9-100
+  }
+  {
+    id: 37031
+    name: 핏빛 달 I - EX - 임무 보상
+    item_ids: 45-100
+  }
+  {
+    id: 37032
+    name: 그믐 - EX - 임무 보상
+    coins: 2-300
+  }
+  {
+    id: 37033
+    name: 碾杀 - EX - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 37034
+    name: 옛비 I - EX - 임무 보상
+    item_ids: 525-30
+  }
+  {
+    id: 37035
+    name: 무인도 I - EX - 임무 보상
+    item_ids: 51-2
+  }
+  {
+    id: 37036
+    name: 重生 - EX - 임무 보상
+    coins: 3-300
+  }
+  {
+    id: 37037
+    name: 잠복 III - UX - 임무 보상
+    item_ids: 45-200
+  }
+  {
+    id: 37038
+    name: 횡단 - UX - 임무 보상
+    item_ids: 14-200
+  }
+  {
+    id: 37039
+    name: 역광 II - UX - 임무 보상
+    item_ids: 44-200
+  }
+  {
+    id: 37040
+    name: 교차점 II - UX - 임무 보상
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37041
+    name: 핏빛 달 I - UX - 임무 보상
+    item_ids: 15-200
+  }
+  {
+    id: 37042
+    name: 그믐 - UX - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 37043
+    name: 압살 - UX - 임무 보상
+    item_ids: 51-2
+  }
+  {
+    id: 37044
+    name: 옛비 I - UX - 임무 보상
+    item_ids: 45-300
+  }
+  {
+    id: 37045
+    name: 무인도 I - UX - 임무 보상
+    core: 20
+  }
+  {
+    id: 37046
+    name: 재탄생 - UX - 임무 보상
+    core: 10
+  }
+  {
+    id: 37047
+    name: 추론 I - 임무 보상
+    core: 5
+  }
+  {
+    id: 37048
+    name: 사영 평면∞ - 임무 보상
+    coins: 2-200
+  }
+  {
+    id: 37049
+    name: 사영 평면∞-EX - 임무 보상
+    item_ids: 44-150
+  }
+  {
+    id: 37050
+    name: 리만 곡면∞ - 임무 보상
+    coins: 3-200
+  }
+  {
+    id: 37051
+    name: 리만 곡면∞-EX - 임무 보상
+    item_ids: 46-200
+  }
+  {
+    id: 37052
+    name: 겹침 영사 - 임무 보상
+    item_ids: 44-200
+  }
+  {
+    id: 37053
+    name: 위상동형 영사 - 임무 보상
+    item_ids: 45-300
+  }
+  {
+    id: 37054
+    name: 추론 II - 임무 보상
+    item_ids: 525-10
+  }
+  {
+    id: 37055
+    name: 추론 III - 임무 보상
+    core: 10
+  }
+  {
+    id: 37056
+    name: 추론 IV - 임무 보상
+    item_ids: 525-30
+  }
+  {
+    id: 37057
+    name: 블랙박스 - 임무 보상
+    item_ids: 9-50
+  }
+  {
+    id: 37058
+    name: 휘파람 - 임무 보상
+    item_ids: 506-200
+  }
+  {
+    id: 37059
+    name: 추격 I - 임무 보상
+    coins: 1-100
+  }
+  {
+    id: 37060
+    name: 니케 I - 임무 보상
+    gift: 200001-100
+  }
+  {
+    id: 37061
+    name: 죽음의 바다 - 임무 보상
+    coins: 1-200
+  }
+  {
+    id: 37062
+    name: 깃발 휘날리며 - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 37063
+    name: 수레바퀴 자국 - 임무 보상
+    item_ids: 506-200
+  }
+  {
+    id: 37064
+    name: 잠복 II - 임무 보상
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+  }
+  {
+    id: 37065
+    name: 소용돌이 - 임무 보상
+    coins: 2-200
+  }
+  {
+    id: 37066
+    name: 정원사 - 임무 보상
+    coins: 3-200
+  }
+  {
+    id: 37067
+    name: 서두 - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 37068
+    name: 역광 I - 임무 보상
+    item_ids: 45-100
+  }
+  {
+    id: 37069
+    name: 교차점 I - 임무 보상
+    item_ids: 506-200
+  }
+  {
+    id: 37070
+    name: 철완 - 임무 보상
+    coins: 2-100
+  }
+  {
+    id: 37071
+    name: 틈새 - 임무 보상
+    coins: 3-100
+  }
+  {
+    id: 37072
+    name: 핏빛 달 II - 임무 보상
+    item_ids: 45-100
+  }
+  {
+    id: 37073
+    name: 수면 거울 - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 37074
+    name: 개척 - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 37075
+    name: 프로모션 - 임무 보상
+    coins: 1-200
+  }
+  {
+    id: 37076
+    name: 탑 오르기 - 임무 보상
+    coins: 2-200
+  }
+  {
+    id: 37077
+    name: 침습 - 임무 보상
+    coins: 3-200
+  }
+  {
+    id: 37078
+    name: 옛비 II - 임무 보상
+    coins: 1-200
+  }
+  {
+    id: 37079
+    name: 무인도 II - 임무 보상
+    coins: 2-200
+  }
+  {
+    id: 37080
+    name: 배신자 II - 임무 보상
+    coins: 3-200
+  }
+  {
+    id: 37081
+    name: 답안 - 임무 보상
+    item_ids: 506-200
+  }
+  {
+    id: 37082
+    name: 종점 - 임무 보상
+    core: 20
+  }
+  {
     id: 40001
     name: 전술인형：톰슨
     gun_id: "16"
@@ -52140,6 +52524,46 @@
     id: 121018
     name: 야생의 맛
     furniture: "20136"
+  }
+  {
+    id: 121019
+    name: 프로필 조회소
+    furniture: "20038"
+  }
+  {
+    id: 121020
+    name: 전갈의 꼬리 토막
+    furniture: "20039"
+  }
+  {
+    id: 121021
+    name: 가면 아래
+    furniture: "20040"
+  }
+  {
+    id: 121022
+    name: 전시안
+    furniture: "20041"
+  }
+  {
+    id: 121023
+    name: 마른 가지에 앉은 나비
+    furniture: "20042"
+  }
+  {
+    id: 121024
+    name: 전장 말판
+    furniture: "20043"
+  }
+  {
+    id: 121025
+    name: 아이네이아스 작전 기념
+    furniture: "20044"
+  }
+  {
+    id: 121026
+    name: 늑대의 귀환
+    furniture: "20045"
   }
   {
     id: 130001

@@ -1,5 +1,12 @@
 [
   {
+    id: -21
+    name: J
+    code: NPC_Kevin
+    title: J
+    ai: 9999
+  }
+  {
     id: -20
     name: 콜트 워커
     code: NPC_ColtWalker_30004
