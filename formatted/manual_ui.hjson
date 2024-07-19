@@ -8007,6 +8007,46 @@
     code_b: Squad_Icon
   }
   {
+    id: 9700301
+    code_a: LiftBlue
+    description_a: 아군 제대
+    description_b: 엘리베이터
+    description_c: 전이
+    code_b: Squad_Icon
+  }
+  {
+    id: 9700601
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 제어콘솔
+    description_c: 해독
+    code_b: Squad_Icon
+  }
+  {
+    id: 9700607
+    code_a: Boomer
+    description_a: 아군 제대
+    description_b: 폭발물
+    description_c: 설치
+    code_b: Squad_Icon
+  }
+  {
+    id: 9701201
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 제어콘솔
+    description_c: 레버 당기기
+    code_b: Squad_Icon
+  }
+  {
+    id: 9701206
+    code_a: Boomer
+    description_a: 아군 제대
+    description_b: 폭발물
+    description_c: 줍기
+    code_b: Squad_Icon
+  }
+  {
     id: 44360002
     code_a: golyatplg_d
     description_a: 투척식 골리앗

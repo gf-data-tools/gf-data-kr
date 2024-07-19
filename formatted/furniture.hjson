@@ -30216,6 +30216,50 @@
     rotate: "3"
   }
   {
+    id: 20140
+    name: 평범한 하루
+    classes: 19
+    type: 201
+    space: "9,7,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: '''"그녀들은 함께 움직였어요. 평범한 임무, 평범한 환경, 평범한 대화와 팀워크...""그리고?""그것은 그녀가 더는 바랄 수 없는 꿈 속 환영이 되었죠."'''
+    code: 202407Activity_SnowGlobe_deco1,202407Activity_SnowGlobe,202407Activity_SnowGlobe_deco2
+    texture_type: "1,2,1"
+    sorting: "0,10,20"
+    offset: "0.000,-0.438,0.000|0.000,0.438,0.000|0.000,-0.438,0.000"
+    rotate: "2,2,2"
+  }
+  {
+    id: 20141
+    name: 증인의 눈 훈장
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: '''"영전하" 한정 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "큰 눈을 내려 존재의 흔적을 감추고, 서로의 눈으로 늑대 무리의 결말을 지켜보라."'''
+    code: 202407Activity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20142
+    name: 포스터-2024 "22중 곤경"
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2024 한정 이벤트 - 22중 곤경 특전 포스터
+    code: pv_202406activity
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
+    rotate: "3"
+  }
+  {
     id: 30001
     name: 마카로프 - 잭오랜턴
     classes: 300
@@ -45718,6 +45762,111 @@
     decompose_gift: 100003
     description: 나강 리볼버의 포스터
     code: poster_Masque2024_M1895
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310601
+    name: SCAR-H - 사모는 스파이가 아니야
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SCAR-H의 포스터
+    code: poster_Detective2024_SCARH
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310602
+    name: LAMG - 페릭 시가
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: LAMG의 포스터
+    code: poster_Detective2024_LAMG
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310603
+    name: KH2002 - 야간방문 부엉이
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: KH2002의 포스터
+    code: poster_Detective2024_KH2002
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310604
+    name: AUG Para - 클로브 티켓
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: AUG Para의 포스터
+    code: poster_Detective2024_AUGPARA
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310605
+    name: 9A-91 - 샴페인 백시트
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 9A-91의 포스터
+    code: poster_Detective2024_9A91
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310606
+    name: MP5 - 직감, 그 이름 빨강
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MP5의 포스터
+    code: poster_Detective2024_MP5
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310607
+    name: MK23 - 법의사 냥다이크
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MK23의 포스터
+    code: poster_Detective2024_Mk23
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

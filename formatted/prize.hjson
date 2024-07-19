@@ -15397,6 +15397,264 @@
     item_ids: 100227-1
   }
   {
+    id: 2501
+    name: 영전하 한정 코스튬 쿠폰·α
+    item_ids: 1500142-1
+    icon: Bumdle_zerocharge01
+  }
+  {
+    id: 2502
+    name: 영전하 한정 코스튬 쿠폰·β
+    item_ids: 1500143-1
+    icon: Bumdle_zerocharge02
+  }
+  {
+    id: 2503
+    name: 영전하 한정 코스튬 쿠폰·리벨리온 스페셜
+    item_ids: 1500144-1
+    icon: Bumdle_zerocharge03
+  }
+  {
+    id: 2504
+    name: Mk23-프레젠트 레드벨벳
+    gift: 9005-1
+  }
+  {
+    id: 2505
+    name: Mk23-개학을 알리는 고양이 노래
+    gift: 3705-1
+  }
+  {
+    id: 2506
+    name: Mk23-전해진 마음
+    gift: 3105-1
+  }
+  {
+    id: 2507
+    name: Mk23-브랜디시아
+    gift: 1805-1
+  }
+  {
+    id: 2508
+    name: 9A-91-간직할 비밀
+    gift: 8304-1
+  }
+  {
+    id: 2509
+    name: 9A-91-충성스러운 길동무
+    gift: 6204-1
+  }
+  {
+    id: 2510
+    name: MP5-굿모닝 스패로우
+    gift: 9006-1
+  }
+  {
+    id: 2511
+    name: MP5-야지마
+    gift: 3006-1
+  }
+  {
+    id: 2512
+    name: MP5-잠들지 않는 꽃
+    gift: 1205-1
+  }
+  {
+    id: 2513
+    name: MP5-드라큘라
+    gift: 3-1
+  }
+  {
+    id: 2514
+    name: AUG Para-피스코 사워
+    gift: 579-1
+  }
+  {
+    id: 2515
+    name: AUG Para-가을 계곡 소풍
+    gift: 6301-1
+  }
+  {
+    id: 2516
+    name: AUG Para-제10번 세레나데
+    gift: 561-1
+  }
+  {
+    id: 2517
+    name: AUG Para-보옥을 이끄는 향
+    gift: 5503-1
+  }
+  {
+    id: 2518
+    name: Mk23-스위트 데빌
+    gift: 8-1
+  }
+  {
+    id: 2519
+    name: 9A-91-총알 카페
+    gift: 1302-1
+  }
+  {
+    id: 2520
+    name: 9A-91-꿈을 담은 화살
+    gift: 4104-1
+  }
+  {
+    id: 2521
+    name: MP5-작은 한 걸음
+    gift: 1903-1
+  }
+  {
+    id: 2522
+    name: KH2002-지옥의 선봉대
+    gift: 7602-1
+  }
+  {
+    id: 2523
+    name: KH2002-블랙 바로네스
+    gift: 8202-1
+  }
+  {
+    id: 2524
+    name: LAMG-야자수 그늘 흔들리며
+    gift: 8505-1
+  }
+  {
+    id: 2525
+    name: AK-12-프리징 블루
+    gift: 3302-1
+  }
+  {
+    id: 2526
+    name: AK-12-빙수시대
+    gift: 2402-1
+  }
+  {
+    id: 2527
+    name: AN-94-잠수종과 인형
+    gift: 2404-1
+  }
+  {
+    id: 2528
+    name: AN-94-사일런트 레드
+    gift: 3303-1
+  }
+  {
+    id: 2529
+    name: 영전하6+a
+    item_ids: 100231-6,100229-1
+  }
+  {
+    id: 2530
+    name: 영전하8+a
+    item_ids: 100231-8,100229-1
+  }
+  {
+    id: 2531
+    name: 영전하8+2a
+    item_ids: 100231-8,100229-2
+  }
+  {
+    id: 2532
+    name: 영전하10+b
+    item_ids: 100231-10,100229-1
+  }
+  {
+    id: 2533
+    name: 영전하10+2a
+    item_ids: 100231-10,100229-2
+  }
+  {
+    id: 2534
+    name: 영전하10+a+b
+    item_ids: 100231-10,100229-1,100230-1
+  }
+  {
+    id: 2535
+    name: 영전하12+b
+    item_ids: 100231-12,100230-1
+  }
+  {
+    id: 2536
+    name: 영전하12+2b
+    item_ids: 100231-12,100230-2
+  }
+  {
+    id: 2537
+    name: 영전하15+b
+    item_ids: 100231-15,100230-1
+  }
+  {
+    id: 2538
+    name: 영전하15+2b
+    item_ids: 100231-15,100230-2
+  }
+  {
+    id: 2539
+    name: 영전하15+2a+2b
+    item_ids: 100231-15,100229-2,100230-2
+  }
+  {
+    id: 2540
+    name: 영전하6
+    item_ids: 100231-6
+  }
+  {
+    id: 2541
+    name: 영전하8
+    item_ids: 100231-8
+  }
+  {
+    id: 2542
+    name: 영전하10
+    item_ids: 100231-10
+  }
+  {
+    id: 2543
+    name: 영전하12
+    item_ids: 100231-12
+  }
+  {
+    id: 2544
+    name: 영전하15
+    item_ids: 100231-15
+  }
+  {
+    id: 2545
+    name: 영전하a
+    item_ids: 100229-1
+  }
+  {
+    id: 2546
+    name: 영전하b
+    item_ids: 100230-1
+  }
+  {
+    id: 2547
+    name: 영전하2a
+    item_ids: 100229-2
+  }
+  {
+    id: 2548
+    name: 영전하2b
+    item_ids: 100230-2
+  }
+  {
+    id: 2549
+    name: OTs-14 전용장비: 1PN64 야간조준경
+    equip_ids: "411"
+  }
+  {
+    id: 2550
+    name: 가구: 평범한 하루
+    furniture: "20140"
+  }
+  {
+    id: 2551
+    name: 전술인형: VP9
+    gun_id: "383"
+  }
+  {
     id: 3001
     name: 콜트 리볼버
     item_ids: 1318-1
@@ -17096,6 +17354,12 @@
     id: 5030
     name: 카페 2024 오귀인의 샘물 PV 보상
     furniture: "20139"
+    content: 보상 수령
+  }
+  {
+    id: 5031
+    name: 카페 2024 "22중 곤경” PV 보상
+    furniture: "20142"
     content: 보상 수령
   }
   {
@@ -28092,6 +28356,74 @@
     icon: Medal_Chess
   }
   {
+    id: 10806
+    name: 소령 표창
+    user_exp: 30
+    item_ids: 106-5,2522-1,200008-1
+    content:
+      '''
+      Code14: 이완 시즌에서 소령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*5, 지휘관 경험치*30, 아이콘 "기책구축"
+      소령 랭크 우편을 처음 수령 시 액자·결전의 화력 획득.
+      '''
+    icon: Medal_Chess
+  }
+  {
+    id: 10807
+    name: 중령 표창
+    user_exp: 60
+    item_ids: 106-10
+    content: Code14: 이완 시즌에서 중령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*10, 지휘관 경험치*60
+    icon: Medal_Chess
+  }
+  {
+    id: 10808
+    name: 대령 표창
+    user_exp: 100
+    item_ids: 106-20
+    content: Code14: 이완 시즌에서 대령 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*20, 지휘관 경험치*100
+    icon: Medal_Chess
+  }
+  {
+    id: 10809
+    name: 준장 표창
+    user_exp: 200
+    item_ids: 106-30,2523-1,200007-1
+    content:
+      '''
+      Code14: 이완 시즌에서 준장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*30, 지휘관 경험치*200, 아이콘 "모율상정"
+      준장 랭크 우편을 처음 수령 시 액자·전술 짜기 획득.
+      '''
+    icon: Medal_Chess
+  }
+  {
+    id: 10810
+    name: 소장 표창
+    user_exp: 500
+    item_ids: 106-40
+    content: Code14: 이완 시즌에서 소장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*40, 지휘관 경험치*500
+    icon: Medal_Chess
+  }
+  {
+    id: 10811
+    name: 중장 표창
+    user_exp: 1000
+    item_ids: 106-50
+    content: Code14: 이완 시즌에서 중장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*50, 지휘관 경험치*1000
+    icon: Medal_Chess
+  }
+  {
+    id: 10812
+    name: 대장 표창
+    user_exp: 2000
+    item_ids: 106-60,2524-1,200006-1
+    content:
+      '''
+      Code14: 이완 시즌에서 대장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*60, 지휘관 경험치*2000, 아이콘 "전력연역"
+      대장 랭크 우편을 처음 수령 시 액자·빛나는 장성 획득.
+      '''
+    icon: Medal_Chess
+  }
+  {
     id: 11000
     name: 옷걸이를 다오
     user_exp: 30
@@ -38541,6 +38873,179 @@
     ammo: 200
     mre: 200
     part: 200
+  }
+  {
+    id: 17700
+    name: 메피스토가 인사 드립니다 - 임무 보상
+    coins: 1-300
+  }
+  {
+    id: 17701
+    name: 흉터의 그늘 속 - 임무 보상
+    coins: 2-300
+  }
+  {
+    id: 17702
+    name: 파우스트의 보물상자 - 임무 보상
+    coins: 3-300
+  }
+  {
+    id: 17703
+    name: 궁지와 말로를 거닐며 - 임무 보상
+    item_ids: 45-100
+  }
+  {
+    id: 17704
+    name: 소리의 틈새에서 잠들다 - 임무 보상
+    item_ids: 51-2
+  }
+  {
+    id: 17705
+    name: 영문 없는 호러 - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17706
+    name: 메피스토가 인사 드립니다 EX - 임무 보상
+    item_ids: 506-100
+  }
+  {
+    id: 17707
+    name: 흉터의 그늘 속 EX - 임무 보상
+    gift: 200001-100
+  }
+  {
+    id: 17708
+    name: 파우스트의 보물상자 EX - 임무 보상
+    item_ids: 9-50
+  }
+  {
+    id: 17709
+    name: 궁지와 말로를 거닐며 EX - 임무 보상
+    item_ids: 51-2
+  }
+  {
+    id: 17710
+    name: 소리의 틈새에서 잠들다 EX - 임무 보상
+    item_ids: 100232-1
+  }
+  {
+    id: 17711
+    name: 영문 없는 호러 EX - 임무 보상
+    core: 10
+  }
+  {
+    id: 17712
+    name: 한 겨울의 동화 - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17713
+    name: 그림자가 둘인 자 - 임무 보상
+    core: 5
+  }
+  {
+    id: 17714
+    name: 난폭한 탱고 - 임무 보상
+    item_ids: 46-50
+  }
+  {
+    id: 17715
+    name: 어둠 잠식 - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17716
+    name: 떠도는 영혼 - 임무 보상
+    item_ids: 9-50
+  }
+  {
+    id: 17717
+    name: 여우는 그때부터 사냥꾼이었다 - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17718
+    name: 유리공놀이 - 임무 보상
+    core: 5
+  }
+  {
+    id: 17719
+    name: 마지막 선물 - 임무 보상
+    item_ids: 2529-1
+  }
+  {
+    id: 17720
+    name: 창백한 성부 - 임무 보상
+    item_ids: 2532-1
+  }
+  {
+    id: 17721
+    name: 안개 구석 - 임무 보상
+    item_ids: 2527-1
+  }
+  {
+    id: 17722
+    name: 시간의 눈 - 임무 보상
+    item_ids: 138-1
+    furniture: "20141"
+  }
+  {
+    id: 17723
+    name: 황야의 늑대 - 임무 보상
+    core: 5
+  }
+  {
+    id: 17724
+    name: 파일럿의 죽음 Ⅰ - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17725
+    name: 파일럿의 죽음 Ⅱ - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17726
+    name: 파일럿의 죽음 Ⅲ - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17727
+    name: 파일럿의 죽음 Ⅳ - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 17728
+    name: 파일럿의 죽음 Ⅴ - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
   }
   {
     id: 20001

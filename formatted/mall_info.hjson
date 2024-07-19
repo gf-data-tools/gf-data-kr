@@ -39913,6 +39913,288 @@
     classification_id: "3002"
   }
   {
+    id: "12038"
+    type: "8"
+    gift: 10605-1
+    quota: "2001"
+    giftbag_name: 9A-91 - 샴페인 백시트
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    itemprice: 100231-150
+    classification_id: "1007"
+  }
+  {
+    id: "12039"
+    type: "8"
+    quota: "2001"
+    giftbag_name: OTs-14 전용장비: 1PN64 야간조준경
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "2549"
+    pay_type: "1"
+    itemprice: 100231-80
+    classification_id: "1007"
+  }
+  {
+    id: "12040"
+    type: "8"
+    item_ids: 2528-1
+    quota: "2001"
+    giftbag_name: 카드배경: 프랑크푸르트 철교
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    itemprice: 100231-50
+    classification_id: "1007"
+  }
+  {
+    id: "12041"
+    type: "8"
+    item_ids: 2525-1
+    quota: "2001"
+    giftbag_name: 아이콘: 아디스를 향한 반역
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    itemprice: 100231-30
+    classification_id: "1007"
+  }
+  {
+    id: "12042"
+    type: "8"
+    item_ids: 2526-1
+    quota: "2001"
+    giftbag_name: 아이콘: 페르세우스의 사명
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    itemprice: 100231-30
+    classification_id: "1007"
+  }
+  {
+    id: "12043"
+    type: "8"
+    item_ids: 2531-1
+    quota: "2001"
+    giftbag_name: 기지배경: 문명 피난소
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    itemprice: 100231-80
+    classification_id: "1007"
+  }
+  {
+    id: "12044"
+    type: "8"
+    quota: "2001"
+    giftbag_name: 가구: 평범한 하루
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "2550"
+    pay_type: "1"
+    itemprice: 100231-50
+    classification_id: "1007"
+  }
+  {
+    id: "12045"
+    type: "8"
+    item_ids: 41-1
+    quota: "2100"
+    giftbag_name: 구매토큰
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    itemprice: 100231-3
+    classification_id: "1007"
+  }
+  {
+    id: "12046"
+    type: "8"
+    gift: 200001-1
+    quota: "2050"
+    giftbag_name: 작전보고서
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    itemprice: 100231-2
+    classification_id: "1007"
+  }
+  {
+    id: "12047"
+    type: "8"
+    item_ids: 46-1
+    quota: "2050"
+    giftbag_name: 특수작전보고서
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    itemprice: 100231-2
+    classification_id: "1007"
+  }
+  {
+    id: "12048"
+    type: "8"
+    gift: 100003-1
+    quota: "2050"
+    giftbag_name: 딸기치즈케익
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    itemprice: 100231-2
+    classification_id: "1007"
+  }
+  {
+    id: "12049"
+    type: "8"
+    quota: "2001"
+    giftbag_name: AUG Para
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "40288"
+    pay_type: "1"
+    itemprice: 100230-500
+    classification_id: "1008"
+  }
+  {
+    id: "12050"
+    type: "8"
+    quota: "2001"
+    giftbag_name: LAMG
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "1944"
+    pay_type: "1"
+    itemprice: 100230-500
+    classification_id: "1008"
+  }
+  {
+    id: "12051"
+    type: "8"
+    quota: "2001"
+    giftbag_name: VP9
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "2551"
+    pay_type: "1"
+    itemprice: 100229-400
+    classification_id: "1008"
+  }
+  {
+    id: "12052"
+    type: "8"
+    quota: "2001"
+    giftbag_name: PM1910
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "1289"
+    pay_type: "1"
+    itemprice: 100229-400
+    classification_id: "1008"
+  }
+  {
+    id: "12053"
+    type: "8"
+    quota: "2001"
+    giftbag_name: R93
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "548"
+    pay_type: "1"
+    itemprice: 100230-500
+    classification_id: "1008"
+  }
+  {
+    id: "12054"
+    type: "8"
+    gift: 100003-1
+    quota: "2200"
+    giftbag_name: 딸기치즈케익
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    itemprice: 100229-5
+    classification_id: "1008"
+  }
+  {
+    id: "12055"
+    type: "8"
+    gift: 100003-1
+    quota: "2200"
+    giftbag_name: 딸기치즈케익
+    event_code: dailyGiftbag
+    discount: "1.00"
+    pay_type: "1"
+    itemprice: 100230-5
+    classification_id: "1008"
+  }
+  {
+    id: "12056"
+    type: "8"
+    quota: "2001"
+    giftbag_name: AN-94
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "196"
+    pay_type: "1"
+    itemprice: 100232-1
+    classification_id: "1005"
+  }
+  {
+    id: "12057"
+    type: "8"
+    quota: "2001"
+    giftbag_name: AK-12
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "197"
+    pay_type: "1"
+    itemprice: 100232-1
+    classification_id: "1005"
+  }
+  {
+    id: "12058"
+    type: "8"
+    quota: "2001"
+    giftbag_name: AK-15
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "40246"
+    pay_type: "1"
+    itemprice: 100232-1
+    classification_id: "1005"
+  }
+  {
+    id: "12059"
+    type: "8"
+    item_ids: 41-100,7-1
+    gift: 10604-1
+    gemprice: "2588"
+    if_cheap: "1"
+    quota: "2001"
+    giftbag_name: AUG Para - 클로브 티켓
+    event_code: dailyGiftbag
+    icon: Bumdle_newskin08
+    discount: "1.00"
+    classification_id: "3003"
+  }
+  {
+    id: "12060"
+    type: "8"
+    item_ids: 1-10,3-10
+    mp: "10000"
+    ammo: "10000"
+    mre: "10000"
+    part: "10000"
+    gemprice: "330"
+    quota: "2010"
+    giftbag_name: 자원 특가 보급
+    event_code: dailyGiftbag
+    icon: Bumdle_black
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
     id: "30001"
     type: "8"
     gift: 8611-1

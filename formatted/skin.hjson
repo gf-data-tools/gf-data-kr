@@ -9012,6 +9012,79 @@
     class_id: 102
   }
   {
+    id: 10601
+    name: SCAR-H - 사모는 스파이가 아니야
+    fit_gun: 377
+    voice: 4
+    dialog: 나는 그저 온라인 채팅을 좋아하는 아마추어 촬영사야, 나온 김에 우리 사모도 산책시키고... 무슨 문제 있어? 합리적인 해명이라 생각하는데...
+    order: 135
+    class_id: 103
+    skin_source: 2
+  }
+  {
+    id: 10602
+    name: LAMG - 페릭 시가
+    fit_gun: 386
+    voice: 4
+    dialog: 보아하니 녹음기와 메모장을 다 준비하셨군요... 커피 탄 보드카 한잔 주시면 이야기를 계속하죠.
+    order: 135
+    class_id: 103
+    skin_source: 2
+  }
+  {
+    id: 10603
+    name: KH2002 - 야간방문 부엉이
+    fit_gun: 342
+    voice: 4
+    dialog: 현장 조사는 범부나 할 일이지, 나는 간단한 보도자료 몇 편만 봐도 진범을 추리해낼 수 있어... 어깨 위의 정찰 부엉이는 뭐냐고? 흥, 이건 그냥 장식이야.
+    order: 135
+    class_id: 103
+    skin_source: 2
+  }
+  {
+    id: 10604
+    name: AUG Para - 클로브 티켓
+    fit_gun: 315
+    voice: 4
+    dialog: 선배! 새로 상영한 탐정극 보러 가지 않을래요? 한 관중이 모두가 보는 극장 앞줄에서 살해당하는 이야기라는데... 어라? 선배 혹시 겁먹은 건가요?
+    gift_position: "-150.8,-48.9"
+    order: 135
+    class_id: 103
+    skin_source: 1
+  }
+  {
+    id: 10605
+    name: 9A-91 - 샴페인 백시트
+    fit_gun: 118
+    voice: 4
+    dialog: 왜 멀쩡한 길을 안 다니고, 명탐정 흉내낸다고 마차에 뛰어 올라났나요? 정말... 바이크 뒷좌석 비워놨으니까 다음에 또 그러다 다치지 말아요!
+    gift_position: "-155.3,-74.4"
+    order: 135
+    class_id: 103
+  }
+  {
+    id: 10606
+    name: MP5 - 직감, 그 이름 빨강
+    fit_gun: 26
+    voice: 4
+    dialog: 지혜의 빨간 망토야! 총명한 사람이 잎사귀를 숲에 숨기듯이, 똑똑한 범인은 흉기를... 앗! 떠올랐다!
+    illustrator_cv: 小星,Mukaiyama Naomi,
+    order: 135
+    class_id: 103
+    skin_source: 2
+  }
+  {
+    id: 10607
+    name: MK23 - 법의사 냥다이크
+    fit_gun: 99
+    voice: 4
+    dialog: 주검마다 깊이 숨겨둔 비밀을 호소하지, 증거가 각자의 선율을 노래하듯이... 그럼 달링, 오늘은 어디부터 수사할 거야?
+    illustrator_cv: YeoNwa,Akao Hikaru,
+    order: 135
+    class_id: 103
+    skin_source: 2
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     fit_gun: 57
@@ -9175,7 +9248,7 @@
     fit_gun: 152
     voice: 4
     dialog: 기름때, 먼지, 절대 제 눈에 허용하지 않아요...! 보세요, 주인님. 슈퍼 청소 모드, 가동!
-    order: 130
+    order: 134
   }
   {
     id: 50001

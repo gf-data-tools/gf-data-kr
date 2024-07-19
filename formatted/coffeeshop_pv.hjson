@@ -139,4 +139,11 @@
     cost: 506-1000
     prize_id: "5030"
   }
+  {
+    id: "21"
+    title: 22중 곤경
+    description: 2024년 한정 이벤트 PV
+    cost: 506-1000
+    prize_id: "5031"
+  }
 ]

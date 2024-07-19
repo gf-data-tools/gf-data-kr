@@ -784,6 +784,15 @@
     rank: 1
   }
   {
+    id: 138
+    type: 3
+    arg: "39"
+    code: Medal_202407Acticity
+    item_name: 증인의 눈 훈장
+    introduction: '''"영전하" 한정 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "큰 눈을 내려 존재의 흔적을 감추고, 서로의 눈으로 늑대 무리의 결말을 지켜보라."'''
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -14933,6 +14942,159 @@
     rank: 1
   }
   {
+    id: 2522
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season16_1
+    item_name: 기책구축 · Code14: 이완
+    introduction: 기책구축 · Code14: 이완
+    rank: 1
+  }
+  {
+    id: 2523
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season16_2
+    item_name: 모율상정 · Code14: 이완
+    introduction: 모율상정 · Code14: 이완
+    rank: 1
+  }
+  {
+    id: 2524
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season16_3
+    item_name: 전력연역 · Code14: 이완
+    introduction: 전력연역 · Code14: 이완
+    rank: 1
+  }
+  {
+    id: 2525
+    type: 5
+    arg: "1"
+    code: profilePic_202407Activity_01
+    item_name: 아이콘: 아디스를 향한 반역
+    introduction: 아이콘: 아디스를 향한 반역
+    rank: 1
+  }
+  {
+    id: 2526
+    type: 5
+    arg: "1"
+    code: profilePic_202407Activity_02
+    item_name: 아이콘: 페르세우스의 사명
+    introduction: 아이콘: 페르세우스의 사명
+    rank: 1
+  }
+  {
+    id: 2527
+    type: 5
+    arg: "1"
+    code: profilePic_202407Activity_03
+    item_name: 아이콘: 메피스토의 빛
+    introduction: 아이콘: 메피스토의 빛
+    rank: 1
+  }
+  {
+    id: 2528
+    type: 5
+    arg: "1"
+    code: card_202407Activity_01
+    item_name: 카드배경: 프랑크푸르트 철교
+    introduction: 카드배경: 프랑크푸르트 철교
+    rank: 1
+  }
+  {
+    id: 2529
+    type: 5
+    arg: "1"
+    code: card_202407Activity_02
+    item_name: 카드배경: 고요한 밤 마인강
+    introduction: 카드배경: 고요한 밤 마인강
+    rank: 1
+  }
+  {
+    id: 2531
+    type: 5
+    arg: "1"
+    code: cg_202407Activity_01
+    item_name: 배경: 문명 피난소
+    introduction: 배경: 문명 피난소
+    rank: 1
+  }
+  {
+    id: 2532
+    type: 5
+    arg: "1"
+    code: cg_202407Activity_02
+    item_name: 배경: 프랑크푸르트 오페라 극장
+    introduction: 배경: 프랑크푸르트 오페라 극장
+    rank: 1
+  }
+  {
+    id: 2533
+    type: 5
+    arg: "1"
+    code: profilePic_Detective2024_SCARH
+    item_name: SCAR-H - 사모는 스파이가 아니야
+    introduction: SCAR-H - 사모는 스파이가 아니야
+    rank: 1
+  }
+  {
+    id: 2534
+    type: 5
+    arg: "1"
+    code: profilePic_Detective2024_LAMG
+    item_name: LAMG - 페릭 시가
+    introduction: LAMG - 페릭 시가
+    rank: 1
+  }
+  {
+    id: 2535
+    type: 5
+    arg: "1"
+    code: profilePic_Detective2024_KH2002
+    item_name: KH2002 - 야간방문 부엉이
+    introduction: KH2002 - 야간방문 부엉이
+    rank: 1
+  }
+  {
+    id: 2536
+    type: 5
+    arg: "1"
+    code: profilePic_Detective2024_AUGPARA
+    item_name: AUG Para - 클로브 티켓
+    introduction: AUG Para - 클로브 티켓
+    rank: 1
+  }
+  {
+    id: 2537
+    type: 5
+    arg: "1"
+    code: profilePic_Detective2024_9A91
+    item_name: 9A-91 - 샴페인 백시트
+    introduction: 9A-91 - 샴페인 백시트
+    rank: 1
+  }
+  {
+    id: 2538
+    type: 5
+    arg: "1"
+    code: profilePic_Detective2024_MP5
+    item_name: MP5 - 직감, 그 이름 빨강
+    introduction: MP5 - 직감, 그 이름 빨강
+    rank: 1
+  }
+  {
+    id: 2539
+    type: 5
+    arg: "1"
+    code: profilePic_Detective2024_Mk23
+    item_name: MK23 - 법의사 냥다이크
+    introduction: MK23 - 법의사 냥다이크
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -18406,6 +18568,43 @@
     introduction: 생각 코인
     rank: 1
     daily_limit: "120"
+  }
+  {
+    id: 100229
+    type: 4
+    arg: "100229"
+    code: Nova_medal_black
+    item_name: 노바훈장·영전하
+    introduction: 노바훈장·영전하
+    rank: 1
+  }
+  {
+    id: 100230
+    type: 4
+    arg: "100230"
+    code: Platinum_medal_black
+    item_name: 백금훈장·영전하
+    introduction: 백금훈장·영전하
+    rank: 1
+  }
+  {
+    id: 100231
+    type: 9
+    arg: "100231"
+    code: Coin_202407ZeroCharge
+    item_name: '''"판도라" 기념화폐'''
+    introduction: 뜻밖에 상영한 오페라가 프랑크푸르트를 뒤흔들다. 이 기념화폐에는 지난 날의 고통과 희열, 그리고 숙원이 담겨있다.
+    rank: 1
+    daily_limit: "60"
+  }
+  {
+    id: 100232
+    type: 4
+    arg: "100232"
+    code: coremask2_202407ZeroCharge
+    item_name: 마음 파먹는 가면·영전하
+    introduction: 기이한 기운을 풍기는 마스크, 극한의 시련을 뛰어넘은 자만이 얻을 수 있습니다. 가지고 있어봤자 쓸모 없어 보이지만, 상점에서 학수고대한 만남과 교환할 수 있을 겁니다.
+    rank: 1
   }
   {
     id: 110001
@@ -22839,6 +23038,39 @@
     type_sort: 1
   }
   {
+    id: 1500142
+    type: 15
+    arg: "1500142"
+    code: Bumdle_zerocharge01
+    item_name: 영전하 한정 코스튬 쿠폰·α
+    introduction: 창고에서 이 쿠폰을 사용하면 특정 범위에서 보유하지 않은 코스튬 하나를 무작위로 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500143
+    type: 15
+    arg: "1500143"
+    code: Bumdle_zerocharge02
+    item_name: 영전하 한정 코스튬 쿠폰·β
+    introduction: 창고에서 이 쿠폰을 사용하면 특정 범위에서 보유하지 않은 코스튬 하나를 무작위로 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500144
+    type: 15
+    arg: "1500144"
+    code: Bumdle_zerocharge03
+    item_name: 영전하 한정 코스튬 쿠폰·리벨리온 스페셜
+    introduction: 창고에서 이 쿠폰을 사용하면 특정 범위에서 보유하지 않은 코스튬 하나를 무작위로 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -23191,6 +23423,39 @@
     code: package_choose
     item_name: 고등 전용장비 선택 코드
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700031
+    type: 15
+    arg: "1700031"
+    code: package_choose
+    item_name: 기초장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700032
+    type: 15
+    arg: "1700032"
+    code: package_choose
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700033
+    type: 15
+    arg: "1700033"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1
