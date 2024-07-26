@@ -12906,4 +12906,157 @@
     title: 고리 모양 운명
     start: -69-E-1
   }
+  {
+    id: 1308
+    mission_id: "11712"
+    description: 아무도 없는 엘모호, 느닷없는 소집령, 재차 상연한 파우스트... 모든 길이 저를 당신께 이끌어줘요.
+    scripts: -70-A-2
+    campaign: -70
+    title: 한 겨울의 동화
+    start: -70-A-2
+  }
+  {
+    id: 1309
+    mission_id: "11713"
+    description: 제 이름은 엠블라 페트로프스카야예요.
+    scripts: -70-A-4
+    campaign: -70
+    title: 그림자가 둘인 자
+    start: -70-A-4
+  }
+  {
+    id: 1310
+    mission_id: "11714"
+    description: 프랑크푸르트의 심야, 사람들은 서로를 공격하고, 이익을 위해 타협하고, 어둠속에서 발버둥 친다... 이것들이 서로 뒤얽혀 난폭한 탱고를 이루었다.
+    scripts: -70-A-6
+    campaign: -70
+    title: 난폭한 탱고
+    start: -70-A-6
+  }
+  {
+    id: 1311
+    mission_id: "11715"
+    description: 그 가증스러운 모습을 뒤쫓아, AK-15는 페러데우스의 임시거점을 찾아냈다.
+    scripts: -70-A-8
+    campaign: -70
+    title: 어둠 잠식
+    start: -70-A-8
+  }
+  {
+    id: 1312
+    mission_id: "11716"
+    description: 그녀를 기다린 것은 또하나의 음모뿐이었다.
+    scripts: -70-A-10
+    campaign: -70
+    title: 떠도는 영혼
+    start: -70-A-10
+  }
+  {
+    id: 1313
+    mission_id: "11717"
+    description: 인류 문명의 불씨의 피난소, 세상에서 가장 깨끗한 곳에 피바람이 찾아온다.
+    scripts: -70-A-12
+    campaign: -70
+    title: 여우는 그때부터 사냥꾼이었다
+    start: -70-A-12
+  }
+  {
+    id: 1314
+    mission_id: "11718"
+    description: 갑자기 피어난 약간의 경건함에 사로잡혀 촛불에 불을 붙였다.
+    scripts: -70-A-14
+    campaign: -70
+    title: 유리공놀이
+    start: -70-A-14
+  }
+  {
+    id: 1315
+    mission_id: "11719"
+    description: '''"악마가 당신의 모든 소원을 들어줄 수 있다면, 영혼을 팔겠습니까?"'''
+    scripts: -70-A-16
+    campaign: -70
+    title: 마지막 선물
+    start: -70-A-16
+  }
+  {
+    id: 1316
+    mission_id: "11720"
+    description: 내가 아직 세상에 남아있는 이유 중 하나가 너를 죽이는 거지.
+    scripts: -70-A-18
+    campaign: -70
+    title: 창백한 성부
+    start: -70-A-18
+  }
+  {
+    id: 1317
+    mission_id: "11721"
+    description: 너 자신을 어둠에 바치고 나의 이름을 말해라, 나를 그녀에게 이끌어다오.
+    scripts: -70-A-20
+    campaign: -70
+    title: 안개 구석
+    start: -70-A-20
+  }
+  {
+    id: 1318
+    mission_id: "11722"
+    description: 그리고 죽은자들은, 싹이 트고, 꽃을 피운다.
+    scripts: -70-A-22
+    campaign: -70
+    title: 시간의 눈
+    start: -70-A-22
+  }
+  {
+    id: 1319
+    mission_id: "11723"
+    description: 신으로 향하는 길은 우릴 뒤걸음질치게 하는 게 아니라, 끊임없이 앞으로, 죄악으로 이끌어, 우리에게 시련을 준다.
+    scripts: -70-E-1
+    campaign: -70
+    title: 황야의 늑대
+    start: -70-E-1
+  }
+  {
+    id: 1320
+    mission_id: "11724"
+    description: 이건 우리의 약속이다, 비행기, 세계에 관해서.
+    scripts: -70-S-1
+    campaign: -70
+    title: 파일럿의 죽음 Ⅰ
+    start: -70-S-1
+  }
+  {
+    id: 1321
+    mission_id: "11725"
+    description: 패키 있다! 너희는 예카테리나만큼 패기 있다!
+    scripts: -70-S-2
+    campaign: -70
+    title: 파일럿의 죽음 Ⅱ
+    start: -70-S-2
+  }
+  {
+    id: 1322
+    mission_id: "11726"
+    description: 두고 봐, 내가 전세계에 보여줄 테니까. 유적 기술따위 전혀 필요 없다고.
+    scripts: -70-S-3
+    campaign: -70
+    title: 파일럿의 죽음 Ⅲ
+    start: -70-S-3
+  }
+  {
+    id: 1323
+    mission_id: "11727"
+    description: SS가 그녀의 유일한 코드네임이다.
+    scripts: -70-S-4
+    campaign: -70
+    title: 파일럿의 죽음 Ⅳ
+    start: -70-S-4
+  }
+  {
+    id: 1324
+    mission_id: "11728"
+    description: RPK-16... 내 마지막 희망...
+    scripts: -70-S-5
+    campaign: -70
+    title: 파일럿의 죽음 Ⅴ
+    start: -70-S-5
+  }
 ]

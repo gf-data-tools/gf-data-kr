@@ -1,5 +1,12 @@
 [
   {
+    id: -22
+    name: 엠블라
+    code: NPC_Embla_RPK
+    title: 엠블라
+    ai: 9999
+  }
+  {
     id: -21
     name: J
     code: NPC_Kevin

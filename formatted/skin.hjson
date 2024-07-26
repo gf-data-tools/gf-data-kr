@@ -6652,6 +6652,7 @@
     id: 6601
     name: 89식 소총 - 순록 선언
     fit_gun: 290
+    ai: 46601
     voice: 19
     dialog: 선물 뿌릴 때 꼭 산타하고 같이 있어야 하나요? 제가 발명한 선물 분사기가 효율적일 것 같은데요!
     order: 79
@@ -7964,6 +7965,7 @@
     voice: 4
     substitute_voice: G11_0
     dialog: 말랑말랑 푹신푹신... 후우... 방금 꿈에서 본 지저분한 지하실보다 훨씬 편해...
+    illustrator_cv: 脆皮炸虾球,Fukuhara Ayaka,
     order: 110
     class_id: 89
     skin_source: 3
@@ -9163,6 +9165,7 @@
     fit_gun: 160
     voice: 4
     dialog: 전자동 세신사 Saiga-12가 여러분께 전면적인 클리닝 서비스를 제공할게요! 다음 미소녀 인형분 들어오세요~ 아, 지휘관님도 괜찮아요.
+    gift_position: "6.5,459.2"
     illustrator_cv: yoyo,Kanemoto Hisako,
     order: 111
   }
@@ -9249,6 +9252,14 @@
     voice: 4
     dialog: 기름때, 먼지, 절대 제 눈에 허용하지 않아요...! 보세요, 주인님. 슈퍼 청소 모드, 가동!
     order: 134
+  }
+  {
+    id: 30021
+    name: 콜트 M1851N - 활공하는 하얀 깃털
+    fit_gun: 400
+    voice: 4
+    dialog: 히히, 지휘관님! 우리 시원하게 배트민턴 시합해요! ...앗, 잠들지 마세요, 아직 서브도 안 했다고요!
+    order: 136
   }
   {
     id: 50001

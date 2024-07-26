@@ -5439,6 +5439,28 @@
     spine_scale: "60,60,1"
   }
   {
+    sub_id: 235001
+    id: 235
+    name: 엠블라
+    sub_name: 엠블라
+    type: 1
+    code: RPK16Reborn
+    introduce: 패러데우스의 기술 지원으로 RPK-16의 소체 개조가 진행 중인 형태. 마직 미완성 상태지만 화력은 대폭 강화됐으며 페러데우스의 핵심 기술도 일부 사용할 수 있다. 다만 마인드맵에 대한 영향은 아직 미지수다.
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 이 유닛은 패러데우스 유닛을 여럿 소환하니 주의하세요.
+    character: "1001,437,438"
+    enemy_skill: "238,239,240,241,242"
+    launch_time: 2035-5-20 00:00:00
+  }
+  {
     sub_id: 100001001
     id: 100001
     name: 게베뉴

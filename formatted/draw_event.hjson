@@ -9247,6 +9247,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 12:2332
     clear_cycle: 1
   }
   {
@@ -9254,6 +9255,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 10:2333
     clear_cycle: 1
   }
   {
@@ -9261,6 +9263,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 8:2334
     clear_cycle: 1
   }
   {
@@ -9268,6 +9271,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 6:2335
     clear_cycle: 1
   }
   {
@@ -9275,6 +9279,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 4:2336
     clear_cycle: 1
   }
   {
@@ -9282,6 +9287,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 1000:2337
     clear_cycle: 1
   }
   {
@@ -9289,6 +9295,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 1000:2338
     clear_cycle: 1
   }
   {
@@ -9296,6 +9303,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 1000:2339
     clear_cycle: 1
   }
   {
@@ -9303,6 +9311,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 1000:2340
     clear_cycle: 1
   }
   {
@@ -9310,6 +9319,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 12:2341
     clear_cycle: 1
   }
   {
@@ -9317,6 +9327,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 12:2342
     clear_cycle: 1
   }
   {
@@ -9324,6 +9335,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 10:2343
     clear_cycle: 1
   }
   {
@@ -9331,6 +9343,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 10:2344
     clear_cycle: 1
   }
   {
@@ -9338,6 +9351,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 8:2345
     clear_cycle: 1
   }
   {
@@ -9345,6 +9359,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 8:2346
     clear_cycle: 1
   }
   {
@@ -9352,6 +9367,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 6:2347
     clear_cycle: 1
   }
   {
@@ -9359,6 +9375,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 6:2348
     clear_cycle: 1
   }
   {
@@ -9366,6 +9383,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 4:2349
     clear_cycle: 1
   }
   {
@@ -9373,6 +9391,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 4:2350
     clear_cycle: 1
   }
   {
@@ -9380,6 +9399,7 @@
     type: 1
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
+    drop_ids: 6:2351
     clear_cycle: 1
   }
   {
@@ -9681,6 +9701,146 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1206
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1207
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1208
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1209
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1210
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1211
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1212
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1213
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1214
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1215
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1216
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1217
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1218
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1219
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1220
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1221
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1222
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1223
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1224
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
+    clear_cycle: 1
+  }
+  {
+    id: 1225
+    type: 1
+    start_time: 2024-07-24 15:00:00
+    end_time: 2024-08-16 15:00:00
     clear_cycle: 1
   }
   {

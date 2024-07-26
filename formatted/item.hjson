@@ -787,7 +787,7 @@
     id: 138
     type: 3
     arg: "39"
-    code: Medal_202407Acticity
+    code: Medal_202407Activity
     item_name: 증인의 눈 훈장
     introduction: '''"영전하" 한정 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "큰 눈을 내려 존재의 흔적을 감추고, 서로의 눈으로 늑대 무리의 결말을 지켜보라."'''
     rank: 1
@@ -15095,6 +15095,24 @@
     rank: 1
   }
   {
+    id: 2540
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M1851N
+    item_name: 콜트 M1851N - 활공하는 하얀 깃털
+    introduction: 콜트 M1851N - 활공하는 하얀 깃털
+    rank: 1
+  }
+  {
+    id: 2541
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M1851N
+    item_name: 카드배경: 활력의 비트
+    introduction: 카드배경: 활력의 비트
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -20974,6 +20992,22 @@
     rank: 1
   }
   {
+    id: 140041
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제21기 전선협약
+    rank: 1
+  }
+  {
+    id: 140042
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제21기 전선협약 강화
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -21388,6 +21422,15 @@
     code: profileFrame_BattlePass_M1897
     item_name: 액자·티끌 없는 심포니
     introduction: 액자·티끌 없는 심포니
+    rank: 1
+  }
+  {
+    id: 200046
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M1851N
+    item_name: 액자·스위트 페더
+    introduction: 액자·스위트 페더
     rank: 1
   }
   {
@@ -23010,7 +23053,7 @@
     arg: "1500139"
     code: package_choose
     item_name: 탄창 장비 선택 코드
-    introduction: 전선협약-드림 멜로디 보상, 지정 범위에서 원하는 탄창 유형 장비를 하나 골라 획득할 수 있습니다.
+    introduction: 전선협약-드림 멜로디 보상, 지정 리스트에서 원하는 탄창 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1
@@ -23066,6 +23109,50 @@
     code: Bumdle_zerocharge03
     item_name: 영전하 한정 코스튬 쿠폰·리벨리온 스페셜
     introduction: 창고에서 이 쿠폰을 사용하면 특정 범위에서 보유하지 않은 코스튬 하나를 무작위로 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500145
+    type: 15
+    arg: "1500145"
+    code: package_choose
+    item_name: 기초장비 선택 코드
+    introduction: 전선협약-결승! 화끈한 휴일 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500146
+    type: 15
+    arg: "1500146"
+    code: package_choose
+    item_name: 인형 장비 선택 코드
+    introduction: 전선협약-결승! 화끈한 휴일 보상, 지정 리스트에서 원하는 인형 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500147
+    type: 15
+    arg: "1500147"
+    code: package_random
+    item_name: 미획득 인형 확정 코드
+    introduction: 전선협약-결승! 화끈한 휴일 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500148
+    type: 15
+    arg: "1500148"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-결승! 화끈한 휴일 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
     rank: 1
     sort: -1
     type_sort: 1

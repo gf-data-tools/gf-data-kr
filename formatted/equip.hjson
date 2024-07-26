@@ -12864,4 +12864,71 @@
     obtain_ids: "3107"
     description_skill: 1001901
   }
+  {
+    id: 411
+    name: 1PN64 야간조준경
+    description:
+      '''
+      야시능력+<night_view_percent><%>
+      치명률+<critical_percent><%>$OTs-14 전용
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    critical_percent: "15,20"
+    night_view_percent: "100,100"
+    skill_effect: 150
+    retire_mp: 3
+    retire_mre: 4
+    retire_part: 2
+    code: Accessories_SP_OTs14
+    develop_duration: 2940
+    company: IOP
+    fit_guns: "119"
+    equip_introduction: NSP3 미광조준경을 기반으로 경량화 개량한 결과물, 최신형 미광증폭관을 사용하여 해상도를 대폭 끌어올렸습니다.
+    powerup_mp: 0.33
+    powerup_ammo: 0.22
+    powerup_mre: 0.5
+    powerup_part: 0.18
+    exclusive_rate: 3
+    bonus_type: critical_percent:1000
+    max_level: 10
+    auto_select_id: 18120
+    is_show: 1
+    obtain_ids: "3116"
+  }
+  {
+    id: 413
+    name: 영광의 망토
+    description:
+      '''
+      화력<pow>
+      회피+<dodge>스킬 추가$웨블리 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "-5,-1"
+    dodge: "16,22"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_Webley
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "294"
+    equip_introduction: 수많은 고급 복장 콜렉션 중에서도 웨블리가 무척 선호하는 망토, 용감하게 승리로 전진하는 뜻을 품고 있습니다.
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: dodge:1000
+    passive_skill: "1002201"
+    max_level: 10
+    auto_select_id: 20089
+    is_show: 1
+    obtain_ids: "3108"
+    description_skill: 1002201
+  }
 ]

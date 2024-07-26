@@ -8406,6 +8406,83 @@
     carry_mission_skill: "95842010"
   }
   {
+    id: 9700307
+    name: 가속
+    description: 행동력 상승
+    code: ExtraMove
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 9700307
+    priority: 1
+    ext_move: 1
+  }
+  {
+    id: 9700308
+    name: 구속
+    description: 이동 불가
+    code: Theresa_Back
+    type: 2
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    cannot_move: "1"
+    conflict_type: 9700307
+    priority: 1
+  }
+  {
+    id: 9701203
+    name: 강화
+    description: 강화 상태로 전투로 쓰러뜨리기 어렵다
+    code: Invincible
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    battle_skill_config_id: 900915
+    conflict_type: 9584001
+    priority: 9584001
+  }
+  {
+    id: 9701204
+    name: 【标记】골리앗 소지 buff
+    description: 골리앗 고지
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    manual_ui_code: CarryBoomerIcon#EC4702
+    conflict_type: 9701204
+    carry_mission_skill: "9701204"
+  }
+  {
+    id: 9701205
+    name: 가속
+    description: 행동력 상승
+    code: ExtraMove2
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 9701513
+    priority: 1
+    ext_move: 2
+  }
+  {
+    id: 9701512
+    name: 가속
+    description: 행동력 상승
+    code: ExtraMove3
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    free_ap_move: 3
+    conflict_type: 9701512
+    priority: 1
+  }
+  {
     id: 10000021
     name: 엄폐물
     description: 제대 받는 피해 차감
