@@ -425,4 +425,16 @@
     desc: 이벤트 기간: 2022.02.11-03.11
     scene_name: FixedPointlogo
   }
+  {
+    id: 38
+    campaign_id: -52
+    tag: C.E.|2022
+    order: 105
+    name: 특별 이벤트Ⅳ
+    chapter_name: 라이칸의 성역
+    bg_code: active_Bikini_2022
+    bg_config: "#000000C7,#3D415166,#c62424,#FFFFFFFF"
+    desc: 이벤트 기간:2022.07.29-08.19
+    scene_name: Bikini_2022logo
+  }
 ]

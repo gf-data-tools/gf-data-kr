@@ -10281,6 +10281,8 @@
   {
     id: 989
     mission_id: "11098"
+    description: '''"한 걸음 내딛을수록, 뿌옇던 것들이 점점 또렷하게, 확실하게 보였다. 바로... 한데 뒤엉켜 싸우는 인형들이었다."'''
+    scripts: -52-0-1
     campaign: -52
     title: 라이칸·사냥의 서장
     start: -52-0-1
@@ -10288,6 +10290,8 @@
   {
     id: 990
     mission_id: "11112"
+    description: '''"그리고 마지막으로 붉은 투표함에 시선을 고정했다."'''
+    scripts: -52-7-1,-52-8-1
     campaign: -52
     title: 혼돈 중계
     start: -52-8-1
@@ -10295,6 +10299,8 @@
   {
     id: 991
     mission_id: "11115"
+    description: '''"맑은 달빛 속, 사냥꾼들의 심야 토크가 서서히 막을 열었다..."'''
+    scripts: -52-1-1
     campaign: -52
     title: 사냥꾼의 영역
     start: -52-1-1
@@ -10302,6 +10308,8 @@
   {
     id: 992
     mission_id: "11101,11102"
+    description: '''"마흔 번 넘게 시도해도 당첨 제비가 안 나왔잖아? 이게 바로 그 비밀이야!"'''
+    scripts: -52-2-1
     campaign: -52
     title: 지정 함정
     start: -52-2-1
@@ -10309,6 +10317,8 @@
   {
     id: 993
     mission_id: "11107"
+    description: '''"뭘 자꾸 그렇게 쳐다봐? 100번 물어봐도 소용없다고. 안 알려 줘."'''
+    scripts: -52-3-1
     campaign: -52
     title: 노을 미궁
     start: -52-3-1
@@ -10316,6 +10326,8 @@
   {
     id: 994
     mission_id: "11103,11104"
+    description: '''"게임의 분위기가 망쳐지는 걸 막으려다 게임의 흐름을 망친 꼴이죠."'''
+    scripts: -52-4-1
     campaign: -52
     title: 마녀의 텐트
     start: -52-4-1
@@ -10323,6 +10335,8 @@
   {
     id: 995
     mission_id: "11105,11106"
+    description: '''"포커페이스를 유지하고 철면피를 깔 줄 알아야 겨우 입문자라 할 수 있다고."'''
+    scripts: -52-5-1
     campaign: -52
     title: 마구니의 늪
     start: -52-5-1
@@ -10330,6 +10344,8 @@
   {
     id: 996
     mission_id: "11099,11100"
+    description: '''"이 세상에 깨지지 않는 징크스가 있다곤 난 안 믿어"'''
+    scripts: -52-6-1
     campaign: -52
     title: 봉화연대
     start: -52-6-1
@@ -13058,5 +13074,32 @@
     campaign: -70
     title: 파일럿의 죽음 Ⅴ
     start: -70-S-5
+  }
+  {
+    id: 1325
+    mission_id: "11691"
+    description: '''"희극을 보는 자 또한 희극 속 인물이니."'''
+    scripts: -52-e-1
+    campaign: -52
+    title: 약과 독의 노래
+    start: -52-e-1
+  }
+  {
+    id: 1326
+    mission_id: "11692"
+    description: '''"인생무상. 하지만 그것이 또 게임의 매력이죠."'''
+    scripts: -52-e-2
+    campaign: -52
+    title: 긴 밤의 기다림
+    start: -52-e-2
+  }
+  {
+    id: 1327
+    mission_id: "11693"
+    description: '''"잔을 듭시다. 오늘 밤을 즐기세요."'''
+    scripts: -52-e-3
+    campaign: -52
+    title: 달콤한 연회
+    start: -52-e-3
   }
 ]

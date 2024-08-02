@@ -289,4 +289,22 @@
     group_skill: 2:1001803
     fit_gun: "20029"
   }
+  {
+    id: 33
+    name: 꼬마 회오리
+    des: SR-3MP에게 맞춤 제작된 세트, 움직임을 더 유연하게 해주어 적의 후방을 쉽게 찌를 수 있게 해줍니다.
+    code: EgroupSR3MP
+    equip_unit: "409,0,249"
+    group_skill: 2:1002003
+    fit_gun: "135"
+  }
+  {
+    id: 34
+    name: 사명 필달
+    des: StG44에게 맞춤 제작된 세트, 부여받은 사명을 완수하기 위해서 장비 업그레이드가 필수적입니다.
+    code: EgroupStG44
+    equip_unit: "0,136,410"
+    group_skill: 2:1002103
+    fit_gun: "20061"
+  }
 ]

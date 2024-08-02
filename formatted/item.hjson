@@ -15014,6 +15014,15 @@
     rank: 1
   }
   {
+    id: 2530
+    type: 5
+    arg: "1"
+    code: profilePic_rank6_AK12Mod
+    item_name: AK-12 개조 아이콘
+    introduction: AK-12 개조 아이콘
+    rank: 1
+  }
+  {
     id: 2531
     type: 5
     arg: "1"
@@ -16488,6 +16497,15 @@
     id: 10717
     type: 18
     arg: "10717"
+    code: daily_points
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
+    rank: 1
+  }
+  {
+    id: 10718
+    type: 18
+    arg: "10718"
     code: daily_points
     item_name: 회색지대 점수
     introduction: 회색지대 점수

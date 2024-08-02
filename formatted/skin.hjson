@@ -837,6 +837,7 @@
     name: AK-12 - 극주의 빛
     fit_gun: 206
     voice: 4
+    is_hidden: 1
     dialog: 지휘관, 체온이 평소보다 0.2℃ 정도 상승했어. 심박도 빨라지고 있고, 내 모습이 무서워? 눈을 감아달라고? 지금은 안 돼.
     order: 54
     class_id: 99
@@ -1120,6 +1121,7 @@
     name: QBU-88 - 아침햇살
     fit_gun: 261
     voice: 4
+    is_hidden: 1
     dialog: 로손에 어서오세요! 좋은 아침, 지휘관! 오늘 아침 메뉴는 3가지인데, 내가 가장 혜자스럽고 맛있는 걸 골라놨어!
     order: 66
     class_id: 99
@@ -1184,6 +1186,7 @@
     name: G11 - 가을 잠·프리스타일Ⅺ
     fit_gun: 122
     voice: 4
+    is_hidden: 1
     dialog: 디자이너의 발상은 대부분 어쩌다 든 생각에서 비롯되고, 뛰어난 착용자는 해석을 잘합니다. 이번 모델은 유난히 뛰어납니다, 강한 영향을 받아 졸음이 옵니다.
     illustrator_cv: GINGALA,Fukuhara Ayaka,
     order: 78
@@ -1213,6 +1216,7 @@
     name: QBZ-191 - 수묵 피즈
     fit_gun: 361
     voice: 4
+    is_hidden: 1
     dialog: 종횡으로 교차한 수많은 도로와 수없이 뻗어나온 샛길들은 마치 우리의 무한한 미래의 가능성 같아.
     order: 93
     class_id: 80
@@ -1419,6 +1423,7 @@
     name: RO635 - 흑백 숲속 새
     fit_gun: 143
     voice: 4
+    is_hidden: 1
     dialog: 블랙럼주를 화이트럼주로 바꾸고, 끝 없는 임무를 질리지 않는 음악으로 바꾸고... 저는 이런 날이 가장 좋아요.
     illustrator_cv: 暖森,Fukuhara Ayaka,
     order: 112
@@ -5543,6 +5548,15 @@
     is_hidden: 2
     dialog: 오리지널
     note: 오리지널
+  }
+  {
+    id: 5076
+    name: AK-12-오리지널
+    fit_gun: 20206
+    voice: 4
+    is_hidden: 2
+    dialog: 기존 모습
+    note: 기존 모습
   }
   {
     id: 5101

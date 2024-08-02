@@ -3824,8 +3824,10 @@
     powerup_part: 0.23
     exclusive_rate: 3
     bonus_type: pow:750
+    passive_skill: "1002101"
     max_level: 10
     auto_select_id: 19006
+    group_id: "34"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -7534,8 +7536,10 @@
     powerup_part: 0.23
     exclusive_rate: 3
     bonus_type: pow:700,hit:1000
+    passive_skill: "1002001"
     max_level: 10
     auto_select_id: 18077
+    group_id: "33"
     is_show: 1
     obtain_ids: "3036"
   }
@@ -12865,6 +12869,78 @@
     description_skill: 1001901
   }
   {
+    id: 409
+    name: 검은 토끼 모자
+    description:
+      '''
+      사속+<rate> 회피<dodge>
+      일반공격 피해+25%$SR-3MP 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    dodge: "-12,-10"
+    rate: "2,5"
+    skill_effect_per: 150
+    skill_effect: 300
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: TDoll_SP_SR3MP
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "135"
+    equip_introduction: SR-3MP가 가장 좋아하는 모자. 비주얼과 실용성 말고도 키를 좀 더 커 보이게 만드는 효과가 있습니다.
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: rate:1000
+    passive_skill: "1002002"
+    max_level: 10
+    auto_select_id: 20086
+    group_id: "33"
+    is_show: 1
+    obtain_ids: "3096"
+    sp_description: 일반공격 피해+25%
+  }
+  {
+    id: 410
+    name: StG44 전용 칩셋
+    description:
+      '''
+      화력+<pow> 사속+<rate>
+      치명상<critical_harm_rate><%>$StG44 Mod 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "10,12"
+    rate: "12,16"
+    critical_harm_rate: "-50,-50"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: TDoll_SP_STG44Mod
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "20061"
+    equip_introduction: 성능을 전면 개량한 전용칩. StG44가 일처리를 보다 꼼꼼하게 해줍니다.
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:500,rate:600
+    passive_skill: "1002102"
+    max_level: 10
+    auto_select_id: 20087
+    group_id: "34"
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
     id: 411
     name: 1PN64 야간조준경
     description:
@@ -12896,6 +12972,41 @@
     auto_select_id: 18120
     is_show: 1
     obtain_ids: "3116"
+  }
+  {
+    id: 412
+    name: 겨울 서리 VI
+    description:
+      '''
+      화력+<pow> 사속<rate>
+      치명상+<critical_harm_rate><%>스킬 강화$AK-12 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "6,10"
+    rate: "-10,-5"
+    critical_harm_rate: "15,20"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: TDoll_SP_AK12
+    develop_duration: 3060
+    company: ZNT
+    fit_guns: "206,20206"
+    equip_introduction: AK-12가 아베르누스에서 철수할 때 휴대한 장비, 패러데우스가 발명한 제6세대 전술 슈트로, AK-12를 은신 상태로 만들어 줄 수 있다. 비활성 상태에서는 반투명한 재질로 몸을 감싸는 안개처럼 무척 가볍다.
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: pow:1000,critical_harm_rate:750
+    passive_skill: "992500"
+    max_level: 10
+    auto_select_id: 20088
+    is_show: 1
+    obtain_ids: "3016"
+    description_skill: 992500
   }
   {
     id: 413
