@@ -30293,6 +30293,20 @@
     interact_point_offset: *1.715,2.319,0.458
   }
   {
+    id: 20145
+    name: 빛과 그림자의 단상
+    classes: 81
+    type: 201
+    space: "2,2,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 촛불이 함 옆에 흔들리는 그림자를 내리뜨리고, 기계의 모서리가 부드러운 빛무리를 자른다. 광명과 음영 사이, 부드러움과 날카로움 사이에, 진리에 집착하는 어느 인형이 미묘한 공존을 추구한다.
+    code: ZastavaM21_4304_deco
+    texture_type: "1"
+    offset: "0.000,-0.063,0.000"
+    rotate: "2"
+  }
+  {
     id: 30001
     name: 마카로프 - 잭오랜턴
     classes: 300
