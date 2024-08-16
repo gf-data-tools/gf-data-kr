@@ -8047,6 +8047,31 @@
     code_b: Squad_Icon
   }
   {
+    id: 9711502
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 제어 콘솔
+    description_c: 공수 투하
+    code_b: Squad_Icon
+    is_manual_target: 1
+  }
+  {
+    id: 9711503
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 제어 콘솔
+    description_c: 전환
+    code_b: Squad_Icon
+  }
+  {
+    id: 9713101
+    code_a: Sundries
+    description_a: 아군 제대
+    description_b: 잡동사니
+    description_c: 뒤져보기
+    code_b: Console_Icon
+  }
+  {
     id: 44360002
     code_a: golyatplg_d
     description_a: 투척식 골리앗

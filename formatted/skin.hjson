@@ -5559,6 +5559,15 @@
     note: 기존 모습
   }
   {
+    id: 5077
+    name: SPAS-12 - 오리지널
+    fit_gun: 20162
+    voice: 4
+    is_hidden: 2
+    dialog: 오리지널
+    note: 오리지널
+  }
+  {
     id: 5101
     name: 류 소총 - 버드나무 여우불
     fit_gun: 316
@@ -9099,6 +9108,81 @@
     order: 135
     class_id: 103
     skin_source: 2
+  }
+  {
+    id: 10701
+    name: AUG - 스칼렛 엠프리스
+    fit_gun: 73
+    voice: 4
+    dialog: 루비 왕관의 빛이 피처럼 흐르는군요... 제가 이것을 머리에 쓰고 적에게 영원한 잠을 선사하겠어요.
+    illustrator_cv: RIRE,Waki Azumi,
+    order: 137
+    class_id: 104
+    skin_source: 2
+  }
+  {
+    id: 10702
+    name: 라이노 - 캐슬링 룩
+    fit_gun: 357
+    voice: 4
+    dialog: 지휘관님, 분부하신 대로 이 은색 드레스를 준비했어요... 구슬린 거라 해도 상관 없어요, 이번 건... 진심으로 이 옷차림을 보여드리고 싶은 거라...
+    gift_position: "-152.2,-37.1"
+    order: 137
+    class_id: 104
+    skin_source: 1
+  }
+  {
+    id: 10703
+    name: 톰슨 - 종횡무진 여왕
+    fit_gun: 16
+    voice: 4
+    dialog: 여기서 소란 피우면 안 된다고? 그건 못 들어주겠구만! 해치우자고, 보스! 시시콜콜한 룰과 질서 모두 짓밟아 버려!
+    illustrator_cv: 小枪,Taneda Risa,
+    order: 137
+    class_id: 104
+    skin_source: 2
+  }
+  {
+    id: 10704
+    name: APC556 - 약진 나이트
+    fit_gun: 343
+    voice: 4
+    dialog: 왜 그래, 보스? 내 머리카락이 신경 쓰여? 이건 헤어 무스로 깃털 모양으로 고정한 거야. 세팅하느라 3시간이나 걸렸으니까... 건들지 말아줘.
+    order: 137
+    class_id: 104
+    skin_source: 2
+  }
+  {
+    id: 10705
+    name: P7 - 신탁 수호자
+    fit_gun: 100
+    voice: 4
+    dialog: 이 마법전서에 물어보면 모든 답을 얻을 수 있어! ...어이쿠, 그리폰에서 가장 귀여운 인형이 누군지 알고 싶다고? 그걸 물을 필요가 있어? 답이 바로 눈앞에 있잖아!
+    illustrator_cv: 小星,Kurosawa Tomoyo,
+    order: 137
+    class_id: 104
+    skin_source: 2
+  }
+  {
+    id: 10706
+    name: MP41 - 크래셔 폰
+    fit_gun: 267
+    voice: 4
+    dialog: 흐흥, 제가 뒤의 길을 전부 박살내버렸지요! 느려터진 굼벵이는 이렇게 혼내줘야 한다고요! ...그럼 우린 어떻게 돌아가냐고요? 흠, 그거 참 좋은 질문이네요.
+    order: 137
+    class_id: 104
+    skin_source: 2
+  }
+  {
+    id: 10707
+    name: IDW - 냥이 철퇴
+    fit_gun: 93
+    voice: 4
+    dialog: 조심하라냥, 냐의 철퇴엔 눈이 없다냥! 맞은 녀석은 사료를 내놓으라냥!
+    gift_position: "-275.9,340"
+    illustrator_cv: K箱,Ito Asuka,
+    order: 137
+    class_id: 104
   }
   {
     id: 30001

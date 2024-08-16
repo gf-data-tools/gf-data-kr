@@ -1579,6 +1579,66 @@
     recommended_team_ids: "4"
   }
   {
+    id: 1028
+    name: 게이저-VWV형
+    en_name: GagerSwimwear
+    code: GagerSwimwear
+    introduce: 게이저-근해 전투 특화형, 약칭 VWV형. 게이저의 기존 소체를 개량 조정한 해전용 소체로, 해변이 아니어도 비축한 소재로 주위를 근해 환경으로 개조해 작전한다. 닻 모양의 무기는 난폭한 화력을 발휘할 뿐만 아니라 풍랑을 일으키는 능력도 지니고 있다.
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: 미정
+    forces: 1
+    type: 1
+    character: "2,4,6"
+    formation: 1
+    resolution: 128
+    shape_scale: "80,120"
+    ap_cost: 10
+    rank: 5
+    skill1: 760002
+    skill2_type: 1
+    skill2: 760004
+    skill3: 760005
+    skill_advance: 760007
+    skill_resolution: "760003"
+    passive_skill2: "760006"
+    normal_attack: 760001
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 100
+    ratio_pow: 115
+    ratio_rate: 125
+    ratio_hit: 95
+    ratio_dodge: 80
+    armor_piercing: 15
+    crit: 40
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 15
+    attack_range_type: 2
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 7
+    effect_grid_effect: 0:1,20|3:8,20|4:5,20
+    type_chip1: "1,2,3"
+    type_chip2: "1,2,3"
+    type_chip3: "1,2,3"
+    illustration_id: 236
+    ai: 11002
+    is_additional: 1
+    launch_time: 2016-05-20 00:00:00
+    display_enemy_team: 930029
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    org_id: 10602
+    gun_tag_ids: "103,109,121"
+    ratio_rec: 100
+    recommended_team_ids: "2"
+  }
+  {
     id: 2001
     name: 브루트
     en_name: Brute

@@ -5461,6 +5461,246 @@
     launch_time: 2035-5-20 00:00:00
   }
   {
+    sub_id: 236001
+    id: 236
+    name: 게이저-VWV형
+    sub_name: 게이저-VWV형
+    type: 1
+    code: GagerSwimwear
+    introduce: 게이저-근해 전투 특화형, 약칭 VWV형. 게이저의 기존 소체를 개량 조정한 해전용 소체로, 해변이 아니어도 비축한 소재로 주위를 근해 환경으로 개조해 작전한다. 닻 모양의 무기는 난폭한 화력을 발휘할 뿐만 아니라 풍랑을 일으키는 능력도 지니고 있다.
+    forces: 1
+    if_capture: 1
+    pow_rank: 6
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 3
+    rate_rank: 3
+    speed_rank: 3
+    range_rank: 5
+    counter: 해전용 소체로 교체한 게이저. 강력한 진지 구축 능력에 더불어, 화력과 지휘 능력도 한 단계 상승했습니다.
+    character: "1001,207"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "85,85,1"
+    org_id: 10602
+  }
+  {
+    sub_id: 237001
+    id: 237
+    name: 오트르
+    sub_name: 오트르
+    type: 4
+    code: Cerynitis_Deutsch
+    introduce: 군용 표준 작전 기갑, "네메움"을 기반으로 업그레이드 및 개조하여, 원거리 군용 화력 시스템을 탑재해 더 강력한 장갑 및 연사 능력을 지니게 됐다.
+    forces: 2
+    pow_rank: 5
+    life_rank: 3
+    hit_rank: 5
+    rate_rank: 1
+    armor_rank: 3
+    speed_rank: 3
+    range_rank: 4
+    counter: 장갑 유닛, 공격 간격이 짧으면서 화력이 높은 편이니 소총 인형으로 우선 처치하길 추천합니다.
+    character: "1003,309"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "100,100,1"
+  }
+  {
+    sub_id: 238001
+    id: 238
+    name: 안드바리
+    sub_name: 안드바리
+    type: 4
+    code: Hydra_Deutsch
+    introduce: 독일군의 수요에 맞춰 개조한 표준 군용 기갑. 더욱 발전한 원거리 군용 화력 시스템을 탑재해, 강력한 주포로 적에게 파멸적인 무력 소탕이 가능하다.
+    forces: 2
+    pow_rank: 6
+    life_rank: 5
+    hit_rank: 4
+    rate_rank: 4
+    armor_rank: 6
+    speed_rank: 1
+    range_rank: 2
+    counter: 만전의 상태가 아닐 경우 최대한 피하십시오.
+    character: "1003,309,301"
+    enemy_skill: "1801"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "80,80,1"
+  }
+  {
+    sub_id: 239001
+    id: 239
+    name: 로키
+    sub_name: 로키
+    type: 4
+    code: Coeus_Deutsch
+    introduce: 독일군이 자체 생산한 특수 기갑. 아군을 보호하는 동시에 적을 효과적으로 교란한다. 보통 전술 제압의 히든 카드로 사용한다.
+    forces: 2
+    pow_rank: 6
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 3
+    counter: 어느 정도 장갑을 지니고 있어 제대의 철갑 능력을 신경써야 합니다. 전열 인형의 방어 능력을 강화하고 강력 포격에 조준된 유닛을 제떄 움직여 후열 유닛이 휘말리지 않게 하세요.
+    character: "1001,1003,302,309,317,316"
+    enemy_skill: "52,53"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "40,40,1"
+  }
+  {
+    sub_id: 240001
+    id: 240
+    name: 방위군-AR
+    sub_name: 방위군-AR
+    type: 3
+    code: Soldier_Deutsch_AR
+    introduce: 독일군 표준 작전 인형, 돌격소총과 살상력 높은 유탄 발사기로 무장했다. 장갑은 다른 모델에 비해 약한 편이다.
+    forces: 2
+    pow_rank: 4
+    life_rank: 4
+    hit_rank: 4
+    dodge_rank: 3
+    rate_rank: 3
+    speed_rank: 4
+    range_rank: 4
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "1001"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    sub_id: 241001
+    id: 241
+    name: 방위군-SG
+    sub_name: 방위군-SG
+    type: 5
+    code: Soldier_Deutsch_SG
+    introduce: 독일군 표준 작전 인형, 산탄총과 방탄 장갑판을 지니고 있다.
+    forces: 2
+    pow_rank: 4
+    life_rank: 4
+    hit_rank: 3
+    dodge_rank: 3
+    rate_rank: 2
+    armor_rank: 4
+    speed_rank: 3
+    range_rank: 4
+    counter: 이 유닛은 균형 잡힌 능력치와 어느 정도의 장갑을 지니고 있습니다. 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "1001,309,314"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    sub_id: 242001
+    id: 242
+    name: 방위군-RF
+    sub_name: 방위군-RF
+    type: 3
+    code: Soldier_Deutsch_RF
+    introduce: 독일군 표준 작전 인형, 소총으로 무장해 원거리 타격 능력이 우수합니다.
+    forces: 2
+    pow_rank: 4
+    life_rank: 1
+    hit_rank: 5
+    dodge_rank: 3
+    rate_rank: 2
+    speed_rank: 3
+    range_rank: 4
+    counter: 이 유닛은 후열 공격수로 후열을 우선 공격하는 인형으로 처리하길 바랍니다.
+    character: "1001,307"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    sub_id: 243001
+    id: 243
+    name: 방위군-MG
+    sub_name: 방위군-MG
+    type: 3
+    code: Soldier_Deutsch_MG
+    introduce: 독일군 작전 지원 인형, 고속 연사 개틀링 기관총으로 무장해 유효 거리에서 강력한 제압 사격과 화력 투사가 가능하다.
+    forces: 2
+    pow_rank: 4
+    life_rank: 3
+    hit_rank: 2
+    dodge_rank: 2
+    rate_rank: 5
+    speed_rank: 4
+    range_rank: 4
+    counter: 이 유닛은 매우 뛰어난 철갑력을 지니고 있습니다. 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "1001,308,315"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    sub_id: 244001
+    id: 244
+    name: 파프니르
+    sub_name: 파프니르
+    type: 4
+    code: AA02_Mini_Deutsch
+    introduce: 독일군 보병용 경기갑, 복잡한 지형에 잘 적응한다. 두 정의 대구경 기관총 팔은 보병 대상에게 상당한 살상력을 발휘한다.
+    forces: 2
+    pow_rank: 2
+    life_rank: 4
+    hit_rank: 3
+    rate_rank: 3
+    armor_rank: 4
+    speed_rank: 1
+    range_rank: 3
+    counter: 체력이 낮은 유닛에게 더욱 치명적으로 신속히 처리하십시오.
+    character: "1003,302,314,319"
+    enemy_skill: "168"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "60,60,1"
+  }
+  {
+    sub_id: 245001
+    id: 245
+    name: 흐레이드마르
+    sub_name: 흐레이드마르
+    type: 4
+    code: Chariot_Military_Deutsch
+    introduce: 독일군 지대공/지대지 양용 미사일 탱크. 4연장 스팅어 대공 미사일을 탑재해 적의 공중 및 지상 장갑 목표 대처 임무에 널리 사용된다.
+    forces: 2
+    pow_rank: 2
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 2
+    rate_rank: 2
+    armor_rank: 5
+    speed_rank: 3
+    range_rank: 3
+    counter: 이 유닛은 상당한 방어 강화 능력을 지녔으며, 미사일 공격을 피하는 것에 주의해야 합니다.
+    character: "1001,1003,302"
+    enemy_skill: "169,170"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "50,50,1"
+  }
+  {
+    sub_id: 246001
+    id: 246
+    name: 레긴
+    sub_name: 레긴
+    type: 5
+    code: Aegis_GA_Deutsch
+    introduce: 독일군의 수요에 맞춰 개조한 표준 작전 인형. 공방일체의 반응장갑 방패를 탑재하고 근접 타격 성능을 상향해 근접 전선 돌파력이 뛰어나다.
+    forces: 2
+    pow_rank: 2
+    life_rank: 3
+    hit_rank: 2
+    rate_rank: 3
+    armor_rank: 5
+    speed_rank: 3
+    range_rank: 2
+    counter: 장갑 유닛, 근접 피해를 조심하고, 사전에 아군 철갑 능력을 신경쓰시기 바랍니다.
+    character: "303,309,310"
+    enemy_skill: "9,173"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
     sub_id: 100001001
     id: 100001
     name: 게베뉴

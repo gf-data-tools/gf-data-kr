@@ -1,5 +1,12 @@
 [
   {
+    id: -23
+    name: 로미
+    code: NPC-Romy
+    title: 로미
+    ai: 9999
+  }
+  {
     id: -22
     name: 엠블라
     code: NPC_Embla_RPK

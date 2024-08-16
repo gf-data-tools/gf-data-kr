@@ -1333,4 +1333,8 @@
     obtain_id: "3116"
     description: 기간한정 이벤트 <영전하> 재화 교환
   }
+  {
+    obtain_id: "3117"
+    description: 기간한정 이벤트 <은염색 현상> 재화 교환
+  }
 ]

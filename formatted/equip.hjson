@@ -13042,4 +13042,72 @@
     obtain_ids: "3108"
     description_skill: 1002201
   }
+  {
+    id: 416
+    name: GH 헤비 실드
+    description:
+      '''
+      이동속도<speed> 장갑+<armor>
+      받는 피해-1$SPAS-12 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    speed: "-3,-3"
+    armor: "3,7"
+    skill_effect: 150
+    retire_mp: 2
+    retire_ammo: 2
+    retire_mre: 3
+    retire_part: 3
+    code: TDoll_SP_SPAS12
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "162,20162"
+    equip_introduction: SPAS-12 전용으로 제작된 방판방패, 그 무게는 가늠하기가 힘들지만, 충분한 안정감도 제공한다.
+    powerup_mp: 0.23
+    powerup_ammo: 0.23
+    powerup_mre: 0.33
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: armor:600
+    passive_skill: "740091"
+    max_level: 10
+    auto_select_id: 20058
+    is_show: 1
+    obtain_ids: "3016"
+    sp_description: 받는 피해-1
+  }
+  {
+    id: 417
+    name: 앤젤 외골격
+    description:
+      '''
+      화력<pow>
+      회피+<dodge>$HS2000 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "-6,-3"
+    dodge: "16,21"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_HS2000
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "250"
+    equip_introduction: 의료형 인형을 위해 특별 제작된 장비, 긴급 구조 시 큰 역할을 발휘합니다. HS2000은 이 이 외골격을 무척 애용합니다.
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: dodge:1000
+    max_level: 10
+    auto_select_id: 20051
+    is_show: 1
+    obtain_ids: "3117"
+  }
 ]

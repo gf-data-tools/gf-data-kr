@@ -793,6 +793,15 @@
     rank: 1
   }
   {
+    id: 139
+    type: 3
+    arg: "40"
+    code: Medal_202408Activity
+    item_name: 난국 돌파자 훈장
+    introduction: '''"은염색 현상" 이벤트에서 뛰어난 성적을 보여준 지휘관과 휘하 인형에게 수여합니다. "하늘은 자신을 돕는자를 돕는다. 겹겹의 족쇄를 풀고나면 무한한 미래가 펼쳐지리라."'''
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -15122,6 +15131,141 @@
     rank: 1
   }
   {
+    id: 2542
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_AUG
+    item_name: AUG - 스칼렛 엠프리스
+    introduction: AUG - 스칼렛 엠프리스
+    rank: 1
+  }
+  {
+    id: 2543
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_Rhino
+    item_name: 라이노 - 캐슬링 룩
+    introduction: 라이노 - 캐슬링 룩
+    rank: 1
+  }
+  {
+    id: 2544
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_M1928A1
+    item_name: 톰슨 - 종횡무진 여왕
+    introduction: 톰슨 - 종횡무진 여왕
+    rank: 1
+  }
+  {
+    id: 2545
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_APC556
+    item_name: APC556 - 약진 나이트
+    introduction: APC556 - 약진 나이트
+    rank: 1
+  }
+  {
+    id: 2546
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_P7
+    item_name: P7 - 신탁 수호자
+    introduction: P7 - 신탁 수호자
+    rank: 1
+  }
+  {
+    id: 2547
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_MP41
+    item_name: MP41 - 크래셔 폰
+    introduction: MP41 - 크래셔 폰
+    rank: 1
+  }
+  {
+    id: 2548
+    type: 5
+    arg: "1"
+    code: profilePic_Chess2024_IDW
+    item_name: IDW - 냥이 철퇴
+    introduction: IDW - 냥이 철퇴
+    rank: 1
+  }
+  {
+    id: 2549
+    type: 5
+    arg: "1"
+    code: profilePic_202408Activity_01
+    item_name: 아이콘: 처음 보는 지인
+    introduction: 아이콘: 처음 보는 지인
+    rank: 1
+  }
+  {
+    id: 2550
+    type: 5
+    arg: "1"
+    code: profilePic_202408Activity_02
+    item_name: 아이콘: 말은 없어도
+    introduction: 아이콘: 말은 없어도
+    rank: 1
+  }
+  {
+    id: 2551
+    type: 5
+    arg: "1"
+    code: profilePic_202408Activity_03
+    item_name: 아이콘: 정신 연마
+    introduction: 아이콘: 정신 연마
+    rank: 1
+  }
+  {
+    id: 2552
+    type: 5
+    arg: "1"
+    code: card_202408Activity_01
+    item_name: 카드 배경: 닿을 수 없는
+    introduction: 카드 배경: 닿을 수 없는
+    rank: 1
+  }
+  {
+    id: 2553
+    type: 5
+    arg: "1"
+    code: card_202408Activity_02
+    item_name: 카드 배경: 코앞의 하늘
+    introduction: 카드 배경: 코앞의 하늘
+    rank: 1
+  }
+  {
+    id: 2554
+    type: 5
+    arg: "1"
+    code: cg_202408Activity_01
+    item_name: 기지 배경: 노을빛 메아리
+    introduction: 기지 배경: 노을빛 메아리
+    rank: 1
+  }
+  {
+    id: 2555
+    type: 5
+    arg: "1"
+    code: cg_202408Activity_02
+    item_name: 기지 배경: 순정한 은혜
+    introduction: 기지 배경: 순정한 은혜
+    rank: 1
+  }
+  {
+    id: 3501
+    type: 5
+    arg: "1"
+    code: profilePic_rank5_SPAS12Mod
+    item_name: SPAS-12 개조 아이콘
+    introduction: SPAS-12 개조 아이콘
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"
@@ -16128,11 +16272,10 @@
     type: 1
     arg: "9033"
     code: props_paper
-    item_name: item-10009033
-    introduction: item-20009033
+    item_name: 파묻힌 설계도
+    introduction: 찢어진 종이 조각, 유적 개발 시대 이전의 공업 청사진으로 보이며, 거대한 장갑 유닛을 그린 것 같지만 내용을 식별할 수가 없다.
     rank: 1
     sort: -22
-    detail_introduction: item-30009033
     type_sort: 2
   }
   {
@@ -18639,6 +18782,43 @@
     arg: "100232"
     code: coremask2_202407ZeroCharge
     item_name: 마음 파먹는 가면·영전하
+    introduction: 기이한 기운을 풍기는 마스크, 극한의 시련을 뛰어넘은 자만이 얻을 수 있습니다. 가지고 있어봤자 쓸모 없어 보이지만, 상점에서 학수고대한 만남과 교환할 수 있을 겁니다.
+    rank: 1
+  }
+  {
+    id: 100233
+    type: 4
+    arg: "100233"
+    code: Nova_medal
+    item_name: 노바훈장·은염색 현상
+    introduction: 노바훈장·은염색 현상
+    rank: 1
+  }
+  {
+    id: 100234
+    type: 4
+    arg: "100234"
+    code: Platinum_medal
+    item_name: 백금훈장·은염색 현상
+    introduction: 백금훈장·은염색 현상
+    rank: 1
+  }
+  {
+    id: 100235
+    type: 9
+    arg: "100235"
+    code: Coin_202408AngularGyrus
+    item_name: 결승의 폰
+    introduction: 흑백이 교차하는 말판 위에서 오직 폰만이 후퇴할 권리가 없다.
+    rank: 1
+    daily_limit: "60"
+  }
+  {
+    id: 100236
+    type: 4
+    arg: "100236"
+    code: coremask2_202408AngularGyrus
+    item_name: 마음 파먹는 가면·은염색 현상
     introduction: 기이한 기운을 풍기는 마스크, 극한의 시련을 뛰어넘은 자만이 얻을 수 있습니다. 가지고 있어봤자 쓸모 없어 보이지만, 상점에서 학수고대한 만남과 교환할 수 있을 겁니다.
     rank: 1
   }
@@ -23176,6 +23356,87 @@
     type_sort: 1
   }
   {
+    id: 1500149
+    type: 15
+    arg: "1500149"
+    code: Bumdle_Angulargyrus01
+    item_name: 은염색 현상 한정 코스튬 쿠폰·α
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500150
+    type: 15
+    arg: "1500150"
+    code: Bumdle_Angulargyrus02
+    item_name: 은염색 현상 한정 코스튬 쿠폰·β
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500151
+    type: 15
+    arg: "1500151"
+    code: Bumdle_Angulargyrus03
+    item_name: 은염색 현상 한정 코스튬 쿠폰·γ
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500152
+    type: 15
+    arg: "1500152"
+    code: Bumdle_invocation_3
+    item_name: 4성 인형 임용장
+    introduction: 창고에서 이 임용장을 사용하면 지정 범위 중 4성 인형을 하나 선택해 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500153
+    type: 15
+    arg: "1500153"
+    code: Bumdle_invocation_2
+    item_name: 5성 인형 임용장
+    introduction: 창고에서 이 임용장을 사용하면 지정 범위 중 5성 인형을 하나 선택해 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500154
+    type: 15
+    arg: "1500154"
+    code: Bumdle_sangvischoose
+    item_name: 혼합세력 지정회수 의뢰서
+    introduction:
+      '''
+      창고에서 이 의뢰서를 사용하면 지정 범위 중 태생 3성 혼합세력유닛을 하나 선택해 획득할 수 있습니다.
+      *"혼합세력" 시스템을 아직 해금하지 않은 경우 얻은 유닛을 바로 사용할 수 없습니다. 해당 시스템을 해금한 이후 정상 사용 가능합니다.
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500155
+    type: 15
+    arg: "1500155"
+    code: Bumdle_equipment
+    item_name: 5성 장비 선택 증서
+    introduction: 창고에서 이 증서를 사용하면 지정 범위 중 전용장비 이외 5성 장비를 하나 선택해 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -23561,6 +23822,39 @@
     code: package_choose
     item_name: 고등 전용장비 선택 코드
     introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700034
+    type: 15
+    arg: "1700034"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700035
+    type: 15
+    arg: "1700035"
+    code: package_choose
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700036
+    type: 15
+    arg: "1700036"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1

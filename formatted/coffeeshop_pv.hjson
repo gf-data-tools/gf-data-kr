@@ -146,4 +146,11 @@
     cost: 506-1000
     prize_id: "5031"
   }
+  {
+    id: "22"
+    title: 영전하
+    description: 2024년 기간 한정 이벤트 PV
+    cost: 506-1000
+    prize_id: "5032"
+  }
 ]

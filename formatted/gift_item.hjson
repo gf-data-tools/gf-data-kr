@@ -12210,6 +12210,104 @@
     type_sort: 6
   }
   {
+    id: 10701
+    name: AUG - 스칼렛 엠프리스
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 73
+    skin: 10701
+    poster: 310701
+    code: gift_bundle_Chess2024_AUG
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+  }
+  {
+    id: 10702
+    name: 라이노 - 캐슬링 룩
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 357
+    skin: 10702
+    poster: 310702
+    code: gift_bundle_Chess2024_Rhino
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+  }
+  {
+    id: 10703
+    name: 톰슨 - 종횡무진 여왕
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 16
+    skin: 10703
+    poster: 310703
+    code: gift_bundle_Chess2024_M1928A1
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+  }
+  {
+    id: 10704
+    name: APC556 - 약진 나이트
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 343
+    skin: 10704
+    poster: 310704
+    code: gift_bundle_Chess2024_APC556
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+  }
+  {
+    id: 10705
+    name: P7 - 신탁 수호자
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 100
+    skin: 10705
+    poster: 310705
+    code: gift_bundle_Chess2024_P7
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+  }
+  {
+    id: 10706
+    name: MP41 - 크래셔 폰
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 267
+    skin: 10706
+    poster: 310706
+    code: gift_bundle_Chess2024_MP41
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+  }
+  {
+    id: 10707
+    name: IDW - 냥이 철퇴
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 93
+    skin: 10707
+    poster: 310707
+    code: gift_bundle_Chess2024_IDW
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     type: 2

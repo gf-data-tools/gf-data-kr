@@ -30307,6 +30307,64 @@
     rotate: "2"
   }
   {
+    id: 20146
+    name: 최고의 찬사
+    classes: 81
+    type: 201
+    space: "5,2,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: '''"그리폰 스포츠 속보: 한 체조 선수가 겨자 폭탄을 삼키고 관중석으로 초고속 덤블링하며 질주하다, 단 0.01m의 거리를 남기고 무사히 착지!"——오오, 엄청 스릴 넘쳐! PA-15가 이 박진감 넘치는 장면에 10점을 매깁니다!'''
+    code: PA15_7501_deco
+    texture_type: "1"
+    offset: "0.000,-0.042,0.000"
+    rotate: "2"
+  }
+  {
+    id: 20147
+    name: 묘수풀이의 부름
+    classes: 19
+    type: 201
+    space: "9,7,1,1,0,1"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: '''"흰 폰을 바로 퀸으로 프로모션해야 해! 다 해치워 버려!" 초보 디너게이트가 펄쩍 뜁니다. "아니 아니지. 먼저 포위당한 킹을 구해야..." 베테랑 플레이어 디너게이트는 판 전체를 읽고 차분하게 제안합니다.'''
+    code: 202408Activity_Chess_deco,202408Activity_Chess
+    texture_type: "1,2"
+    sorting: "0,10"
+    offset: "0.000,-0.178,0.000|0.021,0.344,0.000"
+    rotate: "2,2"
+  }
+  {
+    id: 20148
+    name: 난국 돌파자 훈장
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: '''"은염색 현상" 이벤트에서 뛰어난 성적을 보여준 지휘관과 휘하 인형에게 수여합니다. "하늘은 자신을 돕는자를 돕는다. 겹겹의 족쇄를 풀고나면 무한한 미래가 펼쳐지리라."'''
+    code: 202408Activity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20149
+    name: 포스터-2024 "영전하"
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2024년 한정 이벤트 - 영전하 특전 포스터
+    code: pv_202407activity
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
+    rotate: "3"
+  }
+  {
     id: 30001
     name: 마카로프 - 잭오랜턴
     classes: 300
@@ -45914,6 +45972,111 @@
     decompose_gift: 100003
     description: MK23의 포스터
     code: poster_Detective2024_Mk23
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310701
+    name: AUG - 스칼렛 엠프리스
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: AUG의 포스터
+    code: poster_Chess2024_AUG
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310702
+    name: 라이노 - 캐슬링 룩
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 라이노의 포스터
+    code: poster_Chess2024_Rhino
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310703
+    name: 톰슨 - 종횡무진 여왕
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 톰슨의 포스터
+    code: poster_Chess2024_M1928A1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310704
+    name: APC556 - 약진 나이트
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: APC556의 포스터
+    code: poster_Chess2024_APC556
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310705
+    name: P7 - 신탁 수호자
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: P7의 포스터
+    code: poster_Chess2024_P7
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310706
+    name: MP41 - 크래셔 폰
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MP41의 포스터
+    code: poster_Chess2024_MP41
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310707
+    name: IDW - 냥이 철퇴
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: IDW의 포스터
+    code: poster_Chess2024_IDW
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"
