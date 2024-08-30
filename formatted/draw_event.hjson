@@ -9551,6 +9551,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 12:2374
     clear_cycle: 1
   }
   {
@@ -9558,6 +9559,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 10:2375
     clear_cycle: 1
   }
   {
@@ -9565,6 +9567,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 8:2376
     clear_cycle: 1
   }
   {
@@ -9572,6 +9575,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 6:2377
     clear_cycle: 1
   }
   {
@@ -9579,6 +9583,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 4:2378
     clear_cycle: 1
   }
   {
@@ -9586,6 +9591,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 8:2379
     clear_cycle: 1
   }
   {
@@ -9593,6 +9599,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 8:2380
     clear_cycle: 1
   }
   {
@@ -9600,6 +9607,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 8:2381
     clear_cycle: 1
   }
   {
@@ -9607,6 +9615,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 8:2382
     clear_cycle: 1
   }
   {
@@ -9614,6 +9623,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 8:2383
     clear_cycle: 1
   }
   {
@@ -9621,6 +9631,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 8:2384
     clear_cycle: 1
   }
   {
@@ -9628,6 +9639,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 6:2385
     clear_cycle: 1
   }
   {
@@ -9635,6 +9647,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 6:2386
     clear_cycle: 1
   }
   {
@@ -9642,6 +9655,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 4:2387
     clear_cycle: 1
   }
   {
@@ -9649,6 +9663,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 4:2388
     clear_cycle: 1
   }
   {
@@ -9656,6 +9671,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 4:2389
     clear_cycle: 1
   }
   {
@@ -9663,6 +9679,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 4:2390
     clear_cycle: 1
   }
   {
@@ -9670,6 +9687,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 1000:2391
     clear_cycle: 1
   }
   {
@@ -9677,6 +9695,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 1000:2392
     clear_cycle: 1
   }
   {
@@ -9684,6 +9703,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 12:2393
     clear_cycle: 1
   }
   {
@@ -9691,6 +9711,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 12:2394
     clear_cycle: 1
   }
   {
@@ -9698,6 +9719,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 10:2395
     clear_cycle: 1
   }
   {
@@ -9705,6 +9727,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 10:2396
     clear_cycle: 1
   }
   {
@@ -9712,6 +9735,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 1000:2397
     clear_cycle: 1
   }
   {
@@ -9719,6 +9743,7 @@
     type: 1
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
+    drop_ids: 1000:2398
     clear_cycle: 1
   }
   {

@@ -2,7 +2,6 @@
   {
     id: 9999
     level: 1
-    character: 척탄
     normal_attack: 300301
     passive_skill: "200304"
     effect_ratio: 1
@@ -16,7 +15,6 @@
     code: SangvisFerri
     def: 99999
     level: 100
-    character: 아이콘 표시
     normal_attack: 300301
     effect_ratio: 1
     deployment_scale: 1
@@ -6246,7 +6244,7 @@
     rate: 26
     def: 99999
     level: 30100
-    character: 그리폰,징용
+    character: 그리폰
     normal_attack: 755153
     passive_skill: "755154,200304"
     effect_ratio: 0.7
@@ -6296,7 +6294,7 @@
     rate: 18
     def: 99999
     level: 30100
-    character: 그리폰,철벽
+    character: 그리폰
     normal_attack: 755149
     passive_skill: "755150,200304"
     effect_ratio: 0.82
@@ -7154,7 +7152,7 @@
     rate: 32
     def: 99999
     level: 30100
-    character: 그리폰,방패
+    character: 그리폰
     normal_attack: 755146
     passive_skill: "755145,755147,755148,200304"
     effect_ratio: 1
@@ -7180,7 +7178,7 @@
     rate: 26
     def: 99999
     level: 30100
-    character: 그리폰,징용
+    character: 그리폰
     normal_attack: 755153
     passive_skill: "755154,200304"
     effect_ratio: 0.7
@@ -7205,7 +7203,7 @@
     rate: 50
     def: 99999
     level: 30100
-    character: 그리폰,엄호 명령
+    character: 그리폰
     normal_attack: 755151
     passive_skill: "755152,200304"
     effect_ratio: 1.4
@@ -7257,7 +7255,7 @@
     rate: 24
     def: 500
     level: 30100
-    character: 근접
+    character: 범위피해
     normal_attack: 759410
     passive_skill: "200304,770042"
     effect_ratio: 0.8
@@ -7282,7 +7280,7 @@
     rate: 24
     def: 500
     level: 30100
-    character: 근접
+    character: 정밀
     normal_attack: 759411
     passive_skill: "200304,770042"
     effect_ratio: 0.8
@@ -7333,7 +7331,7 @@
     rate: 36
     def: 99999
     level: 30100
-    character: 그리폰,철벽
+    character: 그리폰
     normal_attack: 300313
     passive_skill: "200304"
     effect_ratio: 0.82
@@ -7358,7 +7356,7 @@
     rate: 60
     def: 99999
     level: 30100
-    character: 그리폰,징용
+    character: 그리폰
     normal_attack: 755155
     passive_skill: "200304"
     effect_ratio: 0.7
@@ -7383,7 +7381,7 @@
     rate: 18
     def: 99999
     level: 30100
-    character: 그리폰,징용
+    character: 그리폰
     normal_attack: 755146
     passive_skill: "200304"
     effect_ratio: 0.7
@@ -7408,7 +7406,7 @@
     rate: 18
     def: 99999
     level: 30100
-    character: 그리폰,엄호지시
+    character: 그리폰
     normal_attack: 755146
     passive_skill: "200304"
     effect_ratio: 1.4
@@ -7433,7 +7431,7 @@
     rate: 18
     def: 99999
     level: 30100
-    character: 그리폰,엄호지시
+    character: 그리폰
     normal_attack: 755146
     passive_skill: "200304"
     effect_ratio: 1.4
@@ -7458,7 +7456,7 @@
     rate: 60
     def: 99999
     level: 30100
-    character: 그리폰,엄호지시
+    character: 그리폰
     normal_attack: 755155
     passive_skill: "200304"
     effect_ratio: 1.4
@@ -7562,7 +7560,7 @@
     rate: 28
     def: 99999
     level: 30100
-    character: 엘리트,범위 살상
+    character: 엘리트
     normal_attack: 300301
     passive_skill: "770043"
     effect_ratio: 1
@@ -7616,7 +7614,7 @@
     rate: 18
     def: 99999
     level: 30100
-    character: 고위협,정밀
+    character: 엘리트,정밀
     normal_attack: 300301
     passive_skill: "770043"
     effect_ratio: 1
@@ -10447,7 +10445,7 @@
     rate: 40
     def: 99999
     level: 100
-    character: 엘리트,M16A1,장갑
+    character: 그리폰
     normal_attack: 900556
     passive_skill: "900557,900558,900559,900560,900561,900562,900563,755000,770044"
     effect_ratio: 0.43
@@ -16202,7 +16200,7 @@
     boss_hp: 39000
     def: 99999
     level: 100
-    character: 엘리트,M16A1,장갑
+    character: 그리폰
     normal_attack: 900556
     passive_skill: "900557,900558,900559,900560,900561,900562,900563,119029,770044"
     effect_ratio: 0.41
@@ -16232,7 +16230,7 @@
     boss_hp: 230000
     def: 99999
     level: 100
-    character: 엘리트,M16A1,장갑
+    character: 그리폰
     normal_attack: 900556
     passive_skill: "900557,900558,900559,900560,900561,900562,900563,119029,770044"
     effect_ratio: 0.43
@@ -20775,7 +20773,7 @@
     boss_hp: 10500
     def: 99999
     level: 100
-    character: 엘리트,원거리,테크니션,정확
+    character: 엘리트,테크니션,정확
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
@@ -20803,7 +20801,7 @@
     boss_hp: 85000
     def: 99999
     level: 100
-    character: 엘리트,원거리,테크니션,정확
+    character: 엘리트,테크니션,정확
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
@@ -20831,7 +20829,7 @@
     boss_hp: 200000
     def: 99999
     level: 100
-    character: 엘리트,원거리,테크니션,정확
+    character: 엘리트,테크니션,정확
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
@@ -20859,7 +20857,7 @@
     boss_hp: 10000
     def: 99999
     level: 100
-    character: 엘리트,원거리,테크니션,정확
+    character: 엘리트,테크니션,정확
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
@@ -20887,7 +20885,7 @@
     boss_hp: 70000
     def: 99999
     level: 100
-    character: 엘리트,원거리,테크니션,정확
+    character: 엘리트,테크니션,정확
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
@@ -20915,7 +20913,7 @@
     boss_hp: 180000
     def: 99999
     level: 100
-    character: 엘리트,원거리,테크니션,정확
+    character: 엘리트,테크니션,정확
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
@@ -20943,7 +20941,7 @@
     boss_hp: 12500
     def: 99999
     level: 100
-    character: 엘리트,원거리,범위 피해
+    character: 엘리트,범위 피해
     normal_attack: 300307
     passive_skill: "120604,120605,120606,200303,119029,770044"
     effect_ratio: 1.55
@@ -20971,7 +20969,7 @@
     boss_hp: 95000
     def: 99999
     level: 100
-    character: 엘리트,원거리,범위 피해
+    character: 엘리트,범위 피해
     normal_attack: 300307
     passive_skill: "120604,120605,120606,200303,119029,770044"
     effect_ratio: 1.55
@@ -20999,7 +20997,7 @@
     boss_hp: 220000
     def: 99999
     level: 100
-    character: 엘리트,원거리,범위 피해
+    character: 엘리트,범위 피해
     normal_attack: 300307
     passive_skill: "120604,120605,120606,200303,119029,770044"
     effect_ratio: 1.55
@@ -21027,7 +21025,7 @@
     boss_hp: 10500
     def: 99999
     level: 100
-    character: 엘리트,원거리,범위 피해
+    character: 엘리트,범위 피해
     normal_attack: 300307
     passive_skill: "120604,120605,120606,200303,119029,770044"
     effect_ratio: 1.55
@@ -21055,7 +21053,7 @@
     boss_hp: 80000
     def: 99999
     level: 100
-    character: 엘리트,원거리,범위 피해
+    character: 엘리트,범위 피해
     normal_attack: 300307
     passive_skill: "120604,120605,120606,200303,119029,770044"
     effect_ratio: 1.55
@@ -21083,7 +21081,7 @@
     boss_hp: 200000
     def: 99999
     level: 100
-    character: 엘리트,원거리,범위 피해
+    character: 엘리트,범위 피해
     normal_attack: 300307
     passive_skill: "120604,120605,120606,200303,119029,770044"
     effect_ratio: 1.55
@@ -21286,7 +21284,7 @@
     boss_hp: 14000
     def: 99999
     level: 100
-    character: 엘리트,원거리,범위 피해
+    character: 엘리트,범위 피해
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029,770044"
     effect_ratio: 1.05
@@ -21314,7 +21312,7 @@
     boss_hp: 100000
     def: 99999
     level: 100
-    character: 엘리트,원거리,범위 피해
+    character: 엘리트,범위 피해
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029,770044"
     effect_ratio: 1.05
@@ -21342,7 +21340,7 @@
     boss_hp: 240000
     def: 99999
     level: 100
-    character: 엘리트,원거리,범위 피해
+    character: 엘리트,범위 피해
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029,770044"
     effect_ratio: 1.05
@@ -21370,7 +21368,7 @@
     boss_hp: 12000
     def: 99999
     level: 100
-    character: 엘리트,원거리,범위 피해
+    character: 엘리트,범위 피해
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029,770044"
     effect_ratio: 1.05
@@ -21398,7 +21396,7 @@
     boss_hp: 90000
     def: 99999
     level: 100
-    character: 엘리트,원거리,범위 피해
+    character: 엘리트,범위 피해
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029,770044"
     effect_ratio: 1.05
@@ -21426,7 +21424,7 @@
     boss_hp: 200000
     def: 99999
     level: 100
-    character: 엘리트,원거리,범위 피해
+    character: 엘리트,범위 피해
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029,770044"
     effect_ratio: 1.05
@@ -21454,7 +21452,7 @@
     boss_hp: 15000
     def: 99999
     level: 100
-    character: 엘리트,원거리,장갑,정확
+    character: 엘리트,장갑,정확
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -21483,7 +21481,7 @@
     boss_hp: 120000
     def: 99999
     level: 100
-    character: 엘리트,원거리,장갑,정확
+    character: 엘리트,장갑,정확
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -21512,7 +21510,7 @@
     boss_hp: 260000
     def: 99999
     level: 100
-    character: 엘리트,원거리,장갑,정확
+    character: 엘리트,장갑,정확
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -21541,7 +21539,7 @@
     boss_hp: 12000
     def: 99999
     level: 100
-    character: 엘리트,원거리,장갑,정확
+    character: 엘리트,장갑,정확
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -21570,7 +21568,7 @@
     boss_hp: 100000
     def: 99999
     level: 100
-    character: 엘리트,원거리,장갑,정확
+    character: 엘리트,장갑,정확
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -21599,7 +21597,7 @@
     boss_hp: 220000
     def: 99999
     level: 100
-    character: 엘리트,원거리,장갑,정확
+    character: 엘리트,장갑,정확
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -22974,7 +22972,7 @@
     boss_hp: 320000
     def: 99999
     level: 100
-    character: 엘리트,원거리,기교,정확
+    character: 엘리트,기교,정확
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
@@ -23002,7 +23000,7 @@
     boss_hp: 260000
     def: 99999
     level: 100
-    character: 엘리트,원거리,기교,정확
+    character: 엘리트,기교,정확
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
@@ -23030,7 +23028,7 @@
     boss_hp: 320000
     def: 99999
     level: 100
-    character: 엘리트,원거리,범위 피해
+    character: 엘리트,범위 피해
     normal_attack: 300307
     passive_skill: "120604,120605,120606,200303,119029,770044"
     effect_ratio: 1.55
@@ -23058,7 +23056,7 @@
     boss_hp: 260000
     def: 99999
     level: 100
-    character: 엘리트,원거리,범위 피해
+    character: 엘리트,범위 피해
     normal_attack: 300307
     passive_skill: "120604,120605,120606,200303,119029,770044"
     effect_ratio: 1.55
@@ -23145,7 +23143,7 @@
     boss_hp: 340000
     def: 99999
     level: 100
-    character: 엘리트,원거리,범위 피해
+    character: 엘리트,범위 피해
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029,770044"
     effect_ratio: 1.05
@@ -23173,7 +23171,7 @@
     boss_hp: 280000
     def: 99999
     level: 100
-    character: 엘리트,원거리,범위 피해
+    character: 엘리트,범위 피해
     normal_attack: 300304
     passive_skill: "120612,120613,120614,119029,770044"
     effect_ratio: 1.05
@@ -23201,7 +23199,7 @@
     boss_hp: 360000
     def: 99999
     level: 100
-    character: 엘리트,원거리,장갑,정확
+    character: 엘리트,장갑,정확
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -23230,7 +23228,7 @@
     boss_hp: 300000
     def: 99999
     level: 100
-    character: 엘리트,원거리,장갑,정확
+    character: 엘리트,장갑,정확
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -23259,7 +23257,7 @@
     boss_hp: 120000
     def: 99999
     level: 100
-    character: 엘리트,원거리,장갑,정확
+    character: 엘리트,장갑,정확
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -23288,7 +23286,7 @@
     boss_hp: 260000
     def: 99999
     level: 100
-    character: 엘리트,원거리,장갑,정확
+    character: 엘리트,장갑,정확
     normal_attack: 300327
     passive_skill: "120615,120616,120618,120619,120620,200303,119029,770044"
     effect_ratio: 0.94
@@ -23470,7 +23468,7 @@
     boss_hp: 12500
     def: 99999
     level: 100
-    character: 엘리트,원거리,기교,정확
+    character: 엘리트,기교,정확
     normal_attack: 300303
     passive_skill: "120601,120602,120603,119029,770044"
     effect_ratio: 1
@@ -23705,7 +23703,7 @@
     boss_hp: 260000
     def: 99999
     level: 100
-    character: 에사키 푸린
+    character: 엘리트
     normal_attack: 121901
     passive_skill: "121902,121903,121904,121905,121906,121907,121908,121909,121910,121911,121912,121913,121914,121915,121916,119029"
     effect_ratio: 1.1
@@ -23733,7 +23731,7 @@
     boss_hp: 280000
     def: 99999
     level: 100
-    character: 시마무라 타카시
+    character: 엘리트
     normal_attack: 122001
     passive_skill: "122002,122003,122004,119029"
     effect_ratio: 1.1
@@ -23761,7 +23759,7 @@
     boss_hp: 240000
     def: 99999
     level: 100
-    character: 미즈카네 스즈카
+    character: 엘리트
     normal_attack: 755318
     passive_skill: "755314,755315,755316,755317,755319,755320,755325,755326,119029"
     effect_ratio: 1.1
@@ -23789,7 +23787,7 @@
     boss_hp: 26000
     def: 99999
     level: 100
-    character: 에사키 푸린
+    character: 엘리트
     normal_attack: 121901
     passive_skill: "121902,121903,121904,121905,121906,121907,121908,121909,121910,121911,121912,121913,121914,121915,121916,119029"
     effect_ratio: 1.1
@@ -23817,7 +23815,7 @@
     boss_hp: 32000
     def: 99999
     level: 100
-    character: 시마무라 타카시
+    character: 엘리트
     normal_attack: 122001
     passive_skill: "122002,122003,122004,119029"
     effect_ratio: 1.1
@@ -23845,7 +23843,7 @@
     boss_hp: 28000
     def: 99999
     level: 100
-    character: 미즈카네 스즈카
+    character: 엘리트
     normal_attack: 755318
     passive_skill: "755314,755315,755316,755317,755319,755320,755325,755326,119029"
     effect_ratio: 1.1

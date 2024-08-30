@@ -40832,6 +40832,176 @@
     classification_id: 3002
   }
   {
+    id: 12112
+    type: 8
+    item_ids: 41-100,506-1000,8-1
+    gift: 100003-10
+    gemprice: 580
+    quota: 2002
+    giftbag_name: 9월 특별 패키지
+    event_code: dailyGiftbag
+    icon: Bumdle_package
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 12113
+    type: 8
+    item_ids: 506-100,605-1,516-200
+    gemprice: 158
+    quota: 2001
+    giftbag_name: 9월 일일 패키지
+    event_code: dailyGiftbag
+    icon: Bumdle_navy
+    daily_quota: 1
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 12114
+    type: 8
+    item_ids: 605-10,515-1000
+    gemprice: 1120
+    quota: 2003
+    giftbag_name: 혼합세력 지정보급
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 12115
+    type: 9
+    item_ids: 1613-1
+    gemprice: 4000
+    original_price: 10000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 카드배경: 세월의 흔적
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12116
+    type: 9
+    item_ids: 1654-1
+    gemprice: 4000
+    original_price: 10000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 카드배경: 스쳐가는 눈길
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12117
+    type: 9
+    item_ids: 1655-1
+    gemprice: 4000
+    original_price: 10000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 카드배경: 꿈과 같은 미소
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12118
+    type: 9
+    item_ids: 1540-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 아이콘: 메리 크리스마스다멍!
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12119
+    type: 9
+    item_ids: 1541-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 아이콘: 안아주세요!
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12120
+    type: 9
+    item_ids: 1566-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 아이콘: 입장 차이
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12121
+    type: 9
+    item_ids: 10604-1
+    gemprice: 2000
+    quota: 2001
+    giftbag_name: 초전도 펄스
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12122
+    type: 9
+    gift: 100003-1
+    gemprice: 150
+    quota: 2003
+    giftbag_name: 딸기치즈케익
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12123
+    type: 9
+    gift: 100002-1
+    gemprice: 60
+    quota: 2003
+    giftbag_name: 소프트콘
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12124
+    type: 9
+    gift: 100001-1
+    gemprice: 30
+    quota: 2003
+    giftbag_name: 막대사탕
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
     id: 30001
     type: 8
     gift: 8611-1
