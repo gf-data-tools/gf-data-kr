@@ -9185,6 +9185,79 @@
     class_id: 104
   }
   {
+    id: 10801
+    name: FM24 - 황금빛 만남을 위하여
+    fit_gun: 395
+    voice: 4
+    dialog: 우리 신품 브렌딩 마셔볼래요? 하하, 걱정 말아요. 아무리 그래도 보스 상대로 장사는 안 하니까요... 그냥 단순히 같이 한잔하자는 거예요.
+    order: 139
+    class_id: 105
+    skin_source: 2
+  }
+  {
+    id: 10802
+    name: JS 9 - 파르페 마티니
+    fit_gun: 234
+    voice: 4
+    dialog: 이, 이렇게 높은 구두, 아직 익숙하지 않은데... 지휘관님, 손 좀 잡아주실래요? 저 넘어질 것 같아서...
+    order: 139
+    class_id: 105
+    skin_source: 2
+  }
+  {
+    id: 10803
+    name: LTLX7000 - 술주정 맥캘란
+    fit_gun: 323
+    voice: 4
+    dialog: 응, 지휘관이 이겼어. 이 테이블 위의 모든 상품 다 지휘관 거야... 물론, 나까지 포함해서.
+    illustrator_cv: YoYo,Tanaka Rie,
+    order: 139
+    class_id: 105
+    skin_source: 2
+  }
+  {
+    id: 10805
+    name: SR-3MP - 건 앤 로즈 세레모니
+    fit_gun: 135
+    voice: 4
+    dialog: 선물상자에 숨어있다가 뿅하고 튀어나와서, 와악 하고 덮치는 거야... 히히, 분명 깜짝 놀라서 비명지르겠지? 정말 기대된다~!
+    gift_position: "-244.7,417.4"
+    order: 139
+    class_id: 105
+    skin_source: 1
+  }
+  {
+    id: 10806
+    name: 56-1식 - 찹쌀향 베일리
+    fit_gun: 66
+    voice: 4
+    dialog: 보세요, 지휘관님! 향기 듬뿍한 쫑즈를 사왔어요! ...이 옷차림에 안 어울린다고요? 그치만 배가 고픈걸요, 바니걸도 밥은 먹어야죠!
+    gift_position: "-74.7,31.8"
+    order: 139
+    class_id: 105
+    skin_source: 1
+  }
+  {
+    id: 10807
+    name: RMB-93 - 라즈베리에 취한 밤
+    fit_gun: 159
+    voice: 4
+    dialog: 지휘관, 눈빛을 보니까 조금 많이 마신 모양이네? ...후훗, 아이스티 한잔하고 해장해.
+    order: 139
+    class_id: 105
+    skin_source: 2
+  }
+  {
+    id: 10808
+    name: MP40 - 스페이드 샴페인
+    fit_gun: 25
+    voice: 4
+    dialog: 안녕하세요, 지휘관님. 주문하신 샴페인입니다... 앗, 제가 따라드릴까요? 네, 기쁘게 봉사하겠습니다!
+    order: 139
+    class_id: 105
+    skin_source: 2
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     fit_gun: 57

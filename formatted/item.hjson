@@ -15311,6 +15311,69 @@
     rank: 1
   }
   {
+    id: 2559
+    type: 5
+    arg: "1"
+    code: profilePic_Bunny24_FM24
+    item_name: FM24 - 황금빛 만남을 위하여
+    introduction: FM24 - 황금빛 만남을 위하여
+    rank: 1
+  }
+  {
+    id: 2560
+    type: 5
+    arg: "1"
+    code: profilePic_Bunny24_JS9mm
+    item_name: JS 9 - 파르페 마티니
+    introduction: JS 9 - 파르페 마티니
+    rank: 1
+  }
+  {
+    id: 2561
+    type: 5
+    arg: "1"
+    code: profilePic_Bunny24_LTLX7000
+    item_name: LTLX7000 - 술주정 맥캘란
+    introduction: LTLX7000 - 술주정 맥캘란
+    rank: 1
+  }
+  {
+    id: 2562
+    type: 5
+    arg: "1"
+    code: profilePic_Bunny24_SR3MP
+    item_name: SR-3MP - 건 앤 로즈 세레모니
+    introduction: SR-3MP - 건 앤 로즈 세레모니
+    rank: 1
+  }
+  {
+    id: 2563
+    type: 5
+    arg: "1"
+    code: profilePic_Bunny24_56-1type
+    item_name: 56-1식 - 찹쌀향 베일리
+    introduction: 56-1식 - 찹쌀향 베일리
+    rank: 1
+  }
+  {
+    id: 2564
+    type: 5
+    arg: "1"
+    code: profilePic_Bunny24_RMB93
+    item_name: RMB-93 - 라즈베리에 취한 밤
+    introduction: RMB-93 - 라즈베리에 취한 밤
+    rank: 1
+  }
+  {
+    id: 2565
+    type: 5
+    arg: "1"
+    code: profilePic_Bunny24_MP40
+    item_name: MP40 - 스페이드 샴페인
+    introduction: MP40 - 스페이드 샴페인
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -23987,6 +24050,39 @@
     code: package_choose
     item_name: 고등 전용장비 선택 코드
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700037
+    type: 15
+    arg: "1700037"
+    code: package_choose
+    item_name: 기초장비 선택 코드
+    introduction: 전선협약-회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700038
+    type: 15
+    arg: "1700038"
+    code: package_choose
+    item_name: 기초 전용장비 선택 코드
+    introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700039
+    type: 15
+    arg: "1700039"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1
