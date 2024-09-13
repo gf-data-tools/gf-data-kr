@@ -1936,6 +1936,7 @@
     auto_select_id: 7002
     is_show: 1
     obtain_ids: "3,3001"
+    sp_description: 타깃-2 화력*3
   }
   {
     id: 78
@@ -1967,6 +1968,7 @@
     auto_select_id: 7002
     is_show: 1
     obtain_ids: "3,3001,3028"
+    sp_description: 타깃-2 화력*3
   }
   {
     id: 79
@@ -2000,6 +2002,7 @@
     auto_select_id: 7002
     is_show: 1
     obtain_ids: "3,3001,3028"
+    sp_description: 타깃-2 화력*3
   }
   {
     id: 80
@@ -2033,6 +2036,7 @@
     auto_select_id: 7002
     is_show: 1
     obtain_ids: "3001,3028"
+    sp_description: 타깃-2 화력*3
   }
   {
     id: 81
@@ -5063,6 +5067,7 @@
     group_id: "28"
     is_show: 1
     obtain_ids: "3030"
+    sp_description: 타깃-2
   }
   {
     id: 175
@@ -6473,6 +6478,7 @@
     auto_select_id: 19027
     is_show: 1
     obtain_ids: "3005"
+    sp_description: 타깃-2
     description_skill: 115807
   }
   {
@@ -6770,6 +6776,7 @@
     auto_select_id: 6004
     is_show: 1
     obtain_ids: "3001,3028"
+    sp_description: 제대 명중+10%
   }
   {
     id: 226
@@ -6911,6 +6918,7 @@
     auto_select_id: 7003
     is_show: 1
     obtain_ids: "3001,3028"
+    sp_description: 타깃+2
   }
   {
     id: 231
@@ -6945,6 +6953,7 @@
     auto_select_id: 7003
     is_show: 1
     obtain_ids: "3001,3028"
+    sp_description: 타깃+2
   }
   {
     id: 232
@@ -7072,6 +7081,7 @@
     auto_select_id: 7004
     is_show: 1
     obtain_ids: "3001,3028"
+    sp_description: 받는 피해-3
   }
   {
     id: 236
@@ -7174,6 +7184,7 @@
     group_id: "9"
     is_show: 1
     obtain_ids: "3016"
+    sp_description: 제대 명중+10%
   }
   {
     id: 239
@@ -7999,6 +8010,7 @@
     auto_select_id: 19035
     is_show: 1
     obtain_ids: "3016"
+    sp_description: 제대 명중+10%
   }
   {
     id: 264
@@ -8702,6 +8714,7 @@
     group_id: "11"
     is_show: 1
     obtain_ids: "3016"
+    sp_description: 제대 명중+10%
   }
   {
     id: 285
@@ -8770,6 +8783,7 @@
     auto_select_id: 19042
     is_show: 1
     obtain_ids: "3016"
+    sp_description: 제대 명중+20%
   }
   {
     id: 287
