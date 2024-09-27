@@ -449,4 +449,26 @@
     desc: 이벤트 기간: 2022.12.16-2023.01.06
     scene_name: active_eclipseslogo
   }
+  {
+    id: 40
+    campaign_id: -63
+    tag: EP.|13.25
+    order: 9
+    name: 이중난수
+    chapter_name: 비밀의 소용돌이+
+    bg_code: missionselect_DualRandomness_RE
+    event_prize_level: 10008
+    rank_id: "308"
+  }
+  {
+    id: 41
+    campaign_id: -65
+    tag: EP.|13.5
+    order: 10
+    name: 거울단계
+    chapter_name: 안개 거두기+
+    bg_code: missionselect_MirrorStage_RE
+    event_prize_level: 10009
+    rank_id: "309"
+  }
 ]

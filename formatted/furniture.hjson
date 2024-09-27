@@ -30365,6 +30365,34 @@
     rotate: "3"
   }
   {
+    id: 20150
+    name: 보석 장식 석상(좌)
+    classes: 81
+    type: 201
+    space: "6,4,1,1,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 조용한 석상은 세월의 풍파에 조각되면서 무수한 이들의 왕래를 지켜봤고, 사랑과 이별의 이야기를 기록했습니다.
+    code: 2024NationalDay_deco1
+    texture_type: "1"
+    offset: "0.000,-0.209,0.000"
+    rotate: "2"
+  }
+  {
+    id: 20151
+    name: 보석 장식 석상(우)
+    classes: 81
+    type: 201
+    space: "6,4,1,1,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 조용한 석상은 세월의 풍파에 세례받으며 무수한 이들의 세월을 수호하였고, 사랑과 희망의 우화를 읽어주었습니다.
+    code: 2024NationalDay_deco2
+    texture_type: "1"
+    offset: "0.000,-0.209,0.000"
+    rotate: "2"
+  }
+  {
     id: 30001
     name: 마카로프 - 잭오랜턴
     classes: 300
@@ -46497,6 +46525,21 @@
     decompose_gift: 100003
     description: LWMMG의 포스터
     code: poster_BattlePass_LWMMG
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330023
+    name: 마티니 헨리-딸기빛 두근거림
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 마티니 헨리의 포스터
+    code: poster_BattlePass_MartiniHenry
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

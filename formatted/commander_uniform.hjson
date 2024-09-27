@@ -3714,6 +3714,20 @@
     color_icon_id: "958"
   }
   {
+    id: 6040
+    name: 풍화인
+    description: 가을 첫 서리가 지고, 단풍은 불처럼 물들고, 아침 노을은 반짝이네. 바람따라 흩날리는 단풍이 칼끝에 닿아 경쾌한 울림을 자아낸다. "어머, 지휘관님, 191이 가져온 소설이라도 읽으셨나요?" 소녀의 부름에 검객의 비밀공연은 서둘러 막을 내렸다.
+    code: BodyAcco
+    icon: commander_6040_icon
+    type: 4
+    uniform_class: "60"
+    color_normal: Commander_6040_N
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "-0.172,0.008"
+    color_icon_id: "959"
+  }
+  {
     id: 9920
     name: 활기찬 위장
     description: 언제나 가장 좋은 모습으로.

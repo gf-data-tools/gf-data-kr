@@ -604,6 +604,17 @@
     source_description: 8주년 이벤트 보상
   }
   {
+    id: 60
+    name: 가을의 검객
+    description: 칼빛 닿는 곳, 단풍잎 흩날린다. 세월의 흐름과 계절의 순환의 아름다움을 느끼자.
+    group_id: "102"
+    code: commander_6040_icon
+    path: CLASS60
+    des_year: "2024"
+    source: 2
+    source_description: 2024 가을 출석
+  }
+  {
     id: 99
     name: 거짓말 마스크
     description: 내 생각을 감추고, 내 바람을 드러낸다.
