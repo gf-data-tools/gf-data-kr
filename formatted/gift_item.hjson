@@ -283,6 +283,7 @@
     normal_description: 선물 시 호감도 획득
     bonus_description: 카리나 코스튬 획득
     description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    sort: 2000
   }
   {
     id: 202
@@ -296,6 +297,7 @@
     normal_description: 선물 시 호감도 획득
     bonus_description: 카리나 코스튬 획득
     description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    sort: 2000
   }
   {
     id: 203
@@ -309,6 +311,7 @@
     normal_description: 선물 시 호감도 획득
     bonus_description: 카리나 코스튬 획득
     description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    sort: 2000
   }
   {
     id: 204
@@ -322,6 +325,7 @@
     normal_description: 선물 시 호감도 획득
     bonus_description: 카리나 코스튬 획득
     description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    sort: 2000
   }
   {
     id: 205
@@ -335,6 +339,7 @@
     normal_description: 선물 시 호감도 획득
     bonus_description: 카리나 코스튬 획득
     description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    sort: 2000
   }
   {
     id: 206
@@ -348,6 +353,7 @@
     normal_description: 선물 시 호감도 획득
     bonus_description: 카리나 코스튬 획득
     description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    sort: 2000
   }
   {
     id: 207
@@ -361,6 +367,7 @@
     normal_description: 선물 시 호감도 획득
     bonus_description: 카리나 코스튬 획득
     description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    sort: 2000
   }
   {
     id: 208
@@ -374,6 +381,7 @@
     normal_description: 선물 시 호감도 획득
     bonus_description: 카리나 코스튬 획득
     description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    sort: 2000
   }
   {
     id: 209
@@ -387,6 +395,7 @@
     normal_description: 선물 시 호감도 획득
     bonus_description: 카리나 코스튬 획득
     description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    sort: 2000
   }
   {
     id: 210
@@ -400,6 +409,7 @@
     normal_description: 선물 시 호감도 획득
     bonus_description: 페르시카 코스튬 획득
     description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    sort: 2000
   }
   {
     id: 301
@@ -12427,6 +12437,118 @@
     skin: 10808
     poster: 310808
     code: gift_bundle_Bunny24_MP40
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10901
+    name: HS.50 - 심해의 저승사자
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 348
+    skin: 10901
+    poster: 310901
+    code: gift_bundle_Revenge2024_HS50
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10902
+    name: M1887 - 핏빛 가시덩굴
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 151
+    skin: 10902
+    poster: 310902
+    code: gift_bundle_Revenge2024_M1887
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10903
+    name: SPAS-15 - 판의 속삭임
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 366
+    skin: 10903
+    poster: 310903
+    code: gift_bundle_Revenge2024_SPAS15
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10904
+    name: SR-2 - 살무사 키스
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 347
+    skin: 10904
+    poster: 310904
+    code: gift_bundle_Revenge2024_SR2
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10905
+    name: 웰로드 MkⅡ - 꼭두각시 아리아
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 114
+    skin: 10905
+    poster: 310905
+    code: gift_bundle_Revenge2024_Welrod
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10906
+    name: ST AR-15 - 내가 바로 혼돈
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 57
+    skin: 10906
+    poster: 310906
+    code: gift_bundle_Revenge2024_AR15
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 10907
+    name: C14 - 명계의 피안화
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 308
+    skin: 10907
+    poster: 310907
+    code: gift_bundle_Revenge2024_C14
     normal_description: 선물 시 호감도 획득
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.

@@ -8072,6 +8072,42 @@
     code_b: Console_Icon
   }
   {
+    id: 9720405
+    code_a: GunBox
+    description_a: 아군 제대
+    description_b: 물자
+    description_c: 줍기
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 9720406
+    code_a: GunBox
+    description_a: 아군 제대
+    description_b: 물자
+    description_c: 놓기
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 9720407
+    code_a: Sundries
+    description_a: 아군 제대
+    description_b: 잡동사니
+    description_c: 줍기
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 9720408
+    code_a: Sundries
+    description_a: 아군 제대
+    description_b: 잡동사니
+    description_c: 놓기
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
     id: 44360002
     code_a: golyatplg_d
     description_a: 투척식 골리앗

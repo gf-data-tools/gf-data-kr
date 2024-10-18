@@ -2871,6 +2871,7 @@
     code: Mrsgray
     introduce: 패러데우스의 "니토" 중 하나, 의학에 정통하였고, 뛰어나면서도 침착한 두뇌를 가졌다. 자신 주변의 모든 유리한 요소를 이용해서 싸우며, 적을 약화해 우세를 취하는 것이 특기다.
     forces: 3
+    if_capture: 1
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5699,6 +5700,29 @@
     character: "303,309,310"
     enemy_skill: "9,173"
     launch_time: 2016-5-20 00:00:00
+  }
+  {
+    sub_id: 247001
+    id: 247
+    name: 헤베
+    sub_name: 헤베
+    type: 1
+    code: HebeBoss
+    introduce: 페러데우스의 엘리트 유닛, 유령처럼 장막 뒤에 숨어 지나가는 이들을 지켜본다. 겉보기엔 우아한 귀부인 같지만, 담소 중에 이미 목표를 점찍어두고 상대가 죽을 날을 선고한다.
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 이 유닛은 유닛을 즉사시키는 스킬을 가지고 있습니다. 신중하게 대응하세요!
+    character: "1001,216,329"
+    enemy_skill: "243,244,245"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
   }
   {
     sub_id: 100001001

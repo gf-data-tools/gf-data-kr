@@ -1381,6 +1381,97 @@
     present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트 중 무작위 아이템을 획득합니다.
   }
   {
+    item_id: 1500164
+    type: 2
+    poster: PackageImage_IsolationForest_1
+    drop_package_id: 2499
+    due_time: 2024/11/25 23:59:59
+    due_prize_id: 7395
+    present_info: 사용 시 "C14 - 신입사원", "C14 - 아크 문라이트"및 "C14 - 세신박사" 중에서 보유하지 않은 코스튬을 하나 무작위로 얻습니다. 전부 보유한 경우 전체 범위에서 무작위 하나를 얻습니다.
+  }
+  {
+    item_id: 1500165
+    type: 2
+    poster: PackageImage_IsolationForest_2
+    drop_package_id: 2500
+    due_time: 2024/11/25 23:59:59
+    due_prize_id: 7396
+    present_info: 사용 시 "HS.50-여울가 소나무", "HS.50-노을 진 바다로", "HS.50-심취한 눈송이", "M1887-위쳐 제네럴", "SPAS-15-순백 복슬복슬 파티", "SR-2-홈런여왕"및 "SR-2-거품 종결자" 중에서 보유하지 않은 코스튬을 하나 무작위로 얻습니다. 전부 보유한 경우 전체 범위에서 무작위 하나를 얻습니다.
+  }
+  {
+    item_id: 1500166
+    type: 2
+    poster: PackageImage_IsolationForest_3
+    drop_package_id: 2501
+    due_time: 2024/11/25 23:59:59
+    due_prize_id: 7396
+    present_info: 사용 시 "웰로드 MKII-영국 연인", "웰로드 MKII-해 질 무렵의 위기", "스털링-투시(자화상)", "AR-18-루어 미끼", "Zas M21-총성을 울리는 설녀", "Zas M21-화이트 퀸", "Zas M21-꽃에 숨은 진심" 중에서 보유하지 않은 코스튬을 하나 무작위로 얻습니다. 전부 보유한 경우 전체 범위에서 무작위 하나를 얻습니다.
+  }
+  {
+    item_id: 1500167
+    type: 2
+    poster: PackageImage_IsolationForest_4
+    drop_package_id: 2502
+    due_time: 2024/11/25 23:59:59
+    due_prize_id: 7397
+    present_info: 사용 시 "웰로드 MKII-그림자 왕", "스털링-더위에 녹는다", "스티븐스 520-보라장미의 말"및 "SCAR-H-사모는 스파이가 아니야" 중에서 보유하지 않은 코스튬을 하나 무작위로 얻습니다. 전부 보유한 경우 전체 범위에서 무작위 하나를 얻습니다.
+  }
+  {
+    item_id: 1500168
+    type: 1
+    poster: PackageImage_rank4
+    prize_id: 2661
+    due_time: 2025/03/25  23:59:59
+    due_prize_id: 1993
+    present_info:
+      '''
+      인형 도감 번호 402번 이내의 4성 인형 중 하나를 선택해 얻을 수 있습니다.
+      [창고]에서 전술인형을 선택하길 바랍니다.
+      선택 가능 범위에서 제외되는 인형: M4A1, M16A1, M4 SOPMOD II, ST AR-15, 97식 산탄총.
+      '''
+  }
+  {
+    item_id: 1500169
+    type: 1
+    poster: PackageImage_rank5
+    prize_id: 2662
+    due_time: 2025/03/25  23:59:59
+    due_prize_id: 1994
+    present_info:
+      '''
+      인형 도감 번호 402번 이내의 5성 인형 중 하나를 선택해 얻을 수 있습니다.
+      [창고]에서 전술인형을 선택하길 바랍니다.
+      선택 가능 범위에서 제외되는 인형: RO635.
+      '''
+  }
+  {
+    item_id: 1500170
+    type: 1
+    poster: PackageImage_Sangvis
+    prize_id: 2663
+    due_time: 2025/03/25  23:59:59
+    due_prize_id: 2598
+    present_info:
+      '''
+      혼합세력 도감 번호 216번 이내의 태생 3성 혼합세력 중 하나를 선택해 얻을 수 있습니다.
+      [창고]에서 혼합세력유닛을 선택하길 바랍니다.
+      *"혼합세력" 시스템을 아직 해금하지 않은 경우 얻은 유닛을 바로 사용할 수 없습니다. 해당 시스템을 해금한 이후 정상 사용 가능합니다.
+      '''
+  }
+  {
+    item_id: 1500171
+    type: 1
+    poster: PackageImage_Equip
+    prize_id: 2664
+    due_time: 2025/03/25  23:59:59
+    due_prize_id: 2599
+    present_info:
+      '''
+      전용장비를 제외하고 2024년 8월 9일 이전까지 추가된 5성 장비 중 하나를 선택해 획득할 수 있습니다.
+      [창고]에서 장비를 선택하길 바랍니다.
+      '''
+  }
+  {
     item_id: 1700001
     type: 1
     prize_id: 150089
@@ -1689,6 +1780,30 @@
     type: 1
     prize_id: 150127
     due_time: 2024/12/01  00:00:00
+    due_prize_id: 140075
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
+  }
+  {
+    item_id: 1700040
+    type: 1
+    prize_id: 150128
+    due_time: 2024/12/29  00:00:00
+    due_prize_id: 140073
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
+  }
+  {
+    item_id: 1700041
+    type: 1
+    prize_id: 150129
+    due_time: 2024/12/29  00:00:00
+    due_prize_id: 140074
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
+  }
+  {
+    item_id: 1700042
+    type: 1
+    prize_id: 150130
+    due_time: 2024/12/29  00:00:00
     due_prize_id: 140075
     present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
   }

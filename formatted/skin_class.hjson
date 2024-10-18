@@ -524,4 +524,9 @@
     theme_type: 9
     name: 매혹의 거래
   }
+  {
+    id: 106
+    theme_type: 9
+    name: 로스트 월드
+  }
 ]

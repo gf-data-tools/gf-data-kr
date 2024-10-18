@@ -19,15 +19,6 @@
   }
   {
     identity: 3
-    type: win_armor
-    count: 150
-    title: 주간 과제: 작전행동
-    content: 전투에서 승리하면서 장갑유닛 150개 처치.
-    prize_id: 8309
-    exchange_prize_id: 8316
-  }
-  {
-    identity: 4
     type: sangvis_daily_retrieval
     count: 8
     title: 주간 과제: 통합회수
@@ -37,16 +28,7 @@
     exchange_prize_id: 8316
   }
   {
-    identity: 5
-    type: chess
-    count: 3
-    title: 주간 과제: 체스배틀
-    content: 러프베리체스 3판 완료.(연습 제외)
-    prize_id: 8309
-    exchange_prize_id: 8316
-  }
-  {
-    identity: 6
+    identity: 4
     type: upgrade_skill
     count: 3
     title: 주간 과제: 집중특훈
@@ -56,7 +38,7 @@
     exchange_prize_id: 8316
   }
   {
-    identity: 7
+    identity: 5
     type: sp_develop
     count: 4
     title: 주간 과제: 군비확장
@@ -66,12 +48,30 @@
     exchange_prize_id: 8316
   }
   {
-    identity: 8
+    identity: 6
     type: map_capture
-    count: 20
+    count: 15
     title: 주간 과제: 회색지대 탐사
-    content: 회색지대 지점을 누적 20개 점령
+    content: 회색지대 지점을 누적 15개 점령.
     function_control_id: 29
+    prize_id: 8309
+    exchange_prize_id: 8316
+  }
+  {
+    identity: 7
+    type: daily_complete
+    count: 15
+    title: 주간 과제: 업무 처리
+    content: 일일 임무 누적 15개 완수.
+    prize_id: 8309
+    exchange_prize_id: 8316
+  }
+  {
+    identity: 8
+    type: win_boss
+    count: 1
+    title: 주간 과제: 에이스 킬러
+    content: 전투에서 승리하며 보스 유닛 1개 처치.
     prize_id: 8309
     exchange_prize_id: 8316
   }

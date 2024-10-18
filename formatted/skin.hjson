@@ -154,6 +154,7 @@
     dialog: 좋아요~ 배팅 시간이에요. 지휘관님의 승산은 과연 얼마나 될까요?
     order: 2
     class_id: 2
+    skin_source: 3
   }
   {
     id: 103
@@ -1846,7 +1847,7 @@
     dialog: 후후~ 지휘관, 정말 재미있는 디자인으로 골랐는걸? 어때 만족했어?
     order: 12
     class_id: 11
-    skin_source: 2
+    skin_source: 3
   }
   {
     id: 1201
@@ -1951,6 +1952,7 @@
     dialog: 지휘관님, 과음하지 않도록 주의해주세요...취하셨다면 제게 맡겨주세요.
     order: 14
     class_id: 13
+    skin_source: 3
   }
   {
     id: 1401
@@ -5568,6 +5570,15 @@
     note: 오리지널
   }
   {
+    id: 5078
+    name: Zas M21-오리지널
+    fit_gun: 20196
+    voice: 4
+    is_hidden: 2
+    dialog: 오리지널
+    note: 오리지널
+  }
+  {
     id: 5101
     name: 류 소총 - 버드나무 여우불
     fit_gun: 316
@@ -7213,7 +7224,7 @@
     dialog: 힘들다... 이 애들은 바다를 처음 보는 건가? 냅다 바다로 자폭돌격을 하니까 일일이 끌고와야 했어... 오후 내내.
     order: 88
     class_id: 77
-    skin_source: 2
+    skin_source: 3
   }
   {
     id: 7302
@@ -7672,6 +7683,7 @@
     illustrator_cv: 人力,Onishi Saori,
     order: 99
     class_id: 84
+    skin_source: 3
   }
   {
     id: 8001
@@ -7754,6 +7766,7 @@
     illustrator_cv: YoYo,Ikadai Kanae,
     order: 100
     class_id: 85
+    skin_source: 3
   }
   {
     id: 8101
@@ -7821,6 +7834,7 @@
     illustrator_cv: 小星,Amamiya Sora,
     order: 103
     class_id: 86
+    skin_source: 3
   }
   {
     id: 8108
@@ -7979,6 +7993,7 @@
     illustrator_cv: Alize,Taneda Risa,
     order: 108
     class_id: 88
+    skin_source: 3
   }
   {
     id: 8401
@@ -8075,7 +8090,7 @@
     dialog: 파도 소리는 너무 시끄럽지만, 산속 맑은 샘의 소리는 마음이 편해지죠... 지휘관님도 그런 이유로 여기에 오신 거겠죠?
     order: 113
     class_id: 90
-    skin_source: 2
+    skin_source: 3
   }
   {
     id: 8503
@@ -8086,7 +8101,7 @@
     illustrator_cv: 星迴,Yukino Satsuki,
     order: 113
     class_id: 90
-    skin_source: 2
+    skin_source: 3
   }
   {
     id: 8504
@@ -8096,7 +8111,7 @@
     dialog: 바다 낚시는 쫓고 쫓기는 놀이로, 사냥감과 사냥꾼이 한 순간 뒤집힐 수 있습니다. 사나운 대어가 홀로 떠도는 "작은 물고기"에 이끌렸을 때, 제 사냥감이 될 운명이 되는 것이죠.
     order: 113
     class_id: 90
-    skin_source: 2
+    skin_source: 3
   }
   {
     id: 8505
@@ -8106,7 +8121,7 @@
     dialog: 자외선 차단 물품 안 챙겼나요, 지휘관님? 음, 그럴 줄 알았으면 하나 더 챙겼을 텐데... 그럼... 빨리 제 곁에 앉으세요. 여기 나무 그늘도 있고 제 차양모도 있잖아요!
     order: 113
     class_id: 90
-    skin_source: 2
+    skin_source: 3
   }
   {
     id: 8506
@@ -8116,7 +8131,7 @@
     dialog: 패스볼 시합 우승의 비결? 간단하지! 이렇게 반듯이 누으면 몸이 저절로 물에 뜨니까 두 손으로 공을 받으면... 어라라? 지휘관은 왜 가라앉는 거야!?
     order: 113
     class_id: 90
-    skin_source: 2
+    skin_source: 3
   }
   {
     id: 8507
@@ -8255,6 +8270,7 @@
     illustrator_cv: ditto,Shirasu Saho,
     order: 114
     class_id: 91
+    skin_source: 3
   }
   {
     id: 8701
@@ -9256,6 +9272,78 @@
     order: 139
     class_id: 105
     skin_source: 2
+  }
+  {
+    id: 10901
+    name: HS.50 - 심해의 저승사자
+    fit_gun: 348
+    voice: 4
+    dialog: 일단 사람을 잔혹한 방식으로 감금하고, 소소한 은혜를 베풀면 불쌍한 인질은 자신도 모르게 납치범에게 반하고 만다는데... 혹시 저의 첫번째 죄수가 되어주시겠나요?
+    order: 141
+    class_id: 106
+    skin_source: 2
+  }
+  {
+    id: 10902
+    name: M1887 - 핏빛 가시덩굴
+    fit_gun: 151
+    voice: 4
+    dialog: 내 땅과 지휘관을 건들 생각하기 전에 자신의 실력부터 가늠해야지. 귀찮아? 그럼 내 칼과 총알 맛을 봐야지.
+    illustrator_cv: 二花,Nabatame Hitomi,
+    order: 141
+    class_id: 106
+    skin_source: 1
+  }
+  {
+    id: 10903
+    name: SPAS-15 - 판의 속삭임
+    fit_gun: 366
+    voice: 4
+    dialog: 포로를 깔끔하게 처분하기보다는 천천히 의지를 깎아서 그들이 절망에 몸부림치는 것을 감상하는 게 훨씬 재밌지 않아? 지휘관도 내 제안이 마음에 들지?
+    order: 141
+    class_id: 106
+    skin_source: 2
+  }
+  {
+    id: 10904
+    name: SR-2 - 살무사 키스
+    fit_gun: 347
+    voice: 4
+    dialog: 들린다... 깨물기, 발버둥, 살이 물어뜯기는 소리가 어울러진 하모니가! 하아, 사냥도 참 지루한걸... 언제 재밌는 녀석이 안 나타나려나?
+    order: 141
+    class_id: 106
+    skin_source: 2
+  }
+  {
+    id: 10905
+    name: 웰로드 MkⅡ - 꼭두각시 아리아
+    fit_gun: 114
+    voice: 4
+    dialog: 운운중생은 모두 "운명"의 실에 매달린 꼭두각시에 불과해... 하지만 나는 그 실을 끊는 반역자가 되겠다.
+    gift_position: "-100.3,113.7"
+    order: 141
+    class_id: 106
+    skin_source: 1
+  }
+  {
+    id: 10906
+    name: ST AR-15 - 내가 바로 혼돈
+    fit_gun: 57
+    voice: 4
+    dialog: 해체, 분해, 진열... 그 다음엔 어쩔 생각이야? 질서가 모든 것이라 착각한다면, 모든 쇠조각마다 폭풍을 일으킬 수 있다는 것을 보여줄게.
+    order: 141
+    class_id: 106
+    skin_source: 2
+  }
+  {
+    id: 10907
+    name: C14 - 명계의 피안화
+    fit_gun: 308
+    voice: 4
+    dialog: 저승길에 활짝 피는 예쁜 꽃을 따왔어. 얘들과 함께면 가는 길이 외롭지 않겠지... 마음 준비됐어? 그 목숨을 가져갈게~
+    gift_position: "-278.9,-38.6"
+    order: 141
+    class_id: 106
   }
   {
     id: 30001

@@ -1896,6 +1896,22 @@
     offset: "0,0"
   }
   {
+    id: 9720401
+    name: 물자
+    code: GunBox
+    description: 물자
+    size: 1
+    offset: "0,0"
+  }
+  {
+    id: 9720402
+    name: 장애물
+    code: Sundries
+    description: 장애물
+    size: 1
+    offset: "0,0"
+  }
+  {
     id: 9999999
     name: 【표식】일반 반복중단 효과음
     code: Empty

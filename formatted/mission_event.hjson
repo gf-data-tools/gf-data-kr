@@ -3,48 +3,56 @@
     id: 1
     type: 2
     mission_campaign: "-2,-3,-4"
+    event_name: 저체온증
     init_mission_id: "10005"
   }
   {
     id: 2
     type: 2
     mission_campaign: "-6,-7"
+    event_name: 큐브 작전+
     init_mission_id: "10018"
   }
   {
     id: 3
     type: 2
     mission_campaign: "-10,-11,-12"
+    event_name: 심층투영
     init_mission_id: "10030"
   }
   {
     id: 4
     type: 2
     mission_campaign: "-16,-17,-18"
+    event_name: 특이점
     init_mission_id: "10092"
   }
   {
     id: 5
     type: 2
     mission_campaign: "-24,-25,-26,-28"
+    event_name: 난류연속
     init_mission_id: "10156"
   }
   {
     id: 6
     type: 2
     mission_campaign: "-31"
+    event_name: 이성질체
     init_mission_id: "10194"
   }
   {
     id: 7
     type: 2
     mission_campaign: "-33"
+    event_name: 연쇄분열
     init_mission_id: "10294"
   }
   {
     id: 8
     type: 2
     mission_campaign: "-36"
+    event_name: 편극광
     init_mission_id: "10426"
   }
   {
@@ -87,54 +95,63 @@
     id: 18
     type: 2
     mission_campaign: "-37"
+    event_name: 사진관 미스테리
     init_mission_id: "10481"
   }
   {
     id: 19
     type: 2
     mission_campaign: "-51"
+    event_name: 고정점
     init_mission_id: "11011"
   }
   {
     id: 20
     type: 2
     mission_campaign: "-50"
+    event_name: 사랑의 조리법
     init_mission_id: "11083"
   }
   {
     id: 21
     type: 2
     mission_campaign: "-41"
+    event_name: 이중난수
     init_mission_id: "10528"
   }
   {
     id: 22
     type: 2
     mission_campaign: "-53"
+    event_name: 이성질체
     init_mission_id: "11116"
   }
   {
     id: 23
     type: 2
     mission_campaign: "-40"
+    event_name: 바다 저 멀리
     init_mission_id: "10504"
   }
   {
     id: 24
     type: 2
     mission_campaign: "-47"
+    event_name: 웨이브 랭글러
     init_mission_id: "10780"
   }
   {
     id: 25
     type: 2
     mission_campaign: "-52"
+    event_name: 라이칸의 성역
     init_mission_id: "11098"
   }
   {
     id: 26
     type: 1
     mission_campaign: "-54"
+    event_name: 세로변형
     draw_event_id: "400,401,402,403,404"
     start_time: 2022-09-19 15:00:00
     end_time: 2022-10-28 15:00:00
@@ -144,42 +161,49 @@
     id: 27
     type: 2
     mission_campaign: "-42"
+    event_name: 고치 속 나비
     init_mission_id: "10588"
   }
   {
     id: 28
     type: 2
     mission_campaign: "-34"
+    event_name: 팬텀 신드롬
     init_mission_id: "10381"
   }
   {
     id: 29
     type: 2
     mission_campaign: "-44"
+    event_name: 거울단계
     init_mission_id: "10632"
   }
   {
     id: 30
     type: 2
     mission_campaign: "-55"
+    event_name: 종언의 꽃밭+
     init_mission_id: "11320"
   }
   {
     id: 31
     type: 2
     mission_campaign: "-56"
+    event_name: 사로스 주기
     init_mission_id: "11243"
   }
   {
     id: 32
     type: 2
     mission_campaign: "-35"
+    event_name: 거룩한 밤 광상곡
     init_mission_id: "10385"
   }
   {
     id: 33
     type: 1
     mission_campaign: "-49"
+    event_name: 한푼차이
     draw_event_id: "400,401,402,403,404"
     start_time: 2023-11-20 15:00:00
     end_time: 2023-12-15 15:00:00
@@ -189,12 +213,14 @@
     id: 34
     type: 2
     mission_campaign: "-59"
+    event_name: 문제상자 가설
     init_mission_id: "11321"
   }
   {
     id: 35
     type: 1
     mission_campaign: "-57"
+    event_name: 새하얀 물결, 꽃같은 얼굴
     draw_event_id: "400,401,402,403,404"
     start_time: 2023-02-11 15:00:00
     end_time: 2023-03-10 15:00:00
@@ -204,6 +230,7 @@
     id: 36
     type: 1
     mission_campaign: "-58"
+    event_name: 만성쇼크
     draw_event_id: "400,401,402,403,404"
     start_time: 2023-04-28 15:00:00
     end_time: 2023-06-10 15:00:00
@@ -213,18 +240,21 @@
     id: 37
     type: 2
     mission_campaign: "-60"
+    event_name: 비경수위+
     init_mission_id: "11435"
   }
   {
     id: 38
     type: 2
     mission_campaign: "-40"
+    event_name: 바다 저 멀리
     init_mission_id: "10504"
   }
   {
     id: 39
     type: 1
     mission_campaign: "-61"
+    event_name: 사고영역 항해
     draw_event_id: "400,401,402,403,404"
     start_time: 2024-07-12 15:00:00
     end_time: 2024-07-26 15:00:00
@@ -240,12 +270,14 @@
     id: 41
     type: 2
     mission_campaign: "-23"
+    event_name: 이상한 나라로+
     init_mission_id: "10105"
   }
   {
     id: 42
     type: 1
     mission_campaign: "-62"
+    event_name: 퍼미션 리로딩
     draw_event_id: "400,401,402,403,404"
     start_time: 2024-06-03 15:00:00
     end_time: 2024-06-21 15:00:00
@@ -255,30 +287,35 @@
     id: 43
     type: 2
     mission_campaign: "-48"
+    event_name: 재귀정리
     init_mission_id: "10799"
   }
   {
     id: 44
     type: 2
     mission_campaign: "-29"
+    event_name: 허수미궁+
     init_mission_id: "10158"
   }
   {
     id: 45
     type: 2
     mission_campaign: "-63"
+    event_name: 비밀의 소용돌이+
     init_mission_id: "11497"
   }
   {
     id: 46
     type: 2
     mission_campaign: "-39"
+    event_name: 말벌집+
     init_mission_id: "10508"
   }
   {
     id: 48
     type: 1
     mission_campaign: "-64"
+    event_name: 거울문의 지속
     draw_event_id: "400,401,402,403,404"
     start_time: 2024-03-01 15:00:00
     end_time: 2024-03-29 15:00:00
@@ -288,6 +325,7 @@
     id: 49
     type: 1
     mission_campaign: "-68"
+    event_name: 오귀인의 샘물
     draw_event_id: "400,401,402,403,404"
     start_time: 2024-04-26 15:10:00
     end_time: 2024-05-17 15:00:00
@@ -297,18 +335,21 @@
     id: 50
     type: 2
     mission_campaign: "-45"
+    event_name: 돌풍구출+
     init_mission_id: "10766"
   }
   {
     id: 51
     type: 2
     mission_campaign: "-65"
+    event_name: 안개 거두기+
     init_mission_id: "11549"
   }
   {
     id: 52
     type: 1
     mission_campaign: "-69"
+    event_name: 22중 곤경
     draw_event_id: "400,401,402,403,404"
     start_time: 2024-06-18 15:00:00
     end_time: 2024-07-12 15:00:00
@@ -318,6 +359,7 @@
     id: 53
     type: 1
     mission_campaign: "-67"
+    event_name: 악몽의 미로성+
     draw_event_id: "400,401,402,403,404"
     start_time: 2024-06-26 15:00:00
     end_time: 2024-07-13 15:00:00
@@ -327,6 +369,7 @@
     id: 54
     type: 1
     mission_campaign: "-70"
+    event_name: 영전하
     draw_event_id: "400,401,402,403,404"
     start_time: 2024-07-24 15:00:00
     end_time: 2024-08-16 15:00:00
@@ -336,6 +379,7 @@
     id: 55
     type: 1
     mission_campaign: "-71"
+    event_name: 은염색 현상
     draw_event_id: "400,401,402,403,404"
     start_time: 2024-08-19 15:00:00
     end_time: 2024-09-13 15:00:00

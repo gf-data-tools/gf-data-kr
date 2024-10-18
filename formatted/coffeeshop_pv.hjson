@@ -153,4 +153,11 @@
     cost: 506-1000
     prize_id: "5032"
   }
+  {
+    id: "23"
+    title: 은염색 현상
+    description: 2024년 한정 이벤트 PV
+    cost: 506-1000
+    prize_id: "5033"
+  }
 ]

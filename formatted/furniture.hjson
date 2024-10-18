@@ -30393,6 +30393,35 @@
     rotate: "2"
   }
   {
+    id: 20152
+    name: 외딴 숲 수호자 훈장
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: '''"고립된 숲" 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "한 무리 나무가 황혼과 저녁으로 향하며, 그들이 말라죽을 때 마침내 도달하였다. 죽은 자는 떠나고, 이를 아는 이는 살아있는 자뿐이다."'''
+    code: 202410Activity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20153
+    name: 포스터-2024은염색 현상
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2024년 한정 이벤트-은염색 현상 특전 포스터
+    code: pv_202408activity
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
+    rotate: "3"
+  }
+  {
     id: 30001
     name: 마카로프 - 잭오랜턴
     classes: 300
@@ -46210,6 +46239,111 @@
     decompose_gift: 100003
     description: MP40의 포스터
     code: poster_Bunny24_MP40
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310901
+    name: HS.50 - 심해의 저승사자
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: HS.50의 포스터.
+    code: poster_Revenge2024_HS50
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310902
+    name: M1887 - 핏빛 가시덩굴
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M1887의 포스터.
+    code: poster_Revenge2024_M1887
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310903
+    name: SPAS-15 - 판의 속삭임
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SPAS-15의 포스터.
+    code: poster_Revenge2024_SPAS15
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310904
+    name: SR-2 - 살무사 키스
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SR-2의 포스터.
+    code: poster_Revenge2024_SR2
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310905
+    name: 웰로드 MkⅡ - 꼭두각시 아리아
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 웰로드 MkⅡ의 포스터.
+    code: poster_Revenge2024_Welrod
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310906
+    name: ST AR-15 - 내가 바로 혼돈
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ST AR-15의 포스터.
+    code: poster_Revenge2024_AR15
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 310907
+    name: C14 - 명계의 피안화
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: C14의 포스터.
+    code: poster_Revenge2024_C14
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

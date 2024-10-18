@@ -820,6 +820,16 @@
     rank: 1
   }
   {
+    id: 142
+    type: 3
+    arg: "43"
+    code: Medal_202410Activity
+    item_name: 외딴 숲 수호자 훈장
+    introduction: '''"고립된 숲" 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "한 무리 나무가 황혼과 저녁으로 향하며, 그들이 말라죽을 때 마침내 도달하였다. 죽은 자는 떠나고, 이를 아는 이는 살아있는 자뿐이다."'''
+    rank: 1
+    detail_introduction: item-30000142
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -15392,6 +15402,133 @@
     rank: 1
   }
   {
+    id: 2568
+    type: 5
+    arg: "1"
+    code: profilePic_mask_Hallowmas_NA
+    item_name: 아이콘: 최첨단 마스크·핼러윈
+    introduction: 아이콘: 최첨단 마스크·핼러윈
+    rank: 1
+  }
+  {
+    id: 2569
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_HS50
+    item_name: HS.50 - 심해의 저승사자
+    introduction: HS.50 - 심해의 저승사자
+    rank: 1
+  }
+  {
+    id: 2570
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_M1887
+    item_name: M1887 - 핏빛 가시덩굴
+    introduction: M1887 - 핏빛 가시덩굴
+    rank: 1
+  }
+  {
+    id: 2571
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_SPAS15
+    item_name: SPAS-15 - 판의 속삭임
+    introduction: SPAS-15 - 판의 속삭임
+    rank: 1
+  }
+  {
+    id: 2572
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_SR2
+    item_name: SR-2 - 살무사 키스
+    introduction: SR-2 - 살무사 키스
+    rank: 1
+  }
+  {
+    id: 2573
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_Welrod
+    item_name: 웰로드 MkⅡ - 꼭두각시 아리아
+    introduction: 웰로드 MkⅡ - 꼭두각시 아리아
+    rank: 1
+  }
+  {
+    id: 2574
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_AR15
+    item_name: ST AR-15 - 내가 바로 혼돈
+    introduction: ST AR-15 - 내가 바로 혼돈
+    rank: 1
+  }
+  {
+    id: 2575
+    type: 5
+    arg: "1"
+    code: profilePic_Revenge2024_C14
+    item_name: C14 - 명계의 피안화
+    introduction: C14 - 명계의 피안화
+    rank: 1
+  }
+  {
+    id: 2576
+    type: 5
+    arg: "1"
+    code: profilePic_202410Activity_01
+    item_name: 아이콘: 인과의 인형사
+    introduction: 아이콘: 인과의 인형사
+    rank: 1
+  }
+  {
+    id: 2577
+    type: 5
+    arg: "1"
+    code: profilePic_202410Activity_02
+    item_name: 아이콘: 억울함을 푸는 의사
+    introduction: 아이콘: 억울함을 푸는 의사
+    rank: 1
+  }
+  {
+    id: 2578
+    type: 5
+    arg: "1"
+    code: card_202410Activity_01
+    item_name: 카드배경: 먼지보다 가볍고, 태산보다 무거운
+    introduction: 카드배경: 먼지보다 가볍고, 태산보다 무거운
+    rank: 1
+  }
+  {
+    id: 2579
+    type: 5
+    arg: "1"
+    code: card_202410Activity_02
+    item_name: 카드배경: 마카로프와 백의천사
+    introduction: 카드배경: 마카로프와 백의천사
+    rank: 1
+  }
+  {
+    id: 2580
+    type: 5
+    arg: "1"
+    code: cg_202410Activity_01
+    item_name: 배경: 이른 아침 눈길 위
+    introduction: 배경: 이른 아침 눈길 위
+    rank: 1
+  }
+  {
+    id: 2581
+    type: 5
+    arg: "1"
+    code: cg_202410Activity_02
+    item_name: 배경: 빛이 새어드는 오후
+    introduction: 배경: 빛이 새어드는 오후
+    rank: 1
+    detail_introduction: item-30002581
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -15399,6 +15536,16 @@
     item_name: SPAS-12 개조 아이콘
     introduction: SPAS-12 개조 아이콘
     rank: 1
+  }
+  {
+    id: 3502
+    type: 5
+    arg: "1"
+    code: profilePic_rank6_ZastavaM21Mod
+    item_name: item-10003502
+    introduction: item-20003502
+    rank: 1
+    detail_introduction: item-30003502
   }
   {
     id: 4001
@@ -16805,6 +16952,15 @@
     code: daily_points
     item_name: 회색지대 점수
     introduction: 회색지대 점수
+    rank: 1
+  }
+  {
+    id: 30023
+    type: 1
+    arg: "30023"
+    code: gift_bundle_BattlePass_MartiniHenry
+    item_name: 마티니 헨리 - 딸기빛 두근거림
+    introduction: 딸기무스 사러 온 거야//C 지휘관? 역시 내 예상대로네, 그래서 미리 사놨단 말씀! 포상은... 지휘관의 미소를 받을게!
     rank: 1
   }
   {
@@ -19000,6 +19156,53 @@
     code: Bumdle_October3
     item_name: 가을 소풍 박스
     introduction: 가을 소풍 박스
+    rank: 1
+  }
+  {
+    id: 100240
+    type: 4
+    arg: "100240"
+    code: core_mask_24Hallowmas_NA
+    item_name: 최첨단 마스크·글섭 핼러윈
+    introduction: 최첨단 마스크·글섭 핼러윈
+    rank: 1
+  }
+  {
+    id: 100241
+    type: 4
+    arg: "100241"
+    code: Nova_medal
+    item_name: 노바 훈장·고립된 숲
+    introduction: 노바 훈장·고립된 숲
+    rank: 1
+  }
+  {
+    id: 100242
+    type: 4
+    arg: "100242"
+    code: Platinum_medal
+    item_name: 백금 훈장·고립된 숲
+    introduction: 백금 훈장·고립된 숲
+    rank: 1
+  }
+  {
+    id: 100243
+    type: 9
+    arg: "100243"
+    code: Coin_202410IsolationForest
+    item_name: 물구나무 그림자
+    introduction: 몽경에서 거꾸로 무럭무럭 자라는 나무, 뿌리가 하나로 뒤엉켜 공중의 섬이 되었다.
+    rank: 1
+    daily_limit: 60;180
+    detail_introduction: item-30100243
+  }
+  {
+    id: 100244
+    type: 4
+    arg: "100244"
+    code: coremask2_202410IsolationForest
+    item_name: 마음 파먹는 가면·고립된 숲
+    introduction: 기이한 기운을 풍기는 마스크, 극한의 시련을 뛰어넘은 자만이 얻을 수 있습니다. 가지고 있어봤자 쓸모 없어 보이지만, 상점에서 학수고대한 만남과 교환할 수 있을 겁니다.
     rank: 1
   }
   {
@@ -23755,6 +23958,94 @@
     type_sort: 1
   }
   {
+    id: 1500164
+    type: 15
+    arg: "1500164"
+    code: Bumdle_IsolationForest01
+    item_name: 고립된 숲 코스튬 쿠폰·α
+    introduction: 창고에서 사용하면 지정 범위에서 보유하지 않은 코스튬을 무작위로 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500165
+    type: 15
+    arg: "1500165"
+    code: Bumdle_IsolationForest02
+    item_name: 고립된 숲 코스튬 쿠폰·β
+    introduction: 창고에서 사용하면 지정 범위에서 보유하지 않은 코스튬을 무작위로 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500166
+    type: 15
+    arg: "1500166"
+    code: Bumdle_IsolationForest03
+    item_name: 고립된 숲 코스튬 쿠폰·γ
+    introduction: 창고에서 사용하면 지정 범위에서 보유하지 않은 코스튬을 무작위로 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500167
+    type: 15
+    arg: "1500167"
+    code: Bumdle_IsolationForest04
+    item_name: 고립된 숲 코스튬 쿠폰·δ
+    introduction: 창고에서 사용하면 지정 범위에서 보유하지 않은 코스튬을 무작위로 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500168
+    type: 15
+    arg: "1500168"
+    code: Bumdle_invocation_3
+    item_name: 4성 인형 임용장
+    introduction: 창고에서 사용하면 지정 범위에서 원하는 4성 인형을 하나 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500169
+    type: 15
+    arg: "1500169"
+    code: Bumdle_invocation_2
+    item_name: 5성 인형 임용장
+    introduction: 창고에서 사용하면 지정 범위에서 원하는 5성 인형을 하나 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500170
+    type: 15
+    arg: "1500170"
+    code: Bumdle_sangvischoose
+    item_name: 혼합세력 지정회수 의뢰서
+    introduction: 창고에서 사용하면 지정 범위에서 원하는 태생 3성 혼합세력 중 하나를 선택해 얻을 수 있습니다.※획득한 혼합세력유닛은 혼합세력 시스템이 해금된 이후에 사용할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500171
+    type: 15
+    arg: "1500171"
+    code: Bumdle_equipment
+    item_name: 5성 장비 선택 증서
+    introduction: 창고에서 사용하면 지정 범위에서 원하는 5성 장비를 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -24206,6 +24497,39 @@
     code: package_choose
     item_name: 고등 전용장비 선택 코드
     introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700040
+    type: 15
+    arg: "1700040"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700041
+    type: 15
+    arg: "1700041"
+    code: package_choose
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700042
+    type: 15
+    arg: "1700042"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1
