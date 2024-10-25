@@ -13285,153 +13285,172 @@
   {
     id: 1348
     mission_id: "11762"
-    description: 스토리1
+    description: 인형에 대한 통제는 요동치는 국면을 잠재울 수 없었고, 음모계략이 난무하는 프랑크푸르트에 더 커다란 음모가 떠오르려 한다.
     scripts: -72-A-2
     campaign: -72
+    title: 죽음의 서곡
     start: -72-A-2
   }
   {
     id: 1349
     mission_id: "11763"
-    description: 스토리2
+    description: 슈타지에게는 혼란이 바로 오르막길이다.
     scripts: -72-A-4
     campaign: -72
+    title: 해골 같은 비밀
     start: -72-A-4
   }
   {
     id: 1350
     mission_id: "11764"
-    description: 스토리3
+    description: 플레이어 사이의 수싸움은 갈수록 거세지고, 장기말도 더는 버려질 운명을 달게 받아들이지 않는다.
     scripts: -72-A-6
     campaign: -72
+    title: 분노의 열매
     start: -72-A-6
   }
   {
     id: 1351
     mission_id: "11766"
-    description: 스토리4
+    description: 어둠이 여러분의 창문을 두드릴 때, 명심하세요. 여러분이 이 세상을 바꾸는 겁니다. 세상이 여러분을 바꾸게 두지 마세요.
     scripts: -72-A-8
     campaign: -72
+    title: 에메랄드 침묵
     start: -72-A-8
   }
   {
     id: 1352
     mission_id: "11767"
-    description: 스토리5
+    description: 망설임과 의심이 극한에 달한 상황에서 지휘관은 다시 한번 도박에 나선다.
     scripts: -72-A-10
     campaign: -72
+    title: 시간의 폐허
     start: -72-A-10
   }
   {
     id: 1353
     mission_id: "11768"
-    description: 스토리6
+    description: 마인츠 대학 실험실에서 아마리스는 새로운 파트너를 만났다.
     scripts: -72-A-12
     campaign: -72
+    title: 검은 방
     start: -72-A-12
   }
   {
     id: 1354
     mission_id: "11770"
-    description: 스토리7
+    description: 어둠 속에 어떤 거래가 이루어졌다. 양측은 서로 바라는 것을 얻고 떠났다.
     scripts: -72-A-14
     campaign: -72
+    title: 갈림길에 좌초한 밤의 육체
     start: -72-A-14
   }
   {
     id: 1355
     mission_id: "11771"
-    description: 스토리8
+    description: 엘모호에 돌아온 지휘관은 수많은 감회를 느끼지만 일은 아직 시작했을 뿐이다.
     scripts: -72-A-16
     campaign: -72
+    title: 내 곁에서 깨어나는 황야
     start: -72-A-16
   }
   {
     id: 1356
     mission_id: "11773"
-    description: 스토리9
+    description: 루니샤는 과거의 기억을 일부 되찾았다. 동시에 어둠 속에 감춰둔 잔혹한 과거도 깨어났다.
     scripts: -72-A-18
     campaign: -72
+    title: 죽음의 나라의 불
     start: -72-A-18
   }
   {
     id: 1357
     mission_id: "11774"
-    description: 스토리10
+    description: 복수의 사명을 지고서 죽음의 땅에서 현세에 돌아온 그녀가 패러데우스 앞에 나타났다.
     scripts: -72-A-20
     campaign: -72
+    title: 덮쳐오는 창백
     start: -72-A-20
   }
   {
     id: 1358
     mission_id: "11776"
-    description: 스토리11
+    description: 어두운 지하 터널에서 몰리도는 원수들과 다시 만났다.
     scripts: -72-A-22
     campaign: -72
+    title: 미로의 혈흔
     start: -72-A-22
   }
   {
     id: 1359
     mission_id: "11778"
-    description: 스토리12
+    description: 마카로프 권총에서 쏘아진 총알이 긴 세월을 지나 목표에 정중했다.
     scripts: -72-A-24
     campaign: -72
+    title: 그녀는 시간의 끝에서
     start: -72-A-24
   }
   {
     id: 1360
     mission_id: "11779"
-    description: 스토리13
+    description: 공연은 막을 내리고 배우들은 각자 상장을 받고 무대에서 내려갔다.
     scripts: -72-A-26
     campaign: -72
+    title: 산자는 비밀을 지키다
     start: -72-A-26
   }
   {
     id: 1361
     mission_id: "11780"
-    description: 스토리14
+    description: 고요한 밤, 불빛들이 하늘을 가로질렀다...
     scripts: -72-A-28
     campaign: -72
+    title: 침묵한 세계
     start: -72-A-28
   }
   {
     id: 1362
     mission_id: "11781"
-    description: 프로필1
+    description: 엄마한텐 아무것도 안 남았으니까 엄마 곁에 있어줄래요.
     scripts: -72-S-1
     campaign: -72
+    title: 피지 못한 일생 Ⅰ
     start: -72-S-1
   }
   {
     id: 1363
     mission_id: "11782"
-    description: 프로필2
+    description: 이것은 사나의 가장 즐거운 때다, 안나 언니 집으로 가는 길이니까.
     scripts: -72-S-2
     campaign: -72
+    title: 피지 못한 일생 Ⅱ
     start: -72-S-2
   }
   {
     id: 1364
     mission_id: "11783"
-    description: 프로필3
+    description: 사나에겐 길가에서 외식하는 것이 어려운 책보다 훨씬 재밌었다.
     scripts: -72-S-3
     campaign: -72
+    title: 피지 못한 일생 Ⅲ
     start: -72-S-3
   }
   {
     id: 1365
     mission_id: "11784"
-    description: 프로필4
+    description: 사나는 경건하게 눈을 감고 눈앞의 케이크에 소원을 빌었다.
     scripts: -72-S-4
     campaign: -72
+    title: 피지 못한 일생 Ⅳ
     start: -72-S-4
   }
   {
     id: 1366
     mission_id: "11785"
-    description: 프로필5
+    description: 그 재난이 지나가고 한 케이크는 영원히 냉장고에 잊혀졌다.
     scripts: -72-S-5
     campaign: -72
+    title: 피지 못한 일생 Ⅴ
     start: -72-S-5
   }
 ]

@@ -52042,7 +52042,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: 【标记】兔子
+    name: 【标记】兔子_己方梯队挂Buff
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -52177,7 +52177,47 @@
     shifting_spot: "0,0"
     shifting_team: "0,0"
     battle_assist_range: "0,0"
-    inherent_mission_skill: "9720402,1000100"
+    inherent_mission_skill: "1000100"
+    type: 5
+    is_focus: "-1,0"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+  }
+  {
+    id: 9720408
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: 【标记】兔子_收集点
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "1000100,9720422"
+    type: 5
+    is_focus: "-1,0"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+  }
+  {
+    id: 9720409
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: 【标记】兔子_NPC挂buff
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "9720402"
     type: 5
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"

@@ -13402,4 +13402,38 @@
     is_show: 1
     obtain_ids: "517"
   }
+  {
+    id: 426
+    name: SSG 고글
+    description:
+      '''
+      치명률+<critical_percent><%>
+      치명상+<critical_harm_rate><%>스킬 강화$SSG3000 전용
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    critical_harm_rate: "6,10"
+    critical_percent: "17,24"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: Accessories_SP_SSG3000
+    develop_duration: 2700
+    company: IOP
+    fit_guns: "273"
+    equip_introduction: SSG3000이 자주 착용하는 고글, 사냥감을 빠르게 포착하도록 도와줍니다.
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: critical_percent:1000,critical_harm_rate:500
+    passive_skill: "1003701"
+    max_level: 10
+    auto_select_id: 18092
+    is_show: 1
+    obtain_ids: "3111"
+    description_skill: 1003701
+  }
 ]

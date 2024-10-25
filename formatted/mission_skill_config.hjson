@@ -39262,6 +39262,7 @@
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
+    cd_time_type: 1
     start_range: -1
     data_pool: "15"
     allyteam_summoner: 3000601-1
@@ -39280,6 +39281,7 @@
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
+    cd_time_type: 1
     start_range: -1
     data_pool: "17"
     allyteam_summoner: 3000602-1
@@ -39298,6 +39300,7 @@
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
+    cd_time_type: 1
     start_range: -1
     data_pool: "18"
     allyteam_summoner: 3000603-1
@@ -39316,6 +39319,7 @@
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
+    cd_time_type: 1
     start_range: -1
     data_pool: "20"
     allyteam_summoner: 3000604-1
@@ -39334,6 +39338,7 @@
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
+    cd_time_type: 1
     start_range: -1
     data_pool: "22"
     allyteam_summoner: 3000605-1
@@ -39353,6 +39358,7 @@
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
+    cd_time_type: 1
     start_range: -1
     data_pool: "23"
     allyteam_summoner: 3000606-1
@@ -39372,6 +39378,7 @@
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
+    cd_time_type: 1
     start_range: -1
     data_pool: "25"
     allyteam_summoner: 3000607-1
@@ -39391,6 +39398,7 @@
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
+    cd_time_type: 1
     start_range: -1
     data_pool: "27"
     allyteam_summoner: 3000608-1
@@ -39410,6 +39418,7 @@
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
+    cd_time_type: 1
     start_range: -1
     data_pool: "28"
     allyteam_summoner: 3000609-1
@@ -39429,6 +39438,7 @@
     spot_type: "-1"
     spot_belong: "0,1,2,3"
     cd_time: 2
+    cd_time_type: 1
     start_range: -1
     data_pool: "30"
     allyteam_summoner: 3000610-1
@@ -39625,6 +39635,7 @@
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
     cd_time: 5
+    cd_time_type: 1
     start_range: 1
     mission_buff_add: 50006:1
   }
@@ -39646,6 +39657,7 @@
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
     cd_time: 5
+    cd_time_type: 1
     start_range: 1
     mission_buff_add: 50006:1
   }
@@ -39667,6 +39679,7 @@
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
     cd_time: 5
+    cd_time_type: 1
     start_range: 1
     mission_buff_add: 50006:1
   }
@@ -39688,6 +39701,7 @@
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
     cd_time: 4
+    cd_time_type: 1
     start_range: 1
     mission_buff_add: 50006:1
   }
@@ -39709,6 +39723,7 @@
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
     cd_time: 4
+    cd_time_type: 1
     start_range: 1
     mission_buff_add: 50006:1
   }
@@ -39731,6 +39746,7 @@
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
     cd_time: 4
+    cd_time_type: 1
     start_range: 2
     mission_buff_add: 50006:1
   }
@@ -39753,6 +39769,7 @@
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
     cd_time: 4
+    cd_time_type: 1
     start_range: 2
     mission_buff_add: 50006:1
   }
@@ -39775,6 +39792,7 @@
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
     cd_time: 3
+    cd_time_type: 1
     start_range: 2
     mission_buff_add: 50006:1
   }
@@ -39797,6 +39815,7 @@
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
     cd_time: 3
+    cd_time_type: 1
     start_range: 2
     mission_buff_add: 50006:1
   }
@@ -39819,6 +39838,7 @@
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
     cd_time: 3
+    cd_time_type: 1
     start_range: 2
     mission_buff_add: 50006:1
   }
@@ -40012,6 +40032,7 @@
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
+    cd_time_type: 1
     start_range: 3
     data_pool: "1"
     is_airborne: 2
@@ -40036,6 +40057,7 @@
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
+    cd_time_type: 1
     start_range: 3
     data_pool: "1"
     is_airborne: 2
@@ -40060,6 +40082,7 @@
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
+    cd_time_type: 1
     start_range: 3
     data_pool: "1"
     is_airborne: 2
@@ -40084,6 +40107,7 @@
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
+    cd_time_type: 1
     start_range: 4
     data_pool: "1"
     is_airborne: 2
@@ -40108,6 +40132,7 @@
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
+    cd_time_type: 1
     start_range: 4
     data_pool: "1"
     is_airborne: 2
@@ -40133,6 +40158,7 @@
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
+    cd_time_type: 1
     start_range: 4
     data_pool: "1"
     is_airborne: 2
@@ -40158,6 +40184,7 @@
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
+    cd_time_type: 1
     start_range: 5
     data_pool: "1"
     is_airborne: 2
@@ -40183,6 +40210,7 @@
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
+    cd_time_type: 1
     start_range: 5
     data_pool: "1"
     is_airborne: 2
@@ -40208,6 +40236,7 @@
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
+    cd_time_type: 1
     start_range: 5
     data_pool: "1"
     is_airborne: 2
@@ -40233,6 +40262,7 @@
     spot_type: "3,-3,7,-7"
     spot_belong: "0,1,2,3"
     cd_time: 5
+    cd_time_type: 1
     start_range: 99
     data_pool: "1"
     is_airborne: 2
@@ -76035,6 +76065,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
+    cd_time_type: 1
     start_range: 1
     trigger_id: (972040481&&972040181)||(972040481&&972040281)
     target_id: 972040290&&972040390&&100010091&&972040492
@@ -76050,6 +76081,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     mission_buff_add: 9720401:1,9720403:1,20301:1,20302:1
   }
   {
@@ -76060,6 +76092,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     mission_buff_add: 9720402:1,9720403:1,20301:1,20302:1
     subsidiary_mission_skill: "9720421"
   }
@@ -76071,6 +76104,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     target_id: "1"
     special_spot_add: 9720402:1
   }
@@ -76082,6 +76116,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     target_id: "1"
     special_spot_add: 9720403:1
   }
@@ -76094,6 +76129,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 1
     trigger_id: 972040480&&972040580&&972040181
     target_id: "972040291"
@@ -76104,11 +76140,16 @@
   {
     id: 9720406
     name: 물자 내려놓기
-    description: 물자나 잡동사니가 없는 빈 거점에 내려놓는다.※회수 지점(레이더 거점)에 여러 개 놓을 수 있다.
+    description:
+      '''
+      물자나 잡동사니가 없는 빈 거점에 내려놓는다.
+      ※회수 지점(레이더 거점)에 여러 개 놓을 수 있다.
+      '''
     skill_group_id: 9720406
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
+    cd_time_type: 1
     start_range: 1
     trigger_id: 972040481&&972040181
     target_id: 972040290&&972040390&&972040472
@@ -76125,6 +76166,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 1
     trigger_id: 972040480&&972040580&&972040181
     target_id: "972040391"
@@ -76140,6 +76182,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
+    cd_time_type: 1
     start_range: 1
     trigger_id: 972040581&&972040181
     target_id: 972040290&&972040390&&972040490
@@ -76156,6 +76199,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 1
     trigger_id: 972040480&&972040580&&972040281
     target_id: "972040291"
@@ -76166,11 +76210,16 @@
   {
     id: 9720410
     name: 물자 내려놓기
-    description: 물자나 잡동사니가 없는 빈 거점에 내려놓는다.※회수 지점(레이더 거점)에 여러 개 놓을 수 있다.
+    description:
+      '''
+      물자나 잡동사니가 없는 빈 거점에 내려놓는다.
+      ※회수 지점(레이더 거점)에 여러 개 놓을 수 있다.
+      '''
     skill_group_id: 9720410
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
+    cd_time_type: 1
     start_range: 1
     trigger_id: 972040481&&972040281
     target_id: 972040290&&972040390&&972040472
@@ -76187,6 +76236,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 1
     trigger_id: 972040480&&972040580&&972040281
     target_id: "972040391"
@@ -76202,6 +76252,7 @@
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
+    cd_time_type: 1
     start_range: 1
     trigger_id: 972040581&&972040281
     target_id: 972040290&&972040390&&972040490
@@ -76217,6 +76268,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     target_id: "1"
     mission_buff_add: 9720404:1
   }
@@ -76228,6 +76280,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     target_id: "1"
     mission_buff_minus: 9720404:1
   }
@@ -76239,6 +76292,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     target_id: "1"
     mission_buff_add: 9720405:1
   }
@@ -76250,6 +76304,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     target_id: "1"
     mission_buff_minus: 9720405:1
   }
@@ -76261,6 +76316,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 99
     target_id: 100010091&&972040291
     special_spot_add: 9720404:1
@@ -76275,6 +76331,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 99
     target_id: 100010091&&972040493
     subsidiary_mission_skill: "9720419,9720420"
@@ -76287,6 +76344,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 99
     target_id: "972040181"
     special_spot_add: 1000500:1
@@ -76300,6 +76358,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 99
     target_id: "972040281"
     special_spot_add: 1000600:1
@@ -76315,8 +76374,21 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     target_id: "1"
     special_spot_add: 9720405:1
+  }
+  {
+    id: 9720422
+    name: 【标识】普通难度直接标记为已经搬了2个状态
+    skill_group_id: 9720422
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 9720404:2
   }
   {
     id: 9721101
@@ -76327,6 +76399,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 99
     trigger_id: 101010091&&101010190&&102010191
     target_id: "102010091"
@@ -76343,6 +76416,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 99
     trigger_id: 101010091&&101010190&&102010190
     target_id: "102010091"
@@ -76359,6 +76433,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 99
     trigger_id: 101010091&&101020190&&102020191
     target_id: "102020091"
@@ -76375,6 +76450,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 99
     trigger_id: 101010091&&101020190&&102020190
     target_id: "102020091"
@@ -76391,6 +76467,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 99
     trigger_id: 101010091&&101030190&&102030191
     target_id: "102030091"
@@ -76407,6 +76484,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 99
     trigger_id: 101010091&&101030190&&102030190
     target_id: "102030091"
@@ -76423,6 +76501,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 99
     trigger_id: 101010091&&101040190&&102040191
     target_id: "102040091"
@@ -76439,6 +76518,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 99
     trigger_id: 101010091&&101040190&&102040190
     target_id: "102040091"
@@ -76454,6 +76534,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     target_id: "1"
     mission_buff_add: 9721401:1
   }
@@ -76465,6 +76546,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     target_id: "1"
     subsidiary_mission_skill: "9721603,9721604"
   }
@@ -76476,6 +76558,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     target_id: "1"
     mission_buff_add: 9721602:1
   }
@@ -76487,6 +76570,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 1
     target_id: 102010091&&101020191&&101040190
     special_spot_add: 1020101:1,1000001:1,1010401:1
@@ -76500,6 +76584,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 1
     target_id: 102010091&&101030190
     special_spot_add: 1010201:1,1010301:1
@@ -76512,6 +76597,7 @@
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
+    cd_time_type: 1
     target_id: "1"
     mission_buff_add: 640101:1
   }

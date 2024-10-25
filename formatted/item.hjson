@@ -15529,6 +15529,15 @@
     detail_introduction: item-30002581
   }
   {
+    id: 2582
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Mrsgray
+    item_name: 아이콘: 그레이
+    introduction: 아이콘: 그레이
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"

@@ -16266,6 +16266,12 @@
     gun_id: "369"
   }
   {
+    id: 2668
+    name: 2024년 11월 출석
+    gem: 90
+    equip_ids: "426"
+  }
+  {
     id: 3001
     name: 콜트 리볼버
     item_ids: 1318-1
@@ -17820,6 +17826,16 @@
     id: 4326
     name: 아이콘: 게이저-VWV형
     item_ids: 2556-1
+  }
+  {
+    id: 4327
+    name: 혼합세력: 그레이
+    sangvis: "1027"
+  }
+  {
+    id: 4328
+    name: 아이콘: 그레이
+    item_ids: 2582-1
   }
   {
     id: 5001
@@ -39996,12 +40012,12 @@
   }
   {
     id: 17762
-    name: 죽음의 서곡 - 임무 보상
+    name: 1-죽음의 서곡 - 임무 보상
     core: 5
   }
   {
     id: 17763
-    name: 해골 같은 비밀 - 임무 보상
+    name: 2-해골 같은 비밀 - 임무 보상
     mp: 500
     ammo: 500
     mre: 500
@@ -40009,22 +40025,22 @@
   }
   {
     id: 17764
-    name: 분노의 열매 - 임무 보상
+    name: 3-분노의 열매 - 임무 보상
     item_ids: 46-50
   }
   {
     id: 17765
-    name: 폭풍우의 울림을 붙잡고 - 임무 보상
+    name: 4-폭풍우의 울림을 붙잡고 - 임무 보상
     coins: 1-300
   }
   {
     id: 17766
-    name: 에메랄드 침묵 - 임무 보상
+    name: 5-에메랄드 침묵 - 임무 보상
     core: 5
   }
   {
     id: 17767
-    name: 시간의 폐허 - 임무 보상
+    name: 6-시간의 폐허 - 임무 보상
     mp: 500
     ammo: 500
     mre: 500
@@ -40032,22 +40048,22 @@
   }
   {
     id: 17768
-    name: 검은 방 - 임무 보상
+    name: 7-검은 방 - 임무 보상
     item_ids: 9-50
   }
   {
     id: 17769
-    name: 스러진 생명을 모아 - 임무 보상
+    name: 8-스러진 생명을 모아 - 임무 보상
     coins: 2-300
   }
   {
     id: 17770
-    name: 갈림길에 좌초한 밤의 육체 - 임무 보상
+    name: 9-갈림길에 좌초한 밤의 육체 - 임무 보상
     core: 5
   }
   {
     id: 17771
-    name: 내 곁에서 깨어나는 황야 - 임무 보상
+    name: 10-내 곁에서 깨어나는 황야 - 임무 보상
     mp: 500
     ammo: 500
     mre: 500
@@ -40055,27 +40071,27 @@
   }
   {
     id: 17772
-    name: 참나무는 숲에서 쓰러지다 - 임무 보상
+    name: 11-참나무는 숲에서 쓰러지다 - 임무 보상
     coins: 3-300
   }
   {
     id: 17773
-    name: 왕국에서 죽은 불 - 임무 보상
+    name: 12-왕국에서 죽은 불 - 임무 보상
     item_ids: 44-50
   }
   {
     id: 17774
-    name: 덮쳐오는 창백 - 임무 보상
+    name: 13-덮쳐오는 창백 - 임무 보상
     sangvis: "1027"
   }
   {
     id: 17775
-    name: 칼의 마지막 비틀기 - 임무 보상
+    name: 14-칼의 마지막 비틀기 - 임무 보상
     item_ids: 45-100
   }
   {
     id: 17776
-    name: 미로의 혈흔 - 임무 보상
+    name: 15-미로의 혈흔 - 임무 보상
     mp: 500
     ammo: 500
     mre: 500
@@ -40083,22 +40099,22 @@
   }
   {
     id: 17777
-    name: 벼랑끝에 몰린 노루 - 임무 보상
+    name: 16-벼랑끝에 몰린 노루 - 임무 보상
     item_ids: 51-2
   }
   {
     id: 17778
-    name: 그녀는 시간의 끝에서 - 임무 보상
+    name: 17-그녀는 시간의 끝에서 - 임무 보상
     item_ids: 2580-1
   }
   {
     id: 17779
-    name: 산자는 비밀을 지키다 - 임무 보상
+    name: 18-산자는 비밀을 지키다 - 임무 보상
     item_ids: 2577-1
   }
   {
     id: 17780
-    name: 침묵한 세계 - 임무 보상
+    name: 19-침묵한 세계 - 임무 보상
     item_ids: 142-1
     furniture: "20152"
   }
@@ -40150,27 +40166,27 @@
   }
   {
     id: 17787
-    name: 폭풍우의 울림을 붙잡고 EX - 임무 보상
+    name: 4-폭풍우의 울림을 붙잡고 EX - 임무 보상
     item_ids: 506-100
   }
   {
     id: 17788
-    name: 스러진 생명을 모아 EX - 임무 보상
+    name: 8-스러진 생명을 모아 EX - 임무 보상
     gift: 200001-100
   }
   {
     id: 17789
-    name: 참나무는 숲에서 쓰러지다 EX - 임무 보상
+    name: 11-참나무는 숲에서 쓰러지다 EX - 임무 보상
     item_ids: 9-50
   }
   {
     id: 17790
-    name: 칼의 마지막 비틀기 EX - 임무 보상
+    name: 14-칼의 마지막 비틀기 EX - 임무 보상
     item_ids: 51-2
   }
   {
     id: 17791
-    name: 벼랑끝에 몰린 노루 EX - 임무 보상
+    name: 16-벼랑끝에 몰린 노루 EX - 임무 보상
     item_ids: 100244-1
   }
   {
@@ -49747,6 +49763,194 @@
     gift: 200001-500
     icon: Bumdle_yellow
     fairy_ids: 29-0
+  }
+  {
+    id: 40749
+    name: 단계적 보상 I
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    gift: 200001-100
+    coins: 1-100,2-100
+    icon: Bumdle_black
+  }
+  {
+    id: 40750
+    name: 단계적 보상 II
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    gem: 50
+    gift: 200001-100
+    coins: 1-200,2-200
+    icon: Bumdle_blue
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 40751
+    name: 단계적 보상 III
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gift: 200001-200
+    coins: 2-200,3-100
+    icon: Bumdle_brown
+  }
+  {
+    id: 40752
+    name: 단계적 보상 IV
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gem: 50
+    gift: 200001-200,400001-200
+    equip_ids: "249"
+    coins: 3-200
+    icon: Bumdle_purple
+  }
+  {
+    id: 40753
+    name: 단계적 보상 V
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    item_ids: 514-150,515-150
+    gift: 400001-200
+    icon: Bumdle_red
+  }
+  {
+    id: 40754
+    name: 단계적 보상 VI
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    gem: 100
+    item_ids: 514-250,515-250,516-200
+    icon: Bumdle_ruby
+    commander_uniform: "3820"
+  }
+  {
+    id: 40755
+    name: 단계적 보상 VII
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    item_ids: 515-300,516-400
+    icon: Bumdle_white
+  }
+  {
+    id: 40756
+    name: 단계적 보상 VIII
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    gem: 100
+    item_ids: 45-500
+    gift: 200001-500
+    icon: Bumdle_yellow
+    fairy_ids: 30-0
+  }
+  {
+    id: 40757
+    name: 단계적 보상 I
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    gift: 200001-100
+    coins: 1-100,2-100
+    icon: Bumdle_black
+  }
+  {
+    id: 40758
+    name: 단계적 보상 II
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    gem: 50
+    gift: 200001-100
+    coins: 1-200,2-200
+    icon: Bumdle_blue
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 40759
+    name: 단계적 보상 III
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gift: 200001-200
+    coins: 2-200,3-100
+    icon: Bumdle_brown
+  }
+  {
+    id: 40760
+    name: 단계적 보상 IV
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gem: 50
+    gift: 200001-200,400001-200
+    equip_ids: "271"
+    coins: 3-200
+    icon: Bumdle_purple
+  }
+  {
+    id: 40761
+    name: 단계적 보상 V
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    item_ids: 514-150,515-150
+    gift: 400001-200
+    icon: Bumdle_red
+  }
+  {
+    id: 40762
+    name: 단계적 보상 VI
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    gem: 100
+    item_ids: 514-250,515-250,516-200
+    icon: Bumdle_ruby
+    commander_uniform: "4310"
+  }
+  {
+    id: 40763
+    name: 단계적 보상 VII
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    item_ids: 515-300,516-400
+    icon: Bumdle_white
+  }
+  {
+    id: 40764
+    name: 단계적 보상 VIII
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    gem: 100
+    item_ids: 45-500
+    gift: 200001-500
+    icon: Bumdle_yellow
+    fairy_ids: 31-0
   }
   {
     id: 44001

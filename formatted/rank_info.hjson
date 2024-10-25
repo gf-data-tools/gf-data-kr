@@ -1312,6 +1312,37 @@
     sub_rank_name: 점수
   }
   {
+    id: "310"
+    name: 악몽의 미로성 PLUS 상시화
+    type: "10"
+    sub_type: "11630"
+    refresh: test
+    title: <악몽의 미로성 +> 상시화 순위표
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "80000"
+    every_table_num: "30000"
+    mission_rank_type: "1"
+    sub_rank: "1"
+    sub_rank_name: 점수
+  }
+  {
+    id: "311"
+    name: 베티 수 상시화
+    type: "10"
+    sub_type: "11002,11003,11004,11005,11006,11007,11008,11009,11010"
+    refresh: test
+    title: <베티 수> 상시화 순위표
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "80000"
+    every_table_num: "30000"
+    mission_rank_type: "2"
+    sub_mission_group: 11002&&(11003||11004)&&(11005||11006||11007||11008||11009||11010)
+    sub_rank: "1"
+    sub_rank_name: 점수
+  }
+  {
     id: "1001"
     name: 사가 응원판
     type: "1001"

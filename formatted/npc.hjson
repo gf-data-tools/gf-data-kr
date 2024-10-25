@@ -1,5 +1,19 @@
 [
   {
+    id: -25
+    name: 카터
+    code: NPC-Carter
+    title: 카터
+    ai: 9999
+  }
+  {
+    id: -24
+    name: 콘스탄스
+    code: NPC-Constanze
+    title: 콘스탄스
+    ai: 9999
+  }
+  {
     id: -23
     name: 로미
     code: NPC-Romy
