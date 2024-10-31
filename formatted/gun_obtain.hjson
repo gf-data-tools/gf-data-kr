@@ -561,6 +561,14 @@
     description: 상시 이벤트 【재귀정리】에서 구출 가능
   }
   {
+    obtain_id: 429
+    description: 상시 이벤트 【고정점】에서 구출
+  }
+  {
+    obtain_id: 430
+    description: 상시 이벤트 【세로변형】에서 구출
+  }
+  {
     obtain_id: 502
     description: 상시 이벤트 【난류연속】 랭킹 전역 보상
   }

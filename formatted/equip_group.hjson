@@ -343,4 +343,22 @@
     group_skill: 2:1003103
     fit_gun: "20154"
   }
+  {
+    id: 39
+    name: 플레이어 원
+    des: RFB를 위해 맞춤 제작된 세트. 이걸로 또 게임이나 하고, 그러라고 맞춰준 장비 세트가 아닐 텐데.
+    code: EgroupRFB
+    equip_unit: "169,0,422"
+    group_skill: 2:1003303
+    fit_gun: "172"
+  }
+  {
+    id: 40
+    name: 서부 콜라
+    des: 콜트 리볼버를 위해 맞춤 제작된 세트. 콜라를 마셔야 결투할 기운이 나지!
+    code: EgroupM1873
+    equip_unit: "122,423,0"
+    group_skill: 2:1003403
+    fit_gun: "20001"
+  }
 ]
