@@ -1283,9 +1283,19 @@
     description: M16의 체력이 감소하면 보호막을 얻고, 아군 구역 십자 범위에 화염 피해를 준다. 그리고 12초마다 섬광탄을 던져 모든 아군 유닛을 기절시킨다.
   }
   {
+    id: 8103
+    name: enemy_illustration_skill-10008103
+    description: enemy_illustration_skill-20008103
+  }
+  {
     id: 8201
     name: 장소 제한
     description: 아군 구역 지면이 지속적으로 불타오른다.
+  }
+  {
+    id: 8202
+    name: enemy_illustration_skill-10008202
+    description: enemy_illustration_skill-20008202
   }
   {
     id: 8301
@@ -1426,6 +1436,61 @@
     id: 10058
     name: 킬링 테러
     description: RPG 모드로 변환하여, 유닛을 쓰러뜨릴 시 보호막을 얻는다.
+  }
+  {
+    id: 10059
+    name: enemy_illustration_skill-10010059
+    description: enemy_illustration_skill-20010059
+  }
+  {
+    id: 10060
+    name: enemy_illustration_skill-10010060
+    description: enemy_illustration_skill-20010060
+  }
+  {
+    id: 10061
+    name: enemy_illustration_skill-10010061
+    description: enemy_illustration_skill-20010061
+  }
+  {
+    id: 10062
+    name: enemy_illustration_skill-10010062
+    description: enemy_illustration_skill-20010062
+  }
+  {
+    id: 10063
+    name: enemy_illustration_skill-10010063
+    description: enemy_illustration_skill-20010063
+  }
+  {
+    id: 10064
+    name: enemy_illustration_skill-10010064
+    description: enemy_illustration_skill-20010064
+  }
+  {
+    id: 10065
+    name: enemy_illustration_skill-10010065
+    description: enemy_illustration_skill-20010065
+  }
+  {
+    id: 10066
+    name: enemy_illustration_skill-10010066
+    description: enemy_illustration_skill-20010066
+  }
+  {
+    id: 10067
+    name: enemy_illustration_skill-10010067
+    description: enemy_illustration_skill-20010067
+  }
+  {
+    id: 10068
+    name: enemy_illustration_skill-10010068
+    description: enemy_illustration_skill-20010068
+  }
+  {
+    id: 10069
+    name: enemy_illustration_skill-10010069
+    description: enemy_illustration_skill-20010069
   }
   {
     id: 10087

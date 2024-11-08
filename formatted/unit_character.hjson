@@ -30,6 +30,16 @@
     character_des: 안전국 소속 유닛입니다.
   }
   {
+    id: 106
+    name: unit_character-10000106
+    character_des: unit_character-20000106
+  }
+  {
+    id: 107
+    name: unit_character-10000107
+    character_des: unit_character-20000107
+  }
+  {
     id: 200
     name: BOSS
     character_des: 경고! 이 유닛은 강력하니 신중하게 상대하십시오.
