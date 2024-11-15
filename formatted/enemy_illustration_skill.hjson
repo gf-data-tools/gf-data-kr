@@ -1284,8 +1284,8 @@
   }
   {
     id: 8103
-    name: enemy_illustration_skill-10008103
-    description: enemy_illustration_skill-20008103
+    name: 전술·벨루가
+    description: 15초마다 섬광탄을 던져 우리측 모든 유닛을 기절시킨다.
   }
   {
     id: 8201
@@ -1294,8 +1294,8 @@
   }
   {
     id: 8202
-    name: enemy_illustration_skill-10008202
-    description: enemy_illustration_skill-20008202
+    name: 신호 채집
+    description: 벨루가가 무작위 위치에 발신기를 떨어뜨린다. 발신기는 해당 위치에 있는 아군 인형의 종류에 따라 벨루가에게 버프 효과를 준다. HG-화력, SMG-명중, RF-사속, AR-장갑, MG-회피, SG-관통. 발신기 위치에 아무도 없을 경우 모든 효과를 적용한다.
   }
   {
     id: 8301
@@ -1439,58 +1439,62 @@
   }
   {
     id: 10059
-    name: enemy_illustration_skill-10010059
-    description: enemy_illustration_skill-20010059
+    name: 무기 교체
+    description:
+      '''
+      도스는 체력이 50% 이상일 경우 권총으로 가장 가까운 대상에게 보호막 무시 공격을 한다.
+      도스의 체력이 50% 미만이 되면 근접무기로 가장 가까운 대상에게 장갑과 회피를 무시하는 공격을 한다.
+      '''
   }
   {
     id: 10060
-    name: enemy_illustration_skill-10010060
-    description: enemy_illustration_skill-20010060
+    name: 지원 호출
+    description: 도스가 안토니오 패밀리 멤버를 전투에 소환한다.
   }
   {
     id: 10061
-    name: enemy_illustration_skill-10010061
-    description: enemy_illustration_skill-20010061
+    name: 강력 진통제
+    description: 도스가 높은 보호막과 피해차감을 얻는다.
   }
   {
     id: 10062
-    name: enemy_illustration_skill-10010062
-    description: enemy_illustration_skill-20010062
+    name: 복수
+    description: 도스가 피해 기여도가 가장 높은 아군 유닛에게 달려들어 큰 피해를 준다. 십자 범위에 다른 아군 인형이 많을수록 피해량을 크게 줄일 수 있다.
   }
   {
     id: 10063
-    name: enemy_illustration_skill-10010063
-    description: enemy_illustration_skill-20010063
+    name: 모드 변환
+    description: 헤카테는 체력이 50% 이상이면 공격 모드, 50% 미만이면 수비 모드가 된다.
   }
   {
     id: 10064
-    name: enemy_illustration_skill-10010064
-    description: enemy_illustration_skill-20010064
+    name: 공격·전자기
+    description: 공격 모드에서 헤카테가 무작위 대상에게 필중 피해를 주고 장갑과 회피를 감소시키며, 대상 주위 유닛의 버프를 해제한다.
   }
   {
     id: 10065
-    name: enemy_illustration_skill-10010065
-    description: enemy_illustration_skill-20010065
+    name: 공격·강화
+    description: 공격 모드에서 아군이 편제를 잃을 때마다 헤카테의 화력과 명중이 상승한다.
   }
   {
     id: 10066
-    name: enemy_illustration_skill-10010066
-    description: enemy_illustration_skill-20010066
+    name: 공격·비콘
+    description: 공격모드에서 헤카테가 피해도가 가장 높은 아군 유닛 위치에 비콘을 발사한다. 경고 이후 공습으로 큰 피해를 준다.
   }
   {
     id: 10067
-    name: enemy_illustration_skill-10010067
-    description: enemy_illustration_skill-20010067
+    name: 수비·약화
+    description: 수비 모드에서 헤카테가 무작위 한 열의 화력을 대폭 감소시킨다.
   }
   {
     id: 10068
-    name: enemy_illustration_skill-10010068
-    description: enemy_illustration_skill-20010068
+    name: 수비·수호
+    description: 수비 모드에서 헤카테가 빈번하게 보호막과 피해차감 효과를 얻는다.
   }
   {
     id: 10069
-    name: enemy_illustration_skill-10010069
-    description: enemy_illustration_skill-20010069
+    name: 수비·밀치기
+    description: 수비 모드에서 헤카테가 무작위 한 칸 유닛에게 연속 사격해 큰 피해를 준다, 헤카테의 보호막이 많을수록 피해량이 상승한다.
   }
   {
     id: 10087

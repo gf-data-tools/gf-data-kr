@@ -834,10 +834,9 @@
     type: 3
     arg: "44"
     code: Medal_2024ArenaBreakout
-    item_name: item-10000143
-    introduction: item-20000143
+    item_name: 라이트 체이서 훈장
+    introduction: '''"나비 성운" 이벤트에서 눈부신 성과를 올린 지휘관과 휘하 인형들에게 수여한다. "다크존의 안개는 모든 빛을 삼키지 못한다, 빛은 하늘에서 오기에."'''
     rank: 1
-    detail_introduction: item-30000143
   }
   {
     id: 301
@@ -15552,180 +15551,162 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season17_1
-    item_name: item-10002583
-    introduction: item-20002583
+    item_name: 대은하계 · Code15: 은관
+    introduction: 대은하계 · Code15: 은관
     rank: 1
-    detail_introduction: item-30002583
   }
   {
     id: 2584
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season17_2
-    item_name: item-10002584
-    introduction: item-20002584
+    item_name: 조석력 · Code15: 은관
+    introduction: 조석력 · Code15: 은관
     rank: 1
-    detail_introduction: item-30002584
   }
   {
     id: 2585
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season17_3
-    item_name: item-10002585
-    introduction: item-20002585
+    item_name: 융합 핵심 · Code15: 은관
+    introduction: 융합 핵심 · Code15: 은관
     rank: 1
-    detail_introduction: item-30002585
   }
   {
     id: 2586
     type: 5
     arg: "1"
     code: profilePic_ArenaBreakout_Evita
-    item_name: item-10002586
-    introduction: item-20002586
+    item_name: 에비타 - 복합 호흡
+    introduction: 에비타 - 복합 호흡
     rank: 1
-    detail_introduction: item-30002586
   }
   {
     id: 2587
     type: 5
     arg: "1"
     code: profilePic_ArenaBreakout_Hecate
-    item_name: item-10002587
-    introduction: item-20002587
+    item_name: 헤카테 - 페이탈 포커스
+    introduction: 헤카테 - 페이탈 포커스
     rank: 1
-    detail_introduction: item-30002587
   }
   {
     id: 2588
     type: 5
     arg: "1"
     code: profilePic_ArenaBreakout_P90
-    item_name: item-10002588
-    introduction: item-20002588
+    item_name: P90 - 미라지 트루퍼
+    introduction: P90 - 미라지 트루퍼
     rank: 1
-    detail_introduction: item-30002588
   }
   {
     id: 2589
     type: 5
     arg: "1"
     code: profilePic_ArenaBreakout_MDR
-    item_name: item-10002589
-    introduction: item-20002589
+    item_name: MDR - DDOS 특공대
+    introduction: MDR - DDOS 특공대
     rank: 1
-    detail_introduction: item-30002589
   }
   {
     id: 2590
     type: 5
     arg: "1"
     code: profilePic_sangvis_M16A1_Boss
-    item_name: item-10002590
-    introduction: item-20002590
+    item_name: 벨루가 아이콘
+    introduction: 벨루가 아이콘
     rank: 1
-    detail_introduction: item-30002590
   }
   {
     id: 2591
     type: 5
     arg: "1"
     code: profilePic_2024ArenaBreakout_01
-    item_name: item-10002591
-    introduction: item-20002591
+    item_name: 아이콘: 낭인의 칼
+    introduction: 아이콘: 낭인의 칼
     rank: 1
-    detail_introduction: item-30002591
   }
   {
     id: 2592
     type: 5
     arg: "1"
     code: profilePic_2024ArenaBreakout_02
-    item_name: item-10002592
-    introduction: item-20002592
+    item_name: 아이콘: 추종자
+    introduction: 아이콘: 추종자
     rank: 1
-    detail_introduction: item-30002592
   }
   {
     id: 2593
     type: 5
     arg: "1"
     code: profilePic_2024ArenaBreakout_03
-    item_name: item-10002593
-    introduction: item-20002593
+    item_name: 아이콘: 등반자
+    introduction: 아이콘: 등반자
     rank: 1
-    detail_introduction: item-30002593
   }
   {
     id: 2594
     type: 5
     arg: "1"
     code: profilePic_2024ArenaBreakout_04
-    item_name: item-10002594
-    introduction: item-20002594
+    item_name: 아이콘: 시련
+    introduction: 아이콘: 시련
     rank: 1
-    detail_introduction: item-30002594
   }
   {
     id: 2595
     type: 5
     arg: "1"
     code: profilePic_2024ArenaBreakout_05
-    item_name: item-10002595
-    introduction: item-20002595
+    item_name: 아이콘: 외래자
+    introduction: 아이콘: 외래자
     rank: 1
-    detail_introduction: item-30002595
   }
   {
     id: 2596
     type: 5
     arg: "1"
     code: card_2024ArenaBreakout_01
-    item_name: item-10002596
-    introduction: item-20002596
+    item_name: 카드 배경: 어수선한 총격전
+    introduction: 카드 배경: 어수선한 총격전
     rank: 1
-    detail_introduction: item-30002596
   }
   {
     id: 2597
     type: 5
     arg: "1"
     code: card_2024ArenaBreakout_02
-    item_name: item-10002597
-    introduction: item-20002597
+    item_name: 카드 배경: 16번 타깃
+    introduction: 카드 배경: 16번 타깃
     rank: 1
-    detail_introduction: item-30002597
   }
   {
     id: 2598
     type: 5
     arg: "1"
     code: cg_2024ArenaBreakout_01
-    item_name: item-10002598
-    introduction: item-20002598
+    item_name: 기지 배경: 은색 조각배
+    introduction: 기지 배경: 은색 조각배
     rank: 1
-    detail_introduction: item-30002598
   }
   {
     id: 2599
     type: 5
     arg: "1"
     code: profilePic_BattlePass_SAT8
-    item_name: item-10002599
-    introduction: item-20002599
+    item_name: S.A.T.8 - 노을 꽃밭의 노래
+    introduction: S.A.T.8 - 노을 꽃밭의 노래
     rank: 1
-    detail_introduction: item-30002599
   }
   {
     id: 2600
     type: 5
     arg: "1"
     code: card_BattlePass_SAT8
-    item_name: item-10002600
-    introduction: item-20002600
+    item_name: 카드 배경: 밤하늘 넘치는 별
+    introduction: 카드 배경: 밤하늘 넘치는 별
     rank: 1
-    detail_introduction: item-30002600
   }
   {
     id: 3501
@@ -16942,90 +16923,150 @@
     type: 1
     arg: "9301"
     code: intelligence1
-    item_name: item-10009301
-    introduction: item-20009301
+    item_name: 깔끔한 의료 도구 키트
+    introduction:
+      '''
+      >>>>깔끔한 의료 도구 키트.
+      무척 눈에 익은 의료 키트, 에비타 근처에서 많이 본 것 같다.
+      다크존에 금방 온 사람은 보통 에비타에게서 생존 용품을 구매한다.
+      구급팩, 지통제, 수술 봉투... 의료 물자도 총기처럼 비싼 게 좋겠지.
+      눈앞의 의료 키트는 무척 깔끔하게 정리되어 있다, 마치 새것처럼.
+      좋은 의사는 이래야지.
+      '''
     rank: 1
-    detail_introduction: item-30009301
   }
   {
     id: 9302
     type: 1
     arg: "9302"
     code: intelligence2
-    item_name: item-10009302
-    introduction: item-20009302
+    item_name: 잘 안 들리는 녹음 파일…
+    introduction:
+      '''
+      >>>>잘 안 들리는 녹음 파일, 억양으로 현지인들의 의논 소리인 것 같다.
+      "그...*(잡음)*...속았어, 다 털렸어!"
+      "콜롬이든 테빌라든 다 똑같아, 우리를 감시하고 있다고!"
+      "...좀 믿을 수 있는 사람 없어?"
+      "그 의사..."
+      "그 여자? 하하하, 내가 말하는데..."
+      "너도 조심해, 그...*(잡음)*...에비타란 년도... 무슨...*(잡음)*..."
+      >>>>재생 끝.
+      '''
     rank: 1
-    detail_introduction: item-30009302
   }
   {
     id: 9303
     type: 1
     arg: "9303"
     code: intelligence3
-    item_name: item-10009303
-    introduction: item-20009303
+    item_name: 낡은 나침반
+    introduction:
+      '''
+      >>>>낡은 나침반이다.
+      군용이 아니라 정밀도가 낮다. 소중히 보관한 것 같지만 겉의 칠이 조금 벗겨졌다.
+      만약 이것이 유명인사의 물건이라면 시장에서 좋은 가격에 팔 수 있을 것이다.
+      하지만 아무리 봐도 이건 평범한 고물 같다.
+      이것이 과연 누구의 손을 거쳤고, 어떤 길을 안내했는지 알 수가 없다.
+      '''
     rank: 1
-    detail_introduction: item-30009303
   }
   {
     id: 9304
     type: 1
     arg: "9304"
     code: intelligence4
-    item_name: item-10009304
-    introduction: item-20009304
+    item_name: 마모된 옛 금화
+    introduction:
+      '''
+      >>>>마모된 옛 금화.
+      대다수 화폐는 잘 안 닳는 재료로 만들지만, 이건 너무나도 오래됐다.
+      긴 세월의 세례를 받아 금화의 도안과 글씨 모두 흐릿하고 흠집도 많다.
+      도스는 자주 이 금화를 손가락으로 튕기면서 무언가를 느끼려는 것 같다...
+      지금 이 금화를 쥐고 있는 당신은 무엇을 느꼈는가?
+      권력의 유혹? 역사의 메아리? 아니면... 이걸 과연 얼마에 팔 수 있을지?
+      '''
     rank: 1
-    detail_introduction: item-30009304
   }
   {
     id: 9305
     type: 1
     arg: "9305"
     code: intelligence5
-    item_name: item-10009305
-    introduction: item-20009305
+    item_name: 건조 처리된 장미꽃
+    introduction:
+      '''
+      >>>>건조 처리된 장미꽃.
+      소문에 이 골짜기 일대는 예전에 꽃장사를 했다고 한다.
+      확실히 도스 산하의 꽃 장사에 관한 소문이 많다, 특히 낭만적인 장미가 주력 상품이라고.
+      카모나에는 분명 거대한 꽃 시장이 있기에 안토니오 패밀리가 큰 돈을 번 것이겠지.
+      식물 거래와 현지 인맥을 더하여 골짜기 전체를 지배한 것이다.
+      언제 기회가 되면 그의 화원을 구경해 봐야겠다.
+      '''
     rank: 1
-    detail_introduction: item-30009305
   }
   {
     id: 9306
     type: 1
     arg: "9306"
     code: intelligence6
-    item_name: item-10009306
-    introduction: item-20009306
+    item_name: 5.56×45mm M955 철갑탄 한 케이스
+    introduction:
+      '''
+      >>>>다크존에서 돌아다니려면 장비, 무기, 탄약이 모두 필요하다.
+      좋은 총알을 마다할 사람이 있을까? 관통력, 정밀도, 그리고 가성비 모두 고려할 요소다.
+      이 총알은 아마 누가 자신의 애총을 위해 준비한 거겠지.
+      이걸 자신이 차지할까? 아니면 그 "친구"에게 남겨줄까?
+      어느 쪽이든 가능한 선택지다. 하지만 만약 "지휘관"이라면...
+      '''
     rank: 1
-    detail_introduction: item-30009306
   }
   {
     id: 9307
     type: 1
     arg: "9307"
     code: intelligence7
-    item_name: item-10009307
-    introduction: item-20009307
+    item_name: 정성껏 관리된 등산고리
+    introduction:
+      '''
+      >>>>정성껏 관리된 등산고리.
+      헤카테를 잘 아는 사람은 모두 이 등산고리가 그녀의 보물인 걸 안다.
+      누구나 과거의 비밀이 있지만, 헤카테는 자신의 과거를 전혀 숨기지 않는다.
+      등반과 등산이 취미고, 동시의 그녀만의 명예다.
+      손 안의 기회를 단단히 붙잡고 끈질기게 위를 향한다. 그녀는 바로 그런 사람이다.
+      '''
     rank: 1
-    detail_introduction: item-30009307
   }
   {
     id: 9308
     type: 1
     arg: "9308"
     code: intelligence8
-    item_name: item-10009308
-    introduction: item-20009308
+    item_name: 다크존의 손그림 지도
+    introduction:
+      '''
+      >>>>다크존의 손그림 지도.
+      꽤나 오래된 지도로, 종이는 제법 멀쩡하지만, 각종 색깔의 펜으로 여러 차례 수정됐다.
+      카모나에서 블랙골드와 화이트울프 모두 지지하는 세력을 두고 다크존에서 한 자리를 차지하고 있다.
+      이 구역의 주인도 여러번 바뀌었다. 이곳의 사람은 어느 땐 다투고, 어느 땐 손을 잡았다.
+      이 지도의 소유자의 이름이 과연 몇 번이나 바뀔지는 아무도 예측할 수 없다...
+      '''
     rank: 1
-    detail_introduction: item-30009308
   }
   {
     id: 9309
     type: 1
     arg: "9309"
     code: intelligence9
-    item_name: item-10009309
-    introduction: item-20009309
+    item_name: 망가진 군번줄
+    introduction:
+      '''
+      >>>>망가진 군번줄.
+      심각하게 파손된 군번줄로, 총알에 관통당했고, 글씨도 알아보기 힘들다.
+      보통은 이 작은 쇳조각으로 소유자의 기본 정보를 파악할 수 있다.
+      이름, 혈액형, 군번, 출신지까지, 짧은 몇 글자 안에 농축되어 있다.
+      이 군번줄의 양식과 재질 모두 무척 눈에 익다, 분명 어디서 이것과 같은 물건을 봤을 텐데...
+      '''
     rank: 1
-    detail_introduction: item-30009309
   }
   {
     id: 10603
@@ -17284,10 +17325,9 @@
     type: 1
     arg: "30024"
     code: gift_bundle_BattlePass_SAT8
-    item_name: item-10030024
-    introduction: item-20030024
+    item_name: S.A.T.8 - 노을 꽃밭의 노래
+    introduction: 초원 위를 어린 양과 함께 산책하며 저녁 노을을 만끽하고, 수레에 가득 담은 수레국화로 지휘관님께 내 마음을 전한다... 이게 제가 떠올릴 수 있는 가장 따듯하고 행복한 그림이에요!
     rank: 1
-    detail_introduction: item-30030024
   }
   {
     id: 100001
@@ -19536,31 +19576,28 @@
     type: 4
     arg: "100245"
     code: Nova_medal_black
-    item_name: item-10100245
-    introduction: item-20100245
+    item_name: 노바훈장·나비 성운
+    introduction: 노바훈장·나비 성운
     rank: 1
-    detail_introduction: item-30100245
   }
   {
     id: 100246
     type: 4
     arg: "100246"
     code: Platinum_medal_black
-    item_name: item-10100246
-    introduction: item-20100246
+    item_name: 백금훈장·나비 성운
+    introduction: 백금훈장·나비 성운
     rank: 1
-    detail_introduction: item-30100246
   }
   {
     id: 100247
     type: 9
     arg: "100247"
     code: Coin_202411LorenzButterfly
-    item_name: item-10100247
-    introduction: item-20100247
+    item_name: 코엔
+    introduction: 다크존 유통 화폐, 공식적으로도 암시장에서도 가치를 인정받는다.
     rank: 1
     daily_limit: 60;180
-    detail_introduction: item-30100247
   }
   {
     id: 110001
@@ -21982,20 +22019,16 @@
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: item-10140047
-    introduction: item-20140047
+    item_name: *제24기 전선협약
     rank: 1
-    detail_introduction: item-30140047
   }
   {
     id: 140048
     type: 14
     arg: "1"
     code: Y_Z_zhihuiguan_Chessman
-    item_name: item-10140048
-    introduction: item-20140048
+    item_name: *제24기 전선협약 PLUS
     rank: 1
-    detail_introduction: item-30140048
   }
   {
     id: 160001
@@ -22446,10 +22479,9 @@
     type: 1
     arg: "1"
     code: profileFrame_BattlePass_SAT8
-    item_name: item-10200049
-    introduction: item-20200049
+    item_name: 액자·방목장 노래
+    introduction: 액자·방목장 노래
     rank: 1
-    detail_introduction: item-30200049
   }
   {
     id: 900030

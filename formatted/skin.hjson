@@ -9461,6 +9461,7 @@
     fit_gun: 369
     voice: 4
     dialog: 헉, 헉... 보, 보스... 설마 귀요미가 친구를 이렇게 잔뜩 사귈 줄 몰랐어. 나 혼자서 얘들 산책 못 시키겠어... 귀요미의 2호 주인으로서 좀 도와주면 안 될까?
+    gift_position: "32.6,44.1"
     order: 117
   }
   {
@@ -9549,12 +9550,11 @@
   }
   {
     id: 30024
-    name: skin-10030024
+    name: S.A.T.8 - 노을 꽃밭의 노래
     fit_gun: 188
     voice: 4
-    dialog: skin-20030024
-    note: skin-30030024
-    illustrator_cv: skin-40030024
+    dialog: 초원 위를 어린 양과 함께 산책하며 저녁 노을을 만끽하고, 수레에 가득 담은 수레국화로 지휘관님께 내 마음을 전한다... 이게 제가 떠올릴 수 있는 가장 따듯하고 행복한 그림이에요!
+    illustrator_cv: 豆芽,Asakura Azumi,
     order: 143
   }
   {
@@ -9570,52 +9570,46 @@
   }
   {
     id: 50002
-    name: skin-10050002
+    name: 에비타 - 복합 호흡
     fit_gun: 1045
     voice: 4
-    dialog: skin-20050002
-    note: skin-30050002
+    dialog: 부상이 심하진 않으니까 장기 기증 동의서는 안 써도 돼. 군의관이 총 들고 다니는 건 흔한 일이니까 놀랄 거 없어, 이걸로 마취받고 싶진 않겠지?
     gift_position: "-12.8,63.7"
-    illustrator_cv: skin-40050002
     order: 142
     class_id: 53
     skin_source: 1
   }
   {
     id: 50003
-    name: skin-10050003
+    name: 헤카테 - 페이탈 포커스
     fit_gun: 1046
     voice: 4
-    dialog: skin-20050003
-    note: skin-30050003
+    dialog: 싸움은 상대가 죽거나 내가 죽거나야. 오래 살다 보면 무서운 별명 한두 개쯤 붙는 법이지. 겁먹지 말고 익숙해지면 돼.
     gift_position: "-67,71"
-    illustrator_cv: skin-40050003
     order: 142
     class_id: 53
     skin_source: 1
   }
   {
     id: 50004
-    name: skin-10050004
+    name: P90 - 미라지 트루퍼
     fit_gun: 245
     voice: 4
-    dialog: skin-20050004
-    note: skin-30050004
+    dialog: 서포트라면 내게 맡겨줘! 상대 정신 쏙 빼놓는 게 내 특기니까! 천군만마를 봐도 놀라지는 마, 현기증도 들 수 있어, 그야 환각을 본 거니까.
     gift_position: "-130.8,-38.7"
-    illustrator_cv: skin-40050004
+    illustrator_cv: RIRE,Morohoshi Sumire,
     order: 142
     class_id: 53
     skin_source: 1
   }
   {
     id: 50005
-    name: skin-10050005
+    name: MDR - DDOS 특공대
     fit_gun: 215
     voice: 4
-    dialog: skin-20050005
-    note: skin-30050005
+    dialog: 냐하하! 그래! 또 이 MDR 님이 등판하셨다! 임무는 전부 나한테 맡기라구! 응? P90이랑 팀을 짠 이유? DDOS 공격이라고 들어봤어? 나랑 녀석은 현실과 네트워크 양쪽에서 동시에 비슷한 공격을 할 수 있다구...
     gift_position: "-127.5,-85.9"
-    illustrator_cv: skin-40050005
+    illustrator_cv: 小枪,Aimi,
     order: 142
     class_id: 53
     skin_source: 1

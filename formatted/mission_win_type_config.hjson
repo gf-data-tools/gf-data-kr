@@ -6254,32 +6254,46 @@
   {
     id: 1180100
     type: 1305
-    extra_language: mission_win_type_config-11180100
+    extra_language: 모든 적 처치
     is_show_count: "1"
   }
   {
     id: 1180101
     type: 1406
     arguments: 730111:0
-    extra_language: mission_win_type_config-11180101
+    extra_language: 일반인을 놀래키지 말 것
   }
   {
     id: 1180201
     type: 1407
     arguments: 730211:1
-    extra_language: mission_win_type_config-11180201
+    extra_language:
+      '''
+      지휘관이 레이더에 도달
+      주의: 지휘관은 전투 즉시 패배하니 신중히 행동하세요.
+      '''
+  }
+  {
+    id: 1180202
+    type: 1407
+    arguments: 730221:1
+    extra_language: 지휘관 퇴각 시 임무 실패
+    is_hidden: 2
   }
   {
     id: 1180301
     type: 1303
     arguments: 730301:1
-    extra_language: mission_win_type_config-11180301
   }
   {
     id: 1180501
     type: 1406
     arguments: 730111:1
-    extra_language: mission_win_type_config-11180501
+    extra_language:
+      '''
+      놀란 일반인이 최대 1명
+      주의: 일반인 주위 2칸 범위 이내에서 전투가 발생하면 놀랍니다.
+      '''
   }
   {
     id: 1180502
@@ -6292,13 +6306,12 @@
     id: 1180701
     type: 1303
     arguments: 730701:1
-    extra_language: mission_win_type_config-11180701
   }
   {
     id: 1180901
     type: 1402
     arguments: "2"
-    extra_language: mission_win_type_config-11180901
+    extra_language: 2턴까지 생존
   }
   {
     id: 1666101

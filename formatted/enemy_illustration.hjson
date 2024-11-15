@@ -6751,11 +6751,11 @@
   {
     sub_id: 100060001
     id: 100060
-    name: enemy_illustration-110060001
-    sub_name: enemy_illustration-150060001
+    name: 도스 보디가드
+    sub_name: 도스 보디가드-AR
     type: 3
     code: Guard1Breakout
-    introduce: enemy_illustration-120060001
+    introduce: 긴 시간 도스를 호위한 보디가드, 지하 조직답게 악독하다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6764,19 +6764,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130060001
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "106"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140060001
   }
   {
     sub_id: 100061001
     id: 100061
-    name: enemy_illustration-110061001
-    sub_name: enemy_illustration-150061001
+    name: 도스 보디가드
+    sub_name: 도스 보디가드-RF
     type: 3
     code: Guard2Breakout
-    introduce: enemy_illustration-120061001
+    introduce: 긴 시간 도스를 호위한 보디가드, 지하 조직답게 악독하다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6785,19 +6784,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130061001
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "106"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140061001
   }
   {
     sub_id: 100062001
     id: 100062
-    name: enemy_illustration-110062001
-    sub_name: enemy_illustration-150062001
+    name: 도스 보디가드
+    sub_name: 도스 보디가드-SG
     type: 3
     code: Guard3Breakout
-    introduce: enemy_illustration-120062001
+    introduce: 긴 시간 도스를 호위한 보디가드, 지하 조직답게 악독하다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6806,19 +6804,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130062001
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "106"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140062001
   }
   {
     sub_id: 100063001
     id: 100063
-    name: enemy_illustration-110063001
-    sub_name: enemy_illustration-150063001
+    name: 블랙골드 대원
+    sub_name: 블랙골드 대원-AR
     type: 3
     code: BG1Breakout
-    introduce: enemy_illustration-120063001
+    introduce: 블랙골드 어비스 분대원, 엄격한 훈련을 받은 정예 병력이다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6827,19 +6824,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130063001
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "107"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140063001
   }
   {
     sub_id: 100064001
     id: 100064
-    name: enemy_illustration-110064001
-    sub_name: enemy_illustration-150064001
+    name: 블랙골드 대원
+    sub_name: 블랙골드 대원-SMG
     type: 3
     code: BG2Breakout
-    introduce: enemy_illustration-120064001
+    introduce: 블랙골드 어비스 분대원, 엄격한 훈련을 받은 정예 병력이다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6848,19 +6844,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130064001
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "107"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140064001
   }
   {
     sub_id: 100065001
     id: 100065
-    name: enemy_illustration-110065001
-    sub_name: enemy_illustration-150065001
+    name: 블랙골드 대원
+    sub_name: 블랙골드 대원-RF
     type: 3
     code: BG3Breakout
-    introduce: enemy_illustration-120065001
+    introduce: 블랙골드 어비스 분대원, 엄격한 훈련을 받은 정예 병력이다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6869,19 +6864,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130065001
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "107"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140065001
   }
   {
     sub_id: 100066001
     id: 100066
-    name: enemy_illustration-110066001
-    sub_name: enemy_illustration-150066001
+    name: 도스 킬러
+    sub_name: 도스 킬러
     type: 3
     code: DisGuardBreakout
-    introduce: enemy_illustration-120066001
+    introduce: 도스가 보낸 킬러, 도스를 위해 목표를 제거한다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6890,19 +6884,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130066001
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "106"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140066001
   }
   {
     sub_id: 100067001
     id: 100067
-    name: enemy_illustration-110067001
-    sub_name: enemy_illustration-150067001
+    name: 특전대
+    sub_name: 특전대
     type: 3
     code: DisBGBreakout
-    introduce: enemy_illustration-120067001
+    introduce: 출신 불명인 특수병사, 전투 스타일을 보아 정규적 훈련을 받은 것 같다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6911,19 +6904,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130067001
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "107"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140067001
   }
   {
     sub_id: 100068001
     id: 100068
-    name: enemy_illustration-110068001
-    sub_name: enemy_illustration-150068001
+    name: 정예 도스 보디가드
+    sub_name: 정예 도스 보디가드
     type: 3
     code: EliteGuardBreakout
-    introduce: enemy_illustration-120068001
+    introduce: 도스의 보디가드 대장. 뛰어난 능력만큼 신임도 받고 있다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6932,19 +6924,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130068001
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "1001,106"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140068001
   }
   {
     sub_id: 100069001
     id: 100069
-    name: enemy_illustration-110069001
-    sub_name: enemy_illustration-150069001
+    name: 정예 블랙골드 대원
+    sub_name: 정예 블랙골드 대원
     type: 3
     code: EliteBGBreakout
-    introduce: enemy_illustration-120069001
+    introduce: 블랙골드 어비스 분대 정예 대원, 더 뛰어난 능력을 가지고 있다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6953,19 +6944,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130069001
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "1001,107"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140069001
   }
   {
     sub_id: 100070001
     id: 100070
-    name: enemy_illustration-110070001
-    sub_name: enemy_illustration-150070001
+    name: 도스
+    sub_name: 도스
     type: 1
     code: DosBreakout
-    introduce: enemy_illustration-120070001
+    introduce: 다크존 본토 세력인 안토니오 패밀리의 두목, 각종 불법 장사를 경영하고 있으며, 눈치 빠르고 악독하다. 항상 보디가드를 곁에 거느리고 다니는 만만하지 않은 거물이다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6974,20 +6964,19 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130070001
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "1001,106"
     enemy_skill: "10059,10060,10061,10062"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140070001
   }
   {
     sub_id: 100071001
     id: 100071
-    name: enemy_illustration-110071001
-    sub_name: enemy_illustration-150071001
+    name: 벨루가
+    sub_name: 벨루가
     type: 1
     code: M16A1Arena
-    introduce: enemy_illustration-120071001
+    introduce: 이력 불명, 목적 불명. 표면적인 신분으론 도스가 최근 포섭한 인력인 것 같다. 지휘관이 호송하는 상자를 유독 신경쓰는 모습을 보아 속사정을 아는 것 같다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6996,20 +6985,19 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130071001
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "1001,1004"
     enemy_skill: "8103,8202,8301"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140071001
   }
   {
     sub_id: 100072001
     id: 100072
-    name: enemy_illustration-110072001
-    sub_name: enemy_illustration-150072001
+    name: 헤카테
+    sub_name: 헤카테
     type: 1
     code: HecateBoss
-    introduce: enemy_illustration-120072001
+    introduce: 블랙골드 어비스 분대 분대장, 등반과 잠입 작전에 능하며, 뛰어난 지능과 작전 능력을 지니고 있다. 다크존에서도 악명 높은 부대장이다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -7018,11 +7006,10 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130072001
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "1001,107"
     enemy_skill: "10063,10064,10065,10066,10067,10068,10069"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140072001
   }
   {
     sub_id: 100082001

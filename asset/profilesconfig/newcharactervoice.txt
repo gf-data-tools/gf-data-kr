@@ -19851,3 +19851,93 @@ CR21Mod|NEWYEAR|새로운 한해에 기합을 잔뜩 넣어야지! 올해 훈련
 CR21Mod|TANABATA|소원? 딱히 없는데... 아예 지휘관과 같은 걸 적을까? 이뤄질 확률이 두 배가 되잖아!
 CR21Mod|VALENTINE|오늘은 단련을 쉬고 같이 쇼핑하러 갈까? 물론 초콜릿으로 섭취한 열량은 언제 또 소모해야겠지?
 CR21Mod|ALLHALLOWS|귀신을 만나도 겁먹지 마, 자신의 힘으로 해치우면 돼! ...아, 애들이 분장한 걸 깜빡했다. 미안 미안, 하하하~
+M16A1_Boss|GAIN01|Белуга, 아니면 계속 M16A1이라 불러도 돼. 어차피 다 코드네임일 뿐이고, 나는 여전히 나니까.
+M16A1_Boss|GAIN02|말했지? 다음에 만날 때도 우리는 여전히 친구라고.
+M16A1_Boss|HELLO|너는 여전하네, 만나자마자 일 이야기부터 꺼내고. 모닝 드링크 한잔 안 할래?
+M16A1_Boss|FORMATION01|내가 해야 할 일이 있다면 언제든지 말해.
+M16A1_Boss|FORMATION02|내가 철혈에서 어떻게 싸우는지 알고 싶다고? 곧 알게 될 거야.
+M16A1_Boss|FORMATION03|철혈을 부하로 쓰면 좋은 점은, 녀석들은 마인드맵 망가질 걱정 없다는 거지.
+M16A1_Boss|FEED01|이따 같이 한잔할래? 내 보답인 셈치고.
+M16A1_Boss|FEED02|부족해, 이걸론 한참 부족해...
+M16A1_Boss|BREAKTHROUGH01|내 한계까지, 아직 한참은 멀었어.
+M16A1_Boss|BREAKTHROUGH02|계속해, 아직 더 강해질 수 있으니까.
+M16A1_Boss|UPGRADE01|너도 알겠지만, 이건 아직 내 최고의 상태가 아니야.
+M16A1_Boss|UPGRADE02|내게 쓴 자원이 너한테 큰 부담이 되지 않았으면 좋겠는걸.
+M16A1_Boss|DIALOGUE01|위스키든 보드카든 상관없어, 달아 빠진 알코올 음료만 아니라면야 얼마든지 어울려 줄 수 있다고.
+M16A1_Boss|DIALOGUE02|오랜만에 그리폰 기지로 돌아오니 감회가 색다르네. 너도 그렇겠지?
+M16A1_Boss|DIALOGUE03|AR팀과 잘 지내냐고? 그럭저럭. RO는 나와 작전 뛰는 걸 꺼려하지 않고, AR-15는 여전히 옹고집이지. 대신 SOP2가 전보다 시끄러워진 것 같긴 하네...
+M16A1_Boss|GOATTACK|가자, 몸 좀 풀어보실까.
+M16A1_Boss|MEET|마음의 준비 단단히 했길 바란다.
+M16A1_Boss|ATTACK|철저하게 부숴라.
+M16A1_Boss|DEFENSE|힘을 보존해.
+M16A1_Boss|WIN|이런 상대쯤, 탄약과 식량 보급 없이도 간단히 해치울 수 있어.
+M16A1_Boss|RETREAT|미련 없이 잠시 후퇴한다.
+M16A1_Boss|DEAD01|변명은 없어, 내 힘이 부족한 거야...
+M16A1_Boss|DEAD02|이런 곳에서 쓰러지다니... 녀석이 아직 날 기다리는데...
+M16A1_Boss|SKILL01|하늘에서, 죽음이.
+M16A1_Boss|SKILL02|비크, 네 차례다.
+M16A1_Boss|SKILL03|강적을 상대해야 재미가 있지.
+M16A1_Boss|FIX|금방 작전에 복귀할 수 있어.
+M16A1_Boss|BLACKACTION|잠깐 나갔다 오는 건데, 내가 이대로 사라질 것 같은 표정 하지 마.
+M16A1_Boss|SOULCONTRACT|내 복귀 신청을 받아 줬을 때, 난 그저 네가 병력의 공백을 채우려는 줄 알았어. 예전처럼 전적으로 너의 신뢰를 받는 건 바라지도 않았어.<>그런데, 지휘관은 항상 날 놀라게 하는구나. 한 번 떠났던 인형을 다시 받아 주고, 심지어는 다시 모든 신뢰를 맡기다니.<>나는 그걸, 고맙게 받을 수밖에 없지.
+M16A1_Boss|DIALOGUEWEDDING|모든 일이 끝나고 나면, 어디 조용한 곳에서 술집을 열까 해. 너도 도와주지 않을래?
+M16A1_Boss|TITLECALL|소녀전선
+M16A1_Boss|PHRASE|마음껏 날뛰어보자고.
+M16A1_Boss|TIP|다 전장에서 쓸모 있는 것들이니까 기억하도록 해.
+M16A1_Boss|LOADING|조급해하지 말고, 기다리는 동안 같이 한잔하자.
+Evita|GAIN|다쳤어? 안심하고 내게 맡겨, 이제 넌 안전해.
+Evita|HELLO|오늘 느낌은 어때?
+Evita|FORMATION|단체 활동이야? 너무 간만이라 느낌도 잊어버렸네.
+Evita|FEED|후퇴할 여지는 없어.
+Evita|DIALOGUE1|붕대 다 감았어. 다음엔 조심하도록 해, 아니면 나를 데리고 가거나.
+Evita|DIALOGUE2|나는 그냥 의사야. 정말이야. 적어도 난 그랬으면 좋겠어.
+Evita|DIALOGUE3|음모와 계략 모두 전장 밑의 또 다른 대국이지, 우리에겐 기권할 자격이 없어.
+Evita|BUILDOVER|오랜만에 보는 새 얼굴이네, 내가 네 접선인이야.
+Evita|GOATTACK|부대 정렬, 출발.
+Evita|MEET|놈들을 깨끗이 해치워 버려.
+Evita|ATTACK|공격 준비.
+Evita|DEFENSE|당황하지 마, 수비 진형.
+Evita|BREAK|전장의 실패가 전략의 실패는 아니야.
+Evita|WIN|목표 달성.
+Evita|RETREAT|퇴로는 준비해 뒀어.
+Evita|SKILL1|버텨!
+Evita|SKILL2|화력 제압!
+Evita|SKILL3|내게 맡겨!
+Evita|OPERATIONBEGIN|이번엔 무슨 신분으로 출발할까...
+Evita|OPERATIONOVER|에비타, 복귀했다.
+Evita|FIX|난 신경쓰지 마, 내가 의사니까.
+Evita|COMBINE|책임도 더 커졌네.
+Evita|BLACKACTION|만족스러운 결과를 가져올게.
+Evita|SOULCONTRACT|이 반지를 쓰라고?<>너도 알지만 나는 출처가 불명인 물건을 소지할 수 없어, 하지만...<>괜찮겠지, 안 들키면 되는 거니까.<>나도 가끔 내가 진정으로 하고 싶은 일을 해야지, 예를 들어 이걸 손에 끼우는 것처럼.
+Evita|TITLECALL|소녀전선
+Evita|PHRASE|알았어.
+Evita|DIALOGUEWEDDING|네게 부탁할 임무가 있어. 길가에 저 케이크 가게... 아니, 거기에 스파이가 있는 건 아니고. 내가 부탁할 건, 거기서 케이크 한 조각 사줄 수 있을까?
+Evita|Introduce|다쳤어? 안심하고 내게 맡겨, 이제 넌 안전해.
+Hecate|GAIN|네가 새로운 보스야? 헤카테, 명령에 복종하겠다.
+Hecate|HELLO|오늘 타깃은 누구지?
+Hecate|FORMATION|내 부대엔 엘리트뿐이야.
+Hecate|FEED|나는 더 높이 올라갈 수 있어.
+Hecate|DIALOGUE1|군장 행군, 사격... 오늘의 훈련 과제가 앞으로 4개 남았어. 힘들단 소리하지 마, 내가 같이 훈련해줄 테니까.
+Hecate|DIALOGUE2|더 높은 산봉우리로 쉬지 않고 등반. 느껴져? 몸과 정신의 이중 도전이.
+Hecate|DIALOGUE3|다들 내가 우수한 건 알고 있어, 나도 알아서 유지하고 있고.
+Hecate|BUILDOVER|신참? 내 시련을 견딜 수 있으면 좋겠군.
+Hecate|GOATTACK|정신 똑바로 차리고, 출발한다!
+Hecate|MEET|놈들에게 맛 좀 보여줘라!
+Hecate|ATTACK|전장을 청소한다!
+Hecate|DEFENSE|은엄폐 주의!
+Hecate|BREAK|아직 지진 않았어.
+Hecate|WIN|승리가 헤카테의 일상이지.
+Hecate|RETREAT|임무 중지, 후퇴!
+Hecate|SKILL1|밀어붙여!
+Hecate|SKILL2|측면 돌격!
+Hecate|SKILL3|퇴로를 봉쇄하라!
+Hecate|OPERATIONBEGIN|실전이 훈련장보다 훨씬 효과 있지.
+Hecate|OPERATIONOVER|내일 이번 작전 보고서를 제출해.
+Hecate|FIX|양호한 상태를 유지하는 것이 병사의 기본 소양이다.
+Hecate|COMBINE|아직 발전할 여지가 있어.
+Hecate|BLACKACTION|내가 이번 임무를 전권 책임진다.
+Hecate|SOULCONTRACT|너만을 책임지라고?<>이것이 내 새 부대 편성인가, 규모는 어떻지?<>나 하나뿐이라고? 이해가 안 가는군, 지시를 더 명확하게 해라.<>그렇군, 고맙다. 완전히 이해했어. 조금 갑작스럽지만, 좋다. 그리고 나도 이미 준비가 되었으니까.
+Hecate|TITLECALL|소녀전선
+Hecate|PHRASE|목표를 확인했다.
+Hecate|DIALOGUEWEDDING|같이 등산해줘서 고마워, 그래도 너무 무리할 필요 없어, 조금 천천히 올라도 돼. 너와 같이 있는 것이 가장 중요한 임무 목표니까.
+Hecate|Introduce|네가 새로운 보스야? 헤카테, 명령에 복종하겠다.

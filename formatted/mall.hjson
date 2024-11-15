@@ -41906,7 +41906,7 @@
     id: 12196
     type: 8
     quota: 2001
-    giftbag_name: mall-10012196
+    giftbag_name: 헤카테
     event_code: dailyGiftbag
     discount: 1
     prize_id: 2699
@@ -41918,7 +41918,7 @@
     id: 12197
     type: 8
     quota: 2001
-    giftbag_name: mall-10012197
+    giftbag_name: 에비타 전용 장비: 의료 키트
     event_code: dailyGiftbag
     discount: 1
     prize_id: 2689
@@ -41930,7 +41930,7 @@
     id: 12198
     type: 8
     quota: 2001
-    giftbag_name: mall-10012198
+    giftbag_name: 헤카테 전용 장비: 합금 등산고리
     event_code: dailyGiftbag
     discount: 1
     prize_id: 2690
@@ -41943,7 +41943,7 @@
     type: 8
     item_ids: 2591-1
     quota: 2001
-    giftbag_name: mall-10012199
+    giftbag_name: 아이콘: 낭인의 칼
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
@@ -41955,7 +41955,7 @@
     type: 8
     item_ids: 2592-1
     quota: 2001
-    giftbag_name: mall-10012200
+    giftbag_name: 아이콘: 추종자
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
@@ -41967,7 +41967,7 @@
     type: 8
     item_ids: 2593-1
     quota: 2001
-    giftbag_name: mall-10012201
+    giftbag_name: 아이콘: 등반자
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
@@ -41979,7 +41979,7 @@
     type: 8
     item_ids: 2594-1
     quota: 2001
-    giftbag_name: mall-10012202
+    giftbag_name: 아이콘: 시련
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
@@ -41991,7 +41991,7 @@
     type: 8
     item_ids: 2595-1
     quota: 2001
-    giftbag_name: mall-10012203
+    giftbag_name: 아이콘: 외래자
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
@@ -42003,7 +42003,7 @@
     type: 8
     item_ids: 2596-1
     quota: 2001
-    giftbag_name: mall-10012204
+    giftbag_name: 카드 배경: 어수선한 총격전
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
@@ -42015,7 +42015,7 @@
     type: 8
     item_ids: 2597-1
     quota: 2001
-    giftbag_name: mall-10012205
+    giftbag_name: 카드 배경: 16번 타깃
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
@@ -42027,7 +42027,7 @@
     type: 8
     item_ids: 2598-1
     quota: 2001
-    giftbag_name: mall-10012206
+    giftbag_name: 기지 배경: 은색 조각배
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
@@ -42038,7 +42038,7 @@
     id: 12207
     type: 8
     quota: 2001
-    giftbag_name: mall-10012207
+    giftbag_name: 가구: 무기 진열장
     event_code: dailyGiftbag
     discount: 1
     prize_id: 2691
@@ -42050,7 +42050,7 @@
     id: 12208
     type: 8
     quota: 2001
-    giftbag_name: mall-10012208
+    giftbag_name: 가구: 전리품 전시대
     event_code: dailyGiftbag
     discount: 1
     prize_id: 2692
@@ -42062,7 +42062,7 @@
     id: 12209
     type: 8
     quota: 2001
-    giftbag_name: mall-10012209
+    giftbag_name: 가구: 명예 훈장
     event_code: dailyGiftbag
     discount: 1
     prize_id: 2693
@@ -42074,7 +42074,7 @@
     id: 12210
     type: 8
     quota: 2001
-    giftbag_name: mall-10012210
+    giftbag_name: 가구: 엠블럼 컬렉션
     event_code: dailyGiftbag
     discount: 1
     prize_id: 2694
@@ -42087,7 +42087,7 @@
     type: 8
     gift: 200023-1
     quota: 2050
-    giftbag_name: mall-10012211
+    giftbag_name: 철심 탄약
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
@@ -42099,7 +42099,7 @@
     type: 8
     gift: 100023-1
     quota: 2050
-    giftbag_name: mall-10012212
+    giftbag_name: 곡물 에너지바
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
@@ -42110,7 +42110,7 @@
     id: 12213
     type: 8
     quota: 2001
-    giftbag_name: mall-10012213
+    giftbag_name: FARA 83
     event_code: dailyGiftbag
     discount: 1
     prize_id: 1288
@@ -42122,7 +42122,7 @@
     id: 12214
     type: 8
     quota: 2001
-    giftbag_name: mall-10012214
+    giftbag_name: CZ2000
     event_code: dailyGiftbag
     discount: 1
     prize_id: 588
@@ -42134,7 +42134,7 @@
     id: 12215
     type: 8
     quota: 2001
-    giftbag_name: mall-10012215
+    giftbag_name: SL8
     event_code: dailyGiftbag
     discount: 1
     prize_id: 40205
@@ -42146,7 +42146,7 @@
     id: 12216
     type: 8
     quota: 2001
-    giftbag_name: mall-10012216
+    giftbag_name: VHS
     event_code: dailyGiftbag
     discount: 1
     prize_id: 1290
@@ -42159,7 +42159,7 @@
     type: 8
     gift: 100003-1
     quota: 2200
-    giftbag_name: mall-10012217
+    giftbag_name: 딸기치즈케익
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1
@@ -42171,7 +42171,7 @@
     type: 8
     gift: 100003-1
     quota: 2200
-    giftbag_name: mall-10012218
+    giftbag_name: 딸기치즈케익
     event_code: dailyGiftbag
     discount: 1
     pay_type: 1

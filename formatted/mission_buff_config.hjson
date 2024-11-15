@@ -674,8 +674,7 @@
   }
   {
     id: 30015
-    name: mission_buff_config-10030015
-    description: mission_buff_config-20030015
+    name: 공생
     code: M16A1_2
     type: 1
     duration_type: "4"
@@ -879,6 +878,18 @@
     exp_buff: "1"
     free_ap_move: 1
     conflict_type: 78003
+    priority: 1
+  }
+  {
+    id: 300151
+    name: 공생
+    description: 전장내 아군을 강화한다.
+    code: M16A1_2
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 300151
     priority: 1
   }
   {
@@ -4729,8 +4740,8 @@
   }
   {
     id: 730001
-    name: mission_buff_config-10730001
-    description: mission_buff_config-20730001
+    name: 연기 나는 골리앗 소지
+    description: 연기 나는 골리앗 소지
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4742,8 +4753,8 @@
   }
   {
     id: 730011
-    name: mission_buff_config-10730011
-    description: mission_buff_config-20730011
+    name: 시야 막힘
+    description: 시야가 가려져 이동 불가
     code: Theresa_Back
     type: 1
     duration_type: "1"
@@ -4755,8 +4766,7 @@
   }
   {
     id: 730101
-    name: mission_buff_config-10730101
-    description: mission_buff_config-20730101
+    name: 놀람 체크
     type: 1
     duration_type: "1"
     duration_time: "999"

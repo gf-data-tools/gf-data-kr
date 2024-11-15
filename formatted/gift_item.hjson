@@ -12941,7 +12941,7 @@
   }
   {
     id: 50002
-    name: gift_item-10050002
+    name: 에비타 - 복합 호흡
     type: 2
     rank: 6
     favor: 50000
@@ -12949,16 +12949,15 @@
     skin: 50002
     poster: 350002
     code: gift_bundle_ArenaBreakout_Evita
-    normal_description: gift_item-20050002
-    bonus_description: gift_item-30050002
-    description: gift_item-50050002
-    detail_introduction: gift_item-40050002
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
     sort: 2000
     type_sort: 6
   }
   {
     id: 50003
-    name: gift_item-10050003
+    name: 헤카테 - 페이탈 포커스
     type: 2
     rank: 6
     favor: 50000
@@ -12966,16 +12965,15 @@
     skin: 50003
     poster: 350003
     code: gift_bundle_ArenaBreakout_Hecate
-    normal_description: gift_item-20050003
-    bonus_description: gift_item-30050003
-    description: gift_item-50050003
-    detail_introduction: gift_item-40050003
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
     sort: 2000
     type_sort: 6
   }
   {
     id: 50004
-    name: gift_item-10050004
+    name: P90 - 미라지 트루퍼
     type: 2
     rank: 6
     favor: 50000
@@ -12983,16 +12981,15 @@
     skin: 50004
     poster: 350004
     code: gift_bundle_ArenaBreakout_P90
-    normal_description: gift_item-20050004
-    bonus_description: gift_item-30050004
-    description: gift_item-50050004
-    detail_introduction: gift_item-40050004
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
     sort: 2000
     type_sort: 6
   }
   {
     id: 50005
-    name: gift_item-10050005
+    name: MDR - DDOS 특공대
     type: 2
     rank: 6
     favor: 50000
@@ -13000,10 +12997,9 @@
     skin: 50005
     poster: 350005
     code: gift_bundle_ArenaBreakout_MDR
-    normal_description: gift_item-20050005
-    bonus_description: gift_item-30050005
-    description: gift_item-50050005
-    detail_introduction: gift_item-40050005
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
     sort: 2000
     type_sort: 6
   }
@@ -13320,16 +13316,16 @@
   }
   {
     id: 100023
-    name: gift_item-10100023
+    name: 곡물 에너지바
     type: 1
     rank: 5
     favor: 30000
     code: gift_item_ArenaBreakoutBiscuits
-    normal_description: gift_item-20100023
-    bonus_description: gift_item-30100023
-    description: gift_item-50100023
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 없음
+    description: 선물받은 인형의 호감도가 3 상승합니다.
     item_access: "2"
-    detail_introduction: gift_item-40100023
+    detail_introduction: 곡물을 가공해서 만든 스낵, 빠르게 열량을 보충할 수 있어, 다크존에서 인기가 많은 물자다.
     sort: -1018
     type_sort: 5
   }
@@ -13645,16 +13641,16 @@
   }
   {
     id: 200023
-    name: gift_item-10200023
+    name: 철심 탄약
     type: 3
     rank: 5
     code: gift_item_ArenaBreakoutBullet
-    normal_description: gift_item-20200023
-    bonus_description: gift_item-30200023
-    description: gift_item-50200023
+    normal_description: 인형과 요정에게 선물 시 경험치 획득
+    bonus_description: 없음
+    description: 숙소에서 인형에게 선물 시, 경험치가 10000 상승합니다.
     exp: 10000
     item_access: "2"
-    detail_introduction: gift_item-40200023
+    detail_introduction: 물자인 동시에 전리품, 대원들이 지금까지 거머쥔 승리와 곧 일어날 싸움을 의미하는, 다크존에서 생존하기 위한 자본이다.
     sort: -1018
     type_sort: 2
   }

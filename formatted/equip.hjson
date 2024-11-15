@@ -13512,8 +13512,12 @@
   }
   {
     id: 429
-    name: equip-10000429
-    description: equip-20000429
+    name: 의료 키트
+    description:
+      '''
+      화력<pow>
+      회피+<dodge>스킬 강화$에비타 전용
+      '''
     rank: 5
     category: 3
     type: 20
@@ -13526,7 +13530,7 @@
     develop_duration: 3600
     company: IOP
     fit_guns: "1045"
-    equip_introduction: equip-30000429
+    equip_introduction: 에비타가 평소 사용하는 의료 키트, 상용 구급 용품 외에도 다른 게 들어있다고 한다.
     powerup_mp: 0.3
     powerup_ammo: 0.23
     powerup_mre: 0.15
@@ -13539,13 +13543,16 @@
     is_addition: 1
     is_show: 1
     obtain_ids: "3118"
-    sp_description: equip-40000429
     description_skill: 1003511
   }
   {
     id: 430
-    name: equip-10000430
-    description: equip-20000430
+    name: 합금 등산고리
+    description:
+      '''
+      화력+<pow> 사속+<rate>
+      치명상<critical_harm_rate><%>스킬 강화$헤카테 전용
+      '''
     rank: 5
     category: 3
     type: 20
@@ -13559,7 +13566,7 @@
     develop_duration: 3120
     company: IOP
     fit_guns: "1046"
-    equip_introduction: equip-30000430
+    equip_introduction: 헤카테가 항시 휴대하는 등반 장비. 사용한 흔적이 별로 없지만 그래도 자주 유지보수하고 있다.
     powerup_mp: 0.3
     powerup_ammo: 0.25
     powerup_mre: 0.12
@@ -13572,7 +13579,6 @@
     is_addition: 1
     is_show: 1
     obtain_ids: "3118"
-    sp_description: equip-40000430
     description_skill: 1003618
   }
   {

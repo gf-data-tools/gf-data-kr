@@ -31,13 +31,13 @@
   }
   {
     id: 106
-    name: unit_character-10000106
-    character_des: unit_character-20000106
+    name: 안토니오 패밀리
+    character_des: 안토니오 패밀리 소속 유닛
   }
   {
     id: 107
-    name: unit_character-10000107
-    character_des: unit_character-20000107
+    name: 블랙골드 유니버설
+    character_des: 블랙골드 유니버설 소속 유닛
   }
   {
     id: 200
