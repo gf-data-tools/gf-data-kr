@@ -12556,6 +12556,118 @@
     type_sort: 6
   }
   {
+    id: 11001
+    name: 보이스 - 헬게이트 위치
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 389
+    skin: 11001
+    poster: 311001
+    code: gift_bundle_Mahoushaojiu2024_BoysAntiTank
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11002
+    name: Kar98k - 순백의 제사
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 46
+    skin: 11002
+    poster: 311002
+    code: gift_bundle_Mahoushaojiu2024_98K
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11003
+    name: MK3A1 - 앞마당 전래동화
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 367
+    skin: 11003
+    poster: 311003
+    code: gift_bundle_Mahoushaojiu2024_MK3A1
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11004
+    name: ZB-26 - 악몽 만화경
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 307
+    skin: 11004
+    poster: 311004
+    code: gift_bundle_Mahoushaojiu2024_ZB26
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11005
+    name: 콜트 M1851N - 풍양 자장가
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 400
+    skin: 11005
+    poster: 311005
+    code: gift_bundle_Mahoushaojiu2024_M1851N
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11006
+    name: Mk 12 - 보이드 팬텀
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 226
+    skin: 11006
+    poster: 311006
+    code: gift_bundle_Mahoushaojiu2024_Mk12
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11007
+    name: 토카레프 - 레이븐 섀도우
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 6
+    skin: 11007
+    poster: 311007
+    code: gift_bundle_Mahoushaojiu2024_TT33
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     type: 2
@@ -12909,7 +13021,7 @@
   }
   {
     id: 30024
-    name: 마티니 헨리-딸기색 두근거림
+    name: S.A.T.8 - 노을 꽃밭의 노래
     type: 2
     rank: 6
     favor: 50000

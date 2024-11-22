@@ -44471,7 +44471,7 @@
   {
     id: 37210
     name: 36 빛의 소리 - 임무 보상
-    item_ids: 45-100
+    item_ids: 45-100,161000-1
   }
   {
     id: 37211
@@ -44600,6 +44600,531 @@
     id: 37232
     name: 35-P3 사랑의 인사 - 임무 보상
     item_ids: 45-100
+  }
+  {
+    id: 37333
+    name: 검은 제비꽃 - 임무 보상
+    core: 10
+  }
+  {
+    id: 37334
+    name: WTR 황야 북쪽 - 임무 보상
+    item_ids: 9-30
+  }
+  {
+    id: 37335
+    name: WTR 눈 속의 사냥꾼 - 임무 보상
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+  }
+  {
+    id: 37336
+    name: WTR 너도밤나무 숲Ⅰ - 임무 보상
+    coins: 1-200
+  }
+  {
+    id: 37337
+    name: WTR 빨강, 파랑, 노랑의 구성 II - 임무 보상
+    gift: 200001-200
+  }
+  {
+    id: 37338
+    name: WTR 사슴벌레 - 임무 보상
+    item_ids: 506-200
+  }
+  {
+    id: 37339
+    name: WTR 눈밭의 아침 - 임무 보상
+    coins: 1-200
+  }
+  {
+    id: 37340
+    name: SPR 밤: 붉은 나무 - 임무 보상
+    coins: 2-200
+  }
+  {
+    id: 37341
+    name: SPR 구성VI - 임무 보상
+    item_ids: 45-100
+  }
+  {
+    id: 37342
+    name: SPR 회색 나무 - 임무 보상
+    item_ids: 514-30
+  }
+  {
+    id: 37343
+    name: SPR 빨강의 구도B - 임무 보상
+    item_ids: 44-300
+  }
+  {
+    id: 37344
+    name: SPR Tableau no.1 - 임무 보상
+    core: 10
+  }
+  {
+    id: 37345
+    name: SPR 파랑새의 날개 - 임무 보상
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+  }
+  {
+    id: 37346
+    name: SUM 백조, 9그룹 1번 - 임무 보상
+    coins: 2-200
+  }
+  {
+    id: 37347
+    name: SUM 로드 인 우드 - 임무 보상
+    coins: 1-600
+  }
+  {
+    id: 37348
+    name: SUM 푸른 방 안의 햇빛 - 임무 보상
+    item_ids: 14-100
+  }
+  {
+    id: 37349
+    name: SUM 삶이란 투쟁이다 - 임무 보상
+    item_ids: 506-100
+  }
+  {
+    id: 37350
+    name: SUM 저녁 기도 - 임무 보상
+    coins: 1-200
+  }
+  {
+    id: 37351
+    name: SUM 바람에 흩날리다 - 임무 보상
+    gift: 400001-50
+  }
+  {
+    id: 37352
+    name: AUT 파랑과 은색의 하모니 - 임무 보상
+    item_ids: 9-30
+  }
+  {
+    id: 37353
+    name: AUT 죽음과 삶 - 임무 보상
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37354
+    name: AUT 지붕위의 바이올린 - 임무 보상
+    item_ids: 15-100
+  }
+  {
+    id: 37355
+    name: AUT 죽음의 섬 - 임무 보상
+    coins: 2-600
+  }
+  {
+    id: 37356
+    name: AUT 항적 - 임무 보상
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+  }
+  {
+    id: 37357
+    name: AUT 푸른 날개가 달린 괘종시계 - 임무 보상
+    item_ids: 525-30
+  }
+  {
+    id: 37358
+    name: L1 생명의 나무 - 임무 보상
+    item_ids: 15-100
+  }
+  {
+    id: 37359
+    name: L4 원 속의 원 - 임무 보상
+    item_ids: 51-2
+  }
+  {
+    id: 37360
+    name: L2 중앙통제실 모니터 - 임무 보상
+    item_ids: 525-30
+  }
+  {
+    id: 37361
+    name: L3 수술대 - 임무 보상
+    coins: 2-200
+  }
+  {
+    id: 37362
+    name: F1 붉은 기사 - 임무 보상
+    coins: 1-200
+  }
+  {
+    id: 37363
+    name: F2 안개 바다 위의 방랑자 - 임무 보상
+    item_ids: 514-30
+  }
+  {
+    id: 37364
+    name: F3 블랙 스퀘어 - 임무 보상
+    item_ids: 506-100
+  }
+  {
+    id: 37365
+    name: F4 화가의 어머니 - 임무 보상
+    core: 10
+  }
+  {
+    id: 37366
+    name: F6 둔한 빨강 - 임무 보상
+    coins: 3-600
+  }
+  {
+    id: 37367
+    name: F5 조각상에 대한 은유 - 임무 보상
+    item_ids: 9-30
+  }
+  {
+    id: 37368
+    name: F9 포성 - 임무 보상
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37369
+    name: F7 인간의 아들 - 임무 보상
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+  }
+  {
+    id: 37370
+    name: F12 만종 - 임무 보상
+    item_ids: 45-150
+  }
+  {
+    id: 37371
+    name: F8 기억의 지속 - 임무 보상
+    item_ids: 45-100
+  }
+  {
+    id: 37372
+    name: F15 게르니카 - 임무 보상
+    mp: 300
+    ammo: 300
+    mre: 300
+    part: 300
+  }
+  {
+    id: 37373
+    name: F10 하양 위의 하양 - 임무 보상
+    item_ids: 14-100
+  }
+  {
+    id: 37374
+    name: F18 최후의 심판 - 임무 보상
+    item_ids: 51-2
+  }
+  {
+    id: 37375
+    name: F11 홍해의 기적 - 임무 보상
+    coins: 1-200
+  }
+  {
+    id: 37377
+    name: WTR 눈 속의 사냥꾼-UX - 임무 보상
+    item_ids: 45-200
+  }
+  {
+    id: 37378
+    name: WTR 빨강, 파랑, 노랑의 구성 II-UX - 임무 보상
+    item_ids: 51-2
+  }
+  {
+    id: 37379
+    name: SPR 구성VI-UX - 임무 보상
+    item_ids: 44-500
+  }
+  {
+    id: 37380
+    name: SPR 빨강의 구도B-UX - 임무 보상
+    item_ids: 9-120
+  }
+  {
+    id: 37381
+    name: SUM 로드 인 우드-UX - 임무 보상
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37382
+    name: SUM 삶이란 투쟁이다-UX - 임무 보상
+    item_ids: 45-200
+  }
+  {
+    id: 37383
+    name: AUT 죽음과 삶-UX - 임무 보상
+    item_ids: 51-2
+  }
+  {
+    id: 37384
+    name: AUT 죽음의 섬-UX - 임무 보상
+    item_ids: 46-400
+  }
+  {
+    id: 37385
+    name: L4 원 속의 원-UX - 임무 보상
+    core: 10
+  }
+  {
+    id: 37386
+    name: F3 블랙 스퀘어-EX - 임무 보상
+    coins: 1-800
+  }
+  {
+    id: 37387
+    name: F6 둔한 빨강-EX - 임무 보상
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37388
+    name: F9 포성-EX - 임무 보상
+    coins: 2-800
+  }
+  {
+    id: 37389
+    name: F12 만종-EX - 임무 보상
+    mp: 1500
+    ammo: 1500
+    mre: 1500
+    part: 1500
+  }
+  {
+    id: 37390
+    name: F15 게르니카-EX - 임무 보상
+    coins: 3-800
+  }
+  {
+    id: 37391
+    name: F18 최후의 심판-EX - 임무 보상
+    item_ids: 51-2
+  }
+  {
+    id: 37392
+    name: F3 블랙 스퀘어-UX - 임무 보상
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+  }
+  {
+    id: 37393
+    name: F6 둔한 빨강-UX - 임무 보상
+    item_ids: 45-200
+  }
+  {
+    id: 37394
+    name: F9 포성-UX - 임무 보상
+    mp: 600
+    ammo: 600
+    mre: 600
+    part: 600
+  }
+  {
+    id: 37395
+    name: F12 만종-UX - 임무 보상
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 37396
+    name: F15 게르니카-UX - 임무 보상
+    core: 10
+  }
+  {
+    id: 37397
+    name: F18 최후의 심판-UX - 임무 보상
+    core: 10
+  }
+  {
+    id: 37398
+    name: 4점 투시-Ⅰ - 임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 37399
+    name: 4점 투시-Ⅱ - 임무 보상
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+  }
+  {
+    id: 37400
+    name: 5점 투시-Ⅰ - 임무 보상
+    gift: 200001-200
+  }
+  {
+    id: 37401
+    name: 5점 투시-Ⅱ - 임무 보상
+    item_ids: 46-200
+  }
+  {
+    id: 37404
+    name: 데저트 더스트 - 임무 보상
+    core: 10
+  }
+  {
+    id: 37405
+    name: 아이보리 블랙 - 임무 보상
+    core: 10
+  }
+  {
+    id: 37406
+    name: WTR 해질녘의 늪지대 - 임무 보상
+    coins: 2-200
+  }
+  {
+    id: 37407
+    name: SUM 황금방울새 - 임무 보상
+    coins: 3-200
+  }
+  {
+    id: 37408
+    name: SUM 백조, 9그룹 6번 - 임무 보상
+    core: 10
+  }
+  {
+    id: 37409
+    name: L5 우회전-좌회전 - 임무 보상
+    core: 10
+  }
+  {
+    id: 37410
+    name: L6 전달창 - 임무 보상
+    core: 10
+  }
+  {
+    id: 37411
+    name: L7 정화장치 - 임무 보상
+    item_ids: 45-100
+  }
+  {
+    id: 37412
+    name: L8 거울 앞에 있는 소녀 - 임무 보상
+    item_ids: 9-30
+  }
+  {
+    id: 37413
+    name: F13 대홍수 - 임무 보상
+    item_ids: 506-200
+  }
+  {
+    id: 37414
+    name: F14 기사, 사신과 악마 - 임무 보상
+    core: 10
+  }
+  {
+    id: 37415
+    name: F16 죽음과 불 - 임무 보상
+    item_ids: 9-30
+  }
+  {
+    id: 37416
+    name: F17 검은 십자가 - 임무 보상
+    gift: 400001-50
+  }
+  {
+    id: 37417
+    name: F19 교황청 1호 10그룹 - 임무 보상
+    coins: 1-200
+  }
+  {
+    id: 37418
+    name: F20 해질녘 - 임무 보상
+    item_ids: 525-30,161001-1
+  }
+  {
+    id: 37419
+    name: SSE01 플랫폼 - 임무 보상
+    coins: 1-200
+  }
+  {
+    id: 37420
+    name: SSE01-1 플랫폼 밑 통로 - 임무 보상
+    item_ids: 14-100
+  }
+  {
+    id: 37421
+    name: SSE02 통탑 로비 - 임무 보상
+    coins: 1-200
+  }
+  {
+    id: 37422
+    name: SSE02-1 동탑 2층(동) - 임무 보상
+    core: 10
+  }
+  {
+    id: 37423
+    name: SSE02-2 동탑 3층(서) - 임무 보상
+    coins: 3-200
+  }
+  {
+    id: 37424
+    name: SSE03 벌침 시스템 - 임무 보상
+    item_ids: 9-30
+  }
+  {
+    id: 37425
+    name: SSE03-1 동탑 32층 - 임무 보상
+    coins: 2-200
+  }
+  {
+    id: 37426
+    name: SSE03-2 동탑 37층 - 임무 보상
+    item_ids: 525-30
+  }
+  {
+    id: 37427
+    name: SSE03-3 동탑 40층 - 임무 보상
+    coins: 3-200
+  }
+  {
+    id: 37428
+    name: SSE04 유적 실험 구역 - 임무 보상
+    coins: 3-200
+  }
+  {
+    id: 37429
+    name: SSE04-1 통제 센터 - 임무 보상
+    coins: 2-200
+  }
+  {
+    id: 37430
+    name: SSE04-2 모의 영상관 - 임무 보상
+    item_ids: 15-100
+  }
+  {
+    id: 37431
+    name: SSE04-3 투사 실험 구역 - 임무 보상
+    coins: 3-200
+  }
+  {
+    id: 37432
+    name: SSE05 수술층 - 임무 보상
+    core: 10
+  }
+  {
+    id: 37433
+    name: SSE06 비밀복도 - 임무 보상
+    coins: 3-200
+  }
+  {
+    id: 37434
+    name: AUT 돈 강의 밤 - 임무 보상
+    item_ids: 46-200
   }
   {
     id: 40001
@@ -55973,6 +56498,51 @@
     id: 121042
     name: 벼락치기 나이트
     furniture: "20109"
+  }
+  {
+    id: 121043
+    name: 겨울밤의 방문
+    furniture: "20092"
+  }
+  {
+    id: 121044
+    name: 백만송이 장미
+    furniture: "20093"
+  }
+  {
+    id: 121045
+    name: 잿더미 천장
+    furniture: "20094"
+  }
+  {
+    id: 121046
+    name: 자유의 족쇄
+    furniture: "20095"
+  }
+  {
+    id: 121047
+    name: 성배호
+    furniture: "20096"
+  }
+  {
+    id: 121048
+    name: 과거의 그림자
+    furniture: "20097"
+  }
+  {
+    id: 121049
+    name: 늑대무리의 주시
+    furniture: "20098"
+  }
+  {
+    id: 121050
+    name: 동트는 하늘
+    furniture: "20099"
+  }
+  {
+    id: 121051
+    name: 이름 없는 자
+    furniture: "20100"
   }
   {
     id: 130001

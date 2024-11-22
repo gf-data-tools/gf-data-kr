@@ -841,8 +841,8 @@ COMMON,1829,캡처 저장됨,,0
 COMMON,1830,우편 내용에 수정이 없습니다.,,0
 COMMON,1831,동영상 다운로드 실패//c 다시 시도하겠습니까?,,0
 COMMON,1832,특전 적군,,0
-COMMON,1833,搜索名称(todo),,0
-COMMON,1834,请先选择一个类型(todo),,0
+COMMON,1833,이름 검색,,0
+COMMON,1834,타입을 하나 선택하세요,,0
 BATTLE,10000,퇴각,,0
 BATTLE,10001,전체퇴각,,0
 BATTLE,10002,WITHDRAW,,0
@@ -5105,6 +5105,16 @@ SEPCIALOPS,60834,새 일거리야. "현지인"하곤 잘 지내고 있어?,,0
 SEPCIALOPS,60835,너를 지명한 의뢰가 있어//c 받을래?,,0
 SEPCIALOPS,60836,총 전투 시간,,0
 SEPCIALOPS,60837,부품 합계,,0
+SEPCIALOPS,60838,매각,,0
+SEPCIALOPS,60839,닫기,,0
+SEPCIALOPS,60840, 후 철수합니다. 버텨주세요.,,0
+SEPCIALOPS,60841,작전 결산,,0
+SEPCIALOPS,60842,작전 보고,,0
+SEPCIALOPS,60843,적 섬멸,,0
+SEPCIALOPS,60844,유닛 손실,,0
+SEPCIALOPS,60845,작전 시간,,0
+SEPCIALOPS,60846,리더 능력,,0
+SEPCIALOPS,60847,다시 도전,,0
 GASHAPON,70000,현재 가구 창고 공간이 부족합니다,,0
 GASHAPON,70001,)//c 정리 후 구매를 진행해주세요!,,0
 GASHAPON,70002,구매토큰이 부족하여//c 구매할 수 없습니다.,,0

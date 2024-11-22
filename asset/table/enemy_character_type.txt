@@ -2911,3 +2911,6 @@ enemy_character_type-30900711,
 enemy_character_type-20900712,엠블라
 enemy_character_type-10900712,？？？
 enemy_character_type-30900712,
+enemy_character_type-20017001,히드라
+enemy_character_type-10017001,고위협//c장갑//c위험
+enemy_character_type-30017001,

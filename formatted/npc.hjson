@@ -1,5 +1,12 @@
 [
   {
+    id: -26
+    name: 벨루가
+    code: M16A1_Boss
+    title: 벨루가
+    ai: 9999
+  }
+  {
     id: -25
     name: 카터
     code: NPC-Carter

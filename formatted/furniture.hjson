@@ -46510,6 +46510,111 @@
     rotate: "3"
   }
   {
+    id: 311001
+    name: 보이스 - 헬게이트 위치
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 보이스의 포스터
+    code: poster_Mahoushaojiu2024_BoysAntiTank
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311002
+    name: Kar98k - 순백의 제사
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Kar98k의 포스터
+    code: poster_Mahoushaojiu2024_98K
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311003
+    name: MK3A1 - 앞마당 전래동화
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MK3A1의 포스터
+    code: poster_Mahoushaojiu2024_MK3A1
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311004
+    name: ZB-26 - 악몽 만화경
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ZB-26의 포스터
+    code: poster_Mahoushaojiu2024_ZB26
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311005
+    name: 콜트 M1851N - 풍양 자장가
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 콜트 M1851N의 포스터
+    code: poster_Mahoushaojiu2024_M1851N
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311006
+    name: Mk 12 - 보이드 팬텀
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Mk 12의 포스터
+    code: poster_Mahoushaojiu2024_Mk12
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311007
+    name: 토카레프 - 레이븐 섀도우
+    classes: 301
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 토카레프의 포스터
+    code: poster_Mahoushaojiu2024_TT33
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 330001
     name: ST AR-15 - 여름의 솔솔 바람
     classes: 300

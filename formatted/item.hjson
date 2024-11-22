@@ -15709,6 +15709,69 @@
     rank: 1
   }
   {
+    id: 2601
+    type: 5
+    arg: "1"
+    code: profilePic_Mahoushaojiu2024_BoysAntiTank
+    item_name: 보이스 - 헬게이트 위치
+    introduction: 보이스 - 헬게이트 위치
+    rank: 1
+  }
+  {
+    id: 2602
+    type: 5
+    arg: "1"
+    code: profilePic_Mahoushaojiu2024_98K
+    item_name: Kar98k - 순백의 제사
+    introduction: Kar98k - 순백의 제사
+    rank: 1
+  }
+  {
+    id: 2603
+    type: 5
+    arg: "1"
+    code: profilePic_Mahoushaojiu2024_MK3A1
+    item_name: MK3A1 - 앞마당 전래동화
+    introduction: MK3A1 - 앞마당 전래동화
+    rank: 1
+  }
+  {
+    id: 2604
+    type: 5
+    arg: "1"
+    code: profilePic_Mahoushaojiu2024_ZB26
+    item_name: ZB-26 - 악몽 만화경
+    introduction: ZB-26 - 악몽 만화경
+    rank: 1
+  }
+  {
+    id: 2605
+    type: 5
+    arg: "1"
+    code: profilePic_Mahoushaojiu2024_M1851N
+    item_name: 콜트 M1851N - 풍양 자장가
+    introduction: 콜트 M1851N - 풍양 자장가
+    rank: 1
+  }
+  {
+    id: 2606
+    type: 5
+    arg: "1"
+    code: profilePic_Mahoushaojiu2024_Mk12
+    item_name: Mk 12 - 보이드 팬텀
+    introduction: Mk 12 - 보이드 팬텀
+    rank: 1
+  }
+  {
+    id: 2607
+    type: 5
+    arg: "1"
+    code: profilePic_Mahoushaojiu2024_TT33
+    item_name: 토카레프 - 레이븐 섀도우
+    introduction: 토카레프 - 레이븐 섀도우
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -22044,9 +22107,9 @@
     id: 161000
     type: 1
     arg: "1"
-    code: PT
-    item_name: 타레우스-협력자 이미지
-    introduction: 타레우스-협력자 이미지
+    code: gift_bundle_Tareus_camouflage
+    item_name: 타레우스-위장 형태
+    introduction: 타레우스-위장 형태
     rank: 1
     detail_introduction: 기능성 물품 자리
   }
@@ -22054,9 +22117,9 @@
     id: 161001
     type: 1
     arg: "1"
-    code: PT
-    item_name: 사나-협력자 이미지
-    introduction: 사나-협력자 이미지
+    code: gift_bundle_Sana_daywear
+    item_name: 사나-일상복
+    introduction: 사나-일상복
     rank: 1
     detail_introduction: 기능성 물품 자리
   }
