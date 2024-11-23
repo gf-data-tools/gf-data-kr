@@ -24532,11 +24532,10 @@
     type: 15
     arg: "1500172"
     code: package_choose
-    item_name: item-11500172
-    introduction: item-21500172
+    item_name: 기초장비 선택 코드
+    introduction: 전선협약 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500172
     type_sort: 1
   }
   {
@@ -24544,11 +24543,10 @@
     type: 15
     arg: "1500173"
     code: package_choose
-    item_name: item-11500173
-    introduction: item-21500173
+    item_name: 부속 장비 선택 코드
+    introduction: 전선협약 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500173
     type_sort: 1
   }
   {
@@ -24556,11 +24554,10 @@
     type: 15
     arg: "1500174"
     code: package_random
-    item_name: item-11500174
-    introduction: item-21500174
+    item_name: 미획득 인형 확정 코드
+    introduction: 전선협약 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500174
     type_sort: 1
   }
   {
@@ -24568,11 +24565,10 @@
     type: 15
     arg: "1500175"
     code: package_random
-    item_name: item-11500175
-    introduction: item-21500175
+    item_name: 전선협약-추가보상
+    introduction: 전선협약 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500175
     type_sort: 1
   }
   {
@@ -25069,11 +25065,10 @@
     type: 15
     arg: "1700043"
     code: package_choose
-    item_name: item-11700043
-    introduction: item-21700043
+    item_name: 기초 장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31700043
     type_sort: 1
   }
   {
@@ -25081,11 +25076,10 @@
     type: 15
     arg: "1700044"
     code: package_choose
-    item_name: item-11700044
-    introduction: item-21700044
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31700044
     type_sort: 1
   }
   {
@@ -25093,11 +25087,10 @@
     type: 15
     arg: "1700045"
     code: package_choose
-    item_name: item-11700045
-    introduction: item-21700045
+    item_name: 고등 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31700045
     type_sort: 1
   }
   {
