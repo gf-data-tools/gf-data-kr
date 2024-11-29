@@ -17375,6 +17375,15 @@
     rank: 1
   }
   {
+    id: 10722
+    type: 18
+    arg: "10722"
+    code: daily_points
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
+    rank: 1
+  }
+  {
     id: 30023
     type: 1
     arg: "30023"
@@ -21707,6 +21716,96 @@
     code: LaserSup_1012
     item_name: 64년식-갤럭시-레이저 제압 장치
     introduction: 은하 세트 레이저 제압 장치, 적의 화력 조준을 방해한다.
+    rank: 5
+  }
+  {
+    id: 133136
+    type: 13
+    arg: "46"
+    code: ShotgunVehicle_1001
+    item_name: 데저트 옐로우-차량 산탄총
+    introduction: 근거리 밀집 목표에 대응하는 산탄 무기, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    rank: 5
+  }
+  {
+    id: 133137
+    type: 13
+    arg: "47"
+    code: MortarVehicle_1001
+    item_name: 데저트 옐로우-소형 박격포
+    introduction: 좁은 범위 폭격이 가능한 박격포, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    rank: 5
+  }
+  {
+    id: 133138
+    type: 13
+    arg: "48"
+    code: LaserRangefinder_1001
+    item_name: 데저트 옐로우-레이저 거리측량기
+    introduction: 원거리 공격 정밀도를 높이는 설비, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    rank: 5
+  }
+  {
+    id: 133139
+    type: 13
+    arg: "49"
+    code: CamouflageNet_1001
+    item_name: 데저트 옐로우-위장망
+    introduction: 전장에서 모습을 감추는 위장 파츠, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    rank: 5
+  }
+  {
+    id: 133140
+    type: 13
+    arg: "50"
+    code: GrilleArmor_1001
+    item_name: 데저트 옐로우-상부 격자 장갑
+    introduction: 다양화된 전장에 대비한 다목적 방호 장갑, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    rank: 5
+  }
+  {
+    id: 133141
+    type: 13
+    arg: "51"
+    code: ShotgunVehicle_1002
+    item_name: 시가전 위장-차량 산탄총
+    introduction: 근거리 밀집 목표에 대응하는 산탄 무기, 도면과 세팅된 시가전 위장 스타일로 도색.
+    rank: 5
+  }
+  {
+    id: 133142
+    type: 13
+    arg: "52"
+    code: MortarVehicle_1002
+    item_name: 시가전 위장-소형 박격포
+    introduction: 좁은 범위 폭격이 가능한 박격포, 도면과 세팅된 시가전 위장 스타일로 도색.
+    rank: 5
+  }
+  {
+    id: 133143
+    type: 13
+    arg: "46"
+    code: LaserRangefinder_1002
+    item_name: 시가전 위장-레이저 거리측량기
+    introduction: 원거리 공격 정밀도를 높이는 설비, 도면과 세팅된 시가전 위장 스타일로 도색.
+    rank: 5
+  }
+  {
+    id: 133144
+    type: 13
+    arg: "47"
+    code: CamouflageNet_1002
+    item_name: 시가전 위장-위장망
+    introduction: 전장에서 모습을 감추는 위장 파츠, 도면과 세팅된 시가전 위장 스타일로 도색.
+    rank: 5
+  }
+  {
+    id: 133145
+    type: 13
+    arg: "48"
+    code: GrilleArmor_1002
+    item_name: 시가전 위장-상부 격자 장갑
+    introduction: 다양화된 전장에 대비한 다목적 방호 장갑, 도면과 세팅된 시가전 위장 스타일로 도색.
     rank: 5
   }
   {

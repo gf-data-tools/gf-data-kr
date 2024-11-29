@@ -361,4 +361,22 @@
     group_skill: 2:1003403
     fit_gun: "20001"
   }
+  {
+    id: 41
+    name: 인과응보
+    des: M82A1을 위해 맞춤 제작된 세트. 작전 능력이 대폭 향상되는 동시에 작전 데이터를 기록하여 다음 전투를 보조합니다.
+    code: EgroupM82A1
+    equip_unit: "427,283,0"
+    group_skill: 2:1003803
+    fit_gun: "231"
+  }
+  {
+    id: 42
+    name: 냐오옹
+    des: IDW를 위해 맞춤 제작된 세트. 전력이 충분할 상황에서 전투력도 더욱 강력해집니다.
+    code: EgroupIDW
+    equip_unit: "102,0,428"
+    group_skill: 2:1003903
+    fit_gun: "20093"
+  }
 ]
