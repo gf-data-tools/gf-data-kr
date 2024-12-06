@@ -9422,10 +9422,10 @@
     name: 토카레프 - 레이븐 섀도우
     fit_gun: 6
     voice: 4
-    is_hidden: 2
     dialog: 별들이 반짝이는 밤은 언제 봐도 아름답네요. 하지만 저는 이제 소원을 빌 필요가 없어요... 가장 간절한 소원이 지금 제 곁에 있으니까요.
     order: 144
     class_id: 107
+    skin_source: 2
   }
   {
     id: 30001

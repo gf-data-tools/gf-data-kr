@@ -34850,7 +34850,6 @@
     item_ids: 7-1,41-50
     gift: 9006-1
     gemprice: 1888
-    if_cheap: 1
     quota: 2001
     giftbag_name: MP5 - 굿모닝 스패로우
     event_code: dailyGiftbag
@@ -35071,7 +35070,6 @@
     item_ids: 7-1,41-100
     gift: 10002-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: M110 - 어혼 사방홍
     event_code: dailyGiftbag
@@ -36863,7 +36861,6 @@
     item_ids: 7-1,41-100
     gift: 10108-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: QBU-191 - 그 향을 찾아서
     event_code: dailyGiftbag
@@ -36877,7 +36874,6 @@
     item_ids: 7-1,41-50
     gift: 10105-1
     gemprice: 1888
-    if_cheap: 1
     quota: 2001
     giftbag_name: PP-19 - 바람에 눈꽃 흩날려
     event_code: dailyGiftbag
@@ -36916,7 +36912,6 @@
     type: 8
     gift: 600-1
     gemprice: 1280
-    if_cheap: 1
     quota: 2001
     giftbag_name: 쿠사나기 모토코 - 고스트의 속삭임
     event_code: dailyGiftbag
@@ -36929,7 +36924,6 @@
     type: 8
     gift: 598-1
     gemprice: 1280
-    if_cheap: 1
     quota: 2001
     giftbag_name: 에사키 푸린 - 고스트 해커
     event_code: dailyGiftbag
@@ -36942,7 +36936,6 @@
     type: 8
     gift: 599-1
     gemprice: 1280
-    if_cheap: 1
     quota: 2001
     giftbag_name: 미즈카네 스즈카 - 몽중 레퀴엠
     event_code: dailyGiftbag
@@ -37102,7 +37095,6 @@
     item_ids: 7-1,41-100
     gift: 10208-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: Saiga-12 - 물속의 여린 그림자
     event_code: dailyGiftbag
@@ -37116,7 +37108,6 @@
     item_ids: 7-1,41-100
     gift: 10204-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: 류 소총 - 맑은 목소리 솔직한 마음
     event_code: dailyGiftbag
@@ -37130,7 +37121,6 @@
     item_ids: 7-1,41-100
     gift: 10201-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: Erma - 달밑 천사의 눈물
     event_code: dailyGiftbag
@@ -37651,7 +37641,6 @@
     item_ids: 41-50,7-1
     gift: 10304-1
     gemprice: 1888
-    if_cheap: 1
     quota: 2001
     giftbag_name: Mk48 - 연애뇌 메이커
     event_code: dailyGiftbag
@@ -39193,7 +39182,6 @@
     item_ids: 41-100,7-1
     gift: 10404-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: ART556 - 여우숲 세레나데
     event_code: dailyGiftbag
@@ -39207,7 +39195,6 @@
     item_ids: 41-100,7-1
     gift: 10402-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: Vector - 잠깐의 심취
     event_code: dailyGiftbag
@@ -39221,7 +39208,6 @@
     item_ids: 41-100,7-1
     gift: 10406-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: FO-12 - 스위트 레스큐
     event_code: dailyGiftbag
@@ -39434,7 +39420,6 @@
     item_ids: 41-100,7-1
     gift: 10503-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: SIG MCX - 암흑봉인
     event_code: dailyGiftbag
@@ -40170,7 +40155,6 @@
     item_ids: 41-100,7-1
     gift: 10604-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: AUG Para - 클로브 티켓
     event_code: dailyGiftbag
@@ -40408,7 +40392,6 @@
     item_ids: 41-100,7-1
     gift: 10702-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: 라이노 - 캐슬링 룩
     event_code: dailyGiftbag
@@ -41007,7 +40990,6 @@
     item_ids: 41-100,7-1
     gift: 10805-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: SR-3MP - 건 앤 로즈 세레모니
     event_code: dailyGiftbag
@@ -41021,7 +41003,6 @@
     item_ids: 41-50,7-1
     gift: 10806-1
     gemprice: 1888
-    if_cheap: 1
     quota: 2001
     giftbag_name: 56-1식 - 찹쌀향 베일리
     event_code: dailyGiftbag
@@ -41472,7 +41453,6 @@
     item_ids: 41-100,7-1
     gift: 10905-1
     gemprice: 2588
-    if_cheap: 1
     quota: 2001
     giftbag_name: 웰로드 MkⅡ - 꼭두각시 아리아
     event_code: dailyGiftbag
@@ -42272,6 +42252,7 @@
     item_ids: 7-1,41-100
     gift: 11001-1
     gemprice: 2588
+    if_cheap: 1
     quota: 2001
     giftbag_name: 보이스 - 헬게이트 위치
     event_code: dailyGiftbag

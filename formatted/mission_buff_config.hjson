@@ -4613,6 +4613,7 @@
   {
     id: 690504
     name: 골리앗 소지
+    description: 골리앗 소지
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4716,6 +4717,7 @@
   {
     id: 690804
     name: EMP 폭탄 소지
+    description: EMP 폭탄 소지
     type: 1
     duration_type: "1"
     duration_time: "999"

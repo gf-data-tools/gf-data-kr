@@ -552,4 +552,15 @@
     desc: 이벤트 기간:2023.05.12-06.10
     scene_name: active_Slowshocklogo
   }
+  {
+    id: 49
+    campaign_id: -40403
+    tag: EP.|14
+    order: 15
+    name: 만성쇼크
+    chapter_name: 만성쇼크
+    bg_code: missionselect_SlowshockExt
+    event_prize_level: 10013
+    rank_id: "313"
+  }
 ]
