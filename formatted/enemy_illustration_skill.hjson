@@ -1248,6 +1248,31 @@
     description: 유닛 하나에게 독침을 쏜다. 그 유닛이 환각 유발 상태일 경우 즉사하고, 아닐 경우 지속피해를 받는다.
   }
   {
+    id: 246
+    name: enemy_illustration_skill-10000246
+    description: enemy_illustration_skill-20000246
+  }
+  {
+    id: 247
+    name: enemy_illustration_skill-10000247
+    description: enemy_illustration_skill-20000247
+  }
+  {
+    id: 248
+    name: enemy_illustration_skill-10000248
+    description: enemy_illustration_skill-20000248
+  }
+  {
+    id: 249
+    name: enemy_illustration_skill-10000249
+    description: enemy_illustration_skill-20000249
+  }
+  {
+    id: 250
+    name: enemy_illustration_skill-10000250
+    description: enemy_illustration_skill-20000250
+  }
+  {
     id: 999
     name: 갱신중
     description: 텍스트 작성중

@@ -5588,6 +5588,15 @@
     note: 오리지널
   }
   {
+    id: 5080
+    name: MP41-오리지널
+    fit_gun: 20267
+    voice: 4
+    is_hidden: 2
+    dialog: 오리지널
+    note: 오리지널
+  }
+  {
     id: 5101
     name: 류 소총 - 버드나무 여우불
     fit_gun: 316
@@ -9428,6 +9437,18 @@
     skin_source: 2
   }
   {
+    id: 11107
+    name: skin-10011107
+    fit_gun: 2
+    voice: 4
+    dialog: skin-20011107
+    note: skin-30011107
+    gift_position: "-105.7,46.8"
+    illustrator_cv: skin-40011107
+    order: 141
+    class_id: 106
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     fit_gun: 57
@@ -9629,6 +9650,17 @@
     dialog: 초원 위를 어린 양과 함께 산책하며 저녁 노을을 만끽하고, 수레에 가득 담은 수레국화로 지휘관님께 내 마음을 전한다... 이게 제가 떠올릴 수 있는 가장 따듯하고 행복한 그림이에요!
     illustrator_cv: 豆芽,Asakura Azumi,
     order: 143
+  }
+  {
+    id: 30025
+    name: skin-10030025
+    fit_gun: 85
+    voice: 4
+    is_hidden: 1
+    dialog: skin-20030025
+    note: skin-30030025
+    illustrator_cv: skin-40030025
+    order: 145
   }
   {
     id: 50001

@@ -160,4 +160,11 @@
     cost: 506-1000
     prize_id: "5033"
   }
+  {
+    id: "24"
+    title: 고립된 숲
+    description: 2024년 이벤트 PV
+    cost: 506-1000
+    prize_id: "5034"
+  }
 ]

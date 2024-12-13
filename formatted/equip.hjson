@@ -2483,7 +2483,7 @@
     max_level: 10
     auto_select_id: 20006
     is_show: 1
-    obtain_ids: "3050"
+    obtain_ids: "3050,3096"
   }
   {
     id: 95
@@ -2944,7 +2944,7 @@
     max_level: 10
     auto_select_id: 20011
     is_show: 1
-    obtain_ids: "3051"
+    obtain_ids: "3051,3096"
   }
   {
     id: 109
@@ -6487,7 +6487,7 @@
     max_level: 10
     auto_select_id: 19027
     is_show: 1
-    obtain_ids: "3005"
+    obtain_ids: "3005,3096"
     sp_description: 타깃-2
     description_skill: 115807
   }
@@ -6556,7 +6556,7 @@
     auto_select_id: 20035
     group_id: "6"
     is_show: 1
-    obtain_ids: "3006"
+    obtain_ids: "3006,3096"
     description_skill: 902391
   }
   {
@@ -7463,7 +7463,7 @@
     max_level: 10
     auto_select_id: 18073
     is_show: 1
-    obtain_ids: "3010"
+    obtain_ids: "3010,3096"
     description_skill: 756060
   }
   {
@@ -7599,7 +7599,7 @@
     max_level: 10
     auto_select_id: 20043
     is_show: 1
-    obtain_ids: "3012"
+    obtain_ids: "3012,3096"
     description_skill: 759011
   }
   {
@@ -7890,7 +7890,7 @@
     max_level: 10
     auto_select_id: 20045
     is_show: 1
-    obtain_ids: "3013"
+    obtain_ids: "3013,3096"
   }
   {
     id: 260
@@ -8088,7 +8088,7 @@
     max_level: 10
     auto_select_id: 18080
     is_show: 1
-    obtain_ids: "3015"
+    obtain_ids: "3015,3096"
     description_skill: 759019
   }
   {
@@ -8454,7 +8454,7 @@
     max_level: 10
     auto_select_id: 18087
     is_show: 1
-    obtain_ids: "3065"
+    obtain_ids: "3065,3096"
     description_skill: 759030
   }
   {
@@ -8860,7 +8860,7 @@
     max_level: 10
     auto_select_id: 18095
     is_show: 1
-    obtain_ids: "3069"
+    obtain_ids: "3069,3096"
     description_skill: 759041
   }
   {
@@ -9391,7 +9391,7 @@
     max_level: 10
     auto_select_id: 18106
     is_show: 1
-    obtain_ids: "3073"
+    obtain_ids: "3073,3096"
     description_skill: 759057
   }
   {
@@ -9753,7 +9753,7 @@
     max_level: 10
     auto_select_id: 18107
     is_show: 1
-    obtain_ids: "3074"
+    obtain_ids: "3074,3096"
     description_skill: 759065
   }
   {
@@ -9789,7 +9789,7 @@
     auto_select_id: 18108
     group_id: "30"
     is_show: 1
-    obtain_ids: "3075"
+    obtain_ids: "3075,3096"
     description_skill: 759066
   }
   {
@@ -9885,7 +9885,7 @@
     max_level: 10
     auto_select_id: 19047
     is_show: 1
-    obtain_ids: "3081"
+    obtain_ids: "3081,3096"
     description_skill: 759070
   }
   {
@@ -9951,7 +9951,7 @@
     max_level: 10
     auto_select_id: 19048
     is_show: 1
-    obtain_ids: "3082"
+    obtain_ids: "3082,3096"
     description_skill: 759072
   }
   {
@@ -10322,7 +10322,7 @@
     max_level: 10
     auto_select_id: 18113
     is_show: 1
-    obtain_ids: "3083"
+    obtain_ids: "3083,3096"
     sp_description: 제대 야시능력+5%
     description_skill: 759073
   }
@@ -10564,7 +10564,7 @@
     max_level: 10
     auto_select_id: 19054
     is_show: 1
-    obtain_ids: "3084"
+    obtain_ids: "3084,3096"
     description_skill: 759101
   }
   {
@@ -10632,7 +10632,7 @@
     max_level: 10
     auto_select_id: 19056
     is_show: 1
-    obtain_ids: "3085"
+    obtain_ids: "3085,3096"
     description_skill: 759131
   }
   {
@@ -10834,7 +10834,7 @@
     max_level: 10
     auto_select_id: 20058
     is_show: 1
-    obtain_ids: "3086"
+    obtain_ids: "3086,3096"
     description_skill: 759155
   }
   {
@@ -10940,7 +10940,7 @@
     max_level: 10
     auto_select_id: 20060
     is_show: 1
-    obtain_ids: "3087"
+    obtain_ids: "3087,3096"
     description_skill: 759214
   }
   {
@@ -11073,7 +11073,7 @@
     max_level: 10
     auto_select_id: 20064
     is_show: 1
-    obtain_ids: "3088"
+    obtain_ids: "3088,3096"
     description_skill: 759232
   }
   {
@@ -11174,7 +11174,7 @@
     max_level: 10
     auto_select_id: 20066
     is_show: 1
-    obtain_ids: "3089"
+    obtain_ids: "3089,3096"
     description_skill: 759246
   }
   {
@@ -13719,5 +13719,37 @@
     is_show: 1
     obtain_ids: "3112"
     description_skill: 1004001
+  }
+  {
+    id: 435
+    name: MP 다목적 외골격
+    description:
+      '''
+      화력<pow>
+      회피+<dodge>$MP41 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "-6,-3"
+    dodge: "16,21"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_MP41
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "267,20267"
+    equip_introduction: MP41을 위해 특별 제작한 외골격. MP41이 엄청 좋아해서 임무 나갈 때마다 착용합니다.
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: dodge:1000
+    max_level: 10
+    auto_select_id: 20094
+    is_show: 1
+    obtain_ids: "3016"
   }
 ]
