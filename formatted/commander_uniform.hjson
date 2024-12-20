@@ -3729,8 +3729,8 @@
   }
   {
     id: 6133
-    name: commander_uniform-10006133
-    description: commander_uniform-20006133
+    name: 금성 훈장
+    description: 다른 세계선에서, 카리나는 당신을 마중했고, 크루거가 당신에게 금성 훈장을 달아주면서, 당신은 그리폰 기지에 돌아왔다.
     code: Body
     icon: commander_6133_icon
     type: 3

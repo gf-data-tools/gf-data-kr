@@ -9437,16 +9437,77 @@
     skin_source: 2
   }
   {
+    id: 11101
+    name: Erma - 성야의 열쇠
+    fit_gun: 376
+    voice: 4
+    dialog: 어젯밤 반짝이는 선물상자를 봤어. 그런데 여는 순간 허공으로 흩어져 버렸어... 그게 그런 사람에게 부담이나 고통을 주는 선물이 아니길 빌어.
+    order: 146
+    class_id: 108
+    skin_source: 2
+  }
+  {
+    id: 11102
+    name: M99 - 달빛 바라보기
+    fit_gun: 128
+    voice: 4
+    dialog: 지휘관님! 와서 보세요, 제가 달 위에 산타클로스의 발자국을 찾았어요! 네? 그냥 망원경에 묻은 반점이라고요? 으음... 그런 것 같네요!
+    illustrator_cv: 小星,Okubo Rumi,
+    order: 146
+    class_id: 108
+    skin_source: 2
+  }
+  {
+    id: 11103
+    name: MP7 - 순록 택배
+    fit_gun: 28
+    voice: 4
+    dialog: 아, 사육사 씨. 메리 크리스마스. 방금 트리에서 사탕을 좀 따서 모두에게 나눠주려고 했어. 자, 사육사 씨가 첫번째 역이야.
+    gift_position: "-117.7,-85.9"
+    order: 146
+    class_id: 108
+    skin_source: 1
+  }
+  {
+    id: 11104
+    name: P50 - 리본에 흔들리는 별빛
+    fit_gun: 401
+    voice: 4
+    dialog: 자신을 리본으로 묶어서 선물로 포장한다든가... 서프라이즈보다는 현혹에 가깝지 않을까?
+    order: 146
+    class_id: 108
+    skin_source: 2
+  }
+  {
+    id: 11105
+    name: EM-2 - 품으로 데운 향기
+    fit_gun: 262
+    voice: 4
+    dialog: 아직 크리스마스 파티 계획이 없으시다면서요. 제가 향 좋은 와인이랑, 크랜베리 쿠키도 구웠는데... 혹시 흥미 있으신가요?
+    order: 146
+    class_id: 108
+  }
+  {
+    id: 11106
+    name: 팔콘 - 서리 종소리
+    fit_gun: 256
+    voice: 4
+    dialog: 종소리 울려라, 종소리 울려~ 좋아 좋아, 모두 박자 잘 맞추고 있어! 메리도 보고 있지만 말고 다같이 춤추자!
+    illustrator_cv: 脆片,Ohzora Naomi,
+    order: 146
+    class_id: 108
+    skin_source: 2
+  }
+  {
     id: 11107
-    name: skin-10011107
+    name: M1911 - 달링 키친 래빗
     fit_gun: 2
     voice: 4
-    dialog: skin-20011107
-    note: skin-30011107
+    dialog: 달링, 제가 몰래 알려줄게요♪ 사실 이 케이크에는 사랑에 빠지는 마법을 걸어놨지롱... 히히, 농담이에요! 달링이 내년 매일 즐겁고 행복해지는 소원을 빌었죠!
     gift_position: "-105.7,46.8"
-    illustrator_cv: skin-40011107
-    order: 141
-    class_id: 106
+    illustrator_cv: Alize,Matsui Eriko,
+    order: 146
+    class_id: 108
   }
   {
     id: 30001
@@ -9653,13 +9714,12 @@
   }
   {
     id: 30025
-    name: skin-10030025
+    name: PK-설야 나들이
     fit_gun: 85
     voice: 4
     is_hidden: 1
-    dialog: skin-20030025
-    note: skin-30030025
-    illustrator_cv: skin-40030025
+    dialog: 눈 내리는 밤 거대한 짐승이 나타나 길 잃은 여행자를 궁지에 몬다고 들었어. 하지만 그 소문은 내게 아무 소용 없지... 왜냐면 내가 바로 그 짐승에게 고삐를 묶을 강자니까.
+    illustrator_cv: --,Nazuka Kaori,
     order: 145
   }
   {

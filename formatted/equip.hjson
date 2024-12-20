@@ -13752,4 +13752,69 @@
     is_show: 1
     obtain_ids: "3016"
   }
+  {
+    id: 436
+    name: .440DE탄
+    description:
+      '''
+      화력+<pow>
+      치명률+<critical_percent><%>$데저트 이글 전용
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "7,11"
+    critical_percent: "8,10"
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: Magazine_SP_DesertEagle
+    develop_duration: 3180
+    company: IOP
+    fit_guns: "272"
+    equip_introduction: 병목형 탄피를 채용한 디자인에 .44구경의 탄두로 이루어진 탄약. 흔한 권총탄보다 작은 것 같지만 데저트 이글은 마음에 들어합니다.
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3
+    bonus_type: pow:1000,critical_percent:500
+    max_level: 10
+    auto_select_id: 19088
+    is_show: 1
+    obtain_ids: "3119"
+  }
+  {
+    id: 437
+    name: 류 지휘도
+    description:
+      '''
+      치명률+<critical_percent><%>
+      제대 화력+5%$류 소총 전용
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    critical_percent: "18,25"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: Accessories_SP_GeneralLiu
+    develop_duration: 2700
+    company: IOP
+    fit_guns: "316"
+    equip_introduction: 류 소총이 거금을 들여 장인을 고용해 만든 군도. 확실히 섬세한 솜씨로 만들어졌지만, 시판 가격에 비해 지나치게 비쌉니다.
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: critical_percent:1000
+    passive_skill: "1004301"
+    max_level: 10
+    auto_select_id: 18092
+    is_show: 1
+    obtain_ids: "3120"
+    sp_description: 제대 화력+5%
+  }
 ]

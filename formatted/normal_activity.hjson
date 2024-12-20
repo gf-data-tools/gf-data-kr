@@ -563,4 +563,16 @@
     event_prize_level: 10013
     rank_id: "313"
   }
+  {
+    id: 55
+    campaign_id: -49
+    tag: C.E.|2021
+    order: 102
+    name: 명절 이벤트Ⅲ
+    chapter_name: 한푼차이
+    bg_code: active_Xmas2021
+    bg_config: "#000000C7,#3D415166,#22d0ab,#FFFFFFFF"
+    desc: 이벤트 기간:21.12.24-22.01.14
+    scene_name: active_Xmas2021logo
+  }
 ]

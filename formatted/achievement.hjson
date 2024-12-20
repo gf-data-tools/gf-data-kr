@@ -17550,13 +17550,12 @@
     mre: 1000
     part: 1000
     core: 5
-    title: achievement-10001228
-    content: achievement-20001228
+    title: 아케소의 광휘
+    content: 합성곱 핵-전투 전역 4: 모든 이아손의 상자를 파괴
     type_sort: 100
     sort: 332
     icon_code: 12月隐藏1
     condition: 11848:9741405,11871:9741405,11876:9741405
-    commander_title: achievement-30001228
   }
   {
     identity: 1229
@@ -17568,12 +17567,11 @@
     mre: 1000
     part: 1000
     core: 5
-    title: achievement-10001229
-    content: achievement-20001229
+    title: 히든 업적2
+    content: 합성곱 핵의 스태프롤을 끝까지 시청
     type_sort: 100
     sort: 333
     icon_code: 12月隐藏2
     condition: "11868"
-    commander_title: achievement-30001229
   }
 ]

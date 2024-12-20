@@ -4325,10 +4325,15 @@
   }
   {
     id: 2401
-    name: mission_skill_config-10002401
+    name: 치유의 성가
     code: heal
-    description: mission_skill_config-20002401
-    lvup_description: mission_skill_config-30002401
+    description:
+      '''
+      이번 턴, 해당 제대가 치르는 첫 5회 전투 종료 시 각 유닛은 최대체력을 10%/15%/20%/25%/30% 회복한다.
+      6회째 전투부터 이 제대는 보우 효과를 얻는다. 이번 턴 내내 지속.
+      보우 효과: 이번 전투에서 모든 아군은 10% 피해차감 효과를 얻고, 15초마다 모든 디버프를 해제하며 2초 동안 피해를 받지 않는다.
+      '''
+    lvup_description: 피해 차감:10%
     skill_group_id: 24
     level: 1
     spot_type: "-1"
@@ -4341,10 +4346,15 @@
   }
   {
     id: 2402
-    name: mission_skill_config-10002402
+    name: 치유의 성가
     code: heal
-    description: mission_skill_config-20002402
-    lvup_description: mission_skill_config-30002402
+    description:
+      '''
+      이번 턴, 해당 제대가 치르는 첫 5회 전투 종료 시 각 유닛은 최대체력을 10%/15%/20%/25%/30% 회복한다.
+      6회째 전투부터 이 제대는 보우 효과를 얻는다. 이번 턴 내내 지속.
+      보우 효과: 이번 전투에서 모든 아군은 13% 피해차감 효과를 얻고, 15초마다 모든 디버프를 해제하며 2초 동안 피해를 받지 않는다.
+      '''
+    lvup_description: 피해 차감:13%
     skill_group_id: 24
     level: 2
     train_coin_type: 1
@@ -4359,10 +4369,15 @@
   }
   {
     id: 2403
-    name: mission_skill_config-10002403
+    name: 치유의 성가
     code: heal
-    description: mission_skill_config-20002403
-    lvup_description: mission_skill_config-30002403
+    description:
+      '''
+      이번 턴, 해당 제대가 치르는 첫 5회 전투 종료 시 각 유닛은 최대체력을 10%/15%/20%/25%/30% 회복한다.
+      6회째 전투부터 이 제대는 보우 효과를 얻는다. 이번 턴 내내 지속.
+      보우 효과: 이번 전투에서 모든 아군은 16% 피해차감 효과를 얻고, 15초마다 모든 디버프를 해제하며 2초 동안 피해를 받지 않는다.
+      '''
+    lvup_description: 피해 차감:16%
     skill_group_id: 24
     level: 3
     train_coin_type: 1
@@ -4377,10 +4392,15 @@
   }
   {
     id: 2404
-    name: mission_skill_config-10002404
+    name: 치유의 성가
     code: heal
-    description: mission_skill_config-20002404
-    lvup_description: mission_skill_config-30002404
+    description:
+      '''
+      이번 턴, 해당 제대가 치르는 첫 5회 전투 종료 시 각 유닛은 최대체력을 10%/15%/20%/25%/30% 회복한다.
+      6회째 전투부터 이 제대는 보우 효과를 얻는다. 이번 턴 내내 지속.
+      보우 효과: 이번 전투에서 모든 아군은 18% 피해차감 효과를 얻고, 15초마다 모든 디버프를 해제하며 2초 동안 피해를 받지 않는다.
+      '''
+    lvup_description: 피해 차감:18%
     skill_group_id: 24
     level: 4
     train_coin_type: 1
@@ -4395,10 +4415,15 @@
   }
   {
     id: 2405
-    name: mission_skill_config-10002405
+    name: 치유의 성가
     code: heal
-    description: mission_skill_config-20002405
-    lvup_description: mission_skill_config-30002405
+    description:
+      '''
+      이번 턴, 해당 제대가 치르는 첫 5회 전투 종료 시 각 유닛은 최대체력을 10%/15%/20%/25%/30% 회복한다.
+      6회째 전투부터 이 제대는 보우 효과를 얻는다. 이번 턴 내내 지속.
+      보우 효과: 이번 전투에서 모든 아군은 21% 피해차감 효과를 얻고, 15초마다 모든 디버프를 해제하며 2초 동안 피해를 받지 않는다.
+      '''
+    lvup_description: 피해 차감:21%
     skill_group_id: 24
     level: 5
     train_coin_type: 2
@@ -4413,10 +4438,15 @@
   }
   {
     id: 2406
-    name: mission_skill_config-10002406
+    name: 치유의 성가
     code: heal
-    description: mission_skill_config-20002406
-    lvup_description: mission_skill_config-30002406
+    description:
+      '''
+      이번 턴, 해당 제대가 치르는 첫 5회 전투 종료 시 각 유닛은 최대체력을 10%/15%/20%/25%/30% 회복한다.
+      6회째 전투부터 이 제대는 보우 효과를 얻는다. 이번 턴 내내 지속.
+      보우 효과: 이번 전투에서 모든 아군은 24% 피해차감 효과를 얻고, 15초마다 모든 디버프를 해제하며 2초 동안 피해를 받지 않는다.
+      '''
+    lvup_description: 피해 차감:24%
     skill_group_id: 24
     level: 6
     train_coin_type: 2
@@ -4432,10 +4462,15 @@
   }
   {
     id: 2407
-    name: mission_skill_config-10002407
+    name: 치유의 성가
     code: heal
-    description: mission_skill_config-20002407
-    lvup_description: mission_skill_config-30002407
+    description:
+      '''
+      이번 턴, 해당 제대가 치르는 첫 5회 전투 종료 시 각 유닛은 최대체력을 10%/15%/20%/25%/30% 회복한다.
+      6회째 전투부터 이 제대는 보우 효과를 얻는다. 이번 턴 내내 지속.
+      보우 효과: 이번 전투에서 모든 아군은 27% 피해차감 효과를 얻고, 15초마다 모든 디버프를 해제하며 2초 동안 피해를 받지 않는다.
+      '''
+    lvup_description: 피해 차감:27%
     skill_group_id: 24
     level: 7
     train_coin_type: 2
@@ -4451,10 +4486,15 @@
   }
   {
     id: 2408
-    name: mission_skill_config-10002408
+    name: 치유의 성가
     code: heal
-    description: mission_skill_config-20002408
-    lvup_description: mission_skill_config-30002408
+    description:
+      '''
+      이번 턴, 해당 제대가 치르는 첫 5회 전투 종료 시 각 유닛은 최대체력을 10%/15%/20%/25%/30% 회복한다.
+      6회째 전투부터 이 제대는 보우 효과를 얻는다. 이번 턴 내내 지속.
+      보우 효과: 이번 전투에서 모든 아군은 29% 피해차감 효과를 얻고, 15초마다 모든 디버프를 해제하며 2초 동안 피해를 받지 않는다.
+      '''
+    lvup_description: 피해 차감:29%
     skill_group_id: 24
     level: 8
     train_coin_type: 2
@@ -4470,10 +4510,15 @@
   }
   {
     id: 2409
-    name: mission_skill_config-10002409
+    name: 치유의 성가
     code: heal
-    description: mission_skill_config-20002409
-    lvup_description: mission_skill_config-30002409
+    description:
+      '''
+      이번 턴, 해당 제대가 치르는 첫 5회 전투 종료 시 각 유닛은 최대체력을 10%/15%/20%/25%/30% 회복한다.
+      6회째 전투부터 이 제대는 보우 효과를 얻는다. 이번 턴 내내 지속.
+      보우 효과: 이번 전투에서 모든 아군은 32% 피해차감 효과를 얻고, 15초마다 모든 디버프를 해제하며 2초 동안 피해를 받지 않는다.
+      '''
+    lvup_description: 피해 차감:32%
     skill_group_id: 24
     level: 9
     train_coin_type: 3
@@ -4489,10 +4534,15 @@
   }
   {
     id: 2410
-    name: mission_skill_config-10002410
+    name: 치유의 성가
     code: heal
-    description: mission_skill_config-20002410
-    lvup_description: mission_skill_config-30002410
+    description:
+      '''
+      이번 턴, 해당 제대가 치르는 첫 5회 전투 종료 시 각 유닛은 최대체력을 10%/15%/20%/25%/30% 회복한다.
+      6회째 전투부터 이 제대는 보우 효과를 얻는다. 이번 턴 내내 지속.
+      보우 효과: 이번 전투에서 모든 아군은 35% 피해차감 효과를 얻고, 15초마다 모든 디버프를 해제하며 2초 동안 피해를 받지 않는다.
+      '''
+    lvup_description: 피해 차감:35%
     skill_group_id: 24
     level: 10
     train_coin_type: 3
@@ -28102,7 +28152,7 @@
   }
   {
     id: 660011
-    name: 승진1탐색
+    name: 승진1 서치
     skill_group_id: 660011
     level: 1
     spot_type: "-1"
@@ -28117,7 +28167,7 @@
   }
   {
     id: 660012
-    name: 승진2탐색
+    name: 승진2 서치
     skill_group_id: 660012
     level: 1
     spot_type: "-1"
@@ -28132,7 +28182,7 @@
   }
   {
     id: 660013
-    name: 승진3탐색
+    name: 승진3 서치
     skill_group_id: 660013
     level: 1
     spot_type: "-1"
@@ -28147,7 +28197,7 @@
   }
   {
     id: 660014
-    name: 승진4탐색
+    name: 승진4 서치
     skill_group_id: 660014
     level: 1
     spot_type: "-1"
@@ -28162,7 +28212,7 @@
   }
   {
     id: 660015
-    name: 승진5탐색
+    name: 승진5 서치
     skill_group_id: 660015
     level: 1
     spot_type: "-1"
@@ -28177,7 +28227,7 @@
   }
   {
     id: 660016
-    name: 승진6탐색
+    name: 승진6 서치
     skill_group_id: 660016
     level: 1
     spot_type: "-1"
@@ -28192,7 +28242,7 @@
   }
   {
     id: 660017
-    name: 승진7탐색
+    name: 승진7 서치
     skill_group_id: 660017
     level: 1
     spot_type: "-1"
@@ -28207,7 +28257,7 @@
   }
   {
     id: 660018
-    name: 승진8탐색
+    name: 승진8 서치
     skill_group_id: 660018
     level: 1
     spot_type: "-1"
@@ -28222,7 +28272,7 @@
   }
   {
     id: 660019
-    name: 승진9탐색
+    name: 승진9 서치
     skill_group_id: 660019
     level: 1
     spot_type: "-1"
@@ -28237,7 +28287,7 @@
   }
   {
     id: 660020
-    name: 승진10탐색
+    name: 승진10 서치
     skill_group_id: 660020
     level: 1
     spot_type: "-1"
@@ -28252,7 +28302,7 @@
   }
   {
     id: 660021
-    name: 승진1 2성
+    name: 승진1, 2성
     skill_group_id: 660021
     level: 1
     spot_type: "-1"
@@ -28268,7 +28318,7 @@
   }
   {
     id: 660022
-    name: 승진2 2성
+    name: 승진2, 2성
     skill_group_id: 660022
     level: 1
     spot_type: "-1"
@@ -28284,7 +28334,7 @@
   }
   {
     id: 660023
-    name: 승진3 2성
+    name: 승진3, 2성
     skill_group_id: 660023
     level: 1
     spot_type: "-1"
@@ -28300,7 +28350,7 @@
   }
   {
     id: 660024
-    name: 승진4 2성
+    name: 승진4, 2성
     skill_group_id: 660024
     level: 1
     spot_type: "-1"
@@ -28316,7 +28366,7 @@
   }
   {
     id: 660025
-    name: 승진5 2성
+    name: 승진5, 2성
     skill_group_id: 660025
     level: 1
     spot_type: "-1"
@@ -28332,7 +28382,7 @@
   }
   {
     id: 660026
-    name: 승진6 2성
+    name: 승진6, 2성
     skill_group_id: 660026
     level: 1
     spot_type: "-1"
@@ -28348,7 +28398,7 @@
   }
   {
     id: 660027
-    name: 승진7 2성
+    name: 승진7, 2성
     skill_group_id: 660027
     level: 1
     spot_type: "-1"
@@ -28364,7 +28414,7 @@
   }
   {
     id: 660028
-    name: 승진8 2성
+    name: 승진8, 2성
     skill_group_id: 660028
     level: 1
     spot_type: "-1"
@@ -28380,7 +28430,7 @@
   }
   {
     id: 660029
-    name: 승진9 2성
+    name: 승진9, 2성
     skill_group_id: 660029
     level: 1
     spot_type: "-1"
@@ -28396,7 +28446,7 @@
   }
   {
     id: 660030
-    name: 승진10 2성
+    name: 승진10, 2성
     skill_group_id: 660030
     level: 1
     spot_type: "-1"
@@ -28412,7 +28462,7 @@
   }
   {
     id: 660031
-    name: 승진1 3성
+    name: 승진1, 3성
     skill_group_id: 660031
     level: 1
     spot_type: "-1"
@@ -28428,7 +28478,7 @@
   }
   {
     id: 660032
-    name: 승진2 3성
+    name: 승진2, 3성
     skill_group_id: 660032
     level: 1
     spot_type: "-1"
@@ -28444,7 +28494,7 @@
   }
   {
     id: 660033
-    name: 승진3 3성
+    name: 승진3, 3성
     skill_group_id: 660033
     level: 1
     spot_type: "-1"
@@ -28460,7 +28510,7 @@
   }
   {
     id: 660034
-    name: 승진4 3성
+    name: 승진4, 3성
     skill_group_id: 660034
     level: 1
     spot_type: "-1"
@@ -28476,7 +28526,7 @@
   }
   {
     id: 660035
-    name: 승진5 3성
+    name: 승진5, 3성
     skill_group_id: 660035
     level: 1
     spot_type: "-1"
@@ -28492,7 +28542,7 @@
   }
   {
     id: 660036
-    name: 승진6 3성
+    name: 승진6, 3성
     skill_group_id: 660036
     level: 1
     spot_type: "-1"
@@ -28508,7 +28558,7 @@
   }
   {
     id: 660037
-    name: 승진7 3성
+    name: 승진7, 3성
     skill_group_id: 660037
     level: 1
     spot_type: "-1"
@@ -28524,7 +28574,7 @@
   }
   {
     id: 660038
-    name: 승진8 3성
+    name: 승진8, 3성
     skill_group_id: 660038
     level: 1
     spot_type: "-1"
@@ -28540,7 +28590,7 @@
   }
   {
     id: 660039
-    name: 승진9 3성
+    name: 승진9, 3성
     skill_group_id: 660039
     level: 1
     spot_type: "-1"
@@ -28556,7 +28606,7 @@
   }
   {
     id: 660040
-    name: 승진10 3성
+    name: 승진10, 3성
     skill_group_id: 660040
     level: 1
     spot_type: "-1"
@@ -28572,7 +28622,7 @@
   }
   {
     id: 660041
-    name: 1 1성 득점
+    name: "1,1성 득점"
     skill_group_id: 660041
     level: 1
     spot_type: "-1"
@@ -28584,7 +28634,7 @@
   }
   {
     id: 660042
-    name: 2 1성 득점
+    name: "2,1성 득점"
     skill_group_id: 660042
     level: 1
     spot_type: "-1"
@@ -28596,7 +28646,7 @@
   }
   {
     id: 660043
-    name: 3 1성 득점
+    name: "3,1성 득점"
     skill_group_id: 660043
     level: 1
     spot_type: "-1"
@@ -28608,7 +28658,7 @@
   }
   {
     id: 660044
-    name: 4 1성 득점
+    name: "4,1성 득점"
     skill_group_id: 660044
     level: 1
     spot_type: "-1"
@@ -28620,7 +28670,7 @@
   }
   {
     id: 660045
-    name: 5 1성 득점
+    name: "5,1성 득점"
     skill_group_id: 660045
     level: 1
     spot_type: "-1"
@@ -28632,7 +28682,7 @@
   }
   {
     id: 660046
-    name: 6 1성 득점
+    name: "6,1성 득점"
     skill_group_id: 660046
     level: 1
     spot_type: "-1"
@@ -28644,7 +28694,7 @@
   }
   {
     id: 660047
-    name: 7 1성 득점
+    name: "7,1성 득점"
     skill_group_id: 660047
     level: 1
     spot_type: "-1"
@@ -28656,7 +28706,7 @@
   }
   {
     id: 660048
-    name: 8 1성 득점
+    name: "8,1성 득점"
     skill_group_id: 660048
     level: 1
     spot_type: "-1"
@@ -28668,7 +28718,7 @@
   }
   {
     id: 660049
-    name: 9 1성 득점
+    name: "9,1성 득점"
     skill_group_id: 660049
     level: 1
     spot_type: "-1"
@@ -28680,7 +28730,7 @@
   }
   {
     id: 660050
-    name: 10 1성 득점
+    name: "10,1성 득점"
     skill_group_id: 660050
     level: 1
     spot_type: "-1"
@@ -28692,7 +28742,7 @@
   }
   {
     id: 660051
-    name: 1 2성 득점
+    name: "1, 2성 득점"
     skill_group_id: 660051
     level: 1
     spot_type: "-1"
@@ -28704,7 +28754,7 @@
   }
   {
     id: 660052
-    name: 2 2성 득점
+    name: "2, 2성 득점"
     skill_group_id: 660052
     level: 1
     spot_type: "-1"
@@ -28716,7 +28766,7 @@
   }
   {
     id: 660053
-    name: 3 2성 득점
+    name: "3, 2성 득점"
     skill_group_id: 660053
     level: 1
     spot_type: "-1"
@@ -28728,7 +28778,7 @@
   }
   {
     id: 660054
-    name: 4 2성 득점
+    name: "4, 2성 득점"
     skill_group_id: 660054
     level: 1
     spot_type: "-1"
@@ -28740,7 +28790,7 @@
   }
   {
     id: 660055
-    name: 5 2성 득점
+    name: "5, 2성 득점"
     skill_group_id: 660055
     level: 1
     spot_type: "-1"
@@ -28752,7 +28802,7 @@
   }
   {
     id: 660056
-    name: 6 2성 득점
+    name: "6, 2성 득점"
     skill_group_id: 660056
     level: 1
     spot_type: "-1"
@@ -28764,7 +28814,7 @@
   }
   {
     id: 660057
-    name: 7 2성 득점
+    name: "7, 2성 득점"
     skill_group_id: 660057
     level: 1
     spot_type: "-1"
@@ -28776,7 +28826,7 @@
   }
   {
     id: 660058
-    name: 8 2성 득점
+    name: "8, 2성 득점"
     skill_group_id: 660058
     level: 1
     spot_type: "-1"
@@ -28788,7 +28838,7 @@
   }
   {
     id: 660059
-    name: 9 2성 득점
+    name: "9, 2성 득점"
     skill_group_id: 660059
     level: 1
     spot_type: "-1"
@@ -28800,7 +28850,7 @@
   }
   {
     id: 660060
-    name: 10 2성 득점
+    name: "10, 2성 득점"
     skill_group_id: 660060
     level: 1
     spot_type: "-1"
@@ -28812,7 +28862,7 @@
   }
   {
     id: 660061
-    name: 1 3성 득점
+    name: "1, 3성 득점"
     skill_group_id: 660061
     level: 1
     spot_type: "-1"
@@ -28824,7 +28874,7 @@
   }
   {
     id: 660062
-    name: 2 3성 득점
+    name: "2, 3성 득점"
     skill_group_id: 660062
     level: 1
     spot_type: "-1"
@@ -28836,7 +28886,7 @@
   }
   {
     id: 660063
-    name: 3 3성 득점
+    name: "3, 3성 득점"
     skill_group_id: 660063
     level: 1
     spot_type: "-1"
@@ -28848,7 +28898,7 @@
   }
   {
     id: 660064
-    name: 4 3성 득점
+    name: "4, 3성 득점"
     skill_group_id: 660064
     level: 1
     spot_type: "-1"
@@ -28860,7 +28910,7 @@
   }
   {
     id: 660065
-    name: 5 3성 득점
+    name: "5, 3성 득점"
     skill_group_id: 660065
     level: 1
     spot_type: "-1"
@@ -28872,7 +28922,7 @@
   }
   {
     id: 660066
-    name: 6 3성 득점
+    name: "6, 3성 득점"
     skill_group_id: 660066
     level: 1
     spot_type: "-1"
@@ -28884,7 +28934,7 @@
   }
   {
     id: 660067
-    name: 7 3성 득점
+    name: "7, 3성 득점"
     skill_group_id: 660067
     level: 1
     spot_type: "-1"
@@ -28896,7 +28946,7 @@
   }
   {
     id: 660068
-    name: 8 3성 득점
+    name: "8, 3성 득점"
     skill_group_id: 660068
     level: 1
     spot_type: "-1"
@@ -28908,7 +28958,7 @@
   }
   {
     id: 660069
-    name: 9 3성 득점
+    name: "9, 3성 득점"
     skill_group_id: 660069
     level: 1
     spot_type: "-1"
@@ -28920,7 +28970,7 @@
   }
   {
     id: 660070
-    name: 10 3성 득점
+    name: "10, 3성 득점"
     skill_group_id: 660070
     level: 1
     spot_type: "-1"
@@ -29004,7 +29054,7 @@
   }
   {
     id: 660080
-    name: 공수물자
+    name: 공수 상자
     skill_group_id: 660080
     level: 1
     spot_type: "-1"
@@ -29092,7 +29142,7 @@
   }
   {
     id: 660090
-    name: 헬포 초기화
+    name: 헬리포트 초기화
     skill_group_id: 660090
     level: 1
     spot_type: "-1"
@@ -29106,7 +29156,7 @@
   }
   {
     id: 660091
-    name: 처치 판정
+    name: 킬 판정
     skill_group_id: 660091
     level: 1
     spot_type: "-1"
@@ -29114,12 +29164,12 @@
     spot_echelon: "-1"
     cd_time_type: 1
     target_id: "1"
-    subsidiary_mission_skill: "660095,660096,660097,660092,660093,660094"
+    subsidiary_mission_skill: "660092,660093,660094"
     use_arbitrary: 1
   }
   {
     id: 660092
-    name: 승진 초기 판정
+    name: 승진 초기화 판정
     skill_group_id: 660092
     level: 1
     spot_type: "-1"
@@ -29132,7 +29182,7 @@
   }
   {
     id: 660093
-    name: 승진 승급 판정
+    name: 승진 초기화 판정
     skill_group_id: 660093
     level: 1
     spot_type: "-1"
@@ -29145,7 +29195,7 @@
   }
   {
     id: 660094
-    name: 처치 표식 제거
+    name: 킬 표식 제거
     skill_group_id: 660094
     level: 1
     spot_type: "-1"
@@ -29203,9 +29253,7 @@
   }
   {
     id: 660098
-    name: mission_skill_config-10660098
-    description: mission_skill_config-20660098
-    lvup_description: mission_skill_config-30660098
+    name: 초기화
     skill_group_id: 660098
     level: 1
     spot_type: "-1"
@@ -29218,9 +29266,7 @@
   }
   {
     id: 669800
-    name: mission_skill_config-10669800
-    description: mission_skill_config-20669800
-    lvup_description: mission_skill_config-30669800
+    name: 스폰 초기화
     skill_group_id: 669800
     level: 1
     spot_type: "-1"
@@ -29343,9 +29389,7 @@
   }
   {
     id: 669811
-    name: mission_skill_config-10669811
-    description: mission_skill_config-20669811
-    lvup_description: mission_skill_config-30669811
+    name: 내곽 스폰
     skill_group_id: 669811
     level: 1
     spot_type: "-1"
@@ -29357,9 +29401,7 @@
   }
   {
     id: 669812
-    name: mission_skill_config-10669812
-    description: mission_skill_config-20669812
-    lvup_description: mission_skill_config-30669812
+    name: 중환 헬포 상층 순찰
     skill_group_id: 669812
     level: 1
     spot_type: "-1"
@@ -29371,9 +29413,7 @@
   }
   {
     id: 669813
-    name: mission_skill_config-10669813
-    description: mission_skill_config-20669813
-    lvup_description: mission_skill_config-30669813
+    name: 중환 헬포 좌측 순찰
     skill_group_id: 669813
     level: 1
     spot_type: "-1"
@@ -29385,9 +29425,7 @@
   }
   {
     id: 669814
-    name: mission_skill_config-10669814
-    description: mission_skill_config-20669814
-    lvup_description: mission_skill_config-30669814
+    name: 중환 헬포 우하 순찰
     skill_group_id: 669814
     level: 1
     spot_type: "-1"
@@ -29399,9 +29437,7 @@
   }
   {
     id: 669815
-    name: mission_skill_config-10669815
-    description: mission_skill_config-20669815
-    lvup_description: mission_skill_config-30669815
+    name: 중환 헬포 상층 경계
     skill_group_id: 669815
     level: 1
     spot_type: "-1"
@@ -29413,9 +29449,7 @@
   }
   {
     id: 669816
-    name: mission_skill_config-10669816
-    description: mission_skill_config-20669816
-    lvup_description: mission_skill_config-30669816
+    name: 중환 헬포 좌하 경계
     skill_group_id: 669816
     level: 1
     spot_type: "-1"
@@ -29427,9 +29461,7 @@
   }
   {
     id: 669817
-    name: mission_skill_config-10669817
-    description: mission_skill_config-20669817
-    lvup_description: mission_skill_config-30669817
+    name: 중환 헬포 우측 경계
     skill_group_id: 669817
     level: 1
     spot_type: "-1"
@@ -29441,9 +29473,7 @@
   }
   {
     id: 669818
-    name: mission_skill_config-10669818
-    description: mission_skill_config-20669818
-    lvup_description: mission_skill_config-30669818
+    name: 외곽 헬포 정삼각형 순찰
     skill_group_id: 669818
     level: 1
     spot_type: "-1"
@@ -29456,9 +29486,7 @@
   }
   {
     id: 669819
-    name: mission_skill_config-10669819
-    description: mission_skill_config-20669819
-    lvup_description: mission_skill_config-30669819
+    name: 외곽 헬포 역삼각형 순찰
     skill_group_id: 669819
     level: 1
     spot_type: "-1"
@@ -29471,9 +29499,7 @@
   }
   {
     id: 669821
-    name: mission_skill_config-10669821
-    description: mission_skill_config-20669821
-    lvup_description: mission_skill_config-30669821
+    name: 내곽 스폰
     skill_group_id: 669821
     level: 1
     spot_type: "-1"
@@ -29485,9 +29511,7 @@
   }
   {
     id: 669822
-    name: mission_skill_config-10669822
-    description: mission_skill_config-20669822
-    lvup_description: mission_skill_config-30669822
+    name: 중환 헬포 상층 순찰
     skill_group_id: 669822
     level: 1
     spot_type: "-1"
@@ -29499,9 +29523,7 @@
   }
   {
     id: 669823
-    name: mission_skill_config-10669823
-    description: mission_skill_config-20669823
-    lvup_description: mission_skill_config-30669823
+    name: 중환 헬포 좌측 순찰
     skill_group_id: 669823
     level: 1
     spot_type: "-1"
@@ -29513,9 +29535,7 @@
   }
   {
     id: 669824
-    name: mission_skill_config-10669824
-    description: mission_skill_config-20669824
-    lvup_description: mission_skill_config-30669824
+    name: 중환 헬포 우하 순찰
     skill_group_id: 669824
     level: 1
     spot_type: "-1"
@@ -29527,9 +29547,7 @@
   }
   {
     id: 669825
-    name: mission_skill_config-10669825
-    description: mission_skill_config-20669825
-    lvup_description: mission_skill_config-30669825
+    name: 중환 헬포 상층 경계
     skill_group_id: 669825
     level: 1
     spot_type: "-1"
@@ -29541,9 +29559,7 @@
   }
   {
     id: 669826
-    name: mission_skill_config-10669826
-    description: mission_skill_config-20669826
-    lvup_description: mission_skill_config-30669826
+    name: 중환 헬포 좌하 경계
     skill_group_id: 669826
     level: 1
     spot_type: "-1"
@@ -29555,9 +29571,7 @@
   }
   {
     id: 669827
-    name: mission_skill_config-10669827
-    description: mission_skill_config-20669827
-    lvup_description: mission_skill_config-30669827
+    name: 중환 헬포 우측 경계
     skill_group_id: 669827
     level: 1
     spot_type: "-1"
@@ -29569,9 +29583,7 @@
   }
   {
     id: 669828
-    name: mission_skill_config-10669828
-    description: mission_skill_config-20669828
-    lvup_description: mission_skill_config-30669828
+    name: 외곽 헬포 정삼각형 순찰
     skill_group_id: 669828
     level: 1
     spot_type: "-1"
@@ -29584,9 +29596,7 @@
   }
   {
     id: 669829
-    name: mission_skill_config-10669829
-    description: mission_skill_config-20669829
-    lvup_description: mission_skill_config-30669829
+    name: 외곽 헬포 역삼각형 순찰
     skill_group_id: 669829
     level: 1
     spot_type: "-1"
@@ -29599,9 +29609,7 @@
   }
   {
     id: 669901
-    name: mission_skill_config-10669901
-    description: mission_skill_config-20669901
-    lvup_description: mission_skill_config-30669901
+    name: 승진 카운터 표시
     skill_group_id: 669901
     level: 1
     spot_type: "-1"
@@ -29616,9 +29624,7 @@
   }
   {
     id: 669902
-    name: mission_skill_config-10669902
-    description: mission_skill_config-20669902
-    lvup_description: mission_skill_config-30669902
+    name: 승진 카운터 표시
     skill_group_id: 669902
     level: 1
     spot_type: "-1"
@@ -29633,9 +29639,7 @@
   }
   {
     id: 669903
-    name: mission_skill_config-10669903
-    description: mission_skill_config-20669903
-    lvup_description: mission_skill_config-30669903
+    name: 승진 카운터 표시
     skill_group_id: 669903
     level: 1
     spot_type: "-1"
@@ -29650,9 +29654,7 @@
   }
   {
     id: 669904
-    name: mission_skill_config-10669904
-    description: mission_skill_config-20669904
-    lvup_description: mission_skill_config-30669904
+    name: 승진 카운터 표시
     skill_group_id: 669904
     level: 1
     spot_type: "-1"
@@ -29667,9 +29669,7 @@
   }
   {
     id: 669905
-    name: mission_skill_config-10669905
-    description: mission_skill_config-20669905
-    lvup_description: mission_skill_config-30669905
+    name: 승진 카운터 표시
     skill_group_id: 669905
     level: 1
     spot_type: "-1"
@@ -29684,35 +29684,57 @@
   }
   {
     id: 669910
-    name: mission_skill_config-10669910
-    description: mission_skill_config-20669910
-    lvup_description: mission_skill_config-30669910
+    name: 워프
     skill_group_id: 669910
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
     cd_time_type: 1
     start_range: 2
-    is_airborne: 2
     special_spot_add: 669910:1
     subsidiary_mission_skill: "669911"
     is_manual: 669910
   }
   {
     id: 669911
-    name: mission_skill_config-10669911
-    description: mission_skill_config-20669911
-    lvup_description: mission_skill_config-30669911
+    name: 워프 표식
     skill_group_id: 669911
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
     cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 660051:1
+    subsidiary_mission_skill: "669912"
+  }
+  {
+    id: 669912
+    name: 워프
+    skill_group_id: 669912
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
     start_range: 2
-    target_id: 1||66991001
+    is_airborne: 2
+    target_id: "66991001"
+    subsidiary_mission_skill: "669913"
+  }
+  {
+    id: 669913
+    name: 워프 해제
+    skill_group_id: 669913
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: 66005101||66991001
     special_spot_minus: 669910:1
-    mission_buff_minus: 660050:1
+    mission_buff_minus: 660050:1,660051:1
   }
   {
     id: 670101
@@ -78935,9 +78957,7 @@
   }
   {
     id: 9740101
-    name: mission_skill_config-19740101
-    description: mission_skill_config-29740101
-    lvup_description: mission_skill_config-39740101
+    name: 【标识】挂多动buff · 3步 · 己方梯队
     skill_group_id: 9740101
     level: 1
     spot_type: "-1"
@@ -78948,9 +78968,7 @@
   }
   {
     id: 9740102
-    name: mission_skill_config-19740102
-    description: mission_skill_config-29740102
-    lvup_description: mission_skill_config-39740102
+    name: 【标识】物资표식
     skill_group_id: 9740102
     level: 1
     spot_type: "-1"
@@ -78958,13 +78976,12 @@
     spot_echelon: "-1"
     cd_time_type: 1
     target_id: "1"
-    special_spot_add: 9720402:1
+    special_spot_add: 9740402:1
   }
   {
     id: 9740103
-    name: mission_skill_config-19740103
-    description: mission_skill_config-29740103
-    lvup_description: mission_skill_config-39740103
+    name: 물자 줍기
+    description: ※각 제대는 물자 또는 잡동사니를 하나만 소지할 수 있습니다.
     skill_group_id: 9740103
     level: 1
     spot_type: "-1"
@@ -78972,17 +78989,20 @@
     spot_echelon: "-1"
     cd_time_type: 1
     start_range: 1
-    trigger_id: 974010680&&972040580&&974010181
-    target_id: "972040291"
-    special_spot_minus: 9720402:1,1020101:1,1010201:1,9720404:1
+    trigger_id: 974010680&&972040580&&974010181&&1
+    target_id: "974040291"
+    special_spot_minus: 9740402:1,1020101:1,1010201:1,9720404:1
     subsidiary_mission_skill: "9740106"
     is_manual: 9720405
   }
   {
     id: 9740104
-    name: mission_skill_config-19740104
-    description: mission_skill_config-29740104
-    lvup_description: mission_skill_config-39740104
+    name: 물자 놓기
+    description:
+      '''
+      물자나 잡동사니가 없는 거점에 물자를 내려놓는다
+      ※회수 지점(레이더 지점)에 여러개 놓기 가능
+      '''
     skill_group_id: 9740104
     level: 1
     spot_type: "-1"
@@ -78990,28 +79010,26 @@
     cd_time_type: 1
     start_range: 1
     trigger_id: 974010681&&974010181
-    target_id: (972040290&&972040390)||101010191
-    special_spot_add: 9720402:1,1020101:1
+    target_id: 974040290||101010191
+    special_spot_add: 9740402:1,1020101:1
     subsidiary_mission_skill: "9740107,9740110"
     is_manual: 9720406
   }
   {
     id: 9740105
-    name: mission_skill_config-19740105
-    description: mission_skill_config-29740105
-    lvup_description: mission_skill_config-39740105
+    name: 【标识】复用_检测/爆炸
+    description: 물자를 회수 포인트에 놓는다.
     skill_group_id: 9740105
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
     cd_time_type: 1
+    subsidiary_mission_skill: "9740119,9740120"
   }
   {
     id: 9740106
-    name: mission_skill_config-19740106
-    description: mission_skill_config-29740106
-    lvup_description: mission_skill_config-39740106
+    name: 【标识】물자 소지
     skill_group_id: 9740106
     level: 1
     spot_type: "-1"
@@ -79023,9 +79041,7 @@
   }
   {
     id: 9740107
-    name: mission_skill_config-19740107
-    description: mission_skill_config-29740107
-    lvup_description: mission_skill_config-39740107
+    name: 【标识】消除物资持有
     skill_group_id: 9740107
     level: 1
     spot_type: "-1"
@@ -79037,9 +79053,7 @@
   }
   {
     id: 9740108
-    name: mission_skill_config-19740108
-    description: mission_skill_config-29740108
-    lvup_description: mission_skill_config-39740108
+    name: 【标识】回收点达标检测
     skill_group_id: 9740108
     level: 1
     spot_type: "-1"
@@ -79047,29 +79061,25 @@
     spot_echelon: "-1"
     cd_time_type: 1
     start_range: 99
-    target_id: 101010191&&972040492
+    target_id: 101010191&&974040292
     special_spot_minus: 1040100:1
+    subsidiary_mission_skill: "9740124"
   }
   {
     id: 9740109
-    name: mission_skill_config-19740109
-    description: mission_skill_config-29740109
-    lvup_description: mission_skill_config-39740109
+    name: 【标识】播放轰炸特效
     skill_group_id: 9740109
     level: 1
     spot_type: "-1"
     spot_belong: "-1"
     spot_echelon: "-1"
     cd_time_type: 1
-    target_id: "1"
-    special_spot_add: 9740109:1
-    subsidiary_mission_skill: "9740111"
+    target_id: "101010091"
+    subsidiary_mission_skill: "9740123"
   }
   {
     id: 9740110
-    name: mission_skill_config-19740110
-    description: mission_skill_config-29740110
-    lvup_description: mission_skill_config-39740110
+    name: 【标识】回收点物资数量检测
     skill_group_id: 9740110
     level: 1
     spot_type: "-1"
@@ -79078,7 +79088,7 @@
     cd_time_type: 1
     start_range: 99
     target_id: 101010191&&102010191
-    special_spot_add: 1010201:1,9720404:1
+    special_spot_add: 1010201:1
     special_spot_minus: 1020101:1
     subsidiary_mission_skill: "9740108"
   }
@@ -79095,7 +79105,7 @@
     cd_time_type: 1
     start_range: 5
     target_id: 102050191||974010181
-    special_spot_add: 6630021:1
+    special_spot_add: 9130610:1,6630021:1
   }
   {
     id: 9740112
@@ -79166,7 +79176,7 @@
     cd_time_type: 1
     target_id: 105010091&&104010091
     special_spot_add: 9740110:1
-    subsidiary_mission_skill: "9740111,9740118"
+    subsidiary_mission_skill: "9740118"
   }
   {
     id: 9740117
@@ -79180,7 +79190,7 @@
     spot_echelon: "-1"
     cd_time_type: 1
     target_id: 105010091&&104010090
-    subsidiary_mission_skill: "9740109"
+    special_spot_add: 9720404:1
   }
   {
     id: 9740118
@@ -79195,13 +79205,86 @@
     cd_time_type: 1
     target_id: "1"
     special_spot_add: 9740116:1
+  }
+  {
+    id: 9740119
+    name: 【标识】实际爆炸
+    skill_group_id: 9740119
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "101010091"
     subsidiary_mission_skill: "9740111"
   }
   {
+    id: 9740120
+    name: 【标识】预埋延迟
+    skill_group_id: 9740120
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    special_spot_add: 1010100:1
+  }
+  {
+    id: 9740121
+    name: 【标识】实际爆炸-弃用
+    skill_group_id: 9740121
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 5
+    data_pool: "100"
+    target_id: 974110791||974110792
+    special_spot_add: 9130610:1,6630021:1
+  }
+  {
+    id: 9740122
+    name: 【标识】空袭延迟
+    skill_group_id: 9740122
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "9740113,9740109,9740120"
+  }
+  {
+    id: 9740123
+    name: 【标识】在中心放空袭
+    skill_group_id: 9740123
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 5
+    target_id: "101010191"
+    special_spot_add: 9740109:1
+  }
+  {
+    id: 9740124
+    name: 【标识】收集完去掉NPC buff
+    skill_group_id: 9740124
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 5
+    target_id: "974010181"
+    mission_buff_minus: 9740101:1,20301:1,20302:1
+  }
+  {
     id: 9740701
-    name: mission_skill_config-19740701
-    description: mission_skill_config-29740701
-    lvup_description: mission_skill_config-39740701
+    name: 【标识】경계标识
     skill_group_id: 9740701
     level: 1
     spot_type: "-1"
@@ -79213,9 +79296,7 @@
   }
   {
     id: 9740702
-    name: mission_skill_config-19740702
-    description: mission_skill_config-29740702
-    lvup_description: mission_skill_config-39740702
+    name: 【标识】击杀数满足_清除경계标识
     skill_group_id: 9740702
     level: 1
     spot_type: "-1"
@@ -79228,9 +79309,7 @@
   }
   {
     id: 9740703
-    name: mission_skill_config-19740703
-    description: mission_skill_config-29740703
-    lvup_description: mission_skill_config-39740703
+    name: 【标识】击杀目标添加표식_N
     skill_group_id: 9740703
     level: 1
     spot_type: "-1"
@@ -79244,9 +79323,7 @@
   }
   {
     id: 9740704
-    name: mission_skill_config-19740704
-    description: mission_skill_config-29740704
-    lvup_description: mission_skill_config-39740704
+    name: 【标识】击杀数足够_开门
     skill_group_id: 9740704
     level: 1
     spot_type: "-1"
@@ -79260,9 +79337,7 @@
   }
   {
     id: 9740705
-    name: mission_skill_config-19740705
-    description: mission_skill_config-29740705
-    lvup_description: mission_skill_config-39740705
+    name: 【标识】击杀数检测_4
     skill_group_id: 9740705
     level: 1
     spot_type: "-1"
@@ -79274,9 +79349,7 @@
   }
   {
     id: 9740706
-    name: mission_skill_config-19740706
-    description: mission_skill_config-29740706
-    lvup_description: mission_skill_config-39740706
+    name: 【标识】击杀数检测_2
     skill_group_id: 9740706
     level: 1
     spot_type: "-1"
@@ -79288,9 +79361,7 @@
   }
   {
     id: 9740707
-    name: mission_skill_config-19740707
-    description: mission_skill_config-29740707
-    lvup_description: mission_skill_config-39740707
+    name: 【标识】击杀目标添加표식_H
     skill_group_id: 9740707
     level: 1
     spot_type: "-1"
@@ -79304,9 +79375,7 @@
   }
   {
     id: 9740708
-    name: mission_skill_config-19740708
-    description: mission_skill_config-29740708
-    lvup_description: mission_skill_config-39740708
+    name: 【标识】目标敌人标识
     skill_group_id: 9740708
     level: 1
     spot_type: "-1"
@@ -79320,9 +79389,7 @@
   }
   {
     id: 9740709
-    name: mission_skill_config-19740709
-    description: mission_skill_config-29740709
-    lvup_description: mission_skill_config-39740709
+    name: 【标识】开局提示文本
     skill_group_id: 9740709
     level: 1
     spot_type: "-1"
@@ -79334,9 +79401,7 @@
   }
   {
     id: 9740710
-    name: mission_skill_config-19740710
-    description: mission_skill_config-29740710
-    lvup_description: mission_skill_config-39740710
+    name: 【标识】击杀敌人后第一次提示进度
     skill_group_id: 9740710
     level: 1
     spot_type: "-1"
@@ -79348,9 +79413,7 @@
   }
   {
     id: 9740711
-    name: mission_skill_config-19740711
-    description: mission_skill_config-29740711
-    lvup_description: mission_skill_config-39740711
+    name: 【标识】满足击杀数后提示
     skill_group_id: 9740711
     level: 1
     spot_type: "-1"
@@ -79362,9 +79425,7 @@
   }
   {
     id: 9741101
-    name: mission_skill_config-19741101
-    description: mission_skill_config-29741101
-    lvup_description: mission_skill_config-39741101
+    name: 【标识】播放轰炸特效
     skill_group_id: 9741101
     level: 1
     spot_type: "-1"
@@ -79376,9 +79437,7 @@
   }
   {
     id: 9741102
-    name: mission_skill_config-19741102
-    description: mission_skill_config-29741102
-    lvup_description: mission_skill_config-39741102
+    name: 【标识】兔子脚下_炸设施
     skill_group_id: 9741102
     level: 1
     spot_type: "-1"
@@ -79390,9 +79449,7 @@
   }
   {
     id: 9741103
-    name: mission_skill_config-19741103
-    description: mission_skill_config-29741103
-    lvup_description: mission_skill_config-39741103
+    name: 【标识】관제탑描述
     skill_group_id: 9741103
     level: 1
     spot_type: "-1"
@@ -79404,9 +79461,7 @@
   }
   {
     id: 9741104
-    name: mission_skill_config-19741104
-    description: mission_skill_config-29741104
-    lvup_description: mission_skill_config-39741104
+    name: 【标识】发电站描述
     skill_group_id: 9741104
     level: 1
     spot_type: "-1"
@@ -79418,9 +79473,7 @@
   }
   {
     id: 9741105
-    name: mission_skill_config-19741105
-    description: mission_skill_config-29741105
-    lvup_description: mission_skill_config-39741105
+    name: 【标识】实际爆炸
     skill_group_id: 9741105
     level: 1
     spot_type: "-1"
@@ -79433,9 +79486,7 @@
   }
   {
     id: 9741106
-    name: mission_skill_config-19741106
-    description: mission_skill_config-29741106
-    lvup_description: mission_skill_config-39741106
+    name: 【标识】预埋延迟
     skill_group_id: 9741106
     level: 1
     spot_type: "-1"
@@ -79463,9 +79514,7 @@
   }
   {
     id: 9741401
-    name: mission_skill_config-19741401
-    description: mission_skill_config-29741401
-    lvup_description: mission_skill_config-39741401
+    name: 폭탄 해제
     skill_group_id: 9741401
     level: 1
     spot_type: "-1"
@@ -79478,9 +79527,7 @@
   }
   {
     id: 9741402
-    name: mission_skill_config-19741402
-    description: mission_skill_config-29741402
-    lvup_description: mission_skill_config-39741402
+    name: 【표식】歌利亚初始化
     skill_group_id: 9741402
     level: 1
     spot_type: "-1"
@@ -79492,9 +79539,7 @@
   }
   {
     id: 9741901
-    name: mission_skill_config-19741901
-    description: mission_skill_config-29741901
-    lvup_description: mission_skill_config-39741901
+    name: 【标识】物资표식
     skill_group_id: 9741901
     level: 1
     spot_type: "-1"
@@ -79506,9 +79551,7 @@
   }
   {
     id: 9741902
-    name: mission_skill_config-19741902
-    description: mission_skill_config-29741902
-    lvup_description: mission_skill_config-39741902
+    name: 【标识】중요 통로初始
     skill_group_id: 9741902
     level: 1
     spot_type: "-1"
@@ -79520,9 +79563,7 @@
   }
   {
     id: 9741903
-    name: mission_skill_config-19741903
-    description: mission_skill_config-29741903
-    lvup_description: mission_skill_config-39741903
+    name: 【标识】돌무더기/중요 통로初始
     skill_group_id: 9741903
     level: 1
     spot_type: "-1"
@@ -79534,9 +79575,8 @@
   }
   {
     id: 9741904
-    name: mission_skill_config-19741904
-    description: mission_skill_config-29741904
-    lvup_description: mission_skill_config-39741904
+    name: 물자 줍기
+    description: 파괴된 중요 통로를 수리하기 위한 물자를 줍는다 ※각 제대는 물자를 하나만 소지할 수 있습니다.
     skill_group_id: 9741904
     level: 1
     spot_type: "-1"
@@ -79544,7 +79584,7 @@
     spot_echelon: "-1"
     cd_time_type: 1
     start_range: 1
-    trigger_id: 974190480&&974190780&&974191181
+    trigger_id: 974190480&&974190780&&974191181&&1
     target_id: "972040291"
     special_spot_minus: 9720402:1
     subsidiary_mission_skill: "9741911"
@@ -79552,9 +79592,8 @@
   }
   {
     id: 9741905
-    name: mission_skill_config-19741905
-    description: mission_skill_config-29741905
-    lvup_description: mission_skill_config-39741905
+    name: 물자 놓기
+    description: 물자나 잡동사니가 없는 거점에 물자를 내려놓는다
     skill_group_id: 9741905
     level: 1
     spot_type: "-1"
@@ -79569,9 +79608,8 @@
   }
   {
     id: 9741906
-    name: mission_skill_config-19741906
-    description: mission_skill_config-29741906
-    lvup_description: mission_skill_config-39741906
+    name: 중요 통로 수리
+    description: 물자를 하나 소모해 중요 통로를 수리한다.
     skill_group_id: 9741906
     level: 1
     spot_type: "-1"
@@ -79586,9 +79624,8 @@
   }
   {
     id: 9741907
-    name: mission_skill_config-19741907
-    description: mission_skill_config-29741907
-    lvup_description: mission_skill_config-39741907
+    name: 줍기
+    description: 주워서 돌무더기를 터뜨리거나 적을 처리할 수 있다.※각 제대는 버려진 골리앗을 하나만 소지할 수 있다.
     skill_group_id: 9741907
     level: 1
     spot_type: "-1"
@@ -79603,9 +79640,8 @@
   }
   {
     id: 9741908
-    name: mission_skill_config-19741908
-    description: mission_skill_config-29741908
-    lvup_description: mission_skill_config-39741908
+    name: 투척
+    description: 적에게 버려진 골리앗을 던져 터뜨린다.
     skill_group_id: 9741908
     level: 1
     spot_type: "-1"
@@ -79619,9 +79655,8 @@
   }
   {
     id: 9741909
-    name: mission_skill_config-19741909
-    description: mission_skill_config-29741909
-    lvup_description: mission_skill_config-39741909
+    name: 투척
+    description: 돌무더기에 버려진 골리앗을 던져 터뜨린다.
     skill_group_id: 9741909
     level: 1
     spot_type: "-1"
@@ -79637,9 +79672,7 @@
   }
   {
     id: 9741910
-    name: mission_skill_config-19741910
-    description: mission_skill_config-29741910
-    lvup_description: mission_skill_config-39741910
+    name: 【标识】对梯队挂표식buff
     skill_group_id: 9741910
     level: 1
     spot_type: "-1"
@@ -79652,9 +79685,7 @@
   }
   {
     id: 9741911
-    name: mission_skill_config-19741911
-    description: mission_skill_config-29741911
-    lvup_description: mission_skill_config-39741911
+    name: 【标识】물자 소지
     skill_group_id: 9741911
     level: 1
     spot_type: "-1"
@@ -79666,9 +79697,7 @@
   }
   {
     id: 9741912
-    name: mission_skill_config-19741912
-    description: mission_skill_config-29741912
-    lvup_description: mission_skill_config-39741912
+    name: 【标识】消除物资持有
     skill_group_id: 9741912
     level: 1
     spot_type: "-1"
@@ -79680,9 +79709,7 @@
   }
   {
     id: 9741913
-    name: mission_skill_config-19741913
-    description: mission_skill_config-29741913
-    lvup_description: mission_skill_config-39741913
+    name: 【标识】持有歌利亚
     skill_group_id: 9741913
     level: 1
     spot_type: "-1"
@@ -79694,9 +79721,7 @@
   }
   {
     id: 9741914
-    name: mission_skill_config-19741914
-    description: mission_skill_config-29741914
-    lvup_description: mission_skill_config-39741914
+    name: 【标识】消除歌利亚持有
     skill_group_id: 9741914
     level: 1
     spot_type: "-1"
@@ -79722,9 +79747,7 @@
   }
   {
     id: 9742401
-    name: mission_skill_config-19742401
-    description: mission_skill_config-29742401
-    lvup_description: mission_skill_config-39742401
+    name: 【标识】击杀目标添加표식
     skill_group_id: 9742401
     level: 1
     spot_type: "-1"
@@ -79733,6 +79756,85 @@
     cd_time_type: 1
     target_id: "1"
     special_spot_add: 9742401:1
+  }
+  {
+    id: 9742901
+    name: 【标识】布拉梅德开机挂Buff-说明用
+    skill_group_id: 9742901
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    mission_buff_add: 9742901:1
+  }
+  {
+    id: 9742902
+    name: 【标识】NPC渐冻debuff/对布拉梅德特攻buff
+    skill_group_id: 9742902
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 2
+    target_id: 974290161||974290261||974290361||974740161||974740261||974740361||974450161||974450261||974450361
+    mission_buff_add: 20301:1,20302:1
+  }
+  {
+    id: 9742903
+    name: 【标记】渐动debuff-前置计数2/付说明
+    skill_group_id: 9742903
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 2
+    target_id: 974290161||974740161||974450161
+    mission_buff_add: 9742907:1,9742903:1
+  }
+  {
+    id: 9742904
+    name: 【标记】渐动debuff-前置计数3/付说明
+    skill_group_id: 9742904
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 2
+    target_id: 974290261||974740261||974450261
+    mission_buff_add: 9742908:1,9742904:1
+  }
+  {
+    id: 9742905
+    name: 【标记】渐动debuff-前置计数6/付说明
+    skill_group_id: 9742905
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 2
+    target_id: 974290361||974740361||974450361
+    mission_buff_add: 9742909:1,9742902:1,9742905:1
+  }
+  {
+    id: 9742906
+    name: 【标识】布拉梅德被击败，去除debuff
+    skill_group_id: 9742906
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    start_range: 99
+    target_id: 974290161||974290261||974290361||974740161||974740261||974740361||974450161||974450261||974450361
+    special_spot_minus: 9742906:1
+    mission_buff_add: 20301:1,20302:1
+    mission_buff_minus: 9742906:1,9742902:1,9742903:1,9742904:1,9742905:1
   }
   {
     id: 40400001

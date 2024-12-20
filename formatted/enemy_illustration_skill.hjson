@@ -1249,28 +1249,28 @@
   }
   {
     id: 246
-    name: enemy_illustration_skill-10000246
-    description: enemy_illustration_skill-20000246
+    name: 마비 독소
+    description: 공격할 때마다 대상에게 마비 독소를 부여해 사속과 이동속도를 감소시킨다. 5회 중첩 시 큰 피해를 준다.
   }
   {
     id: 247
-    name: enemy_illustration_skill-10000247
-    description: enemy_illustration_skill-20000247
+    name: 과부하
+    description: 공격 5회마다 과부하가 발생해 무작위 위치에 탄환을 발사해 편제당 피해를 준다.
   }
   {
     id: 248
-    name: enemy_illustration_skill-10000248
-    description: enemy_illustration_skill-20000248
+    name: 차지 라이트닝
+    description: 모은 전력을 자신 주위에 지속적으로 방출해 연속 피해를 준다. 과부하 횟수가 많을수록 범위가 넓어진다.
   }
   {
     id: 249
-    name: enemy_illustration_skill-10000249
-    description: enemy_illustration_skill-20000249
+    name: 차지 필드
+    description: 체력상한이 가장 높은 아군 유닛 위치에 지속 공격하는 차지 필드를 생성해 주변 유닛에게 피해를 준다.
   }
   {
     id: 250
-    name: enemy_illustration_skill-10000250
-    description: enemy_illustration_skill-20000250
+    name: 휘감는 채찍
+    description: 채찍을 휘둘러 대상에게 일직선 공격을 하고 명중한 적을 전류로 휘감는다.
   }
   {
     id: 999

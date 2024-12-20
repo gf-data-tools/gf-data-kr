@@ -492,8 +492,7 @@
   }
   {
     id: 2401
-    name: mission_buff_config-10002401
-    description: mission_buff_config-20002401
+    name: 치유의 성가
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -506,8 +505,7 @@
   }
   {
     id: 2402
-    name: mission_buff_config-10002402
-    description: mission_buff_config-20002402
+    name: 치유의 성가
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -520,8 +518,7 @@
   }
   {
     id: 2403
-    name: mission_buff_config-10002403
-    description: mission_buff_config-20002403
+    name: 치유의 성가
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -534,8 +531,7 @@
   }
   {
     id: 2404
-    name: mission_buff_config-10002404
-    description: mission_buff_config-20002404
+    name: 치유의 성가
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -548,8 +544,7 @@
   }
   {
     id: 2405
-    name: mission_buff_config-10002405
-    description: mission_buff_config-20002405
+    name: 치유의 성가
     type: 1
     duration_type: "1"
     duration_time: "1"
@@ -562,8 +557,7 @@
   }
   {
     id: 2406
-    name: mission_buff_config-10002406
-    description: mission_buff_config-20002406
+    name: 치유의 성가
     code: heal
     type: 1
     duration_type: "1"
@@ -4652,7 +4646,8 @@
   }
   {
     id: 660011
-    name: 1단계 승급
+    name: 1단계 승진
+    description: 승진Ⅰ, 1턴당 추가 2000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4668,7 +4663,8 @@
   }
   {
     id: 660012
-    name: 1단계 승급
+    name: 1단계 승진
+    description: 승진Ⅰ, 1턴당 추가 2000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4684,7 +4680,8 @@
   }
   {
     id: 660013
-    name: 1단계 승급
+    name: 1단계 승진
+    description: 승진Ⅰ, 1턴당 추가 2000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4700,7 +4697,8 @@
   }
   {
     id: 660014
-    name: 1단계 승급
+    name: 1단계 승진
+    description: 승진Ⅰ, 1턴당 추가 2000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4716,7 +4714,8 @@
   }
   {
     id: 660015
-    name: 1단계 승급
+    name: 1단계 승진
+    description: 승진Ⅰ, 1턴당 추가 2000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4732,7 +4731,8 @@
   }
   {
     id: 660016
-    name: 1단계 승급
+    name: 1단계 승진
+    description: 승진Ⅰ, 1턴당 추가 2000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4748,7 +4748,8 @@
   }
   {
     id: 660017
-    name: 1단계 승급
+    name: 1단계 승진
+    description: 승진Ⅰ, 1턴당 추가 2000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4764,7 +4765,8 @@
   }
   {
     id: 660018
-    name: 1단계 승급
+    name: 1단계 승진
+    description: 승진Ⅰ, 1턴당 추가 2000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4780,7 +4782,8 @@
   }
   {
     id: 660019
-    name: 1단계 승급
+    name: 1단계 승진
+    description: 승진Ⅰ, 1턴당 추가 2000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4796,7 +4799,8 @@
   }
   {
     id: 660020
-    name: 1단계 승급
+    name: 1단계 승진
+    description: 승진Ⅰ, 1턴당 추가 2000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4812,7 +4816,8 @@
   }
   {
     id: 660021
-    name: 2단계 승급
+    name: 2단계 승진
+    description: 승진Ⅱ, 1턴당 추가 4000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4829,7 +4834,8 @@
   }
   {
     id: 660022
-    name: 2단계 승급
+    name: 2단계 승진
+    description: 승진Ⅱ, 1턴당 추가 4000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4846,7 +4852,8 @@
   }
   {
     id: 660023
-    name: 2단계 승급
+    name: 2단계 승진
+    description: 승진Ⅱ, 1턴당 추가 4000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4863,7 +4870,8 @@
   }
   {
     id: 660024
-    name: 2단계 승급
+    name: 2단계 승진
+    description: 승진Ⅱ, 1턴당 추가 4000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4880,7 +4888,8 @@
   }
   {
     id: 660025
-    name: 2단계 승급
+    name: 2단계 승진
+    description: 승진Ⅱ, 1턴당 추가 4000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4897,7 +4906,8 @@
   }
   {
     id: 660026
-    name: 2단계 승급
+    name: 2단계 승진
+    description: 승진Ⅱ, 1턴당 추가 4000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4914,7 +4924,8 @@
   }
   {
     id: 660027
-    name: 2단계 승급
+    name: 2단계 승진
+    description: 승진Ⅱ, 1턴당 추가 4000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4931,7 +4942,8 @@
   }
   {
     id: 660028
-    name: 2단계 승급
+    name: 2단계 승진
+    description: 승진Ⅱ, 1턴당 추가 4000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4948,7 +4960,8 @@
   }
   {
     id: 660029
-    name: 2단계 승급
+    name: 2단계 승진
+    description: 승진Ⅱ, 1턴당 추가 4000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4965,7 +4978,8 @@
   }
   {
     id: 660030
-    name: 2단계 승급
+    name: 2단계 승진
+    description: 승진Ⅱ, 1턴당 추가 4000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4982,7 +4996,8 @@
   }
   {
     id: 660031
-    name: 3단계 승급
+    name: 3단계 승진
+    description: 승진Ⅲ, 1턴당 추가 6000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4996,7 +5011,8 @@
   }
   {
     id: 660032
-    name: 3단계 승급
+    name: 3단계 승진
+    description: 승진Ⅲ, 1턴당 추가 6000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5010,7 +5026,8 @@
   }
   {
     id: 660033
-    name: 3단계 승급
+    name: 3단계 승진
+    description: 승진Ⅲ, 1턴당 추가 6000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5024,7 +5041,8 @@
   }
   {
     id: 660034
-    name: 3단계 승급
+    name: 3단계 승진
+    description: 승진Ⅲ, 1턴당 추가 6000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5038,7 +5056,8 @@
   }
   {
     id: 660035
-    name: 3단계 승급
+    name: 3단계 승진
+    description: 승진Ⅲ, 1턴당 추가 6000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5052,7 +5071,8 @@
   }
   {
     id: 660036
-    name: 3단계 승급
+    name: 3단계 승진
+    description: 승진Ⅲ, 1턴당 추가 6000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5066,7 +5086,8 @@
   }
   {
     id: 660037
-    name: 3단계 승급
+    name: 3단계 승진
+    description: 승진Ⅲ, 1턴당 추가 6000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5080,7 +5101,8 @@
   }
   {
     id: 660038
-    name: 3단계 승급
+    name: 3단계 승진
+    description: 승진Ⅲ, 1턴당 추가 6000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5094,7 +5116,8 @@
   }
   {
     id: 660039
-    name: 3단계 승급
+    name: 3단계 승진
+    description: 승진Ⅲ, 1턴당 추가 6000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5108,7 +5131,8 @@
   }
   {
     id: 660040
-    name: 3단계 승급
+    name: 3단계 승진
+    description: 승진Ⅲ, 1턴당 추가 6000점 획득
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5122,8 +5146,7 @@
   }
   {
     id: 660050
-    name: mission_buff_config-10660050
-    description: mission_buff_config-20660050
+    name: 워프
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5131,6 +5154,16 @@
     conflict_type: 660050
     priority: 1
     carry_mission_skill: "669910"
+  }
+  {
+    id: 660051
+    name: 워프 표식
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 660051
+    priority: 1
   }
   {
     id: 660090
@@ -5147,7 +5180,7 @@
   }
   {
     id: 660091
-    name: 처치 횟수
+    name: 킬 카운트
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5155,10 +5188,11 @@
     manual_ui_code: 24rabbitcount
     conflict_type: 660091
     priority: -1
+    is_still_alive: 1
   }
   {
     id: 660092
-    name: 처치 횟수
+    name: 킬 카운트
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5166,10 +5200,11 @@
     manual_ui_code: 24rabbitcount
     conflict_type: 660092
     priority: -1
+    is_still_alive: 1
   }
   {
     id: 660093
-    name: 처치 횟수
+    name: 킬 카운트
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5177,11 +5212,11 @@
     manual_ui_code: 24rabbitcount
     conflict_type: 660093
     priority: -1
+    is_still_alive: 1
   }
   {
     id: 669900
-    name: mission_buff_config-10669900
-    description: mission_buff_config-20669900
+    description: 적 2개 처치 후 승진
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5192,8 +5227,7 @@
   }
   {
     id: 669901
-    name: mission_buff_config-10669901
-    description: mission_buff_config-20669901
+    description: 적 1개 처치 후 승진
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5204,8 +5238,7 @@
   }
   {
     id: 669902
-    name: mission_buff_config-10669902
-    description: mission_buff_config-20669902
+    description: 적 2개 처치 후 승진
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5216,8 +5249,7 @@
   }
   {
     id: 669903
-    name: mission_buff_config-10669903
-    description: mission_buff_config-20669903
+    description: 적 3개 처치 후 승진
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5228,8 +5260,7 @@
   }
   {
     id: 669904
-    name: mission_buff_config-10669904
-    description: mission_buff_config-20669904
+    description: 적 4개 처치 후 승진
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5240,8 +5271,7 @@
   }
   {
     id: 669905
-    name: mission_buff_config-10669905
-    description: mission_buff_config-20669905
+    description: 적 5개 처치 후 승진
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -9466,8 +9496,7 @@
   }
   {
     id: 9740101
-    name: mission_buff_config-19740101
-    description: mission_buff_config-29740101
+    name: 【표식】梯队표식
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -9478,8 +9507,12 @@
   }
   {
     id: 9740106
-    name: mission_buff_config-19740106
-    description: mission_buff_config-29740106
+    name: 물자 소지
+    description:
+      '''
+      물자를 들고 있어 더 주울 수 없습니다.
+      물자를 수집 포인트 또는 물자나 잡동사니가 없는 빈 거점에 내려놓을 수 있습니다.
+      '''
     code: GunBox
     type: 1
     duration_type: "1"
@@ -9491,8 +9524,7 @@
   }
   {
     id: 9740708
-    name: mission_buff_config-19740708
-    description: mission_buff_config-29740708
+    description: 진입 권한을 가진 유닛
     code: GunBox
     type: 1
     duration_type: "1"
@@ -9503,8 +9535,12 @@
   }
   {
     id: 9741904
-    name: mission_buff_config-19741904
-    description: mission_buff_config-29741904
+    name: 물자 소지
+    description:
+      '''
+      물자를 들고 있어 더 주울 수 없습니다.
+      물자를 수집 포인트 또는 물자나 잡동사니가 없는 빈 거점에 내려놓을 수 있습니다.
+      '''
     code: GunBox
     type: 1
     duration_type: "1"
@@ -9516,8 +9552,8 @@
   }
   {
     id: 9741907
-    name: mission_buff_config-19741907
-    description: mission_buff_config-29741907
+    name: 골리앗 소지
+    description: 골리앗을 소지하고 있어 더 주울 수 없습니다.
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -9528,8 +9564,7 @@
   }
   {
     id: 9741911
-    name: mission_buff_config-19741911
-    description: mission_buff_config-29741911
+    name: 【표식】梯队표식
     type: 1
     duration_type: "1"
     duration_time: "99"
@@ -9537,6 +9572,157 @@
     conflict_type: 9741911
     priority: 1
     carry_mission_skill: "9741904,9741907"
+  }
+  {
+    id: 9742901
+    description:
+      '''
+      지속적으로 아군 유닛을 해킹하려 합니다.
+      ※이 적을 제때 처치하지 못할 경우 아군 일부 지원 유닛이 오프라인되어 전투력을 상실합니다.
+      '''
+    code: medusa
+    type: 1
+    duration_type: "1"
+    duration_time: "99"
+    exp_buff: "1"
+    conflict_type: 9742901
+    priority: 1
+  }
+  {
+    id: 9742902
+    description: 브라메드를 처치하기 위해 임시 편성된 소대. 브라메드를 상대할 때 추가 버프를 얻는다.
+    code: Rouge_590001
+    type: 1
+    duration_type: "1"
+    duration_time: "99"
+    exp_buff: "1"
+    battle_skill_config_id: 330008
+    conflict_type: 9742902
+    priority: 1
+  }
+  {
+    id: 9742903
+    description:
+      '''
+      계속 해킹에 저항 중
+      ※버프가 지속되는 동안 해킹 영향을 받지 않습니다. 버프 효과를 잃으면 해킹당해 오프라인 상태가 됩니다
+      '''
+    code: Sei
+    type: 1
+    duration_type: "1"
+    duration_time: "2"
+    exp_buff: "1"
+    special_spot_config_id: 9742906
+    conditions_type: "1"
+    conditions_time: 0-2
+    conflict_type: 9742906
+    priority: 1
+  }
+  {
+    id: 9742904
+    description:
+      '''
+      계속 해킹에 저항 중
+      ※버프가 지속되는 동안 해킹 영향을 받지 않습니다. 버프 효과를 잃으면 해킹당해 오프라인 상태가 됩니다
+      '''
+    code: Sei
+    type: 1
+    duration_type: "1"
+    duration_time: "3"
+    exp_buff: "1"
+    special_spot_config_id: 9742906
+    conditions_type: "1"
+    conditions_time: 0-3
+    conflict_type: 9742906
+    priority: 1
+  }
+  {
+    id: 9742905
+    description:
+      '''
+      계속 해킹에 저항 중
+      ※버프가 지속되는 동안 해킹 영향을 받지 않습니다. 버프 효과를 잃으면 해킹당해 오프라인 상태가 됩니다
+      '''
+    code: Sei
+    type: 1
+    duration_type: "1"
+    duration_time: "5"
+    exp_buff: "1"
+    special_spot_config_id: 9742906
+    conditions_type: "1"
+    conditions_time: 0-5
+    conflict_type: 9742906
+    priority: 1
+  }
+  {
+    id: 9742906
+    description:
+      '''
+      해킹당해 오프라인 상태에 빠졌습니다. 명령 실행 불가.
+      ※제대 위치 교체는 가능합니다.
+      '''
+    code: seawave
+    type: 2
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    battle_skill_config_id: 900112
+    conflict_type: 9742906
+    priority: 1
+    ext_ap_cost: 9999
+  }
+  {
+    id: 9742907
+    description: 프로토콜 영향으로 시스템이 휴면 상태에 빠집니다.
+    code: summonerduration
+    type: 1
+    duration_type: "1"
+    duration_time: "3"
+    exp_buff: "1"
+    conflict_type: 9742907
+    priority: 1
+  }
+  {
+    id: 9742908
+    description: 프로토콜 영향으로 시스템이 휴면 상태에 빠집니다.
+    code: summonerduration
+    type: 1
+    duration_type: "1"
+    duration_time: "4"
+    exp_buff: "1"
+    conflict_type: 9742908
+    priority: 1
+  }
+  {
+    id: 9742909
+    description: 프로토콜 영향으로 시스템이 휴면 상태에 빠집니다.
+    code: summonerduration
+    type: 1
+    duration_type: "1"
+    duration_time: "5"
+    exp_buff: "1"
+    conflict_type: 9742909
+    priority: 1
+  }
+  {
+    id: 9742910
+    name: 【标记】顶掉免费AP BUFF①
+    type: 2
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 20301
+    priority: 1
+  }
+  {
+    id: 9742911
+    name: 【标记】顶掉免费AP BUFF②
+    type: 2
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 20302
+    priority: 1
   }
   {
     id: 10000021

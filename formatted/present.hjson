@@ -1507,33 +1507,33 @@
     item_id: 1500176
     type: 1
     prize_id: 140001
-    due_time: 2024/01/19 23:59:59
+    due_time: 2025/02/09 23:59:59
     due_prize_id: 140016
-    present_info: present-11500176
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
   }
   {
     item_id: 1500177
     type: 1
     prize_id: 140002
-    due_time: 2024/01/19 23:59:59
+    due_time: 2025/02/09 23:59:59
     due_prize_id: 140016
-    present_info: present-11500177
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
   }
   {
     item_id: 1500178
     type: 2
     drop_package_id: 2548
-    due_time: 2024/01/19 23:59:59
+    due_time: 2025/02/09 23:59:59
     due_prize_id: 140016
-    present_info: present-11500178
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트 중 무작위 아이템을 획득합니다.
   }
   {
     item_id: 1500179
     type: 2
     drop_package_id: 945
-    due_time: 2024/01/19 23:59:59
+    due_time: 2025/02/09 23:59:59
     due_prize_id: 140016
-    present_info: present-11500179
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트 중 무작위 아이템을 획득합니다.
   }
   {
     item_id: 1700001

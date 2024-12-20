@@ -13603,262 +13603,260 @@
   {
     id: 1388
     mission_id: "11881"
-    description: story_util-10001388
     scripts: -52-e-4
     campaign: -52
-    title: story_util-20001388
+    title: 순진한 펜끝
     start: -52-e-4
   }
   {
     id: 1389
     mission_id: "11882"
-    description: story_util-10001389
     scripts: -52-e-5
     campaign: -52
-    title: story_util-20001389
+    title: 드림 캡처
     start: -52-e-5
   }
   {
     id: 1390
     mission_id: "11835"
-    description: story_util-10001390
+    description: 지금 이 순간 프랑크푸르트 전체가 타오른다.
     scripts: -74-A-0
     campaign: -74
-    title: story_util-20001390
+    title: 불타는 고통의 바다
     start: -74-A-0
   }
   {
     id: 1391
     mission_id: "11838"
-    description: story_util-10001391
+    description: 갑작스러운 폭격에 도시 전체가 마비되었다. 딜레마에 빠진 지휘관은 시민들에게 구원의 손길을 내밀었다.
     scripts: -74-A-2
     campaign: -74
-    title: story_util-20001391
+    title: 포효하는 불바람처럼
     start: -74-A-2
   }
   {
     id: 1392
     mission_id: "11839"
-    description: story_util-10001392
+    description: 라플라스의 유언이 아직도 넬레의 귓가를 맴돌았고, 두 손을 피에 적신 그녀는 다시 곤경에 빠졌다.
     scripts: -74-A-4
     campaign: -74
-    title: story_util-20001392
+    title: 정적의 주름
     start: -74-A-4
   }
   {
     id: 1393
     mission_id: "11840"
-    description: story_util-10001393
+    description: 이 순간을 위해 그로스는 한참을 기다렸다.
     scripts: -74-A-6
     campaign: -74
-    title: story_util-20001393
+    title: 덧없는 길
     start: -74-A-6
   }
   {
     id: 1394
     mission_id: "11843"
-    description: story_util-10001394
+    description: 그녀는 차가운 배양 캡슐을 어루만졌다. 자신을 낳은 자궁은 이제 그녀의 무덤이 될 것이다.
     scripts: -74-A-8
     campaign: -74
-    title: story_util-20001394
+    title: 쓰러진 슬픈 기사
     start: -74-A-8
   }
   {
     id: 1395
     mission_id: "11844"
-    description: story_util-10001395
+    description: 저는 걔를 대신해서 이 피비린내 나는 세상을 지켜보겠어요.
     scripts: -74-A-10
     campaign: -74
-    title: story_util-20001395
+    title: 그치지 않는 비
     start: -74-A-10
   }
   {
     id: 1396
     mission_id: "11847"
-    description: story_util-10001396
+    description: 폭격은 아직도 이어졌다. 묵직한 굉음은 영원히 끝나지 않을 것만 같았다.
     scripts: -74-A-12
     campaign: -74
-    title: story_util-20001396
+    title: 널 위해 횃불을 들다
     start: -74-A-12
   }
   {
     id: 1397
     mission_id: "11850"
-    description: story_util-10001397
+    description: 살아있는 한 자신이 꼭 해야 한다 여기는 일을 해야지.
     scripts: -74-A-14
     campaign: -74
-    title: story_util-20001397
+    title: 잊혀진 맹세
     start: -74-A-14
   }
   {
     id: 1398
     mission_id: "11851"
-    description: story_util-10001398
+    description: 재난 앞에서 항상 누군가 나서서 앞장을 선다.
     scripts: -74-A-16
     campaign: -74
-    title: story_util-20001398
+    title: 새로운 세계로
     start: -74-A-16
   }
   {
     id: 1399
     mission_id: "11852"
-    description: story_util-10001399
+    description: 하루 종일 분주한 지휘관은 수 년 전 그날로 돌아가는 꿈을 꾸었다...
     scripts: -74-A-18
     campaign: -74
-    title: story_util-20001399
+    title: 황무지를 휘젓는 밤
     start: -74-A-18
   }
   {
     id: 1400
     mission_id: "11855"
-    description: story_util-10001400
+    description: 일반인이 죽든 말든 아무도 신경 안 써. 그럼 누구라도 나서서 뭐라도 해야겠지. 그게 내가 총을 드는 의미야.
     scripts: -74-A-20
     campaign: -74
-    title: story_util-20001400
+    title: 세월의 벽을 뚫고
     start: -74-A-20
   }
   {
     id: 1401
     mission_id: "11856"
-    description: story_util-10001401
+    description: 우리가 할 수 있는 건 몸을 깨끗이 씻고 자신의 운명을 받아들이는 것뿐. 나아가서 자신이 할 수 있는 일을 하라.
     scripts: -74-A-22
     campaign: -74
-    title: story_util-20001401
+    title: 바닷가의 모래와 짠물
     start: -74-A-22
   }
   {
     id: 1402
     mission_id: "11857"
-    description: story_util-10001402
+    description: 어느 날 제가 죽는다면 묘비에 이렇게 새겨주십쇼. "여기에 용감한 사람이 잠들다."
     scripts: -74-A-24
     campaign: -74
-    title: story_util-20001402
+    title: 용감한 사람
     start: -74-A-24
   }
   {
     id: 1403
     mission_id: "11860"
-    description: story_util-10001403
+    description: 니드호그 프로토콜은 모든 IOP제 인형의 가동을 정지하고 지휘권한을 강제 회수한다.
     scripts: -74-A-26
     campaign: -74
-    title: story_util-20001403
+    title: 뿌리를 물어뜯는 드래곤
     start: -74-A-26
   }
   {
     id: 1404
     mission_id: "11861"
-    description: story_util-10001404
+    description: 전세계가 루련 설립의 희열에 잠긴 와중, 넬레는 한 초안 배후에 숨겨진 음모를 눈치챘다...
     scripts: -74-A-28
     campaign: -74
-    title: story_util-20001404
+    title: 글귀 밖의 세상은 차갑고
     start: -74-A-28
   }
   {
     id: 1405
     mission_id: "11862"
-    description: story_util-10001405
+    description: 발키리 계획의 성공을 막기 위해 지휘관은 남은 인형들을 이끌고 마지막 수술 장소로 향한다.
     scripts: -74-A-30
     campaign: -74
-    title: story_util-20001405
+    title: 꿰뚫는 붉음
     start: -74-A-30
   }
   {
     id: 1406
     mission_id: "11865"
-    description: story_util-10001406
+    description: 코드네임 "안젤리아"란 요원은 어느 세상에서든, 어떤 선택을 해도, 당신과 처음부터 끝까지 전우였다.
     scripts: -74-A-32
     campaign: -74
-    title: story_util-20001406
+    title: 외로운 영혼의 기도
     start: -74-A-32
   }
   {
     id: 1407
     mission_id: "11866"
-    description: story_util-10001407
+    description: 용감한 선택을 한 넬레는 추격당했다. 외조부의 마지막 도움을 받아 무사히 위기에서 빠져나올 수 있었다.
     scripts: -74-A-34
     campaign: -74
-    title: story_util-20001407
+    title: 황량의 세계에 타오르는 불
     start: -74-A-34
   }
   {
     id: 1408
     mission_id: "11867"
-    description: story_util-10001408
+    description: 축하해요. 저 자신에게도 축하하고요. 마침내 결말을 하나 얻었네요.
     scripts: -74-A-36
     campaign: -74
-    title: story_util-20001408
+    title: 마지막 착수
     start: -74-A-36
   }
   {
     id: 1409
     mission_id: "11868"
-    description: story_util-10001409
+    description: 지휘관님. 마지막으로 한 번만 고집을 들어주세요... 제 하나뿐인 선택을...
     scripts: -74-A-38
     campaign: -74
-    title: story_util-20001409
+    title: 수호의 노래
     start: -74-A-38
   }
   {
     id: 1410
     mission_id: "11837"
-    description: story_util-10001410
+    description: 새 임무가 내려왔다. 여명이 곧 오리라.
     scripts: -74-S-1
     campaign: -74
-    title: story_util-20001410
+    title: 네 평생의 이야기 Ⅰ
     start: -74-S-1
   }
   {
     id: 1411
     mission_id: "11842"
-    description: story_util-10001411
+    description: 물러나고 물러나다 이제 우리에겐 더이상 물러날 곳이 없다.
     scripts: -74-S-2
     campaign: -74
-    title: story_util-20001411
+    title: 네 평생의 이야기 Ⅱ
     start: -74-S-2
   }
   {
     id: 1412
     mission_id: "11846"
-    description: story_util-10001412
+    description: 이건 천성이다. 인류는 영원히 진심으로 단결할 수가 없다. 진정으로 뭉치는 건 오직 돈뿐이다.
     scripts: -74-S-3
     campaign: -74
-    title: story_util-20001412
+    title: 네 평생의 이야기 Ⅲ
     start: -74-S-3
   }
   {
     id: 1413
     mission_id: "11849"
-    description: story_util-10001413
+    description: 우리는 그저 다른 진영에 서있을 뿐. 모두 조국을 사랑하는 마음은 똑같다.
     scripts: -74-S-4
     campaign: -74
-    title: story_util-20001413
+    title: 네 평생의 이야기 Ⅳ
     start: -74-S-4
   }
   {
     id: 1414
     mission_id: "11854"
-    description: story_util-10001414
+    description: 이건 조국을 구할 마지막 기회다. 신소련이 새로 태어나는 게 아니면, 신소련과 함께 순장할 뿐이다.
     scripts: -74-S-5
     campaign: -74
-    title: story_util-20001414
+    title: 네 평생의 이야기 Ⅴ
     start: -74-S-5
   }
   {
     id: 1415
     mission_id: "11859"
-    description: story_util-10001415
+    description: 오늘은 내 평생 가장 길었던 싸움이다. 그리고 나는 부끄럽게도 살아남았다.
     scripts: -74-S-6
     campaign: -74
-    title: story_util-20001415
+    title: 네 평생의 이야기 Ⅵ
     start: -74-S-6
   }
   {
     id: 1416
     mission_id: "11864"
-    description: story_util-10001416
+    description: 여긴 우리의 조국, 우리의 땅이다.
     scripts: -74-S-7
     campaign: -74
-    title: story_util-20001416
+    title: 네 평생의 이야기 Ⅶ
     start: -74-S-7
   }
 ]

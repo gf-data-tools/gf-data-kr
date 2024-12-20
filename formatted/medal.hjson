@@ -518,24 +518,24 @@
   }
   {
     id: 45
-    name: medal-10000045
+    name: 잿속의 불꽃 훈장
     order: 55
     evo_step: "1"
     appearance_id: "253"
     item_id: 144
-    medal_obtain: medal-20000045
+    medal_obtain: 기간 한정 이벤트 합성곱 핵의 모든 전역 도전을 마친 지휘관에게 수여합니다.
     medal_color: "#ff0000"
     is_date: 2
     decorate_code: Logo_Events
   }
   {
     id: 46
-    name: medal-10000046
+    name: 불속의 황금 훈장
     order: 54
     evo_step: "1,2,3,4,5,6,7,8,9,10,11,12"
     appearance_id: "254,255,256,257,258,259,260,261,262,263,264,265"
     item_id: 145
-    medal_obtain: medal-20000046
+    medal_obtain: 기간 한정 이벤트 합성곱 핵，랭킹모드“펜로즈 계단을 뛰어내려”에서 뛰어난 성적을 기록한 지휘관에게 수여합니다.
     medal_color: "#ff0000"
     is_date: 2
     decorate_code: Logo_Events

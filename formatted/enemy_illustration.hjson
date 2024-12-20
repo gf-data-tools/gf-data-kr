@@ -5732,11 +5732,11 @@
   {
     sub_id: 248001
     id: 248
-    name: enemy_illustration-10248001
-    sub_name: enemy_illustration-50248001
+    name: 스틱스
+    sub_name: 스틱스
     type: 1
     code: StyxBoss
-    introduce: enemy_illustration-20248001
+    introduce: 요염한 외표 아래에 풍기는 위험한 기운은 차마 감추지 못했습니다. 예측 불가능한 채찍은 마치 독사의 혀와 같고... 당신의 기척은 이미 포착당했으니 조심하세요.
     forces: 3
     pow_rank: 5
     life_rank: 5
@@ -5746,11 +5746,10 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-30248001
+    counter: 정보 불명, 신중하게 상대하세요!
     character: "1001,216"
     enemy_skill: "246,247,248,249,250"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-40248001
     spine_scale: "50,50,1"
   }
   {

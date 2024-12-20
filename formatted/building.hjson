@@ -24727,7 +24727,7 @@
     mission_skill: 0;660000;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: 승급 카운터
+    name: 진급 횟수
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "-30,0"
@@ -24736,7 +24736,6 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: 【표식】略
     confront_des: 이 시설은 파괴할 수 없습니다.
     missionskill_on_death: "1,660001,660091,0;1,660002,660091,0;1,660003,660091,0;1,660004,660091,0;1,660005,660091,0;1,660006,660091,0;1,660007,660091,0;1,660008,660091,0;1,660009,660091,0;1,660010,660091,0;1,660011,660091,0;1,660012,660091,0;1,660013,660091,0;1,660014,660091,0;2,660015,660091,0;2,660016,660091,0;2,660017,660091,0;2,660018,660091,0;2,660019,660091,0;2,660020,660091,0;2,660021,660091,0;2,660022,660091,0;2,660023,660091,0;2,660024,660091,0;2,660025,660091,0;2,660026,660091,0;2,660027,660091,0;2,660028,660091,0;2,660029,660091,0;2,660030,660091,0;2,660031,660091,0;2,660032,660091,0;2,660033,660091,0;2,660034,660091,0;2,660035,660091,0;2,660036,660091,0;2,660037,660091,0;2,660038,660091,0;2,660039,660091,0;2,660040,660091,0;2,660041,660091,0;2,660042,660091,0;2,660043,660091,0;2,660044,660091,0;2,660045,660091,0;2,660046,660091,0;2,660047,660091,0;2,660048,660091,0;2,660049,660091,0;2,660050,660091,0;2,660051,660091,0;2,660052,660091,0;2,660053,660091,0;2,660054,660091,0;2,660055,660091,0;2,660056,660091,0;2,660057,660091,0;2,660058,660091,0;2,660059,660091,0;2,660060,660091,0;2,660061,660091,0;2,660062,660091,0;2,660063,660091,0;2,660064,660091,0;2,660065,660091,0"
   }
@@ -24758,7 +24757,6 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: 【표식】略
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -24779,7 +24777,6 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: 【표식】略
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -24800,7 +24797,6 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: 【표식】略
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -24821,7 +24817,6 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: 【표식】略
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -24842,7 +24837,6 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: 【표식】略
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -24863,7 +24857,6 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: 【표식】略
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -24886,8 +24879,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: TheDivisoin_Box_High;공수 물자;0,0;0
-    des: 【표식】略
+    active_building_info: TheDivisoin_Box_High;공수 보급;0,0;0
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -24910,8 +24902,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: TheDivisoin_Box_High;공수 물자;0,0;0
-    des: 【표식】略
+    active_building_info: TheDivisoin_Box_High;공수 보급;0,0;0
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -24934,8 +24925,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: TheDivisoin_Box_High;공수 물자;0,0;0
-    des: 【표식】略
+    active_building_info: TheDivisoin_Box_High;공수 보급;0,0;0
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -24958,8 +24948,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: TheDivisoin_Box_High;공수 물자;0,0;0
-    des: 【표식】略
+    active_building_info: TheDivisoin_Box_High;공수 보급;0,0;0
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -24982,8 +24971,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: TheDivisoin_Box_High;공수 물자;0,0;0
-    des: 【표식】略
+    active_building_info: TheDivisoin_Box_High;공수 보급;0,0;0
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -25006,8 +24994,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: TheDivisoin_Box_High;공수 물자;0,0;0
-    des: 【표식】略
+    active_building_info: TheDivisoin_Box_High;공수 보급;0,0;0
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -25019,7 +25006,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: 机场표식
+    name: 헬리포트 표식
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "-30,0"
@@ -25028,7 +25015,6 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: 【표식】略
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -25040,7 +25026,7 @@
     mission_skill: 0;669801;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: 내순환 스폰
+    name: 내곽 스폰
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "-30,0"
@@ -25049,7 +25035,6 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: 【표식】略
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -25061,7 +25046,7 @@
     mission_skill: 0;669802;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: 중간 헬포 상단 순찰
+    name: 중환 헬포 상층 순찰
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "-30,0"
@@ -25070,7 +25055,6 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: 【표식】略
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -25082,7 +25066,7 @@
     mission_skill: 0;669803;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: 중간 헬포 죄측 순찰
+    name: 중환 헬포 좌측 순찰
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "-30,0"
@@ -25091,7 +25075,6 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: 【표식】略
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -25103,7 +25086,7 @@
     mission_skill: 0;669804;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: 중간 헬포 우하 순찰
+    name: 중환 헬포 우하 순찰
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "-30,0"
@@ -25112,7 +25095,6 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: 【표식】略
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -25124,7 +25106,7 @@
     mission_skill: 0;669805;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: 중간 헬포 상단 경계
+    name: 중환 헬포 상층 경계
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "-30,0"
@@ -25133,7 +25115,6 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: 【표식】略
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -25145,7 +25126,7 @@
     mission_skill: 0;669806;0;1
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: 중간 헬포 좌하 경계
+    name: 중환 헬포 좌하 경계
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "-30,0"
@@ -25154,7 +25135,6 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: 【표식】略
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -25166,7 +25146,7 @@
     mission_skill: 0;669807;0;1
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: 중간 헬포 우측 경계
+    name: 중환 헬포 우측 경계
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "-30,0"
@@ -25175,7 +25155,6 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: 【표식】略
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -25187,7 +25166,7 @@
     mission_skill: 0;669808;0;1
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: 외순환 헬포 삼각 순찰
+    name: 외곽 헬포 정삼각형 순찰
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "-30,0"
@@ -25196,7 +25175,6 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: 【표식】略
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -25208,7 +25186,7 @@
     mission_skill: 0;669809;0;1
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: 외순환 헬포 역삼각 순찰
+    name: 외곽 헬포 역삼각형 순찰
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "-30,0"
@@ -25217,7 +25195,6 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    des: 【표식】略
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
@@ -53394,10 +53371,10 @@
     defender_upper: 99999
     belong: 2
     hold_belong: 1
-    mission_skill: 9740113;9740113;9740113;9740113
+    mission_skill: 9740122;9740122;9740122;9740122
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19740101
+    name: 【표식】兔子_NPC挂buff
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -53407,9 +53384,7 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49740101
-    des: building-29740101
-    confront_des: building-39740101
+    confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
     id: 9740102
@@ -53420,7 +53395,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19740102
+    name: 물자
     code: GunBox_1
     shifting_spot: "0,0"
     shifting_team: "-30,0"
@@ -53431,9 +53406,8 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49740102
-    des: building-29740102
-    confront_des: building-39740102
+    des: "42"
+    confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
     id: 9740103
@@ -53444,7 +53418,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 405001;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-19740103
+    name: 포격 진지
     code: MissileLauncher
     shifting_spot: "4,97"
     shifting_team: "-30,0"
@@ -53456,10 +53430,9 @@
     type: 1
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49740103
     initial_state: 1
-    des: building-29740103
-    confront_des: building-39740103
+    des: 지원범위 내의 같은 소속 제대에게 지원 포격을 제공하여, 전투 중 적에게 지속적으로 포격합니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
     id: 9740104
@@ -53470,7 +53443,7 @@
     mission_skill: 0;0;900002;0
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-19740104
+    name: 방공진지
     code: ADK
     shifting_spot: "12,90"
     shifting_team: "-30,0"
@@ -53481,10 +53454,28 @@
     type: 3
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49740104
     initial_state: 1
-    des: building-29740104
-    confront_des: building-39740104
+    des: 지원범위 내의 헬리포트에 대공 경계를 취해, 공수강하, 제대배치 및 인질회수 등 기능을 불가능하게 합니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 9740105
+    defender: 99999
+    defender_upper: 99999
+    hold_belong: 1
+    mission_skill: 9740105;9740105;9740105;9740105
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: 【标记】兔子
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    type: 5
+    is_focus: "-1,0"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
     id: 9740701
@@ -53495,7 +53486,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-19740701
+    name: 차단문
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -53508,10 +53499,9 @@
     transition: Door_Left:0_1,Door_Left:1_3
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49740701
     initial_state: 1
-    des: building-29740701
-    confront_des: building-39740701
+    des: 닫히면 통로를 봉쇄하며, 닫힐 때 문에 있는 제대에게 피해를 줍니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
     id: 9740702
@@ -53522,7 +53512,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19740702
+    name: 【표식】兔子_경계检测
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -53532,9 +53522,7 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49740702
-    des: building-29740702
-    confront_des: building-39740702
+    confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
     id: 9740703
@@ -53545,7 +53533,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19740703
+    name: 【표식】兔子_各种检测
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -53555,9 +53543,7 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49740703
-    des: building-29740703
-    confront_des: building-39740703
+    confront_des: 이 시설은 파괴할 수 없습니다.
     missionskill_on_death: "1,9740705,9740703,0;1,9740706,9740703,0"
   }
   {
@@ -53569,7 +53555,7 @@
     mission_skill: 9741102;9741102;9741102;9741102
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19741101
+    name: 【표식】兔子_NPC挂buff
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -53579,9 +53565,7 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49741101
-    des: building-29741101
-    confront_des: building-39741101
+    confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
     id: 9741102
@@ -53592,7 +53576,7 @@
     mission_skill: 9741103;9741103;9741103;9741103
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19741102
+    name: 관제탑
     code: AirportTower
     shifting_spot: "-1,170"
     shifting_team: "-30,0"
@@ -53604,9 +53588,8 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49741102
-    des: building-29741102
-    confront_des: building-39741102
+    des: 지원범위 내의 같은 소속 헬리포트에서 더 강한 적이 증원되게 합니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
     id: 9741103
@@ -53617,7 +53600,7 @@
     mission_skill: 9741104;9741104;9741104;9741104
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:2,1:2;0:0,1:0
-    name: building-19741103
+    name: 변전소
     code: Substation
     shifting_spot: "50,100"
     shifting_team: "-30,0"
@@ -53628,10 +53611,9 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1,1
-    active_building_info: building-49741103
     initial_state: -1
-    des: building-29741103
-    confront_des: building-39741103
+    des: EMP 발생기에 전력을 공급합니다. EMP 발동 시 과열되어 회복에 시간이 필요합니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
     id: 9741104
@@ -53665,7 +53647,7 @@
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
     is_destroy: "1"
-    name: building-19741401
+    name: 돌무더기
     code: Rock_S
     shifting_spot: "0,120"
     shifting_team: "-30,0"
@@ -53676,9 +53658,12 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49741401
-    des: building-29741401
-    confront_des: building-39741401
+    des: 돌덩이가 쌓여 통로를 막았습니다.
+    confront_des:
+      '''
+      이 전역에서 가능한 대처법:
+      중장비 포격
+      '''
   }
   {
     id: 9741402
@@ -53689,7 +53674,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;1:1,1:0
-    name: building-19741402
+    name: 버려진 골리앗
     code: Boomer
     shifting_spot: "45,100"
     shifting_team: "-30,0"
@@ -53701,9 +53686,8 @@
     type: 8
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49741402
-    des: building-29741402
-    confront_des: building-39741402
+    des: 누가 버리고 간 건지 모를 골리앗, 집어서 특정 시설을 폭파할 수 있습니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
     id: 9741403
@@ -53714,7 +53698,7 @@
     mission_skill: 0;0;0;6440067
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:3,1:3
-    name: building-19741403
+    name: 이아손의 상자
     code: iaso
     shifting_spot: "0,150"
     shifting_team: "-30,0"
@@ -53728,9 +53712,9 @@
     transition: iaso:0_1,iaso:1_0
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49741403
-    des: building-29741403
-    confront_des: building-39741403
+    active_building_info: iaso;이아손의 상자;0,0;0
+    des: 관련 시설에 지시를 보낼 수 있습니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
     id: 9741901
@@ -53742,7 +53726,7 @@
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
     is_destroy: "1"
-    name: building-19741901
+    name: 중요 통로
     code: Birdge_Left_3
     shifting_spot: "-55,160"
     shifting_team: "0,0"
@@ -53753,10 +53737,14 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49741901
+    active_building_info: Rock_S;폐허;0,0;0|Birdge_Left_1;중요 통로;0,0;0
     initial_state: -1
-    des: building-29741901
-    confront_des: building-39741901
+    des: 돌덩이가 쌓여 통로를 막았습니다.
+    confront_des:
+      '''
+      이 전역에서 가능한 대처법:
+      중장비 포격
+      '''
   }
   {
     id: 9741902
@@ -53767,7 +53755,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;1:1,1:0
-    name: building-19741902
+    name: 버려진 골리앗
     code: Boomer
     shifting_spot: "45,100"
     shifting_team: "-30,0"
@@ -53778,9 +53766,7 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49741902
-    des: building-29741902
-    confront_des: building-39741902
+    confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
     id: 9741903
@@ -53791,7 +53777,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19741903
+    name: 물자
     code: GunBox_1
     shifting_spot: "0,0"
     shifting_team: "-30,0"
@@ -53802,9 +53788,7 @@
     type: 5
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49741903
-    des: building-29741903
-    confront_des: building-39741903
+    confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
     id: 9741904
@@ -53815,7 +53799,7 @@
     mission_skill: 0;0;0;2000009
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19741904
+    name: 중요 통로
     code: Birdge_Left_4
     shifting_spot: "-55,160"
     shifting_team: "0,0"
@@ -53826,9 +53810,8 @@
     type: 10
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49741904
-    des: building-29741904
-    confront_des: building-39741904
+    des: 중요한 경로를 잇는 시설입니다. 파괴되면 이동에 심각한 차질이 생깁니다.
+    confront_des: 이 전역에선 골리앗을 설치해 파괴할 수 있습니다.
   }
   {
     id: 9741905
@@ -53839,7 +53822,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19741905
+    name: 【표식】兔子
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -53849,9 +53832,7 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49741905
-    des: building-29741905
-    confront_des: building-39741905
+    confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
     id: 9741906
@@ -53885,7 +53866,7 @@
     mission_skill: 0;0;0;2000017
     battle_skill: 0;0;0;0
     condition: 0:1,1:1;0:1,1:0
-    name: building-19742401
+    name: EMP 폭탄
     code: Build_PortableEMP
     shifting_spot: "65,150"
     shifting_team: "-30,0"
@@ -53898,9 +53879,8 @@
     is_focus: "-1"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49742401
-    des: building-29742401
-    confront_des: building-39742401
+    des: 휴대 가능한 EMP, 단일 제대에게 EMP 타격을 줘, 작전능력을 감소시키고 이동할 수 없게 합니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
     id: 9742402
@@ -53911,7 +53891,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19742402
+    name: 【표식】兔子_各种检测
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -53920,9 +53900,6 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49742402
-    des: building-29742402
-    confront_des: building-39742402
     missionskill_on_death: "2,9742401,9742401,0"
   }
   {
@@ -53934,7 +53911,7 @@
     mission_skill: 0;0;0;2000005
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19742901
+    name: 제어 콘솔
     code: Console
     shifting_spot: "40,150"
     shifting_team: "-30,0"
@@ -53946,9 +53923,8 @@
     type: 7
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49742901
-    des: building-29742901
-    confront_des: building-39742901
+    des: 관련 시설에 지시를 보낼 수 있습니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
     id: 9742902
@@ -53959,7 +53935,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-19742902
+    name: 차단문I
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -53972,10 +53948,9 @@
     transition: Door_Left:0_1,Door_Left:1_3
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49742902
     initial_state: -1
-    des: building-29742902
-    confront_des: building-39742902
+    des: 닫히면 통로를 봉쇄하며, 닫힐 때 문에 있는 제대에게 피해를 줍니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
     id: 9742903
@@ -53986,7 +53961,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-19742903
+    name: 차단문II
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -53999,10 +53974,9 @@
     transition: Door_Left:0_1,Door_Left:1_3
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49742903
     initial_state: -1
-    des: building-29742903
-    confront_des: building-39742903
+    des: 닫히면 통로를 봉쇄하며, 닫힐 때 문에 있는 제대에게 피해를 줍니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
     id: 9742904
@@ -54013,7 +53987,7 @@
     mission_skill: 0;0;0;2000006
     battle_skill: 0;0;0;0
     condition: 0:2,1:2;0:2,1:0
-    name: building-19742904
+    name: 차단문III
     code: Door_Left
     shifting_spot: "10,80"
     shifting_team: "-20,0"
@@ -54026,10 +54000,50 @@
     transition: Door_Left:0_1,Door_Left:1_3
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;0
-    active_building_info: building-49742904
     initial_state: -1
-    des: building-29742904
-    confront_des: building-39742904
+    des: 닫히면 통로를 봉쇄하며, 닫힐 때 문에 있는 제대에게 피해를 줍니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 9742905
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: 【标记】兔子-Boss
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "9742901"
+    type: 5
+    is_focus: "-1,0"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    missionskill_on_death: "1,9742904,9742906,0;1,9747404,9742906,0;1,9744504,9742906,0"
+  }
+  {
+    id: 9742906
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: 【标记】兔子-NPC
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "9742902,9742903,9742904,9742905"
+    type: 5
+    is_focus: "-1,0"
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
   }
   {
     id: 9743601
@@ -54040,7 +54054,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19743601
+    name: 【표식】兔子_各种检测
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -54050,9 +54064,7 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49743601
-    des: building-29743601
-    confront_des: building-39743601
+    confront_des: 이 시설은 파괴할 수 없습니다.
     missionskill_on_death: "1,9743605,9740707,0;1,9743606,9740707,0"
   }
   {
@@ -54064,7 +54076,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19743902
+    name: 【표식】兔子_各种检测
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -54073,9 +54085,6 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49743902
-    des: building-29743902
-    confront_des: building-39743902
     missionskill_on_death: "2,9743901,9742401,0"
   }
   {
@@ -54087,7 +54096,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19744101
+    name: 【표식】兔子_各种检测
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -54097,9 +54106,7 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49744101
-    des: building-29744101
-    confront_des: building-39744101
+    confront_des: 이 시설은 파괴할 수 없습니다.
     missionskill_on_death: "1,9744105,9740707,0;1,9744106,9740707,0"
   }
   {
@@ -54111,7 +54118,7 @@
     mission_skill: 0;0;0;0
     battle_skill: 0;0;0;0
     condition: 0:0,1:0;0:0,1:1
-    name: building-19744402
+    name: 【표식】兔子_各种检测
     code: Hiding
     shifting_spot: "0,0"
     shifting_team: "0,0"
@@ -54120,9 +54127,6 @@
     is_focus: "-1,0"
     belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
     working_spot_activation: 1;1
-    active_building_info: building-49744402
-    des: building-29744402
-    confront_des: building-39744402
     missionskill_on_death: "2,9744401,9742401,0"
   }
   {

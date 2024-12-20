@@ -30583,13 +30583,13 @@
   }
   {
     id: 20155
-    name: furniture-10020155
+    name: 지하 피난소
     classes: 19
     type: 301
     space: "1,1,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020155
+    description: 재난에 사람들은 집을 떠나 지하 30m에 세워진 누추한 피난소에 모여야 했다. 분쟁과 분열은 영원한 화제지만, 간간히 빛나는 인간성이 새로운 장을 엽니다.
     code: 202412Activity_wall
     texture_type: "1"
     offset: "0,0,0"
@@ -30597,13 +30597,13 @@
   }
   {
     id: 20156
-    name: furniture-10020156
+    name: 마름모 타일 바닥
     classes: 19
     type: 101
     space: "1,1,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020156
+    description: 청소부의 꾸준한 노력 끝에 혈흔, 물기, 오물 모두 울퉁불퉁한 바닥에서 제거되었습니다.
     code: 202412Activity_floor
     texture_type: "1"
     offset: "0,0,0"
@@ -30611,13 +30611,13 @@
   }
   {
     id: 20157
-    name: furniture-10020157
+    name: 병상 위의 신음
     classes: 19
     type: 202
     space: "8,6,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020157
+    description: 병상에 누운 인간은 나약합니다. 한편 비몽사몽에 빠진 이들이 중얼거리는 건 언제나 엄마입니다.
     code: 202412Activity_deco_01
     texture_type: "1"
     offset: "0,0,0"
@@ -30627,13 +30627,13 @@
   }
   {
     id: 20158
-    name: furniture-10020158
+    name: 냉혹한 주시
     classes: 19
     type: 201
     space: "1,1,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020158
+    description: 형광등이 차가운 빛을 발합니다. 등불 밑 사람들의 희로애락은 모른 채.
     code: 202412Activity_deco_02
     texture_type: "1"
     offset: "0.000,3.149,0.000"
@@ -30642,13 +30642,13 @@
   }
   {
     id: 20159
-    name: furniture-10020159
+    name: 휴지통 마인드
     classes: 19
     type: 201
     space: "4,3,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020159
+    description: 진찰 보고서, 기한 지난 약품, 피로 젖은 솜, 사용한 용품... 모두 있는대로 쑤셔박으며, 자신의 부서진 멘탈과 방황하는 정신도 함께 던져 넣습니다.
     code: 202412Activity_deco_03
     texture_type: "1"
     offset: "0,0,0"
@@ -30656,13 +30656,13 @@
   }
   {
     id: 20160
-    name: furniture-10020160
+    name: 세계의 전송문
     classes: 19
     type: 201
     space: "8,1,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020160
+    description: 낡고 헐은 문짝은 사실 두 세계를 연결하는 대문. 한쪽은 희망으로 가득찬 기다림. 한 쪽은 긴장감 도는 타임어택.
     code: 202412Activity_deco_04
     texture_type: "1"
     offset: "0,0,0"
@@ -30670,13 +30670,13 @@
   }
   {
     id: 20161
-    name: furniture-10020161
+    name: 쓸쓸한 접수 카운터
     classes: 19
     type: 201
     space: "12,5,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020161
+    description: 낡은 접수 카운터에는 언제나 찾는 사람이 없고, 위에도 먼지가 얇게 쌓여 있습니다.
     code: 202412Activity_deco_05
     texture_type: "1"
     offset: "0.156,-0.302,0.000"
@@ -30684,13 +30684,13 @@
   }
   {
     id: 20162
-    name: furniture-10020162
+    name: 랜덤 카트
     classes: 19
     type: 201
     space: "3,3,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020162
+    description: 얌전히 쓴 알약을 삼키면 확률적으로 달달한 사탕을 상으로 받을 수 있습니다. 물론 더 높은 확률로 입 안에 온통 쓴맛만 가득해질 뿐이죠. 인생처럼.
     code: 202412Activity_deco_06
     texture_type: "1"
     offset: "0,0,0"
@@ -30698,13 +30698,13 @@
   }
   {
     id: 20163
-    name: furniture-10020163
+    name: 아픔 가림막
     classes: 19
     type: 201
     space: "10,3,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020163
+    description: 차단된 시야에 잠깐의 안녕을 얻었습니다. 장막 뒤의 진실이 보이지 않는 동안만이라도 고통의 존재를 잠시 무시할 수 있지 않을까요.
     code: 202412Activity_deco_07
     texture_type: "1"
     offset: "0,0,0"
@@ -30712,13 +30712,13 @@
   }
   {
     id: 20164
-    name: furniture-10020164
+    name: 링거 걸이의 이야기
     classes: 19
     type: 202
     space: "8,4,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020164
+    description: 앞으로 몇 시간 동안 당신의 활동 범위는 이 의자에 국한되고, 당신이 읽을 수 있는 건 수액팩, 수액 속도와 옆자리 사람의 수다뿐입니다.
     code: 202412Activity_deco_08
     texture_type: "1"
     offset: "0.000,-0.188,0.000"
@@ -30728,13 +30728,13 @@
   }
   {
     id: 20165
-    name: furniture-10020165
+    name: 잿속의 불꽃 훈장
     classes: 19
     type: 302
     space: "2,5,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: furniture-20020165
+    description: '''"합성곱 핵" 이벤트에서 눈부신 성과를 거둔 지휘관과 휘하 전술인형에게 수여합니다. "그대는 죽음의 나라로 발을 들여, 잿더미 속에서 불씨를 찾고, 세상의 끝에서 출발선을 찾는다."'''
     code: 202412Activity_Medal
     texture_type: "1"
     offset: "0,0,0"
@@ -46789,14 +46789,104 @@
     rotate: "3"
   }
   {
-    id: 311107
-    name: furniture-10311107
+    id: 311101
+    name: Erma - 성야의 열쇠
     classes: 300
     type: 303
     space: "3,6,1,1,1,0"
     deco_rate: 750
     decompose_gift: 100003
-    description: furniture-20311107
+    description: Erma의 포스터
+    code: poster_Christmas2024_Erma
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311102
+    name: M99 - 달빛 바라보기
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M99의 포스터
+    code: poster_Christmas2024_M99
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311103
+    name: MP7 - 순록 택배
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: MP7의 포스터
+    code: poster_Christmas2024_MP7
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311104
+    name: P50 - 리본에 흔들리는 별빛
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: P50의 포스터
+    code: poster_Christmas2024_P50
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311105
+    name: EM-2 - 품으로 데운 향기
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: EM-2의 포스터
+    code: poster_Christmas2024_EM2
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311106
+    name: 팔콘 - 서리 종소리
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 팔콘의 포스터
+    code: poster_Christmas2024_Falcon
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311107
+    name: M1911 - 달링 키친 래빗
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M1911의 포스터
     code: poster_Christmas2024_M1911
     texture_type: "1"
     sorting: "5"

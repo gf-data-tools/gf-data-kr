@@ -1248,24 +1248,24 @@
   }
   {
     id: 1160301
-    name: fight_environment_skill-11160301
-    desc: fight_environment_skill-21160301
+    name: 세상을 새로 쓸 칼날Ⅰ
+    desc: 인형제대 화력 +15%
     if_display: 1
     code: JJH_GF
     skill_group: "330001"
   }
   {
     id: 1160302
-    name: fight_environment_skill-11160302
-    desc: fight_environment_skill-21160302
+    name: 세상을 새로 쓸 칼날Ⅱ
+    desc: 혼합세력유닛 화력 +15%
     if_display: 1
     code: JJH_RH
     skill_group: "330002"
   }
   {
     id: 1160303
-    name: fight_environment_skill-11160303
-    desc: fight_environment_skill-21160303
+    name: 세상을 새로 쓸 칼날Ⅲ
+    desc: 탈것 및 중장비 소대 화력 +15%
     if_display: 1
     code: JJH_ZY
     skill_group: "330003"
