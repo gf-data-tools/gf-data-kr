@@ -379,4 +379,22 @@
     group_skill: 2:1003903
     fit_gun: "20093"
   }
+  {
+    id: 43
+    name: 몽환나비
+    des: ZB-26을 위해 맞춤 제작된 세트, 꿈과 같은 장비 성능으로 그녀의 업무 수행을 도와줍니다.
+    code: EgroupZB26
+    equip_unit: "321,433,0"
+    group_skill: 2:1004103
+    fit_gun: "307"
+  }
+  {
+    id: 44
+    name: 공수변환
+    des: 콜트 디펜더를 위해 맞춤 제작된 세트, 최고의 수비는 바로 공격이다!
+    code: EgroupColtDefender
+    equip_unit: "434,216,0"
+    group_skill: 2:1004203
+    fit_gun: "302"
+  }
 ]

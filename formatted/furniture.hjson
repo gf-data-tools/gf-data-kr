@@ -46894,6 +46894,96 @@
     rotate: "3"
   }
   {
+    id: 311201
+    name: SPAS-15 - 산초꽃 자태
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SPAS-15의 포스터
+    code: poster_NewYear2025_SPAS15
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311202
+    name: 콜트 파이슨 - 참 · 학 날개의 춤
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 콜트 파이슨의 포스터
+    code: poster_NewYear2025_Python
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311203
+    name: Savage 99 - 봄노을 유람기
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: Savage 99의 포스터
+    code: poster_NewYear2025_Savage99
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311204
+    name: M37 - 후시미 여우신
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M37의 포스터
+    code: poster_NewYear2025_Ithaca37
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311205
+    name: ZiP .22 - 어스름 향기
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: ZiP .22의 포스터
+    code: poster_NewYear2025_ZIP22
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311206
+    name: 아스트라 리볼버 - 매화꽃은 내 마음
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 아스트라 리볼버의 포스터
+    code: poster_NewYear2025_357
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 330001
     name: ST AR-15 - 여름의 솔솔 바람
     classes: 300

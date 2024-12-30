@@ -6304,7 +6304,6 @@
     id: 1180502
     type: 1407
     arguments: 730111:2
-    extra_language: mission_win_type_config-11180502
     is_hidden: 2
   }
   {
@@ -7284,7 +7283,7 @@
     id: 9740102
     type: 1407
     arguments: 9720404:1
-    extra_language: 물자를 2개 레이더 지검에 운반.
+    extra_language: 물자를 2개 레이더 지점에 운반.
   }
   {
     id: 9740103

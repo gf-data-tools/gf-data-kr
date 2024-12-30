@@ -15997,6 +15997,70 @@
     rank: 1
   }
   {
+    id: 2631
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_SPAS15
+    item_name: SPAS-15 - 산초꽃 자태
+    introduction: SPAS-15 - 산초꽃 자태
+    rank: 1
+  }
+  {
+    id: 2632
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_Python
+    item_name: 콜트 파이슨 - 참 · 학 날개의 춤
+    introduction: 콜트 파이슨 - 참 · 학 날개의 춤
+    rank: 1
+  }
+  {
+    id: 2633
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_Savage99
+    item_name: Savage 99 - 봄노을 유람기
+    introduction: Savage 99 - 봄노을 유람기
+    rank: 1
+  }
+  {
+    id: 2634
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_Ithaca37
+    item_name: M37 - 후시미 여우신
+    introduction: M37 - 후시미 여우신
+    rank: 1
+  }
+  {
+    id: 2635
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_ZIP22
+    item_name: ZiP .22 - 어스름 향기
+    introduction: ZiP .22 - 어스름 향기
+    rank: 1
+  }
+  {
+    id: 2636
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_357
+    item_name: 아스트라 리볼버 - 매화꽃은 내 마음
+    introduction: 아스트라 리볼버 - 매화꽃은 내 마음
+    rank: 1
+  }
+  {
+    id: 2637
+    type: 5
+    arg: "1"
+    code: profilePic_NewYear2025_Type100_JP
+    item_name: item-10002637
+    introduction: item-20002637
+    rank: 1
+    detail_introduction: item-30002637
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -17612,6 +17676,15 @@
     id: 10722
     type: 18
     arg: "10722"
+    code: daily_points
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
+    rank: 1
+  }
+  {
+    id: 10723
+    type: 18
+    arg: "10723"
     code: daily_points
     item_name: 회색지대 점수
     introduction: 회색지대 점수

@@ -1606,9 +1606,6 @@ mission_buff_config-10300151,공생
 mission_buff_config-20300151,전장내 아군을 강화한다.
 mission_buff_config-19740708,
 mission_buff_config-29740708,진입 권한을 가진 유닛
-mission_buff_config-10660091,킬 카운트
-mission_buff_config-10660092,킬 카운트
-mission_buff_config-10660093,킬 카운트
 mission_buff_config-10669900,
 mission_buff_config-20669900,적 2개 처치 후 승진
 mission_buff_config-10669901,
@@ -1621,66 +1618,6 @@ mission_buff_config-10669904,
 mission_buff_config-20669904,적 4개 처치 후 승진
 mission_buff_config-10669905,
 mission_buff_config-20669905,적 5개 처치 후 승진
-mission_buff_config-10660011,1단계 승진
-mission_buff_config-20660011,승진Ⅰ//c 1턴당 추가 2000점 획득
-mission_buff_config-10660012,1단계 승진
-mission_buff_config-20660012,승진Ⅰ//c 1턴당 추가 2000점 획득
-mission_buff_config-10660013,1단계 승진
-mission_buff_config-20660013,승진Ⅰ//c 1턴당 추가 2000점 획득
-mission_buff_config-10660014,1단계 승진
-mission_buff_config-20660014,승진Ⅰ//c 1턴당 추가 2000점 획득
-mission_buff_config-10660015,1단계 승진
-mission_buff_config-20660015,승진Ⅰ//c 1턴당 추가 2000점 획득
-mission_buff_config-10660016,1단계 승진
-mission_buff_config-20660016,승진Ⅰ//c 1턴당 추가 2000점 획득
-mission_buff_config-10660017,1단계 승진
-mission_buff_config-20660017,승진Ⅰ//c 1턴당 추가 2000점 획득
-mission_buff_config-10660018,1단계 승진
-mission_buff_config-20660018,승진Ⅰ//c 1턴당 추가 2000점 획득
-mission_buff_config-10660019,1단계 승진
-mission_buff_config-20660019,승진Ⅰ//c 1턴당 추가 2000점 획득
-mission_buff_config-10660020,1단계 승진
-mission_buff_config-20660020,승진Ⅰ//c 1턴당 추가 2000점 획득
-mission_buff_config-10660021,2단계 승진
-mission_buff_config-20660021,승진Ⅱ//c 1턴당 추가 4000점 획득
-mission_buff_config-10660022,2단계 승진
-mission_buff_config-20660022,승진Ⅱ//c 1턴당 추가 4000점 획득
-mission_buff_config-10660023,2단계 승진
-mission_buff_config-20660023,승진Ⅱ//c 1턴당 추가 4000점 획득
-mission_buff_config-10660024,2단계 승진
-mission_buff_config-20660024,승진Ⅱ//c 1턴당 추가 4000점 획득
-mission_buff_config-10660025,2단계 승진
-mission_buff_config-20660025,승진Ⅱ//c 1턴당 추가 4000점 획득
-mission_buff_config-10660026,2단계 승진
-mission_buff_config-20660026,승진Ⅱ//c 1턴당 추가 4000점 획득
-mission_buff_config-10660027,2단계 승진
-mission_buff_config-20660027,승진Ⅱ//c 1턴당 추가 4000점 획득
-mission_buff_config-10660028,2단계 승진
-mission_buff_config-20660028,승진Ⅱ//c 1턴당 추가 4000점 획득
-mission_buff_config-10660029,2단계 승진
-mission_buff_config-20660029,승진Ⅱ//c 1턴당 추가 4000점 획득
-mission_buff_config-10660030,2단계 승진
-mission_buff_config-20660030,승진Ⅱ//c 1턴당 추가 4000점 획득
-mission_buff_config-10660031,3단계 승진
-mission_buff_config-20660031,승진Ⅲ//c 1턴당 추가 6000점 획득
-mission_buff_config-10660032,3단계 승진
-mission_buff_config-20660032,승진Ⅲ//c 1턴당 추가 6000점 획득
-mission_buff_config-10660033,3단계 승진
-mission_buff_config-20660033,승진Ⅲ//c 1턴당 추가 6000점 획득
-mission_buff_config-10660034,3단계 승진
-mission_buff_config-20660034,승진Ⅲ//c 1턴당 추가 6000점 획득
-mission_buff_config-10660035,3단계 승진
-mission_buff_config-20660035,승진Ⅲ//c 1턴당 추가 6000점 획득
-mission_buff_config-10660036,3단계 승진
-mission_buff_config-20660036,승진Ⅲ//c 1턴당 추가 6000점 획득
-mission_buff_config-10660037,3단계 승진
-mission_buff_config-20660037,승진Ⅲ//c 1턴당 추가 6000점 획득
-mission_buff_config-10660038,3단계 승진
-mission_buff_config-20660038,승진Ⅲ//c 1턴당 추가 6000점 획득
-mission_buff_config-10660039,3단계 승진
-mission_buff_config-20660039,승진Ⅲ//c 1턴당 추가 6000점 획득
-mission_buff_config-10660040,3단계 승진
-mission_buff_config-20660040,승진Ⅲ//c 1턴당 추가 6000점 획득
 mission_buff_config-10660050,워프
 mission_buff_config-20660050,
 mission_buff_config-10002401,치유의 성가

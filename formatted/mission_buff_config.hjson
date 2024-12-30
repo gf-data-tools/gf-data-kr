@@ -4646,8 +4646,7 @@
   }
   {
     id: 660011
-    name: 1단계 승진
-    description: 승진Ⅰ, 1턴당 추가 2000점 획득
+    name: 1단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4663,8 +4662,7 @@
   }
   {
     id: 660012
-    name: 1단계 승진
-    description: 승진Ⅰ, 1턴당 추가 2000점 획득
+    name: 1단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4680,8 +4678,7 @@
   }
   {
     id: 660013
-    name: 1단계 승진
-    description: 승진Ⅰ, 1턴당 추가 2000점 획득
+    name: 1단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4697,8 +4694,7 @@
   }
   {
     id: 660014
-    name: 1단계 승진
-    description: 승진Ⅰ, 1턴당 추가 2000점 획득
+    name: 1단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4714,8 +4710,7 @@
   }
   {
     id: 660015
-    name: 1단계 승진
-    description: 승진Ⅰ, 1턴당 추가 2000점 획득
+    name: 1단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4731,8 +4726,7 @@
   }
   {
     id: 660016
-    name: 1단계 승진
-    description: 승진Ⅰ, 1턴당 추가 2000점 획득
+    name: 1단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4748,8 +4742,7 @@
   }
   {
     id: 660017
-    name: 1단계 승진
-    description: 승진Ⅰ, 1턴당 추가 2000점 획득
+    name: 1단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4765,8 +4758,7 @@
   }
   {
     id: 660018
-    name: 1단계 승진
-    description: 승진Ⅰ, 1턴당 추가 2000점 획득
+    name: 1단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4782,8 +4774,7 @@
   }
   {
     id: 660019
-    name: 1단계 승진
-    description: 승진Ⅰ, 1턴당 추가 2000점 획득
+    name: 1단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4799,8 +4790,7 @@
   }
   {
     id: 660020
-    name: 1단계 승진
-    description: 승진Ⅰ, 1턴당 추가 2000점 획득
+    name: 1단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4816,8 +4806,7 @@
   }
   {
     id: 660021
-    name: 2단계 승진
-    description: 승진Ⅱ, 1턴당 추가 4000점 획득
+    name: 2단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4834,8 +4823,7 @@
   }
   {
     id: 660022
-    name: 2단계 승진
-    description: 승진Ⅱ, 1턴당 추가 4000점 획득
+    name: 2단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4852,8 +4840,7 @@
   }
   {
     id: 660023
-    name: 2단계 승진
-    description: 승진Ⅱ, 1턴당 추가 4000점 획득
+    name: 2단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4870,8 +4857,7 @@
   }
   {
     id: 660024
-    name: 2단계 승진
-    description: 승진Ⅱ, 1턴당 추가 4000점 획득
+    name: 2단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4888,8 +4874,7 @@
   }
   {
     id: 660025
-    name: 2단계 승진
-    description: 승진Ⅱ, 1턴당 추가 4000점 획득
+    name: 2단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4906,8 +4891,7 @@
   }
   {
     id: 660026
-    name: 2단계 승진
-    description: 승진Ⅱ, 1턴당 추가 4000점 획득
+    name: 2단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4924,8 +4908,7 @@
   }
   {
     id: 660027
-    name: 2단계 승진
-    description: 승진Ⅱ, 1턴당 추가 4000점 획득
+    name: 2단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4942,8 +4925,7 @@
   }
   {
     id: 660028
-    name: 2단계 승진
-    description: 승진Ⅱ, 1턴당 추가 4000점 획득
+    name: 2단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4960,8 +4942,7 @@
   }
   {
     id: 660029
-    name: 2단계 승진
-    description: 승진Ⅱ, 1턴당 추가 4000점 획득
+    name: 2단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4978,8 +4959,7 @@
   }
   {
     id: 660030
-    name: 2단계 승진
-    description: 승진Ⅱ, 1턴당 추가 4000점 획득
+    name: 2단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -4996,8 +4976,7 @@
   }
   {
     id: 660031
-    name: 3단계 승진
-    description: 승진Ⅲ, 1턴당 추가 6000점 획득
+    name: 3단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5011,8 +4990,7 @@
   }
   {
     id: 660032
-    name: 3단계 승진
-    description: 승진Ⅲ, 1턴당 추가 6000점 획득
+    name: 3단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5026,8 +5004,7 @@
   }
   {
     id: 660033
-    name: 3단계 승진
-    description: 승진Ⅲ, 1턴당 추가 6000점 획득
+    name: 3단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5041,8 +5018,7 @@
   }
   {
     id: 660034
-    name: 3단계 승진
-    description: 승진Ⅲ, 1턴당 추가 6000점 획득
+    name: 3단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5056,8 +5032,7 @@
   }
   {
     id: 660035
-    name: 3단계 승진
-    description: 승진Ⅲ, 1턴당 추가 6000점 획득
+    name: 3단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5071,8 +5046,7 @@
   }
   {
     id: 660036
-    name: 3단계 승진
-    description: 승진Ⅲ, 1턴당 추가 6000점 획득
+    name: 3단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5086,8 +5060,7 @@
   }
   {
     id: 660037
-    name: 3단계 승진
-    description: 승진Ⅲ, 1턴당 추가 6000점 획득
+    name: 3단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5101,8 +5074,7 @@
   }
   {
     id: 660038
-    name: 3단계 승진
-    description: 승진Ⅲ, 1턴당 추가 6000점 획득
+    name: 3단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5116,8 +5088,7 @@
   }
   {
     id: 660039
-    name: 3단계 승진
-    description: 승진Ⅲ, 1턴당 추가 6000점 획득
+    name: 3단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5131,8 +5102,7 @@
   }
   {
     id: 660040
-    name: 3단계 승진
-    description: 승진Ⅲ, 1턴당 추가 6000점 획득
+    name: 3단계 승급
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5180,7 +5150,7 @@
   }
   {
     id: 660091
-    name: 킬 카운트
+    name: 처치 횟수
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5192,7 +5162,7 @@
   }
   {
     id: 660092
-    name: 킬 카운트
+    name: 처치 횟수
     type: 1
     duration_type: "1"
     duration_time: "999"
@@ -5204,7 +5174,7 @@
   }
   {
     id: 660093
-    name: 킬 카운트
+    name: 처치 횟수
     type: 1
     duration_type: "1"
     duration_time: "999"

@@ -7536,7 +7536,7 @@
     fit_gun: 361
     voice: 4
     dialog: 밧줄을 쥐고, 무장한 채 눈 속을 헤친다. 안심해, 지휘관. 내가 있는 한 그리폰을 넘보는 무리는 한 발짝도 나서지 못할 테니까!
-    gift_position: "-88.6,26.4"
+    gift_position: "-158.7,595.5"
     order: 96
     class_id: 82
     skin_source: 1
@@ -9510,6 +9510,68 @@
     class_id: 108
   }
   {
+    id: 11201
+    name: SPAS-15 - 산초꽃 자태
+    fit_gun: 366
+    voice: 4
+    dialog: 지휘관, 내가 미리 새해 파티장 다 꾸며놨어! 꽃이랑, 종이끈이랑, 폭죽이랑... 물론 흥겨운 음악도 말이야!
+    order: 147
+    class_id: 109
+    skin_source: 2
+  }
+  {
+    id: 11202
+    name: 콜트 파이슨 - 참 · 학 날개의 춤
+    fit_gun: 4
+    voice: 4
+    dialog: 호오? 이 칼은 내게 주는 건가? 날카롭고 그립감도 괜찮군, 후훗... 마음에 들었어. 그렇다면 이것으로 지휘관에게 정월의 춤을 한 곡 바치지.
+    order: 147
+    class_id: 109
+    skin_source: 2
+  }
+  {
+    id: 11203
+    name: Savage 99 - 봄노을 유람기
+    fit_gun: 334
+    voice: 4
+    dialog: 봄 기운 화창한 이날의 우리 둘만의 자국을 새길 수 있길... 앗, 아무것도 아니예요, 제 말은 그러니까... 같이 드라이빙 나가실래요?
+    order: 147
+    class_id: 109
+    skin_source: 2
+  }
+  {
+    id: 11204
+    name: M37 - 후시미 여우신
+    fit_gun: 153
+    voice: 4
+    dialog: 새해에 참배하면 한 해의 행운을 얻을 수 있다던데... 어때? 당장 눈앞에 있는 여우신에게서 제비 하나 뽑지 않을래?
+    illustrator_cv: 脆片,Katou Emiri,
+    order: 147
+    class_id: 109
+    skin_source: 2
+  }
+  {
+    id: 11205
+    name: ZiP .22 - 어스름 향기
+    fit_gun: 354
+    voice: 4
+    dialog: 내가 6시간이나 고생해서 만든 "새해 한정판" 아로마야. 각별하지? 으응? 보기에 좀 불안하다고? 에, 엘리트의 솜씨를 의심하지 마!
+    order: 147
+    class_id: 109
+    skin_source: 2
+  }
+  {
+    id: 11206
+    name: 아스트라 리볼버 - 매화꽃은 내 마음
+    fit_gun: 14
+    voice: 4
+    dialog: '''"눈밭에 우뚝 솟은 매화나무, 서리를 견디고서 그대 위해 꽃 피네"... 참으로 듣기 좋은 시예요. 그리운 사람을 기다리는 심정도 분명 이런 거겠죠?'''
+    illustrator_cv: 小星,Amamiya Sora,
+    order: 147
+    class_id: 109
+    skin_source: 1
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     fit_gun: 57
@@ -9717,7 +9779,6 @@
     name: PK-설야 나들이
     fit_gun: 85
     voice: 4
-    is_hidden: 1
     dialog: 눈 내리는 밤 거대한 짐승이 나타나 길 잃은 여행자를 궁지에 몬다고 들었어. 하지만 그 소문은 내게 아무 소용 없지... 왜냐면 내가 바로 그 짐승에게 고삐를 묶을 강자니까.
     illustrator_cv: --,Nazuka Kaori,
     order: 145
