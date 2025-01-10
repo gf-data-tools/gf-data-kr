@@ -9065,153 +9065,134 @@
   {
     id: 1122
     type: 1
-    start_time: 2024-04-26 15:10:00
-    end_time: 2024-05-17 15:00:00
-    drop_ids: 10:2305
+    start_time: 2025-01-17 15:00:00
+    end_time: 2025-02-07 15:00:00
     clear_cycle: 1
   }
   {
     id: 1123
     type: 1
-    start_time: 2024-04-26 15:10:00
-    end_time: 2024-05-17 15:00:00
-    drop_ids: 8:2306
+    start_time: 2025-01-17 15:00:00
+    end_time: 2025-02-07 15:00:00
     clear_cycle: 1
   }
   {
     id: 1124
     type: 1
-    start_time: 2024-04-26 15:10:00
-    end_time: 2024-05-17 15:00:00
-    drop_ids: 8:2307
+    start_time: 2025-01-17 15:00:00
+    end_time: 2025-02-07 15:00:00
     clear_cycle: 1
   }
   {
     id: 1125
     type: 1
-    start_time: 2024-04-26 15:10:00
-    end_time: 2024-05-17 15:00:00
-    drop_ids: 6:2308
+    start_time: 2025-01-17 15:00:00
+    end_time: 2025-02-07 15:00:00
     clear_cycle: 1
   }
   {
     id: 1126
     type: 1
-    start_time: 2024-04-26 15:10:00
-    end_time: 2024-05-17 15:00:00
-    drop_ids: 6:2309
+    start_time: 2025-01-17 15:00:00
+    end_time: 2025-02-07 15:00:00
     clear_cycle: 1
   }
   {
     id: 1127
     type: 1
-    start_time: 2024-04-26 15:10:00
-    end_time: 2024-05-17 15:00:00
-    drop_ids: 6:2310
+    start_time: 2025-01-17 15:00:00
+    end_time: 2025-02-07 15:00:00
     clear_cycle: 1
   }
   {
     id: 1128
     type: 1
-    start_time: 2024-04-26 15:10:00
-    end_time: 2024-05-17 15:00:00
-    drop_ids: 5:2311
+    start_time: 2025-01-17 15:00:00
+    end_time: 2025-02-07 15:00:00
     clear_cycle: 1
   }
   {
     id: 1129
     type: 1
-    start_time: 2024-04-26 15:10:00
-    end_time: 2024-05-17 15:00:00
-    drop_ids: 5:2312
+    start_time: 2025-01-17 15:00:00
+    end_time: 2025-02-07 15:00:00
     clear_cycle: 1
   }
   {
     id: 1130
     type: 1
-    start_time: 2024-04-26 15:10:00
-    end_time: 2024-05-17 15:00:00
-    drop_ids: 4:2313
+    start_time: 2025-01-17 15:00:00
+    end_time: 2025-02-07 15:00:00
     clear_cycle: 1
   }
   {
     id: 1131
     type: 1
-    start_time: 2024-04-26 15:10:00
-    end_time: 2024-05-17 15:00:00
-    drop_ids: 4:2314
+    start_time: 2025-01-17 15:00:00
+    end_time: 2025-02-07 15:00:00
     clear_cycle: 1
   }
   {
     id: 1132
     type: 1
-    start_time: 2024-04-26 15:10:00
-    end_time: 2024-05-17 15:00:00
-    drop_ids: 10:2315
+    start_time: 2025-01-17 15:00:00
+    end_time: 2025-02-07 15:00:00
     clear_cycle: 1
   }
   {
     id: 1133
     type: 1
-    start_time: 2024-04-26 15:10:00
-    end_time: 2024-05-17 15:00:00
-    drop_ids: 8:2316
+    start_time: 2025-01-17 15:00:00
+    end_time: 2025-02-07 15:00:00
     clear_cycle: 1
   }
   {
     id: 1134
     type: 1
-    start_time: 2024-04-26 15:10:00
-    end_time: 2024-05-17 15:00:00
-    drop_ids: 6:2317
+    start_time: 2025-01-17 15:00:00
+    end_time: 2025-02-07 15:00:00
     clear_cycle: 1
   }
   {
     id: 1135
     type: 1
-    start_time: 2024-04-26 15:10:00
-    end_time: 2024-05-17 15:00:00
-    drop_ids: 5:2318
+    start_time: 2025-01-17 15:00:00
+    end_time: 2025-02-07 15:00:00
     clear_cycle: 1
   }
   {
     id: 1136
     type: 1
-    start_time: 2024-04-26 15:10:00
-    end_time: 2024-05-17 15:00:00
-    drop_ids: 4:2319
+    start_time: 2025-01-17 15:00:00
+    end_time: 2025-02-07 15:00:00
     clear_cycle: 1
   }
   {
     id: 1137
     type: 1
-    start_time: 2024-04-26 15:10:00
-    end_time: 2024-05-17 15:00:00
-    drop_ids: 1000:2320
+    start_time: 2025-01-17 15:00:00
+    end_time: 2025-02-07 15:00:00
     clear_cycle: 1
   }
   {
     id: 1138
     type: 1
-    start_time: 2024-04-26 15:10:00
-    end_time: 2024-05-17 15:00:00
-    drop_ids: 1000:2321
+    start_time: 2025-01-17 15:00:00
+    end_time: 2025-02-07 15:00:00
     clear_cycle: 1
   }
   {
     id: 1139
     type: 1
-    start_time: 2024-04-26 15:10:00
-    end_time: 2024-05-17 15:00:00
-    drop_ids: 1000:2322
+    start_time: 2025-01-17 15:00:00
+    end_time: 2025-02-07 15:00:00
     clear_cycle: 1
   }
   {
     id: 1140
     type: 1
-    start_time: 2024-04-26 15:10:00
-    end_time: 2024-05-17 15:00:00
-    drop_ids: 1000:2323
+    start_time: 2025-01-17 15:00:00
+    end_time: 2025-02-07 15:00:00
     clear_cycle: 1
   }
   {
@@ -10448,182 +10429,182 @@
     id: 1291
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1292
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1293
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1294
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1295
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1296
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1297
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1298
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1299
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1300
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1301
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1302
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1303
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1304
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1305
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1306
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1307
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1308
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1309
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1310
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1311
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1312
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1313
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1314
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1315
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
     id: 1316
     type: 1
     start_time: 2024-12-20 15:00:00
-    end_time: 2025-01-10 15:00:00
+    end_time: 2025-01-11 15:00:00
     clear_cycle: 1
   }
   {
