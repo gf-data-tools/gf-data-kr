@@ -51572,6 +51572,7 @@
     map_information: "6000,6000|6000,6000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
+    draw_event_s_id: "1132"
     drop_mission_key: "0,0,1163300:1"
     mission_group_id: 33
     open_mission_keys: 1163200:1
@@ -51652,11 +51653,13 @@
     expect_turn: 4
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "161"
     limit_team: "0,1"
     map_res_name: OPS206_Y
     map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
+    draw_event_s_id: "1122"
     drop_mission_key: "0,0,1163600:1"
     mission_group_id: 33
     open_mission_keys: 1163500:1
@@ -51737,11 +51740,13 @@
     expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "335"
     limit_team: "0,1"
     map_res_name: OPS68_Y
     map_information: "8000,6000|4500,5000|1750,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
+    draw_event_s_id: "1123"
     drop_mission_key: "0,0,1163900:1"
     mission_group_id: 33
     open_mission_keys: 1163800:1
@@ -51821,11 +51826,13 @@
     expect_turn: 4
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "387"
     limit_team: "0,1"
     map_res_name: OPS5_Y
     map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
+    draw_event_s_id: "1125"
     drop_mission_key: "0,0,1164200:1"
     mission_group_id: 33
     open_mission_keys: 1164100:1
@@ -51903,11 +51910,13 @@
     expect_turn: 8
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "374"
     limit_team: "0,3"
     map_res_name: BloodNetwork_Y
     map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
+    draw_event_s_id: "1128"
     drop_mission_key: "0,0,1164500:1"
     mission_group_id: 33
     open_mission_keys: 1164400:1
@@ -52093,11 +52102,13 @@
     expect_turn: 4
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "161"
     limit_team: "0,1"
     map_res_name: OPS206_Y
     map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
+    draw_event_s_id: "1124"
     drop_mission_key: "0,0,1163600:1"
     mission_group_id: 33
     open_mission_keys: 1163500:1
@@ -52124,11 +52135,13 @@
     expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "335"
     limit_team: "0,1"
     map_res_name: OPS68_Y
     map_information: "8000,6000|4500,5000|1750,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
+    draw_event_s_id: "1126"
     drop_mission_key: "0,0,1163900:1"
     mission_group_id: 33
     open_mission_keys: 1163800:1
@@ -52154,11 +52167,13 @@
     expect_turn: 4
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "387"
     limit_team: "0,1"
     map_res_name: OPS5_Y
     map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
+    draw_event_s_id: "1129"
     drop_mission_key: "0,0,1164200:1"
     mission_group_id: 33
     open_mission_keys: 1164100:1
@@ -52182,11 +52197,13 @@
     expect_turn: 8
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "374"
     limit_team: "0,3"
     map_res_name: BloodNetwork_Y
     map_information: "8000,8000|8000,8000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
+    draw_event_s_id: "1130"
     drop_mission_key: "0,0,1164500:1"
     mission_group_id: 33
     open_mission_keys: 1164400:1
@@ -52210,11 +52227,13 @@
     expect_turn: 1
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "161,335,387,374"
     limit_team: "0,1"
     map_res_name: OPS5_Y
     map_information: "4000,4000|4000,4000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
+    draw_event_s_id: "1127"
     drop_mission_key: "0,0,1165600:1"
     mission_group_id: 33
     open_mission_keys: 1163300:1
@@ -52238,11 +52257,13 @@
     expect_turn: 1
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "161,335,387,374"
     limit_team: "0,1"
     map_res_name: OPS5_Y
     map_information: "4000,4000|4000,4000|0,0"
     fog_length: "0,500"
     fog_color: "#000000FF"
+    draw_event_s_id: "1131"
     drop_mission_key: "0,0,1165600:1"
     mission_group_id: 33
     open_mission_keys: 1163300:1

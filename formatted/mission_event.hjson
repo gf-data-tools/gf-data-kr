@@ -315,6 +315,7 @@
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
     init_mission_id: "11631"
+    token_item_id: "100256"
   }
   {
     id: 50
