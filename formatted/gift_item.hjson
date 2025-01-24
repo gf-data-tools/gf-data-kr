@@ -12876,6 +12876,134 @@
     type_sort: 6
   }
   {
+    id: 11301
+    name: 마티니-헨리 - 붉은 등롱 매달고
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 402
+    skin: 11301
+    poster: 311301
+    code: gift_bundle_SpringFestival2025_MartiniHenry
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11302
+    name: M950A - 푸른 대나무의 노래
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 97
+    skin: 11302
+    poster: 311302
+    code: gift_bundle_SpringFestival2025_M950A
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11303
+    name: Lusa - 검은 조롱박
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 311
+    skin: 11303
+    poster: 311303
+    code: gift_bundle_SpringFestival2025_Lusa
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11304
+    name: 79식 - 현을 떠나
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 127
+    skin: 11304
+    poster: 311304
+    code: gift_bundle_SpringFestival2025_79type
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11305
+    name: C-MS - 맹장채
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 213
+    skin: 11305
+    poster: 311305
+    code: gift_bundle_SpringFestival2025_CBJMS
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11306
+    name: Ak 5 - 단묵초
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 187
+    skin: 11306
+    poster: 311306
+    code: gift_bundle_SpringFestival2025_Ak5
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11307
+    name: A-91 - 술주정 향기
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 227
+    skin: 11307
+    poster: 311307
+    code: gift_bundle_SpringFestival2025_A91
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11308
+    name: M500 - 복 상자 도착이요
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 154
+    skin: 11308
+    poster: 311308
+    code: gift_bundle_SpringFestival2025_M500
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     type: 2
@@ -13253,6 +13381,22 @@
     skin: 30025
     poster: 330025
     code: gift_bundle_BattlePass_PK
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 30026
+    name: CF05 - 보글보글 세월
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 295
+    skin: 30026
+    poster: 330026
+    code: gift_bundle_BattlePass_06TypeSMG
     normal_description: 선물 시 호감도 획득
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.

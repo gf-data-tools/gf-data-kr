@@ -397,4 +397,22 @@
     group_skill: 2:1004203
     fit_gun: "302"
   }
+  {
+    id: 45
+    name: BOSS
+    des: 톰슨을 위해 맞춤 제작한 세트. 그녀가 보다 쉽게 길드 규칙을 이행하고 보스의 명령을 수행할 수 있도록 해줍니다.
+    code: EgroupM1928A1
+    equip_unit: "236,0,439"
+    group_skill: 2:1004803
+    fit_gun: "16"
+  }
+  {
+    id: 46
+    name: 알뜰살뜰
+    des: 92식을 위해 맞춤 제작한 세트. 공격이야 말로 최고의 방어수단!
+    code: Egroup92type
+    equip_unit: "0,296,440"
+    group_skill: 2:1004903
+    fit_gun: "20013"
+  }
 ]

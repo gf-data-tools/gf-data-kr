@@ -16061,6 +16061,132 @@
     detail_introduction: item-30002637
   }
   {
+    id: 2638
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_MartiniHenry
+    item_name: 마티니-헨리 - 붉은 등롱 매달고
+    introduction: 마티니-헨리 - 붉은 등롱 매달고
+    rank: 1
+  }
+  {
+    id: 2639
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_M950A
+    item_name: M950A - 푸른 대나무의 노래
+    introduction: M950A - 푸른 대나무의 노래
+    rank: 1
+  }
+  {
+    id: 2640
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_Lusa
+    item_name: Lusa - 검은 조롱박
+    introduction: Lusa - 검은 조롱박
+    rank: 1
+  }
+  {
+    id: 2641
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_79type
+    item_name: 79식 - 현을 떠나
+    introduction: 79식 - 현을 떠나
+    rank: 1
+  }
+  {
+    id: 2642
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_CBJMS
+    item_name: C-MS - 맹장채
+    introduction: C-MS - 맹장채
+    rank: 1
+  }
+  {
+    id: 2643
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_Ak5
+    item_name: Ak 5 - 단묵초
+    introduction: Ak 5 - 단묵초
+    rank: 1
+  }
+  {
+    id: 2644
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_A91
+    item_name: A-91 - 술주정 향기
+    introduction: A-91 - 술주정 향기
+    rank: 1
+  }
+  {
+    id: 2645
+    type: 5
+    arg: "1"
+    code: profilePic_SpringFestival2025_M500
+    item_name: M500 - 복 상자 도착이요
+    introduction: M500 - 복 상자 도착이요
+    rank: 1
+  }
+  {
+    id: 2646
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season18_1
+    item_name: 시공의 물결 · Code16: 도약
+    introduction: 시공의 물결 · Code16: 도약
+    rank: 1
+  }
+  {
+    id: 2647
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season18_2
+    item_name: 율동 궤적 · Code16: 도약
+    introduction: 율동 궤적 · Code16: 도약
+    rank: 1
+  }
+  {
+    id: 2648
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season18_3
+    item_name: 차원 교차 · Code16: 도약
+    introduction: 차원 교차 · Code16: 도약
+    rank: 1
+  }
+  {
+    id: 2649
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_06TypeSMG
+    item_name: CF05 - 보글보글 세월
+    introduction: CF05 - 보글보글 세월
+    rank: 1
+  }
+  {
+    id: 2650
+    type: 5
+    arg: "1"
+    code: card_BattlePass_CF05
+    item_name: 카드배경: 최고 훠궈 파트너
+    introduction: 카드배경: 최고 훠궈 파트너
+    rank: 1
+  }
+  {
+    id: 2651
+    type: 5
+    arg: "1"
+    code: profilePic_mask_NewYear2025_JP
+    item_name: 최첨단 마스크·새해 시작
+    introduction: 최첨단 마스크·새해 시작
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -17691,6 +17817,15 @@
     rank: 1
   }
   {
+    id: 10724
+    type: 18
+    arg: "10724"
+    code: daily_points
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
+    rank: 1
+  }
+  {
     id: 30023
     type: 1
     arg: "30023"
@@ -17715,6 +17850,15 @@
     code: gift_bundle_BattlePass_PK
     item_name: PK-설야 나들이
     introduction: 눈 내리는 밤 거대한 짐승이 나타나 길 잃은 여행자를 궁지에 몬다고 들었어. 하지만 그 소문은 내게 아무 소용 없지... 왜냐면 내가 바로 그 짐승에게 고삐를 묶을 강자니까.
+    rank: 1
+  }
+  {
+    id: 30026
+    type: 1
+    arg: "30026"
+    code: gift_bundle_BattlePass_06TypeSMG
+    item_name: CF05 - 보글보글 세월
+    introduction: 지휘관 이것 봐! 내가 드디어 회오리 마라 국물을 먹을 줄 아는 친구를 만났어! 이 친구 말을 별로 못하지만 엄청 호쾌하게 먹는다구! 계산? 그건 먹고나서 얘기하자고~
     rank: 1
   }
   {
@@ -20077,6 +20221,15 @@
     code: core_mask_NewYear2025_JP
     item_name: 최첨단 마스크·새해 시작
     introduction: 최첨단 마스크·새해 시작
+    rank: 1
+  }
+  {
+    id: 100258
+    type: 4
+    arg: "100258"
+    code: Bumdle_2025NewYear_NA
+    item_name: 글섭 25년 새해 선물
+    introduction: 글섭 25년 새해 선물
     rank: 1
   }
   {
@@ -22635,6 +22788,22 @@
     rank: 1
   }
   {
+    id: 140051
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제26기 전선협약
+    rank: 1
+  }
+  {
+    id: 140052
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제26기 전선협약 유료
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -23094,6 +23263,15 @@
     code: profileFrame_BattlePass_PK
     item_name: 액자·극지 사냥꾼
     introduction: 액자·극지 사냥꾼
+    rank: 1
+  }
+  {
+    id: 200051
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_06TypeSMG
+    item_name: 액자: 혀끝에서 퍼지는 행복
+    introduction: 액자: 혀끝에서 퍼지는 행복
     rank: 1
   }
   {
@@ -25232,6 +25410,50 @@
     type_sort: 1
   }
   {
+    id: 1500186
+    type: 15
+    arg: "1500186"
+    code: package_choose
+    item_name: 기초장비 선택 코드
+    introduction: 전선협약-매콤한 겨울 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500187
+    type: 15
+    arg: "1500187"
+    code: package_choose
+    item_name: 탄창 장비 선택 코드
+    introduction: 전선협약-매콤한 겨울 보상, 지정 리스트에서 원하는 탄창 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500188
+    type: 15
+    arg: "1500188"
+    code: package_random
+    item_name: 미획득 인형 확정 코드
+    introduction: 전선협약-매콤한 겨울 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500189
+    type: 15
+    arg: "1500189"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-매콤한 겨울 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -25779,6 +26001,39 @@
     id: 1700048
     type: 15
     arg: "1700048"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700049
+    type: 15
+    arg: "1700049"
+    code: package_choose
+    item_name: 기초장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700050
+    type: 15
+    arg: "1700050"
+    code: package_choose
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700051
+    type: 15
+    arg: "1700051"
     code: package_choose
     item_name: 고등 전용장비 선택 코드
     introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.

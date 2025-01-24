@@ -615,6 +615,17 @@
     source_description: 2024 가을 출석
   }
   {
+    id: 62
+    name: 영험한 뱀춤
+    description: 옛 허물을 치우고 새해를 맞이할 때 새해를 상징하는 지팡이를 들고 춤에서 생명의 율동을 깨달읍시다.
+    group_id: "103"
+    code: commander_6240_icon
+    path: CLASS62
+    des_year: "2025"
+    source: 2
+    source_description: 설날 이벤트
+  }
+  {
     id: 99
     name: 거짓말 마스크
     description: 내 생각을 감추고, 내 바람을 드러낸다.

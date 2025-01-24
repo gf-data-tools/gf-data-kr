@@ -9573,6 +9573,88 @@
     skin_source: 1
   }
   {
+    id: 11301
+    name: 마티니-헨리 - 붉은 등롱 매달고
+    fit_gun: 402
+    voice: 4
+    dialog: 지휘관이 나랑 밤시장 구경 하고 싶어하네. 게장 찐만두 같은 것도 먹고... 전부 예상하고 있다고! 가자 가자, 지금 당장 출발하자!
+    order: 148
+    class_id: 110
+    skin_source: 2
+  }
+  {
+    id: 11302
+    name: M950A - 푸른 대나무의 노래
+    fit_gun: 97
+    voice: 4
+    dialog: 이 옷차림에 대나무숲 배경은 이상할까...? 썬더는 잘 어울린다고 하는데... 아, 지휘관도 그렇게 생각해? 고, 고마워...
+    illustrator_cv: 八号地球,Koga Aoi,
+    order: 148
+    class_id: 110
+    skin_source: 1
+  }
+  {
+    id: 11303
+    name: Lusa - 검은 조롱박
+    fit_gun: 311
+    voice: 4
+    dialog: 후훗, 코치 새해 복 많이 받아! 지금 팀원들에게 세뱃둔 나눠주고 있어... 당연히 달려서 나눠주고 있지. 체력 훈련은 축구 시합에 엄청 중요하다고!
+    order: 148
+    class_id: 110
+    skin_source: 1
+  }
+  {
+    id: 11304
+    name: 79식 - 현을 떠나
+    fit_gun: 127
+    voice: 4
+    dialog: 자주 새해에 지휘관님에 무엇을 해드릴 수 있을까 생각해서 어느 사이에 엄청 연습하게 됐어요... 이 곡이 지휘관님을 즐겁게 해드릴 수 있기를 바랄게요.
+    order: 148
+    class_id: 110
+    skin_source: 2
+  }
+  {
+    id: 11305
+    name: C-MS - 맹장채
+    fit_gun: 213
+    voice: 4
+    dialog: 그림 같은 건 모두가 같이 완성해야 의미가 있지 않아? 저기... 뭘 멍때리고 있어? 빨리 와서 같이 그리자니까!
+    illustrator_cv: 小星,Haruno Anzu,
+    order: 148
+    class_id: 110
+    skin_source: 2
+  }
+  {
+    id: 11306
+    name: Ak 5 - 단묵초
+    fit_gun: 187
+    voice: 4
+    dialog: 마침 새해 할인 행사가 잔뜩이길래 오면서 먹물이랑 족자를 좀 사왔어요. 보아하니 이 "복" 자가 엄청 마음에 드시나 봐요.
+    illustrator_cv: 脆片,Nanase Ami,
+    order: 148
+    class_id: 110
+  }
+  {
+    id: 11307
+    name: A-91 - 술주정 향기
+    fit_gun: 227
+    voice: 4
+    dialog: 푸하~ 항아리에 보드카를 담아서 마시니까 더 시원하네에! 별로 차이가 없다고오~? 그럴 리가! 두 통 더 마시면 너도 알 거라구우~
+    order: 148
+    class_id: 110
+    skin_source: 2
+  }
+  {
+    id: 11308
+    name: M500 - 복 상자 도착이요
+    fit_gun: 154
+    voice: 4
+    dialog: 똑똑똑~ 행운 상자가 도착했어! 스팸 아니야! 깜짝 선물이라고!
+    order: 148
+    class_id: 110
+    skin_source: 2
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     fit_gun: 57
@@ -9783,6 +9865,15 @@
     dialog: 눈 내리는 밤 거대한 짐승이 나타나 길 잃은 여행자를 궁지에 몬다고 들었어. 하지만 그 소문은 내게 아무 소용 없지... 왜냐면 내가 바로 그 짐승에게 고삐를 묶을 강자니까.
     illustrator_cv: --,Nazuka Kaori,
     order: 145
+  }
+  {
+    id: 30026
+    name: CF05 - 보글보글 세월
+    fit_gun: 295
+    voice: 4
+    dialog: 지휘관 이것 봐! 내가 드디어 회오리 마라 국물을 먹을 줄 아는 친구를 만났어! 이 친구 말을 별로 못하지만 엄청 호쾌하게 먹는다구! 계산? 그건 먹고나서 얘기하자고~
+    order: 149
+    class_id: 111
   }
   {
     id: 50001

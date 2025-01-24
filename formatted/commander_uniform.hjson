@@ -3739,6 +3739,20 @@
     color_icon_id: "960"
   }
   {
+    id: 6240
+    name: 뱀 지팡이
+    description: 지혜와 장수를 상징하는 뱀이 정교하게 깎은 지팡이를 감고 있습니다. 지휘관을 향한 기대가 담긴 것 같네요.
+    code: BodyAcco
+    icon: commander_6240_icon
+    type: 4
+    uniform_class: "62"
+    color_normal: Commander_6240_N
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "-0.161,-0.137"
+    color_icon_id: "961"
+  }
+  {
     id: 9920
     name: 활기찬 위장
     description: 언제나 가장 좋은 모습으로.

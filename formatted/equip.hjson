@@ -7121,9 +7121,10 @@
     exclusive_rate: 3
     bonus_type: dodge:600
     skill: 116202
-    passive_skill: "116201"
+    passive_skill: "116201,1004801"
     max_level: 10
     auto_select_id: 20036
+    group_id: "45"
     is_show: 1
     obtain_ids: "3007,3096"
   }
@@ -9124,9 +9125,10 @@
     powerup_part: 0.25
     exclusive_rate: 3
     bonus_type: hit:1000
-    passive_skill: "300903"
+    passive_skill: "300903,1004901"
     max_level: 10
     auto_select_id: 19043
+    group_id: "46"
     is_show: 1
     obtain_ids: "3016"
     sp_description: 제대 명중+10%
@@ -11042,7 +11044,7 @@
     max_level: 10
     auto_select_id: 20063
     is_show: 1
-    obtain_ids: "3098"
+    obtain_ids: "3098,3096"
   }
   {
     id: 354
@@ -11408,7 +11410,7 @@
     max_level: 10
     auto_select_id: 20069
     is_show: 1
-    obtain_ids: "3090"
+    obtain_ids: "3090,3096"
     description_skill: 759267
   }
   {
@@ -13923,5 +13925,106 @@
     is_show: 1
     obtain_ids: "3121"
     description_skill: 1004701
+  }
+  {
+    id: 439
+    name: TS 특제 소염기
+    description:
+      '''
+      회피+<dodge>
+      치명률+<critical_percent><%>$톰슨 전용
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    dodge: "7,10"
+    critical_percent: "8,11"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_mre: 2
+    retire_part: 2
+    code: Accessories_SP_M1928A1
+    develop_duration: 2820
+    company: IOP
+    fit_guns: "16"
+    equip_introduction: 톰슨을 위해 특수 제작된 소염기. 소염기 위에 배기구가 여럿 있어 총구가 위로 튀는 것을 상당히 방지할 수 있습니다.
+    powerup_mp: 0.55
+    powerup_ammo: 0.23
+    powerup_mre: 0.23
+    powerup_part: 0.23
+    exclusive_rate: 3
+    bonus_type: dodge:500,critical_percent:1000
+    passive_skill: "1004802"
+    max_level: 10
+    auto_select_id: 18096
+    group_id: "45"
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
+    id: 440
+    name: 92식 외골격
+    description:
+      '''
+      회피+<dodge>
+      $92식 Mod 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    dodge: "11,18"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_92typeMod
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "20013"
+    equip_introduction: 흔한 재료만을 사용해 제작한 외골격. 성능이 최고는 아니어도 가성비는 매우 높습니다.
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: dodge:1000
+    passive_skill: "1004902"
+    max_level: 10
+    auto_select_id: 20095
+    group_id: "46"
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
+    id: 441
+    name: TLL 강화탄
+    description:
+      '''
+      화력+<pow>
+      스킬 강화$AK-Alfa 전용
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "10,15"
+    retire_ammo: 5
+    retire_mre: 3
+    retire_part: 2
+    code: Magazine_SP_AKAlfa
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "306"
+    equip_introduction: AK-Alfa를 위해 개발한 .223 구경 소총탄. 약간의 SF 요소도 첨가했습니다.
+    powerup_mp: 0.15
+    powerup_ammo: 0.6
+    powerup_mre: 0.38
+    powerup_part: 0.23
+    exclusive_rate: 3
+    bonus_type: pow:700
+    passive_skill: "1005001"
+    max_level: 10
+    auto_select_id: 19089
+    is_show: 1
+    obtain_ids: "3122"
+    description_skill: 1005001
   }
 ]
