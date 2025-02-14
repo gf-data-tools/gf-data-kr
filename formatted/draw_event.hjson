@@ -10448,6 +10448,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 15:2522
     clear_cycle: 1
   }
   {
@@ -10455,6 +10456,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 12:2523
     clear_cycle: 1
   }
   {
@@ -10462,6 +10464,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 12:2524
     clear_cycle: 1
   }
   {
@@ -10469,6 +10472,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 9:2525
     clear_cycle: 1
   }
   {
@@ -10476,6 +10480,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 9:2526
     clear_cycle: 1
   }
   {
@@ -10483,6 +10488,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 8:2527
     clear_cycle: 1
   }
   {
@@ -10490,6 +10496,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 8:2528
     clear_cycle: 1
   }
   {
@@ -10497,6 +10504,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 8:2529
     clear_cycle: 1
   }
   {
@@ -10504,6 +10512,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 6:2530
     clear_cycle: 1
   }
   {
@@ -10511,6 +10520,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 6:2531
     clear_cycle: 1
   }
   {
@@ -10518,6 +10528,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 6:2532
     clear_cycle: 1
   }
   {
@@ -10525,6 +10536,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 5:2533
     clear_cycle: 1
   }
   {
@@ -10532,6 +10544,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 5:2534
     clear_cycle: 1
   }
   {
@@ -10539,6 +10552,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 3:2535
     clear_cycle: 1
   }
   {
@@ -10546,6 +10560,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 3:2536
     clear_cycle: 1
   }
   {
@@ -10553,6 +10568,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 15:2537
     clear_cycle: 1
   }
   {
@@ -10560,6 +10576,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 12:2538
     clear_cycle: 1
   }
   {
@@ -10567,6 +10584,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 9:2539
     clear_cycle: 1
   }
   {
@@ -10574,6 +10592,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 8:2540
     clear_cycle: 1
   }
   {
@@ -10581,6 +10600,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 6:2541
     clear_cycle: 1
   }
   {
@@ -10588,6 +10608,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 5:2542
     clear_cycle: 1
   }
   {
@@ -10595,6 +10616,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 3:2543
     clear_cycle: 1
   }
   {
@@ -10602,6 +10624,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 1000:2544
     clear_cycle: 1
   }
   {
@@ -10609,6 +10632,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 1000:2545
     clear_cycle: 1
   }
   {
@@ -10616,6 +10640,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 1000:2546
     clear_cycle: 1
   }
   {
@@ -10623,6 +10648,7 @@
     type: 1
     start_time: 2024-12-20 15:00:00
     end_time: 2025-01-11 15:00:00
+    drop_ids: 1000:2547
     clear_cycle: 1
   }
   {
