@@ -1495,13 +1495,13 @@
   }
   {
     id: "114"
-    name: furniture_classes-10000114
+    name: 벚꽃에 소원을
     rank: "5"
     bonus_picture: "3110"
     k_bonus: 6:2000,9:5000,12:8000
     bonus_number: "15"
-    description: furniture_classes-20000114
-    bonus_description: furniture_classes-30000114
+    description: 벚꽃놀이를 주제로 한 가구 세트입니다. 지금 서로가 빈 소원은 오직 흩날리는 벚꽃만이 알겠죠... 해마다 꽃이 활짝 피기를.
+    bonus_description: 가구 세트를 모아 숙소에 배치하면, 특별한 일이 일어납니다.
     code: NewYear2025_wall_icon
     is_showed: "1"
     placement: "1"

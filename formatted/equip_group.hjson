@@ -415,4 +415,22 @@
     group_skill: 2:1004903
     fit_gun: "20013"
   }
+  {
+    id: 47
+    name: 서핑 고수
+    des: MDR에게 맞춤 제작된 세트. 매일 인터넷 서핑으로 인한 신경질을 조금이라도 줄여주길 바랍니다.
+    code: EgroupMDR
+    equip_unit: "175,0,442"
+    group_skill: 2:1005203
+    fit_gun: "215"
+  }
+  {
+    id: 48
+    name: 투신본색
+    des: M14에게 맞춤 제작된 세트. 지금 실력으로도 군용무기와 비교해도 손색이 없는 살상력.
+    code: EgroupM14
+    equip_unit: "0,129,443"
+    group_skill: 2:1005303
+    fit_gun: "20037"
+  }
 ]

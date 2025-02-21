@@ -13645,6 +13645,110 @@
     classification_id: "4000"
   }
   {
+    id: "6311"
+    type: "66"
+    gemprice: "400"
+    original_price: "500"
+    quota: "2001"
+    giftbag_name: 강풍 올백
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "96311"
+    on_sale_days: "28"
+    classification_id: "4000"
+  }
+  {
+    id: "6312"
+    type: "66"
+    gemprice: "400"
+    original_price: "500"
+    quota: "2001"
+    giftbag_name: 역풍 비행
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "96312"
+    on_sale_days: "28"
+    classification_id: "4000"
+  }
+  {
+    id: "6320"
+    type: "66"
+    gemprice: "400"
+    original_price: "500"
+    quota: "2001"
+    giftbag_name: 감지 파츠
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "96320"
+    on_sale_days: "28"
+    classification_id: "4000"
+  }
+  {
+    id: "6331"
+    type: "66"
+    gemprice: "400"
+    original_price: "500"
+    quota: "2001"
+    giftbag_name: 사이버 위장복
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "96331"
+    on_sale_days: "28"
+    classification_id: "4000"
+  }
+  {
+    id: "6332"
+    type: "66"
+    gemprice: "400"
+    original_price: "500"
+    quota: "2001"
+    giftbag_name: 착 달라붙는 방수복
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "96332"
+    on_sale_days: "28"
+    classification_id: "4000"
+  }
+  {
+    id: "6340"
+    type: "66"
+    gemprice: "400"
+    original_price: "500"
+    quota: "2001"
+    giftbag_name: 액션 파츠
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "96340"
+    on_sale_days: "28"
+    classification_id: "4000"
+  }
+  {
+    id: "6351"
+    type: "66"
+    gemprice: "400"
+    original_price: "500"
+    quota: "2001"
+    giftbag_name: 방한 강화
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "96351"
+    on_sale_days: "28"
+    classification_id: "4000"
+  }
+  {
+    id: "6352"
+    type: "66"
+    gemprice: "400"
+    original_price: "500"
+    quota: "2001"
+    giftbag_name: 썬팅 강화
+    event_code: dailyGiftbag
+    discount: "1.00"
+    prize_id: "96352"
+    on_sale_days: "28"
+    classification_id: "4000"
+  }
+  {
     id: "10000"
     type: "8"
     sort: "46"
@@ -45202,6 +45306,43 @@
     pay_type: "1"
     itemprice: 100257-1
     classification_id: "1001"
+  }
+  {
+    id: "12455"
+    type: "8"
+    gemprice: "398"
+    quota: "2001"
+    giftbag_name: 인형 개조 지원
+    event_code: dailyGiftbag
+    icon: Bumdle_heavy
+    daily_quota: "2"
+    discount: "1.00"
+    prize_id: "534"
+    classification_id: "3002"
+  }
+  {
+    id: "12456"
+    type: "8"
+    item_ids: 51-2,506-1000
+    gemprice: "398"
+    quota: "2003"
+    giftbag_name: 인형 개조 소자 보급
+    event_code: dailyGiftbag
+    icon: Bumdle_muromets03
+    discount: "1.00"
+    classification_id: "3002"
+  }
+  {
+    id: "12457"
+    type: "8"
+    item_ids: 605-10,515-1000
+    gemprice: "1120"
+    quota: "2003"
+    giftbag_name: 혼합세력 지정보급
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: "1.00"
+    classification_id: "3002"
   }
   {
     id: "30001"

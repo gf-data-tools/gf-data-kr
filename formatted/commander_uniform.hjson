@@ -3753,6 +3753,146 @@
     color_icon_id: "961"
   }
   {
+    id: 6311
+    name: 강풍 올백
+    description: 머리카락을 뒤로 쓸어넘기고 정성들여 가꾼 눈썹과 헤일로를 드러내세요. 그 고리가 당신의 불안정 상태를 나타내진 않을 겁니다. 당신은 100% 인간이니까... 아니, 한 80% 정도?
+    code: Head1
+    icon: commander_6311_icon
+    type: 1
+    gender: 1
+    uniform_class: "63"
+    color_normal: Commander_6311_N
+    color_0: Commander_6311_0
+    color_1: Commander_6311_1
+    color_2: Commander_6311_2
+    color_3: Commander_6311_3
+    color_4: Commander_6311_4
+    color_icon_id: "962"
+  }
+  {
+    id: 6312
+    name: 역풍 비행
+    description: 이마를 드러내는 게 새로운 트렌드일까요? 제가 보기엔 정교한 의체 접합선을 자랑하려는 것 같아요. 첨단 기술 덕에 감쪽같지만 틈새를 남겨두지 않으면 자기가 비싼 돈 써서 장만한 걸 모를 거잖아요.
+    code: Head2
+    icon: commander_6312_icon
+    type: 1
+    gender: 2
+    uniform_class: "63"
+    color_normal: Commander_6312_N
+    color_0: Commander_6312_0
+    color_1: Commander_6312_1
+    color_2: Commander_6312_2
+    color_3: Commander_6312_3
+    color_4: Commander_6312_4
+    color_icon_id: "963"
+  }
+  {
+    id: 6320
+    name: 감지 파츠
+    description: 콘크리트의 숲에서 가장 센세이션하고 가장 믿음직한 사이버웨어. 조명, 음악 재생, 통신 해킹, 환경 조사 등 기능을 하나로 모아... 이 만능 아이템의 값이 얼마냐고요? 그런 건 신경쓰지 마요!
+    code: HeadAcco
+    icon: commander_6320_icon
+    type: 2
+    uniform_class: "63"
+    color_normal: Commander_6320_N
+    color_0: Commander_6320_0
+    color_1: Commander_6320_1
+    color_2: Commander_6320_2
+    color_3: Commander_6320_3
+    color_4: Commander_6320_4
+    bone_name: HairBinder2
+    scale: 0.2
+    position: "-0.066,0.214"
+    color_icon_id: "964"
+  }
+  {
+    id: 6331
+    name: 사이버 위장복
+    description: 후드 모자가 달린 점퍼는 운동 스타일을 잘 드러내고, 갑자기 폭우가 쏟아져도 대처가 가능합니다. 도시를 거니는 자로서 이러한 조합은 풍부한 색상만큼이나 기묘하죠.
+    code: Body1
+    icon: commander_6331_icon
+    type: 3
+    gender: 1
+    uniform_class: "63"
+    color_normal: Commander_6331_N
+    color_0: Commander_6331_0
+    color_1: Commander_6331_1
+    color_2: Commander_6331_2
+    color_3: Commander_6331_3
+    color_4: Commander_6331_4
+    color_icon_id: "965"
+  }
+  {
+    id: 6332
+    name: 착 달라붙는 방수복
+    description: 외투 안의 셔츠는 뛰어난 가동성을 상징하고, 기온 변화 시 겉옷만 벗으면 체온을 유지할 수 있습니다... 온도 조절 시스템이요? 그거 유행 지났어요~
+    code: Body2
+    icon: commander_6332_icon
+    type: 3
+    gender: 2
+    uniform_class: "63"
+    color_normal: Commander_6332_N
+    color_0: Commander_6332_0
+    color_1: Commander_6332_1
+    color_2: Commander_6332_2
+    color_3: Commander_6332_3
+    color_4: Commander_6332_4
+    color_icon_id: "966"
+  }
+  {
+    id: 6340
+    name: 액션 파츠
+    description: 외출 아이템은 신중하게 선택해야 합니다. 이 색깔 선명하고 각이 졌고 라이트까지 달린 배낭이 딱 좋겠네요! 네? 에너지건과 합금 블레이드요? 아하하... 그런 건 신경쓰지 마세요.
+    code: BodyAcco
+    icon: commander_6340_icon
+    type: 4
+    uniform_class: "63"
+    color_normal: Commander_6340_N
+    color_0: Commander_6340_0
+    color_1: Commander_6340_1
+    color_2: Commander_6340_2
+    color_3: Commander_6340_3
+    color_4: Commander_6340_4
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "0.013,0.057"
+    color_icon_id: "967"
+  }
+  {
+    id: 6351
+    name: 방한 강화
+    description: 왜 요즘 청년들이 긴 츄리닝 바지를 좋아하는 건진 모르겠지만, 어떤 날씨에도 발목을 드러내길 고집하는 것엔 다 이유가 있겠죠.
+    code: Foot1
+    icon: commander_6351_icon
+    type: 5
+    gender: 1
+    uniform_class: "63"
+    color_normal: Commander_6351_N
+    color_0: Commander_6351_0
+    color_1: Commander_6351_1
+    color_2: Commander_6351_2
+    color_3: Commander_6351_3
+    color_4: Commander_6351_4
+    color_icon_id: "968"
+  }
+  {
+    id: 6352
+    name: 썬팅 강화
+    description: 럭셔리한 다리 모조 피부는 살색을 고르게 해줄 뿐만 아니라, 겨울엔 보온 효과, 여름엔 자외선 차단 효과를 제공한답니다! 가격이 조금 나가지만 패션 리더의 필수 아이템 아니겠어요?
+    code: Foot2
+    icon: commander_6352_icon
+    type: 5
+    gender: 2
+    uniform_class: "63"
+    color_normal: Commander_6352_N
+    color_0: Commander_6352_0
+    color_1: Commander_6352_1
+    color_2: Commander_6352_2
+    color_3: Commander_6352_3
+    color_4: Commander_6352_4
+    color_icon_id: "969"
+  }
+  {
     id: 9920
     name: 활기찬 위장
     description: 언제나 가장 좋은 모습으로.

@@ -17826,6 +17826,15 @@
     rank: 1
   }
   {
+    id: 10725
+    type: 18
+    arg: "10725"
+    code: daily_points
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
+    rank: 1
+  }
+  {
     id: 30023
     type: 1
     arg: "30023"
@@ -20908,6 +20917,15 @@
     rank: 1
   }
   {
+    id: 110076
+    type: 4
+    arg: "110076"
+    code: PT
+    item_name: 이벤트 점수
+    introduction: 이벤트 점수
+    rank: 1
+  }
+  {
     id: 120001
     type: 10
     arg: "1"
@@ -21207,6 +21225,16 @@
     item_name: 결채뇌동
     introduction: 옛말에 이르길 폭죽 소리는 지난해의 묵은 때를 쫓아낸다고 합니다. 폭죽으로 새해를 경축하는 건 확실히 분위기 있지만 기지 안에서 터뜨리는 녀석은 폭죽소리에 놀란 자동포탑을 상대하도록 하세요.
     rank: 1
+  }
+  {
+    id: 130025
+    type: 12
+    arg: "130025"
+    code: Y_Z_zhihuiguan_huilu
+    item_name: 집적 회로
+    introduction: 당신의 해킹 기술, 의체 구동, 작전 모듈... 모든 것이 이 작은 칩 안에 집약되어 있습니다. 이것이 과연 언제까지 당신을 지탱해 줄까요? 그건 당신의 의체화 의사 선생님만 알겁니다.
+    rank: 1
+    detail_introduction: item-30130025
   }
   {
     id: 133007
@@ -26073,6 +26101,39 @@
     code: package_choose
     item_name: 고등 전용장비 선택 코드
     introduction: 전선협약-회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700052
+    type: 15
+    arg: "1700052"
+    code: package_choose
+    item_name: 기초장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700053
+    type: 15
+    arg: "1700053"
+    code: package_choose
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700054
+    type: 15
+    arg: "1700054"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1

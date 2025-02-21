@@ -626,6 +626,19 @@
     source_description: 설날 이벤트
   }
   {
+    id: 63
+    name: 퓨처 프론티어
+    description: 이 모습으로 길거리에 나가는 게 말이 되나요? 당연히 말이 되죠~ 테크니컬한 패션 감각뿐만 아니라 변덕스러운 날씨에도 대비해야 하고... 호신용 무기도 챙기세요.
+    group_id: "104"
+    code: commander_6331_icon
+    bonus_plastic: "130025"
+    skill_id: 115
+    path: CLASS63
+    is_class: 1
+    des_year: "2025"
+    source: 2
+  }
+  {
     id: 99
     name: 거짓말 마스크
     description: 내 생각을 감추고, 내 바람을 드러낸다.

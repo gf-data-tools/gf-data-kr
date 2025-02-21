@@ -28236,7 +28236,7 @@
     space: "1,1,1,1,1,0"
     deco_rate: 900
     decompose_gift: 100003
-    description: 씼은 것처럼 맑은 하늘, 그대 눈동자에 비친 것처럼 티끌 없이 깨끗하다.
+    description: 씻은 것처럼 맑은 하늘, 그대 눈동자에 비친 것처럼 티끌 없이 깨끗하다.
     code: NewYear2025_wall
     texture_type: "1"
     offset: "0,0,0"
@@ -28251,7 +28251,7 @@
     space: "3,3,1,1,1,0"
     deco_rate: 1100
     decompose_gift: 100003
-    description: 벚꽃이 떨어지는 속도는 심장이 뛰는 속도와 비슷하내. 숫자로 나타낸다면... 약 초속 5센치.
+    description: 벚꽃이 떨어지는 속도는 심장이 뛰는 속도와 비슷하대. 숫자로 나타낸다면... 약 초속 5센치.
     code: NewYear2025_deco_01_A,NewYear2025_deco_01_B,NewYear2025_deco_01_C,NewYear2025_deco_01_D,NewYear2025_deco_A
     texture_type: "1,1,1,1,2"
     sorting: "10,10,10,10,0"
@@ -28267,7 +28267,7 @@
     space: "6,3,1,1,1,0"
     deco_rate: 1050
     decompose_gift: 100003
-    description: 삼색 단고 한 꼬치 먹을래요? 분홍색은 봄의 벚꽃을 상징하고 하양은 겨울의 눈, 초록색은... 이 다음 당신과 함께 보내고 싶은 여름이죠.
+    description: 삼색 경단 한 꼬치 먹을래요? 분홍색은 봄의 벚꽃을 상징하고 하양은 겨울의 눈, 초록색은... 이 다음 당신과 함께 보내고 싶은 여름이죠.
     code: NewYear2025_deco_02
     texture_type: "1"
     sorting: "20"
@@ -28285,7 +28285,7 @@
     space: "4,1,1,1,1,0"
     deco_rate: 950
     decompose_gift: 100003
-    description: '''"9년의 춘하추동 참으로 길었구나"... 당신은'''
+    description: '''"9년의 춘하추동 참으로 길었구나"... 당신은 벽에 주렁주렁 걸린 사진을 보며 추억에 빠졌습니다.'''
     code: NewYear2025_deco_03
     texture_type: "1"
     offset: "0,-0.104,0"
@@ -28316,7 +28316,7 @@
     space: "3,3,1,1,1,0"
     deco_rate: 1100
     decompose_gift: 100003
-    description: 벚꽃이 떨어지는 속도는 심장이 뛰는 속도와 비슷하내. 숫자로 나타낸다면... 약 초속 5센치.
+    description: 벚꽃이 떨어지는 속도는 심장이 뛰는 속도와 비슷하대. 숫자로 나타낸다면... 약 초속 5센치.
     code: NewYear2025_deco_05_A,NewYear2025_deco_05_B,NewYear2025_deco_05_C,NewYear2025_deco_05_D,NewYear2025_deco_A
     texture_type: "1,1,1,1,2"
     sorting: "10,10,10,10,0"
@@ -28383,7 +28383,7 @@
     space: "3,2,1,1,1,0"
     deco_rate: 950
     decompose_gift: 100003
-    description: 꽃놀이 축제 홍보  포스터. 이렇게 요란하게 홍보할 필요 없이 봄바람이 머금은 향기가 알아서 소식을 전해줍니다.
+    description: 꽃놀이 축제 홍보 포스터. 이렇게 요란하게 홍보할 필요 없이 봄바람이 머금은 향기가 알아서 소식을 전해줍니다.
     code: NewYear2025_deco_08,NewYear2025_deco_08
     texture_type: "1,1"
     sorting: "0,10"
