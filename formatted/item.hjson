@@ -25486,11 +25486,10 @@
     type: 15
     arg: "1500190"
     code: Bumdle_WhiteValentineCoupons1
-    item_name: item-11500190
-    introduction: item-21500190
+    item_name: 레어 코스튬 추첨권·화이트데이
+    introduction: 창고에서 사용하면 지정 범위 중 보유하지 않은 코스튬을 하나 얻습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500190
     type_sort: 1
   }
   {
@@ -25498,11 +25497,10 @@
     type: 15
     arg: "1500191"
     code: Bumdle_WhiteValentineCoupons2
-    item_name: item-11500191
-    introduction: item-21500191
+    item_name: 럭셔리 코스튬 추첨권·화이트데이
+    introduction: 창고에서 사용하면 지정 범위 중 보유하지 않은 코스튬을 하나 얻습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500191
     type_sort: 1
   }
   {
@@ -25510,11 +25508,10 @@
     type: 15
     arg: "1500192"
     code: Bumdle_WhiteValentineCoupons3
-    item_name: item-11500192
-    introduction: item-21500192
+    item_name: 로열 코스튬 추첨권·화이트데이
+    introduction: 창고에서 사용하면 지정 범위 중 보유하지 않은 코스튬을 하나 얻습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500192
     type_sort: 1
   }
   {
