@@ -9067,6 +9067,7 @@
     type: 1
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
+    drop_ids: 10:2305
     clear_cycle: 1
   }
   {
@@ -9074,6 +9075,7 @@
     type: 1
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
+    drop_ids: 8:2306
     clear_cycle: 1
   }
   {
@@ -9081,6 +9083,7 @@
     type: 1
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
+    drop_ids: 8:2307
     clear_cycle: 1
   }
   {
@@ -9088,6 +9091,7 @@
     type: 1
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
+    drop_ids: 6:2308
     clear_cycle: 1
   }
   {
@@ -9095,6 +9099,7 @@
     type: 1
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
+    drop_ids: 6:2309
     clear_cycle: 1
   }
   {
@@ -9102,6 +9107,7 @@
     type: 1
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
+    drop_ids: 6:2310
     clear_cycle: 1
   }
   {
@@ -9109,6 +9115,7 @@
     type: 1
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
+    drop_ids: 5:2311
     clear_cycle: 1
   }
   {
@@ -9116,6 +9123,7 @@
     type: 1
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
+    drop_ids: 5:2312
     clear_cycle: 1
   }
   {
@@ -9123,6 +9131,7 @@
     type: 1
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
+    drop_ids: 4:2313
     clear_cycle: 1
   }
   {
@@ -9130,6 +9139,7 @@
     type: 1
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
+    drop_ids: 4:2314
     clear_cycle: 1
   }
   {
@@ -9137,6 +9147,7 @@
     type: 1
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
+    drop_ids: 10:2315
     clear_cycle: 1
   }
   {
@@ -9144,6 +9155,7 @@
     type: 1
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
+    drop_ids: 8:2316
     clear_cycle: 1
   }
   {
@@ -9151,6 +9163,7 @@
     type: 1
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
+    drop_ids: 6:2317
     clear_cycle: 1
   }
   {
@@ -9158,6 +9171,7 @@
     type: 1
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
+    drop_ids: 5:2318
     clear_cycle: 1
   }
   {
@@ -9165,6 +9179,7 @@
     type: 1
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
+    drop_ids: 4:2319
     clear_cycle: 1
   }
   {
@@ -9172,6 +9187,7 @@
     type: 1
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
+    drop_ids: 1000:2320
     clear_cycle: 1
   }
   {
@@ -9179,6 +9195,7 @@
     type: 1
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
+    drop_ids: 1000:2321
     clear_cycle: 1
   }
   {
@@ -9186,6 +9203,7 @@
     type: 1
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
+    drop_ids: 1000:2322
     clear_cycle: 1
   }
   {
@@ -9193,6 +9211,7 @@
     type: 1
     start_time: 2025-01-17 15:00:00
     end_time: 2025-02-07 15:00:00
+    drop_ids: 1000:2323
     clear_cycle: 1
   }
   {
@@ -9386,145 +9405,127 @@
   {
     id: 1163
     type: 1
-    start_time: 2024-06-21 15:00:00
-    end_time: 2024-07-12 15:00:00
-    drop_ids: 10:2352
+    start_time: 2025-03-07 15:00:00
+    end_time: 2025-03-28 15:00:00
     clear_cycle: 1
   }
   {
     id: 1164
     type: 1
-    start_time: 2024-06-21 15:00:00
-    end_time: 2024-07-12 15:00:00
-    drop_ids: 8:2353
+    start_time: 2025-03-07 15:00:00
+    end_time: 2025-03-28 15:00:00
     clear_cycle: 1
   }
   {
     id: 1165
     type: 1
-    start_time: 2024-06-21 15:00:00
-    end_time: 2024-07-12 15:00:00
-    drop_ids: 8:2354
+    start_time: 2025-03-07 15:00:00
+    end_time: 2025-03-28 15:00:00
     clear_cycle: 1
   }
   {
     id: 1166
     type: 1
-    start_time: 2024-06-21 15:00:00
-    end_time: 2024-07-12 15:00:00
-    drop_ids: 6:2355
+    start_time: 2025-03-07 15:00:00
+    end_time: 2025-03-28 15:00:00
     clear_cycle: 1
   }
   {
     id: 1167
     type: 1
-    start_time: 2024-06-21 15:00:00
-    end_time: 2024-07-12 15:00:00
-    drop_ids: 6:2356
+    start_time: 2025-03-07 15:00:00
+    end_time: 2025-03-28 15:00:00
     clear_cycle: 1
   }
   {
     id: 1168
     type: 1
-    start_time: 2024-06-21 15:00:00
-    end_time: 2024-07-12 15:00:00
-    drop_ids: 5:2357
+    start_time: 2025-03-07 15:00:00
+    end_time: 2025-03-28 15:00:00
     clear_cycle: 1
   }
   {
     id: 1169
     type: 1
-    start_time: 2024-06-21 15:00:00
-    end_time: 2024-07-12 15:00:00
-    drop_ids: 5:2358
+    start_time: 2025-03-07 15:00:00
+    end_time: 2025-03-28 15:00:00
     clear_cycle: 1
   }
   {
     id: 1170
     type: 1
-    start_time: 2024-06-21 15:00:00
-    end_time: 2024-07-12 15:00:00
-    drop_ids: 4:2359
+    start_time: 2025-03-07 15:00:00
+    end_time: 2025-03-28 15:00:00
     clear_cycle: 1
   }
   {
     id: 1171
     type: 1
-    start_time: 2024-06-21 15:00:00
-    end_time: 2024-07-12 15:00:00
-    drop_ids: 4:2360
+    start_time: 2025-03-07 15:00:00
+    end_time: 2025-03-28 15:00:00
     clear_cycle: 1
   }
   {
     id: 1172
     type: 1
-    start_time: 2024-06-21 15:00:00
-    end_time: 2024-07-12 15:00:00
-    drop_ids: 10:2361
+    start_time: 2025-03-07 15:00:00
+    end_time: 2025-03-28 15:00:00
     clear_cycle: 1
   }
   {
     id: 1173
     type: 1
-    start_time: 2024-06-21 15:00:00
-    end_time: 2024-07-12 15:00:00
-    drop_ids: 8:2362
+    start_time: 2025-03-07 15:00:00
+    end_time: 2025-03-28 15:00:00
     clear_cycle: 1
   }
   {
     id: 1174
     type: 1
-    start_time: 2024-06-21 15:00:00
-    end_time: 2024-07-12 15:00:00
-    drop_ids: 6:2363
+    start_time: 2025-03-07 15:00:00
+    end_time: 2025-03-28 15:00:00
     clear_cycle: 1
   }
   {
     id: 1175
     type: 1
-    start_time: 2024-06-21 15:00:00
-    end_time: 2024-07-12 15:00:00
-    drop_ids: 5:2364
+    start_time: 2025-03-07 15:00:00
+    end_time: 2025-03-28 15:00:00
     clear_cycle: 1
   }
   {
     id: 1176
     type: 1
-    start_time: 2024-06-21 15:00:00
-    end_time: 2024-07-12 15:00:00
-    drop_ids: 4:2365
+    start_time: 2025-03-07 15:00:00
+    end_time: 2025-03-28 15:00:00
     clear_cycle: 1
   }
   {
     id: 1177
     type: 1
-    start_time: 2024-06-21 15:00:00
-    end_time: 2024-07-12 15:00:00
-    drop_ids: 1000:2366
+    start_time: 2025-03-07 15:00:00
+    end_time: 2025-03-28 15:00:00
     clear_cycle: 1
   }
   {
     id: 1178
     type: 1
-    start_time: 2024-06-21 15:00:00
-    end_time: 2024-07-12 15:00:00
-    drop_ids: 1000:2367
+    start_time: 2025-03-07 15:00:00
+    end_time: 2025-03-28 15:00:00
     clear_cycle: 1
   }
   {
     id: 1179
     type: 1
-    start_time: 2024-06-21 15:00:00
-    end_time: 2024-07-12 15:00:00
-    drop_ids: 1000:2368
+    start_time: 2025-03-07 15:00:00
+    end_time: 2025-03-28 15:00:00
     clear_cycle: 1
   }
   {
     id: 1180
     type: 1
-    start_time: 2024-06-21 15:00:00
-    end_time: 2024-07-12 15:00:00
-    drop_ids: 1000:2369
+    start_time: 2025-03-07 15:00:00
+    end_time: 2025-03-28 15:00:00
     clear_cycle: 1
   }
   {

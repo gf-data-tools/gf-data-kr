@@ -16187,6 +16187,24 @@
     rank: 1
   }
   {
+    id: 2652
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M14
+    item_name: M14 - 역전의 증원군
+    introduction: M14 - 역전의 증원군
+    rank: 1
+  }
+  {
+    id: 2653
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M14
+    item_name: 카드배경: 판을 터뜨려
+    introduction: 카드배경: 판을 터뜨려
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -17868,6 +17886,15 @@
     code: gift_bundle_BattlePass_06TypeSMG
     item_name: CF05 - 보글보글 세월
     introduction: 지휘관 이것 봐! 내가 드디어 회오리 마라 국물을 먹을 줄 아는 친구를 만났어! 이 친구 말을 별로 못하지만 엄청 호쾌하게 먹는다구! 계산? 그건 먹고나서 얘기하자고~
+    rank: 1
+  }
+  {
+    id: 30027
+    type: 1
+    arg: "30027"
+    code: gift_bundle_BattlePass_M14
+    item_name: M14 - 역전의 증원군
+    introduction: 돌입 작전 무사 성공! 헤헤, M14도 도움이 됐죠? 네? 너무 요란했다고요?
     rank: 1
   }
   {
@@ -20240,6 +20267,34 @@
     item_name: 글섭 25년 새해 선물
     introduction: 글섭 25년 새해 선물
     rank: 1
+  }
+  {
+    id: 100259
+    type: 4
+    arg: "100259"
+    code: Nova_medal_black
+    item_name: 노바훈장·22중 곤경
+    introduction: 노바훈장·22중 곤경
+    rank: 1
+  }
+  {
+    id: 100260
+    type: 4
+    arg: "100260"
+    code: Platinum_medal_black
+    item_name: 백금훈장·22중 곤경
+    introduction: 백금훈장·22중 곤경
+    rank: 1
+  }
+  {
+    id: 100261
+    type: 9
+    arg: "100261"
+    code: Coin_202406CartesianTheatre
+    item_name: 운명의 주사위
+    introduction: 다른 주사위와 다르게, 정사면체 주사위의 눈은 바닥에 감춰진다. 모든 오답을 통찰해야만 운명의 진정한 선물을 알 수 있다.
+    rank: 1
+    daily_limit: 60;180
   }
   {
     id: 110001
@@ -22832,6 +22887,22 @@
     rank: 1
   }
   {
+    id: 140053
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제27기 전선협약
+    rank: 1
+  }
+  {
+    id: 140054
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제27기 전선협약 강화
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -23300,6 +23371,15 @@
     code: profileFrame_BattlePass_06TypeSMG
     item_name: 액자: 혀끝에서 퍼지는 행복
     introduction: 액자: 혀끝에서 퍼지는 행복
+    rank: 1
+  }
+  {
+    id: 200052
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M14
+    item_name: 액자·공습 강병
+    introduction: 액자·공습 강병
     rank: 1
   }
   {
@@ -25510,6 +25590,83 @@
     code: Bumdle_WhiteValentineCoupons3
     item_name: 로열 코스튬 추첨권·화이트데이
     introduction: 창고에서 사용하면 지정 범위 중 보유하지 않은 코스튬을 하나 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500193
+    type: 15
+    arg: "1500193"
+    code: package_choose
+    item_name: 기초장비 선택 코드
+    introduction: 전선협약-자욱한 초연 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500194
+    type: 15
+    arg: "1500194"
+    code: package_choose
+    item_name: 인형장비 선택 코드
+    introduction: 전선협약-자욱한 초연 보상, 지정 리스트에서 원하는 인형 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500195
+    type: 15
+    arg: "1500195"
+    code: package_random
+    item_name: 미획득 인형 확정 코드
+    introduction: 전선협약-자욱한 초연 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500196
+    type: 15
+    arg: "1500196"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-자욱한 초연 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500197
+    type: 15
+    arg: "1500197"
+    code: Bumdle_cartesiantheatre01
+    item_name: 22중 곤경 코스튬 쿠폰·α
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유 안 한 코스튬을 랜덤으로 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500198
+    type: 15
+    arg: "1500198"
+    code: Bumdle_cartesiantheatre02
+    item_name: 22중 곤경 코스튬 쿠폰·β
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유 안 한 코스튬을 랜덤으로 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500199
+    type: 15
+    arg: "1500199"
+    code: Bumdle_cartesiantheatre03
+    item_name: 22중 곤경 코스튬 쿠폰·γ
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유 안 한 코스튬을 랜덤으로 획득합니다.
     rank: 1
     sort: -1
     type_sort: 1

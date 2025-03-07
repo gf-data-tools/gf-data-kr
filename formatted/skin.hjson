@@ -9876,6 +9876,16 @@
     class_id: 111
   }
   {
+    id: 30027
+    name: M14 - 역전의 증원군
+    fit_gun: 37
+    voice: 4
+    dialog: 돌입 작전 무사 성공! 헤헤, M14도 도움이 됐죠? 네? 너무 요란했다고요?
+    illustrator_cv: YoYo,Onishi Saori,
+    order: 150
+    class_id: 112
+  }
+  {
     id: 50001
     name: 한양조 88식 - 별들에게
     fit_gun: 95
