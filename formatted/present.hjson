@@ -1617,7 +1617,7 @@
     item_id: 1500186
     type: 1
     prize_id: 140001
-    due_time: 2025/03/16 23:59:59
+    due_time: 2025/04/20 23:59:59
     due_prize_id: 140016
     present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
   }
@@ -2186,6 +2186,30 @@
     due_time: 2025/04/21  00:00:00
     due_prize_id: 140075
     present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
+  }
+  {
+    item_id: 1700055
+    type: 1
+    prize_id: 150143
+    due_time: 2025/05/18  00:00:00
+    due_prize_id: 140073
+    present_info: present-11700055
+  }
+  {
+    item_id: 1700056
+    type: 1
+    prize_id: 150144
+    due_time: 2025/05/18  00:00:00
+    due_prize_id: 140074
+    present_info: present-11700056
+  }
+  {
+    item_id: 1700057
+    type: 1
+    prize_id: 150145
+    due_time: 2025/05/18  00:00:00
+    due_prize_id: 140075
+    present_info: present-11700057
   }
   {
     item_id: 1800001
