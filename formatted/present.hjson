@@ -2193,7 +2193,7 @@
     prize_id: 150143
     due_time: 2025/05/18  00:00:00
     due_prize_id: 140073
-    present_info: present-11700055
+    present_info: 지정좌표 물자 수송 서비스를 개통하는 코드. 사용 후 리스트에서 원하는 아이템을 하나 선택해 배급받을 수 있습니다.
   }
   {
     item_id: 1700056
@@ -2201,7 +2201,7 @@
     prize_id: 150144
     due_time: 2025/05/18  00:00:00
     due_prize_id: 140074
-    present_info: present-11700056
+    present_info: 지정좌표 물자 수송 서비스를 개통하는 코드. 사용 후 리스트에서 원하는 아이템을 하나 선택해 배급받을 수 있습니다.
   }
   {
     item_id: 1700057
@@ -2209,7 +2209,7 @@
     prize_id: 150145
     due_time: 2025/05/18  00:00:00
     due_prize_id: 140075
-    present_info: present-11700057
+    present_info: 지정좌표 물자 수송 서비스를 개통하는 코드. 사용 후 리스트에서 원하는 아이템을 하나 선택해 배급받을 수 있습니다.
   }
   {
     item_id: 1800001

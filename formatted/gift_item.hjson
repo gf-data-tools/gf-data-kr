@@ -13004,6 +13004,102 @@
     type_sort: 6
   }
   {
+    id: 11401
+    name: DSR-50 - 비밀 서약
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 179
+    skin: 11401
+    poster: 311401
+    code: gift_bundle_WhiteValentina2025_DSR50
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11402
+    name: G41 - 성실한 꽃말
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 62
+    skin: 11402
+    poster: 311402
+    code: gift_bundle_WhiteValentina2025_G41
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11403
+    name: MG5 - 서릿물에 피어난 꽃
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 109
+    skin: 11403
+    poster: 311403
+    code: gift_bundle_WhiteValentina2025_MG5
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11405
+    name: 9A-91 - 마음을 쏟아
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 118
+    skin: 11405
+    poster: 311405
+    code: gift_bundle_WhiteValentina2025_9A91
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11406
+    name: 한양조 88식 - 순애의 날개
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 95
+    skin: 11406
+    poster: 311406
+    code: gift_bundle_WhiteValentina2025_88type
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11407
+    name: 나강 리볼버 - 영원한 맹세
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 5
+    skin: 11407
+    poster: 311407
+    code: gift_bundle_WhiteValentina2025_M1895
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     type: 2

@@ -9367,7 +9367,7 @@
     id: 11001
     name: 보이스 - 헬게이트 위치
     fit_gun: 389
-    voice: 4
+    voice: 18
     dialog: 지옥의 문에는 "들어오는 자 희망을 버려라"라고 새겨져 있지. 하지만 나의 문에는 한 줄 더 적혀있다: "돌아서는 자 신생을 얻으리".
     gift_position: "-66.5,-12.3"
     order: 144
@@ -9378,7 +9378,7 @@
     id: 11002
     name: Kar98k - 순백의 제사
     fit_gun: 46
-    voice: 4
+    voice: 18
     dialog: 이 세상 자체가 고난의 감옥, 구원은 애당초 닿을 수 없는 것. 하지만 당신을 위해서라면 제 몸도 기꺼이 바치겠어요.
     illustrator_cv: RIRE,Nakae Mitsuki,
     order: 144
@@ -9389,7 +9389,7 @@
     id: 11003
     name: MK3A1 - 앞마당 전래동화
     fit_gun: 367
-    voice: 4
+    voice: 18
     dialog: 신비한 힘이 깃든 마도서여, 지휘관의 방을 청소해다오, 너의 계약자 MK3A1이 명하노니... 으에에!? 왜 갑자기 돌풍이 부는 거야? 내 주문이 잘못됐나?
     order: 144
     class_id: 107
@@ -9399,7 +9399,7 @@
     id: 11004
     name: ZB-26 - 악몽 만화경
     fit_gun: 307
-    voice: 4
+    voice: 18
     dialog: 꿈나라 만화경에 온 것을 환영해요. 이곳은 숙면의 낙원, 향락의 천당. 푸른 나비의 인도를 따라서... 당신은 끝없는 환상 속에 푹 빠져 헤어나오지 못할 거예요.
     order: 144
     class_id: 107
@@ -9409,7 +9409,7 @@
     id: 11005
     name: 콜트 M1851N - 풍양 자장가
     fit_gun: 400
-    voice: 4
+    voice: 18
     dialog: 잘하고 있어요. 천천히 아로마 병을 흔들면서 논밭에 향기를 퍼뜨리세요... 히히, 역시 작물을 키우는 것도 충분한 수면이 필수죠.
     order: 144
     class_id: 107
@@ -9419,7 +9419,7 @@
     id: 11006
     name: Mk 12 - 보이드 팬텀
     fit_gun: 226
-    voice: 4
+    voice: 18
     dialog: 데이터 바다의 촉수가 뻗어나간다... 만약 꼭 누가 희생해야 한다면, 내가 이 허공에서 가장 눈부시게 빛나는 유령이 되겠어.
     illustrator_cv: 小星,Ichinose Kana,
     order: 144
@@ -9430,7 +9430,7 @@
     id: 11007
     name: 토카레프 - 레이븐 섀도우
     fit_gun: 6
-    voice: 4
+    voice: 18
     dialog: 별들이 반짝이는 밤은 언제 봐도 아름답네요. 하지만 저는 이제 소원을 빌 필요가 없어요... 가장 간절한 소원이 지금 제 곁에 있으니까요.
     order: 144
     class_id: 107
@@ -9440,7 +9440,7 @@
     id: 11101
     name: Erma - 성야의 열쇠
     fit_gun: 376
-    voice: 4
+    voice: 19
     dialog: 어젯밤 반짝이는 선물상자를 봤어. 그런데 여는 순간 허공으로 흩어져 버렸어... 그게 그런 사람에게 부담이나 고통을 주는 선물이 아니길 빌어.
     order: 146
     class_id: 108
@@ -9450,7 +9450,7 @@
     id: 11102
     name: M99 - 달빛 바라보기
     fit_gun: 128
-    voice: 4
+    voice: 19
     dialog: 지휘관님! 와서 보세요, 제가 달 위에 산타클로스의 발자국을 찾았어요! 네? 그냥 망원경에 묻은 반점이라고요? 으음... 그런 것 같네요!
     illustrator_cv: 小星,Okubo Rumi,
     order: 146
@@ -9461,7 +9461,7 @@
     id: 11103
     name: MP7 - 순록 택배
     fit_gun: 28
-    voice: 4
+    voice: 19
     dialog: 아, 사육사 씨. 메리 크리스마스. 방금 트리에서 사탕을 좀 따서 모두에게 나눠주려고 했어. 자, 사육사 씨가 첫번째 역이야.
     gift_position: "-117.7,-85.9"
     order: 146
@@ -9472,7 +9472,7 @@
     id: 11104
     name: P50 - 리본에 흔들리는 별빛
     fit_gun: 401
-    voice: 4
+    voice: 19
     dialog: 자신을 리본으로 묶어서 선물로 포장한다든가... 서프라이즈보다는 현혹에 가깝지 않을까?
     order: 146
     class_id: 108
@@ -9482,7 +9482,7 @@
     id: 11105
     name: EM-2 - 품으로 데운 향기
     fit_gun: 262
-    voice: 4
+    voice: 19
     dialog: 아직 크리스마스 파티 계획이 없으시다면서요. 제가 향 좋은 와인이랑, 크랜베리 쿠키도 구웠는데... 혹시 흥미 있으신가요?
     order: 146
     class_id: 108
@@ -9491,7 +9491,7 @@
     id: 11106
     name: 팔콘 - 서리 종소리
     fit_gun: 256
-    voice: 4
+    voice: 19
     dialog: 종소리 울려라, 종소리 울려~ 좋아 좋아, 모두 박자 잘 맞추고 있어! 메리도 보고 있지만 말고 다같이 춤추자!
     illustrator_cv: 脆片,Ohzora Naomi,
     order: 146
@@ -9502,7 +9502,7 @@
     id: 11107
     name: M1911 - 달링 키친 래빗
     fit_gun: 2
-    voice: 4
+    voice: 19
     dialog: 달링, 제가 몰래 알려줄게요♪ 사실 이 케이크에는 사랑에 빠지는 마법을 걸어놨지롱... 히히, 농담이에요! 달링이 내년 매일 즐겁고 행복해지는 소원을 빌었죠!
     gift_position: "-105.7,46.8"
     illustrator_cv: Alize,Matsui Eriko,
@@ -9513,7 +9513,7 @@
     id: 11201
     name: SPAS-15 - 산초꽃 자태
     fit_gun: 366
-    voice: 4
+    voice: 15
     dialog: 지휘관, 내가 미리 새해 파티장 다 꾸며놨어! 꽃이랑, 종이끈이랑, 폭죽이랑... 물론 흥겨운 음악도 말이야!
     order: 147
     class_id: 109
@@ -9523,7 +9523,7 @@
     id: 11202
     name: 콜트 파이슨 - 참 · 학 날개의 춤
     fit_gun: 4
-    voice: 4
+    voice: 15
     dialog: 호오? 이 칼은 내게 주는 건가? 날카롭고 그립감도 괜찮군, 후훗... 마음에 들었어. 그렇다면 이것으로 지휘관에게 정월의 춤을 한 곡 바치지.
     illustrator_cv: 八号地球,Takahashi Chiaki,
     order: 147
@@ -9534,7 +9534,7 @@
     id: 11203
     name: Savage 99 - 봄노을 유람기
     fit_gun: 334
-    voice: 4
+    voice: 15
     dialog: 봄 기운 화창한 이날의 우리 둘만의 자국을 새길 수 있길... 앗, 아무것도 아니예요, 제 말은 그러니까... 같이 드라이빙 나가실래요?
     order: 147
     class_id: 109
@@ -9544,7 +9544,7 @@
     id: 11204
     name: M37 - 후시미 여우신
     fit_gun: 153
-    voice: 4
+    voice: 15
     dialog: 새해에 참배하면 한 해의 행운을 얻을 수 있다던데... 어때? 당장 눈앞에 있는 여우신에게서 제비 하나 뽑지 않을래?
     illustrator_cv: 脆片,Katou Emiri,
     order: 147
@@ -9555,7 +9555,7 @@
     id: 11205
     name: ZiP .22 - 어스름 향기
     fit_gun: 354
-    voice: 4
+    voice: 15
     dialog: 내가 6시간이나 고생해서 만든 "새해 한정판" 아로마야. 각별하지? 으응? 보기에 좀 불안하다고? 에, 엘리트의 솜씨를 의심하지 마!
     order: 147
     class_id: 109
@@ -9565,7 +9565,7 @@
     id: 11206
     name: 아스트라 리볼버 - 매화꽃은 내 마음
     fit_gun: 14
-    voice: 4
+    voice: 15
     dialog: '''"눈밭에 우뚝 솟은 매화나무, 서리를 견디고서 그대 위해 꽃 피네"... 참으로 듣기 좋은 시예요. 그리운 사람을 기다리는 심정도 분명 이런 거겠죠?'''
     illustrator_cv: 小星,Amamiya Sora,
     order: 147
@@ -9576,7 +9576,7 @@
     id: 11301
     name: 마티니-헨리 - 붉은 등롱 매달고
     fit_gun: 402
-    voice: 4
+    voice: 15
     dialog: 지휘관이 나랑 밤시장 구경 하고 싶어하네. 게장 찐만두 같은 것도 먹고... 전부 예상하고 있다고! 가자 가자, 지금 당장 출발하자!
     order: 148
     class_id: 110
@@ -9586,7 +9586,7 @@
     id: 11302
     name: M950A - 푸른 대나무의 노래
     fit_gun: 97
-    voice: 4
+    voice: 15
     dialog: 이 옷차림에 대나무숲 배경은 이상할까...? 썬더는 잘 어울린다고 하는데... 아, 지휘관도 그렇게 생각해? 고, 고마워...
     illustrator_cv: 八号地球,Koga Aoi,
     order: 148
@@ -9597,7 +9597,7 @@
     id: 11303
     name: Lusa - 검은 조롱박
     fit_gun: 311
-    voice: 4
+    voice: 15
     dialog: 후훗, 코치 새해 복 많이 받아! 지금 팀원들에게 세뱃둔 나눠주고 있어... 당연히 달려서 나눠주고 있지. 체력 훈련은 축구 시합에 엄청 중요하다고!
     order: 148
     class_id: 110
@@ -9607,7 +9607,7 @@
     id: 11304
     name: 79식 - 현을 떠나
     fit_gun: 127
-    voice: 4
+    voice: 15
     dialog: 자주 새해에 지휘관님에 무엇을 해드릴 수 있을까 생각해서 어느 사이에 엄청 연습하게 됐어요... 이 곡이 지휘관님을 즐겁게 해드릴 수 있기를 바랄게요.
     order: 148
     class_id: 110
@@ -9617,7 +9617,7 @@
     id: 11305
     name: C-MS - 맹장채
     fit_gun: 213
-    voice: 4
+    voice: 15
     dialog: 그림 같은 건 모두가 같이 완성해야 의미가 있지 않아? 저기... 뭘 멍때리고 있어? 빨리 와서 같이 그리자니까!
     illustrator_cv: 小星,Haruno Anzu,
     order: 148
@@ -9628,7 +9628,7 @@
     id: 11306
     name: Ak 5 - 단묵초
     fit_gun: 187
-    voice: 4
+    voice: 15
     dialog: 마침 새해 할인 행사가 잔뜩이길래 오면서 먹물이랑 족자를 좀 사왔어요. 보아하니 이 "복" 자가 엄청 마음에 드시나 봐요.
     illustrator_cv: 脆片,Nanase Ami,
     order: 148
@@ -9638,7 +9638,7 @@
     id: 11307
     name: A-91 - 술주정 향기
     fit_gun: 227
-    voice: 4
+    voice: 15
     dialog: 푸하~ 항아리에 보드카를 담아서 마시니까 더 시원하네에! 별로 차이가 없다고오~? 그럴 리가! 두 통 더 마시면 너도 알 거라구우~
     order: 148
     class_id: 110
@@ -9648,11 +9648,73 @@
     id: 11308
     name: M500 - 복 상자 도착이요
     fit_gun: 154
-    voice: 4
+    voice: 15
     dialog: 똑똑똑~ 행운 상자가 도착했어! 스팸 아니야! 깜짝 선물이라고!
     order: 148
     class_id: 110
     skin_source: 2
+  }
+  {
+    id: 11401
+    name: DSR-50 - 비밀 서약
+    fit_gun: 179
+    voice: 16
+    dialog: 지휘관, 이 자물쇠의 비밀을 알고 싶어? 쉬잇... 가까이 오면 말해줄게.
+    illustrator_cv: 小枪,Saito Yuka,
+    order: 151
+    class_id: 111
+    skin_source: 2
+  }
+  {
+    id: 11402
+    name: G41 - 성실한 꽃말
+    fit_gun: 62
+    voice: 16
+    dialog: 이 꽃의 꽃말이 "충성"인가요? 저 마음에 들어요! 이 꽃들을 전~부 주인님에게 드릴게요!
+    illustrator_cv: RIRE,Kugimiya Rie,
+    order: 151
+    class_id: 111
+    skin_source: 2
+  }
+  {
+    id: 11403
+    name: MG5 - 서릿물에 피어난 꽃
+    fit_gun: 109
+    voice: 16
+    dialog: 참으로 꽃처럼 연약한 옷이로군... 하지만 그렇다고 실전에 지장 가지는 않아. 안심하고 명령을 내려라.
+    illustrator_cv: 二花,Koshimizu Ami,
+    order: 151
+    class_id: 111
+    skin_source: 2
+  }
+  {
+    id: 11405
+    name: 9A-91 - 마음을 쏟아
+    fit_gun: 118
+    voice: 16
+    dialog: 지휘관님, 저의 이 모습, 당신의 시선을 조금 더 오래 머무르게 하지 않나요? 이대로... 서로의 눈빛에 잠기도록 해요.
+    order: 151
+    class_id: 111
+    skin_source: 2
+  }
+  {
+    id: 11406
+    name: 한양조 88식 - 순애의 날개
+    fit_gun: 95
+    voice: 16
+    dialog: 주인님, 이리로 오세요! 아이가 오직 이 순간을 위해서 여기서 한참 기다렸어요... 조금만 더 가까이 와주실래요?
+    order: 151
+    class_id: 111
+    skin_source: 2
+  }
+  {
+    id: 11407
+    name: 나강 리볼버 - 영원한 맹세
+    fit_gun: 5
+    voice: 16
+    dialog: 시대의 과거를 지켜본 것에 이어서 함께 미래를 지켜보자는 게냐? 지휘관도 참 욕심쟁이로구먼...
+    order: 151
+    class_id: 111
   }
   {
     id: 30001
@@ -9873,7 +9935,6 @@
     voice: 4
     dialog: 지휘관 이것 봐! 내가 드디어 회오리 마라 국물을 먹을 줄 아는 친구를 만났어! 이 친구 말을 별로 못하지만 엄청 호쾌하게 먹는다구! 계산? 그건 먹고나서 얘기하자고~
     order: 149
-    class_id: 111
   }
   {
     id: 30027
@@ -9883,7 +9944,6 @@
     dialog: 돌입 작전 무사 성공! 헤헤, M14도 도움이 됐죠? 네? 너무 요란했다고요?
     illustrator_cv: YoYo,Onishi Saori,
     order: 150
-    class_id: 112
   }
   {
     id: 50001

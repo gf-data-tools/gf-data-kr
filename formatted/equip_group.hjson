@@ -433,4 +433,22 @@
     group_skill: 2:1005303
     fit_gun: "20037"
   }
+  {
+    id: 49
+    name: 죄악 심판
+    des: FP-6에 맞춤 제작된 세트. 진압 수단이 늘어나 더 많은 죄악을 제재할 수 있습니다.
+    code: EgroupFP6
+    equip_unit: "445,0,315"
+    group_skill: 2:1005403
+    fit_gun: "164"
+  }
+  {
+    id: 50
+    name: 버블 미라지
+    des: 80에 맞춤 제작된 세트. 시간 때우기라도 전투 준비는 철저히.
+    code: Egroup80type
+    equip_unit: "215,446,0"
+    group_skill: 2:1005503
+    fit_gun: "20199"
+  }
 ]

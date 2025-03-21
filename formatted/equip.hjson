@@ -6453,8 +6453,10 @@
     powerup_part: 0.3
     exclusive_rate: 3
     bonus_type: armor_piercing:500,pow:1000
+    passive_skill: "1005501"
     max_level: 10
     auto_select_id: 19026
+    group_id: "50"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -9755,9 +9757,10 @@
     powerup_part: 0.15
     exclusive_rate: 3
     bonus_type: hit:800
-    passive_skill: "759065"
+    passive_skill: "759065,1005401"
     max_level: 10
     auto_select_id: 18107
+    group_id: "49"
     is_show: 1
     obtain_ids: "3074,3096"
     description_skill: 759065
@@ -11719,7 +11722,7 @@
     max_level: 10
     auto_select_id: 19071
     is_show: 1
-    obtain_ids: "3101"
+    obtain_ids: "3101,3096"
     description_skill: 759304
   }
   {
@@ -12153,7 +12156,7 @@
     max_level: 10
     auto_select_id: 18118
     is_show: 1
-    obtain_ids: "3103"
+    obtain_ids: "3103,3096"
     description_skill: 1000301
   }
   {
@@ -14132,5 +14135,106 @@
     is_show: 1
     obtain_ids: "3123"
     description_skill: 1005101
+  }
+  {
+    id: 445
+    name: FP 윙실드
+    description:
+      '''
+      장갑+<armor> 이동속도+<speed>
+      $FP-6 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    speed: "3,3"
+    armor: "6,8"
+    retire_mp: 2
+    retire_ammo: 2
+    retire_mre: 3
+    retire_part: 3
+    code: TDoll_SP_FP6
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "164"
+    equip_introduction: 날개처럼 디자인한 방패. 움직임을 방해하지 않아 FP-6가 가장 애용합니다.
+    powerup_mp: 0.23
+    powerup_ammo: 0.23
+    powerup_mre: 0.33
+    powerup_part: 0.33
+    exclusive_rate: 3
+    bonus_type: armor:500
+    passive_skill: "1005402"
+    max_level: 10
+    auto_select_id: 20098
+    group_id: "49"
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
+    id: 446
+    name: 전술 안경
+    description:
+      '''
+      치명률+<critical_percent><%>
+      명중+<hit>$80식 Mod 전용
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    hit: "14,16"
+    critical_percent: "18,20"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: Accessories_SP_80typeMod
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "20199"
+    equip_introduction: 시력 교정이 필요하진 않지만서도 IOP에 의뢰해 제작한 안경. 이걸 쓰면 인상이 좀 더 부드러워지길 바랍니다.
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: hit:1000,critical_percent:1000
+    passive_skill: "1005502"
+    max_level: 10
+    auto_select_id: 18121
+    group_id: "50"
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
+    id: 447
+    name: equip-10000447
+    description: equip-20000447
+    rank: 5
+    category: 1
+    type: 18
+    pow: "2,3"
+    hit: "3,5"
+    critical_percent: "21,25"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: Accessories_SP_Lewis
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "253"
+    equip_introduction: equip-30000447
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: hit:1000,pow:1000,critical_percent:1000
+    passive_skill: "1005601"
+    max_level: 10
+    auto_select_id: 18122
+    is_show: 1
+    obtain_ids: "3124"
+    sp_description: equip-40000447
+    description_skill: 1005601
   }
 ]
