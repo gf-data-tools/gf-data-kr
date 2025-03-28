@@ -17188,6 +17188,12 @@
     icon: Bumdle_package
   }
   {
+    id: 2846
+    name: 2025년 4월 출석
+    gem: 90
+    equip_ids: "447"
+  }
+  {
     id: 3001
     name: 콜트 리볼버
     item_ids: 1318-1

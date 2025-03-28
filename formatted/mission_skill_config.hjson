@@ -8672,7 +8672,7 @@
     spot_belong: "0,1,2,3"
     spot_echelon: "1,8,10"
     start_range: 3
-    trigger_id: "44000300"
+    trigger_id: 44000300&&1
     mission_buff_add: 440001:1
     subsidiary_mission_skill: "440003"
     is_manual: 440001
@@ -8687,7 +8687,7 @@
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
     start_range: 3
-    trigger_id: "44000400"
+    trigger_id: 44000400&&1
     target_id: "44000500"
     mission_buff_add: 440002:1
     subsidiary_mission_skill: "440004"

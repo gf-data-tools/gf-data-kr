@@ -45515,6 +45515,176 @@
     classification_id: 3002
   }
   {
+    id: 12471
+    type: 8
+    item_ids: 41-100,506-1000,8-1
+    gift: 100003-10
+    gemprice: 580
+    quota: 2002
+    giftbag_name: 4월 특별 패키지
+    event_code: dailyGiftbag
+    icon: Bumdle_package
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 12472
+    type: 8
+    item_ids: 506-100,605-1,516-200
+    gemprice: 158
+    quota: 2001
+    giftbag_name: 4월 일일 패키지
+    event_code: dailyGiftbag
+    icon: Bumdle_navy
+    daily_quota: 1
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 12473
+    type: 8
+    item_ids: 605-10,515-1000
+    gemprice: 1120
+    quota: 2003
+    giftbag_name: 혼합세력 지정보급
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 12474
+    type: 9
+    item_ids: 2035-1
+    gemprice: 4000
+    original_price: 10000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 카드배경: 피칠갑한 기사단
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12475
+    type: 9
+    item_ids: 2036-1
+    gemprice: 4000
+    original_price: 10000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 카드배경: 노을이 질 때
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12476
+    type: 9
+    item_ids: 2037-1
+    gemprice: 4000
+    original_price: 10000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 카드배경: 분홍과 보라의 소용돌이
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12477
+    type: 9
+    item_ids: 1886-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 아이콘: 숨은 칼날
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12478
+    type: 9
+    item_ids: 1889-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 아이콘: 순간의 꿈
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12479
+    type: 9
+    item_ids: 1890-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 아이콘: 세속으로
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12480
+    type: 9
+    item_ids: 10604-1
+    gemprice: 2000
+    quota: 2001
+    giftbag_name: 초전도 펄스
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12481
+    type: 9
+    gift: 100003-1
+    gemprice: 150
+    quota: 2003
+    giftbag_name: 딸기치즈케익
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12482
+    type: 9
+    gift: 100002-1
+    gemprice: 60
+    quota: 2003
+    giftbag_name: 소프트 콘
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12483
+    type: 9
+    gift: 100001-1
+    gemprice: 30
+    quota: 2003
+    giftbag_name: 막대사탕
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
     id: 30001
     type: 8
     gift: 8611-1
