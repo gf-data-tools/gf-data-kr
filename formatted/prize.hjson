@@ -15397,19 +15397,19 @@
   {
     id: 2501
     name: 영전하 한정 코스튬 쿠폰·α
-    item_ids: 1500142-1
+    item_ids: 1500200-1
     icon: Bumdle_zerocharge01
   }
   {
     id: 2502
     name: 영전하 한정 코스튬 쿠폰·β
-    item_ids: 1500143-1
+    item_ids: 1500201-1
     icon: Bumdle_zerocharge02
   }
   {
     id: 2503
     name: 영전하 한정 코스튬 쿠폰·리벨리온 스페셜
-    item_ids: 1500144-1
+    item_ids: 1500202-1
     icon: Bumdle_zerocharge03
   }
   {
@@ -30365,6 +30365,62 @@
       "Code16: 도약" 시즌에서 대장 랭크를 달성한 것을 축하드립니다. 보상: 러프베리 훈장*60, 지휘관 경험치*2000, 아이콘 "차원 교차"
       대장 랭크 우편을 처음 수령 시 액자·빛나는 장성 획득.
       '''
+    icon: Medal_Chess
+  }
+  {
+    id: 10827
+    name: prize-10010827
+    user_exp: 30
+    item_ids: 106-5,2660-1,200008-1
+    content: prize-20010827
+    icon: Medal_Chess
+  }
+  {
+    id: 10828
+    name: prize-10010828
+    user_exp: 60
+    item_ids: 106-10
+    content: prize-20010828
+    icon: Medal_Chess
+  }
+  {
+    id: 10829
+    name: prize-10010829
+    user_exp: 100
+    item_ids: 106-20
+    content: prize-20010829
+    icon: Medal_Chess
+  }
+  {
+    id: 10830
+    name: prize-10010830
+    user_exp: 200
+    item_ids: 106-30,2661-1,200007-1
+    content: prize-20010830
+    icon: Medal_Chess
+  }
+  {
+    id: 10831
+    name: prize-10010831
+    user_exp: 500
+    item_ids: 106-40
+    content: prize-20010831
+    icon: Medal_Chess
+  }
+  {
+    id: 10832
+    name: prize-10010832
+    user_exp: 1000
+    item_ids: 106-50
+    content: prize-20010832
+    icon: Medal_Chess
+  }
+  {
+    id: 10833
+    name: prize-10010833
+    user_exp: 2000
+    item_ids: 106-60,2662-1,200006-1
+    content: prize-20010833
     icon: Medal_Chess
   }
   {
