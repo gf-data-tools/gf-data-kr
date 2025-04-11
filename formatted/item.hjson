@@ -16283,30 +16283,45 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season19_1
-    item_name: item-10002660
-    introduction: item-20002660
+    item_name: 불손의 극치 · code17:결의
+    introduction: 불손의 극치 · code17:결의
     rank: 1
-    detail_introduction: item-30002660
   }
   {
     id: 2661
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season19_2
-    item_name: item-10002661
-    introduction: item-20002661
+    item_name: 역행의 광휘 · code17:결의
+    introduction: 역행의 광휘 · code17:결의
     rank: 1
-    detail_introduction: item-30002661
   }
   {
     id: 2662
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season19_3
-    item_name: item-10002662
-    introduction: item-20002662
+    item_name: 역경의 빛 · code17:결의
+    introduction: 역경의 빛 · code17:결의
     rank: 1
-    detail_introduction: item-30002662
+  }
+  {
+    id: 2663
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_Beowulf
+    item_name: 베오울프 - 해변의 사냥꾼
+    introduction: 베오울프 - 해변의 사냥꾼
+    rank: 1
+  }
+  {
+    id: 2664
+    type: 5
+    arg: "1"
+    code: card_BattlePass_Beowulf
+    item_name: 카드배경: 파도를 밟는 자
+    introduction: 카드배경: 파도를 밟는 자
+    rank: 1
   }
   {
     id: 3501
@@ -18008,6 +18023,15 @@
     code: gift_bundle_BattlePass_M14
     item_name: M14 - 역전의 증원군
     introduction: 돌입 작전 무사 성공! 헤헤, M14도 도움이 됐죠? 네? 너무 요란했다고요?
+    rank: 1
+  }
+  {
+    id: 30028
+    type: 1
+    arg: "30028"
+    code: gift_bundle_BattlePass_Beowulf
+    item_name: 베오울프 - 해변의 사냥꾼
+    introduction: 이 바닷가에 가슴이 두근거릴 사냥감이 있다면... 이 손으로 꼭 붙잡겠어.
     rank: 1
   }
   {
@@ -20408,6 +20432,35 @@
     introduction: 다른 주사위와 다르게, 정사면체 주사위의 눈은 바닥에 감춰진다. 모든 오답을 통찰해야만 운명의 진정한 선물을 알 수 있다.
     rank: 1
     daily_limit: 60;180
+  }
+  {
+    id: 100262
+    type: 4
+    arg: "100262"
+    code: Nova_medal_black
+    item_name: 노바훈장·영전하
+    introduction: 노바훈장·영전하
+    rank: 1
+  }
+  {
+    id: 100263
+    type: 4
+    arg: "100263"
+    code: Platinum_medal_black
+    item_name: 백금훈장·영전하
+    introduction: 백금훈장·영전하
+    rank: 1
+  }
+  {
+    id: 100264
+    type: 9
+    arg: "100264"
+    code: Coin_202407ZeroCharge
+    item_name: '''"판도라" 기념화폐'''
+    introduction: 뜻밖에 상영한 오페라가 프랑크푸르트를 뒤흔들다. 이 기념화폐에는 지난 날의 고통과 희열, 그리고 숙원이 담겨있다.
+    rank: 1
+    daily_limit: 60;180
+    detail_introduction: item-30100264
   }
   {
     id: 110001
@@ -23016,6 +23069,22 @@
     rank: 1
   }
   {
+    id: 140055
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *28기 전선협약
+    rank: 1
+  }
+  {
+    id: 140056
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *28기 전선협약 유료
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -23493,6 +23562,15 @@
     code: profileFrame_BattlePass_M14
     item_name: 액자·공습 강병
     introduction: 액자·공습 강병
+    rank: 1
+  }
+  {
+    id: 200053
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_Beowulf
+    item_name: 아이콘·나무 그늘과 파도 소리
+    introduction: 아이콘·나무 그늘과 파도 소리
     rank: 1
   }
   {
@@ -25789,11 +25867,10 @@
     type: 15
     arg: "1500200"
     code: Bumdle_zerocharge01
-    item_name: item-11500200
-    introduction: item-21500200
+    item_name: 영전하 한정 코스튬 쿠폰·α
+    introduction: 창고에서 이 쿠폰을 사용하면 특정 범위에서 보유하지 않은 코스튬 하나를 무작위로 얻습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500200
     type_sort: 1
   }
   {
@@ -25801,11 +25878,10 @@
     type: 15
     arg: "1500201"
     code: Bumdle_zerocharge02
-    item_name: item-11500201
-    introduction: item-21500201
+    item_name: 영전하 한정 코스튬 쿠폰·β
+    introduction: 창고에서 이 쿠폰을 사용하면 특정 범위에서 보유하지 않은 코스튬 하나를 무작위로 얻습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500201
     type_sort: 1
   }
   {
@@ -25813,11 +25889,87 @@
     type: 15
     arg: "1500202"
     code: Bumdle_zerocharge03
-    item_name: item-11500202
-    introduction: item-21500202
+    item_name: 영전하 한정 코스튬 쿠폰·리벨리온 스페셜
+    introduction: 창고에서 이 쿠폰을 사용하면 특정 범위에서 보유하지 않은 코스튬 하나를 무작위로 얻습니다.
     rank: 1
     sort: -1
-    detail_introduction: item-31500202
+    type_sort: 1
+  }
+  {
+    id: 1500203
+    type: 15
+    arg: "1500203"
+    code: Bumdle_AnniversaryCoupons1
+    item_name: 레어 코스튬 추첨권·주년
+    introduction: 창고에서 사용하면 지정 범위 중 보유하지 않은 코스튬을 하나 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500204
+    type: 15
+    arg: "1500204"
+    code: Bumdle_AnniversaryCoupons2
+    item_name: 럭셔리 코스튬 추첨권·주년
+    introduction: 창고에서 사용하면 지정 범위 중 보유하지 않은 코스튬을 하나 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500205
+    type: 15
+    arg: "1500205"
+    code: Bumdle_AnniversaryCoupons3
+    item_name: 로열 코스튬 추첨권·주년
+    introduction: 창고에서 사용하면 지정 범위 중 보유하지 않은 코스튬을 하나 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500206
+    type: 15
+    arg: "1500176"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약-백사장 일광욕 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500207
+    type: 15
+    arg: "1500177"
+    code: package_choose
+    item_name: 부속 장비 선택 코드
+    introduction: 전선협약-백사장 일광욕 보상, 지정 리스트에서 원하는 부속 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500208
+    type: 15
+    arg: "1500178"
+    code: package_random
+    item_name: 미획득 인형 확정 코드
+    introduction: 전선협약-백사장 일광욕 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500209
+    type: 15
+    arg: "1500179"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-백사장 일광욕 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
+    rank: 1
+    sort: -1
     type_sort: 1
   }
   {
@@ -26467,6 +26619,39 @@
     id: 1700057
     type: 15
     arg: "1700057"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700058
+    type: 15
+    arg: "1700058"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700059
+    type: 15
+    arg: "1700059"
+    code: package_choose
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700060
+    type: 15
+    arg: "1700060"
     code: package_choose
     item_name: 고등 전용장비 선택 코드
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
