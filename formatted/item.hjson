@@ -17981,6 +17981,15 @@
     rank: 1
   }
   {
+    id: 10727
+    type: 18
+    arg: "10727"
+    code: daily_points
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
+    rank: 1
+  }
+  {
     id: 30023
     type: 1
     arg: "30023"

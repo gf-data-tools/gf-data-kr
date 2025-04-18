@@ -4805,8 +4805,10 @@
     powerup_part: 0.15
     exclusive_rate: 3
     bonus_type: pow:900,hit:500
+    passive_skill: "1006201"
     max_level: 10
     auto_select_id: 18044
+    group_id: "52"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -7161,9 +7163,10 @@
     powerup_part: 0.38
     exclusive_rate: 3
     bonus_type: dodge:500
-    passive_skill: "100507"
+    passive_skill: "100507,1006101"
     max_level: 10
     auto_select_id: 20037
+    group_id: "51"
     is_show: 1
     obtain_ids: "3008,3096"
     description_skill: 100507
@@ -11827,7 +11830,7 @@
     max_level: 10
     auto_select_id: 20074
     is_show: 1
-    obtain_ids: "3102"
+    obtain_ids: "3102,3096"
     description_skill: 759316
   }
   {
@@ -12730,7 +12733,7 @@
     max_level: 10
     auto_select_id: 19080
     is_show: 1
-    obtain_ids: "3106"
+    obtain_ids: "3106,3096"
     description_skill: 1001601
   }
   {
@@ -14239,5 +14242,75 @@
     is_show: 1
     obtain_ids: "3124"
     description_skill: 1005601
+  }
+  {
+    id: 448
+    name: GMV 신호총
+    description:
+      '''
+      명중+<hit>
+      제대 명중+20%$그리즐리 MkⅤ 전용
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    hit: "6,10"
+    skill_effect: 150
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: Magazine_SP_Grizzly
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "96"
+    equip_introduction: 기존 디자인에서 다이나믹 강화한 버전. 신호를 효과적으로 근처 대원들에게 전달할 수 있습니다.
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3
+    bonus_type: hit:1000
+    passive_skill: "1006102,759034"
+    max_level: 10
+    auto_select_id: 19091
+    group_id: "51"
+    is_show: 1
+    obtain_ids: "3096"
+    sp_description: 제대 명중+20%
+  }
+  {
+    id: 449
+    name: 베레타 신호총
+    description:
+      '''
+      명중+<hit>
+      제대 명중+20%$베레타 38형 Mod 전용
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    hit: "6,10"
+    skill_effect: 150
+    retire_mp: 4
+    retire_ammo: 4
+    retire_part: 2
+    code: Magazine_SP_MAB38Mod
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "20031"
+    equip_introduction: 연락 또는 구조 요청 신호를 보낼 수 있습니다. 베레타 38형이 항상 휴대하는 신호총.
+    powerup_mp: 0.48
+    powerup_ammo: 0.48
+    powerup_mre: 0.08
+    powerup_part: 0.25
+    exclusive_rate: 3
+    bonus_type: hit:1000
+    passive_skill: "1006202,759034"
+    max_level: 10
+    auto_select_id: 19092
+    group_id: "52"
+    is_show: 1
+    obtain_ids: "3096"
+    sp_description: 제대 명중+20%
   }
 ]

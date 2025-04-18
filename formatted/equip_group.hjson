@@ -451,4 +451,22 @@
     group_skill: 2:1005503
     fit_gun: "20199"
   }
+  {
+    id: 51
+    name: 운동 달인
+    des: 그리즐리 MkⅤ에 맞춤 제작된 세트. 가볍고 실용적인 것이 가장 큰 특징입니다.
+    code: EgroupGrizzly
+    equip_unit: "0,448,237"
+    group_skill: 2:1006103
+    fit_gun: "96"
+  }
+  {
+    id: 52
+    name: 카네이션 넥타이
+    des: 베레타 38형에 맞춤 제작된 세트. 이걸 착용한 이후 싸움에 더는 망설임이 없습니다.
+    code: EgroupMAB38
+    equip_unit: "0,449,166"
+    group_skill: 2:1006203
+    fit_gun: "20031"
+  }
 ]
