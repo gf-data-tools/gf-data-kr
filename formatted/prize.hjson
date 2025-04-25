@@ -17212,6 +17212,12 @@
     icon: Bumdle_AnniversaryCoupons3
   }
   {
+    id: 2850
+    name: 2025년 5월 출석
+    gem: 90
+    equip_ids: "450"
+  }
+  {
     id: 3001
     name: 콜트 리볼버
     item_ids: 1318-1
