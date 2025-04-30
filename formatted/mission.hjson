@@ -340,7 +340,6 @@
     support_available: 2
     reinforce_ally_team: "10"
     round_config: 1:1,2:2,3:3
-    draw_code: "222,1,hardcoremelon;0"
     limit_squad: -1
     difficulty_recommend: "800,10;0,0;0,0;0,0;0,0"
     difficulty_recommend_addendum: 요정 수요 없음
@@ -709,7 +708,6 @@
     support_available: 2
     reinforce_ally_team: "20"
     round_config: 1:1,2:2,3:3
-    draw_code: "223,1,hardcoremelon;0"
     limit_squad: -1
     difficulty_recommend: "2000,25;0,0;0,0;0,0;0,0"
     difficulty_recommend_addendum: 요정 수요 없음
@@ -1078,7 +1076,6 @@
     support_available: 2
     reinforce_ally_team: "30"
     round_config: 1:1,2:2,3:3
-    draw_code: "224,1,hardcoremelon;0"
     limit_squad: -1
     difficulty_recommend: "4200,40;0,0;0,0;0,0;0,0"
     difficulty_recommend_addendum: 요정 수요 없음
@@ -1447,7 +1444,6 @@
     support_available: 2
     reinforce_ally_team: "40"
     round_config: 1:1,2:2,3:3
-    draw_code: "225,1,hardcoremelon;0"
     limit_squad: -1
     difficulty_recommend: "6000,55;0,0;0,0;0,0;0,0"
     difficulty_recommend_addendum: 요정 수요 없음
@@ -1811,7 +1807,6 @@
     support_available: 2
     reinforce_ally_team: "50"
     round_config: 1:1,2:2,3:3
-    draw_code: "226,1,hardcoremelon;0"
     limit_squad: -1
     difficulty_recommend: "8500,70;0,0;0,0;0,0;0,0"
     difficulty_recommend_addendum: 요정 수요 없음
@@ -2170,7 +2165,6 @@
     support_available: 2
     reinforce_ally_team: "60"
     round_config: 1:1,2:2,3:3
-    draw_code: "227,1,hardcoremelon;0"
     limit_squad: -1
     difficulty_recommend: "13000,80;0,0;0,0;0,0;0,0"
     difficulty_recommend_addendum: 요정 수요 없음
@@ -15050,7 +15044,6 @@
     mission_group_id: 8
     force_type: "1"
     round_config: 1:1,2:4,3:8
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: -1
     mapped_mission_id: 32001
     win_type: "1"
@@ -15084,7 +15077,6 @@
     open_mission_keys: 1027700:1
     force_type: "1"
     round_config: 1:1,2:4,3:6
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: -1
     open_mission_items: 8002:100
     mapped_mission_id: 32002
@@ -15118,7 +15110,6 @@
     mission_group_id: 8
     open_mission_keys: 1027800:1
     round_config: 1:1,2:4,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: -1
     open_mission_items: 8002:100
     mapped_mission_id: 32003
@@ -15153,7 +15144,6 @@
     mission_group_id: 8
     open_mission_keys: 1027900:1
     round_config: 1:1,2:4,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: -1
     open_mission_items: 8002:100
     mapped_mission_id: 32004
@@ -15187,7 +15177,6 @@
     mission_group_id: 8
     open_mission_keys: 1028000:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: -1
     open_mission_items: 8002:100
     mapped_mission_id: 32005
@@ -15221,7 +15210,6 @@
     mission_group_id: 8
     open_mission_keys: 1028100:1
     round_config: 1:1,2:4,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: -1
     open_mission_items: 8002:100
     mapped_mission_id: 32006
@@ -15256,7 +15244,6 @@
     mission_group_id: 8
     open_mission_keys: 1028200:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: -1
     open_mission_items: 8002:100
     mapped_mission_id: 32007
@@ -15291,7 +15278,6 @@
     mission_group_id: 8
     open_mission_keys: 1028300:1
     round_config: 1:1,2:4,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: -1
     open_mission_items: 8002:100
     mapped_mission_id: 32008
@@ -15326,7 +15312,6 @@
     drop_mission_key: "0,0,1027700:1;0,0,1027700:1"
     mission_group_id: 8
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: 2
     mapped_mission_id: 32001
     difficulty_recommend: "26000,99;0,0;0,0;0,0;0,0"
@@ -15360,7 +15345,6 @@
     mission_group_id: 8
     open_mission_keys: 1027700:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: 2
     open_mission_items: 8002:100
     mapped_mission_id: 32002
@@ -15397,7 +15381,6 @@
     mission_group_id: 8
     open_mission_keys: 1027800:1
     round_config: 1:1,2:4,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: 2
     open_mission_items: 8002:100
     mapped_mission_id: 32003
@@ -15433,7 +15416,6 @@
     mission_group_id: 8
     open_mission_keys: 1027900:1
     round_config: 1:1,2:4,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: 2
     open_mission_items: 8002:100
     mapped_mission_id: 32004
@@ -15469,7 +15451,6 @@
     mission_group_id: 8
     open_mission_keys: 1028000:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: 2
     open_mission_items: 8002:100
     mapped_mission_id: 32005
@@ -15505,7 +15486,6 @@
     mission_group_id: 8
     open_mission_keys: 1028100:1
     round_config: 1:1,2:4,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: 2
     open_mission_items: 8002:100
     mapped_mission_id: 32006
@@ -15541,7 +15521,6 @@
     mission_group_id: 8
     open_mission_keys: 1028200:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: 2
     open_mission_items: 8002:100
     mapped_mission_id: 32007
@@ -15579,7 +15558,6 @@
     mission_group_id: 8
     open_mission_keys: 1028300:1
     round_config: 1:1,2:4,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: 2
     open_mission_items: 8002:100
     mapped_mission_id: 32008
@@ -15614,7 +15592,6 @@
     mission_group_id: 8
     open_mission_keys: 1027901:1;1028201:1;1028401:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: 2
     open_mission_items: 8002:100
     mapped_mission_id: 32017
@@ -21292,7 +21269,6 @@
     mission_group_id: 11
     open_mission_keys: 1048100:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100133,120,WhiteDay_2020_MissionPanelTip
     limit_squad: 2
     win_type: "370100,370101"
     difficulty_recommend: "2000,25;0,0;0,0;0,0;0,0"
@@ -21325,7 +21301,6 @@
     mission_group_id: 11
     open_mission_keys: 1047500:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100133,120,WhiteDay_2020_MissionPanelTip
     limit_squad: 2
     win_type: "370200"
     difficulty_recommend: "4500,45;0,0;0,0;0,0;0,0"
@@ -21359,7 +21334,6 @@
     mission_group_id: 11
     open_mission_keys: 1047600:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100133,120,WhiteDay_2020_MissionPanelTip
     limit_squad: 2
     win_type: "370300"
     difficulty_recommend: "5500,55;0,0;0,0;0,0;0,0"
@@ -21393,7 +21367,6 @@
     mission_group_id: 11
     open_mission_keys: 1047700:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100133,120,WhiteDay_2020_MissionPanelTip
     limit_squad: 2
     win_type: "370400,370401"
     difficulty_recommend: "7000,65;0,0;0,0;0,0;0,0"
@@ -21427,7 +21400,6 @@
     mission_group_id: 11
     open_mission_keys: 1047800:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100133,120,WhiteDay_2020_MissionPanelTip
     limit_squad: 2
     win_type: "1"
     difficulty_recommend: "10000,75;0,0;0,0;0,0;0,0"
@@ -21461,7 +21433,6 @@
     mission_group_id: 11
     open_mission_keys: 1047900:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100133,120,WhiteDay_2020_MissionPanelTip
     limit_squad: 2
     win_type: "370600"
     difficulty_recommend: "14000,85;0,0;0,0;0,0;0,0"
@@ -21621,7 +21592,6 @@
     mission_group_id: 12
     open_mission_keys: 1048500:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100052,60,GunslingerGirl_MissionPanelTip
     win_type: "6380101"
     difficulty_recommend: "2500,30;0,0;0,0;0,0;0,0"
     limit_sangvis: 2
@@ -21677,7 +21647,6 @@
     mission_group_id: 12
     open_mission_keys: 1049400:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100052,60,GunslingerGirl_MissionPanelTip
     win_type: "6380601,6380602"
     difficulty_recommend: "4000,40;0,0;0,0;0,0;0,0"
     limit_sangvis: -1
@@ -21734,7 +21703,6 @@
     mission_group_id: 12
     open_mission_keys: 1048900:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100052,60,GunslingerGirl_MissionPanelTip
     win_type: "6380701"
     difficulty_recommend: "5500,50;0,0;0,0;0,0;0,0"
     limit_sangvis: 4
@@ -21790,7 +21758,6 @@
     mission_group_id: 12
     open_mission_keys: 1049100:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100052,60,GunslingerGirl_MissionPanelTip
     win_type: "6380801"
     difficulty_recommend: "7000,60;0,0;0,0;0,0;0,0"
     limit_sangvis: 4
@@ -21872,7 +21839,6 @@
     mission_group_id: 12
     open_mission_keys: 1049300:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100052,60,GunslingerGirl_MissionPanelTip
     win_type: "6380501"
     difficulty_recommend: "12000,70;0,0;0,0;0,0;0,0"
     limit_sangvis: 4
@@ -21930,7 +21896,6 @@
     mission_group_id: 12
     open_mission_keys: 1049000:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100052,60,GunslingerGirl_MissionPanelTip
     limit_squad: -1
     difficulty_recommend: "25000,99;0,0;0,0;0,0;0,0"
     limit_sangvis: -1
@@ -21962,7 +21927,6 @@
     mission_group_id: 12
     open_mission_keys: 1048900:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100052,60,GunslingerGirl_MissionPanelTip
     limit_squad: -1
     difficulty_recommend: "25000,99;0,0;0,0;0,0;0,0"
     limit_sangvis: -1
@@ -21996,7 +21960,6 @@
     mission_group_id: 12
     open_mission_keys: 1048500:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100052,60,GunslingerGirl_MissionPanelTip
     limit_squad: -1
     win_type: "381600,3"
     difficulty_recommend: "25000,99;0,0;0,0;0,0;0,0"
@@ -22031,7 +21994,6 @@
     mission_group_id: 12
     open_mission_keys: 1049400:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100052,60,GunslingerGirl_MissionPanelTip
     limit_squad: -1
     win_type: "381700"
     difficulty_recommend: "25000,99;0,0;0,0;0,0;0,0"
@@ -22068,7 +22030,6 @@
     mission_group_id: 12
     open_mission_keys: 1048900:1
     round_config: 1:1,2:5,3:3
-    draw_code: 0;100052,60,GunslingerGirl_MissionPanelTip
     limit_squad: 4
     win_type: "381900,381901"
     difficulty_recommend: "25000,99;0,0;0,0;0,0;0,0"
@@ -22104,7 +22065,6 @@
     mission_group_id: 12
     open_mission_keys: 1049100:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100052,60,GunslingerGirl_MissionPanelTip
     limit_squad: 1
     win_type: "381800"
     difficulty_recommend: "25000,99;0,0;0,0;0,0;0,0"
@@ -22139,7 +22099,6 @@
     mission_group_id: 12
     open_mission_keys: 1050900:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100052,60,GunslingerGirl_MissionPanelTip
     limit_squad: 2
     win_type: "382000"
     difficulty_recommend: "25000,99;0,0;0,0;0,0;0,0"
@@ -22365,7 +22324,6 @@
     mission_group_id: 14
     open_mission_keys: 1052800:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9005,60,Activity_2020S_Tip
     win_type: "64101011"
     difficulty_recommend: "3000,20;0,0;0,0;0,0;0,0"
     mission_tip: 추천 부대편성:고속 혼합 편성
@@ -22397,7 +22355,6 @@
     mission_group_id: 14
     open_mission_keys: 1053000:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9005,60,Activity_2020S_Tip
     win_type: "64102011"
     difficulty_recommend: "6000,50;0,0;0,0;0,0;0,0"
     mission_tip: 추천 부대편성:야간 특화 편성
@@ -22430,7 +22387,6 @@
     mission_group_id: 14
     open_mission_keys: 1053600:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9005,60,Activity_2020S_Tip
     limit_squad: 2
     win_type: "1051210"
     difficulty_recommend: "9000,75;0,0;0,0;0,0;0,0"
@@ -22462,7 +22418,6 @@
     mission_group_id: 14
     open_mission_keys: 1054000:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9005,60,Activity_2020S_Tip
     win_type: "64104011"
     difficulty_recommend: "10000,80;0,0;0,0;0,0;0,0"
     mission_tip: 추천 부대편성:고속 혼합 편성
@@ -22495,7 +22450,6 @@
     mission_group_id: 14
     open_mission_keys: 1054600:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9005,60,Activity_2020S_Tip
     limit_squad: -1
     win_type: "1051410"
     difficulty_recommend: "15000,99;0,0;0,0;0,0;0,0"
@@ -22535,7 +22489,6 @@
     mission_group_id: 14
     open_mission_keys: 1052800:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9005,60,Activity_2020S_Tip
     difficulty_recommend: "15000,99;0,0;0,0;0,0;0,0"
     mission_tip: 추천 부대편성:광역 공격 편성, 일점사 편성
     drop_key_info: 1051000:1,1051001:1,1051002:1,1051003:1,1051004:1
@@ -22571,7 +22524,6 @@
     mission_group_id: 14
     open_mission_keys: 1053000:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9005,60,Activity_2020S_Tip
     difficulty_recommend: "18000,99;0,0;0,0;0,0;0,0"
     mission_tip: 추천 부대편성:고속 혼합 편성
     drop_key_info: 1051100:1,1051101:1,1051102:1,1051103:1,1051104:1,1051105:1,1051106:1,1051107:1,1051108:1
@@ -22608,7 +22560,6 @@
     open_mission_keys: 1053600:1
     force_type: "1"
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9005,60,Activity_2020S_Tip
     difficulty_recommend: "21000,99;0,0;0,0;0,0;0,0"
     mission_tip: 추천 부대편성:고속 혼합 편성
     drop_key_info: 1051200:1,1051201:1,1051202:1,1051203:1,1051204:1,1051205:1,1051206:1,1051207:1,1051208:1
@@ -22644,7 +22595,6 @@
     mission_group_id: 14
     open_mission_keys: 1054000:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9005,60,Activity_2020S_Tip
     difficulty_recommend: "21000,99;0,0;0,0;0,0;0,0"
     mission_tip: 추천 부대편성:고속 혼합 편성, 일격필살 편성
     drop_key_info: 1051300:1,1051301:1,1051302:1,1051303:1,1051304:1,1051305:1,1051306:1,1051307:1,1051308:1
@@ -22680,7 +22630,6 @@
     mission_group_id: 14
     open_mission_keys: 1054600:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9005,60,Activity_2020S_Tip
     difficulty_recommend: "21000,99;0,0;0,0;0,0;0,0"
   }
   {
@@ -22711,7 +22660,6 @@
     mission_group_id: 14
     open_mission_keys: 1052800:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9005,60,Activity_2020S_Tip
     difficulty_recommend: "35000,99;0,0;0,0;0,0;0,0"
     event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,15000,0,0,,8000,20000,10000,5000
     recommended_team_ids: "2,5,6"
@@ -22743,7 +22691,6 @@
     mission_group_id: 14
     open_mission_keys: 1052800:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9005,60,Activity_2020S_Tip
     win_type: "64102111"
     difficulty_recommend: "35000,99;0,0;0,0;0,0;0,0"
     limit_sangvis: -1
@@ -22777,7 +22724,6 @@
     open_mission_keys: 1052800:1
     force_type: "1"
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9005,60,Activity_2020S_Tip
     difficulty_recommend: "35000,99;0,0;0,0;0,0;0,0"
     limit_sangvis: -1
     event_score: 1|10,2000,1500,1000,200,10000,5000,10000,4000,5000,2000,10000,1:10000;2:500;3:2000;5:10000;6:10000;7:2500,15000,0,0,,8000,20000,10000,5000
@@ -22811,7 +22757,6 @@
     mission_group_id: 14
     open_mission_keys: 1051001:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9005,60,Activity_2020S_Tip
     difficulty_recommend: "3000,20;0,0;0,0;0,0;0,0"
     mission_tip: 추천 부대편성:고속 혼합 편성
     recommended_team_ids: "1"
@@ -22844,7 +22789,6 @@
     mission_group_id: 14
     open_mission_keys: 1051107:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9005,60,Activity_2020S_Tip
     difficulty_recommend: "6000,50;0,0;0,0;0,0;0,0"
     mission_tip: 추천 부대편성:기본 저격 편성
     recommended_team_ids: "9,1,6"
@@ -22878,7 +22822,6 @@
     mission_group_id: 14
     open_mission_keys: 1051203:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9005,60,Activity_2020S_Tip
     win_type: 1|3
     difficulty_recommend: "9000,75;0,0;0,0;0,0;0,0"
     mission_tip: 추천 부대편성:일점사 편성
@@ -22912,7 +22855,6 @@
     mission_group_id: 14
     open_mission_keys: 1051303:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9005,60,Activity_2020S_Tip
     win_type: "64103111"
     difficulty_recommend: "10000,99;0,0;0,0;0,0;0,0"
     mission_tip: 추천 부대편성:고속 혼합 편성, 일점사 편성
@@ -22946,7 +22888,6 @@
     mission_group_id: 14
     open_mission_keys: 1051402:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;9005,60,Activity_2020S_Tip
     win_type: "1"
     difficulty_recommend: "15000,99;0,0;0,0;0,0;0,0"
     mission_tip: 추천 부대편성:고속 혼합 편성
@@ -24741,7 +24682,6 @@
     open_mission_keys: 1059600:1
     force_type: "1,2"
     round_config: 1:1,2:13,3:15
-    draw_code: 0;100070,60,TheDivision_Tip
     mapped_mission_id: 43001
     difficulty_recommend: "3000,30;0,0;0,0;0,0;0,0"
     win_step: "6430101"
@@ -24775,7 +24715,6 @@
     mission_group_id: 16
     open_mission_keys: 1059700:1
     round_config: 1:1,2:9,3:3
-    draw_code: 0;100070,60,TheDivision_Tip
     mapped_mission_id: 43002
     difficulty_recommend: "5000,40;0,0;0,0;0,0;0,0"
     win_step: "6430201"
@@ -24809,7 +24748,6 @@
     mission_group_id: 16
     open_mission_keys: 1059800:1
     round_config: 1:1,2:11,3:3
-    draw_code: 0;100070,60,TheDivision_Tip
     mapped_mission_id: 43003
     win_type: "6430301,6430302"
     difficulty_recommend: "7000,50;0,0;0,0;0,0;0,0"
@@ -24843,7 +24781,6 @@
     mission_group_id: 16
     open_mission_keys: 1059900:1
     round_config: 1:1,2:9,3:3
-    draw_code: 0;100070,60,TheDivision_Tip
     mapped_mission_id: 43004
     difficulty_recommend: "9000,60;0,0;0,0;0,0;0,0"
     win_step: "6430401"
@@ -24877,7 +24814,6 @@
     mission_group_id: 16
     open_mission_keys: 1060000:1
     round_config: 1:1,2:9,3:3
-    draw_code: 0;100070,60,TheDivision_Tip
     mapped_mission_id: 43005
     win_type: "6430501,6430502,6430503"
     difficulty_recommend: "13000,70;0,0;0,0;0,0;0,0"
@@ -24912,7 +24848,6 @@
     mission_group_id: 16
     open_mission_keys: 1059700:1
     round_config: 1:1,2:13,3:3
-    draw_code: 0;100070,60,TheDivision_Tip
     win_type: "6430601"
     difficulty_recommend: "3000,30;0,0;0,0;0,0;0,0"
     recommended_team_ids: "1,2"
@@ -24946,7 +24881,6 @@
     mission_group_id: 16
     open_mission_keys: 1059800:1
     round_config: 1:1,2:9,3:3
-    draw_code: 0;100070,60,TheDivision_Tip
     win_type: "6430701"
     difficulty_recommend: "5000,40;0,0;0,0;0,0;0,0"
     recommended_team_ids: "1"
@@ -24980,7 +24914,6 @@
     mission_group_id: 16
     open_mission_keys: 1059900:1
     round_config: 1:1,2:11,3:3
-    draw_code: 0;100070,60,TheDivision_Tip
     win_type: "6430801"
     difficulty_recommend: "7000,50;0,0;0,0;0,0;0,0"
     recommended_team_ids: "1,2"
@@ -25015,7 +24948,6 @@
     mission_group_id: 16
     open_mission_keys: 1060000:1
     round_config: 1:1,2:9,3:3
-    draw_code: 0;100070,60,TheDivision_Tip
     win_type: "6430901"
     difficulty_recommend: "9000,60;0,0;0,0;0,0;0,0"
     recommended_team_ids: "1"
@@ -25049,7 +24981,6 @@
     mission_group_id: 16
     open_mission_keys: 1060100:1
     round_config: 1:1,2:9,3:3
-    draw_code: 0;100070,60,TheDivision_Tip
     difficulty_recommend: "13000,70;0,0;0,0;0,0;0,0"
     recommended_team_ids: "1"
   }
@@ -25082,7 +25013,6 @@
     mission_group_id: 16
     open_mission_keys: 1060100:1
     round_config: 1:1,2:9,3:3
-    draw_code: 0;100070,60,TheDivision_Tip
     difficulty_recommend: "13000,70;0,0;0,0;0,0;0,0"
     recommended_team_ids: "1"
   }
@@ -25120,7 +25050,6 @@
     open_mission_keys: 1059600:1
     force_type: "1"
     round_config: 1:1,2:9,3:14
-    draw_code: 0;100070,60,TheDivision_Tip
     mapped_mission_id: 43001
     difficulty_recommend: "28000,99;0,0;0,0;0,0;0,0"
     recommended_team_ids: "6,1"
@@ -25157,7 +25086,6 @@
     drop_mission_key: "0,0,1059800:1"
     open_mission_keys: 1059700:1
     round_config: 1:1,2:11,3:3
-    draw_code: 0;100070,60,TheDivision_Tip
     mapped_mission_id: 43002
     difficulty_recommend: "32000,99;0,0;0,0;0,0;0,0"
     recommended_team_ids: "6,2,1"
@@ -25194,7 +25122,6 @@
     drop_mission_key: "0,0,1059900:1"
     open_mission_keys: 1059800:1
     round_config: 1:1,2:11,3:3
-    draw_code: 0;100070,60,TheDivision_Tip
     mapped_mission_id: 43003
     difficulty_recommend: "35000,99;0,0;0,0;0,0;0,0"
     recommended_team_ids: "2,1"
@@ -25231,7 +25158,6 @@
     drop_mission_key: "0,0,1060000:1"
     open_mission_keys: 1059900:1
     round_config: 1:1,2:11,3:3
-    draw_code: 0;100070,60,TheDivision_Tip
     mapped_mission_id: 43004
     difficulty_recommend: "38000,99;0,0;0,0;0,0;0,0"
     recommended_team_ids: "1"
@@ -25268,7 +25194,6 @@
     drop_mission_key: "0,0,1060100:1"
     open_mission_keys: 1060000:1
     round_config: 1:1,2:11,3:3
-    draw_code: 0;100070,60,TheDivision_Tip
     mapped_mission_id: 43005
     difficulty_recommend: "42000,99;0,0;0,0;0,0;0,0"
     recommended_team_ids: "2,1"
@@ -29588,7 +29513,6 @@
     mission_group_id: 11
     open_mission_keys: 1048000:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100133,120,WhiteDay_2020_MissionPanelTip
     win_type: "1076501"
     difficulty_recommend: "14000,85;0,0;0,0;0,0;0,0"
     recommended_team_ids: "3,1"
@@ -29681,7 +29605,6 @@
     mission_group_id: 18
     open_mission_keys: 1078400:1
     round_config: 1:16,2:17,3:3
-    draw_code: 0;100100,60,DropkickonMyDevil_Tip
     mapped_mission_id: 46001
     win_type: "1076801"
     difficulty_recommend: "3500,35;0,0;0,0;0,0;0,0"
@@ -29713,7 +29636,6 @@
     mission_group_id: 18
     open_mission_keys: 1078600:1
     round_config: 1:16,2:17,3:3
-    draw_code: 0;100100,60,DropkickonMyDevil_Tip
     mapped_mission_id: 46002
     difficulty_recommend: "4500,45;0,0;0,0;0,0;0,0"
     win_step: "1076901"
@@ -29745,7 +29667,6 @@
     mission_group_id: 18
     open_mission_keys: 1078900:1
     round_config: 1:16,2:17,3:3
-    draw_code: 0;100100,60,DropkickonMyDevil_Tip
     mapped_mission_id: 46003
     win_type: "1077001"
     difficulty_recommend: "5500,55;0,0;0,0;0,0;0,0"
@@ -29777,7 +29698,6 @@
     mission_group_id: 18
     open_mission_keys: 1079300:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100100,60,DropkickonMyDevil_Tip
     mapped_mission_id: 46004
     win_type: "3"
     difficulty_recommend: "7000,65;0,0;0,0;0,0;0,0"
@@ -29809,7 +29729,6 @@
     mission_group_id: 18
     open_mission_keys: 1079500:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100100,60,DropkickonMyDevil_Tip
     mapped_mission_id: 46005
     medal_type_silver: "1077203"
     difficulty_recommend: "10000,75;0,0;0,0;0,0;0,0"
@@ -29843,7 +29762,6 @@
     mission_group_id: 18
     open_mission_keys: 1078400:1
     round_config: 1:16,2:17,3:3
-    draw_code: 0;100100,60,DropkickonMyDevil_Tip
     mapped_mission_id: 46001
     win_type: "1077301"
     difficulty_recommend: "26000,99;0,0;0,0;0,0;0,0"
@@ -29876,7 +29794,6 @@
     mission_group_id: 18
     open_mission_keys: 1078600:1
     round_config: 1:16,2:17,3:3
-    draw_code: 0;100100,60,DropkickonMyDevil_Tip
     mapped_mission_id: 46002
     medal_type_silver: "1077403"
     difficulty_recommend: "28000,99;0,0;0,0;0,0;0,0"
@@ -29910,7 +29827,6 @@
     mission_group_id: 18
     open_mission_keys: 1078900:1
     round_config: 1:16,2:17,3:3
-    draw_code: 0;100100,60,DropkickonMyDevil_Tip
     mapped_mission_id: 46003
     win_type: "1077501"
     difficulty_recommend: "30000,99;0,0;0,0;0,0;0,0"
@@ -29942,7 +29858,6 @@
     mission_group_id: 18
     open_mission_keys: 1079300:1
     round_config: 1:16,2:17,3:3
-    draw_code: 0;100100,60,DropkickonMyDevil_Tip
     mapped_mission_id: 46004
     win_type: "3"
     difficulty_recommend: "32000,99;0,0;0,0;0,0;0,0"
@@ -29974,7 +29889,6 @@
     mission_group_id: 18
     open_mission_keys: 1079500:1
     round_config: 1:16,2:17,3:3
-    draw_code: 0;100100,60,DropkickonMyDevil_Tip
     mapped_mission_id: 46005
     medal_type_silver: "1077203"
     difficulty_recommend: "34000,99;0,0;0,0;0,0;0,0"
@@ -30007,7 +29921,6 @@
     mission_group_id: 18
     open_mission_keys: 1077200:1
     round_config: 1:16,2:17,3:3
-    draw_code: 0;100100,60,DropkickonMyDevil_Tip
     mapped_mission_id: 46006
     win_type: "1077801"
     difficulty_recommend: "1000,75;0,0;0,0;0,0;0,0"
@@ -30039,7 +29952,6 @@
     mission_group_id: 18
     open_mission_keys: 1077200:1
     round_config: 1:16,2:17,3:3
-    draw_code: 0;100100,60,DropkickonMyDevil_Tip
     mapped_mission_id: 46006
     win_type: "1077901"
     difficulty_recommend: "1000,99;0,0;0,0;0,0;0,0"
@@ -35708,7 +35620,6 @@
     drop_mission_key: "0,0,1027700:1"
     mission_group_id: 8
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: 2
     mapped_mission_id: 32001
     difficulty_recommend: "1000,15;0,0;0,0;0,0;0,0"
@@ -35742,7 +35653,6 @@
     mission_group_id: 8
     open_mission_keys: 1027700:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: 2
     open_mission_items: 8002:100
     mapped_mission_id: 32002
@@ -35779,7 +35689,6 @@
     mission_group_id: 8
     open_mission_keys: 1027800:1
     round_config: 1:1,2:4,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: 2
     open_mission_items: 8002:100
     mapped_mission_id: 32003
@@ -35815,7 +35724,6 @@
     mission_group_id: 8
     open_mission_keys: 1027900:1
     round_config: 1:1,2:4,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: 2
     open_mission_items: 8002:100
     mapped_mission_id: 32004
@@ -35851,7 +35759,6 @@
     mission_group_id: 8
     open_mission_keys: 1028000:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: 2
     open_mission_items: 8002:100
     mapped_mission_id: 32005
@@ -35887,7 +35794,6 @@
     mission_group_id: 8
     open_mission_keys: 1028100:1
     round_config: 1:1,2:4,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: 2
     open_mission_items: 8002:100
     mapped_mission_id: 32006
@@ -35922,7 +35828,6 @@
     mission_group_id: 8
     open_mission_keys: 1028200:1
     round_config: 1:1,2:2,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: 2
     open_mission_items: 8002:100
     mapped_mission_id: 32007
@@ -35958,7 +35863,6 @@
     mission_group_id: 8
     open_mission_keys: 1028300:1
     round_config: 1:1,2:4,3:3
-    draw_code: 0;100114,80,VA11_MissionPanelTip
     limit_squad: 2
     open_mission_items: 8002:100
     mapped_mission_id: 32008
@@ -36034,7 +35938,6 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "987"
-    support_available: 1
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "25000,100;0,0;0,0;0,0;0,0"
     recommended_team_ids: "6,1"
@@ -36083,7 +35986,6 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "987"
-    support_available: 1
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "25000,100;0,0;0,0;0,0;0,0"
     recommended_team_ids: "1"
@@ -36132,7 +36034,6 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "989"
-    support_available: 1
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "25000,100;0,0;0,0;0,0;0,0"
     recommended_team_ids: "8,1,6"
@@ -36181,7 +36082,6 @@
     fog_length: "0,500"
     fog_color: "#000000FF"
     draw_event_s_id: "989"
-    support_available: 1
     round_config: 1:1,2:2,3:3
     difficulty_recommend: "25000,100;0,0;0,0;0,0;0,0"
     recommended_team_ids: "6"
@@ -50530,7 +50430,6 @@
     mission_group_id: 31
     open_mission_keys: 1149900:1
     round_config: 1:1,2:33,3:3
-    draw_code: 0;100204,60,2024Ghost_MissionPanelTip
     mapped_mission_id: 64001
     win_type: "1149801"
     difficulty_recommend: "0,0;0,0;0,0;0,0"
@@ -50614,7 +50513,6 @@
     mission_group_id: 31
     open_mission_keys: 1151500:1
     round_config: 1:1,2:33,3:3
-    draw_code: 0;100204,60,2024Ghost_MissionPanelTip
     mapped_mission_id: 64002
     win_type: "4"
     difficulty_recommend: "0,0;0,0;0,0;0,0"
@@ -50675,7 +50573,6 @@
     mission_group_id: 31
     open_mission_keys: 1152200:1
     round_config: 1:1,2:33,3:3
-    draw_code: 0;100204,60,2024Ghost_MissionPanelTip
     mapped_mission_id: 64003
     win_type: "1150301"
     difficulty_recommend: "0,0;0,0;0,0;0,0"
@@ -50735,7 +50632,6 @@
     mission_group_id: 31
     open_mission_keys: 1152400:1
     round_config: 1:1,2:33,3:3
-    draw_code: 0;100204,60,2024Ghost_MissionPanelTip
     limit_squad: 1
     mapped_mission_id: 64004
     win_type: "4"
@@ -50771,7 +50667,6 @@
     mission_group_id: 31
     open_mission_keys: 1152600:1
     round_config: 1:1,2:33,3:3
-    draw_code: 0;100204,60,2024Ghost_MissionPanelTip
     mapped_mission_id: 64005
     win_type: "1150601"
     medal_type_silver: "640101"
@@ -50804,7 +50699,6 @@
     mission_group_id: 31
     open_mission_keys: 1152800:1
     round_config: 1:1,2:33,3:3
-    draw_code: 0;100204,60,2024Ghost_MissionPanelTip
     mapped_mission_id: 64006
     win_type: "1150701"
     difficulty_recommend: "0,0;0,0;0,0;0,0"
@@ -50864,7 +50758,6 @@
     mission_group_id: 31
     open_mission_keys: 1149900:1
     round_config: 1:1,2:33,3:3
-    draw_code: 0;100204,60,2024Ghost_MissionPanelTip
     mapped_mission_id: 64001
     difficulty_recommend: "0,0;0,0;0,0;0,0"
     restart_hide: 1
@@ -50948,7 +50841,6 @@
     mission_group_id: 31
     open_mission_keys: 1151500:1
     round_config: 1:1,2:33,3:3
-    draw_code: 0;100204,60,2024Ghost_MissionPanelTip
     mapped_mission_id: 64002
     win_type: "4"
     difficulty_recommend: "0,0;0,0;0,0;0,0"
@@ -51009,7 +50901,6 @@
     mission_group_id: 31
     open_mission_keys: 1152200:1
     round_config: 1:1,2:33,3:3
-    draw_code: 0;100204,60,2024Ghost_MissionPanelTip
     mapped_mission_id: 64003
     win_type: "1151401"
     difficulty_recommend: "0,0;0,0;0,0;0,0"
@@ -51069,7 +50960,6 @@
     mission_group_id: 31
     open_mission_keys: 1152400:1
     round_config: 1:1,2:33,3:3
-    draw_code: 0;100204,60,2024Ghost_MissionPanelTip
     limit_squad: 1
     mapped_mission_id: 64004
     win_type: "4"
@@ -51105,7 +50995,6 @@
     mission_group_id: 31
     open_mission_keys: 1152600:1
     round_config: 1:1,2:33,3:3
-    draw_code: 0;100204,60,2024Ghost_MissionPanelTip
     mapped_mission_id: 64005
     win_type: "1151701"
     medal_type_silver: "640101"
@@ -51138,7 +51027,6 @@
     mission_group_id: 31
     open_mission_keys: 1152800:1
     round_config: 1:1,2:33,3:3
-    draw_code: 0;100204,60,2024Ghost_MissionPanelTip
     mapped_mission_id: 64006
     win_type: "1150701"
     difficulty_recommend: "0,0;0,0;0,0;0,0"
@@ -54090,6 +53978,7 @@
     expect_turn: 1
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "343"
     map_res_name: BloodNetwork_Y;BloodNetwork_Y
     map_information: "8000,8000|4400,3000|-1600,1700;8000,8000|4200,3300|1100,-1200"
     fog_length: "0,500;0,500"
@@ -54192,6 +54081,7 @@
     expect_turn: 2
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "162"
     map_res_name: OPS303_Y
     map_information: "12000,12000|6000,4400|1050,2700"
     fog_length: "0,500"
@@ -54319,6 +54209,7 @@
     expect_turn: 4
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "73"
     map_res_name: BloodNetwork_Y
     map_information: "8000,8000|5500,3000|0,-370"
     fog_length: "0,500"
@@ -54418,10 +54309,11 @@
     exp_parameter: 43
     type: "2"
     enemy_ai_type: 4
-    expect_enemy_die_num: 5
+    expect_enemy_die_num: 4
     expect_turn: 4
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "357"
     map_res_name: BloodNetwork_Y
     map_information: "12000,12000|6200,4000|-2500,-1150"
     fog_length: "0,500"
@@ -54525,6 +54417,7 @@
     expect_turn: 4
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "341"
     map_res_name: OPS304_Y
     map_information: "8000,8000|7500,4500|0,-1000"
     fog_length: "0,500"
@@ -54628,6 +54521,7 @@
     expect_turn: 2
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "343"
     map_res_name: BloodNetwork_Y;BloodNetwork_Y
     map_information: "13000,13000|6200,4200|1700,-1500;13000,13000|5400,3800|1850,-1700"
     fog_length: "0,500;0,500"
@@ -54655,6 +54549,7 @@
     expect_turn: 4
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "162"
     map_res_name: OPS303_Y
     map_information: "12000,12000|6600,5000|300,2300"
     fog_length: "0,500"
@@ -54682,6 +54577,7 @@
     expect_turn: 5
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "73"
     map_res_name: BloodNetwork_Y
     map_information: "8000,8000|6800,3700|300,-400"
     fog_length: "0,500"
@@ -54710,6 +54606,7 @@
     expect_turn: 4
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "357"
     map_res_name: BloodNetwork_Y
     map_information: "12000,12000|6200,4000|-2400,-1150"
     fog_length: "0,500"
@@ -54738,6 +54635,7 @@
     expect_turn: 4
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "341"
     map_res_name: OPS304_Y
     map_information: "8000,8000|7500,4500|0,-1300"
     fog_length: "0,500"
@@ -54766,6 +54664,7 @@
     expect_turn: 2
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "343,162,73,357,341"
     map_res_name: OPS303_Y
     map_information: "12000,12000|6500,4500|500,2500"
     fog_length: "0,500"
@@ -54794,6 +54693,7 @@
     expect_turn: 2
     boss_team_id: "1"
     turn_duration: 360000000
+    limit_gun_pool: "343,162,73,357,341"
     map_res_name: OPS304_Y
     map_information: "12000,12000|7500,4500|-2500,0"
     fog_length: "0,500"

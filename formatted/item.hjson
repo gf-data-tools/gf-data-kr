@@ -20472,6 +20472,34 @@
     detail_introduction: item-30100264
   }
   {
+    id: 100265
+    type: 4
+    arg: "100265"
+    code: Nova_medal
+    item_name: 노바훈장·은염색 현상
+    introduction: 노바훈장·은염색 현상
+    rank: 1
+  }
+  {
+    id: 100266
+    type: 4
+    arg: "100266"
+    code: Platinum_medal
+    item_name: 백금훈장·은염색 현상
+    introduction: 백금훈장·은염색 현상
+    rank: 1
+  }
+  {
+    id: 100267
+    type: 9
+    arg: "100267"
+    code: Coin_202408AngularGyrus
+    item_name: 결승의 폰
+    introduction: 흑백이 교차하는 말판 위에서 오직 폰만이 후퇴할 권리가 없다.
+    rank: 1
+    daily_limit: 60;180
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -25977,6 +26005,87 @@
     code: package_random
     item_name: 전선협약-추가보상
     introduction: 전선협약-백사장 일광욕 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500210
+    type: 15
+    arg: "1500210"
+    code: Bumdle_Angulargyrus01
+    item_name: 은염색 현상 한정 코스튬 쿠폰·α
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500211
+    type: 15
+    arg: "1500211"
+    code: Bumdle_Angulargyrus02
+    item_name: 은염색 현상 한정 코스튬 쿠폰·β
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500212
+    type: 15
+    arg: "1500212"
+    code: Bumdle_Angulargyrus03
+    item_name: 은염색 현상 한정 코스튬 쿠폰·γ
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500213
+    type: 15
+    arg: "1500213"
+    code: Bumdle_invocation_3
+    item_name: 4성 인형 임용장
+    introduction: 창고에서 이 임용장을 사용하면 지정 범위 중 4성 인형을 하나 선택해 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500214
+    type: 15
+    arg: "1500214"
+    code: Bumdle_invocation_2
+    item_name: 5성 인형 임용장
+    introduction: 창고에서 이 임용장을 사용하면 지정 범위 중 5성 인형을 하나 선택해 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500215
+    type: 15
+    arg: "1500215"
+    code: Bumdle_sangvischoose
+    item_name: 혼합세력 지정회수 의뢰서
+    introduction:
+      '''
+      창고에서 이 의뢰서를 사용하면 지정 범위 중 태생 3성 혼합세력유닛을 하나 선택해 획득할 수 있습니다.
+      *"혼합세력" 시스템을 아직 해금하지 않은 경우 얻은 유닛을 바로 사용할 수 없습니다. 해당 시스템을 해금한 이후 정상 사용 가능합니다.
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500216
+    type: 15
+    arg: "1500216"
+    code: Bumdle_equipment
+    item_name: 5성 장비 선택 증서
+    introduction: 창고에서 이 증서를 사용하면 지정 범위 중 전용장비 이외 5성 장비를 하나 선택해 획득할 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1
