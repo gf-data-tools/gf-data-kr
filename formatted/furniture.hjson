@@ -30981,6 +30981,84 @@
     rotate: "3"
   }
   {
+    id: 20167
+    name: 여전히 따듯한 집
+    classes: 81
+    type: 203
+    space: "12,6,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 안녕히 다녀오셨어요, 지휘관님! 다시 만나기를 기다리는 동안 엘모호를 꾸준히 청소해서 난간 하나하나까지 반짝반짝 빛난다고요!
+    code: 2025SteamReturn_01,SteamReturn,2025SteamReturn_02
+    texture_type: "1,2,1"
+    sorting: "-20,-10,0"
+    offset: "0.000,-1.022,0.000|0.000,0.146,0.000|0.000,-1.001,0.000"
+    rotate: "2,2,2"
+    interact_point: "83128"
+    interact_point_offset: *0.292,0.1,0
+  }
+  {
+    id: 20168
+    name: 잠입 박스
+    classes: 19
+    type: 201
+    space: "8,4,0,0,0,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 흔해빠진 종이상자. 인형 한 명 들어갈만한 크기지만 고양이가 아니면 들어갈 생각은 없을 것이다. "그래서 왜 여기에 토카레프가 숨어있는 건데... 잠입 박스라고? 그렇게도 쓸 수 있는 거야?"
+    code: 202505Activity_ 1
+    texture_type: "2"
+    sorting: "15"
+    offset: "-0.344,0.313,0.000"
+    rotate: "2"
+    touch_area: "3,3,3"
+  }
+  {
+    id: 20169
+    name: 구금의 눈
+    classes: 19
+    type: 201
+    space: "3,3,0,0,0,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 구금 효과를 가진 감시카메라. 차가운 전자눈이 적을 단단히 가둘 수 있습니다. 여기서 녀석의 자비와 당신의 자유 모두 사치품이니까요.
+    code: 202505Activity_ 2
+    texture_type: "2"
+    sorting: "15"
+    offset: "-0.094,0.156,-0.031"
+    rotate: "2"
+    touch_area: "3,5,3"
+  }
+  {
+    id: 20170
+    name: 로슈 한계 훈장
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: '''"로슈 한계" 이벤트에서 눈부신 성과를 거둔 지휘관과 휘하 전술인형에게 수여합니다. "초연이 흩어진 그끝에 당신의 모습이 여전히 남아있었군요."'''
+    code: 202505Activity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 20171
+    name: 포스터-2024 합성곱
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2024 특별 이벤트-합성곱의 포스터.
+    code: pv_202412activity
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
+    rotate: "3"
+  }
+  {
     id: 30001
     name: 마카로프 - 잭오랜턴
     classes: 300
@@ -47818,6 +47896,21 @@
     decompose_gift: 100003
     description: 베오울프의 포스터
     code: poster_BattlePass_Beowulf
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330029
+    name: LTLX7000 - 한여름 밤의 약속
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: LTLX7000의 포스터
+    code: poster_BattlePass_LTLX7000
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

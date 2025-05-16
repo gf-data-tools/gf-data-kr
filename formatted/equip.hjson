@@ -6124,8 +6124,10 @@
     powerup_part: 0.38
     exclusive_rate: 3
     bonus_type: pow:500,hit:1000
+    passive_skill: "1006501"
     max_level: 10
     auto_select_id: 20032
+    group_id: "54"
     is_show: 1
     obtain_ids: "3016"
   }
@@ -6195,6 +6197,7 @@
     auto_select_id: 18063
     is_show: 1
     obtain_ids: "3016"
+    description_skill: 902133
   }
   {
     id: 208
@@ -7135,6 +7138,7 @@
     group_id: "45"
     is_show: 1
     obtain_ids: "3007,3096"
+    description_skill: 116201
   }
   {
     id: 237
@@ -12364,7 +12368,7 @@
     max_level: 10
     auto_select_id: 19075
     is_show: 1
-    obtain_ids: "3104"
+    obtain_ids: "3104,3096"
     description_skill: 1001001
   }
   {
@@ -12798,9 +12802,10 @@
     powerup_part: 0.16
     exclusive_rate: 3
     bonus_type: critical_harm_rate:500,pow:1000
-    passive_skill: "759059"
+    passive_skill: "759059,1006401"
     max_level: 10
     auto_select_id: 20084
+    group_id: "53"
     is_show: 1
     obtain_ids: "3115"
     sp_description: 초기 쿨타임-80%
@@ -13081,7 +13086,7 @@
     max_level: 10
     auto_select_id: 20089
     is_show: 1
-    obtain_ids: "3108"
+    obtain_ids: "3108,3096"
     description_skill: 1002201
   }
   {
@@ -14346,5 +14351,107 @@
     is_show: 1
     obtain_ids: "3125"
     description_skill: 1006301
+  }
+  {
+    id: 451
+    name: 폭렬 의수
+    description:
+      '''
+      치명률+<critical_percent><%> 회피<dodge>
+      치명상+<critical_harm_rate><%>$M4 SOPMODII 전용
+      '''
+    rank: 5
+    category: 1
+    type: 16
+    dodge: "-6,-6"
+    critical_harm_rate: "8,10"
+    critical_percent: "21,25"
+    retire_mp: 4
+    retire_ammo: 3
+    retire_part: 2
+    code: Accessories_SP_M4SOPMODII
+    develop_duration: 3060
+    company: IOP
+    fit_guns: "56,20056"
+    equip_introduction: 파괴력을 전면 강화한 의수. "바나나"의 증폭을 받아 어마어마한 힘을 발휘합니다.
+    powerup_mp: 0.3
+    powerup_ammo: 0.23
+    powerup_mre: 0.15
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: critical_harm_rate:500,critical_percent:1000
+    passive_skill: "1006001"
+    max_level: 10
+    auto_select_id: 18123
+    is_show: 1
+    obtain_ids: "3133"
+    description_skill: 1006001
+  }
+  {
+    id: 452
+    name: BC 억제기
+    description:
+      '''
+      치명률+<critical_percent><%>
+      사속+<rate>$DSR-50 전용
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    rate: "1,2"
+    critical_percent: "17,24"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: Accessories_SP_DSR50
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "179"
+    equip_introduction: DSR-50를 위해 특별 제작된 억제기. 격발 시 소음을 대폭 줄일 수 있습니다.
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: rate:1000,critical_percent:1000
+    passive_skill: "1006402"
+    max_level: 10
+    auto_select_id: 18124
+    group_id: "53"
+    is_show: 1
+    obtain_ids: "3096"
+  }
+  {
+    id: 453
+    name: GL 강화탄
+    description:
+      '''
+      화력+<pow>
+      $갈릴 Mod 전용
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    pow: "10,14"
+    retire_ammo: 5
+    retire_mre: 3
+    retire_part: 2
+    code: Magazine_SP_ARMod
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "20071"
+    equip_introduction: 갈릴의 취향에 맞춰 제작된 총알. 만만치 않은 살상력을 가졌습니다.
+    powerup_mp: 0.15
+    powerup_ammo: 0.6
+    powerup_mre: 0.38
+    powerup_part: 0.23
+    exclusive_rate: 3
+    bonus_type: pow:750
+    passive_skill: "1006502"
+    max_level: 10
+    auto_select_id: 19093
+    group_id: "54"
+    is_show: 1
+    obtain_ids: "3096"
   }
 ]

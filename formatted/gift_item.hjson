@@ -13532,6 +13532,22 @@
     type_sort: 6
   }
   {
+    id: 30029
+    name: LTLX7000 - 한여름 밤의 약속
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 323
+    skin: 30029
+    poster: 330029
+    code: gift_bundle_BattlePass_LTLX7000
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 50001
     name: 한양조 88식 - 별들에게
     type: 2

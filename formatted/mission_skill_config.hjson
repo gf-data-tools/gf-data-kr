@@ -8672,7 +8672,7 @@
     spot_belong: "0,1,2,3"
     spot_echelon: "1,8,10"
     start_range: 3
-    trigger_id: 44000300&&1
+    trigger_id: "44000300"
     mission_buff_add: 440001:1
     subsidiary_mission_skill: "440003"
     is_manual: 440001
@@ -8687,7 +8687,7 @@
     spot_belong: "0,1,2,3"
     spot_echelon: "4,5,6"
     start_range: 3
-    trigger_id: 44000400&&1
+    trigger_id: "44000400"
     target_id: "44000500"
     mission_buff_add: 440002:1
     subsidiary_mission_skill: "440004"
@@ -10955,7 +10955,7 @@
     spot_echelon: "-1"
     cd_time_type: 1
     start_range: 99
-    trigger_id: 48181300&&48181400&&1
+    trigger_id: 48181300&&48181400
     target_id: 48180201||48180301
     special_spot_add: 481813:1
     is_manual: 481813
@@ -10999,7 +10999,7 @@
     spot_echelon: "-1"
     cd_time_type: 1
     start_range: 99
-    trigger_id: 100007201&&1
+    trigger_id: "100007201"
     target_id: 48190201||48190301||48190501||1
     special_spot_add: 481901:1
     subsidiary_mission_skill: "1000073"
@@ -11096,7 +11096,7 @@
     cd_time_type: 1
     start_range: 99
     is_airborne: 2
-    trigger_id: 48190101&&1
+    trigger_id: "48190101"
     target_id: "48190201"
     is_manual: 481912
   }
@@ -11111,7 +11111,7 @@
     spot_echelon: "-1"
     cd_time_type: 1
     start_range: 99
-    trigger_id: 48190101&&100007201&&1
+    trigger_id: 48190101&&100007201
     target_id: "48190501"
     special_spot_add: 481913:1
     subsidiary_mission_skill: "1000073"
@@ -11176,7 +11176,7 @@
     cd_time_type: 1
     start_range: 99
     data_pool: "30"
-    trigger_id: 48190603&&100007201&&1
+    trigger_id: 48190603&&100007201
     target_id: "48200301"
     special_spot_add: 482002:1
     subsidiary_mission_skill: "1000073"
@@ -11298,7 +11298,7 @@
     spot_echelon: "-1"
     cd_time_type: 1
     start_range: 99
-    trigger_id: 100007201&&1
+    trigger_id: "100007201"
     target_id: "48220201"
     special_spot_minus: 482202:1
     is_manual: 482201
@@ -11486,7 +11486,7 @@
     cd_time_type: 1
     start_range: 99
     effect_target: "1000017"
-    trigger_id: 48221810&&100007201&&1
+    trigger_id: 48221810&&100007201
     target_id: 48220801&&48220900
     special_spot_add: 482219:1
     subsidiary_mission_skill: "1000073"
@@ -12315,7 +12315,7 @@
     cd_time_type: 1
     start_range: 99
     effect_target: "1007"
-    trigger_id: 100007201&&1
+    trigger_id: "100007201"
     target_id: 48000001&&48250201
     special_spot_add: 482501:1
     subsidiary_mission_skill: "1000073"
@@ -12903,7 +12903,7 @@
     spot_echelon: "-1"
     cd_time_type: 1
     start_range: 99
-    trigger_id: 100007201&&1
+    trigger_id: "100007201"
     target_id: 48410501||1
     special_spot_add: 484107:1
     subsidiary_mission_skill: "1000073"
@@ -64890,7 +64890,7 @@
     spot_echelon: "-1"
     start_range: 99
     data_pool: "100"
-    trigger_id: "100005290"
+    trigger_id: 100006990&&936340101
     target_id: "120010191"
     special_spot_add: 1000056:1,1000010:1,1000052:1
     subsidiary_mission_skill: "9130107,9130113"
@@ -64911,7 +64911,7 @@
     spot_echelon: "-1"
     start_range: 99
     data_pool: "100"
-    trigger_id: "100005290"
+    trigger_id: 100006990&&936340101
     target_id: "120020191"
     special_spot_add: 1000056:1,1000010:1,1000052:1
     subsidiary_mission_skill: "9130108,9130113"
@@ -64932,7 +64932,7 @@
     spot_echelon: "-1"
     start_range: 99
     data_pool: "100"
-    trigger_id: "100005290"
+    trigger_id: 100006990&&936340101
     target_id: "120030191"
     special_spot_add: 1000056:1,1000010:1,1000052:1
     subsidiary_mission_skill: "9130109,9130113"
@@ -64953,7 +64953,7 @@
     spot_echelon: "-1"
     start_range: 99
     data_pool: "100"
-    trigger_id: "100005290"
+    trigger_id: 100006990&&936340101
     target_id: "120040191"
     special_spot_add: 1000056:1,1000010:1,1000052:1
     subsidiary_mission_skill: "9130110,9130113"
@@ -64974,7 +64974,7 @@
     spot_echelon: "-1"
     start_range: 99
     data_pool: "100"
-    trigger_id: "100005290"
+    trigger_id: 100006990&&936340101
     target_id: "120050191"
     special_spot_add: 1000056:1,1000010:1,1000052:1
     subsidiary_mission_skill: "9130111,9130113"
@@ -64995,7 +64995,7 @@
     spot_echelon: "-1"
     start_range: 99
     data_pool: "100"
-    trigger_id: "100005290"
+    trigger_id: 100006990&&936340101
     target_id: "120060191"
     special_spot_add: 1000056:1,1000010:1,1000052:1
     subsidiary_mission_skill: "9130112,9130113"
@@ -65082,7 +65082,7 @@
     spot_belong: "-1"
     spot_echelon: "-1"
     target_id: "936340101"
-    special_spot_add: 1000052:1
+    special_spot_add: 1000069:1
   }
   {
     id: 9130114
@@ -65099,7 +65099,7 @@
     spot_echelon: "-1"
     start_range: 99
     data_pool: "100"
-    trigger_id: "100005290"
+    trigger_id: 100006990&&936340101
     target_id: "104010091"
     special_spot_add: 1000056:1,1000010:1,1000052:1
     subsidiary_mission_skill: "9130113"
@@ -65120,7 +65120,7 @@
     spot_echelon: "-1"
     start_range: 99
     data_pool: "100"
-    trigger_id: "100005290"
+    trigger_id: 100006990&&936340101
     target_id: "104020091"
     special_spot_add: 1000056:1,1000010:1,1000052:1
     subsidiary_mission_skill: "9130113"
@@ -65167,7 +65167,7 @@
     spot_echelon: "-1"
     start_range: 99
     data_pool: "100"
-    trigger_id: "100005290"
+    trigger_id: 100006990&&936340101
     target_id: "100010091"
     special_spot_add: 1000056:1,1000010:1,1000052:1
     subsidiary_mission_skill: "9130202,9130113"
@@ -70955,7 +70955,7 @@
     spot_belong: "-1"
     spot_echelon: "-1"
     start_range: 99
-    trigger_id: 101010190&&101020190&&101030190&&101040190&&102010191
+    trigger_id: 101010190&&101020190&&101030190&&101040190&&102010191&&1
     target_id: "102010091"
     special_spot_minus: 1020101:1,1000001:1
     subsidiary_mission_skill: "1000002,1020102"
@@ -78902,7 +78902,7 @@
     spot_echelon: "-1"
     cd_time_type: 1
     target_id: "1"
-    subsidiary_mission_skill: "9721603,9721604"
+    subsidiary_mission_skill: "9721603"
   }
   {
     id: 9721602
@@ -78942,6 +78942,20 @@
     start_range: 1
     target_id: 102010091&&101030190
     special_spot_add: 1010201:1,1010301:1
+  }
+  {
+    id: 9721605
+    name: mission_skill_config-19721605
+    description: mission_skill_config-29721605
+    lvup_description: mission_skill_config-39721605
+    skill_group_id: 9721605
+    level: 1
+    spot_type: "-1"
+    spot_belong: "-1"
+    spot_echelon: "-1"
+    cd_time_type: 1
+    target_id: "1"
+    subsidiary_mission_skill: "9721604"
   }
   {
     id: 9722701

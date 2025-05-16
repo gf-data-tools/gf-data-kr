@@ -469,4 +469,22 @@
     group_skill: 2:1006203
     fit_gun: "20031"
   }
+  {
+    id: 53
+    name: 다크나이트 앤젤
+    des: DSR-50에게 맞춤 제작된 세트. 어두운 밤 예상 밖의 효과가 있다고 합니다.
+    code: EgroupDSR50
+    equip_unit: "0,452,405"
+    group_skill: 2:1006403
+    fit_gun: "179"
+  }
+  {
+    id: 54
+    name: 사막의 호랑이
+    des: 갈릴에게 맞춤 제작된 세트. 극한 환경에서도 강력한 성능을 발휘합니다.
+    code: EgroupAR
+    equip_unit: "0,453,205"
+    group_skill: 2:1006503
+    fit_gun: "20071"
+  }
 ]
