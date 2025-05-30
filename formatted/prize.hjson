@@ -17219,642 +17219,767 @@
   }
   {
     id: 2851
-    name: 로슈 한계6+a
+    name: prize-10002851
     item_ids: 100270-6,100268-1
+    content: prize-20002851
   }
   {
     id: 2852
-    name: 로슈 한계8+a
+    name: prize-10002852
     item_ids: 100270-8,100268-1
+    content: prize-20002852
   }
   {
     id: 2853
-    name: 로슈 한계10+a
+    name: prize-10002853
     item_ids: 100270-10,100268-1
+    content: prize-20002853
   }
   {
     id: 2854
-    name: 로슈 한계10+b
+    name: prize-10002854
     item_ids: 100270-10,100269-1
+    content: prize-20002854
   }
   {
     id: 2855
-    name: 로슈 한계10+2a
+    name: prize-10002855
     item_ids: 100270-10,100268-2
+    content: prize-20002855
   }
   {
     id: 2856
-    name: 로슈 한계10+a+b
+    name: prize-10002856
     item_ids: 100270-10,100268-1,100269-1
+    content: prize-20002856
   }
   {
     id: 2857
-    name: 로슈 한계12+b
+    name: prize-10002857
     item_ids: 100270-12,100269-1
+    content: prize-20002857
   }
   {
     id: 2858
-    name: 로슈 한계12+2a
+    name: prize-10002858
     item_ids: 100270-12,100268-2
+    content: prize-20002858
   }
   {
     id: 2859
-    name: 로슈 한계15+b
+    name: prize-10002859
     item_ids: 100270-15,100269-1
+    content: prize-20002859
   }
   {
     id: 2860
-    name: 로슈 한계15+2b
+    name: prize-10002860
     item_ids: 100270-15,100269-2
+    content: prize-20002860
   }
   {
     id: 2861
-    name: 로슈 한계15+2a+2b
+    name: prize-10002861
     item_ids: 100270-15,100268-2,100269-2
+    content: prize-20002861
   }
   {
     id: 2862
-    name: 로슈 한계20+2b
+    name: prize-10002862
     item_ids: 100270-20,100269-2
+    content: prize-20002862
   }
   {
     id: 2863
-    name: 로슈 한계6
+    name: prize-10002863
     item_ids: 100270-6
+    content: prize-20002863
   }
   {
     id: 2864
-    name: 로슈 한계8
+    name: prize-10002864
     item_ids: 100270-8
+    content: prize-20002864
   }
   {
     id: 2865
-    name: 로슈 한계10
+    name: prize-10002865
     item_ids: 100270-10
+    content: prize-20002865
   }
   {
     id: 2866
-    name: 로슈 한계12
+    name: prize-10002866
     item_ids: 100270-12
+    content: prize-20002866
   }
   {
     id: 2867
-    name: 로슈 한계15
+    name: prize-10002867
     item_ids: 100270-15
+    content: prize-20002867
   }
   {
     id: 2868
-    name: 로슈 한계20
+    name: prize-10002868
     item_ids: 100270-20
+    content: prize-20002868
   }
   {
     id: 2869
-    name: 로슈 한계a
+    name: prize-10002869
     item_ids: 100268-1
+    content: prize-20002869
   }
   {
     id: 2870
-    name: 로슈 한계b
+    name: prize-10002870
     item_ids: 100269-1
+    content: prize-20002870
   }
   {
     id: 2871
-    name: 로슈 한계2a
+    name: prize-10002871
     item_ids: 100268-2
+    content: prize-20002871
   }
   {
     id: 2872
-    name: 로슈 한계2b
+    name: prize-10002872
     item_ids: 100269-2
+    content: prize-20002872
   }
   {
     id: 2873
-    name: M4 SOPMODII 전용: 폭렬 의수
+    name: prize-10002873
     equip_ids: "451"
+    content: prize-20002873
   }
   {
     id: 2874
-    name: 요정: 전자기 요정
+    name: prize-10002874
+    content: prize-20002874
     fairy_ids: 37-757250
   }
   {
     id: 2875
-    name: Super-Shorty 전용 - 순경 모자
+    name: prize-10002875
     equip_ids: "450"
+    content: prize-20002875
   }
   {
     id: 2876
-    name: HTI
+    name: prize-10002876
     gun_id: "407"
+    content: prize-20002876
   }
   {
     id: 2877
-    name: 4성 인형 임용장
+    name: prize-10002877
     gun_id: "1,7,99,100,98,168,202,212,248,269,310,332,346,354,358,370,379,383,26,101,103,23,136,150,102,177,137,225,203,280,286,295,304,328,336,355,363,364,380,392,36,39,42,117,43,146,180,184,200,226,235,247,252,270,273,305,317,360,371,60,64,66,69,72,118,171,187,207,216,227,237,262,288,297,330,335,343,344,349,373,382,394,405,75,78,85,88,121,240,149,185,199,254,264,275,319,362,396,153,155,156,162,165,189,283,302,325,326,352,353,368"
+    content: prize-20002877
   }
   {
     id: 2878
-    name: 5성 인형 임용장
+    name: prize-10002878
     gun_id: "96,97,114,126,142,166,183,4,233,242,250,260,272,285,294,303,331,357,369,375,399,400,16,20,115,104,127,135,28,59,213,224,234,228,245,251,259,311,315,333,341,347,359,376,384,391,401,46,48,50,53,128,148,179,192,197,198,204,211,222,231,257,261,266,296,312,316,329,334,337,348,377,381,388,389,402,403,62,65,106,119,122,129,130,172,175,181,194,196,206,205,215,73,236,243,214,274,287,289,293,290,306,313,318,338,340,342,356,361,365,372,378,385,390,393,404,109,112,125,173,208,238,253,263,276,292,307,339,345,374,386,395,406,157,151,160,163,164,229,188,281,282,323,324,350,351,366,367,387,397,398"
+    content: prize-20002878
   }
   {
     id: 2879
-    name: 혼합세력 지정회수 의뢰서
+    name: prize-10002879
     sangvis: "1001,1002,1003,1004,1005,1006,1007,1008,1009,1010,1011,1012,1013,1014,1015,1016,1017,1018,1019,1020,1021,1022,1023,1024,1025,1026,1027,1028,1029"
+    content: prize-20002879
   }
   {
     id: 2880
-    name: 5성 장비 선택 증서
+    name: prize-10002880
     equip_ids: "4,8,12,16,20,32,40,44,58,66,68,72,76,80,90,224,225,227,229,231,234,235,305,308,309,311,314"
+    content: prize-20002880
   }
   {
     id: 2881
-    name: 9주년 복주머니
+    name: prize-10002881
     gem: 520
     item_ids: 7-1,41-100,44-1000,1500225-1
+    content: prize-20002881
     icon: Bumdle_9yearpackage
     fairy_ids: 26-0-100-5
   }
   {
     id: 2882
-    name: 가구: 잠입 상자
+    name: prize-10002882
     furniture: "20168"
+    content: prize-20002882
   }
   {
     id: 2883
-    name: 가구: 구금의 눈
+    name: prize-10002883
     furniture: "20169"
+    content: prize-20002883
   }
   {
     id: 2884
-    name: 9주년 코스튬 쿠폰
-    gift: 10501-1,10601-1,10803-1,10906-1,11003-1,11101-1
+    name: prize-10002884
+    gift: 10501-1,10601-1,10703-1,10803-1,10906-1,11003-1,11101-1
+    content: prize-20002884
     icon: Bumdle_9yearpackage
-    fairy_ids: 26-0-100-5
   }
   {
     id: 2885
-    name: 2000보석
+    name: prize-10002885
     gem: 2000
+    content: prize-20002885
     icon: Bumdle_9yearpackage
-    fairy_ids: 26-0-100-5
   }
   {
     id: 2886
-    name: 레어 코스튬 추첨권·주년
+    name: prize-10002886
     item_ids: 1500226-1
+    content: prize-20002886
     icon: Bumdle_AnniversaryCoupons1
   }
   {
     id: 2887
-    name: 럭셔리 코스튬 추첨권·주년
+    name: prize-10002887
     item_ids: 1500227-1
+    content: prize-20002887
     icon: Bumdle_AnniversaryCoupons2
   }
   {
     id: 2888
-    name: 로열 코스튬 추첨권·주년
+    name: prize-10002888
     item_ids: 1500228-1
+    content: prize-20002888
     icon: Bumdle_AnniversaryCoupons3
   }
   {
     id: 2889
-    name: 스콜피온 - 붉은 은하수
+    name: prize-10002889
     gift: 801-1
+    content: prize-20002889
   }
   {
     id: 2890
-    name: M1918 - 준비된 세레나데
+    name: prize-10002890
     gift: 806-1
+    content: prize-20002890
   }
   {
     id: 2891
-    name: 스프링필드 - 등불 아래의 여왕
+    name: prize-10002891
     gift: 802-1
+    content: prize-20002891
   }
   {
     id: 2892
-    name: IDW - 상자 속 고양이
+    name: prize-10002892
     gift: 2108-1
+    content: prize-20002892
   }
   {
     id: 2893
-    name: EVO3 - 백야의 별 이야기
+    name: prize-10002893
     gift: 2109-1
+    content: prize-20002893
   }
   {
     id: 2894
-    name: 콜트 리볼버 - 기적의 여왕
+    name: prize-10002894
     gift: 2105-1
+    content: prize-20002894
   }
   {
     id: 2895
-    name: K5 - 운명의 왈츠
+    name: prize-10002895
     gift: 3308-1
+    content: prize-20002895
   }
   {
     id: 2896
-    name: G28 - 달빛과 에메랄드
+    name: prize-10002896
     gift: 3307-1
+    content: prize-20002896
   }
   {
     id: 2897
-    name: 썬더 - 블랙 스완의 꿈
+    name: prize-10002897
     gift: 3309-1
+    content: prize-20002897
   }
   {
     id: 2898
-    name: M1911 - 천공을 뚫는 자
+    name: prize-10002898
     gift: 4514-1
+    content: prize-20002898
   }
   {
     id: 2899
-    name: Zas M76 - 흑야의 댄서
+    name: prize-10002899
     gift: 4511-1
+    content: prize-20002899
   }
   {
     id: 2900
-    name: M4A1 - 소녀세계일주
+    name: prize-10002900
     gift: 530-1
+    content: prize-20002900
   }
   {
     id: 2901
-    name: UMP40 - 소원을 지키는 마녀
+    name: prize-10002901
     gift: 539-1
+    content: prize-20002901
   }
   {
     id: 2902
-    name: M16A1 - 애꾸 백토기사
+    name: prize-10002902
     gift: 533-1
+    content: prize-20002902
   }
   {
     id: 2903
-    name: UMP9 - 소원을 이룬 마술사
+    name: prize-10002903
     gift: 536-1
+    content: prize-20002903
   }
   {
     id: 2904
-    name: UMP45 - 소원을 좇는 마술사
+    name: prize-10002904
     gift: 535-1
+    content: prize-20002904
   }
   {
     id: 2905
-    name: M4 SOPMODII - 모두의 귀염둥이
+    name: prize-10002905
     gift: 531-1
+    content: prize-20002905
   }
   {
     id: 2906
-    name: ST AR-15 - 꽃밭의 실크햇
+    name: prize-10002906
     gift: 532-1
+    content: prize-20002906
   }
   {
     id: 2907
-    name: M16A1 - 폐허 위의 태양
+    name: prize-10002907
     gift: 553-1
+    content: prize-20002907
   }
   {
     id: 2908
-    name: M4A1 - 소나무 사이 햇볕
+    name: prize-10002908
     gift: 550-1
+    content: prize-20002908
   }
   {
     id: 2909
-    name: ST AR-15 - 환상의 봄바람
+    name: prize-10002909
     gift: 552-1
+    content: prize-20002909
   }
   {
     id: 2910
-    name: PPSh-41 - 풍선 저 너머에
+    name: prize-10002910
     gift: 5808-1
+    content: prize-20002910
   }
   {
     id: 2911
-    name: CZ-805 - 황금빛 메모리얼
+    name: prize-10002911
     gift: 5807-1
+    content: prize-20002911
   }
   {
     id: 2912
-    name: 64식 - 바람을 홀짝이며
+    name: prize-10002912
     gift: 7108-1
+    content: prize-20002912
   }
   {
     id: 2913
-    name: 나강 리볼버 - 네뷸라 크림
+    name: prize-10002913
     gift: 7107-1
+    content: prize-20002913
   }
   {
     id: 2914
-    name: MP-443 - 금박지 편지
+    name: prize-10002914
     gift: 7105-1
+    content: prize-20002914
   }
   {
     id: 2915
-    name: M1 개런드 - 별빛에 잠기다
+    name: prize-10002915
     gift: 8309-1
+    content: prize-20002915
   }
   {
     id: 2916
-    name: 9A-91 - 간직할 비밀
+    name: prize-10002916
     gift: 8304-1
+    content: prize-20002916
   }
   {
     id: 2917
-    name: Mk48 - 나이트 캡터
+    name: prize-10002917
     gift: 8306-1
+    content: prize-20002917
   }
   {
     id: 2918
-    name: 모신-나강 - 달빛 바다
+    name: prize-10002918
     gift: 803-1
+    content: prize-20002918
   }
   {
     id: 2919
-    name: M950A - "축제 시작이야!"
+    name: prize-10002919
     gift: 808-1
+    content: prize-20002919
   }
   {
     id: 2920
-    name: SR-3MP - 검은토끼 마키아또
+    name: prize-10002920
     gift: 807-1
+    content: prize-20002920
   }
   {
     id: 2921
-    name: WA2000 - 무도회의 쉼표
+    name: prize-10002921
     gift: 804-1
+    content: prize-20002921
   }
   {
     id: 2922
-    name: UMP9 - 세계의 노래
+    name: prize-10002922
     gift: 2106-1
+    content: prize-20002922
   }
   {
     id: 2923
-    name: UMP45 - 다이아몬드의 꽃
+    name: prize-10002923
     gift: 2107-1
+    content: prize-20002923
   }
   {
     id: 2924
-    name: Zas M21 - 화이트 퀸
+    name: prize-10002924
     gift: 2104-1
+    content: prize-20002924
   }
   {
     id: 2925
-    name: 웰로드MkⅡ - 해 질 무렵의 위기
+    name: prize-10002925
     gift: 2103-1
+    content: prize-20002925
   }
   {
     id: 2926
-    name: 79식 - 별빛의 폭스트롯
+    name: prize-10002926
     gift: 3306-1
+    content: prize-20002926
   }
   {
     id: 2927
-    name: M99 - 흰토끼 축제
+    name: prize-10002927
     gift: 3304-1
+    content: prize-20002927
   }
   {
     id: 2928
-    name: MDR - 연회 관측자
+    name: prize-10002928
     gift: 3305-1
+    content: prize-20002928
   }
   {
     id: 2929
-    name: AN-94 - 사일런트 레드
+    name: prize-10002929
     gift: 3303-1
+    content: prize-20002929
   }
   {
     id: 2930
-    name: AK-12 - 프리징 블루
+    name: prize-10002930
     gift: 3302-1
+    content: prize-20002930
   }
   {
     id: 2931
-    name: KSVK - 트루먼 여행객
+    name: prize-10002931
     gift: 4509-1
+    content: prize-20002931
   }
   {
     id: 2932
-    name: QBU-88 - 자연의 탐험가
+    name: prize-10002932
     gift: 4503-1
+    content: prize-20002932
   }
   {
     id: 2933
-    name: M200 - 전장의 취재자
+    name: prize-10002933
     gift: 4502-1
+    content: prize-20002933
   }
   {
     id: 2934
-    name: M16A1 - 앞길의 인도자
+    name: prize-10002934
     gift: 4506-1
+    content: prize-20002934
   }
   {
     id: 2935
-    name: RO635 - 규율의 집행인
+    name: prize-10002935
     gift: 4504-1
+    content: prize-20002935
   }
   {
     id: 2936
-    name: ST AR-15 - 꿈속의 수감자
+    name: prize-10002936
     gift: 4508-1
+    content: prize-20002936
   }
   {
     id: 2937
-    name: M4 SOPMODII - 연석의 약탈자
+    name: prize-10002937
     gift: 4507-1
+    content: prize-20002937
   }
   {
     id: 2938
-    name: M4A1 - 세월의 정착자
+    name: prize-10002938
     gift: 4505-1
+    content: prize-20002938
   }
   {
     id: 2939
-    name: RO635- 논밭의 수호자
+    name: prize-10002939
     gift: 534-1
+    content: prize-20002939
   }
   {
     id: 2940
-    name: HK416 - 천소초맛 알사탕
+    name: prize-10002940
     gift: 537-1
+    content: prize-20002940
   }
   {
     id: 2941
-    name: G11 - 용기를 원하는 토끼
+    name: prize-10002941
     gift: 538-1
+    content: prize-20002941
   }
   {
     id: 2942
-    name: M200 - 장엄한 행진
+    name: prize-10002942
     gift: 560-1
+    content: prize-20002942
   }
   {
     id: 2943
-    name: G36 - 광휘의 파수꾼
+    name: prize-10002943
     gift: 565-1
+    content: prize-20002943
   }
   {
     id: 2944
-    name: SL8 - 즉흥 랩소디
+    name: prize-10002944
     gift: 564-1
+    content: prize-20002944
   }
   {
     id: 2945
-    name: VHS - 익살극 백조의 호수
+    name: prize-10002945
     gift: 562-1
+    content: prize-20002945
   }
   {
     id: 2946
-    name: AUG Para - 제10번 세레나데
+    name: prize-10002946
     gift: 561-1
+    content: prize-20002946
   }
   {
     id: 2947
-    name: RO635 - 물에 잠긴 달
+    name: prize-10002947
     gift: 554-1
+    content: prize-20002947
   }
   {
     id: 2948
-    name: VSK-94 - 은하수 흐르는 밤에
+    name: prize-10002948
     gift: 5804-1
+    content: prize-20002948
   }
   {
     id: 2949
-    name: M82A1 - 심연으로부터
+    name: prize-10002949
     gift: 5803-1
+    content: prize-20002949
   }
   {
     id: 2950
-    name: FX-05 -비를 맞으며
+    name: prize-10002950
     gift: 5806-1
+    content: prize-20002950
   }
   {
     id: 2951
-    name: C-93 - 나비처럼 날아서
+    name: prize-10002951
     gift: 5801-1
+    content: prize-20002951
   }
   {
     id: 2952
-    name: 라이노 - 고독한 달의 관
+    name: prize-10002952
     gift: 7103-1
+    content: prize-20002952
   }
   {
     id: 2953
-    name: 콜트 디펜더 - 스타더스트 커튼
+    name: prize-10002953
     gift: 7104-1
+    content: prize-20002953
   }
   {
     id: 2954
-    name: 100식 - 나비 기담
+    name: prize-10002954
     gift: 7102-1
+    content: prize-20002954
   }
   {
     id: 2955
-    name: MG36 - 진저 나이트
+    name: prize-10002955
     gift: 8305-1
+    content: prize-20002955
   }
   {
     id: 2956
-    name: SR-2 - 거품 종결자
+    name: prize-10002956
     gift: 8307-1
+    content: prize-20002956
   }
   {
     id: 2957
-    name: HS.50 - 심취한 눈송이
+    name: prize-10002957
     gift: 8303-1
+    content: prize-20002957
   }
   {
     id: 2958
-    name: 데저트 이글 - 장미와 새의 노래
+    name: prize-10002958
     gift: 8302-1
+    content: prize-20002958
   }
   {
     id: 2959
-    name: HK416 - 별에 감싸이다
+    name: prize-10002959
     gift: 805-1
+    content: prize-20002959
   }
   {
     id: 2960
-    name: 그리즐리MkⅤ - 별이 빛나는 밤의 무도회
+    name: prize-10002960
     gift: 2102-1
+    content: prize-20002960
   }
   {
     id: 2961
-    name: DSR-50 - 베스트 오퍼
+    name: prize-10002961
     gift: 2101-1
+    content: prize-20002961
   }
   {
     id: 2962
-    name: K2 - 해뜨기 전에
+    name: prize-10002962
     gift: 3301-1
+    content: prize-20002962
   }
   {
     id: 2963
-    name: OTs-14 - 연회의 지배자
+    name: prize-10002963
     gift: 4501-1
+    content: prize-20002963
   }
   {
     id: 2964
-    name: Saiga-12 - 노을의 재단사
+    name: prize-10002964
     gift: 4510-1
+    content: prize-20002964
   }
   {
     id: 2965
-    name: 류 소총 - 고민 많은 아침
+    name: prize-10002965
     gift: 563-1
+    content: prize-20002965
   }
   {
     id: 2966
-    name: M4 SOPMODII - 숲의 울림
+    name: prize-10002966
     gift: 551-1
+    content: prize-20002966
   }
   {
     id: 2967
-    name: 97식 산탄총 - 꽃향기에 흠뻑 취해
+    name: prize-10002967
     gift: 5805-1
+    content: prize-20002967
   }
   {
     id: 2968
-    name: PA-15 - 샴페인 괴도
+    name: prize-10002968
     gift: 5802-1
+    content: prize-20002968
   }
   {
     id: 2969
-    name: ZB-26 - 흔들리는 흑장미
+    name: prize-10002969
     gift: 7101-1
+    content: prize-20002969
   }
   {
     id: 2970
-    name: 한양조 88식 - 비너스 강림
+    name: prize-10002970
     gift: 7106-1
+    content: prize-20002970
   }
   {
     id: 2971
-    name: Kar98K - 터닝 폭스트롯
+    name: prize-10002971
     gift: 8301-1
+    content: prize-20002971
   }
   {
     id: 2972
-    name: 9주년 구매토큰 특가 패키지
+    name: prize-10002972
     gem: 800
     item_ids: 41-900
     gift: 100003-10
+    content: prize-20002972
+    icon: Bumdle_9year_1
   }
   {
     id: 2973
-    name: 9주년 서약 특가 패키지
+    name: prize-10002973
     item_ids: 7-4
     gift: 100003-10
+    content: prize-20002973
+    icon: Bumdle_9year_2
   }
   {
     id: 2974
-    name: 9주년 알뜰 구매토큰 패키지
+    name: prize-10002974
     gem: 300
     item_ids: 41-200
     gift: 100003-5
+    content: prize-20002974
+    icon: Bumdle_9year_3
   }
   {
     id: 2975
-    name: 설원 방문객 협약 물자 보급
+    name: prize-10002975
     mp: 20000
     ammo: 20000
     mre: 20000
@@ -17862,10 +17987,12 @@
     core: 200
     item_ids: 46-340,506-180,3-100,41-80,2-60,16-60,8-60,1-30,601-24,51-2,602-1,1500176-1,1500177-1,1500178-1
     gift: 200001-1080,30025-1
+    content: prize-20002975
+    icon: Bumdle_passport_1
   }
   {
     id: 2976
-    name: 매콤한 겨울 협약 물자 보급
+    name: prize-10002976
     mp: 20000
     ammo: 20000
     mre: 20000
@@ -17873,10 +18000,12 @@
     core: 200
     item_ids: 46-340,506-180,3-100,41-80,2-60,16-60,8-60,1-30,601-24,51-2,602-1,1500186-1,1500187-1,1500188-1
     gift: 200001-1080,30026-1
+    content: prize-20002976
+    icon: Bumdle_passport_2
   }
   {
     id: 2977
-    name: 자욱한 초연 협약 물자 보급
+    name: prize-10002977
     mp: 20000
     ammo: 20000
     mre: 20000
@@ -17884,10 +18013,12 @@
     core: 200
     item_ids: 46-340,506-180,3-100,41-80,2-60,16-60,8-60,1-30,601-24,51-2,602-1,1500193-1,1500194-1,1500195-1
     gift: 200001-1080,30027-1
+    content: prize-20002977
+    icon: Bumdle_passport_3
   }
   {
     id: 2978
-    name: 백사장 일광욕 협약 물자 보급
+    name: prize-10002978
     mp: 20000
     ammo: 20000
     mre: 20000
@@ -17895,37 +18026,92 @@
     core: 200
     item_ids: 46-340,506-180,3-100,41-80,2-60,16-60,8-60,1-30,601-24,51-2,602-1,1500206-1,1500207-1,1500208-1
     gift: 200001-1080,30028-1
+    content: prize-20002978
+    icon: Bumdle_passport_4
   }
   {
     id: 2979
-    name: 2025 6월 출석
+    name: prize-10002979
     gem: 90
     equip_ids: "454"
+    content: prize-20002979
   }
   {
     id: 2980
-    name: 마트료시카 장식
+    name: prize-10002980
     equip_ids: "438"
+    content: prize-20002980
   }
   {
     id: 2981
-    name: TLL 강화탄
+    name: prize-10002981
     equip_ids: "441"
+    content: prize-20002981
   }
   {
     id: 2982
-    name: 6.5mm CM탄
+    name: prize-10002982
     equip_ids: "444"
+    content: prize-20002982
   }
   {
     id: 2983
-    name: 전용 원반형 탄창
+    name: prize-10002983
     equip_ids: "447"
+    content: prize-20002983
   }
   {
     id: 2984
-    name: 아이콘: 구구경축
+    name: prize-10002984
     item_ids: 2675-1
+    content: prize-20002984
+  }
+  {
+    id: 2985
+    name: prize-10002985
+    item_ids: 1500229-1
+    content: prize-20002985
+    icon: Bumdle_passport_1
+  }
+  {
+    id: 2986
+    name: prize-10002986
+    item_ids: 1500230-1
+    content: prize-20002986
+    icon: Bumdle_passport_2
+  }
+  {
+    id: 2987
+    name: prize-10002987
+    item_ids: 1500231-1
+    content: prize-20002987
+    icon: Bumdle_passport_3
+  }
+  {
+    id: 2988
+    name: prize-10002988
+    item_ids: 1500232-1
+    content: prize-20002988
+    icon: Bumdle_passport_4
+  }
+  {
+    id: 2989
+    name: prize-10002989
+    gem: 800
+    content: prize-20002989
+  }
+  {
+    id: 2990
+    name: prize-10002990
+    skin: 212
+    content: prize-20002990
+    icon: NPC_Kalina_212
+  }
+  {
+    id: 2991
+    name: prize-10002991
+    gift: 805-1,2102-1,2101-1,3301-1,4501-1,4510-1,563-1,551-1,5805-1,5802-1,7101-1,7106-1,8301-1
+    content: prize-20002991
   }
   {
     id: 3001
@@ -29885,14 +30071,14 @@
   {
     id: 10102
     name: 500 활약 보상
-    item_ids: 3-5,525-5
+    item_ids: 3-5,525-5,2676-1
     coins: 2-200
     icon: Bumdle_indigo
   }
   {
     id: 10103
     name: 800 활약 보상
-    item_ids: 1-5,506-200,45-100,601-2,525-5
+    item_ids: 1-5,506-200,45-100,601-2,525-5,2677-1
     icon: Bumdle_guoqing
   }
   {
@@ -29900,6 +30086,7 @@
     name: 1200 활약 보상
     core: 10
     item_ids: 41-20,8-1
+    furniture: "20172"
     icon: Bumdle_yellow
   }
   {
@@ -42927,186 +43114,223 @@
   }
   {
     id: 17883
-    name: 프롤로그 - 임무 보상
+    name: prize-10017883
     mp: 500
     ammo: 500
     mre: 500
     part: 500
+    content: prize-20017883
   }
   {
     id: 17884
-    name: 전투1 - 임무 보상
+    name: prize-10017884
     mp: 500
     ammo: 500
     mre: 500
     part: 500
+    content: prize-20017884
   }
   {
     id: 17885
-    name: 전투2 - 임무 보상
+    name: prize-10017885
     coins: 1-300
+    content: prize-20017885
   }
   {
     id: 17886
-    name: 전투3 - 임무 보상
+    name: prize-10017886
     mp: 500
     ammo: 500
     mre: 500
     part: 500
+    content: prize-20017886
   }
   {
     id: 17887
-    name: 전투4 - 임무 보상
+    name: prize-10017887
     gift: 200001-100
+    content: prize-20017887
   }
   {
     id: 17888
-    name: 전투5 - 임무 보상
+    name: prize-10017888
     item_ids: 9-50
+    content: prize-20017888
   }
   {
     id: 17889
-    name: 전투6 - 임무 보상
+    name: prize-10017889
     item_ids: 51-2
+    content: prize-20017889
   }
   {
     id: 17890
-    name: 전투7 - 임무 보상
+    name: prize-10017890
     item_ids: 45-100
+    content: prize-20017890
   }
   {
     id: 17891
-    name: 전투2 - H - 임무 보상
+    name: prize-10017891
     coins: 2-300
+    content: prize-20017891
   }
   {
     id: 17892
-    name: 전투4 - H - 임무 보상
+    name: prize-10017892
     item_ids: 46-50
+    content: prize-20017892
   }
   {
     id: 17893
-    name: 전투6 - H - 임무 보상
+    name: prize-10017893
     item_ids: 51-2
+    content: prize-20017893
   }
   {
     id: 17894
-    name: 전투7 - H - 임무 보상
+    name: prize-10017894
     item_ids: 45-150
+    content: prize-20017894
   }
   {
     id: 17895
-    name: 전투2 - EX - 임무 보상
+    name: prize-10017895
     coins: 3-300
+    content: prize-20017895
   }
   {
     id: 17896
-    name: 전투4 - EX - 임무 보상
+    name: prize-10017896
     core: 5
+    content: prize-20017896
   }
   {
     id: 17897
-    name: 전투6 - EX - 임무 보상
+    name: prize-10017897
     item_ids: 51-2
+    content: prize-20017897
   }
   {
     id: 17898
-    name: 전투7 - EX - 임무 보상
+    name: prize-10017898
     item_ids: 100271-1
+    content: prize-20017898
   }
   {
     id: 17899
-    name: 파밍 - 임무 보상
+    name: prize-10017899
     mp: 500
     ammo: 500
     mre: 500
     part: 500
+    content: prize-20017899
   }
   {
     id: 17900
-    name: 파밍-H - 임무 보상
+    name: prize-10017900
     core: 10
+    content: prize-20017900
   }
   {
     id: 17901
-    name: 스토리2 - 임무 보상
+    name: prize-10017901
     item_ids: 9-50
+    content: prize-20017901
   }
   {
     id: 17902
-    name: 스토리3 - 임무 보상
+    name: prize-10017902
     gift: 200001-50
+    content: prize-20017902
   }
   {
     id: 17903
-    name: 스토리4 - 임무 보상
+    name: prize-10017903
     item_ids: 2667-1
+    content: prize-20017903
   }
   {
     id: 17904
-    name: 스토리5 - 임무 보상
+    name: prize-10017904
     coins: 1-50
+    content: prize-20017904
   }
   {
     id: 17905
-    name: 스토리6 - 임무 보상
+    name: prize-10017905
     coins: 2-50
+    content: prize-20017905
   }
   {
     id: 17906
-    name: 스토리7 - 임무 보상
+    name: prize-10017906
     item_ids: 2670-1
+    content: prize-20017906
   }
   {
     id: 17907
-    name: 스토리8 - 임무 보상
+    name: prize-10017907
     coins: 3-50
+    content: prize-20017907
   }
   {
     id: 17908
-    name: 스토리9 - 임무 보상
+    name: prize-10017908
     core: 5
+    content: prize-20017908
   }
   {
     id: 17909
-    name: 스토리10 - 임무 보상
+    name: prize-10017909
     item_ids: 2672-1
+    content: prize-20017909
   }
   {
     id: 17910
-    name: 스토리11 - 임무 보상
+    name: prize-10017910
     item_ids: 9-50
+    content: prize-20017910
   }
   {
     id: 17911
-    name: 스토리12 - 임무 보상
+    name: prize-10017911
     gift: 200001-50
+    content: prize-20017911
   }
   {
     id: 17912
-    name: 스토리13 - 임무 보상
-    coins: 1-50
+    name: prize-10017912
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+    content: prize-20017912
   }
   {
     id: 17913
-    name: 스토리14 - 임무 보상
-    coins: 2-50
+    name: prize-10017913
+    item_ids: 2686-1
+    content: prize-20017913
   }
   {
     id: 17914
-    name: 스토리15 - 임무 보상
-    coins: 3-50
+    name: prize-10017914
+    item_ids: 2687-1
+    content: prize-20017914
   }
   {
     id: 17915
-    name: 스토리16 - 임무 보상
+    name: prize-10017915
     item_ids: 149-1
     furniture: "20170"
+    content: prize-20017915
   }
   {
     id: 17916
-    name: 스토리17 - 임무 보상
+    name: prize-10017916
     core: 5
+    content: prize-20017916
   }
   {
     id: 20001
@@ -62074,18 +62298,21 @@
   }
   {
     id: 150149
-    name: 회색지대-26기-5성 장비 선택풀
+    name: prize-10150149
     equip_ids: "16,20,32,44,66,72,90"
+    content: prize-20150149
   }
   {
     id: 150150
-    name: 회색지대-26기-4성 이하 인형 전용장비 선택풀
+    name: prize-10150150
     equip_ids: "211,337,338,342,343,348,248,351,352,355,242,358,359,365,366,368,369,264,372,374,375,216,385,246,390,250,393,218,398,94,407,265,410,276,415,259,420,288,423,108,428,341,434,353,440,367,443,373,446,376,449,392,453"
+    content: prize-20150150
   }
   {
     id: 150151
-    name: 회색지대-26기-5성 인형 전용장비 선택풀
+    name: prize-10150151
     equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294,182,371,198,266,304,384,315,391,316,394,319,399,321,406,332,409,339,414,347,419,350,422,354,427,357,433,364,439,370,442,386,445,403,448,413,452"
+    content: prize-20150151
   }
   {
     id: 200001

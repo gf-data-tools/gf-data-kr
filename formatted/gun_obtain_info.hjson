@@ -537,6 +537,10 @@
     description: 기간한정 이벤트 【어약용문】 점수 보상
   }
   {
+    obtain_id: "321"
+    description: 기간 한정 이벤트【함께 쓰는 장편】출석 보상
+  }
+  {
     obtain_id: "403"
     description: 상시 이벤트 【특이점】에서 구조 가능
   }
@@ -643,6 +647,10 @@
   {
     obtain_id: "518"
     description: 기간 한정 이벤트 【합성곱 핵】 점수 모드 보상
+  }
+  {
+    obtain_id: "519"
+    description: 기간 한정 이벤트【로슈 한계】 재화 교환
   }
   {
     obtain_id: "1701"
@@ -1420,5 +1428,9 @@
   {
     obtain_id: "3132"
     description: 2025년 12월 출석 보상
+  }
+  {
+    obtain_id: "3133"
+    description: 기간 한정 이벤트 <로슈 한계> 재화 교환
   }
 ]

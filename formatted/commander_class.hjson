@@ -639,6 +639,17 @@
     source: 2
   }
   {
+    id: 64
+    name: 활력 초점
+    description: 요란한 주년 파티에서 모두의 시선을 한몸에 모아 모두에게 활력을 나눠주는 것이 당신의 진심어린 소원입니다.
+    group_id: "103"
+    code: commander_6440_icon
+    path: CLASS64
+    des_year: "2025"
+    source: 2
+    source_description: 2025 주년 이벤트 보상
+  }
+  {
     id: 99
     name: 거짓말 마스크
     description: 내 생각을 감추고, 내 바람을 드러낸다.

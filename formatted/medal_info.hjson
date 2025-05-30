@@ -581,4 +581,28 @@
     is_date: "2"
     decorate_code: Logo_Events
   }
+  {
+    id: "49"
+    name: 골드 그리폰 기념 훈장
+    order: "51"
+    evo_step: "1"
+    appearance_id: "279"
+    item_id: "148"
+    medal_obtain: 긴 기다림 끝에 돌아온 지휘관에게 수여.
+    medal_color: "#ff0000"
+    is_date: "2"
+  }
+  {
+    id: "50"
+    name: 로슈 한계 훈장
+    order: "50"
+    evo_step: "1"
+    appearance_id: "280"
+    item_id: "149"
+    medal_obtain: 이벤트 로슈 한계의 모든 도전을 클리어한 지휘관에게 수여.
+    medal_color: "#ff0000"
+    is_date: "2"
+    decorate_code: Logo_Events
+    if_elite_medal: "1"
+  }
 ]

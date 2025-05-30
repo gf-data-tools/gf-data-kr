@@ -412,6 +412,20 @@
     sort: 2000
   }
   {
+    id: 212
+    name: 카리나 - 정장 타임
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 212
+    code: gift_bundle_kalina_212
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 카리나 코스튬 획득
+    description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    sort: 2000
+  }
+  {
     id: 301
     name: 콜트 리볼버 - 별똥별의 소원
     type: 2
@@ -13093,6 +13107,134 @@
     skin: 11407
     poster: 311407
     code: gift_bundle_WhiteValentina2025_M1895
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11501
+    name: HK433 - 그레이 데이
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 390
+    skin: 11501
+    poster: 311501
+    code: gift_bundle_Anniversary2025_HK433
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11502
+    name: 95식 - 유광소우
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 129
+    skin: 11502
+    poster: 311502
+    code: gift_bundle_Anniversary2025_95type
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11503
+    name: QBZ-191 - 검은 옷이 달을 껴안네
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 361
+    skin: 11503
+    poster: 311503
+    code: gift_bundle_Anniversary2025_QBZ191
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11504
+    name: SIG MCX - 핫핑크 펀치
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 338
+    skin: 11504
+    poster: 311504
+    code: gift_bundle_Anniversary2025_SIGMCX
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11505
+    name: TAR-21 - 푸른 연과 꽃방울
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 72
+    skin: 11505
+    poster: 311505
+    code: gift_bundle_Anniversary2025_TAR21
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11506
+    name: G43 - 모래시계 거울
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 47
+    skin: 11506
+    poster: 311506
+    code: gift_bundle_Anniversary2025_G43
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11507
+    name: Bren Ten - 스위트 드림 론도
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 139
+    skin: 11507
+    poster: 311507
+    code: gift_bundle_Anniversary2025_BrenTen
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11508
+    name: 89식 소총 - 스페셜 브렌딩 타임
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 290
+    skin: 11508
+    poster: 311508
+    code: gift_bundle_Anniversary2025_HowaType89
     normal_description: 선물 시 호감도 획득
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.

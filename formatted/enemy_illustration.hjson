@@ -5753,6 +5753,132 @@
     spine_scale: "50,50,1"
   }
   {
+    sub_id: 249001
+    id: 249
+    name: enemy_illustration-10249001
+    sub_name: enemy_illustration-50249001
+    type: 3
+    code: BrenTen_enemy
+    introduce: enemy_illustration-20249001
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: enemy_illustration-30249001
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40249001
+    spine_scale: "70,70,1"
+  }
+  {
+    sub_id: 250001
+    id: 250
+    name: enemy_illustration-10250001
+    sub_name: enemy_illustration-50250001
+    type: 3
+    code: FNP9_enemy
+    introduce: enemy_illustration-20250001
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: enemy_illustration-30250001
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40250001
+    spine_scale: "70,70,1"
+  }
+  {
+    sub_id: 251001
+    id: 251
+    name: enemy_illustration-10251001
+    sub_name: enemy_illustration-50251001
+    type: 3
+    code: IDW_enemy
+    introduce: enemy_illustration-20251001
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: enemy_illustration-30251001
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40251001
+    spine_scale: "70,70,1"
+  }
+  {
+    sub_id: 252001
+    id: 252
+    name: enemy_illustration-10252001
+    sub_name: enemy_illustration-50252001
+    type: 3
+    code: SpectreM4_enemy
+    introduce: enemy_illustration-20252001
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: enemy_illustration-30252001
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40252001
+    spine_scale: "70,70,1"
+  }
+  {
+    sub_id: 253001
+    id: 253
+    name: enemy_illustration-10253001
+    sub_name: enemy_illustration-50253001
+    type: 3
+    code: 63type_enemy
+    introduce: enemy_illustration-20253001
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: enemy_illustration-30253001
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40253001
+    spine_scale: "70,70,1"
+  }
+  {
+    sub_id: 254001
+    id: 254
+    name: enemy_illustration-10254001
+    sub_name: enemy_illustration-50254001
+    type: 3
+    code: L85A1_enemy
+    introduce: enemy_illustration-20254001
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: enemy_illustration-30254001
+    character: "100"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-40254001
+    spine_scale: "70,70,1"
+  }
+  {
     sub_id: 100001001
     id: 100001
     name: 게베뉴
@@ -5774,10 +5900,171 @@
     launch_time: 2035-12-31 00:00:00
   }
   {
+    sub_id: 100009001
+    id: 100009
+    name: enemy_illustration-110009001
+    sub_name: enemy_illustration-150009001
+    type: 2
+    code: Pathfinder_Small
+    introduce: enemy_illustration-120009001
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: enemy_illustration-130009001
+    character: "903"
+    launch_time: 2035-12-31 00:00:00
+    extra: enemy_illustration-140009001
+  }
+  {
     sub_id: 100011001
     id: 100011
     name: 방패수
     sub_name: 방패수
+    type: 3
+    code: GG_Elfeldt_SF
+    introduce: 상정하지 않은 적.
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 해당 유닛은 아군에게 접근하고 스킬을 사용하니 신속히 처치합시다.
+    character: "1004"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    sub_id: 100012001
+    id: 100012
+    name: 방역작업부
+    sub_name: 방역작업부
+    type: 3
+    code: BH2_Shield
+    introduce: 상정하지 않은 적.
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 이 유닛은 상당히 긴 사거리를 지니고 있으니 접근 중 피해가 지나치게 누적되지 않도록 주의하세요.
+    character: "1004"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    sub_id: 100013001
+    id: 100013
+    name: 청소부
+    sub_name: 청소부
+    type: 3
+    code: BH2_Normal
+    introduce: 상정하지 않은 적.
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 이 유닛의 행동을 유의 관찰하고, 그 좌우에 있는 인형으로 주의력을 끌면서 화염방사기 공격을 제때 피하세요.
+    character: "1004"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    sub_id: 100014001
+    id: 100014
+    name: 러너
+    sub_name: 러너
+    type: 3
+    code: BH2_Archer
+    introduce: 상정하지 않은 적.
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 이 유닛의 이동을 방해하며 아군에게 접근하기 전에 처치하세요.
+    character: "1004"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    sub_id: 100015001
+    id: 100015
+    name: 경호원
+    sub_name: 경호원
+    type: 3
+    code: BH2_Burst
+    introduce: 상정하지 않은 적.
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 이 유닛은 상당히 긴 사거리를 지니고 있으니 접근 중 피해가 지나치게 누적되지 않도록 주의하세요.
+    character: "1004"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    sub_id: 100016001
+    id: 100016
+    name: 처형수
+    sub_name: 처형수
+    type: 1
+    code: SeeleVollerei
+    introduce: 상정하지 않은 적.
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "1004"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    sub_id: 100017001
+    id: 100017
+    name: 소총수
+    sub_name: 소총수
+    type: 1
+    code: TheresaApocalypse
+    introduce: 상정하지 않은 적.
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "1004"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    sub_id: 100018001
+    id: 100018
+    name: 정찰병
+    sub_name: 정찰병
     type: 3
     code: DivMauler
     introduce: 상정하지 않은 적.
@@ -5789,15 +6076,15 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 해당 유닛은 아군에게 접근하고 스킬을 사용하니 신속히 처치합시다.
+    counter: 이 유닛은 상당히 긴 사거리를 지니고 있으니 접근 중 피해가 지나치게 누적되지 않도록 주의하세요.
     character: "401,402"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
   }
   {
-    sub_id: 100012001
-    id: 100012
-    name: 방역작업부
-    sub_name: 방역작업부
+    sub_id: 100019001
+    id: 100019
+    name: 전투 공병
+    sub_name: 전투 공병
     type: 3
     code: DivGrenadier
     introduce: 상정하지 않은 적.
@@ -5809,15 +6096,15 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 이 유닛은 상당히 긴 사거리를 지니고 있으니 접근 중 피해가 지나치게 누적되지 않도록 주의하세요.
+    counter: 전투 공병은 자신 옆에 터렛을 설치합니다. 범위 공격으로 상대하는 게 효과적입니다.
     character: "403"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
   }
   {
-    sub_id: 100013001
-    id: 100013
-    name: 청소부
-    sub_name: 청소부
+    sub_id: 100020001
+    id: 100020
+    name: 변절 요원
+    sub_name: 변절 요원
     type: 3
     code: DivSweeper
     introduce: 상정하지 않은 적.
@@ -5829,15 +6116,15 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 이 유닛의 행동을 유의 관찰하고, 그 좌우에 있는 인형으로 주의력을 끌면서 화염방사기 공격을 제때 피하세요.
+    counter: 점착 폭탄이 부착된 아군 유닛을 최대한 다른 유닛과 떼어놓으세요, 안 그러면 아군 전체에 큰 피해를 줍니다.
     character: "1001,404,415"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
   }
   {
-    sub_id: 100014001
-    id: 100014
-    name: 러너
-    sub_name: 러너
+    sub_id: 100021001
+    id: 100021
+    name: 에이전트47
+    sub_name: 에이전트47
     type: 3
     code: DivRunner
     introduce: 상정하지 않은 적.
@@ -5849,18 +6136,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 이 유닛의 이동을 방해하며 아군에게 접근하기 전에 처치하세요.
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다. 네.
     character: "1001,405"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
   }
   {
-    sub_id: 100015001
-    id: 100015
-    name: 경호원
-    sub_name: 경호원
+    sub_id: 100022001
+    id: 100022
+    name: 소각수: 로버트
+    sub_name: 소각수: 로버트
     type: 3
     code: DivGuard
-    introduce: 상정하지 않은 적.
+    introduce: 거리를 서성이는 클리너 멤버, 모든 오염을 불태워야 도시를 구원할 수 있다고 믿는다. 포착한 목표를 잿더미로 만들 떄까지 끝까지 추격한다. 해당 유닛의 후방에 존재하는 약점을 공격해 처리할 수 있다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5869,18 +6156,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 이 유닛은 상당히 긴 사거리를 지니고 있으니 접근 중 피해가 지나치게 누적되지 않도록 주의하세요.
+    counter: 거리를 서성이는 클리너 멤버, 모든 오염을 불태워야 도시를 구원할 수 있다고 믿는다. 포착한 목표를 잿더미로 만들 떄까지 끝까지 추격한다. 해당 유닛의 후방에 존재하는 약점을 공격해 처리할 수 있다.
     character: "1001,406,407"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
   }
   {
-    sub_id: 100016001
-    id: 100016
-    name: 처형수
-    sub_name: 처형수
+    sub_id: 100023001
+    id: 100023
+    name: 터스크
+    sub_name: 터스크
     type: 3
     code: DivExecutor
-    introduce: 상정하지 않은 적.
+    introduce: HK416과 같은 모습을 했지만, [디비전]에 세계에서만 존재하는 AI인 것 같다. LBT 부대를 지휘할 수 있다는 것을 빼면 모든 것이 수수께끼다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5889,18 +6176,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    counter: HK416과 같은 모습을 했지만, [디비전]에 세계에서만 존재하는 AI인 것 같다. LBT 부대를 지휘할 수 있다는 것을 빼면 모든 것이 수수께끼다.
     character: "300"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
   }
   {
-    sub_id: 100017001
-    id: 100017
-    name: 소총수
-    sub_name: 소총수
+    sub_id: 100024001
+    id: 100024
+    name: 헬파이어
+    sub_name: 헬파이어
     type: 3
     code: DivRifleman
-    introduce: 상정하지 않은 적.
+    introduce: Vector와 같은 모습을 했지만, [디비전]에 세계에서만 존재하는 AI인 것 같다. 클리너 세력를 지휘할 수 있다는 것을 빼면 모든 것이 수수께끼다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5909,18 +6196,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    counter: Vector와 같은 모습을 했지만, [디비전]에 세계에서만 존재하는 AI인 것 같다. 클리너 세력를 지휘할 수 있다는 것을 빼면 모든 것이 수수께끼다.
     character: "408"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
   }
   {
-    sub_id: 100018001
-    id: 100018
-    name: 정찰병
-    sub_name: 정찰병
+    sub_id: 100025001
+    id: 100025
+    name: 터스크
+    sub_name: 터스크
     type: 3
     code: DivScout
-    introduce: 상정하지 않은 적.
+    introduce: HK416과 같은 모습을 했지만, [디비전]에 세계에서만 존재하는 AI인 것 같다. LBT 부대를 지휘할 수 있다는 것을 빼면 모든 것이 수수께끼다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5929,18 +6216,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 이 유닛은 상당히 긴 사거리를 지니고 있으니 접근 중 피해가 지나치게 누적되지 않도록 주의하세요.
+    counter: 쏴라! 움직여라! 강한 적에게 맞서 승리를 쟁취하라!
     character: "409,410"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
   }
   {
-    sub_id: 100019001
-    id: 100019
-    name: 전투 공병
-    sub_name: 전투 공병
+    sub_id: 100026001
+    id: 100026
+    name: 헬파이어
+    sub_name: 헬파이어
     type: 3
     code: DivEngineer
-    introduce: 상정하지 않은 적.
+    introduce: Vector와 같은 모습을 했지만, [디비전]에 세계에서만 존재하는 AI인 것 같다. 클리너 세력를 지휘할 수 있다는 것을 빼면 모든 것이 수수께끼다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5949,15 +6236,15 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 전투 공병은 자신 옆에 터렛을 설치합니다. 범위 공격으로 상대하는 게 효과적입니다.
+    counter: 쏴라! 움직여라! 강한 적에게 맞서 승리를 쟁취하라!
     character: "411,412,413"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
   }
   {
-    sub_id: 100020001
-    id: 100020
-    name: 변절 요원
-    sub_name: 변절 요원
+    sub_id: 100027001
+    id: 100027
+    name: Vector
+    sub_name: Vector
     type: 3
     code: DivTraitor
     introduce: 상정하지 않은 적.
@@ -5969,15 +6256,15 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 점착 폭탄이 부착된 아군 유닛을 최대한 다른 유닛과 떼어놓으세요, 안 그러면 아군 전체에 큰 피해를 줍니다.
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "1001,414,415"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
   }
   {
-    sub_id: 100021001
-    id: 100021
-    name: 에이전트47
-    sub_name: 에이전트47
+    sub_id: 100028001
+    id: 100028
+    name: 데스나이트
+    sub_name: 데스나이트
     type: 1
     code: AK47_enemy
     introduce: 상정하지 않은 적.
@@ -5989,18 +6276,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다. 네.
+    counter: 매우 높은 장갑을 가진 전열 유닛입니다. 철갑탄을 착용해 대응합시다.
     character: "1001,423"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
   }
   {
-    sub_id: 100022001
-    id: 100022
-    name: 소각수: 로버트
-    sub_name: 소각수: 로버트
+    sub_id: 100029001
+    id: 100029
+    name: 고스트 호스
+    sub_name: 고스트 호스
     type: 1
     code: DivBurn
-    introduce: 거리를 서성이는 클리너 멤버, 모든 오염을 불태워야 도시를 구원할 수 있다고 믿는다. 포착한 목표를 잿더미로 만들 떄까지 끝까지 추격한다. 해당 유닛의 후방에 존재하는 약점을 공격해 처리할 수 있다.
+    introduce: 상정하지 않은 적.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6009,18 +6296,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 거리를 서성이는 클리너 멤버, 모든 오염을 불태워야 도시를 구원할 수 있다고 믿는다. 포착한 목표를 잿더미로 만들 떄까지 끝까지 추격한다. 해당 유닛의 후방에 존재하는 약점을 공격해 처리할 수 있다.
+    counter: 매우 높은 장갑을 가진 후열 유닛입니다. 철갑탄을 착용해 대응합시다.
     character: "1001,417,404,416"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
   }
   {
-    sub_id: 100023001
-    id: 100023
-    name: 터스크
-    sub_name: 터스크
+    sub_id: 100030001
+    id: 100030
+    name: 빙수의 요정
+    sub_name: 빙수의 요정
     type: 1
     code: HK416Boss
-    introduce: HK416과 같은 모습을 했지만, [디비전]에 세계에서만 존재하는 AI인 것 같다. LBT 부대를 지휘할 수 있다는 것을 빼면 모든 것이 수수께끼다.
+    introduce: 상정하지 않은 적.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6029,38 +6316,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: HK416과 같은 모습을 했지만, [디비전]에 세계에서만 존재하는 AI인 것 같다. LBT 부대를 지휘할 수 있다는 것을 빼면 모든 것이 수수께끼다.
+    counter: 이 유닛은 빙결 표식을 쌓아 공격 대상을 얼려서 고정피해를 줍니다. 신속하게 처치하세요.
     character: "1001,420,421,422"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
   }
   {
-    sub_id: 100024001
-    id: 100024
-    name: 헬파이어
-    sub_name: 헬파이어
-    type: 1
-    code: VectorBoss
-    introduce: Vector와 같은 모습을 했지만, [디비전]에 세계에서만 존재하는 AI인 것 같다. 클리너 세력를 지휘할 수 있다는 것을 빼면 모든 것이 수수께끼다.
-    pow_rank: 5
-    life_rank: 5
-    hit_rank: 5
-    dodge_rank: 5
-    rate_rank: 5
-    armor_rank: 5
-    speed_rank: 5
-    range_rank: 5
-    counter: Vector와 같은 모습을 했지만, [디비전]에 세계에서만 존재하는 AI인 것 같다. 클리너 세력를 지휘할 수 있다는 것을 빼면 모든 것이 수수께끼다.
-    character: "1001,419,418,416"
-    launch_time: 2035-12-31 00:00:00
-  }
-  {
-    sub_id: 100025001
-    id: 100025
-    name: 터스크
-    sub_name: 터스크
+    sub_id: 100030002
+    id: 100030
+    name: enemy_illustration-110030002
+    sub_name: enemy_illustration-150030002
     type: 1
     code: HK416Boss
-    introduce: HK416과 같은 모습을 했지만, [디비전]에 세계에서만 존재하는 AI인 것 같다. LBT 부대를 지휘할 수 있다는 것을 빼면 모든 것이 수수께끼다.
+    introduce: enemy_illustration-120030002
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6069,18 +6336,19 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 쏴라! 움직여라! 강한 적에게 맞서 승리를 쟁취하라!
+    counter: enemy_illustration-130030002
     character: "1001,424,425"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-140030002
   }
   {
-    sub_id: 100026001
-    id: 100026
-    name: 헬파이어
-    sub_name: 헬파이어
+    sub_id: 100031001
+    id: 100031
+    name: 외눈박이
+    sub_name: 외눈박이
     type: 1
     code: VectorBoss
-    introduce: Vector와 같은 모습을 했지만, [디비전]에 세계에서만 존재하는 AI인 것 같다. 클리너 세력를 지휘할 수 있다는 것을 빼면 모든 것이 수수께끼다.
+    introduce: 상정하지 않은 적.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6089,15 +6357,36 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 쏴라! 움직여라! 강한 적에게 맞서 승리를 쟁취하라!
-    character: "1001,424,425"
-    launch_time: 2035-12-31 00:00:00
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "1001,419,418,416"
+    launch_time: 2016-5-20 00:00:00
   }
   {
-    sub_id: 100027001
-    id: 100027
-    name: Vector
-    sub_name: Vector
+    sub_id: 100031002
+    id: 100031
+    name: enemy_illustration-110031002
+    sub_name: enemy_illustration-150031002
+    type: 1
+    code: VectorBoss
+    introduce: enemy_illustration-120031002
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: enemy_illustration-130031002
+    character: "1001,424,425"
+    launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-140031002
+  }
+  {
+    sub_id: 100032001
+    id: 100032
+    name: 콩콩이
+    sub_name: 콩콩이
     type: 1
     code: Vector_enemy
     introduce: 상정하지 않은 적.
@@ -6109,15 +6398,15 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있고, 우리 인형을 기절시킵니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "1001,300"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
   }
   {
-    sub_id: 100028001
-    id: 100028
-    name: 데스나이트
-    sub_name: 데스나이트
+    sub_id: 100033001
+    id: 100033
+    name: 베트
+    sub_name: 베트
     type: 3
     code: Dropkick_MeleeDevil
     introduce: 상정하지 않은 적.
@@ -6129,15 +6418,15 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 매우 높은 장갑을 가진 전열 유닛입니다. 철갑탄을 착용해 대응합시다.
+    counter: 이 유닛은 기동성이 매우 높고, 자신측의 화력을 높이면서, 물린 상대의 남은 쿨타임을 연장시킵니다. 빠르게 처치하길 바랍니다.
     character: "1001,303,309"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
   }
   {
-    sub_id: 100029001
-    id: 100029
-    name: 고스트 호스
-    sub_name: 고스트 호스
+    sub_id: 100034001
+    id: 100034
+    name: 가짜 유리네
+    sub_name: 가짜 유리네
     type: 3
     code: Dropkick_RemoteDevil
     introduce: 상정하지 않은 적.
@@ -6149,15 +6438,15 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 매우 높은 장갑을 가진 후열 유닛입니다. 철갑탄을 착용해 대응합시다.
+    counter: 강화된 마물을 소환해 강력한 보호막을 부여합니다. 또 전방 넓은 범위에 큰 피해를 줍니다. 하지만 상대의 피해 기여도가 높은 유닛을 구속할 때 약점을 드러내니 그 기회에 격파하세요!
     character: "1001,309"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
   }
   {
-    sub_id: 100030001
-    id: 100030
-    name: 빙수의 요정
-    sub_name: 빙수의 요정
+    sub_id: 100035001
+    id: 100035
+    name: 분노한 미노스
+    sub_name: 분노한 미노스
     type: 3
     code: Dropkick_IceGhost
     introduce: 상정하지 않은 적.
@@ -6169,117 +6458,17 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: 이 유닛은 빙결 표식을 쌓아 공격 대상을 얼려서 고정피해를 줍니다. 신속하게 처치하세요.
-    character: "1001,315,324,329"
-    launch_time: 2035-12-31 00:00:00
-  }
-  {
-    sub_id: 100031001
-    id: 100031
-    name: 외눈박이
-    sub_name: 외눈박이
-    type: 3
-    code: Dropkick_CyclopsChan
-    introduce: 상정하지 않은 적.
-    pow_rank: 5
-    life_rank: 5
-    hit_rank: 5
-    dodge_rank: 5
-    rate_rank: 5
-    armor_rank: 5
-    speed_rank: 5
-    range_rank: 5
-    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
-    character: "1001,303"
-    launch_time: 2035-12-31 00:00:00
-  }
-  {
-    sub_id: 100032001
-    id: 100032
-    name: 콩콩이
-    sub_name: 콩콩이
-    type: 3
-    code: Dropkick_BeansEmissary
-    introduce: 상정하지 않은 적.
-    pow_rank: 5
-    life_rank: 5
-    hit_rank: 5
-    dodge_rank: 5
-    rate_rank: 5
-    armor_rank: 5
-    speed_rank: 5
-    range_rank: 5
-    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있고, 우리 인형을 기절시킵니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
-    character: "1001,324"
-    launch_time: 2035-12-31 00:00:00
-  }
-  {
-    sub_id: 100033001
-    id: 100033
-    name: 베트
-    sub_name: 베트
-    type: 3
-    code: Dropkick_Beth
-    introduce: 상정하지 않은 적.
-    pow_rank: 5
-    life_rank: 5
-    hit_rank: 5
-    dodge_rank: 5
-    rate_rank: 5
-    armor_rank: 5
-    speed_rank: 5
-    range_rank: 5
-    counter: 이 유닛은 기동성이 매우 높고, 자신측의 화력을 높이면서, 물린 상대의 남은 쿨타임을 연장시킵니다. 빠르게 처치하길 바랍니다.
-    character: "1001,304,333"
-    launch_time: 2035-12-31 00:00:00
-  }
-  {
-    sub_id: 100034001
-    id: 100034
-    name: 가짜 유리네
-    sub_name: 가짜 유리네
-    type: 1
-    code: Dropkick_YurineBoss
-    introduce: 상정하지 않은 적.
-    pow_rank: 5
-    life_rank: 5
-    hit_rank: 5
-    dodge_rank: 5
-    rate_rank: 5
-    armor_rank: 5
-    speed_rank: 5
-    range_rank: 5
-    counter: 강화된 마물을 소환해 강력한 보호막을 부여합니다. 또 전방 넓은 범위에 큰 피해를 줍니다. 하지만 상대의 피해 기여도가 높은 유닛을 구속할 때 약점을 드러내니 그 기회에 격파하세요!
-    character: "1001,321,329"
-    launch_time: 2035-12-31 00:00:00
-  }
-  {
-    sub_id: 100035001
-    id: 100035
-    name: 분노한 미노스
-    sub_name: 분노한 미노스
-    type: 1
-    code: Dropkick_MinosBoss
-    introduce: 상정하지 않은 적.
-    pow_rank: 5
-    life_rank: 5
-    hit_rank: 5
-    dodge_rank: 5
-    rate_rank: 5
-    armor_rank: 5
-    speed_rank: 5
-    range_rank: 5
     counter: 극도로 분노한 미노스. 피하는 게 상책입니다.
-    character: "1001,329"
-    launch_time: 2035-12-31 00:00:00
+    character: "1001,315,324,329"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100036001
     id: 100036
     name: 해변의 수박
     sub_name: 해변의 수박
-    type: 2
-    code: Pathfinder_Small
+    type: 3
+    code: Dropkick_CyclopsChan
     introduce: 그냥 평범한 수박.
     pow_rank: 5
     life_rank: 5
@@ -6290,8 +6479,8 @@
     speed_rank: 5
     range_rank: 5
     counter: 박살내버려!
-    character: "903"
-    launch_time: 2035-12-31 00:00:00
+    character: "1001,303"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100037001
@@ -6299,7 +6488,7 @@
     name: 목욕탕 자객
     sub_name: 목욕탕 자객
     type: 3
-    code: Bathhouse_guest_2
+    code: Dropkick_BeansEmissary
     introduce: 목욕탕 몸을 담그길 좋아하는 아무개 씨. 난폭한 성질머리에 운동신경은 좋아서 목욕탕에서 막 헤엄치기까지 한다. 모두가 목욕탕에서 마주치기 싫어하는 타입.
     pow_rank: 5
     life_rank: 5
@@ -6310,9 +6499,8 @@
     speed_rank: 5
     range_rank: 5
     counter: 목욕탕 몸을 담그길 좋아하는 아무개 씨. 난폭한 성질머리에 운동신경은 좋아서 목욕탕에서 막 헤엄치기까지 한다. 모두가 목욕탕에서 마주치기 싫어하는 타입.
-    character: "303,313"
-    enemy_skill: "10037"
-    launch_time: 2035-12-31 00:00:00
+    character: "1001,324"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100038001
@@ -6320,7 +6508,7 @@
     name: 목욕탕 자객
     sub_name: 목욕탕 자객
     type: 3
-    code: Bathhouse_guest_1
+    code: Dropkick_Beth
     introduce: 목욕탕 몸을 담그길 좋아하는 아무개 씨. 난폭한 성질머리에 운동신경은 좋아서 목욕탕에서 막 헤엄치기까지 한다. 모두가 목욕탕에서 마주치기 싫어하는 타입.
     pow_rank: 5
     life_rank: 5
@@ -6331,17 +6519,16 @@
     speed_rank: 5
     range_rank: 5
     counter: 목욕탕 몸을 담그길 좋아하는 아무개 씨. 난폭한 성질머리에 운동신경은 좋아서 목욕탕에서 막 헤엄치기까지 한다. 모두가 목욕탕에서 마주치기 싫어하는 타입.
-    character: "309,312,316"
-    enemy_skill: "10038,140"
-    launch_time: 2035-12-31 00:00:00
+    character: "1001,304,333"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100039001
     id: 100039
     name: 휠 오브 언포츈
     sub_name: 휠 오브 언포츈
-    type: 4
-    code: Tyre_enemy
+    type: 1
+    code: Dropkick_YurineBoss
     introduce: 자아의식을 지닌 듯한 차륜. 갑자기 길거리에 나타나 자신 입맞대로 희생자를 골라 질주한다... 신세대의 도시전설.
     pow_rank: 5
     life_rank: 5
@@ -6352,17 +6539,16 @@
     speed_rank: 5
     range_rank: 5
     counter: 자아의식을 지닌 듯한 차륜. 갑자기 길거리에 나타나 자신 입맞대로 희생자를 골라 질주한다... 신세대의 도시전설.
-    character: "304,319"
-    enemy_skill: "10039"
-    launch_time: 2035-12-31 00:00:00
+    character: "1001,321,329"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100040001
     id: 100040
     name: 크레이지 트럭
     sub_name: 크레이지 트럭
-    type: 4
-    code: Truck_enemy
+    type: 1
+    code: Dropkick_MinosBoss
     introduce: 영문모를 소형 트럭, 교통안전법 시험에서 항상 불합격을 받고서도 제멋대로 고속 질주한다. 특히 조용한 주거단지에서 폭주하길 좋아한다.
     pow_rank: 5
     life_rank: 5
@@ -6373,17 +6559,16 @@
     speed_rank: 5
     range_rank: 5
     counter: 영문모를 소형 트럭, 교통안전법 시험에서 항상 불합격을 받고서도 제멋대로 고속 질주한다. 특히 조용한 주거단지에서 폭주하길 좋아한다.
-    character: "1001,1003,304,902"
-    enemy_skill: "10040"
-    launch_time: 2035-12-31 00:00:00
+    character: "1001,329"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100041001
     id: 100041
     name: 버블 머신
     sub_name: 버블 머신
-    type: 4
-    code: Bubble_machine
+    type: 3
+    code: Bathhouse_guest_2
     introduce: 비누거품을 만들어내는 소형 공장. 기동성은 떨어지고 자체적인 살상력이 없어 자주 어린이들과 학부모의 추격에 시달린다.
     pow_rank: 5
     life_rank: 5
@@ -6394,17 +6579,17 @@
     speed_rank: 5
     range_rank: 5
     counter: 비누거품을 만들어내는 소형 공장. 기동성은 떨어지고 자체적인 살상력이 없어 자주 어린이들과 학부모의 추격에 시달린다.
-    character: "321"
-    enemy_skill: "10041"
-    launch_time: 2035-12-31 00:00:00
+    character: "303,313"
+    enemy_skill: "10037"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100042001
     id: 100042
     name: 흔들리는 거품
     sub_name: 흔들리는 거품
-    type: 2
-    code: Bubble
+    type: 3
+    code: Bathhouse_guest_1
     introduce: 비누방울에 매우 흡사한 거품. 은은한 비누향과 투명한 색을 가져 목욕탕 잠복 정찰에 매우 최적화되어 있다. 적에게 조용히 접근할 수 있고, 발각 시에도 뿅하고 사라질 수 있다.
     pow_rank: 5
     life_rank: 5
@@ -6415,17 +6600,17 @@
     speed_rank: 5
     range_rank: 5
     counter: 비누방울에 매우 흡사한 거품. 은은한 비누향과 투명한 색을 가져 목욕탕 잠복 정찰에 매우 최적화되어 있다. 적에게 조용히 접근할 수 있고, 발각 시에도 뿅하고 사라질 수 있다.
-    character: "319"
-    enemy_skill: "10042"
-    launch_time: 2035-12-31 00:00:00
+    character: "309,312,316"
+    enemy_skill: "10038,140"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100043001
     id: 100043
     name: 로메로
     sub_name: 로메로
-    type: 2
-    code: saga_dog_enemy
+    type: 4
+    code: Tyre_enemy
     introduce: 이력을 알 수 없는 좀비 강아지. 오징어채를 좋아하며, 집마당과 프랑슈슈를 충성심 있게 수호한다. 평소 몸집이 작아 보이지만, 모든 것을 쓸어버리는 맹견으로 변신할 수 있다.
     pow_rank: 5
     life_rank: 5
@@ -6436,17 +6621,17 @@
     speed_rank: 5
     range_rank: 5
     counter: 이력을 알 수 없는 좀비 강아지. 오징어채를 좋아하며, 집마당과 프랑슈슈를 충성심 있게 수호한다. 평소 몸집이 작아 보이지만, 모든 것을 쓸어버리는 맹견으로 변신할 수 있다.
-    character: "304,315"
-    enemy_skill: "10043"
-    launch_time: 2035-12-31 00:00:00
+    character: "304,319"
+    enemy_skill: "10039"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100044001
     id: 100044
     name: 회색 가수
     sub_name: 회색 가수
-    type: 3
-    code: HK21_SagaEnemy
+    type: 4
+    code: Truck_enemy
     introduce: 나이트 카페의 멤버. "언니야"를 외치며 상대에게 달려들며, 올바른 대답을 하지 못할 경우 벌칙을 준다고 한다.
     pow_rank: 5
     life_rank: 5
@@ -6457,17 +6642,17 @@
     speed_rank: 5
     range_rank: 5
     counter: 나이트 카페의 멤버. "언니야"를 외치며 상대에게 달려들며, 올바른 대답을 하지 못할 경우 벌칙을 준다고 한다.
-    character: "100"
-    enemy_skill: "10044"
-    launch_time: 2035-12-31 00:00:00
+    character: "1001,1003,304,902"
+    enemy_skill: "10040"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100045001
     id: 100045
     name: 초록 가수
     sub_name: 초록 가수
-    type: 3
-    code: JS-127_SagaEnemy
+    type: 4
+    code: Bubble_machine
     introduce: 나이트 카페의 멤버. "앞머리 앵글"을 외치며 상대에게 달려들며, 올바른 대답을 하지 못할 경우 벌칙을 준다고 한다.
     pow_rank: 5
     life_rank: 5
@@ -6478,17 +6663,17 @@
     speed_rank: 5
     range_rank: 5
     counter: 나이트 카페의 멤버. "앞머리 앵글"을 외치며 상대에게 달려들며, 올바른 대답을 하지 못할 경우 벌칙을 준다고 한다.
-    character: "100"
-    enemy_skill: "10045"
-    launch_time: 2035-12-31 00:00:00
+    character: "321"
+    enemy_skill: "10041"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100046001
     id: 100046
     name: 붉은 가수
     sub_name: 붉은 가수
-    type: 3
-    code: PM06_SagaEnemy
+    type: 2
+    code: Bubble
     introduce: 나이트 카페의 멤버. "새빨갛게"를 외치며 상대에게 달려들며, 올바른 대답을 하지 못할 경우 벌칙을 준다고 한다.
     pow_rank: 5
     life_rank: 5
@@ -6499,17 +6684,17 @@
     speed_rank: 5
     range_rank: 5
     counter: 나이트 카페의 멤버. "새빨갛게"를 외치며 상대에게 달려들며, 올바른 대답을 하지 못할 경우 벌칙을 준다고 한다.
-    character: "100"
-    enemy_skill: "10046"
-    launch_time: 2035-12-31 00:00:00
+    character: "319"
+    enemy_skill: "10042"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100047001
     id: 100047
     name: 방탕한 보컬
     sub_name: 방탕한 보컬
-    type: 3
-    code: MG5_SagaEnemy
+    type: 2
+    code: saga_dog_enemy
     introduce: 그레이 트리의 메인 보컬. 냉철하고 매서운 눈빛을 지녀 밴드에서 가장 건들면 큰일 날 것 같은 인물이지만, 사실은 평화주의자로 유명하고, 밴드 멤버들이 일으킨 말썽의 뒤수습을 자주 맡는다.
     pow_rank: 5
     life_rank: 5
@@ -6520,9 +6705,9 @@
     speed_rank: 5
     range_rank: 5
     counter: 그레이 트리의 메인 보컬. 냉철하고 매서운 눈빛을 지녀 밴드에서 가장 건들면 큰일 날 것 같은 인물이지만, 사실은 평화주의자로 유명하고, 밴드 멤버들이 일으킨 말썽의 뒤수습을 자주 맡는다.
-    character: "100"
-    enemy_skill: "10047"
-    launch_time: 2035-12-31 00:00:00
+    character: "304,315"
+    enemy_skill: "10043"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100048001
@@ -6530,7 +6715,7 @@
     name: 불꽃 기타리스트
     sub_name: 불꽃 기타리스트
     type: 3
-    code: M1887_SagaEnemy
+    code: HK21_SagaEnemy
     introduce: 그레이 트리의 기타리스트. 항상 붉은 염색약과 점화제를 휴대하고 다니며 불꽃 같은 색을 좋아하고, 성질 낼 때도 불꽃을 피워낸다.
     pow_rank: 5
     life_rank: 5
@@ -6542,8 +6727,8 @@
     range_rank: 5
     counter: 그레이 트리의 기타리스트. 항상 붉은 염색약과 점화제를 휴대하고 다니며 불꽃 같은 색을 좋아하고, 성질 낼 때도 불꽃을 피워낸다.
     character: "100"
-    enemy_skill: "10048"
-    launch_time: 2035-12-31 00:00:00
+    enemy_skill: "10044"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100049001
@@ -6551,7 +6736,7 @@
     name: 체이싱 드러머
     sub_name: 체이싱 드러머
     type: 3
-    code: 80type_SagaEnemy
+    code: JS-127_SagaEnemy
     introduce: 그레이 트리의 드러머. 그 손놀림은 육안으로 따라잡을 수 없을 정도며, 드론으로 현란한 무대효과도 연출해낸다. 하지만 가끔씩 실수로 관중석으로 드론을 날릴 때가 있다.
     pow_rank: 5
     life_rank: 5
@@ -6563,8 +6748,8 @@
     range_rank: 5
     counter: 그레이 트리의 드러머. 그 손놀림은 육안으로 따라잡을 수 없을 정도며, 드론으로 현란한 무대효과도 연출해낸다. 하지만 가끔씩 실수로 관중석으로 드론을 날릴 때가 있다.
     character: "100"
-    enemy_skill: "10049"
-    launch_time: 2035-12-31 00:00:00
+    enemy_skill: "10045"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100050001
@@ -6572,7 +6757,7 @@
     name: 선글라스 베이스
     sub_name: 선글라스 베이스
     type: 3
-    code: M1897_SagaEnemy
+    code: PM06_SagaEnemy
     introduce: 그레이 트리의 베이시스트. 항상 선글라스에 표정을 숨기고 있어, 깨어있는 것인지 자는 것인지, 손 안에 쥔 게 베이스인지 빗자루인지 알기 힘들다.
     pow_rank: 5
     life_rank: 5
@@ -6584,8 +6769,8 @@
     range_rank: 5
     counter: 그레이 트리의 베이시스트. 항상 선글라스에 표정을 숨기고 있어, 깨어있는 것인지 자는 것인지, 손 안에 쥔 게 베이스인지 빗자루인지 알기 힘들다.
     character: "100"
-    enemy_skill: "10050"
-    launch_time: 2035-12-31 00:00:00
+    enemy_skill: "10046"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100051001
@@ -6593,7 +6778,7 @@
     name: 미스테리 키보더
     sub_name: 미스테리 키보더
     type: 3
-    code: G11_SagaEnemy
+    code: MG5_SagaEnemy
     introduce: 그레이 트리의 키보더. 공연 중에만 모습을 드러내며, 평소 행방은 알 수가 없다. 밴드의 일 말고도 자신만의 비밀 임무가 있는 것 같다.
     pow_rank: 5
     life_rank: 5
@@ -6605,8 +6790,8 @@
     range_rank: 5
     counter: 그레이 트리의 키보더. 공연 중에만 모습을 드러내며, 평소 행방은 알 수가 없다. 밴드의 일 말고도 자신만의 비밀 임무가 있는 것 같다.
     character: "100"
-    enemy_skill: "10051"
-    launch_time: 2035-12-31 00:00:00
+    enemy_skill: "10047"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100052001
@@ -6614,19 +6799,20 @@
     name: 수감된 사회인
     sub_name: 수감된 사회인
     type: 3
-    code: FacelessMenA
+    code: M1887_SagaEnemy
     introduce: 매일 반복되는 업무에 얼굴이 흐려지고, 끝이 안 보이는 잔업에 마음을 잃어, 분노의 꼭두각시로 전락하였다.
-    pow_rank: 1
-    life_rank: 4
-    hit_rank: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
     dodge_rank: 5
-    rate_rank: 4
-    speed_rank: 1
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
     range_rank: 5
     counter: 정보 불명, 조심해서 대응하세요!
-    character: "303"
-    enemy_skill: "40"
-    launch_time: 2035-12-31 00:00:00
+    character: "100"
+    enemy_skill: "10048"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100053001
@@ -6634,19 +6820,20 @@
     name: 수감된 사회인
     sub_name: 수감된 사회인
     type: 3
-    code: FacelessMenB
+    code: 80type_SagaEnemy
     introduce: 매일 반복되는 업무에 얼굴이 흐려지고, 끝이 안 보이는 잔업에 마음을 잃어, 분노의 꼭두각시로 전락하였다.
-    pow_rank: 1
-    life_rank: 4
-    hit_rank: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
     dodge_rank: 5
-    rate_rank: 4
-    speed_rank: 1
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
     range_rank: 5
     counter: 정보 불명, 조심해서 대응하세요!
-    character: "303"
-    enemy_skill: "40"
-    launch_time: 2035-12-31 00:00:00
+    character: "100"
+    enemy_skill: "10049"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100054001
@@ -6654,7 +6841,7 @@
     name: SPS의 더미
     sub_name: SPS의 더미
     type: 3
-    code: SPS_NPC
+    code: M1897_SagaEnemy
     introduce: 이 세르듀코프는 존댓말을 하지 않습니다.
     pow_rank: 5
     life_rank: 5
@@ -6666,7 +6853,8 @@
     range_rank: 5
     counter: 정보 불명, 조심해서 대응하세요!
     character: "100"
-    launch_time: 2035-12-31 00:00:00
+    enemy_skill: "10050"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100055001
@@ -6674,7 +6862,7 @@
     name: KSVK의 더미
     sub_name: KSVK의 더미
     type: 3
-    code: KSVK_NPC
+    code: G11_SagaEnemy
     introduce: 이 KSVK는 전혀 중2병스럽지 않습니다.
     pow_rank: 5
     life_rank: 5
@@ -6686,7 +6874,8 @@
     range_rank: 5
     counter: 정보 불명, 조심해서 대응하세요!
     character: "100"
-    launch_time: 2035-12-31 00:00:00
+    enemy_skill: "10051"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100056001
@@ -6694,48 +6883,47 @@
     name: A545의 더미
     sub_name: A545의 더미
     type: 3
-    code: A545_NPC
+    code: FacelessMenA
     introduce: 이 A-545는 보드카를 마시지 않습니다.
-    pow_rank: 5
-    life_rank: 5
-    hit_rank: 5
+    pow_rank: 1
+    life_rank: 4
+    hit_rank: 1
     dodge_rank: 5
-    rate_rank: 5
-    armor_rank: 5
-    speed_rank: 5
+    rate_rank: 4
+    speed_rank: 1
     range_rank: 5
     counter: 정보 불명, 조심해서 대응하세요!
-    character: "100"
-    launch_time: 2035-12-31 00:00:00
+    character: "303"
+    enemy_skill: "40"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100057001
     id: 100057
     name: 에사키 푸린
     sub_name: 에사키 푸린
-    type: 1
-    code: EzakiBoss
+    type: 3
+    code: FacelessMenB
     introduce: 분노로 가득 찬, 그 화력도 분노로 가득 찬 푸린, 붙잡히지 않기를 빌어야 한다. 참고로, 이 푸린은 푸딩을 안 먹는다.
-    pow_rank: 5
-    life_rank: 5
-    hit_rank: 5
+    pow_rank: 1
+    life_rank: 4
+    hit_rank: 1
     dodge_rank: 5
-    rate_rank: 5
-    armor_rank: 5
-    speed_rank: 5
+    rate_rank: 4
+    speed_rank: 1
     range_rank: 5
     counter: 정보 불명, 조심해서 대응하세요!
-    character: "1001"
-    enemy_skill: "10052,10053"
-    launch_time: 2035-12-31 00:00:00
+    character: "303"
+    enemy_skill: "40"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100058001
     id: 100058
     name: 시마무라 타카시
     sub_name: 시마무라 타카시
-    type: 1
-    code: TakashiBoss
+    type: 3
+    code: SPS_NPC
     introduce: 항상 검은 옷을 입고 다니는 소년, 밤에 장막에 숨어서 암약하는 자.
     pow_rank: 5
     life_rank: 5
@@ -6746,17 +6934,16 @@
     speed_rank: 5
     range_rank: 5
     counter: 정보 불명, 조심해서 대응하세요!
-    character: "1001"
-    enemy_skill: "10054,10055"
-    launch_time: 2035-12-31 00:00:00
+    character: "100"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100059001
     id: 100059
     name: 미즈카네 스즈카
     sub_name: 미즈카네 스즈카
-    type: 1
-    code: MizukinnBoss
+    type: 3
+    code: KSVK_NPC
     introduce: 어깨에 걸친 RPG와 손에 쥔 기관총의 위협에 시선이 쏠리겠지만, 그녀가 무기를 내려놓은 후에야 진정한 위협을 깨닫게 된다.
     pow_rank: 5
     life_rank: 5
@@ -6767,9 +6954,8 @@
     speed_rank: 5
     range_rank: 5
     counter: 정보 불명, 조심해서 대응하세요!
-    character: "1001"
-    enemy_skill: "10056,10057,10058"
-    launch_time: 2035-12-31 00:00:00
+    character: "100"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100060001
@@ -6777,7 +6963,7 @@
     name: 도스 보디가드
     sub_name: 도스 보디가드-AR
     type: 3
-    code: Guard1Breakout
+    code: A545_NPC
     introduce: 긴 시간 도스를 호위한 보디가드, 지하 조직답게 악독하다.
     pow_rank: 5
     life_rank: 5
@@ -6788,16 +6974,16 @@
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
-    character: "106"
-    launch_time: 2035-12-31 00:00:00
+    character: "100"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100061001
     id: 100061
     name: 도스 보디가드
     sub_name: 도스 보디가드-RF
-    type: 3
-    code: Guard2Breakout
+    type: 1
+    code: EzakiBoss
     introduce: 긴 시간 도스를 호위한 보디가드, 지하 조직답게 악독하다.
     pow_rank: 5
     life_rank: 5
@@ -6808,16 +6994,17 @@
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
-    character: "106"
-    launch_time: 2035-12-31 00:00:00
+    character: "1001"
+    enemy_skill: "10052,10053"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100062001
     id: 100062
     name: 도스 보디가드
     sub_name: 도스 보디가드-SG
-    type: 3
-    code: Guard3Breakout
+    type: 1
+    code: TakashiBoss
     introduce: 긴 시간 도스를 호위한 보디가드, 지하 조직답게 악독하다.
     pow_rank: 5
     life_rank: 5
@@ -6828,16 +7015,17 @@
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
-    character: "106"
-    launch_time: 2035-12-31 00:00:00
+    character: "1001"
+    enemy_skill: "10054,10055"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100063001
     id: 100063
     name: 블랙골드 대원
     sub_name: 블랙골드 대원-AR
-    type: 3
-    code: BG1Breakout
+    type: 1
+    code: MizukinnBoss
     introduce: 블랙골드 어비스 분대원, 엄격한 훈련을 받은 정예 병력이다.
     pow_rank: 5
     life_rank: 5
@@ -6848,8 +7036,9 @@
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
-    character: "107"
-    launch_time: 2035-12-31 00:00:00
+    character: "1001"
+    enemy_skill: "10056,10057,10058"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100064001
@@ -6857,7 +7046,7 @@
     name: 블랙골드 대원
     sub_name: 블랙골드 대원-SMG
     type: 3
-    code: BG2Breakout
+    code: Guard1Breakout
     introduce: 블랙골드 어비스 분대원, 엄격한 훈련을 받은 정예 병력이다.
     pow_rank: 5
     life_rank: 5
@@ -6868,8 +7057,8 @@
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
-    character: "107"
-    launch_time: 2035-12-31 00:00:00
+    character: "106"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100065001
@@ -6877,7 +7066,7 @@
     name: 블랙골드 대원
     sub_name: 블랙골드 대원-RF
     type: 3
-    code: BG3Breakout
+    code: Guard2Breakout
     introduce: 블랙골드 어비스 분대원, 엄격한 훈련을 받은 정예 병력이다.
     pow_rank: 5
     life_rank: 5
@@ -6888,8 +7077,8 @@
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
-    character: "107"
-    launch_time: 2035-12-31 00:00:00
+    character: "106"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100066001
@@ -6897,7 +7086,7 @@
     name: 도스 킬러
     sub_name: 도스 킬러
     type: 3
-    code: DisGuardBreakout
+    code: Guard3Breakout
     introduce: 도스가 보낸 킬러, 도스를 위해 목표를 제거한다.
     pow_rank: 5
     life_rank: 5
@@ -6909,7 +7098,7 @@
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "106"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100067001
@@ -6917,7 +7106,7 @@
     name: 특전대
     sub_name: 특전대
     type: 3
-    code: DisBGBreakout
+    code: BG1Breakout
     introduce: 출신 불명인 특수병사, 전투 스타일을 보아 정규적 훈련을 받은 것 같다.
     pow_rank: 5
     life_rank: 5
@@ -6929,7 +7118,7 @@
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "107"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100068001
@@ -6937,7 +7126,7 @@
     name: 정예 도스 보디가드
     sub_name: 정예 도스 보디가드
     type: 3
-    code: EliteGuardBreakout
+    code: BG2Breakout
     introduce: 도스의 보디가드 대장. 뛰어난 능력만큼 신임도 받고 있다.
     pow_rank: 5
     life_rank: 5
@@ -6948,8 +7137,8 @@
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
-    character: "1001,106"
-    launch_time: 2035-12-31 00:00:00
+    character: "107"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100069001
@@ -6957,7 +7146,7 @@
     name: 정예 블랙골드 대원
     sub_name: 정예 블랙골드 대원
     type: 3
-    code: EliteBGBreakout
+    code: BG3Breakout
     introduce: 블랙골드 어비스 분대 정예 대원, 더 뛰어난 능력을 가지고 있다.
     pow_rank: 5
     life_rank: 5
@@ -6968,16 +7157,16 @@
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
-    character: "1001,107"
-    launch_time: 2035-12-31 00:00:00
+    character: "107"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100070001
     id: 100070
     name: 도스
     sub_name: 도스
-    type: 1
-    code: DosBreakout
+    type: 3
+    code: DisGuardBreakout
     introduce: 다크존 본토 세력인 안토니오 패밀리의 두목, 각종 불법 장사를 경영하고 있으며, 눈치 빠르고 악독하다. 항상 보디가드를 곁에 거느리고 다니는 만만하지 않은 거물이다.
     pow_rank: 5
     life_rank: 5
@@ -6988,17 +7177,16 @@
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
-    character: "1001,106"
-    enemy_skill: "10059,10060,10061,10062"
-    launch_time: 2035-12-31 00:00:00
+    character: "106"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100071001
     id: 100071
     name: 벨루가
     sub_name: 벨루가
-    type: 1
-    code: M16A1Arena
+    type: 3
+    code: DisBGBreakout
     introduce: 이력 불명, 목적 불명. 표면적인 신분으론 도스가 최근 포섭한 인력인 것 같다. 지휘관이 호송하는 상자를 유독 신경쓰는 모습을 보아 속사정을 아는 것 같다.
     pow_rank: 5
     life_rank: 5
@@ -7009,17 +7197,16 @@
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
-    character: "1001,1004"
-    enemy_skill: "8103,8202,8301"
-    launch_time: 2035-12-31 00:00:00
+    character: "107"
+    launch_time: 2016-5-20 00:00:00
   }
   {
     sub_id: 100072001
     id: 100072
     name: 헤카테
     sub_name: 헤카테
-    type: 1
-    code: HecateBoss
+    type: 3
+    code: EliteGuardBreakout
     introduce: 블랙골드 어비스 분대 분대장, 등반과 잠입 작전에 능하며, 뛰어난 지능과 작전 능력을 지니고 있다. 다크존에서도 악명 높은 부대장이다.
     pow_rank: 5
     life_rank: 5
@@ -7030,9 +7217,95 @@
     speed_rank: 5
     range_rank: 5
     counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "1001,106"
+    launch_time: 2016-5-20 00:00:00
+  }
+  {
+    sub_id: 100073001
+    id: 100073
+    name: enemy_illustration-110073001
+    sub_name: enemy_illustration-150073001
+    type: 3
+    code: EliteBGBreakout
+    introduce: enemy_illustration-120073001
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: enemy_illustration-130073001
+    character: "1001,107"
+    launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-140073001
+  }
+  {
+    sub_id: 100074001
+    id: 100074
+    name: enemy_illustration-110074001
+    sub_name: enemy_illustration-150074001
+    type: 1
+    code: DosBreakout
+    introduce: enemy_illustration-120074001
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: enemy_illustration-130074001
+    character: "1001,106"
+    enemy_skill: "10059,10060,10061,10062"
+    launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-140074001
+  }
+  {
+    sub_id: 100075001
+    id: 100075
+    name: enemy_illustration-110075001
+    sub_name: enemy_illustration-150075001
+    type: 1
+    code: M16A1Arena
+    introduce: enemy_illustration-120075001
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: enemy_illustration-130075001
+    character: "1001,1004"
+    enemy_skill: "8103,8202,8301"
+    launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-140075001
+  }
+  {
+    sub_id: 100076001
+    id: 100076
+    name: enemy_illustration-110076001
+    sub_name: enemy_illustration-150076001
+    type: 1
+    code: HecateBoss
+    introduce: enemy_illustration-120076001
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: enemy_illustration-130076001
     character: "1001,107"
     enemy_skill: "10063,10064,10065,10066,10067,10068,10069"
-    launch_time: 2035-12-31 00:00:00
+    launch_time: 2016-5-20 00:00:00
+    extra: enemy_illustration-140076001
   }
   {
     sub_id: 100082001

@@ -16435,9 +16435,126 @@
     id: 2675
     type: 5
     arg: "1"
-    code: profilePic_Anniversary_Kalina
+    code: profilePic_Anniversary2025_Kalina
     item_name: 아이콘: 구구경축
     introduction: 아이콘: 구구경축
+    rank: 1
+  }
+  {
+    id: 2676
+    type: 5
+    arg: "1"
+    code: profilePic_9years_01
+    item_name: 아이콘: 황금빛 전망
+    introduction: 아이콘: 황금빛 전망
+    rank: 1
+  }
+  {
+    id: 2677
+    type: 5
+    arg: "1"
+    code: card_9years_01
+    item_name: 카드배경: 순간은 빛처럼, 영원은 거울처럼
+    introduction: 카드배경: 순간은 빛처럼, 영원은 거울처럼
+    rank: 1
+  }
+  {
+    id: 2678
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_HK433
+    item_name: HK433 - 그레이 데이
+    introduction: HK433 - 그레이 데이
+    rank: 1
+  }
+  {
+    id: 2679
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_95type
+    item_name: 95식 - 유광소우
+    introduction: 95식 - 유광소우
+    rank: 1
+  }
+  {
+    id: 2680
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_QBZ191
+    item_name: QBZ-191 - 검은 옷이 달을 껴안네
+    introduction: QBZ-191 - 검은 옷이 달을 껴안네
+    rank: 1
+  }
+  {
+    id: 2681
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_SIGMCX
+    item_name: SIG MCX - 핫핑크 펀치
+    introduction: SIG MCX - 핫핑크 펀치
+    rank: 1
+  }
+  {
+    id: 2682
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_TAR21
+    item_name: TAR-21 - 푸른 연과 꽃방울
+    introduction: TAR-21 - 푸른 연과 꽃방울
+    rank: 1
+  }
+  {
+    id: 2683
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_G43
+    item_name: G43 - 모래시계 거울
+    introduction: G43 - 모래시계 거울
+    rank: 1
+  }
+  {
+    id: 2684
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_BrenTen
+    item_name: Bren Ten - 스위트 드림 론도
+    introduction: Bren Ten - 스위트 드림 론도
+    rank: 1
+  }
+  {
+    id: 2685
+    type: 5
+    arg: "1"
+    code: profilePic_Anniversary2025_HowaType89
+    item_name: 89식 소총 - 스페셜 브렌딩 타임
+    introduction: 89식 소총 - 스페셜 브렌딩 타임
+    rank: 1
+  }
+  {
+    id: 2686
+    type: 5
+    arg: "1"
+    code: profilePic_202505Activity_04
+    item_name: 아이콘: 끝내 환상으로
+    introduction: 아이콘: 끝내 환상으로
+    rank: 1
+  }
+  {
+    id: 2687
+    type: 5
+    arg: "1"
+    code: card_202505Activity_04
+    item_name: 카드배경: 언제나 함께일 것 같았던 풍경
+    introduction: 카드배경: 언제나 함께일 것 같았던 풍경
+    rank: 1
+  }
+  {
+    id: 2688
+    type: 5
+    arg: "1"
+    code: profilePic_Return2025_coremask
+    item_name: 아이콘: 최첨단 마스크·9주년
+    introduction: 아이콘: 최첨단 마스크·9주년
     rank: 1
   }
   {
@@ -26410,7 +26527,7 @@
     id: 1500225
     type: 15
     arg: "1500225"
-    code: Bumdle_equipment
+    code: Bumdle_9yearCoupon
     item_name: 9주년 코스튬 쿠폰
     introduction: 창고에서 사용하면 지정 범위에서 코스튬을 하나 선택해 얻습니다.
     rank: 1
@@ -26445,7 +26562,51 @@
     arg: "1500228"
     code: Bumdle_Coupons1
     item_name: 로열 코스튬 쿠폰·주년
-    introduction: 창고에서 사용하면 지정 범위에서 보유하지 않은 코스튬을 무작위로 얻습니다.
+    introduction: 창고에서 사용하면 지정 범위 중 원하는 코스튬을 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500229
+    type: 15
+    arg: "1500229"
+    code: Bumdle_passport_1
+    item_name: 설원 방문객 협약 물자 보급
+    introduction: 창고에서 사용하면 "PK - 설야 나들이" 코스튬을 포함한 각종 아이템을 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500230
+    type: 15
+    arg: "1500230"
+    code: Bumdle_passport_2
+    item_name: 매콤한 겨울 협약 물자 보급
+    introduction: 창고에서 사용하면 "CF05 - 보글보글 세월" 코스튬을 포함한 각종 아이템을 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500231
+    type: 15
+    arg: "1500231"
+    code: Bumdle_passport_3
+    item_name: 자욱한 초연 협약 물자 보급
+    introduction: 창고에서 사용하면 "M14 - 역전의 증원군" 코스튬을 포함한 각종 아이템을 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500232
+    type: 15
+    arg: "1500232"
+    code: Bumdle_passport_4
+    item_name: 백사장 일광욕 협약 물자 보급
+    introduction: 창고에서 사용하면 "베오울프 - 해변의 사냥꾼" 코스튬을 포함한 각종 아이템을 얻을 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1

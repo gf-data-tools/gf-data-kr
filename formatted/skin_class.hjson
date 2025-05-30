@@ -554,4 +554,9 @@
     theme_type: 3
     name: 꽃이 만발할 때
   }
+  {
+    id: 112
+    theme_type: 4
+    name: skin_class-10000112
+  }
 ]

@@ -3893,6 +3893,20 @@
     color_icon_id: "969"
   }
   {
+    id: 6440
+    name: 피자 씨
+    description: 어째선지 눈에 익은 봉제인형. "드디어 내 차례구나! 피자 씨도 준비완료야~☆" 등에 맨 순간 저절로 이런 소리가 입에서 나왔습니다.
+    code: BodyAcco
+    icon: commander_6440_icon
+    type: 4
+    uniform_class: "64"
+    color_normal: Commander_6440_N
+    bone_name: BodyBinder1
+    scale: 0.2
+    position: "0.020,0.070"
+    color_icon_id: "961"
+  }
+  {
     id: 9920
     name: 활기찬 위장
     description: 언제나 가장 좋은 모습으로.
