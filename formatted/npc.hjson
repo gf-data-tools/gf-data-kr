@@ -1,12 +1,10 @@
 [
   {
     id: -27
-    name: npc-9999973
+    name: 루니샤
     code: NPC-Lunasia
-    title: npc-19999973
+    title: 루니샤
     ai: 9999
-    unlock_text: npc-29999973
-    org_introduction: npc-39999973
   }
   {
     id: -26

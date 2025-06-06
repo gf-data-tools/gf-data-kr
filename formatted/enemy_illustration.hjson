@@ -5756,10 +5756,10 @@
     sub_id: 249001
     id: 249
     name: enemy_illustration-10249001
-    sub_name: enemy_illustration-50249001
+    sub_name: 자율인형-Bren Ten
     type: 3
     code: BrenTen_enemy
-    introduce: enemy_illustration-20249001
+    introduce: 상정하지 않은 적.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5767,20 +5767,19 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-30249001
+    counter: 정보 불명, 신중하게 상대하세요!
     character: "100"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-40249001
     spine_scale: "70,70,1"
   }
   {
     sub_id: 250001
     id: 250
-    name: enemy_illustration-10250001
-    sub_name: enemy_illustration-50250001
+    name: 자율인형-FNP-9
+    sub_name: 자율인형-FNP-9
     type: 3
     code: FNP9_enemy
-    introduce: enemy_illustration-20250001
+    introduce: 상정하지 않은 적.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5788,20 +5787,19 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-30250001
+    counter: 정보 불명, 신중하게 상대하세요!
     character: "100"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-40250001
     spine_scale: "70,70,1"
   }
   {
     sub_id: 251001
     id: 251
-    name: enemy_illustration-10251001
-    sub_name: enemy_illustration-50251001
+    name: 자율인형-IDW
+    sub_name: 자율인형-IDW
     type: 3
     code: IDW_enemy
-    introduce: enemy_illustration-20251001
+    introduce: 상정하지 않은 적.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5809,20 +5807,19 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-30251001
+    counter: 정보 불명, 신중하게 상대하세요!
     character: "100"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-40251001
     spine_scale: "70,70,1"
   }
   {
     sub_id: 252001
     id: 252
-    name: enemy_illustration-10252001
-    sub_name: enemy_illustration-50252001
+    name: 자율인형-Spectre M4
+    sub_name: 자율인형-Spectre M4
     type: 3
     code: SpectreM4_enemy
-    introduce: enemy_illustration-20252001
+    introduce: 상정하지 않은 적.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5830,20 +5827,19 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-30252001
+    counter: 정보 불명, 신중하게 상대하세요!
     character: "100"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-40252001
     spine_scale: "70,70,1"
   }
   {
     sub_id: 253001
     id: 253
-    name: enemy_illustration-10253001
-    sub_name: enemy_illustration-50253001
+    name: 자율인형-63식
+    sub_name: 자율인형-63식
     type: 3
     code: 63type_enemy
-    introduce: enemy_illustration-20253001
+    introduce: 상정하지 않은 적.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5851,20 +5847,19 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-30253001
+    counter: 정보 불명, 신중하게 상대하세요!
     character: "100"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-40253001
     spine_scale: "70,70,1"
   }
   {
     sub_id: 254001
     id: 254
-    name: enemy_illustration-10254001
-    sub_name: enemy_illustration-50254001
+    name: 자율인형-L85A1
+    sub_name: 자율인형-L85A1
     type: 3
     code: L85A1_enemy
-    introduce: enemy_illustration-20254001
+    introduce: 상정하지 않은 적.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5872,10 +5867,9 @@
     rate_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-30254001
+    counter: 정보 불명, 신중하게 상대하세요!
     character: "100"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-40254001
     spine_scale: "70,70,1"
   }
   {
@@ -5903,10 +5897,10 @@
     sub_id: 100009001
     id: 100009
     name: enemy_illustration-110009001
-    sub_name: enemy_illustration-150009001
+    sub_name: 해변의 수박
     type: 2
     code: Pathfinder_Small
-    introduce: enemy_illustration-120009001
+    introduce: 평범한 수박.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -5915,15 +5909,14 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130009001
+    counter: 박살내자!
     character: "903"
     launch_time: 2035-12-31 00:00:00
-    extra: enemy_illustration-140009001
   }
   {
     sub_id: 100011001
     id: 100011
-    name: 방패수
+    name: enemy_illustration-110011001
     sub_name: 방패수
     type: 3
     code: GG_Elfeldt_SF
@@ -6323,11 +6316,11 @@
   {
     sub_id: 100030002
     id: 100030
-    name: enemy_illustration-110030002
-    sub_name: enemy_illustration-150030002
+    name: 헬파이어
+    sub_name: 헬파이어-특수형
     type: 1
     code: HK416Boss
-    introduce: enemy_illustration-120030002
+    introduce: 벡터와 비슷한 외모를 지녔으나 [Division]의 세계에서만 존재하는 것 같은 AI. 클리너 군단을 지휘하는 능력 이외에 모든 것이 수수께끼.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -6336,15 +6329,14 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130030002
+    counter: 이동! 사격! 강한 적을 상대로 승리하세요!
     character: "1001,424,425"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-140030002
   }
   {
     sub_id: 100031001
     id: 100031
-    name: 외눈박이
+    name: 벡터
     sub_name: 외눈박이
     type: 1
     code: VectorBoss
@@ -6545,7 +6537,7 @@
   {
     sub_id: 100040001
     id: 100040
-    name: 크레이지 트럭
+    name: 목욕탕 자객
     sub_name: 크레이지 트럭
     type: 1
     code: Dropkick_MinosBoss
@@ -7223,11 +7215,11 @@
   {
     sub_id: 100073001
     id: 100073
-    name: enemy_illustration-110073001
-    sub_name: enemy_illustration-150073001
+    name: 도스
+    sub_name: 도스
     type: 3
     code: EliteBGBreakout
-    introduce: enemy_illustration-120073001
+    introduce: 다크존 본토 세력인 안토니 패밀리의 두목, 각종 불법 장사를 경영하고 있으며, 눈치 빠르고 악독하다. 항상 보디가드를 곁에 거느리고 다니는 만만하지 않은 거물이다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -7236,19 +7228,18 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130073001
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "1001,107"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-140073001
   }
   {
     sub_id: 100074001
     id: 100074
-    name: enemy_illustration-110074001
-    sub_name: enemy_illustration-150074001
+    name: 벨루가
+    sub_name: 벨루가
     type: 1
     code: DosBreakout
-    introduce: enemy_illustration-120074001
+    introduce: 이력 불명, 목적 불명. 표면적인 신분으론 도스가 최근 섭외한 인력인 것 같다. 지휘관이 호송하는 상자를 유독 신경쓰는 모습을 보아, 내정을 아는 것 같다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -7257,20 +7248,19 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130074001
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "1001,106"
     enemy_skill: "10059,10060,10061,10062"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-140074001
   }
   {
     sub_id: 100075001
     id: 100075
-    name: enemy_illustration-110075001
-    sub_name: enemy_illustration-150075001
+    name: 헤카테
+    sub_name: 헤카테
     type: 1
     code: M16A1Arena
-    introduce: enemy_illustration-120075001
+    introduce: 블랙골드 어비스 분대 분대장, 등반과 잠입 작전에 능하며, 뛰어난 지능과 작전 능력을 지니고 있다. 다크존에서도 악명 높은 부대장이다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -7279,20 +7269,19 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130075001
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "1001,1004"
     enemy_skill: "8103,8202,8301"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-140075001
   }
   {
     sub_id: 100076001
     id: 100076
-    name: enemy_illustration-110076001
-    sub_name: enemy_illustration-150076001
+    name: 헤카테
+    sub_name: 헤카테
     type: 1
     code: HecateBoss
-    introduce: enemy_illustration-120076001
+    introduce: 블랙골드 어비스 분대 분대장, 등반과 잠입 작전에 능하며, 뛰어난 지능과 작전 능력을 지니고 있다. 다크존에서도 악명 높은 부대장이다.
     pow_rank: 5
     life_rank: 5
     hit_rank: 5
@@ -7301,11 +7290,10 @@
     armor_rank: 5
     speed_rank: 5
     range_rank: 5
-    counter: enemy_illustration-130076001
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
     character: "1001,107"
     enemy_skill: "10063,10064,10065,10066,10067,10068,10069"
     launch_time: 2016-5-20 00:00:00
-    extra: enemy_illustration-140076001
   }
   {
     sub_id: 100082001

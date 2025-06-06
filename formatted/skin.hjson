@@ -9718,97 +9718,87 @@
   }
   {
     id: 11501
-    name: skin-10011501
+    name: HK433 - 그레이 데이
     fit_gun: 390
     voice: 4
-    dialog: skin-20011501
-    note: skin-30011501
-    illustrator_cv: skin-40011501
+    dialog: 과거의 저는 정지한 흑백 그림, 당신께서 색칠해 주신 덕분에 끝없이 피어나는 영원이 되었어요...
+    illustrator_cv: 豆芽,Kawasumi Ayak,
     order: 154
     class_id: 112
     skin_source: 2
   }
   {
     id: 11502
-    name: skin-10011502
+    name: 95식 - 유광소우
     fit_gun: 129
     voice: 4
-    dialog: skin-20011502
-    note: skin-30011502
+    dialog: 초대해 주셔서 고맙습니다, 지휘관님. 당신과 함께 이 찬란한 밤하늘을 감상할 수 있는 것이 제게 있어선 오늘의 가장 아름다운 기억이에요.
     gift_position: "-99.1,-79.5"
-    illustrator_cv: skin-40011502
+    illustrator_cv: 鸠山井鹤,Daimon Kami,
     order: 154
     class_id: 112
     skin_source: 1
   }
   {
     id: 11503
-    name: skin-10011503
+    name: QBZ-191 - 검은 옷이 달을 껴안네
     fit_gun: 361
     voice: 4
-    dialog: skin-20011503
-    note: skin-30011503
-    illustrator_cv: skin-40011503
+    dialog: 현곤이란 옷은 용을 그려넣은 검은 옷이라 하오. 허나 나의 옷에 용을 그릴 필요는 없지. 굳이 말한다면 이 달빛이 더 어울리는 장식이 될 것이오. 그렇지, 지휘관. 그대는 소인과 함께 달을 감상할 생각이오, 아니면 함께 한 곡 춤을 출 생각이오?
     order: 154
     class_id: 112
     skin_source: 2
   }
   {
     id: 11504
-    name: skin-10011504
+    name: SIG MCX - 핫핑크 펀치
     fit_gun: 338
     voice: 4
-    dialog: skin-20011504
-    note: skin-30011504
+    dialog: 꼭 제복차림이어야 정의를 행사할 수 있는 건 아니지. 이 아머를 차고 문앞에서 살짝 눈치만 줘도 아무도 우리 파티를 방해하지 못할걸?
     gift_position: "-133.9,-38"
-    illustrator_cv: skin-40011504
     order: 154
     class_id: 112
     skin_source: 1
   }
   {
     id: 11505
-    name: skin-10011505
+    name: TAR-21 - 푸른 연과 꽃방울
     fit_gun: 72
     voice: 4
-    dialog: skin-20011505
-    note: skin-30011505
-    illustrator_cv: skin-40011505
+    dialog: 주년 파티는 단순히 과거를 돌아보는 때가 아니죠. 저같은 신형 인형이 곁에 있으면, 미래의 성공도 기대할 만한 부분일걸요.
+    illustrator_cv: 鸠山井鹤,Maihara Yume,
     order: 154
     class_id: 112
     skin_source: 2
   }
   {
     id: 11506
-    name: skin-10011506
+    name: G43 - 모래시계 거울
     fit_gun: 47
     voice: 4
-    dialog: skin-20011506
-    note: skin-30011506
-    illustrator_cv: skin-40011506
+    dialog: 시간은 모래알처럼 손가락틈 사이로 쉼없이 흘러내리죠... 지휘관님과 함께 지내는 시간을 거울 속에 담아 영원히 간직하고 싶은데...
+    illustrator_cv: 星迴,Amane Nozomi,
     order: 154
     class_id: 112
   }
   {
     id: 11507
-    name: skin-10011507
+    name: Bren Ten - 스위트 드림 론도
     fit_gun: 139
     voice: 4
-    dialog: skin-20011507
-    note: skin-30011507
-    illustrator_cv: skin-40011507
+    dialog: 지휘관님! 저랑 회전목마 타요! 히히히~ 돈다 돈다~ 앗? 지휘관님, 왜 갑자기 엎드리세요? 지금 주무실 시간 아니에요!
+    illustrator_cv: 小星,Sato Arise,
     order: 154
     class_id: 112
     skin_source: 2
   }
   {
     id: 11508
-    name: skin-10011508
+    name: 89식 소총 - 스페셜 브렌딩 타임
     fit_gun: 290
     voice: 4
-    dialog: skin-20011508
-    note: skin-30011508
-    illustrator_cv: skin-40011508
+    dialog: 짜잔~ 주년 스페셜 브렌딩이에요! 제가 새로 발명한 얼음조각을 넣어서 녹아도 술 맛이 묽어지지 않았아요~ 자, 어서 한잔하세요!
+    illustrator_cv: RIRE,Fuchigami Mai,
     order: 154
     class_id: 112
     skin_source: 2

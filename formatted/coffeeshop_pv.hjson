@@ -167,4 +167,11 @@
     cost: 506-1000
     prize_id: "5034"
   }
+  {
+    id: "25"
+    title: 합성곱 핵
+    description: 2024년 특별 이벤트 PV
+    cost: 506-1000
+    prize_id: "5035"
+  }
 ]

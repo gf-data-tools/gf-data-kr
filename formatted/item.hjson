@@ -20807,6 +20807,34 @@
     rank: 1
   }
   {
+    id: 100274
+    type: 4
+    arg: "100274"
+    code: Nova_medal
+    item_name: 노바훈장·고립된 숲
+    introduction: 노바훈장·고립된 숲
+    rank: 1
+  }
+  {
+    id: 100275
+    type: 4
+    arg: "100275"
+    code: Platinum_medal
+    item_name: 백금훈장·고립된 숲
+    introduction: 백금훈장·고립된 숲
+    rank: 1
+  }
+  {
+    id: 100276
+    type: 9
+    arg: "100276"
+    code: Coin_202410IsolationForest
+    item_name: 물구나무 그림자
+    introduction: 몽경에서 거꾸로 무럭무럭 자라는 나무, 뿌리가 하나로 뒤엉켜 공중의 섬이 되었다.
+    rank: 1
+    daily_limit: 60;180
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -26607,6 +26635,94 @@
     code: Bumdle_passport_4
     item_name: 백사장 일광욕 협약 물자 보급
     introduction: 창고에서 사용하면 "베오울프 - 해변의 사냥꾼" 코스튬을 포함한 각종 아이템을 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500233
+    type: 15
+    arg: "1500233"
+    code: Bumdle_IsolationForest01
+    item_name: 고립된 숲 코스튬 쿠폰·α
+    introduction: 창고에서 사용하면 지정 범위에서 보유하지 않은 코스튬을 무작위로 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500234
+    type: 15
+    arg: "1500234"
+    code: Bumdle_IsolationForest02
+    item_name: 고립된 숲 코스튬 쿠폰·β
+    introduction: 창고에서 사용하면 지정 범위에서 보유하지 않은 코스튬을 무작위로 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500235
+    type: 15
+    arg: "1500235"
+    code: Bumdle_IsolationForest03
+    item_name: 고립된 숲 코스튬 쿠폰·γ
+    introduction: 창고에서 사용하면 지정 범위에서 보유하지 않은 코스튬을 무작위로 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500236
+    type: 15
+    arg: "1500236"
+    code: Bumdle_IsolationForest04
+    item_name: 고립된 숲 코스튬 쿠폰·δ
+    introduction: 창고에서 사용하면 지정 범위에서 보유하지 않은 코스튬을 무작위로 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500237
+    type: 15
+    arg: "1500237"
+    code: Bumdle_ChildrenDayCoupons1
+    item_name: 레어 코스튬 쿠폰·어린이
+    introduction: 창고에서 사용하면 지정 범위에서 보유하지 않은 코스튬을 무작위로 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500238
+    type: 15
+    arg: "1500238"
+    code: Bumdle_ChildrenDayCoupons2
+    item_name: 락셔리 코스튬 쿠폰·어린이
+    introduction: 창고에서 사용하면 지정 범위에서 보유하지 않은 코스튬을 무작위로 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500239
+    type: 15
+    arg: "1500239"
+    code: Bumdle_ChildrenDayCoupons3
+    item_name: 로얄 코스튬 쿠폰·어린이
+    introduction: 창고에서 사용하면，지정 범위에서 원하는 코스튬을 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500240
+    type: 15
+    arg: "1500240"
+    code: Bumdle_sangvischoose
+    item_name: 혼합세력 지정회수 의뢰서
+    introduction: 창고에서 사용하면 지정 범위에서 원하는 태생 3성 혼합세력 중 하나를 선택해 얻을 수 있습니다.※획득한 혼합세력유닛은 혼합세력 시스템이 해금된 이후에 사용할 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1
