@@ -2025,7 +2025,7 @@
   {
     item_id: 1500225
     type: 1
-    poster: PackageImage_Equip
+    poster: PackageImage_9yearcoupon
     prize_id: 2884
     due_time: 2025/08/07  23:59:59
     due_prize_id: 2885
@@ -2040,7 +2040,7 @@
     type: 2
     poster: PackageImage_9thAnniversary_1
     drop_package_id: 2587
-    due_time: 2025/07/29  23:59:59
+    due_time: 2025/08/12  23:59:59
     due_prize_id: 7395
     present_info:
       '''
@@ -2053,7 +2053,7 @@
     type: 2
     poster: PackageImage_9thAnniversary_2
     drop_package_id: 2588
-    due_time: 2025/07/29  23:59:59
+    due_time: 2025/08/12  23:59:59
     due_prize_id: 7396
     present_info:
       '''
@@ -2063,10 +2063,10 @@
   }
   {
     item_id: 1500228
-    type: 2
+    type: 1
     poster: PackageImage_9thAnniversary_3
     prize_id: 2991
-    due_time: 2025/07/29  23:59:59
+    due_time: 2025/08/12  23:59:59
     due_prize_id: 2885
     present_info:
       '''
@@ -2719,6 +2719,30 @@
     type: 1
     prize_id: 150151
     due_time: 2025/07/13  00:00:00
+    due_prize_id: 140075
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
+  }
+  {
+    item_id: 1700064
+    type: 1
+    prize_id: 150152
+    due_time: 2025/08/11  00:00:00
+    due_prize_id: 140073
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
+  }
+  {
+    item_id: 1700065
+    type: 1
+    prize_id: 150153
+    due_time: 2025/08/11  00:00:00
+    due_prize_id: 140074
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
+  }
+  {
+    item_id: 1700066
+    type: 1
+    prize_id: 150154
+    due_time: 2025/08/11  00:00:00
     due_prize_id: 140075
     present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
   }

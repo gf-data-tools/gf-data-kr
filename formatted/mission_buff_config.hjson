@@ -5563,6 +5563,59 @@
     priority: 1
   }
   {
+    id: 750000
+    name: 안 보이지롱
+    description: 상자 안에 숨어서 적에게 들키지 않는다
+    code: SAC2045_CamouflageSkill
+    type: 1
+    duration_type: "1"
+    duration_time: "2"
+    exp_buff: "1"
+    conflict_type: 750000
+    priority: 1
+    effect_birth: 1000072
+    effect_death: 1000072
+  }
+  {
+    id: 750001
+    name: 금고됨
+    description: 장치에 묶여서 이동할 수 없다
+    code: Theresa_Back
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    cannot_move: "1"
+    conflict_type: 750001
+    priority: 1
+  }
+  {
+    id: 751401
+    name: 대기
+    description: 이동 불가
+    code: Theresa_Back
+    type: 1
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    cannot_move: "1"
+    conflict_type: 751401
+    priority: 1
+  }
+  {
+    id: 751502
+    name: 폭약 소지
+    description: 특제 폭약을 소지 중
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    manual_ui_code: CarryBoomerIcon#EC4702
+    conflict_type: 751502
+    priority: -1
+    carry_mission_skill: "751512"
+  }
+  {
     id: 910630
     name: 보호막
     description: 보호막 증폭 중

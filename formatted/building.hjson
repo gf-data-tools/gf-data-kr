@@ -26684,6 +26684,511 @@
     confront_des: 이 시설은 파괴할 수 없습니다.
   }
   {
+    id: 750000
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;750010
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: 잠입 박스
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "1000072"
+    active_mission_skill: "750000"
+    inherent_mission_skill: "1000072"
+    type: 7
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    active_building_info: hideaway;잠입 박스;0,0;750010
+    des: 평범하고 흔한 종이 상자. 아무도 신경쓰지 않습니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 750001
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;750007
+    battle_skill: 0;0;0;0
+    condition: 0:2,1:2;0:2,1:0;0:2,1:1
+    name: 구금의 눈①
+    code: lighttrap
+    shifting_spot: "90,30"
+    shifting_team: "-20,-35"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: 750001|750011
+    inherent_mission_skill: "750001"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 누군가 설치한 감시 장치. 함부로 올라서면 어떻게 될까요?
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 750002
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;750007
+    battle_skill: 0;0;0;0
+    condition: 0:2,1:2;0:2,1:0;0:2,1:1
+    name: 구금의 눈②
+    code: lighttrap
+    shifting_spot: "90,30"
+    shifting_team: "-20,-35"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: 750002|750012
+    inherent_mission_skill: "750002"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 누군가 설치한 감시 장치. 함부로 올라서면 어떻게 될까요?
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 750003
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;750007
+    battle_skill: 0;0;0;0
+    condition: 0:2,1:2;0:2,1:0;0:2,1:1
+    name: 구금의 눈③
+    code: lighttrap
+    shifting_spot: "90,30"
+    shifting_team: "-20,-35"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: 750003|750013
+    inherent_mission_skill: "750003"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 누군가 설치한 감시 장치. 함부로 올라서면 어떻게 될까요?
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 750004
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;750007
+    battle_skill: 0;0;0;0
+    condition: 0:2,1:2;0:2,1:0;0:2,1:1
+    name: 구금의 눈④
+    code: lighttrap
+    shifting_spot: "90,30"
+    shifting_team: "-20,-35"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: 750004|750014
+    inherent_mission_skill: "750004"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 누군가 설치한 감시 장치. 함부로 올라서면 어떻게 될까요?
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 750005
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;750007
+    battle_skill: 0;0;0;0
+    condition: 0:2,1:2;0:2,1:0;0:2,1:1
+    name: 구금의 눈⑤
+    code: lighttrap
+    shifting_spot: "90,30"
+    shifting_team: "-20,-35"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: 750005|750015
+    inherent_mission_skill: "750005"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 누군가 설치한 감시 장치. 함부로 올라서면 어떻게 될까요?
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 750006
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;750007
+    battle_skill: 0;0;0;0
+    condition: 0:2,1:2;0:2,1:0;0:2,1:1
+    name: 구금의 눈⑥
+    code: lighttrap
+    shifting_spot: "90,30"
+    shifting_team: "-20,-35"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: 750006|750016
+    inherent_mission_skill: "750006"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 누군가 설치한 감시 장치. 함부로 올라서면 어떻게 될까요?
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 750011
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;750017
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 제어 콘솔①
+    code: Console
+    shifting_spot: "40,150"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "1000072"
+    active_mission_skill: "750011"
+    inherent_mission_skill: "1000072"
+    type: 7
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 관련 시설에 지시를 보낼 수 있습니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 750012
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;750017
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 제어 콘솔②
+    code: Console
+    shifting_spot: "40,150"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "1000072"
+    active_mission_skill: "750012"
+    inherent_mission_skill: "1000072"
+    type: 7
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 관련 시설에 지시를 보낼 수 있습니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 750013
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;750017
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 제어 콘솔③
+    code: Console
+    shifting_spot: "40,150"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "1000072"
+    active_mission_skill: "750013"
+    inherent_mission_skill: "1000072"
+    type: 7
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 관련 시설에 지시를 보낼 수 있습니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 750014
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;750017
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 제어 콘솔④
+    code: Console
+    shifting_spot: "40,150"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "1000072"
+    active_mission_skill: "750014"
+    inherent_mission_skill: "1000072"
+    type: 7
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 관련 시설에 지시를 보낼 수 있습니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 750015
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;750017
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 제어 콘솔⑤
+    code: Console
+    shifting_spot: "40,150"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "1000072"
+    active_mission_skill: "750015"
+    inherent_mission_skill: "1000072"
+    type: 7
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 관련 시설에 지시를 보낼 수 있습니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 750016
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;750017
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 제어 콘솔⑥
+    code: Console
+    shifting_spot: "40,150"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "1000072"
+    active_mission_skill: "750016"
+    inherent_mission_skill: "1000072"
+    type: 7
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 관련 시설에 지시를 보낼 수 있습니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 750201
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:3;0:1,1:2
+    name: 추가 2회 이동
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "20201"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 750202
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:3;0:1,1:2
+    name: 도달 판정
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    active_mission_skill: "750202,750212"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    confront_des: 이 시설은 파괴할 수 없습니다.
+    missionskill_on_death: "2,750001,750008,0;2,750002,750008,0"
+  }
+  {
+    id: 750401
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:3;0:1,1:2
+    name: 도달 판정
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "750401"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    confront_des: 이 시설은 파괴할 수 없습니다.
+    missionskill_on_death: "2,750001,750008,0"
+  }
+  {
+    id: 750501
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 제어 콘솔
+    code: Console
+    shifting_spot: "40,150"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "1000072"
+    active_mission_skill: "750501"
+    inherent_mission_skill: "1000072"
+    type: 7
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 관련 시설에 지시를 보낼 수 있습니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 750601
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:3;0:1,1:2
+    name: 추가 1회 이동
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "20101"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 751401
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:0
+    name: 제어 콘솔
+    code: Console
+    shifting_spot: "40,150"
+    shifting_team: "-30,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "751401"
+    active_mission_skill: "751411"
+    inherent_mission_skill: "751401"
+    type: 7
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 관련 시설에 지시를 보낼 수 있습니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 751402
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:3;0:1,1:2
+    name: 적의 2회 이동
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    inherent_mission_skill: "751402"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 751501
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:0,1:0;0:0,1:1
+    name: 돌무더기
+    code: Hiding
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "751501"
+    inherent_mission_skill: "751501"
+    type: 5
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    active_building_info: Rock2;돌무더기;0,0;2000016
+    des: 돌덩이가 쌓여 통로를 막았습니다.
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
+    id: 751502
+    defender: 99999
+    defender_upper: 99999
+    belong: 3
+    hold_belong: 1
+    mission_skill: 0;0;0;0
+    battle_skill: 0;0;0;0
+    condition: 0:1,1:1;0:1,1:3
+    name: 특제 폭약
+    code: Viscosity_Bomb
+    shifting_spot: "0,0"
+    shifting_team: "0,0"
+    battle_assist_range: "0,0"
+    show_info: 1
+    working_special_spot: "1000072"
+    active_mission_skill: "751502"
+    inherent_mission_skill: "1000072"
+    type: 7
+    belong_color: "#83CCFF,#FF4646,#FFE683,#C3C3C3"
+    working_spot_activation: 1;1
+    des: 길을 막는 장애물을 폭파할 수 있는 특제 폭약.
+    confront_des: 이 시설은 파괴할 수 없습니다.
+  }
+  {
     id: 1144001
     defender: 99999
     defender_upper: 99999
