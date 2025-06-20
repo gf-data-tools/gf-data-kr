@@ -16558,6 +16558,24 @@
     rank: 1
   }
   {
+    id: 2689
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_FO12
+    item_name: FO-12 - 파르페 바게트
+    introduction: FO-12 - 파르페 바게트
+    rank: 1
+  }
+  {
+    id: 2690
+    type: 5
+    arg: "1"
+    code: card_BattlePass_FO12
+    item_name: 카드배경：슈가 래빗 타운
+    introduction: 카드배경：슈가 래빗 타운
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -18302,6 +18320,15 @@
     code: gift_bundle_BattlePass_LTLX7000
     item_name: LTLX7000 - 한여름 밤의 약속
     introduction: 숲의 기운은 정말 마음이 편해지는구나... 앗, 지휘관이 왜 여기에 있어? 나는 모두와 소풍하러 온 거야. 딱히 지휘관하곤... 아니야, 이왕 온 거 여기에 앉아.
+    rank: 1
+  }
+  {
+    id: 30030
+    type: 1
+    arg: "30030"
+    code: gift_bundle_BattlePass_FO12
+    item_name: FO-12 - 파르페 바게트
+    introduction: 일하던 중에 잭이 도넛 하나 훔쳐먹은 거 인정할 게... 그, 그렇게 화내지 말구, 이것도 품질 검사의 일환이니까! 그치, 지휘관?
     rank: 1
   }
   {
@@ -23491,6 +23518,22 @@
     rank: 1
   }
   {
+    id: 140059
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *30기 전선협약
+    rank: 1
+  }
+  {
+    id: 140060
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *30기 전선협약 유료
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -23986,6 +24029,15 @@
     code: profileFrame_BattlePass_LTLX7000
     item_name: 액자·두근대는 달빛
     introduction: 액자·두근대는 달빛
+    rank: 1
+  }
+  {
+    id: 200055
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_FO12
+    item_name: 액자·프링클 제곱
+    introduction: 액자·프링클 제곱
     rank: 1
   }
   {
@@ -26732,6 +26784,61 @@
     code: Bumdle_sangvischoose
     item_name: 혼합세력 지정회수 의뢰서
     introduction: 창고에서 사용하면 지정 범위에서 원하는 태생 3성 혼합세력 중 하나를 선택해 얻을 수 있습니다.※획득한 혼합세력유닛은 혼합세력 시스템이 해금된 이후에 사용할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500241
+    type: 15
+    arg: "1500241"
+    code: Bumdle_passport_5
+    item_name: 숲속 야화 협약 물자 보급
+    introduction: 창고에서 사용하면 "LTLX7000 - 한여름 밤의 약속" 코스튬을 포함한 각종 아이템을 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500242
+    type: 15
+    arg: "1500242"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약-도넛과 만남 보상, 可从该指定投递配给序标内选择获取一件装备
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500243
+    type: 15
+    arg: "1500243"
+    code: package_choose
+    item_name: 인형 장비 선택 코드
+    introduction: 전선협약-도넛과 만남 보상, 지정 범위에서 원하는 인형 유형 장비를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500244
+    type: 15
+    arg: "1500244"
+    code: package_random
+    item_name: 미해금 인형 확정 코드
+    introduction: 전선협약-도넛과 만남 보상, 범위 중 도감이 해금되지 않은 인형을 반드시 하나 획득. 전부 해금된 상태일 경우 무작위로 하나 획득.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500245
+    type: 15
+    arg: "1500245"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-도넛과 만남 보상, 범위 중 한 가지 도구를 무작위로 획득합니다
     rank: 1
     sort: -1
     type_sort: 1
