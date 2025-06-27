@@ -16576,6 +16576,33 @@
     rank: 1
   }
   {
+    id: 2691
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season20_1
+    item_name: 고치 수축 · Code18: 상변
+    introduction: 고치 수축 · Code18: 상변
+    rank: 1
+  }
+  {
+    id: 2692
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season20_2
+    item_name: 탈피 파동 · Code18: 상변
+    introduction: 탈피 파동 · Code18: 상변
+    rank: 1
+  }
+  {
+    id: 2693
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season20_3
+    item_name: 솟아나는 나비떼 · Code18: 상변
+    introduction: 솟아나는 나비떼 · Code18: 상변
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -26839,6 +26866,39 @@
     code: package_random
     item_name: 전선협약-추가보상
     introduction: 전선협약-도넛과 만남 보상, 범위 중 한 가지 도구를 무작위로 획득합니다
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500246
+    type: 15
+    arg: "1500246"
+    code: Bumdle_SummerdayCoupons1
+    item_name: 레어 코스튬 쿠폰·써머
+    introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 코스튬을 무작위로 하나 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500247
+    type: 15
+    arg: "1500247"
+    code: Bumdle_SummerdayCoupons1
+    item_name: 럭셔리 코스튬 쿠폰·써머
+    introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 코스튬을 무작위로 하나 얻습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500248
+    type: 15
+    arg: "1500248"
+    code: Bumdle_SummerdayCoupons1
+    item_name: 로얄 코스튬 쿠폰·써머
+    introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 원하는 코스튬을 하나 골라서 얻을 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1

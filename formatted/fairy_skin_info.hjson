@@ -1268,4 +1268,31 @@
     ai: "1000"
     strengthen_lv: "3"
   }
+  {
+    id: "149"
+    name: 전자기 요정
+    skin_name: 1단계 기본 외형
+    pic_id: em_1
+    gift_fairy: "37"
+    ai: "1000"
+    strengthen_lv: "1"
+  }
+  {
+    id: "150"
+    name: 전자기 요정
+    skin_name: 2단계 기본 외형
+    pic_id: em_2
+    gift_fairy: "37"
+    ai: "1000"
+    strengthen_lv: "2"
+  }
+  {
+    id: "151"
+    name: 전자기 요정
+    skin_name: 3단계 기본 외형
+    pic_id: em_3
+    gift_fairy: "37"
+    ai: "1000"
+    strengthen_lv: "3"
+  }
 ]

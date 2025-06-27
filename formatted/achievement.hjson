@@ -15,6 +15,8 @@
     type_sort: 2
     sort: 22
     icon_code: 获得N把不同枪支
+    if_steam: 1
+    steam_code: different_gun_10
   }
   {
     identity: 2
@@ -69,6 +71,8 @@
     type_sort: 2
     sort: 22
     icon_code: 获得N把不同枪支
+    if_steam: 1
+    steam_code: different_gun_60
   }
   {
     identity: 5
@@ -503,6 +507,8 @@
     type_sort: 2
     sort: 21
     icon_code: 首次获得N星人形
+    if_steam: 1
+    steam_code: if_rank5_gun_1
   }
   {
     identity: 30
@@ -927,6 +933,8 @@
     type_sort: 1
     sort: 2
     icon_code: 消灭N个敌人
+    if_steam: 1
+    steam_code: enemy_die_1
   }
   {
     identity: 56
@@ -959,6 +967,8 @@
     type_sort: 1
     sort: 2
     icon_code: 消灭N个敌人
+    if_steam: 1
+    steam_code: enemy_die_1000
   }
   {
     identity: 58
@@ -1152,6 +1162,8 @@
     type_sort: 1
     sort: 4
     icon_code: 胜利
+    if_steam: 1
+    steam_code: mission_win_1
   }
   {
     identity: 70
@@ -1184,6 +1196,8 @@
     type_sort: 1
     sort: 4
     icon_code: 胜利
+    if_steam: 1
+    steam_code: mission_win_100
   }
   {
     identity: 72
@@ -1264,6 +1278,8 @@
     type_sort: 1
     sort: 5
     icon_code: 失败
+    if_steam: 1
+    steam_code: mission_lose_1
   }
   {
     identity: 77
@@ -1487,6 +1503,8 @@
     type_sort: 11
     sort: 161
     icon_code: 后勤支援
+    if_steam: 1
+    steam_code: operation_1
   }
   {
     identity: 91
@@ -1519,6 +1537,8 @@
     type_sort: 11
     sort: 161
     icon_code: 后勤支援
+    if_steam: 1
+    steam_code: operation_100
   }
   {
     identity: 93
@@ -2989,6 +3009,8 @@
     sort: 41
     icon_code: 首次获得N星装备
     unlock_function: 2
+    if_steam: 1
+    steam_code: get_equip_rank5_1
   }
   {
     identity: 187
@@ -5059,6 +5081,8 @@
     type_sort: 7
     sort: 102
     icon_code: 誓约
+    if_steam: 1
+    steam_code: soul_bond_gun_1
   }
   {
     identity: 312
@@ -5186,6 +5210,8 @@
     type_sort: 7
     sort: 103
     icon_code: 150好感度
+    if_steam: 1
+    steam_code: favor150_gun_1
   }
   {
     identity: 320
@@ -5303,6 +5329,8 @@
     type_sort: 6
     sort: 81
     icon_code: 进行N次家居采购
+    if_steam: 1
+    steam_code: gasha_count_1
   }
   {
     identity: 328
@@ -5933,6 +5961,8 @@
     type_sort: 6
     sort: 87
     icon_code: 解锁N件装扮
+    if_steam: 1
+    steam_code: different_skin_1
   }
   {
     identity: 378
@@ -7208,6 +7238,8 @@
     type_sort: 6
     sort: 91
     icon_code: 收集N只不同的宠物
+    if_steam: 1
+    steam_code: adopt_pet_1
   }
   {
     identity: 472
@@ -8342,6 +8374,8 @@
     sort: 202
     icon_code: 获得妖精
     unlock_function: 1
+    if_steam: 1
+    steam_code: different_fairy_1
   }
   {
     identity: 547
@@ -9402,6 +9436,8 @@
     sort: 242
     icon_code: 解锁火力小组
     unlock_function: 15
+    if_steam: 1
+    steam_code: squad_get_type1_unit_1
   }
   {
     identity: 622
@@ -10533,6 +10569,8 @@
     sort: 247
     icon_code: 探索N小时
     unlock_function: 17
+    if_steam: 1
+    steam_code: explore_has_time_100
   }
   {
     identity: 751
@@ -11268,6 +11306,8 @@
     icon_code: 免费捕获
     prize_id: 640
     unlock_function: 21
+    if_steam: 1
+    steam_code: sangvis_daily_retrieval_5
   }
   {
     identity: 806
@@ -15393,6 +15433,8 @@
     sort: 309
     icon_code: 解锁不同载具图鉴
     unlock_function: 30
+    if_steam: 1
+    steam_code: different_vehicle_1
   }
   {
     identity: 1095
@@ -17573,5 +17615,481 @@
     sort: 333
     icon_code: 12月隐藏2
     condition: "11868"
+  }
+  {
+    identity: 1230
+    type: c_mission
+    count: 1
+    title: 소규모 철혈 찌끄레기
+    content: 메인 스토리 전역 제1챕터 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "10"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_1
+  }
+  {
+    identity: 1231
+    type: c_mission
+    count: 1
+    title: 떨어뜨린 각설탕
+    content: 메인 스토리 전역 제2챕터 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "20"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_2
+  }
+  {
+    identity: 1232
+    type: c_mission
+    count: 1
+    title: 사냥꾼과 미끼
+    content: 메인 스토리 전역 제3챕터 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "30"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_3
+  }
+  {
+    identity: 1233
+    type: c_mission
+    count: 1
+    title: 진정한 연극
+    content: 메인 스토리 전역 제4챕터 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "40"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_4
+  }
+  {
+    identity: 1234
+    type: c_mission
+    count: 1
+    title: 일어날 시간
+    content: 메인 스토리 전역 제5챕터 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "50"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_5
+  }
+  {
+    identity: 1235
+    type: c_mission
+    count: 1
+    title: 최초의 큐브
+    content: 상시 이벤트 큐브 작전+ 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "10025"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_5.5
+  }
+  {
+    identity: 1236
+    type: c_mission
+    count: 1
+    title: 그녀의 선택
+    content: 메인 스토리 전역 제6챕터 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "60"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_6
+  }
+  {
+    identity: 1237
+    type: c_mission
+    count: 1
+    title: 대리 대장
+    content: 메인 스토리 전역 제7챕터 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "70"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_7
+  }
+  {
+    identity: 1238
+    type: c_mission
+    count: 1
+    title: 주피터포 아래
+    content: 상시 이벤트 저체온증 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "10016"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_7.5
+  }
+  {
+    identity: 1239
+    type: c_mission
+    count: 1
+    title: 고별하는 이들에게
+    content: 메인 스토리 전역 제8챕터 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "80"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_8
+  }
+  {
+    identity: 1240
+    type: c_mission
+    count: 1
+    title: 추락의 꿈
+    content: 상시 이벤트 심층투영 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "10042"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_8.5
+  }
+  {
+    identity: 1241
+    type: c_mission
+    count: 1
+    title: 흑철의 천칭
+    content: 메인 스토리 전역 제9챕터 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "90"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_9
+  }
+  {
+    identity: 1242
+    type: c_mission
+    count: 1
+    title: 나는 이곳에, 비가 내린다
+    content: 메인 스토리 전역 제10챕터 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "100"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_10
+  }
+  {
+    identity: 1243
+    type: c_mission
+    count: 1
+    title: 마지막 가능성
+    content: 상시 이벤트 특이점 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "10087"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_10.5
+  }
+  {
+    identity: 1244
+    type: c_mission
+    count: 1
+    title: 그 두 손을 잡고
+    content: 상시 이벤트 난류연속 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "10144"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_10.75
+  }
+  {
+    identity: 1245
+    type: c_mission
+    count: 1
+    title: 영혼을 구성하는 건
+    content: 메인 스토리 전역 제11챕터 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "110"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_11
+  }
+  {
+    identity: 1246
+    type: c_mission
+    count: 1
+    title: 진홍색 커튼콜
+    content: 상시 이벤트 이성질체 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "10252"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_11.5
+  }
+  {
+    identity: 1247
+    type: c_mission
+    count: 1
+    title: 우담화 바다
+    content: 상시 이벤트 연쇄분열 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "10341"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_11.75
+  }
+  {
+    identity: 1248
+    type: c_mission
+    count: 1
+    title: 너에게 맹세
+    content: 메인 스토리 전역 제12챕터 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "120"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_12
+  }
+  {
+    identity: 1249
+    type: c_mission
+    count: 1
+    title: 영광이 영원하길
+    content: 상시 이벤트 편극광 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "10473"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_12.5
+  }
+  {
+    identity: 1250
+    type: c_mission
+    count: 1
+    title: 깨진 것을 복구
+    content: 메인 스토리 전역 제13챕터 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "130"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_13
+  }
+  {
+    identity: 1251
+    type: c_mission
+    count: 1
+    title: 얽히는 수수께끼
+    content: 상시 이벤트 이중난수 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "10579"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_13.25
+  }
+  {
+    identity: 1252
+    type: c_mission
+    count: 1
+    title: 잘 있어요 로빈
+    content: 상시 이벤트 거울단계 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "10741"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_13.5
+  }
+  {
+    identity: 1253
+    type: c_mission
+    count: 1
+    title: 그리폰 이펙트
+    content: 상시 이벤트 재귀정리 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "10904"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_13.75
+  }
+  {
+    identity: 1254
+    type: c_mission
+    count: 1
+    title: 진정한 방향
+    content: 상시 이벤트 고정점 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "11082"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_13.8
+  }
+  {
+    identity: 1255
+    type: c_mission
+    count: 1
+    title: 열차의 이야기
+    content: 상시 이벤트 세로변형 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "11210"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_13.9
+  }
+  {
+    identity: 1256
+    type: c_mission
+    count: 1
+    title: 해와 달
+    content: 상시 이벤트 사로스 주기 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "11259,11260"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_13.95
+  }
+  {
+    identity: 1257
+    type: c_mission
+    count: 1
+    title: 안나
+    content: 상시 이벤트 만성쇼크 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "11418"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_14
+  }
+  {
+    identity: 1258
+    type: c_mission
+    count: 1
+    title: 제일 귀여운 인형
+    content: 상시 이벤트 오귀인의 샘물 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "11658"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.1
+  }
+  {
+    identity: 1259
+    type: c_mission
+    count: 1
+    title: 깨어남
+    content: 상시 이벤트 22중 곤경 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "11687"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.2
+  }
+  {
+    identity: 1260
+    type: c_mission
+    count: 1
+    title: 눈꽃과 선혈
+    content: 상시 이벤트 영전하 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "11723"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.3
+  }
+  {
+    identity: 1261
+    type: c_mission
+    count: 1
+    title: 재회, 다시 안녕
+    content: 상시 이벤트 은염색 현상 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "11754"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.4
+  }
+  {
+    identity: 1262
+    type: c_mission
+    count: 1
+    title: 라플라스의 죽음
+    content: 상시 이벤트 고립된 숲 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "11780"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.5
+  }
+  {
+    identity: 1263
+    type: c_mission
+    count: 1
+    title: 용감한 사람
+    content: 상시 이벤트 합성곱 핵 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "11868"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.75
+  }
+  {
+    identity: 1264
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 제로의 기적
+    content: 로슈 한계-공공의 적： 모든 인질을 구출하고 전역 클리어.
+    type_sort: 100
+    sort: 335
+    icon_code: 人质解救
+    condition: 11885:1188502,11891:1188502,11895:1189502
+  }
+  {
+    identity: 1265
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 솔로 전설
+    content: 로슈 한계-공공오： 제어콘솔을 사용하지 않고 전역 클리어.
+    type_sort: 100
+    sort: 336
+    icon_code: 不使用控制台
+    condition: 11887:1188702,11892:1188702,11896:1189602
   }
 ]

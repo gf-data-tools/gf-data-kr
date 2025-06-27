@@ -1451,4 +1451,124 @@
     introduction: AA-02M과 세팅된 신호탑, 아군 강화 지원 설비.
     is_show: 1
   }
+  {
+    id: 11401
+    name: 범용형-데저트 옐로우
+    type: 2
+    group_id: 144
+    class_id: 1
+    code: ShotgunVehicle_1001
+    item_id: 133136
+    obtain: "3003"
+    introduction: 근거리 밀집 대상을 상대하는 산탄 무기, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 11402
+    name: 범용형-데저트 옐로우
+    type: 2
+    group_id: 145
+    class_id: 1
+    code: MortarVehicle_1001
+    item_id: 133137
+    obtain: "3003"
+    introduction: 좁은 범위의 폭격이 가능한 박격포, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 11403
+    name: 범용형-데저트 옐로우
+    type: 2
+    group_id: 146
+    class_id: 1
+    code: LaserRangefinder_1001
+    item_id: 133138
+    obtain: "3003"
+    introduction: 원거리 공격 정밀도를 높이는 지원 설비, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 11404
+    name: 범용형-데저트 옐로우
+    type: 2
+    group_id: 147
+    class_id: 1
+    code: CamouflageNet_1001
+    item_id: 133139
+    obtain: "3003"
+    introduction: 전장에서 자취를 효과적으로 감출 수 있는 위장 파츠, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 11405
+    name: 범용형-데저트 옐로우
+    type: 2
+    group_id: 148
+    class_id: 1
+    code: GrilleArmor_1001
+    item_id: 133140
+    obtain: "3003"
+    introduction: 새로운 전장 형세에 대응하는 다목적 방호 장갑, 도면과 세팅된 데저트 옐로우 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 11406
+    name: 범용형-시가전 위장
+    type: 2
+    group_id: 144
+    class_id: 2
+    code: ShotgunVehicle_1002
+    item_id: 133141
+    obtain: "3003"
+    introduction: 근거리 밀집 대상을 상대하는 산탄 무기, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 11407
+    name: 범용형-시가전 위장
+    type: 2
+    group_id: 145
+    class_id: 2
+    code: MortarVehicle_1002
+    item_id: 133142
+    obtain: "3003"
+    introduction: 좁은 범위의 폭격이 가능한 박격포, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 11408
+    name: 범용형-시가전 위장
+    type: 2
+    group_id: 146
+    class_id: 2
+    code: LaserRangefinder_1002
+    item_id: 133143
+    obtain: "3003"
+    introduction: 원거리 공격 정밀도를 높이는 지원 설비, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 11409
+    name: 범용형-시가전 위장
+    type: 2
+    group_id: 147
+    class_id: 2
+    code: CamouflageNet_1002
+    item_id: 133144
+    obtain: "3003"
+    introduction: 전장에서 자취를 효과적으로 감출 수 있는 위장 파츠, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
+  {
+    id: 11410
+    name: 범용형-시가전 위장
+    type: 2
+    group_id: 148
+    class_id: 2
+    code: GrilleArmor_1002
+    item_id: 133145
+    obtain: "3003"
+    introduction: 새로운 전장 형세에 대응하는 다목적 방호 장갑, 도면과 세팅된 시가전 위장 스타일로 도색.
+    is_show: 1
+  }
 ]
