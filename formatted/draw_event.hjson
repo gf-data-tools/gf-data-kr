@@ -9911,6 +9911,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 10:2423
     clear_cycle: 1
   }
   {
@@ -9918,6 +9919,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 8:2424
     clear_cycle: 1
   }
   {
@@ -9925,6 +9927,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 8:2425
     clear_cycle: 1
   }
   {
@@ -9932,6 +9935,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 6:2426
     clear_cycle: 1
   }
   {
@@ -9939,6 +9943,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 6:2427
     clear_cycle: 1
   }
   {
@@ -9946,6 +9951,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 6:2428
     clear_cycle: 1
   }
   {
@@ -9953,6 +9959,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 5:2429
     clear_cycle: 1
   }
   {
@@ -9960,6 +9967,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 5:2430
     clear_cycle: 1
   }
   {
@@ -9967,6 +9975,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 4:2431
     clear_cycle: 1
   }
   {
@@ -9974,6 +9983,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 4:2432
     clear_cycle: 1
   }
   {
@@ -9981,6 +9991,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 4:2433
     clear_cycle: 1
   }
   {
@@ -9988,6 +9999,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 10:2434
     clear_cycle: 1
   }
   {
@@ -9995,6 +10007,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 8:2435
     clear_cycle: 1
   }
   {
@@ -10002,6 +10015,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 6:2436
     clear_cycle: 1
   }
   {
@@ -10009,6 +10023,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 5:2437
     clear_cycle: 1
   }
   {
@@ -10016,6 +10031,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 4:2438
     clear_cycle: 1
   }
   {
@@ -10023,6 +10039,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 1000:2439
     clear_cycle: 1
   }
   {
@@ -10030,6 +10047,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 1000:2440
     clear_cycle: 1
   }
   {
@@ -10037,6 +10055,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 1000:2441
     clear_cycle: 1
   }
   {
@@ -10044,6 +10063,7 @@
     type: 1
     start_time: 2025-05-09 15:00:00
     end_time: 2025-05-30 15:00:00
+    drop_ids: 1000:2442
     clear_cycle: 1
   }
   {
