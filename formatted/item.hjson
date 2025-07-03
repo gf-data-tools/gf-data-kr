@@ -20784,7 +20784,6 @@
     introduction: 뜻밖에 상영한 오페라가 프랑크푸르트를 뒤흔들다. 이 기념화폐에는 지난 날의 고통과 희열, 그리고 숙원이 담겨있다.
     rank: 1
     daily_limit: 60;180
-    detail_introduction: item-30100264
   }
   {
     id: 100265
