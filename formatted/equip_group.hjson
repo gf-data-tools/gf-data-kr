@@ -505,4 +505,22 @@
     group_skill: 2:1006803
     fit_gun: "20159"
   }
+  {
+    id: 57
+    name: 형상 없이
+    des: P90에게 맞춤 제작된 세트. 행동력이 대폭 상승하여 그녀의 흉내내기가 더 수월해집니다.
+    code: EgroupP90
+    equip_unit: "458,0,277"
+    group_skill: 2:1007003
+    fit_gun: "245"
+  }
+  {
+    id: 58
+    name: 운명 점치기
+    des: K5에게 맞춤 제작된 세트. 운명은 무상하여도 고성능 장비로 일부를 엿볼 수 있습니다.
+    code: EgroupK5
+    equip_unit: "459,0,334"
+    group_skill: 2:1007103
+    fit_gun: "20212"
+  }
 ]
