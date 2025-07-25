@@ -16603,6 +16603,24 @@
     rank: 1
   }
   {
+    id: 2694
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_STG44
+    item_name: StG44 - 계곡 탐험
+    introduction: StG44 - 계곡 탐험
+    rank: 1
+  }
+  {
+    id: 2695
+    type: 5
+    arg: "1"
+    code: card_BattlePass_STG44
+    item_name: 카드배경： 계곡 만남
+    introduction: 카드배경： 계곡 만남
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -18365,6 +18383,15 @@
     code: gift_bundle_BattlePass_FO12
     item_name: FO-12 - 파르페 바게트
     introduction: 일하던 중에 잭이 도넛 하나 훔쳐먹은 거 인정할 게... 그, 그렇게 화내지 말구, 이것도 품질 검사의 일환이니까! 그치, 지휘관?
+    rank: 1
+  }
+  {
+    id: 30031
+    type: 1
+    arg: "30031"
+    code: gift_bundle_BattlePass_STG44
+    item_name: StG44 - 계곡 탐험
+    introduction: 출발할까요, 지휘관님? 산길이 조금 더러울 수 있지만 걱정 마세요... 제가 가장 깨끗한 경로를 찾아드릴 테니까요.
     rank: 1
   }
   {
@@ -20902,6 +20929,34 @@
     code: Coin_202410IsolationForest
     item_name: 물구나무 그림자
     introduction: 몽경에서 거꾸로 무럭무럭 자라는 나무, 뿌리가 하나로 뒤엉켜 공중의 섬이 되었다.
+    rank: 1
+    daily_limit: 60;180
+  }
+  {
+    id: 100277
+    type: 4
+    arg: "100277"
+    code: Nova_medal
+    item_name: 노바 훈장·합성곱 핵
+    introduction: 노바 훈장·합성곱 핵
+    rank: 1
+  }
+  {
+    id: 100278
+    type: 4
+    arg: "100278"
+    code: Platinum_medal
+    item_name: 백금 훈장·합성곱 핵
+    introduction: 백금 훈장·합성곱 핵
+    rank: 1
+  }
+  {
+    id: 100279
+    type: 9
+    arg: "100279"
+    code: Coin_202412ConvolutionalKernel
+    item_name: 늦봄의 향기
+    introduction: 그윽한 향기가 풍기는 백합 한 송이가 그 봄날 끝자락에 버려진 채로, 돌아오지 않는 그이가 집어주기를 기다린다.
     rank: 1
     daily_limit: 60;180
   }
@@ -23569,6 +23624,22 @@
     rank: 1
   }
   {
+    id: 140061
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *31기 전선협약
+    rank: 1
+  }
+  {
+    id: 140062
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *31기 전선협약 유료
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -24073,6 +24144,15 @@
     code: profileFrame_BattlePass_FO12
     item_name: 액자·프링클 제곱
     introduction: 액자·프링클 제곱
+    rank: 1
+  }
+  {
+    id: 200056
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_STG44
+    item_name: 액자·가을날 라쿤
+    introduction: 액자·가을날 라쿤
     rank: 1
   }
   {
@@ -26840,7 +26920,7 @@
     arg: "1500242"
     code: package_choose
     item_name: 기초 장비 선택 코드
-    introduction: 전선협약-도넛과 만남 보상, 可从该指定投递配给序标内选择获取一件装备
+    introduction: 전선협약-라쿤 탐험대 보상,  지정 범위에서 원하는 장비를 하나 골라 획득할 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1
@@ -26850,8 +26930,8 @@
     type: 15
     arg: "1500243"
     code: package_choose
-    item_name: 인형 장비 선택 코드
-    introduction: 전선협약-도넛과 만남 보상, 지정 범위에서 원하는 인형 유형 장비를 하나 골라 획득할 수 있습니다.
+    item_name: 부속 장비 선택 코드
+    introduction: 전선협약-라쿤 탐험대 보상,  지정 범위에서 원하는 부속 유형 장비를 하나 골라 획득할 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1
@@ -26862,7 +26942,7 @@
     arg: "1500244"
     code: package_random
     item_name: 미해금 인형 확정 코드
-    introduction: 전선협약-도넛과 만남 보상, 범위 중 도감이 해금되지 않은 인형을 반드시 하나 획득. 전부 해금된 상태일 경우 무작위로 하나 획득.
+    introduction: 전선협약-라쿤 탐험대 보상,  범위 중 도감이 해금되지 않은 인형을 반드시 하나 획득. 전부 해금된 상태일 경우 무작위로 하나 획득.
     rank: 1
     sort: -1
     type_sort: 1
@@ -26873,7 +26953,7 @@
     arg: "1500245"
     code: package_random
     item_name: 전선협약-추가보상
-    introduction: 전선협약-도넛과 만남 보상, 범위 중 한 가지 도구를 무작위로 획득합니다
+    introduction: 전선협약-라쿤 탐험대 보상,  범위 중 한 가지 도구를 무작위로 획득합니다
     rank: 1
     sort: -1
     type_sort: 1
@@ -26893,7 +26973,7 @@
     id: 1500247
     type: 15
     arg: "1500247"
-    code: Bumdle_SummerdayCoupons1
+    code: Bumdle_SummerdayCoupons2
     item_name: 럭셔리 코스튬 쿠폰·써머
     introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 코스튬을 무작위로 하나 얻습니다.
     rank: 1
@@ -26904,9 +26984,86 @@
     id: 1500248
     type: 15
     arg: "1500248"
-    code: Bumdle_SummerdayCoupons1
+    code: Bumdle_SummerdayCoupons3
     item_name: 로얄 코스튬 쿠폰·써머
     introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 원하는 코스튬을 하나 골라서 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500249
+    type: 15
+    arg: "1500249"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약-도넛과 만남 보상, 지정 범위에서 원하는 장비를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500250
+    type: 15
+    arg: "1500250"
+    code: package_choose
+    item_name: 인형 장비 선택 코드
+    introduction: 전선협약-도넛과 만남 보상, 지정 범위에서 원하는 인형 유형 장비를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500251
+    type: 15
+    arg: "1500251"
+    code: package_random
+    item_name: 미해금 인형 확정 코드
+    introduction: 전선협약-도넛과 만남 보상, 범위 중 도감이 해금되지 않은 인형을 반드시 하나 획득. 전부 해금된 상태일 경우 무작위로 하나 획득.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500252
+    type: 15
+    arg: "1500252"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-도넛과 만남 보상, 범위 중 한 가지 도구를 무작위로 획득합니다
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500253
+    type: 15
+    arg: "1500253"
+    code: Bumdle_FantasyCoupons1
+    item_name: 레어 코스튬 쿠폰·원더랜드
+    introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 하나를 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500254
+    type: 15
+    arg: "1500254"
+    code: Bumdle_FantasyCoupons2
+    item_name: 럭셔리 코스튬 쿠폰·원더랜드
+    introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 하나를 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500255
+    type: 15
+    arg: "1500255"
+    code: Bumdle_FantasyCoupons3
+    item_name: 로열 코스튬 쿠폰·원더랜드
+    introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 원하는 코스튬을 하나 골라 얻을 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1

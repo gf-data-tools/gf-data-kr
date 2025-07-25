@@ -51541,7 +51541,6 @@
     expect_turn: 4
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "161"
     limit_team: "0,1"
     map_res_name: OPS206_Y
     map_information: "8000,8000|8000,8000|0,0"
@@ -51628,7 +51627,6 @@
     expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "335"
     limit_team: "0,1"
     map_res_name: OPS68_Y
     map_information: "8000,6000|4500,5000|1750,0"
@@ -51714,7 +51712,6 @@
     expect_turn: 4
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "387"
     limit_team: "0,1"
     map_res_name: OPS5_Y
     map_information: "8000,8000|8000,8000|0,0"
@@ -51798,7 +51795,6 @@
     expect_turn: 8
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "374"
     limit_team: "0,3"
     map_res_name: BloodNetwork_Y
     map_information: "8000,8000|8000,8000|0,0"
@@ -51990,7 +51986,6 @@
     expect_turn: 4
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "161"
     limit_team: "0,1"
     map_res_name: OPS206_Y
     map_information: "8000,8000|8000,8000|0,0"
@@ -52023,7 +52018,6 @@
     expect_turn: 6
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "335"
     limit_team: "0,1"
     map_res_name: OPS68_Y
     map_information: "8000,6000|4500,5000|1750,0"
@@ -52055,7 +52049,6 @@
     expect_turn: 4
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "387"
     limit_team: "0,1"
     map_res_name: OPS5_Y
     map_information: "8000,8000|8000,8000|0,0"
@@ -52085,7 +52078,6 @@
     expect_turn: 8
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "374"
     limit_team: "0,3"
     map_res_name: BloodNetwork_Y
     map_information: "8000,8000|8000,8000|0,0"
@@ -52115,7 +52107,6 @@
     expect_turn: 1
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "161,335,387,374"
     limit_team: "0,1"
     map_res_name: OPS5_Y
     map_information: "4000,4000|4000,4000|0,0"
@@ -52145,7 +52136,6 @@
     expect_turn: 1
     boss_team_id: "1"
     turn_duration: 360000000
-    limit_gun_pool: "161,335,387,374"
     limit_team: "0,1"
     map_res_name: OPS5_Y
     map_information: "4000,4000|4000,4000|0,0"
