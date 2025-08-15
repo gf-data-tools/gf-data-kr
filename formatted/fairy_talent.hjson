@@ -40,6 +40,11 @@
     name: 마비계
   }
   {
+    id: 757262
+    type_id: 1
+    name: 약탈계
+  }
+  {
     id: 900906
     type_id: 1
     name: 모래폭풍

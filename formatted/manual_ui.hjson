@@ -3387,6 +3387,113 @@
     is_manual_target: 2
   }
   {
+    id: 760003
+    code_a: William_monitor
+    description_a: 아군 제대
+    description_b: 윌리엄 홀로그램
+    description_c: 끄기
+    code_b: Console_Icon
+  }
+  {
+    id: 760411
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 제어 콘솔
+    description_c: 가동
+    code_b: Console_Icon
+  }
+  {
+    id: 760412
+    code_a: EMP
+    description_a: 아군 제대
+    description_b: EMP
+    description_c: 가동
+    code_b: Console_Icon
+  }
+  {
+    id: 760611
+    code_a: M16A1_Boss
+    description_a: 아군 제대
+    description_b: 비크
+    description_c: 합치기
+    code_b: Console_Icon
+  }
+  {
+    id: 760612
+    code_a: Beak_M16
+    description_a: 아군 제대
+    description_b: M16A1
+    description_c: 합치기
+    code_b: Console_Icon
+  }
+  {
+    id: 760701
+    code_a: Control_Center
+    description_a: 아군 제대
+    description_b: 제어 센터
+    description_c: 끄기
+    code_b: Console_Icon
+  }
+  {
+    id: 760704
+    code_a: PortableEMP_Nobase
+    description_a: 아군 제대
+    description_b: EMP 폭탄
+    description_c: 줍기
+    code_b: Console_Icon
+  }
+  {
+    id: 760714
+    code_a: PortableEMP_Nobase
+    description_a: 아군 제대
+    description_b: EMP 폭탄
+    description_c: 투척
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 760810
+    code_a: Sundries
+    description_a: 아군 제대
+    description_b: 가구
+    description_c: 넘어뜨리기
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 760902
+    code_a: Boomer
+    description_a: 아군 제대
+    description_b: 버려진 골리앗
+    description_c: 줍기
+    code_b: Console_Icon
+  }
+  {
+    id: 760912
+    code_a: Golyat
+    description_a: 아군 제대
+    description_b: 버려진 골리앗
+    description_c: 투척
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 762103
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 제어 콘솔
+    description_c: 가동
+    code_b: Console_Icon
+  }
+  {
+    id: 762112
+    code_a: LiftBlue
+    description_a: 아군 제대
+    description_b: 엘레베이터
+    description_c: 탑승
+    code_b: Console_Icon
+  }
+  {
     id: 1000101
     code_a: Rock
     description_a: 아군 제대

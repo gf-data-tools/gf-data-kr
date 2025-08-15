@@ -412,6 +412,20 @@
     sort: 2000
   }
   {
+    id: 211
+    name: 카리나 - 전선풍운
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 211
+    code: gift_bundle_kalina_211
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 카리나 코스튬 획득
+    description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    sort: 2000
+  }
+  {
     id: 212
     name: 카리나 - 정장 타임
     type: 2

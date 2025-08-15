@@ -895,6 +895,15 @@
     rank: 1
   }
   {
+    id: 150
+    type: 3
+    arg: "51"
+    code: Medal_202507Activity
+    item_name: 허입자 관측자 훈장
+    introduction: '''"허입자쌍" 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "관측자의 시선이 허입자의 생명. 주시하면 존재하고, 무시하면 사라진다. 이것이 당신이 결정한 진실."'''
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -16621,6 +16630,69 @@
     rank: 1
   }
   {
+    id: 2696
+    type: 5
+    arg: "1"
+    code: profilePic_202507Activity_01
+    item_name: 아이콘:전투 갈망
+    introduction: 아이콘:전투 갈망
+    rank: 1
+  }
+  {
+    id: 2697
+    type: 5
+    arg: "1"
+    code: profilePic_202507Activity_02
+    item_name: 아이콘:신세계의 입장권
+    introduction: 아이콘:신세계의 입장권
+    rank: 1
+  }
+  {
+    id: 2698
+    type: 5
+    arg: "1"
+    code: profilePic_202507Activity_03
+    item_name: 아이콘:삼켜진 달빛
+    introduction: 아이콘:삼켜진 달빛
+    rank: 1
+  }
+  {
+    id: 2699
+    type: 5
+    arg: "1"
+    code: profilePic_202507Activity_04
+    item_name: 아이콘:우려
+    introduction: 아이콘:우려
+    rank: 1
+  }
+  {
+    id: 2700
+    type: 5
+    arg: "1"
+    code: profilePic_202507Activity_05
+    item_name: 아이콘:예리한 칼날
+    introduction: 아이콘:예리한 칼날
+    rank: 1
+  }
+  {
+    id: 2701
+    type: 5
+    arg: "1"
+    code: card_202507Activity_01
+    item_name: 카드배경:종국 직전
+    introduction: 카드배경:종국 직전
+    rank: 1
+  }
+  {
+    id: 2702
+    type: 5
+    arg: "1"
+    code: card_202507Activity_02
+    item_name: 카드배경:치열한 불꽃
+    introduction: 카드배경:치열한 불꽃
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -18308,6 +18380,15 @@
     id: 10730
     type: 18
     arg: "10730"
+    code: daily_points
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
+    rank: 1
+  }
+  {
+    id: 10731
+    type: 18
+    arg: "10731"
     code: daily_points
     item_name: 회색지대 점수
     introduction: 회색지대 점수
@@ -20959,6 +21040,43 @@
     introduction: 그윽한 향기가 풍기는 백합 한 송이가 그 봄날 끝자락에 버려진 채로, 돌아오지 않는 그이가 집어주기를 기다린다.
     rank: 1
     daily_limit: 60;180
+  }
+  {
+    id: 100280
+    type: 4
+    arg: "100280"
+    code: Nova_medal_black
+    item_name: 노바훈장·허입자쌍
+    introduction: 노바훈장·허입자쌍
+    rank: 1
+  }
+  {
+    id: 100281
+    type: 4
+    arg: "100281"
+    code: Platinum_medal_black
+    item_name: 백금훈장·허입자쌍
+    introduction: 백금훈장·허입자쌍
+    rank: 1
+  }
+  {
+    id: 100282
+    type: 9
+    arg: "100282"
+    code: Coin_202507VirtualPair​
+    item_name: 소멸 고리
+    introduction: 고독한 입자가 서로를 끌어당겨 하나가 되려는 순간, 그것이 바로 파멸의 시작이다.
+    rank: 1
+    daily_limit: 60;180
+  }
+  {
+    id: 100283
+    type: 4
+    arg: "100283"
+    code: coremask2_202507VirtualPair​
+    item_name: 마음 파먹는 가면·허입자쌍
+    introduction: 기이한 기운을 풍기는 마스크, 극한의 시련을 뛰어넘은 자만이 얻을 수 있습니다. 가지고 있어봤자 쓸모 없어 보이지만, 상점에서 학수고대한 만남과 교환할 수 있을 겁니다.
+    rank: 1
   }
   {
     id: 110001
@@ -26362,7 +26480,7 @@
     arg: "1500192"
     code: Bumdle_WhiteValentineCoupons3
     item_name: 로열 코스튬 추첨권·화이트데이
-    introduction: 창고에서 사용하면 지정 범위 중 보유하지 않은 코스튬을 하나 얻습니다.
+    introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 원하는 코스튬을 하나 골라 얻을 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1
@@ -27063,6 +27181,87 @@
     arg: "1500255"
     code: Bumdle_FantasyCoupons3
     item_name: 로열 코스튬 쿠폰·원더랜드
+    introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 원하는 코스튬을 하나 골라 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500256
+    type: 15
+    arg: "1500256"
+    code: Bumdle_invocation_3
+    item_name: 4성 인형 임용장
+    introduction: 창고에서 이 임용장을 사용하면 지정 범위 중 4성 인형을 하나 선택해 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500257
+    type: 15
+    arg: "1500257"
+    code: Bumdle_invocation_2
+    item_name: 5성 인형 임용장
+    introduction: 창고에서 이 임용장을 사용하면 지정 범위 중 5성 인형을 하나 선택해 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500258
+    type: 15
+    arg: "1500258"
+    code: Bumdle_sangvischoose
+    item_name: 혼합세력 지정회수 의뢰서
+    introduction:
+      '''
+      창고에서 이 의뢰서를 사용하면 지정 범위 중 태생 3성 혼합세력유닛을 하나 선택해 획득할 수 있습니다.
+      *"혼합세력" 시스템을 아직 해금하지 않은 경우 얻은 유닛을 바로 사용할 수 없습니다. 해당 시스템을 해금한 이후 정상 사용 가능합니다.
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500259
+    type: 15
+    arg: "1500259"
+    code: Bumdle_equipment
+    item_name: 5성 장비 선택 증서
+    introduction: 창고에서 이 증서를 사용하면 지정 범위 중 전용장비 이외 5성 장비를 하나 선택해 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500260
+    type: 15
+    arg: "1500260"
+    code: Bumdle_UrbanBeautyCoupons1
+    item_name: 레어 코스튬 쿠폰·어반 스타일
+    introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 하나를 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500261
+    type: 15
+    arg: "1500261"
+    code: Bumdle_UrbanBeautyCoupons2
+    item_name: 럭셔리 코스튬 쿠폰·어반 스타일
+    introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 하나를 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500262
+    type: 15
+    arg: "1500262"
+    code: Bumdle_UrbanBeautyCoupons3
+    item_name: 로열 코스튬 쿠폰·어반 스타일
     introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 원하는 코스튬을 하나 골라 얻을 수 있습니다.
     rank: 1
     sort: -1
@@ -27847,6 +28046,39 @@
     id: 1700069
     type: 15
     arg: "1700069"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700070
+    type: 15
+    arg: "1700070"
+    code: package_choose
+    item_name: 기초장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700071
+    type: 15
+    arg: "1700071"
+    code: package_choose
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700072
+    type: 15
+    arg: "1700072"
     code: package_choose
     item_name: 고등 전용장비 선택 코드
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.

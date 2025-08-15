@@ -12338,54 +12338,52 @@
   {
     id: 1235
     mission_id: "11436"
-    description: story_util-10001235
+    description: '''"어떡해야 인공지능에게 자의식에 기반한 사고를 부여할 수 있을까?"'''
     scripts: -61-1-1
     campaign: -61
-    title: story_util-20001235
+    title: 먹이 금지
     start: -61-1-1
   }
   {
     id: 1236
     mission_id: "11437"
-    description: story_util-10001236
+    description: '''"내가 원하는 건 진정한 자의식 사고를 가진 인형이야."'''
     scripts: -61-2-1
     campaign: -61
-    title: story_util-20001236
+    title: 이중 보험
     start: -61-2-1
   }
   {
     id: 1237
     mission_id: "11445,11458"
-    description: story_util-10001237
     campaign: -61
-    title: story_util-20001237
     start: -61-EXT-1
   }
   {
     id: 1238
     mission_id: "11448"
-    description: story_util-10001238
+    description: '''"인간을 흉내내는 법보다 인형이 되는 법을 배우도록 해."'''
     scripts: -61-3-1
     campaign: -61
-    title: story_util-20001238
+    title: 미완성 퍼즐
     start: -61-3-1
   }
   {
     id: 1239
     mission_id: "11449"
-    description: story_util-10001239
+    description: '''"일시적인 승리에 심취해 있지 말고 진정으로 생각하는 법을 배워야 해."'''
     scripts: -61-3-2
     campaign: -61
-    title: story_util-20001239
+    title: 의식 차원
     start: -61-3-2
   }
   {
     id: 1240
     mission_id: "11450"
-    description: story_util-10001240
+    description: '''"나는 너희에게서 '미래'를 봤어."'''
     scripts: -61-3-3
     campaign: -61
-    title: story_util-20001240
+    title: 완벽 승격
     start: -61-3-3
   }
   {
@@ -13603,7 +13601,6 @@
   {
     id: 1388
     mission_id: "11881"
-    scripts: -52-e-4
     campaign: -52
     title: 순진한 펜끝
     start: -52-e-4
@@ -13611,7 +13608,6 @@
   {
     id: 1389
     mission_id: "11882"
-    scripts: -52-e-5
     campaign: -52
     title: 드림 캡처
     start: -52-e-5
@@ -13862,137 +13858,245 @@
   {
     id: 1417
     mission_id: "11883"
-    description: story_util-10001417
+    description: 그것은... 따스함이 넘쳐난 날... 무감각에서 벗어나 신뢰를 심어준 출발점.
+    scripts: -75-A-2
     campaign: -75
-    title: story_util-20001417
+    title: 토카레프의 회상Ⅰ
     start: -75-A-2
   }
   {
     id: 1418
     mission_id: "11901"
-    description: story_util-10001418
+    description: 나를... 도와줘...
+    scripts: -75-A-4
     campaign: -75
-    title: story_util-20001418
+    title: IOP 지부
     start: -75-A-4
   }
   {
     id: 1419
     mission_id: "11902"
-    description: story_util-10001419
+    description: 이 세상 그 누구도 죽을 수 있지만, 당신만은 아무말 없이 떠나선 안 돼요.
+    scripts: -75-A-6
     campaign: -75
-    title: story_util-20001419
+    title: 프랑크푸르트
     start: -75-A-6
   }
   {
     id: 1420
     mission_id: "11903"
-    description: story_util-10001420
+    description: 만약 나도 집을 가질 수 있다면.
+    scripts: -75-A-8
     campaign: -75
-    title: story_util-20001420
+    title: 토카레프의 회상Ⅱ
     start: -75-A-8
   }
   {
     id: 1421
     mission_id: "11904"
-    description: story_util-10001421
+    description: 분명 숨겨진 다른 의도가 있어.
+    scripts: -75-A-10
     campaign: -75
-    title: story_util-20001421
+    title: 엘모호
     start: -75-A-10
   }
   {
     id: 1422
     mission_id: "11905"
-    description: story_util-10001422
+    description: 짙은 안개, 알 수 없는 의도. 찾아온 자는 대체 무슨 속셈인가?
+    scripts: -75-A-12
     campaign: -75
-    title: story_util-20001422
+    title: 화이트존 입구
     start: -75-A-12
   }
   {
     id: 1423
     mission_id: "11906"
-    description: story_util-10001423
+    description: 당신을 포기하지 않겠어요.
+    scripts: -75-A-14
     campaign: -75
-    title: story_util-20001423
+    title: 화이트존
     start: -75-A-14
   }
   {
     id: 1424
     mission_id: "11907"
-    description: story_util-10001424
+    description: 핏자국, 제복... 최후의 방어선이 무너지고 말았다.
+    scripts: -75-A-16
     campaign: -75
-    title: story_util-20001424
+    title: 화이트존 폭발 현장
     start: -75-A-16
   }
   {
     id: 1425
     mission_id: "11908"
-    description: story_util-10001425
+    description: 남을 위해 싸우는 것.
+    scripts: -75-A-18
     campaign: -75
-    title: story_util-20001425
+    title: 토카레프의 회상Ⅲ
     start: -75-A-18
   }
   {
     id: 1426
     mission_id: "11909"
-    description: story_util-10001426
+    description: 이용할 수 있는 실마리는... 전부 써먹어야 해.
+    scripts: -75-A-20
     campaign: -75
-    title: story_util-20001426
+    title: 화이트존 병원
     start: -75-A-20
   }
   {
     id: 1427
     mission_id: "11910"
-    description: story_util-10001427
+    description: 카리나 씨의 미소... 지휘관님의 눈빛... 평온한 그 옛날.
+    scripts: -75-A-22
     campaign: -75
-    title: story_util-20001427
+    title: 화이트존 중앙병원
     start: -75-A-22
   }
   {
     id: 1428
     mission_id: "11911"
-    description: story_util-10001428
+    description: 저는 당신을 위해 평생을 바쳐 싸우는 일에 후회 없습니다.
+    scripts: -75-A-24
     campaign: -75
-    title: story_util-20001428
+    title: 토카레프의 회상Ⅳ
     start: -75-A-24
   }
   {
     id: 1429
     mission_id: "11912"
-    description: story_util-10001429
+    description: 거짓된 불길로는 당신을 만나러 가는 내 걸음을 불태울 수 없어.
+    scripts: -75-A-26
     campaign: -75
-    title: story_util-20001429
+    title: 화이트존 프랑크푸르트
     start: -75-A-26
   }
   {
     id: 1430
     mission_id: "11913"
-    description: story_util-10001430
+    description: 수면 밑의 수싸움이 갈수록 치열해진다.
+    scripts: -75-A-28
     campaign: -75
-    title: story_util-20001430
+    title: 화이트존 폐기 정류소
     start: -75-A-28
   }
   {
     id: 1431
     mission_id: "11914"
-    description: story_util-10001431
+    description: 마지막 희망은 피로 이어진다...
+    scripts: -75-A-30
     campaign: -75
-    title: story_util-20001431
+    title: 화이트존 폐기 지하철도
     start: -75-A-30
   }
   {
     id: 1432
     mission_id: "11915"
-    description: story_util-10001432
+    description: 악의가 담긴 거짓말...
+    scripts: -75-A-32
     campaign: -75
-    title: story_util-20001432
+    title: 화이트존 폐기 지하철도 끝자락
     start: -75-A-32
   }
   {
     id: 1433
     mission_id: "11916"
-    description: story_util-10001433
+    description: 아무 것도 끝나지 않았어. 아직 할 일이 있다고.
+    scripts: -75-A-34
     campaign: -75
-    title: story_util-20001433
+    title: 특이점
     start: -75-A-34
+  }
+  {
+    id: 1434
+    mission_id: "11917"
+    description: 너는 내 평생의 궁극.
+    scripts: -76-A-2
+    campaign: -76
+    title: 잿더미의 천국
+    start: -76-A-2
+  }
+  {
+    id: 1435
+    mission_id: "11938"
+    description: 장마가 그치지 않던 날... 모든 것은 몽환처럼.
+    scripts: -76-A-4
+    campaign: -76
+    title: 악마의 탄생
+    start: -76-A-4
+  }
+  {
+    id: 1436
+    mission_id: "11939"
+    description: ...사랑이 우리를 함께 살게 하시어... 사랑이 우리를 함께 죽게 하리라.
+    scripts: -76-A-6
+    campaign: -76
+    title: 진실
+    start: -76-A-6
+  }
+  {
+    id: 1437
+    mission_id: "11940"
+    description: '''"내 심장이 불길에 집어삼켜지면...""나의 피가 너와 함께 나아가리..."'''
+    scripts: -76-A-8
+    campaign: -76
+    title: 여신의 메아리
+    start: -76-A-8
+  }
+  {
+    id: 1438
+    mission_id: "11941"
+    description: '''"윌리엄, 너에게 사랑 가득한 선물을 가져왔단다..."'''
+    scripts: -76-A-10
+    campaign: -76
+    title: 훈장
+    start: -76-A-10
+  }
+  {
+    id: 1439
+    mission_id: "11922"
+    description: Rebellion is watching you
+    scripts: -76-A-12
+    campaign: -76
+    title: 피 묻은 비너스
+    first: -76-A-12
+    end: -76-A-12
+  }
+  {
+    id: 1440
+    mission_id: "11942"
+    description: 블랙홀은 끝내 증발한다.
+    scripts: -76-A-14
+    campaign: -76
+    title: 킹 대 킹
+    start: -76-A-14
+  }
+  {
+    id: 1441
+    mission_id: "11943"
+    description: '''"너도 분명 좋은 강아지일 거야..."'''
+    scripts: -76-A-16
+    campaign: -76
+    title: 라이헨바르크 교향곡Ⅰ
+    start: -76-A-16
+  }
+  {
+    id: 1442
+    mission_id: "11944"
+    description: '''"네가 어디에 있든 내가 죽음을 가져다 주겠다."'''
+    scripts: -76-A-18
+    campaign: -76
+    title: 라이헨바르크 교향곡Ⅱ
+    start: -76-A-18
+  }
+  {
+    id: 1443
+    mission_id: "11945"
+    description: 주사위는 던져졌다.
+    scripts: -76-A-20
+    campaign: -76
+    title: 플레이어
+    start: -76-A-20
   }
 ]

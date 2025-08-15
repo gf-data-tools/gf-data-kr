@@ -650,7 +650,11 @@
   }
   {
     obtain_id: "519"
-    description: 기간 한정 이벤트【로슈 한계】 재화 교환
+    description: 기간 한정 이벤트 【로슈 한계】 재화 교환
+  }
+  {
+    obtain_id: "520"
+    description: 기간 한정 이벤트 【허입자쌍】 재화 교환
   }
   {
     obtain_id: "1701"
@@ -1432,5 +1436,9 @@
   {
     obtain_id: "3133"
     description: 기간 한정 이벤트 <로슈 한계> 재화 교환
+  }
+  {
+    obtain_id: "3134"
+    description: 기간 한정 이벤트 <허입자쌍> 재화 교환
   }
 ]

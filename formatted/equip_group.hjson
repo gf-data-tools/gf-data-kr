@@ -523,4 +523,22 @@
     group_skill: 2:1007103
     fit_gun: "20212"
   }
+  {
+    id: 59
+    name: 소중한 추억
+    des: AUG에게 맞춤 제작된 세트. 적에게 가장 아름다운 장례를 선사합니다.
+    code: EgroupAUG
+    equip_unit: "295,0,462"
+    group_skill: 2:1007903
+    fit_gun: "73"
+  }
+  {
+    id: 60
+    name: 최고의 서비스
+    des: 스프링필드에게 맞춤 제작된 세트. 그리폰의 여러분에게 더 나은 서비스를~
+    code: EgroupM1903
+    equip_unit: "59,0,463"
+    group_skill: 2:1008003
+    fit_gun: "36"
+  }
 ]

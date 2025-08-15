@@ -293,6 +293,17 @@
     skin_source: 1
   }
   {
+    id: 211
+    name: 카리나-전선풍운
+    fit_gun: -1
+    ai: 5001
+    voice: 4
+    dialog: 평소에는 후방지원을 맡았지만, 중요한 순간에는 저도 전장에 나설 수 있어요... 이제 출발하죠, 지휘관님.
+    gift_position: "-130,-4.5"
+    class_id: 52
+    skin_source: 1
+  }
+  {
     id: 212
     name: 카리나-정장 타임
     fit_gun: -1

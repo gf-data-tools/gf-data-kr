@@ -5618,6 +5618,277 @@
     carry_mission_skill: "751512"
   }
   {
+    id: 760000
+    name: 지휘관의 의지
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 760000
+    priority: 1
+  }
+  {
+    id: 760001
+    name: 윌리엄의 주시
+    description: Big bro is watching you
+    code: fara83
+    type: 1
+    duration_type: "5"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 450301
+    conflict_type: 760001
+    priority: 1
+  }
+  {
+    id: 760002
+    name: 윌리엄의 주시
+    description: Big bro is watching you
+    code: fara83
+    type: 1
+    duration_type: "5"
+    duration_time: "2"
+    exp_buff: "1"
+    battle_skill_config_id: 450301
+    conflict_type: 760001
+    priority: 1
+  }
+  {
+    id: 760010
+    name: 윌리엄 킬러
+    description: First Blood
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    battle_skill_config_id: 450301
+    manual_ui_code: killicon_0#a84fb5
+    conflict_type: 760010
+    priority: 1
+  }
+  {
+    id: 760020
+    name: 윌리엄 킬러
+    description: Double Kill
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    battle_skill_config_id: 450302
+    manual_ui_code: killicon_0#a84fb5
+    conflict_type: 760010
+    priority: 2
+  }
+  {
+    id: 760030
+    name: 윌리엄 킬러
+    description: Killing Spree
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    battle_skill_config_id: 450303
+    manual_ui_code: killicon_1#a84fb5
+    conflict_type: 760010
+    priority: 3
+  }
+  {
+    id: 760040
+    name: 윌리엄 킬러
+    description: Dominating
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    battle_skill_config_id: 450304
+    manual_ui_code: killicon_1#a84fb5
+    conflict_type: 760010
+    priority: 4
+  }
+  {
+    id: 760050
+    name: 윌리엄 킬러
+    description: Rampage
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    battle_skill_config_id: 450305
+    manual_ui_code: killicon_2#a84fb5
+    conflict_type: 760010
+    priority: 5
+  }
+  {
+    id: 760060
+    name: 윌리엄 킬러
+    description: Unstoppable
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    battle_skill_config_id: 450306
+    manual_ui_code: killicon_2#a84fb5
+    conflict_type: 760010
+    priority: 6
+  }
+  {
+    id: 760070
+    name: 윌리엄 킬러
+    description: Godlike
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    battle_skill_config_id: 450307
+    manual_ui_code: killicon_3#a84fb5
+    conflict_type: 760010
+    priority: 7
+  }
+  {
+    id: 760080
+    name: 윌리엄 킬러
+    description: Legendary
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    battle_skill_config_id: 450308
+    manual_ui_code: killicon_3#a84fb5
+    conflict_type: 760010
+    priority: 8
+  }
+  {
+    id: 760601
+    name: M16
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 760601
+    priority: 1
+    carry_mission_skill: "760611"
+  }
+  {
+    id: 760602
+    name: 비크
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 760602
+    priority: 1
+    carry_mission_skill: "760612"
+  }
+  {
+    id: 760704
+    name: EMP 폭탄 소지
+    description: EMP 폭탄 소지
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    manual_ui_code: CarryEMPIcon#1E90FF
+    conflict_type: 760704
+    priority: -1
+    carry_mission_skill: "760714"
+  }
+  {
+    id: 760800
+    name: 지휘관
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 760800
+    priority: -1
+    carry_mission_skill: "760810"
+  }
+  {
+    id: 760801
+    name: 연속 행동 C
+    description: 행동력 상승
+    code: ExtraMove
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    special_spot_config_id: 760801
+    conditions_type: "1"
+    conditions_time: 0-1
+    conflict_type: 760801
+    priority: 1
+    ext_move: 1
+  }
+  {
+    id: 760802
+    name: 연속 행동 B
+    description: 행동력 상승
+    code: ExtraMove2
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    special_spot_config_id: 760802
+    conditions_type: "1"
+    conditions_time: 0-1
+    conflict_type: 760801
+    priority: 2
+    ext_move: 2
+  }
+  {
+    id: 760803
+    name: 연속 행동 A
+    description: 행동력 상승
+    code: ExtraMove3
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 760801
+    priority: 3
+    ext_move: 3
+  }
+  {
+    id: 760804
+    name: 리벨리온
+    description: 화력 대폭 상승, 이동 시 AP 소모 없음
+    code: AK15
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    battle_skill_config_id: 450308
+    special_spot_config_id: 760800
+    conditions_type: "2"
+    conditions_time: 0-1
+    free_ap_move: 1
+    conflict_type: 760804
+    priority: 1
+  }
+  {
+    id: 760820
+    name: 가구성 CD
+    type: 1
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 760820
+    priority: 1
+  }
+  {
+    id: 760902
+    name: 골리앗 소지
+    description: 골리앗 소지
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    manual_ui_code: CarryBoomerIcon#EC4702
+    conflict_type: 760902
+    priority: -1
+    carry_mission_skill: "760912"
+  }
+  {
     id: 910630
     name: 보호막
     description: 보호막 증폭 중
