@@ -9609,6 +9609,7 @@
     fit_gun: 97
     voice: 15
     dialog: 이 옷차림에 대나무숲 배경은 이상할까...? 썬더는 잘 어울린다고 하는데... 아, 지휘관도 그렇게 생각해? 고, 고마워...
+    gift_position: "-286,280"
     illustrator_cv: 八号地球,Koga Aoi,
     order: 148
     class_id: 110
@@ -9620,6 +9621,7 @@
     fit_gun: 311
     voice: 15
     dialog: 후훗, 코치 새해 복 많이 받아! 지금 팀원들에게 세뱃둔 나눠주고 있어... 당연히 달려서 나눠주고 있지. 체력 훈련은 축구 시합에 엄청 중요하다고!
+    gift_position: "-54,23"
     order: 148
     class_id: 110
     skin_source: 1
@@ -10003,6 +10005,7 @@
     fit_gun: 400
     voice: 4
     dialog: 히히, 지휘관님! 우리 시원하게 배트민턴 시합해요! ...앗, 잠들지 마세요, 아직 서브도 안 했다고요!
+    gift_position: "-179,169"
     order: 136
   }
   {
@@ -10092,7 +10095,16 @@
     voice: 4
     dialog: 출발할까요, 지휘관님? 산길이 조금 더러울 수 있지만 걱정 마세요... 제가 가장 깨끗한 경로를 찾아드릴 테니까요.
     illustrator_cv: Alize,Sirasu Saho,
-    order: 155
+    order: 156
+  }
+  {
+    id: 30032
+    name: Six12 - 딥블루 스카이
+    fit_gun: 278
+    voice: 4
+    dialog: 높은 곳에서 이 도시를 내려다볼 때면 이곳을 지키고 싶은 마음이 더 강해져요... 바다도 미래에는 이토록 아름답겠죠?
+    illustrator_cv: --,Oomori Nichika,
+    order: 157
   }
   {
     id: 50001

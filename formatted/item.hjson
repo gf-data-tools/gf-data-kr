@@ -16693,6 +16693,24 @@
     rank: 1
   }
   {
+    id: 2703
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_Six12
+    item_name: Six12 - 딥블루 스카이
+    introduction: Six12 - 딥블루 스카이
+    rank: 1
+  }
+  {
+    id: 2704
+    type: 5
+    arg: "1"
+    code: card_BattlePass_Six12
+    item_name: 카드 배경：고독한 시가전
+    introduction: 카드 배경：고독한 시가전
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -18473,6 +18491,15 @@
     code: gift_bundle_BattlePass_STG44
     item_name: StG44 - 계곡 탐험
     introduction: 출발할까요, 지휘관님? 산길이 조금 더러울 수 있지만 걱정 마세요... 제가 가장 깨끗한 경로를 찾아드릴 테니까요.
+    rank: 1
+  }
+  {
+    id: 30032
+    type: 1
+    arg: "30032"
+    code: gift_bundle_BattlePass_Six12
+    item_name: Six12 - 딥블루 스카이
+    introduction: 높은 곳에서 이 도시를 내려다볼 때면 이곳을 지키고 싶은 마음이 더 강해져요... 바다도 미래에는 이토록 아름답겠죠?
     rank: 1
   }
   {
@@ -21077,6 +21104,34 @@
     item_name: 마음 파먹는 가면·허입자쌍
     introduction: 기이한 기운을 풍기는 마스크, 극한의 시련을 뛰어넘은 자만이 얻을 수 있습니다. 가지고 있어봤자 쓸모 없어 보이지만, 상점에서 학수고대한 만남과 교환할 수 있을 겁니다.
     rank: 1
+  }
+  {
+    id: 100284
+    type: 4
+    arg: "100284"
+    code: Nova_medal
+    item_name: 노바훈장·나비 성운
+    introduction: 노바훈장·나비 성운
+    rank: 1
+  }
+  {
+    id: 100285
+    type: 4
+    arg: "100285"
+    code: Platinum_medal
+    item_name: 백금훈장·나비 성운
+    introduction: 백금훈장·나비 성운
+    rank: 1
+  }
+  {
+    id: 100286
+    type: 9
+    arg: "100286"
+    code: Coin_202411LorenzButterfly
+    item_name: 코엔
+    introduction: 다크존 유통 화폐, 공식적으로도 암시장에서도 가치를 인정받는다
+    rank: 1
+    daily_limit: 60;180
   }
   {
     id: 110001
@@ -23758,6 +23813,22 @@
     rank: 1
   }
   {
+    id: 140063
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제32기 전선협약
+    rank: 1
+  }
+  {
+    id: 140064
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제32기 전선협약 강화
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -24271,6 +24342,15 @@
     code: profileFrame_BattlePass_STG44
     item_name: 액자·가을날 라쿤
     introduction: 액자·가을날 라쿤
+    rank: 1
+  }
+  {
+    id: 200057
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_Six12
+    item_name: 액자·꼭대기의 경치
+    introduction: 액자·꼭대기의 경치
     rank: 1
   }
   {
@@ -27038,7 +27118,7 @@
     arg: "1500242"
     code: package_choose
     item_name: 기초 장비 선택 코드
-    introduction: 전선협약-라쿤 탐험대 보상,  지정 범위에서 원하는 장비를 하나 골라 획득할 수 있습니다.
+    introduction: 전선협약 - 도넛과 만남 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1
@@ -27048,8 +27128,8 @@
     type: 15
     arg: "1500243"
     code: package_choose
-    item_name: 부속 장비 선택 코드
-    introduction: 전선협약-라쿤 탐험대 보상,  지정 범위에서 원하는 부속 유형 장비를 하나 골라 획득할 수 있습니다.
+    item_name: 인형 장비 선택 코드
+    introduction: 전선협약 - 도넛과 만남 보상, 지정 리스트에서 원하는 인형 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1
@@ -27060,7 +27140,7 @@
     arg: "1500244"
     code: package_random
     item_name: 미해금 인형 확정 코드
-    introduction: 전선협약-라쿤 탐험대 보상,  범위 중 도감이 해금되지 않은 인형을 반드시 하나 획득. 전부 해금된 상태일 경우 무작위로 하나 획득.
+    introduction: 전선협약 - 도넛과 만남 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
     rank: 1
     sort: -1
     type_sort: 1
@@ -27071,7 +27151,7 @@
     arg: "1500245"
     code: package_random
     item_name: 전선협약-추가보상
-    introduction: 전선협약-라쿤 탐험대 보상,  범위 중 한 가지 도구를 무작위로 획득합니다
+    introduction: 전선협약 - 도넛과 만남 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
     rank: 1
     sort: -1
     type_sort: 1
@@ -27082,7 +27162,7 @@
     arg: "1500246"
     code: Bumdle_SummerdayCoupons1
     item_name: 레어 코스튬 쿠폰·써머
-    introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 코스튬을 무작위로 하나 얻습니다.
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
     rank: 1
     sort: -1
     type_sort: 1
@@ -27093,7 +27173,7 @@
     arg: "1500247"
     code: Bumdle_SummerdayCoupons2
     item_name: 럭셔리 코스튬 쿠폰·써머
-    introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 보유하지 않은 코스튬을 무작위로 하나 얻습니다.
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
     rank: 1
     sort: -1
     type_sort: 1
@@ -27103,8 +27183,8 @@
     type: 15
     arg: "1500248"
     code: Bumdle_SummerdayCoupons3
-    item_name: 로얄 코스튬 쿠폰·써머
-    introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 원하는 코스튬을 하나 골라서 얻을 수 있습니다.
+    item_name: 로열 코스튬 쿠폰·써머
+    introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 원하는 코스튬을 하나 골라 얻을 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1
@@ -27115,7 +27195,7 @@
     arg: "1500249"
     code: package_choose
     item_name: 기초 장비 선택 코드
-    introduction: 전선협약-도넛과 만남 보상, 지정 범위에서 원하는 장비를 하나 골라 획득할 수 있습니다.
+    introduction: 전선협약 - 출발! 라쿤 탐험대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1
@@ -27125,8 +27205,8 @@
     type: 15
     arg: "1500250"
     code: package_choose
-    item_name: 인형 장비 선택 코드
-    introduction: 전선협약-도넛과 만남 보상, 지정 범위에서 원하는 인형 유형 장비를 하나 골라 획득할 수 있습니다.
+    item_name: 부속 장비 선택 코드
+    introduction: 전선협약 - 출발! 라쿤 탐험대 보상, 지정 리스트에서 원하는 부속 장비를 하나 선택할 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1
@@ -27137,7 +27217,7 @@
     arg: "1500251"
     code: package_random
     item_name: 미해금 인형 확정 코드
-    introduction: 전선협약-도넛과 만남 보상, 범위 중 도감이 해금되지 않은 인형을 반드시 하나 획득. 전부 해금된 상태일 경우 무작위로 하나 획득.
+    introduction: 전선협약 - 출발! 라쿤 탐험대 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
     rank: 1
     sort: -1
     type_sort: 1
@@ -27148,7 +27228,7 @@
     arg: "1500252"
     code: package_random
     item_name: 전선협약-추가보상
-    introduction: 전선협약-도넛과 만남 보상, 범위 중 한 가지 도구를 무작위로 획득합니다
+    introduction: 전선협약 - 출발! 라쿤 탐험대 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
     rank: 1
     sort: -1
     type_sort: 1
@@ -27262,6 +27342,83 @@
     arg: "1500262"
     code: Bumdle_UrbanBeautyCoupons3
     item_name: 로열 코스튬 쿠폰·어반 스타일
+    introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 원하는 코스튬을 하나 골라 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500263
+    type: 15
+    arg: "1500263"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약 - 드림 로스트 시티 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500264
+    type: 15
+    arg: "1500264"
+    code: package_choose
+    item_name: 탄창 장비 선택 코드
+    introduction: 전선협약 - 드림 로스트 시티 보상, 지정 리스트에서 원하는 탄창 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500265
+    type: 15
+    arg: "1500265"
+    code: package_random
+    item_name: 미해금 인형 확정 코드
+    introduction: 전선협약 - 드림 로스트 시티 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500266
+    type: 15
+    arg: "1500266"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약 - 드림 로스트 시티 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500267
+    type: 15
+    arg: "1500267"
+    code: Bumdle_SpringFestivalCoupons1
+    item_name: 레어 코스튬 쿠폰·설날
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500268
+    type: 15
+    arg: "1500268"
+    code: Bumdle_SpringFestivalCoupons2
+    item_name: 럭셔리 코스튬 쿠폰·설날
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500269
+    type: 15
+    arg: "1500269"
+    code: Bumdle_SpringFestivalCoupons3
+    item_name: 로열 코스튬 쿠폰·설날
     introduction: 창고에서 이 코스튬 쿠폰을 사용하면 지정 범위에서 원하는 코스튬을 하나 골라 얻을 수 있습니다.
     rank: 1
     sort: -1
