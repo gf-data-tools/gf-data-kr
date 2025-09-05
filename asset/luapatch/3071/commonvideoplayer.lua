@@ -8,8 +8,9 @@ local SetBattleMode = function(self, order)
 end
 
 local OnApplicationFocus = function(self,flag)
-	if CS.Application.platform == CS.UnityEngine.RuntimePlatform.WindowsPlayer then
+	if CS.UnityEngine.Application.platform == CS.UnityEngine.RuntimePlatform.WindowsPlayer or CS.UnityEngine.Application.isEditor then
 		if not CS.ConfigData.soundBackground then
+			CS.NDebug.Log("OnApplicationFocus",flag);
 			if not flag then
 				CS.CommonAudioController.SetBGMSoundVolume(0);
 				CS.CommonAudioController.SetVoiceSoundVolueme(0);
@@ -20,14 +21,15 @@ local OnApplicationFocus = function(self,flag)
 				CS.CommonAudioController.SetSoundVolume(CS.ConfigData.EffectValue);
 			end
 		end
-		return;
+	else
+		self:OnApplicationFocus(flag);
 	end
-	self:OnApplicationFocus(flag);
 end
 
 local OnApplicationPause = function(self,flag)
-	if CS.Application.platform == CS.UnityEngine.RuntimePlatform.WindowsPlayer then
+	if CS.Application.platform == CS.UnityEngine.RuntimePlatform.WindowsPlayer or CS.UnityEngine.Application.isEditor then
 		if not CS.ConfigData.soundBackground then
+			CS.NDebug.Log("OnApplicationPause",flag);
 			if flag then
 				CS.CommonAudioController.SetBGMSoundVolume(0);
 				CS.CommonAudioController.SetVoiceSoundVolueme(0);
@@ -38,9 +40,9 @@ local OnApplicationPause = function(self,flag)
 				CS.CommonAudioController.SetSoundVolume(CS.ConfigData.EffectValue);
 			end
 		end
-		return;
+	else
+		self:OnApplicationPause(flag);
 	end
-	self:OnApplicationPause(flag);
 end
 util.hotfix_ex(CS.CommonVideoPlayer,'SetBattleMode',SetBattleMode)
 util.hotfix_ex(CS.GFCriServerWrapper,'OnApplicationFocus',OnApplicationFocus)

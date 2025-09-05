@@ -16711,6 +16711,33 @@
     rank: 1
   }
   {
+    id: 2705
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season21_1
+    item_name: 스펙트럼 축 · code18: 스펙트럼
+    introduction: 스펙트럼 축 · code18: 스펙트럼
+    rank: 1
+  }
+  {
+    id: 2706
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season22_2
+    item_name: 끝없는 마크 · code18: 스펙트럼
+    introduction: 끝없는 마크 · code18: 스펙트럼
+    rank: 1
+  }
+  {
+    id: 2707
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season23_3
+    item_name: 분광 사분면 · code18: 스펙트럼
+    introduction: 분광 사분면 · code18: 스펙트럼
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -18407,6 +18434,15 @@
     id: 10731
     type: 18
     arg: "10731"
+    code: daily_points
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
+    rank: 1
+  }
+  {
+    id: 10732
+    type: 18
+    arg: "10732"
     code: daily_points
     item_name: 회색지대 점수
     introduction: 회색지대 점수
@@ -27425,6 +27461,21 @@
     type_sort: 1
   }
   {
+    id: 1500270
+    type: 15
+    arg: "1500270"
+    code: Bumdle_sangvischoose
+    item_name: 나비성운 특별 통합회수 의뢰서
+    introduction:
+      '''
+      창고에서 이 의뢰서를 사용하면 지정 범위 중 태생 3성 혼합세력유닛을 하나 선택해 획득할 수 있습니다.
+      *"혼합세력" 시스템을 아직 해금하지 않은 경우 얻은 유닛을 바로 사용할 수 없습니다. 해당 시스템을 해금한 이후 정상 사용 가능합니다.
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -28236,6 +28287,39 @@
     id: 1700072
     type: 15
     arg: "1700072"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700073
+    type: 15
+    arg: "1700073"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700074
+    type: 15
+    arg: "1700074"
+    code: package_choose
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700075
+    type: 15
+    arg: "1700075"
     code: package_choose
     item_name: 고등 전용장비 선택 코드
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.

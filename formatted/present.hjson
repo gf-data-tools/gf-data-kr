@@ -2512,7 +2512,7 @@
   {
     item_id: 1500267
     type: 2
-    poster: PackageImage_UrbanBeautyCoupons1
+    poster: PackageImage_SpringFestivalCoupons1
     drop_package_id: 2624
     due_time: 2025/10/28  23:59:59
     due_prize_id: 7395
@@ -2526,7 +2526,7 @@
   {
     item_id: 1500268
     type: 2
-    poster: PackageImage_UrbanBeautyCoupons2
+    poster: PackageImage_SpringFestivalCoupons2
     drop_package_id: 2625
     due_time: 2025/10/28  23:59:59
     due_prize_id: 7396
@@ -2540,7 +2540,7 @@
   {
     item_id: 1500269
     type: 1
-    poster: PackageImage_UrbanBeautyCoupons3
+    poster: PackageImage_SpringFestivalCoupons3
     prize_id: 13045
     due_time: 2025/10/28  23:59:59
     due_prize_id: 2885
@@ -2549,6 +2549,20 @@
       다음 코스튬 중 원하는 것을 하나 골라 얻을 수 있습니다.
       획득 가능한 코스튬: 95식 - 영롱한 옥, DSR-50 - 비목단, OTs-14 - 크라슐라, DP-12 - 꽃과 달 등롱, PA-15 - 델피니움, 루이스 - 추위를 맞는 손님, SP9 - 고고한 한란, Erma - 그윽한 매화향
       *쿠폰은 2025년 10월 28일까지 유효하니 주의 바랍니다.
+      '''
+  }
+  {
+    item_id: 1500270
+    type: 1
+    poster: PackageImage_Sangvis
+    prize_id: 13064
+    due_time: 2025/10/28  23:59:59
+    due_prize_id: 2996
+    present_info:
+      '''
+      혼합세력 도감 번호 216번 이내의 태생 3성 혼합세력 중 하나를 선택해 얻거나, 노바 커널 800개를 얻을 수 있습니다.
+      [창고]에서 혼합세력유닛을 선택하길 바랍니다.
+      *"혼합세력" 시스템을 아직 해금하지 않은 경우 얻은 유닛을 바로 사용할 수 없습니다. 해당 시스템을 해금한 이후 정상 사용 가능합니다.
       '''
   }
   {
