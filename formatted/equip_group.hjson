@@ -541,4 +541,22 @@
     group_skill: 2:1008003
     fit_gun: "36"
   }
+  {
+    id: 61
+    name: 위생 점검
+    des: Saiga-12에게 맞춤 제작된 세트. 전장 청소도 인형 업무의 일환이죠!
+    code: EgroupSaiga12
+    equip_unit: "465,0,292"
+    group_skill: 2:1008203
+    fit_gun: "160"
+  }
+  {
+    id: 62
+    name: 뼈저린 혹한
+    des: PK에게 맞춤 제작된 세트. 적에게 살을 에는 고통을 선사합니다.
+    code: EgroupPK
+    equip_unit: "466,264,0"
+    group_skill: 2:1008303
+    fit_gun: "85"
+  }
 ]
