@@ -48706,6 +48706,321 @@
     classification_id: 3002
   }
   {
+    id: 12720
+    type: 8
+    quota: 2001
+    giftbag_name: 전술인형: CZ75
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 95
+    pay_type: 1
+    itemprice: 100287-500
+    classification_id: 1002
+  }
+  {
+    id: 12721
+    type: 8
+    quota: 2001
+    giftbag_name: 전술인형: JS 9
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 40227
+    pay_type: 1
+    itemprice: 100287-500
+    classification_id: 1002
+  }
+  {
+    id: 12722
+    type: 8
+    quota: 2001
+    giftbag_name: 전술인형: 루이스
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 651
+    pay_type: 1
+    itemprice: 100287-500
+    classification_id: 1002
+  }
+  {
+    id: 12723
+    type: 8
+    quota: 2001
+    giftbag_name: 전술인형: AUG Para
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 40288
+    pay_type: 1
+    itemprice: 100287-500
+    classification_id: 1002
+  }
+  {
+    id: 12724
+    type: 8
+    quota: 2001
+    giftbag_name: 전술인형: SP9
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 1286
+    pay_type: 1
+    itemprice: 100287-500
+    classification_id: 1002
+  }
+  {
+    id: 12725
+    type: 8
+    quota: 2001
+    giftbag_name: 전술인형: M327
+    event_code: dailyGiftbag
+    discount: 1
+    prize_id: 2667
+    pay_type: 1
+    itemprice: 100287-500
+    classification_id: 1002
+  }
+  {
+    id: 12726
+    type: 8
+    gift: 100003-1
+    quota: 2200
+    giftbag_name: 딸기치즈케익
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    itemprice: 100287-5
+    classification_id: 1002
+  }
+  {
+    id: 12727
+    type: 9
+    item_ids: 2315-1
+    gemprice: 4000
+    original_price: 10000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 카드배경: 브루스 랩소디
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12728
+    type: 9
+    item_ids: 2330-1
+    gemprice: 4000
+    original_price: 10000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 카드 배경: 스패너 걸
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12729
+    type: 9
+    item_ids: 2342-1
+    gemprice: 4000
+    original_price: 10000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 카드 배경: 젝트의 수수께끼
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12730
+    type: 9
+    item_ids: 2033-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 아이콘: 절박 시뮬레이션
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12731
+    type: 9
+    item_ids: 2034-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 아이콘: 역경을 지켜보다
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12732
+    type: 9
+    item_ids: 2059-1
+    gemprice: 2000
+    original_price: 5000
+    if_cheap: 1
+    quota: 2001
+    giftbag_name: 아이콘: 말 대신 꽃
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12733
+    type: 9
+    item_ids: 10604-1
+    gemprice: 2000
+    quota: 2001
+    giftbag_name: 초전도 펄스
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12734
+    type: 9
+    gift: 100003-1
+    gemprice: 150
+    quota: 2003
+    giftbag_name: 딸기치즈케익
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12735
+    type: 9
+    gift: 100002-1
+    gemprice: 60
+    quota: 2003
+    giftbag_name: 소프트콘
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12736
+    type: 9
+    gift: 100001-1
+    gemprice: 30
+    quota: 2003
+    giftbag_name: 막대사탕
+    event_code: dailyGiftbag
+    discount: 1
+    pay_type: 1
+    classification_id: 1007
+  }
+  {
+    id: 12737
+    type: 8
+    item_ids: 41-100,506-1000,8-1
+    gift: 100003-10
+    gemprice: 580
+    quota: 2002
+    giftbag_name: 10월 특별 패키지
+    event_code: dailyGiftbag
+    icon: Bumdle_package
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 12738
+    type: 8
+    gemprice: 128
+    quota: 2001
+    giftbag_name: 10월 일일 패키지
+    event_code: dailyGiftbag
+    icon: Bumdle_navy
+    daily_quota: 1
+    discount: 1
+    prize_id: 538
+    classification_id: 3002
+  }
+  {
+    id: 12739
+    type: 8
+    item_ids: 605-10,515-1000
+    gemprice: 1120
+    quota: 2003
+    giftbag_name: 혼합세력 지정보급
+    event_code: dailyGiftbag
+    icon: Bumdle_yuugo01
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 12740
+    type: 8
+    gemprice: 800
+    quota: 2010
+    giftbag_name: 연휴 혼합세력 보급
+    event_code: dailyGiftbag
+    icon: Bumdle_cashblue
+    discount: 1
+    prize_id: 2591
+    classification_id: 3002
+  }
+  {
+    id: 12741
+    type: 8
+    item_ids: 8-5,514-750,515-2600,516-1500
+    gift: 400001-1100,100003-100
+    gemprice: 700
+    quota: 2003
+    giftbag_name: 연휴 통합회수 패키지
+    event_code: dailyGiftbag
+    icon: Bumdle_cashgold
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 12742
+    type: 8
+    gemprice: 950
+    quota: 2002
+    giftbag_name: 연휴 마인드맵 강화 패키지
+    event_code: dailyGiftbag
+    icon: Bumdle_cashblack
+    discount: 1
+    prize_id: 2592
+    classification_id: 3002
+  }
+  {
+    id: 12743
+    type: 8
+    item_ids: 50-300,1500271-1,44-150
+    gemprice: 300
+    quota: 2010
+    giftbag_name: 연휴 장비 육성 보급
+    event_code: dailyGiftbag
+    icon: Bumdle_cashwhite
+    discount: 1
+    classification_id: 3002
+  }
+  {
+    id: 12744
+    type: 8
+    item_ids: 509-100,44-100
+    gemprice: 128
+    quota: 2005
+    giftbag_name: 요정지령 보급 패키지
+    event_code: dailyGiftbag
+    icon: Bumdle_Division
+    discount: 1
+    classification_id: 3002
+  }
+  {
     id: 30001
     type: 8
     gift: 8611-1

@@ -657,6 +657,10 @@
     description: 기간 한정 이벤트 【허입자쌍】 재화 교환
   }
   {
+    obtain_id: 521
+    description: 기간 한정 점수 모드 이벤트 【침묵 말판】 점수 보상
+  }
+  {
     obtain_id: 1701
     description: 2017년 1월 출석보상
   }
@@ -1440,5 +1444,13 @@
   {
     obtain_id: 3134
     description: 기간 한정 이벤트 <허입자쌍> 재화 교환
+  }
+  {
+    obtain_id: 3135
+    description: <침묵 말판> 랭킹 점수 300000점 보상
+  }
+  {
+    obtain_id: 3136
+    description: 기간한정 이벤트 <유유한 가을> 출석 보상
   }
 ]

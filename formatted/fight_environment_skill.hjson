@@ -1271,6 +1271,12 @@
     skill_group: "330003"
   }
   {
+    id: 1194601
+    name: M16 합체
+    desc: 윌리엄 킬러
+    skill_group: "450702"
+  }
+  {
     id: 12020101
     name: 화력 강화
     desc: 전체 화력 +15%.

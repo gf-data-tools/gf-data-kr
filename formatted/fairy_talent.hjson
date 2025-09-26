@@ -45,6 +45,11 @@
     name: 약탈계
   }
   {
+    id: 757264
+    type_id: 1
+    name: 무한동력
+  }
+  {
     id: 900906
     type_id: 1
     name: 모래폭풍

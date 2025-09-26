@@ -3538,8 +3538,8 @@
     type: participate_theater
     count: 1
     prize_id: 11256
-    title: 국지전: 국지전 도전
-    content: 국지전에 한 번 참여하기
+    title: 상시 이벤트: 점수 모드
+    content: 상시 이벤트 - 점수 모드에 1회 도전
     new_type: 1
     grade_id: 45
     sort: 353

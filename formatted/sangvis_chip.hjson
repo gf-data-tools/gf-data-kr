@@ -144,4 +144,14 @@
     dev_time: 1800
     chip_skill: "3008"
   }
+  {
+    id: 4001
+    name: 지휘
+    type: 3
+    code: Support
+    des: 자신 주위 5칸 이내 아군 제대의 명중, 회피, 이동속도 상승.
+    dev_battery_num: 1000
+    dev_time: 300
+    chip_skill: "4001"
+  }
 ]

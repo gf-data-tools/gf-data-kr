@@ -623,7 +623,7 @@
     path: CLASS62
     des_year: "2025"
     source: 2
-    source_description: 설날 이벤트
+    source_description: 2025 가을 출석
   }
   {
     id: 63
@@ -648,6 +648,17 @@
     des_year: "2025"
     source: 2
     source_description: 2025 주년 이벤트 보상
+  }
+  {
+    id: 65
+    name: 고요한 꽃무리
+    description: 영원히 시들지 않는 향기를 머리에 쓰세요. 전선의 상황이 어떻게 변하든, 당신의 뒤에는 항상 누군가 모든 준비를 해줄 겁니다.
+    group_id: "103"
+    code: commander_6520_icon
+    path: CLASS65
+    des_year: "2025"
+    source: 2
+    source_description: 양자요동 이벤트 랭킹전 보상
   }
   {
     id: 99

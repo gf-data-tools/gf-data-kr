@@ -1460,6 +1460,29 @@
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 47002
+    id: 47
+    name: 로델레로
+    sub_name: 로델레로
+    type: 3
+    code: Rodelero
+    introduce: 중화기를 장비했음에도 날렵한 인형. 장착된 제트팩으로 진형 후방에서 전방으로 단숨에 뛰어넘어, 충전식 레이저포로 전장을 꿰뚫는다. 역장 발생기도 탑재되어 있어, 적의 실탄 공격을 튕겨낼 수 있다.
+    forces: 3
+    pow_rank: 3
+    life_rank: 4
+    hit_rank: 3
+    dodge_rank: 3
+    rate_rank: 1
+    armor_rank: 2
+    speed_rank: 3
+    range_rank: 4
+    counter: 화력과 장갑을 높인 강화형 로델레로. 합당한 전략으로 대응하세요.
+    character: "309,312,320"
+    enemy_skill: "27"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "90,90,1"
+  }
+  {
     sub_id: 48001
     id: 48
     name: 도펠죌트너
@@ -1479,6 +1502,28 @@
     character: "1003,302,309,312,319"
     enemy_skill: "28,29"
     launch_time: 2016-5-20 00:00:00
+    spine_scale: "60,60,1"
+  }
+  {
+    sub_id: 48002
+    id: 48
+    name: 도펠죌트너
+    sub_name: 도펠죌트너
+    type: 3
+    code: Doppelsoldner
+    introduce: 강력한 화력 투사 기갑. 두꺼운 장갑에 역장 발생기도 탑재했다. 주요 공격 수단인 양손의 고속 기관포 외에도, 다연장 유탄발사기로 광범위에 피해를 줄 수 있다.
+    forces: 3
+    pow_rank: 2
+    life_rank: 4
+    hit_rank: 3
+    rate_rank: 3
+    armor_rank: 4
+    speed_rank: 1
+    range_rank: 3
+    counter: 사거리가 길어진 대신 화력이 감소한 원격 타입 도펠죌트너. 합당한 전략으로 대응하세요.
+    character: "1003,302,309,312,319"
+    enemy_skill: "28,29"
+    launch_time: 2035-12-31 00:00:00
     spine_scale: "60,60,1"
   }
   {
@@ -3074,6 +3119,29 @@
     spine_scale: "50,50,1"
   }
   {
+    sub_id: 119002
+    id: 119
+    name: 패트롤러
+    sub_name: 패트롤러
+    type: 4
+    code: Thunder_New
+    introduce: 자신 신체 아래에 탑재된 포탑으로 공격하며, 공격을 받으면 높이 뛰어 회피한다. 어느 비밀 세력과 관계가 있다.
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 4
+    armor_rank: 4
+    speed_rank: 2
+    range_rank: 4
+    counter: 화력을 높인 강화형 패트롤러. 합당한 전략으로 대응하세요.
+    character: "1001,302,309,310,315"
+    enemy_skill: "36"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "50,50,1"
+  }
+  {
     sub_id: 120001
     id: 120
     name: 헤비거너
@@ -3093,6 +3161,27 @@
     character: "1003,312,316"
     enemy_skill: "39"
     launch_time: 2016-5-20 00:00:00
+    spine_scale: "100,100,1"
+  }
+  {
+    sub_id: 120002
+    id: 120
+    name: 헤비거너
+    sub_name: 헤비거너
+    type: 3
+    code: Soldier_New
+    introduce: 스트렐치와 닮았지만, 화력이 더욱 강력하며, 특수 탄약으로 아군 인형의 회피 성능을 낮춘다. 어느 비밀 세력과 관계가 있다.
+    forces: 3
+    pow_rank: 4
+    life_rank: 3
+    hit_rank: 3
+    dodge_rank: 5
+    rate_rank: 3
+    speed_rank: 1
+    range_rank: 4
+    counter: 화력과 장갑을 높인 강화형 헤비거너. 합당한 전략으로 대응하세요.
+    character: "1003,312,316"
+    launch_time: 2035-12-31 00:00:00
     spine_scale: "100,100,1"
   }
   {
@@ -3478,6 +3567,28 @@
     character: "1001,216,440"
     enemy_skill: "131,132,133,134"
     launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    sub_id: 138002
+    id: 138
+    name: 틸
+    sub_name: 틸
+    type: 1
+    code: Teal
+    introduce: 패러데우스의 엘리트 유닛, 침착하면서 신중한 뛰어난 판단력과 감정 제어력을 가졌다. 자주 그레이와 협동 작전하며, 그녀를 무척 신뢰한다. 장검으로 암살하는 것이 특기로, 적이 빈틈을 드러내는 순간을 노려 육안으로 포착할 수 없는 속도로 목숨을 앗아간다.
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 이 유닛은 무시무시한 연속 처치 능력을 지녔습니다. 아군의 주 공격수가 노려지지 않게 주의하세요.
+    character: "1001,216,440"
+    enemy_skill: "256,257,258,259,260,261,262,263"
+    launch_time: 2035-5-20 00:00:00
     spine_scale: "70,70,1"
   }
   {
@@ -5895,6 +6006,29 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 255002
+    id: 255
+    name: 윌리엄
+    sub_name: 윌리엄
+    type: 1
+    code: BossWilliam
+    introduce: 신세계의 문이 바로 눈앞이다. 윌리엄이 바라던 마지막 순간을 그 누구도 방해하지 못하게 할 것이다.
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 정보 불명, 조심해서 대응하세요!
+    character: "1001,1004"
+    enemy_skill: "264,265,266,267,268"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
     sub_id: 256001
     id: 256
     name: '''"가짜"'''
@@ -5935,6 +6069,30 @@
     counter: 정보 부족.
     character: "1001,309"
     launch_time: 2035-12-31 00:00:00
+    spine_scale: "100,100,1"
+  }
+  {
+    sub_id: 100001002
+    id: 100001
+    name: 게베뉴
+    sub_name: 게베뉴
+    type: 1
+    code: Gebbennu
+    introduce: 정체불명의 거대 복합식 전투 유닛. 막강한 화력 외에 모든 것이 수수께끼다.
+    forces: 3
+    pow_rank: 6
+    life_rank: 7
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 4
+    armor_rank: 4
+    speed_rank: 4
+    range_rank: 5
+    counter: 정보 불명, 조심해서 대응하세요!
+    character: "1001"
+    enemy_skill: "251,252,253,254,255"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "100,100,1"
   }
   {
     sub_id: 100009001

@@ -33,7 +33,7 @@
     category: 1
     code: NightBattle_Equipment
     fit_gun_type: "1,2,4,6"
-    des: 인형의 <color=#FFB400FF>야간 명중 패널티</color> 상쇄
+    des: 인형의 <color=#FFB400FF>야간 명중 패널티</color> 상쇄. 인형에 따라 표적 지시기 또는 전술 플래시를 착용 가능.
   }
   {
     type: 5
@@ -41,7 +41,7 @@
     category: 2
     code: AP_Ammo
     fit_gun_type: "3,5"
-    des: 인형의 <color=#FFB400FF>철갑 능력</color> 상승.
+    des: 인형의 <color=#FFB400FF>철갑 능력</color> 상승. 상황에 따라 철갑탄 또는 저격탄을 착용 가능.
   }
   {
     type: 6
@@ -49,7 +49,7 @@
     category: 2
     code: HP_Ammo
     fit_gun_type: "1,2"
-    des: 인형의 <color=#FFB400FF>화력</color> 상승, 대신 <color=#FFB400FF>관통</color> 감소
+    des: 인형의 <color=#FFB400FF>피해 출력</color>과 <color=#FFB400FF>보조 능력</color> 강화. 상황에 따라 HP탄 또는 신호탄을 착용 가능.
   }
   {
     type: 7
@@ -57,7 +57,7 @@
     category: 2
     code: Shotgun_Shells
     fit_gun_type: "6"
-    des: 인형의 <color=#FFB400FF>화력</color> 상승. 벅샷, 버드샷과 슬러그 기능 구분.
+    des: 인형의 <color=#FFB400FF>피해 출력</color> 상승. 상황에 따라 슬러그, 벅샷, 버드샷, 섬광산탄 착용 가능.
   }
   {
     type: 8
@@ -73,7 +73,7 @@
     category: 3
     code: Chip
     fit_gun_type: "2,4"
-    des: 인형의 <color=#FFB400FF>화력</color>과 <color=#FFB400FF>사속</color> 상승, 대신 <color=#FFB400FF>치명타 피해</color> 감소.
+    des: 인형의 <color=#FFB400FF>피해 출력</color> 상승. 인형에 따라 연산칩 또는 집중칩을 착용 가능.
   }
   {
     type: 10
@@ -136,7 +136,7 @@
     category: 2
     code: Special_AP_Ammo
     fit_gun_type: "5"
-    des: 인형의 <color=#FFB400FF>관통력</color>이 대폭 상승해, 장갑 유닛에 대한 피해가 상승한다
+    des: 인형의 <color=#FFB400FF>관통력</color>이 대폭 상승, 대신 <color=#FFB400FF>사속</color> 감소.
   }
   {
     type: 18

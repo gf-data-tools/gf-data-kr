@@ -31550,6 +31550,22 @@
     rotate: "3"
   }
   {
+    id: 20176
+    name: 친화형 디너게이트
+    classes: 19
+    type: 201
+    space: "3,3,0,0,0,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 무해화 처리된 디너게이트형 장식. 디폴트 모드에서 등 위의 스크린을 들고 당신에게 친근하며 매너있는 미소를 짓습니다... 누군가 빌려갈 때를 제외하고요.
+    code: 2025NationalDay_Dinergate
+    texture_type: "2"
+    sorting: "15"
+    offset: "-0.008,0.083,0.000"
+    rotate: "2"
+    touch_area: "3,3,3"
+  }
+  {
     id: 30001
     name: 마카로프 - 잭오랜턴
     classes: 300
@@ -48567,6 +48583,21 @@
     decompose_gift: 100003
     description: Six12의 포스터
     code: poster_BattlePass_Six12
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 330033
+    name: HK416 - 붉게 물든 벚꽃
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: HK416의 포스터
+    code: poster_BattlePass_HK416
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

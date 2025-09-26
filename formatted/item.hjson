@@ -904,6 +904,15 @@
     rank: 1
   }
   {
+    id: 151
+    type: 3
+    arg: "52"
+    code: Medal_202509Activity_rank
+    item_name: 역류 훈장
+    introduction: '''"침묵 말판" 이벤트에서 뛰어난 성적을 거둔 지휘관과 휘하 전술인형에게 수여합니다. "혼돈의 조석은 그대의 계산에서 멈추고, 그대의 말판 위에 문명의 질서가 세워진다."'''
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -16738,6 +16747,24 @@
     rank: 1
   }
   {
+    id: 2708
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_HK416
+    item_name: HK416 - 붉게 물든 벚꽃
+    introduction: HK416 - 붉게 물든 벚꽃
+    rank: 1
+  }
+  {
+    id: 2709
+    type: 5
+    arg: "1"
+    code: card_BattlePass_HK416
+    item_name: 카드 배경: 사쿠라 메모리얼
+    introduction: 카드 배경: 사쿠라 메모리얼
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -17957,6 +17984,36 @@
     rank: 1
   }
   {
+    id: 9050
+    type: 1
+    arg: "9050"
+    code: Griffin
+    item_name: 지령 포인트
+    introduction: 지령 포인트
+    rank: 1
+    is_hide_info: 1
+  }
+  {
+    id: 9051
+    type: 1
+    arg: "9051"
+    code: Griffin
+    item_name: 지령 포인트
+    introduction: 지령 포인트
+    rank: 1
+    is_hide_info: 1
+  }
+  {
+    id: 9052
+    type: 1
+    arg: "9052"
+    code: Griffin
+    item_name: 지령 포인트
+    introduction: 지령 포인트
+    rank: 1
+    is_hide_info: 1
+  }
+  {
     id: 9301
     type: 1
     arg: "9301"
@@ -18449,6 +18506,15 @@
     rank: 1
   }
   {
+    id: 10733
+    type: 18
+    arg: "10733"
+    code: daily_points
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
+    rank: 1
+  }
+  {
     id: 30023
     type: 1
     arg: "30023"
@@ -18536,6 +18602,15 @@
     code: gift_bundle_BattlePass_Six12
     item_name: Six12 - 딥블루 스카이
     introduction: 높은 곳에서 이 도시를 내려다볼 때면 이곳을 지키고 싶은 마음이 더 강해져요... 바다도 미래에는 이토록 아름답겠죠?
+    rank: 1
+  }
+  {
+    id: 30033
+    type: 1
+    arg: "30033"
+    code: gift_bundle_BattlePass_HK416
+    item_name: HK416 - 붉게 물든 벚꽃
+    introduction: 벚꽃잎은 몇 초 사이에 땅에 떨어지죠... 이 홀연히 지나가는 순간에 저의 모습과 이 경치를 당신의 기억에 새기겠어요.
     rank: 1
   }
   {
@@ -21170,6 +21245,24 @@
     daily_limit: 60;180
   }
   {
+    id: 100287
+    type: 4
+    arg: "100287"
+    code: Platinum_medal_black
+    item_name: 백금 훈장
+    introduction: 백금 훈장
+    rank: 1
+  }
+  {
+    id: 100288
+    type: 4
+    arg: "100288"
+    code: Bumdle_October4
+    item_name: 단풍 나들이 박스
+    introduction: 단풍 나들이 박스
+    rank: 1
+  }
+  {
     id: 110001
     type: 4
     arg: "110001"
@@ -21858,6 +21951,15 @@
     type: 4
     arg: "110077"
     code: PT
+    item_name: 이벤트 점수
+    introduction: 이벤트 점수
+    rank: 1
+  }
+  {
+    id: 110078
+    type: 4
+    arg: "110078"
+    code: EventPT7
     item_name: 이벤트 점수
     introduction: 이벤트 점수
     rank: 1
@@ -23865,6 +23967,22 @@
     rank: 1
   }
   {
+    id: 140065
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *33기 전선협약
+    rank: 1
+  }
+  {
+    id: 140066
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *33기 전선협약 강화
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -24387,6 +24505,15 @@
     code: profileFrame_BattlePass_Six12
     item_name: 액자·꼭대기의 경치
     introduction: 액자·꼭대기의 경치
+    rank: 1
+  }
+  {
+    id: 200058
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_HK416
+    item_name: 액자·바람 사이 꽃 편지
+    introduction: 액자·바람 사이 꽃 편지
     rank: 1
   }
   {
@@ -27476,6 +27603,94 @@
     type_sort: 1
   }
   {
+    id: 1500271
+    type: 15
+    arg: "1500271"
+    code: Bumdle_equipment
+    item_name: 5성 장비 선택 증서
+    introduction: 창고에서 이 증서를 사용하면 지정 범위 중 전용장비 이외 5성 장비를 하나 선택해 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500272
+    type: 15
+    arg: "1500272"
+    code: Bumdle_HalloweenCoupons1
+    item_name: 레어 코스튬 쿠폰·핼러윈
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500273
+    type: 15
+    arg: "1500273"
+    code: Bumdle_HalloweenCoupons2
+    item_name: 럭셔리 코스튬 쿠폰·핼러윈
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500274
+    type: 15
+    arg: "1500274"
+    code: Bumdle_HalloweenCoupons3
+    item_name: 로열 코스튬 쿠폰·핼러윈
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 원하는 코스튬을 하나 골라서 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500275
+    type: 15
+    arg: "1500275"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약-벚꽃 놀이 약속 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500276
+    type: 15
+    arg: "1500276"
+    code: package_choose
+    item_name: 인형 장비 선택 코드
+    introduction: 전선협약-벚꽃 놀이 약속 보상, 지정 리스트에서 원하는 인형 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500277
+    type: 15
+    arg: "1500277"
+    code: package_random
+    item_name: 미획득 인형 확정 코드
+    introduction: 전선협약-벚꽃 놀이 약속 보상, 리스트 중 도감이 해금되지 않은 인형이 확정으로 출현합니다. 전부 해금한 경우 무작위로 하나 출현합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500278
+    type: 15
+    arg: "1500278"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-벚꽃 놀이 약속 보상, 리스트 중 아이템을 하나 무작위로 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"
@@ -28320,6 +28535,39 @@
     id: 1700075
     type: 15
     arg: "1700075"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700076
+    type: 15
+    arg: "1700076"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700077
+    type: 15
+    arg: "1700077"
+    code: package_choose
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700078
+    type: 15
+    arg: "1700078"
     code: package_choose
     item_name: 고등 전용장비 선택 코드
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.

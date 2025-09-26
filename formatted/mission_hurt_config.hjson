@@ -269,6 +269,22 @@
     effect_birth: 1000153
   }
   {
+    id: 770051
+    name: 【표식】修理指令负数화력
+    target_type: 2
+    type: 2
+    life_type: 2
+    value: "-30"
+  }
+  {
+    id: 770053
+    name: 【표식】근성负数화력
+    target_type: 2
+    type: 2
+    life_type: 2
+    value: "-50"
+  }
+  {
     id: 900003
     name: 【표식】오염 피해
     target_type: 2

@@ -14916,4 +14916,73 @@
     is_show: 1
     obtain_ids: "3096"
   }
+  {
+    id: 467
+    name: M91 신형탄
+    description:
+      '''
+      관통+<armor_piercing>
+      제대 소총 이동속도 +10$카르카노 M1891 전용
+      '''
+    rank: 5
+    category: 2
+    type: 19
+    armor_piercing: "130,130"
+    retire_ammo: 4
+    retire_mre: 2
+    retire_part: 3
+    code: Magazine_SP_Carcano1891
+    develop_duration: 3300
+    company: IOP
+    fit_guns: "197"
+    equip_introduction: 클래식한 디자인에 최신 기술로 제작한 신형 탄약. 탄도가 더 곧바르고 반동을 줄였습니다.
+    powerup_mp: 0.08
+    powerup_ammo: 0.5
+    powerup_mre: 0.3
+    powerup_part: 0.3
+    exclusive_rate: 3
+    bonus_type: armor_piercing:500
+    passive_skill: "1008401,1008402"
+    max_level: 10
+    auto_select_id: 19092
+    is_show: 1
+    obtain_ids: "3135"
+    sp_description: 제대 소총 이동속도 +10
+    description_skill: 1008401
+  }
+  {
+    id: 468
+    name: 정교한 열쇠고리
+    description:
+      '''
+      화력+<pow> 명중+<hit>
+      회피+<dodge>스킬 강화$AUG Para 전용
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    pow: "5,7"
+    hit: "7,11"
+    dodge: "10,10"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: Accessories_SP_AUGPARA
+    develop_duration: 3600
+    company: SF
+    fit_guns: "315"
+    equip_introduction: 다람쥐를 유인할 수 있다고 하는 장식품. 그리고 인간이라면 이런 장식 하나쯤은 갖고 싶어하겠죠.
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: pow:450,hit:400,dodge:500
+    passive_skill: "1009101"
+    max_level: 10
+    auto_select_id: 18127
+    is_show: 1
+    obtain_ids: "3130"
+    description_skill: 1009101
+  }
 ]

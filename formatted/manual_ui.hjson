@@ -3494,6 +3494,479 @@
     code_b: Console_Icon
   }
   {
+    id: 770017
+    code_a: datapatch
+    description_a: 지휘관
+    description_b: 보급
+    description_c: 줍기
+    code_b: Console_Icon
+  }
+  {
+    id: 770018
+    code_a: datapatch
+    description_a: 아군 제대
+    description_b: 보급
+    description_c: 줍기
+    code_b: Console_Icon
+  }
+  {
+    id: 770021
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 장갑 강화
+    description_c: MKI
+    code_b: Console_Icon
+  }
+  {
+    id: 770022
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 장갑 강화
+    description_c: MKII
+    code_b: Console_Icon
+  }
+  {
+    id: 770023
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 장갑 강화
+    description_c: MKIII
+    code_b: Console_Icon
+  }
+  {
+    id: 770024
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 수리 장치
+    description_c: 제작
+    code_b: Console_Icon
+  }
+  {
+    id: 770025
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 보급 장치
+    description_c: 제작
+    code_b: Console_Icon
+  }
+  {
+    id: 770026
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 근성의 진수
+    description_c: 학습
+    code_b: Console_Icon
+  }
+  {
+    id: 770027
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 기동전의 진수
+    description_c: 학습
+    code_b: Console_Icon
+  }
+  {
+    id: 770028
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 감응의 진수
+    description_c: 학습
+    code_b: Console_Icon
+  }
+  {
+    id: 770029
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 예지의 진수
+    description_c: 학습
+    code_b: Console_Icon
+  }
+  {
+    id: 770030
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 열혈의 진수
+    description_c: 학습
+    code_b: Console_Icon
+  }
+  {
+    id: 770031
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 철벽의 진수
+    description_c: 학습
+    code_b: Console_Icon
+  }
+  {
+    id: 770032
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 극한 수비의 진수
+    description_c: 학습
+    code_b: Console_Icon
+  }
+  {
+    id: 770033
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 극한 기동의 진수
+    description_c: 학습
+    code_b: Console_Icon
+  }
+  {
+    id: 770034
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 극한 공격의 진수
+    description_c: 학습
+    code_b: Console_Icon
+  }
+  {
+    id: 770035
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 극한 관통의 진수
+    description_c: 학습
+    code_b: Console_Icon
+  }
+  {
+    id: 770036
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 지휘의 진수
+    description_c: 학습
+    code_b: Console_Icon
+  }
+  {
+    id: 770037
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: AR팀의 신호기
+    description_c: 제작
+    code_b: Console_Icon
+  }
+  {
+    id: 770038
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 404소대의 신호기
+    description_c: 제작
+    code_b: Console_Icon
+  }
+  {
+    id: 770039
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 리벨리온의 신호기
+    description_c: 제작
+    code_b: Console_Icon
+  }
+  {
+    id: 770040
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: M16A1의 신호기
+    description_c: 제작
+    code_b: Console_Icon
+  }
+  {
+    id: 770041
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 에이전트의 신호기
+    description_c: 제작
+    code_b: Console_Icon
+  }
+  {
+    id: 770042
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: ？？？의 신호기
+    description_c: 제작
+    code_b: Console_Icon
+  }
+  {
+    id: 770043
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 패러데우트 신호기
+    description_c: 제작
+    code_b: Console_Icon
+  }
+  {
+    id: 770044
+    code_a: WorkBench
+    description_a: 지휘관
+    description_b: 패러데우트 신호기 II형
+    description_c: 제작
+    code_b: Console_Icon
+  }
+  {
+    id: 770051
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 수리
+    description_c: 장치 사용
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770052
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 보급
+    description_c: 장치 사용
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770053
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 근성
+    description_c: 지령 발동
+    code_b: Console_Icon
+  }
+  {
+    id: 770054
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 감응
+    description_c: 지령 발동
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770055
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 예지
+    description_c: 지령 발동
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770056
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 열혈
+    description_c: 지령 발동
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770057
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 철벽
+    description_c: 지령 발동
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770058
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 불굴
+    description_c: 지령 발동
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770059
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 혼
+    description_c: 지령 발동
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770060
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 직격
+    description_c: 지령 발동
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770081
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: AR팀
+    description_c: 배치
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770082
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 404소대
+    description_c: 배치
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770083
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 리벨리온
+    description_c: 배치
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770084
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: M16A1
+    description_c: 배치
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770085
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 철혈 군단
+    description_c: 배치
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770086
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 비크
+    description_c: 배치
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770090
+    code_a: morridow_boss
+    description_a: 지휘관
+    description_b: 몰리도
+    description_c: 유인
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770091
+    code_a: RPK16Reborn
+    description_a: 지휘관
+    description_b: 엠블라
+    description_c: 유인
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770092
+    code_a: Mrsgray
+    description_a: 지휘관
+    description_b: 그레이
+    description_c: 유인
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770093
+    code_a: Bramede
+    description_a: 지휘관
+    description_b: 브라메드
+    description_c: 유인
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770094
+    code_a: Gebbennu
+    description_a: 지휘관
+    description_b: 게베뉴
+    description_c: 유인
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770095
+    code_a: StyxBoss
+    description_a: 지휘관
+    description_b: 스틱스
+    description_c: 유인
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770096
+    code_a: HebeBoss
+    description_a: 지휘관
+    description_b: 헤베
+    description_c: 유인
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770097
+    code_a: Nimeylan
+    description_a: 지휘관
+    description_b: 네메아란
+    description_c: 유인
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770098
+    code_a: Teal
+    description_a: 지휘관
+    description_b: 틸
+    description_c: 유인
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770099
+    code_a: BossWilliam
+    description_a: 지휘관
+    description_b: 윌리엄
+    description_c: 유인
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 770111
+    code_a: Griffin
+    description_a: AR팀
+    description_b: 필중
+    description_c: 지령 발동
+    code_b: Console_Icon
+  }
+  {
+    id: 770112
+    code_a: Griffin
+    description_a: 404소대
+    description_b: 번뜩임
+    description_c: 지령 발동
+    code_b: Console_Icon
+  }
+  {
+    id: 770113
+    code_a: Griffin
+    description_a: 리벨리온
+    description_b: 열혈
+    description_c: 지령 발동
+    code_b: Console_Icon
+  }
+  {
+    id: 770114
+    code_a: Griffin
+    description_a: 철혈소대
+    description_b: 철벽
+    description_c: 지령 발동
+    code_b: Console_Icon
+  }
+  {
     id: 1000101
     code_a: Rock
     description_a: 아군 제대

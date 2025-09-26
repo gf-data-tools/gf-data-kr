@@ -1319,6 +1319,40 @@
     mod_exp: 10
   }
   {
+    id: 39
+    name: 질주요정
+    code: sports
+    description: '''"빨리 달리는 비결? 음... 표범이 쫓아온다고 상상해보기?"'''
+    introduce: 끝없이 솟아나는 스테미나와 닳지 않는 지구력을 지녔습니다. 평소에는 게으른 인형의 체력 단련을 감독할 수 있습니다.
+    type: 2
+    pow: 270
+    dodge: 20
+    armor: 55
+    grow: 300
+    proportion: 1:0.4,2:0.5,3:0.6,4:0.8,5:1
+    skill_id: "757263"
+    quality_exp: 100
+    quality_need_number: 1:0,2:100,3:200,4:350,5:550
+    category: 1
+    develop_duration: 18600
+    retiremp: 4
+    retireammo: 1
+    retiremre: 5
+    retirepart: 1
+    powerup_mp: 10
+    powerup_ammo: 3
+    powerup_mre: 14
+    powerup_part: 3
+    ai: 3000
+    avatar_offset: "0,20,0"
+    avatar_scale: "0.6,0.6,0.6"
+    picture_offset: "-100,-100,0"
+    picture_scale: "0.864,0.864,0.864"
+    org_id: 10502
+    obtain_ids: "521"
+    mod_exp: 10
+  }
+  {
     id: 1004
     name: 스이
     code: DJMAXSUEE
