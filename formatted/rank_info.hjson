@@ -92,8 +92,8 @@
     name: 이벤트 점수 랭킹
     type: "6"
     sub_type: "11946"
-    refresh: end:2025-11-07 15:00:00
-    title: <침묵 말판> 순위표（10월 31일 보상 지급）
+    refresh: end:2025-11-14 15:00:00
+    title: <침묵 말판> 순위표(11월 7일 보상 지급)
     top_rewards: 1:40821,2:40822,3:40823,4:40824,5:40825,6:40826,7:40827,8:40828,9:40829,10:40830,100:40831
     visable_rank: "100"
     visable_count: "100"
@@ -102,9 +102,9 @@
     every_table_num: "30000"
     rank_list_num: "1"
     begin_refresh_time: 2025-10-10
-    end_refresh_time: 2025-11-07
+    end_refresh_time: 2025-11-14
     begin_show_time: 2025-10-10 15:00:00
-    end_show_time: 2025-11-07 15:00:00
+    end_show_time: 2025-11-14 15:00:00
     sub_mission_group: "11946"
     event_rank_id: "14"
     prize_preview: https://www.girlsfrontline.co.kr/pages/rank/index.html
