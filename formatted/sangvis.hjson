@@ -1601,6 +1601,7 @@
     skill3: 750963
     skill_advance: 750964
     skill_resolution: "750961"
+    passive_skill2: "450604"
     normal_attack: 750965
     baseammo: 10
     basemre: 10
@@ -1720,7 +1721,7 @@
     skill3: 760013
     skill_advance: 760014
     skill_resolution: "760011"
-    passive_skill2: "760009"
+    passive_skill2: "760009,450516"
     dynamic_passive_skill: "760022"
     normal_attack: 760008
     baseammo: 10
@@ -3184,17 +3185,14 @@
     extra: ",,"
     en_introduce: 미정
     forces: 1
-    type: 1
+    type: 2
     character: "2,4,6"
     formation: 1
     resolution: 107
     shape_scale: "80,120"
     ap_cost: 10
     rank: 5
-    skill1: 900833
-    skill2_type: 2
-    skill2: 30008
-    skill3: 900831
+    skill2_type: 1
     skill_advance: 900832
     skill_resolution: "900834"
     passive_skill2: "902167"
@@ -3218,10 +3216,6 @@
     assist_attack_range: 15
     ratio_range: 500
     search_range: 7
-    effect_grid_effect: 0:4,15;5,15|2:1,12;3,12
-    type_chip1: "1,2,3"
-    type_chip2: "1,2,3"
-    type_chip3: "1,2,3"
     illustration_id: 21
     ai: 11002
     is_additional: 1
@@ -3233,6 +3227,383 @@
     ratio_rec: 100
   }
   {
+    id: 9002
+    name: 스케어크로우
+    en_name: Scarecrow
+    code: Scarecrow
+    introduce: 정보 수집분석을 잘하지만, 정면 전투에는 다소 약한 면이 있다. 철혈에서 지위가 낮은 편이다. 이성적이고 과묵한 독설가, 직책에 충실하며, 감정에 휘둘리는 것을 타기한다. 그래서 감정이 풍부한 주제에 명령에 복종할 줄만 아는 그리폰 인형을 상대로 우월감을 가진다.
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: 미정
+    forces: 1
+    type: 2
+    character: "2,4,6"
+    formation: 1
+    resolution: 101
+    shape_scale: "80,120"
+    rank: 5
+    skill2_type: 1
+    passive_skill2: "450704,450703"
+    normal_attack: 900510
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 95
+    ratio_pow: 95
+    ratio_rate: 116
+    ratio_hit: 90
+    ratio_dodge: 120
+    armor_piercing: 15
+    crit: 20
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 12
+    attack_range_type: 2
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 7
+    illustration_id: 5
+    ai: 11001
+    is_additional: 1
+    launch_time: 2035-05-20 00:00:00
+    display_enemy_team: 930001
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    ratio_rec: 95
+  }
+  {
+    id: 9003
+    name: 엑스큐셔너
+    en_name: Excutioner
+    code: Excutioner
+    introduce: 엘리트 척후에 해당하며, 스케어크로우보다 지위가 약간 높고, 자주 둘이서 함께 행동한다. 저돌적이고 괄괄한 여장부 성격을 가진 인형. 정정당당하게 싸우길 좋아하며, 약자를 괴롭히는 건 싫어한다.
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: 미정
+    forces: 1
+    type: 2
+    character: "2,4,5"
+    formation: 1
+    resolution: 102
+    shape_scale: "80,120"
+    rank: 5
+    skill2_type: 1
+    passive_skill2: "450705,450703"
+    normal_attack: 600309
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 125
+    ratio_pow: 105
+    ratio_rate: 88
+    ratio_hit: 95
+    ratio_dodge: 95
+    armor_piercing: 15
+    crit: 40
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 15
+    attack_range_type: 2
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 5
+    illustration_id: 8
+    ai: 11002
+    is_additional: 2
+    launch_time: 2035-05-20 00:00:00
+    display_enemy_team: 930002
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    ratio_rec: 150
+  }
+  {
+    id: 9004
+    name: 헌터
+    en_name: Hunter
+    code: Hunter
+    introduce: 기동력과 지능이 높으며, 교란과 추격 작전에 특화되어 있다. 스케어크로우와 엑스큐셔너와 함께할 때 최고의 실력을 발휘할 수 있다. 침착하고 냉정하며, 온갖 수단으로 적을 궁지에 몰아넣어 붙잡는 것을 선호한다. 그리폰을 매우 오만하게 대하지만, 너무 비겁한 수단을 쓰는 건 좋아하지 않는다.
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: 미정
+    forces: 1
+    type: 2
+    character: "2,4,6"
+    formation: 1
+    resolution: 103
+    shape_scale: "80,120"
+    rank: 5
+    skill2_type: 1
+    passive_skill2: "450706,450703"
+    normal_attack: 900591
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 100
+    ratio_pow: 100
+    ratio_rate: 110
+    ratio_hit: 105
+    ratio_dodge: 105
+    armor_piercing: 15
+    crit: 30
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 15
+    attack_range_type: 2
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 7
+    illustration_id: 11
+    ai: 11002
+    is_additional: 1
+    launch_time: 2035-05-20 00:00:00
+    display_enemy_team: 930003
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    ratio_rec: 110
+  }
+  {
+    id: 9005
+    name: 디스트로이어
+    en_name: Destroyer
+    code: Destroyer
+    introduce: 폭파 임무에 특화되어 있으며, 폭탄 해체도 전문가 수준이다. 개인 전투 능력도 괜찮아, 가끔 알케미스트와 조를 짤 때가 있다. 평소 건방지고 입이 험하지만, 츤데레 끼가 있다. 어린애처럼 투정을 부리며, 다급해지면 울음을 터뜨린다. 자신의 키를 매우 신경 쓰고 있다.
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: 미정
+    forces: 1
+    type: 2
+    character: "2,4,6"
+    formation: 1
+    resolution: 105
+    shape_scale: "80,120"
+    rank: 5
+    skill2_type: 1
+    passive_skill2: "450707,450703"
+    normal_attack: 900730
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 110
+    ratio_pow: 135
+    ratio_rate: 70
+    ratio_hit: 100
+    ratio_dodge: 95
+    armor_piercing: 15
+    crit: 20
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 15
+    attack_range_type: 2
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 7
+    illustration_id: 18
+    ai: 11002
+    is_additional: 1
+    launch_time: 2035-05-20 00:00:00
+    display_enemy_team: 930005
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    ratio_rec: 110
+  }
+  {
+    id: 9006
+    name: 아키텍트
+    en_name: Architect
+    code: BossArchitect
+    introduce: 원거리 파괴 및 화력 지원이 특기인 강력한 인형, 평소 혼자서 행동한다. 활발하고 해맑은 성격에 생각이 없는 소녀. 언제나 즐거워 보이며, 그리폰에 대해서도 적대심이 없고, 철혈에는 최소한의 명령 복종만 하는 수준이다. 하지만 폭격과 파괴에 열중하기 때문에 여전히 골치 아픈 상대다.
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: 미정
+    forces: 1
+    type: 2
+    character: "2,4,6"
+    formation: 1
+    resolution: 106
+    shape_scale: "80,120"
+    rank: 5
+    skill2_type: 1
+    passive_skill2: "450708,450703"
+    normal_attack: 900780
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 110
+    ratio_pow: 120
+    ratio_rate: 110
+    ratio_hit: 105
+    ratio_dodge: 70
+    armor_piercing: 15
+    crit: 20
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 15
+    attack_range_type: 2
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 7
+    illustration_id: 27
+    ai: 11002
+    is_additional: 1
+    launch_time: 2035-05-20 00:00:00
+    display_enemy_team: 930006
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    ratio_rec: 110
+  }
+  {
+    id: 9007
+    name: 드리머
+    en_name: Dreamer
+    code: Dreamer
+    introduce: 전투 능력에 편중되어, 초원거리 지정 타격 능력을 가졌다. 나비 사건 이후 제작되어 엘리사의 직속 명령을 따른다. 저격 능력 덕분에 정면에 나설 일이 드물어 평소 철혈 본부에서 저지를 놀리면서 지낸다. 우아한 미소에서 오만함과 예측할 수 없고 매우 불안정한 정신상태가 드러난다. 항상 자아중심적으로 작전 중에 통제에서 벗어나는 모습을 보여준다, 그 엄청난 파괴력에 아군까지 휘말릴 수 있어 모두 그녀가 전장에 나타나지 않기를 바라고 있다.
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: 미정
+    forces: 1
+    type: 2
+    character: "2,4,6"
+    formation: 1
+    resolution: 109
+    shape_scale: "80,120"
+    rank: 5
+    skill2_type: 1
+    passive_skill2: "450709,450703"
+    normal_attack: 900965
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 95
+    ratio_pow: 125
+    ratio_rate: 100
+    ratio_hit: 110
+    ratio_dodge: 100
+    armor_piercing: 15
+    crit: 20
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 15
+    attack_range_type: 2
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 7
+    illustration_id: 24
+    ai: 11002
+    is_additional: 1
+    launch_time: 2035-05-20 00:00:00
+    display_enemy_team: 930009
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    ratio_rec: 95
+  }
+  {
+    id: 9008
+    name: 게이저
+    en_name: Gager
+    code: BossGager
+    introduce: 작전 지휘 및 인원 조달을 담당하며, 작전 인형을 지휘할 수 있고, 자체 전투 실력도 상당한, 에이전트 직속 부하인 고위 인형이다. 진지하고 엄격한 성격으로 언행에서 똑 부러지는 기품이 넘쳐난다. 적을 상대할 때도 원칙과 예절을 중시한다.
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: 미정
+    forces: 1
+    type: 2
+    character: "2,4,6"
+    formation: 1
+    resolution: 110
+    shape_scale: "80,120"
+    rank: 5
+    skill2_type: 1
+    passive_skill2: "901036,901037,450710,450703"
+    normal_attack: 901035
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 105
+    ratio_pow: 100
+    ratio_rate: 120
+    ratio_hit: 125
+    ratio_dodge: 95
+    armor_piercing: 15
+    crit: 20
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 15
+    attack_range_type: 2
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 7
+    illustration_id: 26
+    ai: 11002
+    is_additional: 1
+    launch_time: 2035-05-20 00:00:00
+    display_enemy_team: 930010
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    ratio_rec: 105
+  }
+  {
+    id: 9009
+    name: 저지
+    en_name: Justice
+    code: Justice
+    introduce: 지휘 능력에 편중되어, 철혈 본부의 방어 및 보안 시스템을 담당한다. 나비 사건 이후 제작되어 오직 엘리사의 명령만 따르는 호위 무사 같은 인형이다. 엄숙하고 융통성이 없는 성격으로, 군인 같은 위엄과 패기를 보여준다. 하지만 몸집이 작아 얕보이기 쉬워, 이걸 가지고 놀리는 건 적이든 아군이든 상관없이 철저하게 응징한다. 엘리사에겐 절대복종하며, 성격이 다른 드리머를 상대론 골머리가 아프다.
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: 미정
+    forces: 1
+    type: 2
+    character: "1,4,6"
+    formation: 1
+    resolution: 111
+    shape_scale: "80,120"
+    rank: 5
+    skill2_type: 1
+    passive_skill2: "450711,450703"
+    normal_attack: 901223
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 130
+    ratio_pow: 95
+    ratio_rate: 110
+    ratio_hit: 110
+    ratio_dodge: 80
+    ratio_armor: 48
+    armor_piercing: 15
+    crit: 20
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 15
+    attack_range_type: 2
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 7
+    illustration_id: 35
+    ai: 11002
+    is_additional: 1
+    launch_time: 2035-05-20 00:00:00
+    display_enemy_team: 930011
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    ratio_rec: 140
+  }
+  {
     id: 90001
     name: PPSh-41
     en_name: PPSh-41
@@ -3242,17 +3613,14 @@
     extra: ",,"
     en_introduce: 미정
     forces: 1
-    type: 1
+    type: 2
     character: "2,4,6"
     formation: 1
     resolution: 107
     shape_scale: "80,120"
     ap_cost: 10
     rank: 5
-    skill1: 900833
-    skill2_type: 2
-    skill2: 30008
-    skill3: 900831
+    skill2_type: 1
     skill_advance: 900832
     skill_resolution: "900834"
     passive_skill2: "902167"
@@ -3276,10 +3644,6 @@
     assist_attack_range: 15
     ratio_range: 500
     search_range: 7
-    effect_grid_effect: 0:4,15;5,15|2:1,12;3,12
-    type_chip1: "1,2,3"
-    type_chip2: "1,2,3"
-    type_chip3: "1,2,3"
     illustration_id: 21
     ai: 11002
     is_additional: 1
