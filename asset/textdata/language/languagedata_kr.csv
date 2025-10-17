@@ -5243,6 +5243,12 @@ SEPCIALOPS,60862,자원을 소모해 이 전역을 스킵하겠습니까?,,0
 SEPCIALOPS,60863,소모되는 자원 ,,0
 SEPCIALOPS,60864,자원이 부족하여 작전을 시작할 수 없습니다.,,0
 SEPCIALOPS,60865,<Color=#FFB400FF>4종 자원 각 {0}개</Color>를 소모하여 이 전역을 스킵하겠습니까?,,0
+SEPCIALOPS,60866,제1막,,0
+SEPCIALOPS,60867,제2막,,0
+SEPCIALOPS,60868,제3막,,0
+SEPCIALOPS,60869,회고록,,0
+SEPCIALOPS,60870,모험기,,0
+SEPCIALOPS,60871,귀환록,,0
 GASHAPON,70000,현재 가구 창고 공간이 부족합니다,,0
 GASHAPON,70001,)//c 정리 후 구매를 진행해주세요!,,0
 GASHAPON,70002,구매토큰이 부족하여//c 구매할 수 없습니다.,,0
