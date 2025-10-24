@@ -5618,6 +5618,15 @@
     note: 오리지널
   }
   {
+    id: 5081
+    name: 토카레프-오리지널
+    fit_gun: 20006
+    voice: 4
+    is_hidden: 2
+    dialog: 오리지널
+    note: 오리지널
+  }
+  {
     id: 5101
     name: 류 소총 - 버드나무 여우불
     fit_gun: 316

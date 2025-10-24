@@ -651,14 +651,14 @@
   }
   {
     id: 65
-    name: 고요한 꽃무리
-    description: 영원히 시들지 않는 향기를 머리에 쓰세요. 전선의 상황이 어떻게 변하든, 당신의 뒤에는 항상 누군가 모든 준비를 해줄 겁니다.
+    name: 개선길의 꽃
+    description: 이건 성대한 축제를 위해서가 아닌, 당신만을 위해 준비한 선물입니다. 뒤에서 느껴지는 따스함과 편안함으로 피곤한 신경을 치유해줄 겁니다.
     group_id: "103"
     code: commander_6520_icon
     path: CLASS65
     des_year: "2025"
     source: 2
-    source_description: 양자요동 이벤트 랭킹전 보상
+    source_description: 양자요동 이벤트 랭킹 보상
   }
   {
     id: 99

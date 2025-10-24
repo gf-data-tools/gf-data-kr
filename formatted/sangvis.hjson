@@ -1760,6 +1760,67 @@
     recommended_team_ids: "6"
   }
   {
+    id: 1030
+    name: 틸
+    en_name: Teal
+    code: Teal
+    introduce: 침착하면서 신중한 뛰어난 판단력과 감정 제어력을 가졌다. 장검과 클로로 암살하는 것이 특기로, 적이 빈틈을 드러내는 순간을 노려 육안으로 포착할 수 없는 속도로 목숨을 앗아간다. 다시 깨어난 “틸”에게 있어서, 과거 흠모하는 이는 세상을 떠나, 비슷한 존재가 있어도 예전의 관계를 되찾는 건 이룰 수 없기에, 당장의 공격에 집중할 뿐이다.
+    dialogue: 待定，单独提出语言包最好
+    extra: ",,"
+    en_introduce: 미정
+    forces: 1
+    type: 1
+    character: "2,4,5"
+    formation: 1
+    resolution: 130
+    shape_scale: "80,120"
+    ap_cost: 10
+    rank: 5
+    skill1: 760027
+    skill2_type: 1
+    skill2: 760031
+    skill3: 760034
+    skill_advance: 760035
+    skill_resolution: "760028"
+    passive_skill2: "760025,760026,760032,760036,760037,760038,760039,760040"
+    dynamic_passive_skill: "760029,760030"
+    normal_attack: 760024
+    baseammo: 10
+    basemre: 10
+    ammo_add_withnumber: 5
+    mre_add_withnumber: 5
+    ratio_hp: 100
+    ratio_pow: 140
+    ratio_rate: 90
+    ratio_hit: 160
+    ratio_dodge: 120
+    armor_piercing: 100
+    crit: 50
+    crit_dmg: 150
+    eat_ratio: 100
+    ratio_speed: 20
+    attack_range_type: 1
+    assist_attack_range: 15
+    ratio_range: 500
+    search_range: 3
+    effect_grid_effect: 4:2,30;4,50
+    type_chip1: "1,2,3"
+    type_chip2: "1,2,3"
+    type_chip3: "1,2,3"
+    illustration_id: 138
+    ai: 11002
+    is_additional: 1
+    launch_time: 2016-05-20 00:00:00
+    display_enemy_team: 930030
+    picture_offset: "-100.001,-65.021"
+    picture_scale: "0.864,0.864"
+    dorm_scale: 100
+    org_id: 10604
+    gun_tag_ids: "139,109,122,103"
+    ratio_rec: 250
+    recommended_team_ids: "8"
+  }
+  {
     id: 2001
     name: 브루트
     en_name: Brute

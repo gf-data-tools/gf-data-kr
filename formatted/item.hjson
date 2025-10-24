@@ -16811,6 +16811,15 @@
     rank: 1
   }
   {
+    id: 3505
+    type: 5
+    arg: "1"
+    code: profilePic_rank4_TT33Mod
+    item_name: 토카레프 MOD
+    introduction: 토카레프 MOD
+    rank: 1
+  }
+  {
     id: 4001
     type: 1
     arg: "4001"

@@ -3,8 +3,8 @@
     identity: 1
     type: battery_collect
     count: 3
-    title: 주간 과제: 전력 채집
-    content: 숙소 전지 수령 3회.
+    title: 주간 과제: 졸개 처치
+    content: 일반 유닛을 누적 50개 처치.
     prize_id: 8309
     exchange_prize_id: 8316
   }
@@ -12,8 +12,8 @@
     identity: 2
     type: procurement
     count: 1
-    title: 주간 과제: 가구 구매
-    content: 가구/코스튬 뽑기 1회.
+    title: 주간 과제: 보스 처치
+    content: 보스 유닛을 1개 처치.
     prize_id: 8309
     exchange_prize_id: 8316
   }
@@ -21,8 +21,8 @@
     identity: 3
     type: sangvis_daily_retrieval
     count: 8
-    title: 주간 과제: 통합회수
-    content: 통합회수 8회.(일반회수, 협력회수 불문)
+    title: 주간 과제: 전투 승리
+    content: S 평가로 전투 8회 승리.
     function_control_id: 21
     prize_id: 8309
     exchange_prize_id: 8316
@@ -31,8 +31,8 @@
     identity: 4
     type: upgrade_skill
     count: 3
-    title: 주간 과제: 집중특훈
-    content: 스킬훈련 3회.
+    title: 주간 과제: 회색 지대
+    content: 회색지대 지점을 누적 15개 점령
     function_control_id: 4
     prize_id: 8309
     exchange_prize_id: 8316
@@ -42,7 +42,7 @@
     type: sp_develop
     count: 4
     title: 주간 과제: 군비확장
-    content: 중형제조 4회.(인형, 요정 불문)
+    content: 인형, 장비, 요정 중 아무거나 8회 제조
     function_control_id: 3
     prize_id: 8309
     exchange_prize_id: 8316
@@ -51,8 +51,8 @@
     identity: 6
     type: map_capture
     count: 15
-    title: 주간 과제: 회색지대 탐사
-    content: 회색지대 지점을 누적 15개 점령.
+    title: 주간 과제: 군수지원
+    content: 군수지원 10회 완료.
     function_control_id: 29
     prize_id: 8309
     exchange_prize_id: 8316
@@ -61,8 +61,8 @@
     identity: 7
     type: daily_complete
     count: 15
-    title: 주간 과제: 업무 처리
-    content: 일일 임무 누적 15개 완수.
+    title: 주간 과제: 모의훈련
+    content: 모의작전 또는 혼합훈련 누적 12회
     prize_id: 8309
     exchange_prize_id: 8316
   }
@@ -70,8 +70,8 @@
     identity: 8
     type: win_boss
     count: 1
-    title: 주간 과제: 에이스 킬러
-    content: 전투에서 승리하며 보스 유닛 1개 처치.
+    title: 주간 과제: 전진기지
+    content: 전진기지에서 탐색 5회 완료.
     prize_id: 8309
     exchange_prize_id: 8316
   }

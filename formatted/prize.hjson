@@ -18064,6 +18064,14 @@
     content: 개조 보상
   }
   {
+    id: 3006
+    name: 토카레프
+    item_ids: 3505-1
+    equip_ids: "472"
+    skin: 5081
+    content: 인형 개조 보상
+  }
+  {
     id: 3007
     name: 스테츠킨
     item_ids: 1550-1
