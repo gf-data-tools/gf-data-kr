@@ -19,7 +19,7 @@ commander_class-20000014,유카타를 입고 떠나는 달빛과 여름을 기�
 commander_class-30000014,2019
 commander_class-40000014,
 commander_class-10000015,분열의 후광
-commander_class-20000015,전쟁은 잔혹하다, 언제나 승리하는 자는 뛰어난 실력뿐만이 아니라 가끔은 무모한 모습도 보여주지.
+commander_class-20000015,전쟁은 잔혹하다//c 언제나 승리하는 자는 뛰어난 실력뿐만이 아니라 가끔은 무모한 모습도 보여주지.
 commander_class-30000015,2019
 commander_class-40000015,연쇄분열 랭킹 보상
 commander_class-10000016,열혈학생
@@ -31,7 +31,7 @@ commander_class-20000017,오늘의 특별 게스트는 핼러윈 콘테스트 �
 commander_class-30000017,2019
 commander_class-40000017,
 commander_class-10000018,눈 속 여행
-commander_class-20000018,"왜 산타 할아버지는 선물을 나눠주는 걸까?"라는 질문에 "모두를 이어주고 싶나 보지."라고 순록이 대답했습니다.
+commander_class-20000018,왜 산타 할아버지는 선물을 나눠주는 걸까?라는 질문에 "모두를 이어주고 싶나 보지."라고 순록이 대답했습니다.
 commander_class-30000018,2019
 commander_class-40000018,
 commander_class-10000099,거짓말 마스크
@@ -110,7 +110,7 @@ commander_class-10000036,택티컬 어뮤즈먼트
 commander_class-20000036,당신의 인생은 장대한 전시회입니다//c 지휘관님. 여태까지의 여정을 한번 결산하고 다음 여정으로 떠납시다.
 commander_class-30000036,2021
 commander_class-40000036,5주년 출석 이벤트 보상
-commander_class-10000037,"화려한" 새옷
+commander_class-10000037,화려한 새옷
 commander_class-20000037,두 세계급 재단사가 디자인한 초고급 예복입니다. 안목이 높은 분들은 필시 이 옷의 아름다움을 바로 이해할 수 있겠죠?
 commander_class-30000037,2021
 commander_class-40000037,전진기지 교환
@@ -219,10 +219,10 @@ commander_class-20000064,요란한 주년 파티에서 모두의 시선을 한�
 commander_class-30000064,2025
 commander_class-40000064,2025 주년 이벤트 보상
 commander_class-10000065,개선길의 꽃
-commander_class-20000065,이건 성대한 축제를 위해서가 아닌, 당신만을 위해 준비한 선물입니다. 뒤에서 느껴지는 따스함과 편안함으로 피곤한 신경을 치유해줄 겁니다.
+commander_class-20000065,이건 성대한 축제를 위해서가 아닌//c 당신만을 위해 준비한 선물입니다. 뒤에서 느껴지는 따스함과 편안함으로 피곤한 신경을 치유해줄 겁니다.
 commander_class-30000065,2025
 commander_class-40000065,양자요동 이벤트 랭킹 보상
 commander_class-10000066,원정 협약
-commander_class-20000066,"준비되셨나요? 모든 추억을 짐에 싸고 저 미지의 지평선으로 다시 출발해요."
+commander_class-20000066,준비되셨나요? 모든 추억을 짐에 싸고 저 미지의 지평선으로 다시 출발해요.
 commander_class-30000066,2025
 commander_class-40000066,양자요동 이벤트 보상

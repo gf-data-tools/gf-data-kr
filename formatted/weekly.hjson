@@ -1,8 +1,8 @@
 [
   {
     identity: 1
-    type: battery_collect
-    count: 3
+    type: win_normal
+    count: 50
     title: 주간 과제: 졸개 처치
     content: 일반 유닛을 누적 50개 처치.
     prize_id: 8309
@@ -10,7 +10,7 @@
   }
   {
     identity: 2
-    type: procurement
+    type: win_boss
     count: 1
     title: 주간 과제: 보스 처치
     content: 보스 유닛을 1개 처치.
@@ -19,60 +19,87 @@
   }
   {
     identity: 3
-    type: sangvis_daily_retrieval
+    type: s_win
     count: 8
     title: 주간 과제: 전투 승리
     content: S 평가로 전투 8회 승리.
-    function_control_id: 21
     prize_id: 8309
     exchange_prize_id: 8316
   }
   {
     identity: 4
-    type: upgrade_skill
-    count: 3
-    title: 주간 과제: 회색 지대
-    content: 회색지대 지점을 누적 15개 점령
-    function_control_id: 4
-    prize_id: 8309
-    exchange_prize_id: 8316
-  }
-  {
-    identity: 5
-    type: sp_develop
-    count: 4
-    title: 주간 과제: 군비확장
-    content: 인형, 장비, 요정 중 아무거나 8회 제조
-    function_control_id: 3
-    prize_id: 8309
-    exchange_prize_id: 8316
-  }
-  {
-    identity: 6
     type: map_capture
     count: 15
-    title: 주간 과제: 군수지원
-    content: 군수지원 10회 완료.
+    title: 주간 과제: 회색 지대
+    content: 회색지대 지점을 누적 15개 점령
     function_control_id: 29
     prize_id: 8309
     exchange_prize_id: 8316
   }
   {
+    identity: 5
+    type: develop_all
+    count: 8
+    title: 주간 과제: 군비확장
+    content: 인형, 장비, 요정 중 아무거나 8회 제조
+    prize_id: 8309
+    exchange_prize_id: 8316
+  }
+  {
+    identity: 6
+    type: operation
+    count: 10
+    title: 주간 과제: 군수지원
+    content: 군수지원 10회 완료.
+    prize_id: 8309
+    exchange_prize_id: 8316
+  }
+  {
     identity: 7
-    type: daily_complete
-    count: 15
+    type: combat_simulation
+    count: 12
     title: 주간 과제: 모의훈련
-    content: 모의작전 또는 혼합훈련 누적 12회
+    content: 모의작전 또는 혼합훈련 누적 15회
+    function_control_id: 4
     prize_id: 8309
     exchange_prize_id: 8316
   }
   {
     identity: 8
-    type: win_boss
-    count: 1
+    type: explore
+    count: 5
     title: 주간 과제: 전진기지
     content: 전진기지에서 탐색 5회 완료.
+    function_control_id: 17
     prize_id: 8309
+    exchange_prize_id: 8316
+  }
+  {
+    identity: 9
+    type: procurement
+    count: 1
+    title: 주간 과제: 가구 구매
+    content: 가구/코스튬 뽑기 1회.
+    prize_id: 8309
+    exchange_prize_id: 8316
+  }
+  {
+    identity: 10
+    type: sangvis_daily_retrieval
+    count: 8
+    title: 주간 과제: 통합회수
+    content: 통합회수 8회.(일반회수, 협력회수 불문)
+    function_control_id: 21
+    prize_id: 8309
+    exchange_prize_id: 8316
+  }
+  {
+    identity: 11
+    type: weekly_complete
+    count: 4
+    title: 주간 과제: 특별 임무
+    content: 다른 주간 임무를 누적 4개 완수.
+    prize_id: 8318
     exchange_prize_id: 8316
   }
 ]

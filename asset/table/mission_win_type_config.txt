@@ -802,6 +802,7 @@ mission_win_type_config-11111409,
 mission_win_type_config-11111410,
 mission_win_type_config-11111501,
 mission_win_type_config-11111701,
+mission_win_type_config-11111701,
 mission_win_type_config-11111702,임무 수락1
 mission_win_type_config-11111703,임무 수락2
 mission_win_type_config-11111704,임무 수락3
@@ -1085,8 +1086,51 @@ mission_win_type_config-11158091,처음의 아군 거점 5곳에 적이 접촉�
 mission_win_type_config-11157802,
 mission_win_type_config-11157902,
 mission_win_type_config-11158002,
+mission_win_type_config-11155101,카리나 구출
+mission_win_type_config-11155102,구출 실패
+mission_win_type_config-11155103,레이더 지점까지 철수하여 점령하기
+mission_win_type_config-11155104,카리나를 3턴간 보호하기
 mission_win_type_config-11155401,
+mission_win_type_config-11155402,적이 아군 대형헬리포트에 도달 시 작전 실패
 mission_win_type_config-11155601,
+mission_win_type_config-11155701,4턴 시작 시까지 버티기
+mission_win_type_config-11155702,
+mission_win_type_config-11158401,인질 3명 구출
+mission_win_type_config-11158701,수송차량에 진입
+mission_win_type_config-11158702,스피라에나 노드를 끄기
+mission_win_type_config-11159001,엘모호에 진입
+mission_win_type_config-11159002,엘모호 안의 모든 적을 섬멸
+mission_win_type_config-11159301,인질을 1명 구출
+mission_win_type_config-11159302,폭탄을 3개 설치
+mission_win_type_config-11159303,폭탄을 4개 설치
+mission_win_type_config-11159601,윌리엄에 접근
+mission_win_type_config-11159602,윌리엄이 출구에 도달하면 작전 실패
+mission_win_type_config-11156301,
+mission_win_type_config-11156302,
+mission_win_type_config-11156501,
+mission_win_type_config-11156502,
+mission_win_type_config-11156601,
+mission_win_type_config-11156691,적이 엘모호에 접촉
+mission_win_type_config-11156801,
+mission_win_type_config-11156891,턴 시작 시 적 수량이 25 부대를 초과
+mission_win_type_config-11156901,더티밤을 찾아내 카리나가 접촉할 것
+mission_win_type_config-11156991,카리나 퇴각
+mission_win_type_config-11157201,수비병 1명을 아무 레이더 지점에 유인하여 카리나가 해독하기.(해독은 해당 턴에만 유효함)
+mission_win_type_config-11157202,차단문 3개의 잠금을 풀기
+mission_win_type_config-11157401,수비병 2명을 아무 레이더 지점에 유인하여 카리나가 해독하기.(해독은 해당 턴에만 유효함)
+mission_win_type_config-11157402,차단문 4개의 잠금을 풀기
+mission_win_type_config-11157501,
+mission_win_type_config-11157502,카리나가 더티밤에 접촉
+mission_win_type_config-11157591,일반인 생존 및 꽃가루에 영향을 받지 않음
+mission_win_type_config-11157592,일반인 사망
+mission_win_type_config-11157701,
+mission_win_type_config-11157801,
+mission_win_type_config-11157891,처음의 아군 거점 4곳에 적이 접촉하지 못하게 하기
+mission_win_type_config-11158001,
+mission_win_type_config-11158091,처음의 아군 거점 5곳에 적이 접촉하지 못하게 하기
+mission_win_type_config-11157802,
+mission_win_type_config-11157902,
+mission_win_type_config-11158002,
 mission_win_type_config-11149801,
 mission_win_type_config-11150901,
 mission_win_type_config-11150301,보급로를 2턴간 유지//n(보급로 단절을 조심)
@@ -1198,3 +1242,21 @@ mission_win_type_config-11192402,
 mission_win_type_config-11192403,
 mission_win_type_config-11192501,카리나가 철수 지점에 도착
 mission_win_type_config-11193601,
+mission_win_type_config-11194801,카리나가 레이더 지검에 도착하고 철수
+mission_win_type_config-11194901,
+mission_win_type_config-11195601,
+mission_win_type_config-11196101,
+mission_win_type_config-11195001,아무 아군 제대가 레이더에 도착
+mission_win_type_config-11195002,
+mission_win_type_config-11195101,아무 아군 제대가 레이더에 도착
+mission_win_type_config-11195102,
+mission_win_type_config-11195201,지휘관이 레이더에 도착하고 철수
+mission_win_type_config-11195301,지휘관이 4번째 턴까지 생존
+mission_win_type_config-11195302,
+mission_win_type_config-11195401,
+mission_win_type_config-11195901,
+mission_win_type_config-11196401,
+mission_win_type_config-11195501,루니샤?를 처치，윌리엄을 처치//n<color=#CF8000>댄들라이가 쓰러질 경우 임무 실패</color>
+mission_win_type_config-11196601,
+mission_win_type_config-11198301,"갈 곳"으로 향하기
+mission_win_type_config-11194701,

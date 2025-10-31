@@ -5,6 +5,7 @@
     type: 1
     tag: EP.
     order: 1
+    campaign_sub_name: 일반
   }
   {
     id: 2
@@ -14,6 +15,7 @@
     type: 1
     tag: EP.
     order: 2
+    campaign_sub_name: 일반;긴급;야전
   }
   {
     id: 3
@@ -23,6 +25,7 @@
     type: 1
     tag: EP.
     order: 3
+    campaign_sub_name: 일반;긴급;야전
   }
   {
     id: 4
@@ -32,6 +35,7 @@
     type: 1
     tag: EP.
     order: 4
+    campaign_sub_name: 일반;긴급;야전
   }
   {
     id: 5
@@ -41,6 +45,7 @@
     type: 1
     tag: EP.
     order: 5
+    campaign_sub_name: 일반;긴급;야전
   }
   {
     id: 6
@@ -50,6 +55,7 @@
     type: 1
     tag: EP.
     order: 6
+    campaign_sub_name: 일반;긴급;야전
   }
   {
     id: 7
@@ -59,6 +65,7 @@
     type: 2
     tag: EP.
     order: 7
+    campaign_sub_name: CH.01 큐브 작전
   }
   {
     id: 8
@@ -68,6 +75,7 @@
     type: 1
     tag: EP.
     order: 8
+    campaign_sub_name: 일반;긴급;야전
   }
   {
     id: 9
@@ -77,15 +85,17 @@
     type: 1
     tag: EP.
     order: 9
+    campaign_sub_name: 일반;긴급;야전
   }
   {
     id: 10
-    story_campaign_id: "-2,-3,-4,-5,-23"
+    story_campaign_id: "-2,-3,-4,-5"
     name: 저체온증
     chapter: "7.5"
     type: 2
     tag: EP.
     order: 10
+    campaign_sub_name: CH.01 재앙의 울버린;CH.02 등화관제;CH.03 귀환작전;CH.00 이상한 나라로
   }
   {
     id: 11
@@ -95,6 +105,7 @@
     type: 2
     tag: EP.
     order: 11
+    campaign_sub_name: CH.02 파해법칙
   }
   {
     id: 12
@@ -104,6 +115,7 @@
     type: 1
     tag: EP.
     order: 12
+    campaign_sub_name: 일반;긴급;야전
   }
   {
     id: 13
@@ -113,6 +125,7 @@
     type: 2
     tag: EP.
     order: 13
+    campaign_sub_name: CH.01 심지혼선;CH.02 쌍곡함수;CH.03 대립행동
   }
   {
     id: 14
@@ -122,6 +135,7 @@
     type: 1
     tag: EP.
     order: 14
+    campaign_sub_name: 일반;긴급;야전
   }
   {
     id: 15
@@ -131,6 +145,7 @@
     type: 1
     tag: EP.
     order: 15
+    campaign_sub_name: 일반;긴급;야전
   }
   {
     id: 16
@@ -140,15 +155,17 @@
     type: 2
     tag: EP.
     order: 16
+    campaign_sub_name: CH.01 풀 리트릿;CH.02 세컨드 문;CH.03 엔드 게임
   }
   {
     id: 17
-    story_campaign_id: "-24,-25,-26,-28"
+    story_campaign_id: "-24,-25,-26,-27,-28"
     name: 난류연속
     chapter: "10.75"
     type: 2
     tag: EP.
     order: 17
+    campaign_sub_name: CH.01 황천의 여명;CH.02 유일한 결말;CH.03 종말을 넘어;CH.04 추방자;CH.00 돌풍구출
   }
   {
     id: 18
@@ -158,6 +175,7 @@
     type: 1
     tag: EP.
     order: 18
+    campaign_sub_name: 일반;긴급
   }
   {
     id: 19
@@ -167,6 +185,7 @@
     type: 2
     tag: EP.
     order: 19
+    campaign_sub_name: CH.01
   }
   {
     id: 20
@@ -176,6 +195,7 @@
     type: 2
     tag: EP.
     order: 20
+    campaign_sub_name: CH.01 탈린;CH.02 유령도시;CH.03 희생;CH.04 연결;CH.05 우담화;CH.00 종언의 꽃밭
   }
   {
     id: 21
@@ -185,6 +205,7 @@
     type: 1
     tag: EP.
     order: 21
+    campaign_sub_name: 일반;긴급
   }
   {
     id: 22
@@ -194,6 +215,7 @@
     type: 2
     tag: EP.
     order: 22
+    campaign_sub_name: CH.01 비편광원;CH.02 이중 프리즘;CH.03 극화 종점;CH.04 리캐스팅;CH.05 시야극한;CH.00 비경수위
   }
   {
     id: 23
@@ -203,6 +225,7 @@
     type: 1
     tag: EP.
     order: 23
+    campaign_sub_name: 일반;긴급
   }
   {
     id: 24
@@ -212,6 +235,7 @@
     type: 2
     tag: EP.
     order: 24
+    campaign_sub_name: CH.01;CH.02;CH.03;CH.04;CH.05;CH.06
   }
   {
     id: 25
@@ -221,6 +245,7 @@
     type: 2
     tag: EP.
     order: 25
+    campaign_sub_name: CH.01 실재계;CH.02 상상계;CH.03 상징계;CH.04 응시
   }
   {
     id: 26
@@ -230,6 +255,7 @@
     type: 2
     tag: EP.
     order: 26
+    campaign_sub_name: CH.01 무질서도 완화;CH.02 밝아지는 별;CH.03 엔트로피 역전;CH.04 항성의 추락;CH.05 암전 쇠약;CH.06 혼돈의 종막
   }
   {
     id: 27
@@ -239,6 +265,7 @@
     type: 2
     tag: EP.
     order: 27
+    campaign_sub_name: CH.01 특이점;CH.02 사영 편면;CH.03 리만 곡면;CH.04 타이히뮐러 공간;CH.∞ 추론
   }
   {
     id: 28
@@ -248,6 +275,7 @@
     type: 2
     tag: EP.
     order: 28
+    campaign_sub_name: 류드밀라;매기;엘마;타레우스;류바 할멈;니콜라스;캐서린;닥터 루고사;철로인형 폴;물품
   }
   {
     id: 29
@@ -257,6 +285,7 @@
     type: 2
     tag: EP.
     order: 30
+    campaign_sub_name: CH.00;CH.01;CH.02;CH.03;CH.03+
   }
   {
     id: 30
@@ -266,6 +295,7 @@
     type: 3
     tag: C.E.
     order: 50
+    campaign_sub_name: CH.01
   }
   {
     id: 31
@@ -275,6 +305,7 @@
     type: 3
     tag: C.E.
     order: 51
+    campaign_sub_name: CH.01
   }
   {
     id: 32
@@ -284,6 +315,7 @@
     type: 3
     tag: C.E.
     order: 52
+    campaign_sub_name: CH.01
   }
   {
     id: 33
@@ -292,7 +324,8 @@
     chapter: "2021"
     type: 3
     tag: C.E.
-    order: 53
+    order: 56
+    campaign_sub_name: CH.01
   }
   {
     id: 34
@@ -302,6 +335,7 @@
     type: 2
     tag: EP.
     order: 29
+    campaign_sub_name: CH.01
   }
   {
     id: 35
@@ -310,7 +344,8 @@
     chapter: "2020"
     type: 3
     tag: C.E.
-    order: 54
+    order: 53
+    campaign_sub_name: CH.01
   }
   {
     id: 36
@@ -320,6 +355,7 @@
     type: 3
     tag: C.E.
     order: 55
+    campaign_sub_name: CH.01
   }
   {
     id: 37
@@ -329,6 +365,7 @@
     type: 2
     tag: EP.
     order: 31
+    campaign_sub_name: CH.01
   }
   {
     id: 38
@@ -338,6 +375,7 @@
     type: 2
     tag: EP.
     order: 32
+    campaign_sub_name: CH.01;CH.01+
   }
   {
     id: 39
@@ -347,6 +385,7 @@
     type: 2
     tag: EP.
     order: 33
+    campaign_sub_name: CH.01;CH.01+
   }
   {
     id: 40
@@ -356,6 +395,7 @@
     type: 2
     tag: EP.
     order: 34
+    campaign_sub_name: CH.01;CH.01+
   }
   {
     id: 41
@@ -365,6 +405,7 @@
     type: 2
     tag: EP.
     order: 35
+    campaign_sub_name: CH.01;CH.01+
   }
   {
     id: 42
@@ -374,6 +415,7 @@
     type: 2
     tag: EP.
     order: 36
+    campaign_sub_name: CH.01;CH.01+
   }
   {
     id: 43
@@ -382,7 +424,8 @@
     chapter: "2022"
     type: 3
     tag: C.E.
-    order: 56
+    order: 58
+    campaign_sub_name: CH.01
   }
   {
     id: 44
@@ -391,7 +434,8 @@
     chapter: "2023"
     type: 3
     tag: C.E.
-    order: 58
+    order: 60
+    campaign_sub_name: CH.01
   }
   {
     id: 45
@@ -400,7 +444,8 @@
     chapter: "2023"
     type: 3
     tag: C.E.
-    order: 59
+    order: 61
+    campaign_sub_name: CH.01
   }
   {
     id: 46
@@ -410,6 +455,7 @@
     type: 2
     tag: EP.
     order: 37
+    campaign_sub_name: Day1 밤-예수의 죽음;Day1 심야-사도;Day2 아침-신의 피;Day2 낮-성자의 서;Day2 밤-최후의 만찬;Day3 아침-부활절;특이점
   }
   {
     id: 47
@@ -419,5 +465,46 @@
     type: 2
     tag: EP.
     order: 38
+    campaign_sub_name: CH.01
+  }
+  {
+    id: 48
+    story_campaign_id: "-78"
+    name: 양자요동
+    chapter: "15.9"
+    type: 2
+    tag: EP.
+    order: 39
+    campaign_sub_name: 제1막 회고록;제2막 모험기;제3막 귀환록
+  }
+  {
+    id: 49
+    story_campaign_id: "-42"
+    name: 고치 속 나비
+    chapter: "2020"
+    type: 3
+    tag: C.E.
+    order: 54
+    campaign_sub_name: CH.01
+  }
+  {
+    id: 50
+    story_campaign_id: "-50"
+    name: 사랑의 레시피
+    chapter: "2022"
+    type: 3
+    tag: C.E.
+    order: 57
+    campaign_sub_name: CH.01
+  }
+  {
+    id: 51
+    story_campaign_id: "-59"
+    name: 문제상자 가설
+    chapter: "2023"
+    type: 3
+    tag: C.E.
+    order: 59
+    campaign_sub_name: CH.01
   }
 ]

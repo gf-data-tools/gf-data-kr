@@ -18126,4 +18126,71 @@
     icon_code: 无形之手
     condition: 11924:1192402
   }
+  {
+    identity: 1268
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 빛이 함께하리
+    content: 양자요동-「호국의 길로 회귀」: 변전소를 끄지 않고 클리어.
+    type_sort: 100
+    sort: 339
+    icon_code: 与光同行
+    condition: 11950:1195002
+  }
+  {
+    identity: 1269
+    type: c_mission_win_type
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 청소부
+    content: 양자요동-「미래로 내딛는 대가」: 적을 12부대 이상 처치 후 클리어.
+    type_sort: 100
+    sort: 340
+    icon_code: 清道夫
+    condition: 11953:1195302,11958:1195302,11963:1195302
+  }
+  {
+    identity: 1270
+    type: c_no_skip_activity
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 함께 있어서 고마워요
+    content: 양자요동의 스태프롤을 끝까지 보기.
+    type_sort: 100
+    sort: 341
+    icon_code: 感恩有你
+    condition: "11985"
+  }
+  {
+    identity: 1271
+    type: speical_mission_final
+    count: 1
+    user_exp: 1000
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    core: 5
+    title: 세상을 새로 쓸 칼날
+    content: 소녀전선의 모든 메인 전역과 메인 스토리 이벤트를 클리어
+    type_sort: 100
+    sort: 342
+    icon_code: 更新世界锋芒
+  }
 ]

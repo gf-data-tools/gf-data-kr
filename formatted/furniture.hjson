@@ -5417,7 +5417,7 @@
     space: "8,4,0,0,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"그 식당의 주인은 선반 위의 술병마다 열쇠를 하나 넣어놓고, 열쇠마다 사랑의 이야기를 숨겨놨지. 거기서 술을 한 병 마셨고, 가장 아름다운 이야기를 들었지." 그건 저번 화이트데이의 밤, 이 자리에 앉아있던 인형의 추억이다.'''
+    description: 그 식당의 주인은 선반 위의 술병마다 열쇠를 하나 넣어놓고, 열쇠마다 사랑의 이야기를 숨겨놨지. 거기서 술을 한 병 마셨고, 가장 아름다운 이야기를 들었지. 그건 저번 화이트데이의 밤, 이 자리에 앉아있던 인형의 추억이다.
     code: Valentine_table,Valentine_chair
     texture_type: "2,1"
     sorting: "15,0"
@@ -5519,7 +5519,7 @@
     space: "3,4,0,0,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"방이 어질러지면 그건 내가 한 짓이야, 내 주인과는 관계없어. 난 내 주인을 사랑해. 야, 내 입술을 그렇게 쳐다보지 마. 난 포어야, 고양이가 말하는 게 문제 있어?"'''
+    description: 방이 어질러지면 그건 내가 한 짓이야, 내 주인과는 관계없어. 난 내 주인을 사랑해. 야, 내 입술을 그렇게 쳐다보지 마. 난 포어야, 고양이가 말하는 게 문제 있어?
     code: CyberpunkCat,SP_CatHouseBase
     texture_type: "1,1"
     sorting: "0,0"
@@ -6358,7 +6358,7 @@
   }
   {
     id: 2089
-    name: '''"진입금지"'''
+    name: 진입금지
     classes: 81
     type: 201
     position: "0,0"
@@ -6445,7 +6445,7 @@
   }
   {
     id: 2094
-    name: '''"G"'''
+    name: G
     classes: 19
     type: 201
     position: "0,0"
@@ -8809,7 +8809,7 @@
     space: "4,3,0,0,0,0"
     deco_rate: 950
     decompose_gift: 100003
-    description: '''"아무튼 바이올린 연주는 딱 3곡이야! 네가 일찍 잔다면 모, 모음곡을 연주해 줄 수도 있어..." 일주일 전부터 WA2000은 침실에 바이올린을 세워놓고, 지금 중요한 사람과 수면 시간에 대해서 얼굴을 붉히고 따지고 있다.'''
+    description: 아무튼 바이올린 연주는 딱 3곡이야! 네가 일찍 잔다면 모, 모음곡을 연주해 줄 수도 있어... 일주일 전부터 WA2000은 침실에 바이올린을 세워놓고, 지금 중요한 사람과 수면 시간에 대해서 얼굴을 붉히고 따지고 있다.
     code: WA2000Deco
     texture_type: "1"
     sorting: "15"
@@ -8918,7 +8918,7 @@
   }
   {
     id: 3115
-    name: '''"로딩" 플랫폼'''
+    name: 로딩 플랫폼
     classes: 31
     type: 102
     space: "4,3,1,1,1,0"
@@ -8934,7 +8934,7 @@
   }
   {
     id: 3116
-    name: '''"대박났다!" 보물상자'''
+    name: 대박났다! 보물상자
     classes: 31
     type: 201
     space: "4,3,1,1,1,0"
@@ -15094,7 +15094,7 @@
     space: "5,3,1,1,1,0"
     deco_rate: 950
     decompose_gift: 100003
-    description: '''"무한 리필"이란 딱지만 붙으면, 아무리 맛없어도 배 터질 듯 먹지. 인류의 예술 창작은 바로 이런 "욕망"을 이기기 위한 것이야.'''
+    description: 무한 리필이란 딱지만 붙으면, 아무리 맛없어도 배 터질 듯 먹지. 인류의 예술 창작은 바로 이런 "욕망"을 이기기 위한 것이야.
     code: jxnp2018_deco_06
     texture_type: "1"
     offset: "0.07,-0.01,0"
@@ -15888,7 +15888,7 @@
     space: "5,4,1,1,1,0"
     deco_rate: 900
     decompose_gift: 100003
-    description: '''"고양이 랜턴"과 "랜턴 고양이" 두 모드 사이에서 전환할 수 있습니다, 이걸 IDW의 머리에 꽂아버리면 돼요!'''
+    description: 고양이 랜턴과 "랜턴 고양이" 두 모드 사이에서 전환할 수 있습니다, 이걸 IDW의 머리에 꽂아버리면 돼요!
     code: halloween2018_deco_01
     texture_type: "1"
     offset: "-0.1,-0.05,0"
@@ -16183,7 +16183,7 @@
     space: "3,3,1,1,1,0"
     deco_rate: 450
     decompose_gift: 100002
-    description: '''"저기, 이거 어디를 짚어야 할까, 이걸 보기에 즐거운 조각상이라고 하기는 좀..." "보기에 즐거운 게 중요한 게 아니라, 이 조각상이 즐거우면 된 겁니다, 입장을 대입해서 생각해보세요." "내가 이거 모델인데..." "그렇기에 당신은 하찮은 생물이고, 변덕스러운 참고물인 거죠. 조각상은 좀 더... 올곧죠."'''
+    description: 저기, 이거 어디를 짚어야 할까, 이걸 보기에 즐거운 조각상이라고 하기는 좀... "보기에 즐거운 게 중요한 게 아니라, 이 조각상이 즐거우면 된 겁니다, 입장을 대입해서 생각해보세요." "내가 이거 모델인데..." "그렇기에 당신은 하찮은 생물이고, 변덕스러운 참고물인 거죠. 조각상은 좀 더... 올곧죠."
     code: noshery2018_deco_04
     texture_type: "1"
     offset: "-0.1,-0.1,0"
@@ -17438,7 +17438,7 @@
     space: "1,1,1,1,1,0"
     deco_rate: 900
     decompose_gift: 100003
-    description: '''"이 바닥은 화이트 초콜릿으로 만든 것이니, 맨발로 들어와 주십시오. 스타킹은 괜찮――" ...이거 지휘관님이 쓴 거죠?'''
+    description: 이 바닥은 화이트 초콜릿으로 만든 것이니, 맨발로 들어와 주십시오. 스타킹은 괜찮―― ...이거 지휘관님이 쓴 거죠?
     code: wv2019_floor
     texture_type: "1"
     offset: "0,0,0"
@@ -17453,7 +17453,7 @@
     space: "1,1,1,1,1,0"
     deco_rate: 900
     decompose_gift: 100003
-    description: '''"널 위해서라면, 전세계를 적으로 돌릴 수 있어." ...이런 거 다 거짓말이에요. 세상을 사랑하지 않는 사람은 그 누구도 사랑하지 않아요.'''
+    description: 널 위해서라면, 전세계를 적으로 돌릴 수 있어. ...이런 거 다 거짓말이에요. 세상을 사랑하지 않는 사람은 그 누구도 사랑하지 않아요.
     code: wv2019_wall
     texture_type: "1"
     offset: "0,0,0"
@@ -17504,7 +17504,7 @@
     space: "6,9,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"코코아가 이렇게나 아름답게 담겨 있다니!" 원주민은 문명의 기구의 훌륭함에 감동해, 자진해서 코코아 밭을 바쳤습니다. ―― 어느 소설에 적힌 글귀.'''
+    description: 코코아가 이렇게나 아름답게 담겨 있다니! 원주민은 문명의 기구의 훌륭함에 감동해, 자진해서 코코아 밭을 바쳤습니다. ―― 어느 소설에 적힌 글귀.
     code: wv2019_deco_03
     texture_type: "1"
     offset: "0,0,0"
@@ -17572,7 +17572,7 @@
     space: "9,4,1,1,1,0"
     deco_rate: 1350
     decompose_gift: 100003
-    description: '''"진정한 초콜릿 제조 과정은 연금술과 같으니, 진실한 사랑이 담긴 초콜릿을 먹는 자, 영생을 얻으리라." 세상이 대충 망하고 나니 무슨 말을 해도 다 믿더라고요.'''
+    description: 진정한 초콜릿 제조 과정은 연금술과 같으니, 진실한 사랑이 담긴 초콜릿을 먹는 자, 영생을 얻으리라. 세상이 대충 망하고 나니 무슨 말을 해도 다 믿더라고요.
     code: wv2019_deco_06
     texture_type: "1"
     sorting: "15"
@@ -17644,7 +17644,7 @@
     space: "1,1,1,1,1,0"
     deco_rate: 1150
     decompose_gift: 100003
-    description: '''"이 무슨 종족차별적인 문구람!" 구석에 있던 강아지가 탄식하며 말했습니다.'''
+    description: 이 무슨 종족차별적인 문구람! 구석에 있던 강아지가 탄식하며 말했습니다.
     code: wv2019_deco_10_A,wv2019_deco_10_B
     texture_type: "1,1"
     sorting: "0,0"
@@ -17744,7 +17744,7 @@
     space: "6,4,0,0,0,0"
     deco_rate: 1050
     decompose_gift: 100003
-    description: '''"술 있는 곳에 전사가 있고, 전사가 있는 곳에 승리가 있을지니. 승리를 원한다면 이 마차를 거기까지 끌고 가면 돼... 내가 이걸 다 마시기 전에만 말이야."'''
+    description: 술 있는 곳에 전사가 있고, 전사가 있는 곳에 승리가 있을지니. 승리를 원한다면 이 마차를 거기까지 끌고 가면 돼... 내가 이걸 다 마시기 전에만 말이야.
     code: yjss2019_deco_03_A,yjss2019_deco_03_B,yjss2019_deco_03_C
     texture_type: "1,1,1"
     sorting: "15,15,0"
@@ -17867,7 +17867,7 @@
     space: "4,3,0,0,0,0"
     deco_rate: 950
     decompose_gift: 100003
-    description: '''"다 깨끗한 물건이야. 시체를 뒤지거나 하진 않았어." 그 마법사는 음흉하게 웃으며 덧붙였다. "오히려, 시체가 자기 손으로 내게 준 거지."'''
+    description: 다 깨끗한 물건이야. 시체를 뒤지거나 하진 않았어. 그 마법사는 음흉하게 웃으며 덧붙였다. "오히려, 시체가 자기 손으로 내게 준 거지."
     code: yjss2019_deco_09
     texture_type: "1"
     offset: "0,-0.104,0"
@@ -18194,7 +18194,7 @@
     space: "4,7,1,1,1,0"
     deco_rate: 500
     decompose_gift: 100002
-    description: '''"BEST BOSS". 더 이상의 말이 필요한지?'''
+    description: BEST BOSS. 더 이상의 말이 필요한지?
     code: jill2019_walldeco_01
     texture_type: "1"
     offset: "0,-0.24,0"
@@ -19007,7 +19007,7 @@
     space: "1,2,1,1,1,0"
     deco_rate: 20
     decompose_gift: 100001
-    description: '''"어느 산봉우리에서 발견한 유적 탁본. 신화시대에 산봉우리에서 거대한 괴수와 싸운 영웅의 행적을 기록했다. 동그란 특수 표기가 있지만 정확한 뜻은 아직 모른다."'''
+    description: 어느 산봉우리에서 발견한 유적 탁본. 신화시대에 산봉우리에서 거대한 괴수와 싸운 영웅의 행적을 기록했다. 동그란 특수 표기가 있지만 정확한 뜻은 아직 모른다.
     code: hssd_HollowSquare1
     texture_type: "1"
     offset: "0,0,0"
@@ -19021,7 +19021,7 @@
     space: "1,2,1,1,1,0"
     deco_rate: 20
     decompose_gift: 100001
-    description: '''"전망대 근처에서 발견한 유적 탁본. 고대 제국 기술이 쇠퇴하는 역사를 기록했다. 남서쪽을 가리키는 삼각형 특수 표기가 있지만 정확한 뜻은 아직 모른다."'''
+    description: 전망대 근처에서 발견한 유적 탁본. 고대 제국 기술이 쇠퇴하는 역사를 기록했다. 남서쪽을 가리키는 삼각형 특수 표기가 있지만 정확한 뜻은 아직 모른다.
     code: hssd_LeftDown1
     texture_type: "1"
     offset: "0,0,0"
@@ -19035,7 +19035,7 @@
     space: "1,2,1,1,1,0"
     deco_rate: 20
     decompose_gift: 100001
-    description: '''"깊은 숲속에서 발견한 유적 탁본. 사라진 성검과 신비한 나무 괴물에 관한 정보를 기록했다. 북서쪽을 가리키는 삼각형 특수 표기가 있지만 정확한 뜻은 아직 모른다."'''
+    description: 깊은 숲속에서 발견한 유적 탁본. 사라진 성검과 신비한 나무 괴물에 관한 정보를 기록했다. 북서쪽을 가리키는 삼각형 특수 표기가 있지만 정확한 뜻은 아직 모른다.
     code: hssd_LeftUp1
     texture_type: "1"
     offset: "0,0,0"
@@ -19049,7 +19049,7 @@
     space: "1,2,1,1,1,0"
     deco_rate: 20
     decompose_gift: 100001
-    description: '''"수중 궁전에서 발견한 유적 탁본. 수중 별자리를 수호하는 환상 생물에 관한 시가 적혀있다. 남동쪽을 가리키는 삼각형 특수 표기가 있지만 정확한 뜻은 아직 모른다."'''
+    description: 수중 궁전에서 발견한 유적 탁본. 수중 별자리를 수호하는 환상 생물에 관한 시가 적혀있다. 남동쪽을 가리키는 삼각형 특수 표기가 있지만 정확한 뜻은 아직 모른다.
     code: hssd_RightDown1
     texture_type: "1"
     offset: "0,0,0"
@@ -19063,7 +19063,7 @@
     space: "1,2,1,1,1,0"
     deco_rate: 20
     decompose_gift: 100001
-    description: '''"페허 도시 외곽의 숙영지에서 발견한 유적 탁본. 전설 속 왕국이 무너질 때 구국의 쌍검 영웅의 최후의 행적을 기록했다. 북동쪽을 가리키는 삼각형 특수 표기가 있지만 정확한 뜻은 아직 모른다."'''
+    description: 페허 도시 외곽의 숙영지에서 발견한 유적 탁본. 전설 속 왕국이 무너질 때 구국의 쌍검 영웅의 최후의 행적을 기록했다. 북동쪽을 가리키는 삼각형 특수 표기가 있지만 정확한 뜻은 아직 모른다.
     code: hssd_RightUp1
     texture_type: "1"
     offset: "0,0,0"
@@ -19077,7 +19077,7 @@
     space: "1,2,1,1,1,0"
     deco_rate: 20
     decompose_gift: 100001
-    description: '''"악마 사냥꾼 협회 본부에서 발견한 유적 탁본. 집념에 사로잡혀 마물이 되어 결국 사랑하는 이에게 토벌당한 여성 악마 사냥꾼의 비극을 기록했다. 정사각형 특수 표기가 있지만 정확한 뜻은 아직 모른다."'''
+    description: 악마 사냥꾼 협회 본부에서 발견한 유적 탁본. 집념에 사로잡혀 마물이 되어 결국 사랑하는 이에게 토벌당한 여성 악마 사냥꾼의 비극을 기록했다. 정사각형 특수 표기가 있지만 정확한 뜻은 아직 모른다.
     code: hssd_Square1
     texture_type: "1"
     offset: "0,0,0"
@@ -19376,7 +19376,7 @@
     space: "4,3,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"우리의 목표는!""고장률 제로!""우리의 구호는!""정비 1시간에 활력 1개월!" -IOP 신제품 발표회'''
+    description: 우리의 목표는!"고장률 제로!"우리의 구호는!"정비 1시간에 활력 1개월! -IOP 신제품 발표회
     code: qjyd_machineArm_deco
     texture_type: "2"
     offset: "0,0,0"
@@ -20195,7 +20195,7 @@
     space: "4,1,0,0,0,0"
     deco_rate: 950
     decompose_gift: 100003
-    description: '''"우리와 함께하라! 세상을 새로 쓸 칼날로 마음을 무장하고, 포상 휴가를 위해 싸우자!"'''
+    description: 우리와 함께하라! 세상을 새로 쓸 칼날로 마음을 무장하고, 포상 휴가를 위해 싸우자!
     code: bltt2019_deco02
     texture_type: "1"
     offset: "0,-0.104,0"
@@ -20262,7 +20262,7 @@
     space: "4,3,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"우리 속에 갇힌 디너게이트에 비하면야 우리의 형편은 정말 나은 편이지, 안 그래? 평범한 전술인형으로서의 삶도 나쁘진 않다고. 최소한 우리에겐 탄산 음료와 G36 특제 아이스크림이 있으니까."'''
+    description: 우리 속에 갇힌 디너게이트에 비하면야 우리의 형편은 정말 나은 편이지, 안 그래? 평범한 전술인형으로서의 삶도 나쁘진 않다고. 최소한 우리에겐 탄산 음료와 G36 특제 아이스크림이 있으니까.
     code: bltt2019_deco06
     texture_type: "1"
     offset: "0,-0.104,0"
@@ -20298,7 +20298,7 @@
     space: "13,1,0,0,0,0"
     deco_rate: 1100
     decompose_gift: 100003
-    description: '''"철조망을 자른 건 나니까, 벌로 보수 작업하는 사람도 나 하나로 충분해. 그러니까… 딴 데 좀 가라고 이 망할 까마귀들아!"'''
+    description: 철조망을 자른 건 나니까, 벌로 보수 작업하는 사람도 나 하나로 충분해. 그러니까… 딴 데 좀 가라고 이 망할 까마귀들아!
     code: bltt2019_deco08_A,bltt2019_deco08_B
     texture_type: "1,1"
     sorting: "0,0"
@@ -20383,7 +20383,7 @@
     space: "1,1,1,1,1,0"
     deco_rate: 900
     decompose_gift: 100003
-    description: '''"이 저택의 바닥은 다 이렇게 시꺼멓다. 그리고 왠지 모르게 바닥의 틈새로부터 녹 냄새가 나는 듯하다..."'''
+    description: 이 저택의 바닥은 다 이렇게 시꺼멓다. 그리고 왠지 모르게 바닥의 틈새로부터 녹 냄새가 나는 듯하다...
     code: hallo2019_floor
     texture_type: "1"
     offset: "0,0,0"
@@ -20398,7 +20398,7 @@
     space: "1,1,1,1,1,0"
     deco_rate: 900
     decompose_gift: 100003
-    description: '''"계단에 발을 디딘 순간, 모든 것이 변하면서 아무것도 변하지 않았다. 마치, 서로를 비추는 안과 밖의 세계의 경계를 넘은 것처럼..."'''
+    description: 계단에 발을 디딘 순간, 모든 것이 변하면서 아무것도 변하지 않았다. 마치, 서로를 비추는 안과 밖의 세계의 경계를 넘은 것처럼...
     code: hallo2019_wall
     texture_type: "1"
     offset: "0,0,0"
@@ -20413,7 +20413,7 @@
     space: "6,3,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"매일 밤, 정교하게 만들어진 인형이 전 주인의 이야기를 한다. 격정적인 부분을 말할 때마다, 전 주인의 초상화에서 피가 흘러나온다..."'''
+    description: 매일 밤, 정교하게 만들어진 인형이 전 주인의 이야기를 한다. 격정적인 부분을 말할 때마다, 전 주인의 초상화에서 피가 흘러나온다...
     code: hallo2019_deco_01_A,hallo2019_04
     texture_type: "1,2"
     sorting: "0,20"
@@ -20431,7 +20431,7 @@
     space: "6,16,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"몇 년 전부터 폐쇄됐다는 엘리베이터다. 그런데 오늘, 틈새를 비집고 이상한 손들이 튀어나왔다. 설마 완전히 열고 밖으로 나오진 않게ㅆㄹㅇㄴㅁㅊㅋ"'''
+    description: 몇 년 전부터 폐쇄됐다는 엘리베이터다. 그런데 오늘, 틈새를 비집고 이상한 손들이 튀어나왔다. 설마 완전히 열고 밖으로 나오진 않게ㅆㄹㅇㄴㅁㅊㅋ
     code: hallo2019_deco_02_A,hallo2019_deco_02_B
     texture_type: "1,1"
     sorting: "10,0"
@@ -20447,7 +20447,7 @@
     space: "7,16,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"한참을 기다려도 과적 상태 그대로라서 참지 못하고 문틈을 엿보았더니, 안이 온통 시뻘건 색이었다..."'''
+    description: 한참을 기다려도 과적 상태 그대로라서 참지 못하고 문틈을 엿보았더니, 안이 온통 시뻘건 색이었다...
     code: hallo2019_05,hallo2019_deco_02_B
     texture_type: "2,1"
     sorting: "10,0"
@@ -20466,7 +20466,7 @@
     space: "1,1,1,1,1,0"
     deco_rate: 950
     decompose_gift: 100003
-    description: '''"샹들리에는 바람 한 점 불지 않는데도 계속해서 흔들린다. 내 머리 위로 떨어지지만 않으면 좋겠는데..."'''
+    description: 샹들리에는 바람 한 점 불지 않는데도 계속해서 흔들린다. 내 머리 위로 떨어지지만 않으면 좋겠는데...
     code: hallo2019_01
     texture_type: "2"
     offset: "0,4.546,0"
@@ -20482,7 +20482,7 @@
     space: "4,3,1,1,1,0"
     deco_rate: 950
     decompose_gift: 100003
-    description: '''"겉보기엔 평범하기 짝이 없는 세발자전거지만, 어째선지 타기만 하면 게임이 하고 싶어진다..."'''
+    description: 겉보기엔 평범하기 짝이 없는 세발자전거지만, 어째선지 타기만 하면 게임이 하고 싶어진다...
     code: hallo2019_deco_03_A,hallo2019_deco_03_B
     texture_type: "1,1"
     sorting: "0,20"
@@ -20501,7 +20501,7 @@
     space: "3,3,1,1,1,0"
     deco_rate: 950
     decompose_gift: 100003
-    description: '''"자정을 넘기기가 무섭게 야식을 들고 쫓아오는 열정적인 요리사다. 하지만 난 배 안 고픈데..."'''
+    description: 자정을 넘기기가 무섭게 야식을 들고 쫓아오는 열정적인 요리사다. 하지만 난 배 안 고픈데...
     code: hallo2019_03
     texture_type: "2"
     offset: "0,0.094,0"
@@ -20519,7 +20519,7 @@
     space: "11,4,1,1,1,0"
     deco_rate: 1100
     decompose_gift: 100003
-    description: '''"저기... 꼬마야? 네가 내 원고 뒷면에 '일만 하고 안 놀면 바보가 된다'라고 잔뜩 썼니?"'''
+    description: 저기... 꼬마야? 네가 내 원고 뒷면에 '일만 하고 안 놀면 바보가 된다'라고 잔뜩 썼니?
     code: hallo2019_deco_04_A,hallo2019_deco_04_B,hallo2019_13,hallo2019_14
     texture_type: "1,1,2,2"
     sorting: "15,15,20,0"
@@ -20538,7 +20538,7 @@
     space: "11,4,1,1,1,0"
     deco_rate: 1100
     decompose_gift: 100003
-    description: '''"배달 주문한 게 드디어 왔네! ...잠깐만, 어떻게 창문으로 들어왔지? 여긴 14층인데...?!"'''
+    description: 배달 주문한 게 드디어 왔네! ...잠깐만, 어떻게 창문으로 들어왔지? 여긴 14층인데...?!
     code: hallo2019_02
     texture_type: "2"
     offset: "0.24,0,0"
@@ -20556,7 +20556,7 @@
     space: "5,3,1,1,1,0"
     deco_rate: 950
     decompose_gift: 100003
-    description: '''"엘리베이터를 수리하러 왔다는데, 영 수상해서 신분을 확인하려고 업소에 전화하려 했을 때 전화선은 이미..."'''
+    description: 엘리베이터를 수리하러 왔다는데, 영 수상해서 신분을 확인하려고 업소에 전화하려 했을 때 전화선은 이미...
     code: hallo2019_07
     texture_type: "2"
     offset: "-0.031,0.063,0"
@@ -20572,7 +20572,7 @@
     space: "4,3,1,1,1,0"
     deco_rate: 950
     decompose_gift: 100003
-    description: '''"서랍 깊숙한 곳에서 겨우 사탕을 꺼내서 왔더니, 이 의자에 앉아 있던 아이의 모습이 보이질 않았다. 그저 풍선이 덩그러니 천장까지 올라가 있었을 뿐..."'''
+    description: 서랍 깊숙한 곳에서 겨우 사탕을 꺼내서 왔더니, 이 의자에 앉아 있던 아이의 모습이 보이질 않았다. 그저 풍선이 덩그러니 천장까지 올라가 있었을 뿐...
     code: hallo2019_deco_05_A,hallo2019_deco_05_B,hallo2019_08,hallo2019_09
     texture_type: "1,1,2,2"
     sorting: "15,25,0,20"
@@ -20610,7 +20610,7 @@
     space: "13,2,0,0,0,0"
     deco_rate: 1100
     decompose_gift: 100003
-    description: '''"온몸을 걸레 삼아 계단을 닦는 청소부 아가씨다. 그녀의 투철한 직업 정신에 진심으로 감탄했다."'''
+    description: 온몸을 걸레 삼아 계단을 닦는 청소부 아가씨다. 그녀의 투철한 직업 정신에 진심으로 감탄했다.
     code: hallo2019_deco_07_A,hallo2019_deco_07_B,hallo2019_12
     texture_type: "1,1,2"
     sorting: "0,0,20"
@@ -20629,7 +20629,7 @@
     space: "1,1,1,1,1,0"
     deco_rate: 900
     decompose_gift: 100003
-    description: '''"시간과 공간에 구속받지 않듯이, 서로 교차하는 사각형 무늬가 과거 챔피언 시절의 영광을 불러일으킨다..." "잠꼬대 그만 하고 두부나 배달하고 와."'''
+    description: 시간과 공간에 구속받지 않듯이, 서로 교차하는 사각형 무늬가 과거 챔피언 시절의 영광을 불러일으킨다... "잠꼬대 그만 하고 두부나 배달하고 와."
     code: racing2019_floor
     texture_type: "1"
     offset: "0,0,0"
@@ -20659,7 +20659,7 @@
     space: "11,5,0,0,0,0"
     deco_rate: 1250
     decompose_gift: 100003
-    description: '''"나는 다시 돌아왔고, 이번에는 상대를 멀리 따돌릴 수 있었다. 그래... 과거의 실패를 딛고 뛰어넘어야만, 진정으로 최고의 순간을 맞이할 수 있는 것이다."'''
+    description: 나는 다시 돌아왔고, 이번에는 상대를 멀리 따돌릴 수 있었다. 그래... 과거의 실패를 딛고 뛰어넘어야만, 진정으로 최고의 순간을 맞이할 수 있는 것이다.
     code: racing2019_deco_01_FL,racing2019_deco_01_FR,racing2019_deco_01_B
     texture_type: "1,1,1"
     sorting: "20,20,0"
@@ -20731,7 +20731,7 @@
     space: "11,1,1,1,1,0"
     deco_rate: 1350
     decompose_gift: 100003
-    description: '''"왜 미관과 실용성은 자주 반비례하는 걸까?" 위층으로 올라가려고 줄을 선 인형들이 불평했습니다.'''
+    description: 왜 미관과 실용성은 자주 반비례하는 걸까? 위층으로 올라가려고 줄을 선 인형들이 불평했습니다.
     code: racing2019_deco_05_A,racing2019_deco_05_B
     texture_type: "1,1"
     sorting: "20,0"
@@ -20749,7 +20749,7 @@
     space: "11,16,1,1,1,0"
     deco_rate: 1450
     decompose_gift: 100003
-    description: '''"너를, 다른 누구도 아닌 너만을 기다리고 있었다. 오직 너만이 이들을 완벽히 다룰 수 있다... 뭐, 면허도 없는 인형들보다는야 잘 다루겠지."'''
+    description: 너를, 다른 누구도 아닌 너만을 기다리고 있었다. 오직 너만이 이들을 완벽히 다룰 수 있다... 뭐, 면허도 없는 인형들보다는야 잘 다루겠지.
     code: racing2019_walldeco_01
     texture_type: "1"
     offset: "-0.041,-0.676,0"
@@ -20766,7 +20766,7 @@
     space: "8,4,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"프로"란 99%의 열정과 1%의 야심으로 만들어진답니다. 어떠세요? 이 헬멧을 쓰고, 레이싱 트랙에 나서 보세요. 모두가 당신의 열정과 야심... 그리고 스폰서 상표를 볼 수 있도록요.'''
+    description: 프로란 99%의 열정과 1%의 야심으로 만들어진답니다. 어떠세요? 이 헬멧을 쓰고, 레이싱 트랙에 나서 보세요. 모두가 당신의 열정과 야심... 그리고 스폰서 상표를 볼 수 있도록요.
     code: racing2019_walldeco_02_L,racing2019_walldeco_02_R
     texture_type: "1,1"
     sorting: "0,0"
@@ -20850,7 +20850,7 @@
     space: "1,1,1,1,1,0"
     deco_rate: 900
     decompose_gift: 100003
-    description: '''"온도의 변화는 눈꽃 무늬 대리석 바닥에겐 찰나의 일이지만, 진짜 눈은 그대로 녹아 버리고 말지." "내 위에 올라타고서 한다는 소리가 그거냐?"'''
+    description: 온도의 변화는 눈꽃 무늬 대리석 바닥에겐 찰나의 일이지만, 진짜 눈은 그대로 녹아 버리고 말지. "내 위에 올라타고서 한다는 소리가 그거냐?"
     code: Xmas2019_floor
     texture_type: "1"
     offset: "0,0,0"
@@ -21472,7 +21472,7 @@
     space: "3,3,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"야 QBU-88, 네가 정리 좋아하는 건 알겠는데, 나랑 지휘관이 잠깐 멈춘 판을 원상복귀하는 건 하지 말아 줄래?" - XM8'''
+    description: 야 QBU-88, 네가 정리 좋아하는 건 알겠는데, 나랑 지휘관이 잠깐 멈춘 판을 원상복귀하는 건 하지 말아 줄래? - XM8
     code: SPF2020_deco_09
     texture_type: "1"
     offset: "0,-0.094,0"
@@ -21522,7 +21522,7 @@
     space: "1,1,1,1,1,0"
     deco_rate: 900
     decompose_gift: 100003
-    description: '''"한때 우리는 여기에 누워, 따스한 아침햇살을 맞으며 수다를 떨었지. 오늘도 잔디는 푹신하고 햇살도 여전히 부드럽건만, 너는 나의 곁에 없구나."'''
+    description: 한때 우리는 여기에 누워, 따스한 아침햇살을 맞으며 수다를 떨었지. 오늘도 잔디는 푹신하고 햇살도 여전히 부드럽건만, 너는 나의 곁에 없구나.
     code: WhiteV2020_floor
     texture_type: "1"
     offset: "0,0,0"
@@ -21552,7 +21552,7 @@
     space: "13,3,1,1,1,0"
     deco_rate: 1300
     decompose_gift: 100003
-    description: '''"죽음이 우리 사이 갈라놓을 그 날까지, 나 그대를 영원히 사랑하며 함께하리라." 수천 번 마음속으로 읊었지만, 결국 직접 말해 주지 못했다.'''
+    description: 죽음이 우리 사이 갈라놓을 그 날까지, 나 그대를 영원히 사랑하며 함께하리라. 수천 번 마음속으로 읊었지만, 결국 직접 말해 주지 못했다.
     code: WhiteV2020_deco_01,2020WhiteV_03
     texture_type: "1,2"
     sorting: "0,20"
@@ -21570,7 +21570,7 @@
     space: "6,3,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"끝"이라 해서 항상 "마지막"을 뜻하진 않습니다. 이 교회는 하나 되는 이들의 미소를 지켜보는 일을 끝내고, 갈라진 자들의 눈물을 받는 사명을 시작했습니다.'''
+    description: 끝이라 해서 항상 "마지막"을 뜻하진 않습니다. 이 교회는 하나 되는 이들의 미소를 지켜보는 일을 끝내고, 갈라진 자들의 눈물을 받는 사명을 시작했습니다.
     code: WhiteV2020_deco_02
     texture_type: "1"
     offset: "0,-0.042,0"
@@ -21587,7 +21587,7 @@
     space: "5,3,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"그녀는 장미가 촌스럽고 평범해서 싫다고 했어. 하지만 결혼식 날, 그녀는 장미꽃 수레에 앉아 정말 해맑게 웃었지. 수레를 끄는 사람이 내가 아니어서 그랬던 걸까..."'''
+    description: 그녀는 장미가 촌스럽고 평범해서 싫다고 했어. 하지만 결혼식 날, 그녀는 장미꽃 수레에 앉아 정말 해맑게 웃었지. 수레를 끄는 사람이 내가 아니어서 그랬던 걸까...
     code: WhiteV2020_deco_03,2020WhiteV_02
     texture_type: "1,2"
     sorting: "10,25"
@@ -21605,7 +21605,7 @@
     space: "6,2,0,0,0,0"
     deco_rate: 1200
     decompose_gift: 100003
-    description: '''"나무의 옹이구멍에는 비밀을 하나 묻을 수 있다"는 말이 있습니다. 하지만 결혼식장에선 옹이구멍을 찾을 수 없었던 누군가는 이 벽 구석의 구멍에 비밀을 묻었죠. 그리고 몇 년 뒤, 바로 그 자리에 꽃이 피어났답니다.'''
+    description: 나무의 옹이구멍에는 비밀을 하나 묻을 수 있다는 말이 있습니다. 하지만 결혼식장에선 옹이구멍을 찾을 수 없었던 누군가는 이 벽 구석의 구멍에 비밀을 묻었죠. 그리고 몇 년 뒤, 바로 그 자리에 꽃이 피어났답니다.
     code: WhiteV2020_deco_04_A,WhiteV2020_deco_04_B
     texture_type: "1,1"
     sorting: "0,0"
@@ -21623,7 +21623,7 @@
     space: "3,2,1,1,1,0"
     deco_rate: 1100
     decompose_gift: 100003
-    description: '''"그대와 처음 만났던 그 순간, 큐피드의 황금 화살이 나의 가슴에 날아와 박혔습니다. 그리고 그대와 헤어지고 나서야 깨달았어요, 그 화살촉은 아직도 내 가슴 깊숙이 박혀 있음을..."'''
+    description: 그대와 처음 만났던 그 순간, 큐피드의 황금 화살이 나의 가슴에 날아와 박혔습니다. 그리고 그대와 헤어지고 나서야 깨달았어요, 그 화살촉은 아직도 내 가슴 깊숙이 박혀 있음을...
     code: WhiteV2020_deco_05
     texture_type: "1"
     offset: "0,-0.063,0"
@@ -21640,7 +21640,7 @@
     space: "5,3,1,1,1,0"
     deco_rate: 1100
     decompose_gift: 100003
-    description: '''"전설에 따르면, 성배를 찾아 안에 담긴 물을 마시면 영생을 얻을 수 있다고 해. 하지만 홀몸이 된 나에게는 더없이 잔혹한 형벌이야..."'''
+    description: 전설에 따르면, 성배를 찾아 안에 담긴 물을 마시면 영생을 얻을 수 있다고 해. 하지만 홀몸이 된 나에게는 더없이 잔혹한 형벌이야...
     code: WhiteV2020_deco_06
     texture_type: "1"
     sorting: "10"
@@ -21658,7 +21658,7 @@
     space: "11,8,1,1,1,0"
     deco_rate: 1200
     decompose_gift: 100003
-    description: '''"동그라미는 그대의 가장 아름다운 미소, 그대와 함께 바라본 달님, 그대의 드레스의 치맛자락... 하지만 이제 나에게, 동그라미는 그날 그때, 그대와 함께 발을 디뎠던 바닥 타일뿐이구나."'''
+    description: 동그라미는 그대의 가장 아름다운 미소, 그대와 함께 바라본 달님, 그대의 드레스의 치맛자락... 하지만 이제 나에게, 동그라미는 그날 그때, 그대와 함께 발을 디뎠던 바닥 타일뿐이구나.
     code: WhiteV2020_deco_07
     texture_type: "1"
     offset: "0,0,0"
@@ -21673,7 +21673,7 @@
     space: "5,3,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"그래, 잘 가. 난 너 없이도 잘 살 거야." 사실은, 네가 떠나지 않기를 바랐어...'''
+    description: 그래, 잘 가. 난 너 없이도 잘 살 거야. 사실은, 네가 떠나지 않기를 바랐어...
     code: 2020WhiteV_01
     texture_type: "2"
     offset: "0.043,0.094,0"
@@ -21691,7 +21691,7 @@
     space: "6,3,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"난 여길 떠나겠어. 짐도 얼마 없으니까, 당장 나갈 거야." 사실은, 네가 날 따라와 주길 바랐어...'''
+    description: 난 여길 떠나겠어. 짐도 얼마 없으니까, 당장 나갈 거야. 사실은, 네가 날 따라와 주길 바랐어...
     code: WhiteV2020_deco_10
     texture_type: "1"
     offset: "0,0,0"
@@ -21726,7 +21726,7 @@
     space: "3,2,1,1,1,0"
     deco_rate: 1150
     decompose_gift: 100003
-    description: '''"이 두 기둥은 오랜 세월을 비바람에도 끄떡 않고 우뚝 서 있어. 칭칭 감긴 덩굴이 그 시간을 증명하지. 나도 지금 내 두 팔로 널 감싸 안고서, 너에게 저 두 기둥을 보여 줄 수 있었다면 좋으련만."'''
+    description: 이 두 기둥은 오랜 세월을 비바람에도 끄떡 않고 우뚝 서 있어. 칭칭 감긴 덩굴이 그 시간을 증명하지. 나도 지금 내 두 팔로 널 감싸 안고서, 너에게 저 두 기둥을 보여 줄 수 있었다면 좋으련만.
     code: WhiteV2020_deco_09_A,WhiteV2020_deco_09_B,2020WhiteV_04
     texture_type: "1,1,2"
     sorting: "0,0,20"
@@ -21913,7 +21913,7 @@
     space: "4,2,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"우리가 웃을 때 식물도 덩달아 웃을지는 모르겠지만, 적어도 시끄러운 건 싫어할걸?" "적당히 요란한 게 좋을지 누가 알아?"'''
+    description: 우리가 웃을 때 식물도 덩달아 웃을지는 모르겠지만, 적어도 시끄러운 건 싫어할걸? "적당히 요란한 게 좋을지 누가 알아?"
     code: Pajamas2020_deco_11
     texture_type: "1"
     offset: "0,0,0"
@@ -21928,7 +21928,7 @@
     space: "2,2,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"우리가 울면 식물도 덩달아 울지는 모르겠지만, 적어도 느끼한 건 싫어할걸?" "적당히 낭만적인 게 좋을지 누가 알아?"'''
+    description: 우리가 울면 식물도 덩달아 울지는 모르겠지만, 적어도 느끼한 건 싫어할걸? "적당히 낭만적인 게 좋을지 누가 알아?"
     code: Pajamas2020_deco_12,Pajamas2020_deco_13
     texture_type: "1,1"
     sorting: "0,0"
@@ -22076,7 +22076,7 @@
     space: "2,2,1,1,1,0"
     deco_rate: 900
     decompose_gift: 100003
-    description: '''"가로등도 초롱초롱한 눈과 날씬한 몸매에 붉은 드레스까지 입고 있는데, 인간 여자보다 못할 게 뭐가 있어? 그런데 왜 아무도 사랑하지 않지?" "왜냐면 이건 종착점이 아니라 중간 지점이거든."'''
+    description: 가로등도 초롱초롱한 눈과 날씬한 몸매에 붉은 드레스까지 입고 있는데, 인간 여자보다 못할 게 뭐가 있어? 그런데 왜 아무도 사랑하지 않지? "왜냐면 이건 종착점이 아니라 중간 지점이거든."
     code: Anniversary2020_deco_12
     texture_type: "1"
     offset: "0,0,0"
@@ -22159,7 +22159,7 @@
     space: "7,2,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"조명 더 밝게 할 순 없나요?" "스피커 볼륨 좀 높여 주시죠!" 분위기를 띄우기 위해, 당신의 직장 동료분들은 오늘도 고생하고 계십니다.'''
+    description: 조명 더 밝게 할 순 없나요? "스피커 볼륨 좀 높여 주시죠!" 분위기를 띄우기 위해, 당신의 직장 동료분들은 오늘도 고생하고 계십니다.
     code: May2020_deco_03
     texture_type: "2"
     offset: "0,0,0"
@@ -22345,7 +22345,7 @@
     space: "7,3,1,1,1,0"
     deco_rate: 1100
     decompose_gift: 100003
-    description: '''"하하하, 드디어 마귀들이 사라졌다!" "이제 우리들 세상이야!" "이럴 수가, 마귀들이 돌아왔어!" "쉬잇! 꼼짝 말고 가만히 있어... 계속 버섯인 척하는 거야!"'''
+    description: 하하하, 드디어 마귀들이 사라졌다! "이제 우리들 세상이야!" "이럴 수가, 마귀들이 돌아왔어!" "쉬잇! 꼼짝 말고 가만히 있어... 계속 버섯인 척하는 거야!"
     code: Children2020_deco_13,Children2020_deco_14
     texture_type: "1,1"
     sorting: "0,0"
@@ -22426,7 +22426,7 @@
     decompose_gift: 100003
     description:
       '''
-      "꿈속에 배 한 척이 정박해 있다면, 그걸 타고 어디로 가고 싶어?"
+      꿈속에 배 한 척이 정박해 있다면, 그걸 타고 어디로 가고 싶어?
       "그냥 환상적으로 표류하고 싶어."
       '''
     code: Island2020_deco_01
@@ -22481,7 +22481,7 @@
     space: "10,4,1,1,1,0"
     deco_rate: 1200
     decompose_gift: 100003
-    description: '''"작은 오두막에 고물 배 몇 척. 나는 여기에 누워 느긋하게 쉬면서, 석양과 파도를 헤아리며, 아무런 걱정 없이 그저 흘러가는 세월을 즐긴다."'''
+    description: 작은 오두막에 고물 배 몇 척. 나는 여기에 누워 느긋하게 쉬면서, 석양과 파도를 헤아리며, 아무런 걱정 없이 그저 흘러가는 세월을 즐긴다.
     code: Island2020_house_01,Island2020_house_02
     texture_type: "1,1"
     sorting: "0,20"
@@ -22602,7 +22602,7 @@
     decompose_gift: 100003
     description:
       '''
-      "왜 집 안에다까지 표지판을 둬?"
+      왜 집 안에다까지 표지판을 둬?
       "표지판은 길만이 아니라 '방향'이 존재한단 것도 가르쳐 주거든."
       '''
     code: beach2020_balloon
@@ -22991,7 +22991,7 @@
     space: "19,12,1,1,1,0"
     deco_rate: 750
     decompose_gift: 100002
-    description: '''"이 벽지 새것 같은데요,""달마다 술주정 부리는 사람이 몇 명이냐에 따라서 교체할지 말지 결정하죠."'''
+    description: 이 벽지 새것 같은데요,"달마다 술주정 부리는 사람이 몇 명이냐에 따라서 교체할지 말지 결정하죠.
     code: Izakaya2020_deco_06,Izakaya2020_deco_07
     texture_type: "1,1"
     sorting: "0,0"
@@ -23367,7 +23367,7 @@
     space: "1,1,1,1,1,0"
     deco_rate: 900
     decompose_gift: 100003
-    description: '''"아래에서 무슨 두드리는 소리가 들려도 절대 열려 하지 마. 괜찮아, 두드리는 정도로는 꿈쩍도 안 하니까. 이 아래의 동료도 알걸? 뭐, 아직 살아있다면 말이지만."'''
+    description: 아래에서 무슨 두드리는 소리가 들려도 절대 열려 하지 마. 괜찮아, 두드리는 정도로는 꿈쩍도 안 하니까. 이 아래의 동료도 알걸? 뭐, 아직 살아있다면 말이지만.
     code: Halloween2020_floor
     texture_type: "1"
     offset: "0,0,0"
@@ -23397,7 +23397,7 @@
     space: "10,6,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"이젠 비싸게 안 줘도 천연 양모 카펫을 가질 수 있어, 저기 저 백화점 문 앞을 지키는 괴물 녀석이 비켜 주기만 하면 말이지... 가서 협상해볼래? 싫어? 그럼 계속 이거 써야지 뭐."'''
+    description: 이젠 비싸게 안 줘도 천연 양모 카펫을 가질 수 있어, 저기 저 백화점 문 앞을 지키는 괴물 녀석이 비켜 주기만 하면 말이지... 가서 협상해볼래? 싫어? 그럼 계속 이거 써야지 뭐.
     code: Halloween2020_deco_01,Halloween2020_deco_02
     texture_type: "1,1"
     sorting: "0,0"
@@ -23413,7 +23413,7 @@
     space: "5,13,1,1,1,0"
     deco_rate: 1100
     decompose_gift: 100003
-    description: '''"이 벽은 충격 흡수력이 뛰어난 소재로 만들어져서, 폭탄이 터져도 쉽게 무너지지 않지. 하지만 방음 효과는 정말 형편없어. 그러니까 울지 마, 절망은 또 다른 절망을 부를 뿐이야."'''
+    description: 이 벽은 충격 흡수력이 뛰어난 소재로 만들어져서, 폭탄이 터져도 쉽게 무너지지 않지. 하지만 방음 효과는 정말 형편없어. 그러니까 울지 마, 절망은 또 다른 절망을 부를 뿐이야.
     code: Halloween2020_deco_03,Halloween2020_deco_04
     texture_type: "1,1"
     sorting: "0,0"
@@ -23429,7 +23429,7 @@
     space: "8,3,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"미리 손에 맞은 무기의 사용법을 터득해 두는 게 좋을 거야. 그걸로 네 마지막 식사를 얻거나, 만들어낼 수 있으니까."'''
+    description: 미리 손에 맞은 무기의 사용법을 터득해 두는 게 좋을 거야. 그걸로 네 마지막 식사를 얻거나, 만들어낼 수 있으니까.
     code: Halloween2020_deco_05,Halloween2020_deco_06,Halloween2020_deco_07,Halloween2020_deco_08
     texture_type: "1,1,1,1"
     sorting: "0,0,0,0"
@@ -23463,7 +23463,7 @@
     space: "9,3,1,1,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"저번에 여기 앉았던 녀석은 미쳐버렸지. 텔레비전으로 누가 자기한테 말을 걸더니, 서류와 의자가 저절로 움직여서 이런 모양새가 됐다나? 물론 아무도 안 믿어 줘서, 녀석은 혼자 밖으로 뛰쳐나가 희망의 먹이가 되고 말았어."'''
+    description: 저번에 여기 앉았던 녀석은 미쳐버렸지. 텔레비전으로 누가 자기한테 말을 걸더니, 서류와 의자가 저절로 움직여서 이런 모양새가 됐다나? 물론 아무도 안 믿어 줘서, 녀석은 혼자 밖으로 뛰쳐나가 희망의 먹이가 되고 말았어.
     code: Halloween2020_deco_11,Halloween2020_deco_12
     texture_type: "1,1"
     sorting: "0,0"
@@ -23542,7 +23542,7 @@
     space: "5,14,0,0,1,0"
     deco_rate: 1200
     decompose_gift: 100003
-    description: '''"밖에서 벅벅 긁는 소리가 들린다고? 신경쓰지 마. 이 건물을 만든 사람이 모든 위험 요소를 고려했다는데, 정작 위기일 때 자기가 밖에 있을 줄은 몰랐겠지..."'''
+    description: 밖에서 벅벅 긁는 소리가 들린다고? 신경쓰지 마. 이 건물을 만든 사람이 모든 위험 요소를 고려했다는데, 정작 위기일 때 자기가 밖에 있을 줄은 몰랐겠지...
     code: Halloween2020_deco_17,Halloween2020_deco_18,Halloween2020_deco_19,Halloween2020_deco_22
     texture_type: "1,1,1,1"
     sorting: "-10,0,0,10"
@@ -23562,7 +23562,7 @@
     space: "6,3,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"여기서 정리정돈은 의미가 없어. 죄악을 아무리 숨기려 해봤자 가려지지 않는 것처럼, 여기 있는 건 전부 다 생존의 증거들뿐이니까."'''
+    description: 여기서 정리정돈은 의미가 없어. 죄악을 아무리 숨기려 해봤자 가려지지 않는 것처럼, 여기 있는 건 전부 다 생존의 증거들뿐이니까.
     code: Halloween2020_deco_20,Halloween2020_deco_21
     texture_type: "1,1"
     sorting: "0,0"
@@ -24503,7 +24503,7 @@
     space: "10,3,1,1,1,0"
     deco_rate: 1100
     decompose_gift: 100003
-    description: '''"시작이 아쉽긴 해도, 희망을 버리지 않는다면 분명 앞으로 더 나아질 거야!" ...과연 얼마나 많은 연인들이 이런 생각을 품고, 과연 그중 몇이나 소망을 이루었을까요?'''
+    description: 시작이 아쉽긴 해도, 희망을 버리지 않는다면 분명 앞으로 더 나아질 거야! ...과연 얼마나 많은 연인들이 이런 생각을 품고, 과연 그중 몇이나 소망을 이루었을까요?
     code: WhiteV2021_deco_03,WhiteV2021_deco_04
     texture_type: "1,1"
     sorting: "0,0"
@@ -24712,7 +24712,7 @@
     space: "8,8,1,1,1,0"
     deco_rate: 1100
     decompose_gift: 100003
-    description: '''"야, 저 사람 잘못 뒀네. 나라면 저렇게 안 한다!""말 잘했어, 친구. 이제 우리 차례야."'''
+    description: 야, 저 사람 잘못 뒀네. 나라면 저렇게 안 한다!"말 잘했어, 친구. 이제 우리 차례야.
     code: MiniGameFlightChess_walldeco_03,MiniGameFlightChess_walldeco_04
     texture_type: "1,1"
     sorting: "0,0"
@@ -24749,7 +24749,7 @@
     space: "3,3,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"러프베리 체스, 자신의 군사지휘 재능을 선보일 기회!"'''
+    description: 러프베리 체스, 자신의 군사지휘 재능을 선보일 기회!
     code: MiniGameFlightChess_deco_03
     texture_type: "1"
     offset: "0,0,0"
@@ -25154,7 +25154,7 @@
     space: "12,4,1,1,0,0"
     deco_rate: 1150
     decompose_gift: 100003
-    description: '''"날 네버랜드로 데려가 줘!" 라고, 요정을 만난 술 취한 어른과 순수한 아이들이 부탁했습니다. 하지만 안타깝게도 밤바람이 그들에게서 마법의 가루를 털어내고, 이 캠핑카의 마지막 한 방울 휘발유까지 증발시켜버렸습니다.'''
+    description: 날 네버랜드로 데려가 줘! 라고, 요정을 만난 술 취한 어른과 순수한 아이들이 부탁했습니다. 하지만 안타깝게도 밤바람이 그들에게서 마법의 가루를 털어내고, 이 캠핑카의 마지막 한 방울 휘발유까지 증발시켜버렸습니다.
     code: Summer2021_deco_04,Summer2021_deco_05
     texture_type: "1,1"
     sorting: "0,0"
@@ -26016,7 +26016,7 @@
     space: "7,3,1,1,1,0"
     deco_rate: 1250
     decompose_gift: 100003
-    description: '''"좋았어, 휴식 시간이니 작전을 짜자... 아니 뒤로 우회해서 기습하자는 게 아니야! 그리고 수류탄 도로 넣어 둬! 아직 그거 쓸 때 아니야!"'''
+    description: 좋았어, 휴식 시간이니 작전을 짜자... 아니 뒤로 우회해서 기습하자는 게 아니야! 그리고 수류탄 도로 넣어 둬! 아직 그거 쓸 때 아니야!
     code: Children2022_deco_08,Children2022_deco_09
     texture_type: "1,1"
     sorting: "0,0"
@@ -26034,7 +26034,7 @@
     space: "7,3,1,1,1,0"
     deco_rate: 1250
     decompose_gift: 100003
-    description: '''"하핫! 역시나였구만? 그럴 줄 알고 우린 라켓을 개조해서 로켓 부스터 를 달았지롱! 바주카에 필적하는 파워풀한 스매시를 보여주마!"'''
+    description: 하핫! 역시나였구만? 그럴 줄 알고 우린 라켓을 개조해서 로켓 부스터 를 달았지롱! 바주카에 필적하는 파워풀한 스매시를 보여주마!
     code: Children2022_deco_10,Children2022_deco_11
     texture_type: "1,1"
     sorting: "0,0"
@@ -26052,7 +26052,7 @@
     space: "3,3,1,1,1,0"
     deco_rate: 1150
     decompose_gift: 100003
-    description: '''"여기 있으면 당연히 심심할 틈이 없지. 소녀들이 목숨 걸고 외치는 저 소리에 귀를 기울여 봐. 그리고 라켓으로 공을 칠 때의 저 찰진 소리도. 다 열혈과 명예의 메아리야."'''
+    description: 여기 있으면 당연히 심심할 틈이 없지. 소녀들이 목숨 걸고 외치는 저 소리에 귀를 기울여 봐. 그리고 라켓으로 공을 칠 때의 저 찰진 소리도. 다 열혈과 명예의 메아리야.
     code: Children2022_deco_12,Children2022_deco_13
     texture_type: "1,1"
     sorting: "0,0"
@@ -26128,7 +26128,7 @@
     decompose_gift: 100003
     description:
       '''
-      "이곳이 바로 전설로 내려오던 마법의 얼음 대륙이구나!"
+      이곳이 바로 전설로 내려오던 마법의 얼음 대륙이구나!
       정오의 태양을 뚫고 모래밭을 건너 이 바닥에 발을 디딘 첫 번째 병정개미가 외쳤습니다.
       '''
     code: SummerSwim2022_floor
@@ -26198,7 +26198,7 @@
     decompose_gift: 100003
     description:
       '''
-      "쾌락이란 대가를 지불해야만 얻을 수 있는 사치품이다."
+      쾌락이란 대가를 지불해야만 얻을 수 있는 사치품이다.
       비틀거리며 화장실에서 테이블로 돌아온 당신은 이렇게 자조했습니다.
       '''
     code: SummerSwim2022_deco_06,SummerSwim2022_deco_07,SummerSwim2022_deco_08
@@ -26360,7 +26360,7 @@
     decompose_gift: 100003
     description:
       '''
-      "온도 조절 시스템의 조작판이 어느 거더라... 아 몰라 그냥 다 눌러봐, 이런다고 우주선이 망가질――"
+      온도 조절 시스템의 조작판이 어느 거더라... 아 몰라 그냥 다 눌러봐, 이런다고 우주선이 망가질――
       "경고. 함선 자폭 시퀀스 가동. 10... 9... 8..."
       '''
     code: Space2022_wall
@@ -26379,7 +26379,7 @@
     decompose_gift: 100003
     description:
       '''
-      "콜라, 콜라, 감자칩, 또 콜라...? 이걸로 우주에서 3개월을 버티자고? 진심이야?"
+      콜라, 콜라, 감자칩, 또 콜라...? 이걸로 우주에서 3개월을 버티자고? 진심이야?
       "당연히 아니지~! 놀라지 마시라, 우리에겐 드라마도 있다고!"
       '''
     code: Space2022_deco_01,Space2022_deco_02
@@ -26509,7 +26509,7 @@
     decompose_gift: 100003
     description:
       '''
-      "보고, 전방에 적 군사 첩보 위성 출현!"
+      보고, 전방에 적 군사 첩보 위성 출현!
       "으히힛! 저거 태양광 전지 패널을 내가 예쁘게 별 모양으로 잘라볼게!"
       '''
     code: Space2022_deco_14,Space2022_deco_15,Space2022_console
@@ -27242,7 +27242,7 @@
     space: "3,4,1,1,1,0"
     deco_rate: 1150
     decompose_gift: 100003
-    description: '''"도화선에 불씨 하나만 붙이면 올해 가장 활기찬 축복을 받는다!" - 그리폰 담력 테스트 대회 기증품.'''
+    description: 도화선에 불씨 하나만 붙이면 올해 가장 활기찬 축복을 받는다! - 그리폰 담력 테스트 대회 기증품.
     code: SpringFes2023_deco_04
     texture_type: "1"
     offset: "0.000,-0.104,-0.021"
@@ -27887,7 +27887,7 @@
     space: "8,5,1,1,1,0"
     deco_rate: 1100
     decompose_gift: 100003
-    description: '''"밥묵읐나? 차헌잔혀." CF05가 밀크티를 빨며 이렇게 말하자 RO635는 그 발음에 의문을 표했습니다.'''
+    description: 밥묵읐나? 차헌잔혀. CF05가 밀크티를 빨며 이렇게 말하자 RO635는 그 발음에 의문을 표했습니다.
     code: Dining2023_deco_15,Dining2023_deco_13
     texture_type: "1,1"
     sorting: "20,0"
@@ -27905,7 +27905,7 @@
     space: "1,1,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"전등 덮개가 연꽃잎이고, 전등을 연꽃심 모양으로 만들면... 윽, 아니다." 어느 환공포증 환자가 몸을 떨었습니다.'''
+    description: 전등 덮개가 연꽃잎이고, 전등을 연꽃심 모양으로 만들면... 윽, 아니다. 어느 환공포증 환자가 몸을 떨었습니다.
     code: Dining2023_deco_02,Dining2023_deco_03
     texture_type: "1,1"
     sorting: "0,0"
@@ -28121,7 +28121,7 @@
     space: "6,5,1,1,1,0"
     deco_rate: 1050
     decompose_gift: 100003
-    description: '''"분수대를 등지고 금화 한닢을 안에 던지면 소원을 3개 빌 수 있어요, 엄청 영험하답니다!" --분수 관리자 카리나의 친절한 설명.'''
+    description: 분수대를 등지고 금화 한닢을 안에 던지면 소원을 3개 빌 수 있어요, 엄청 영험하답니다! --분수 관리자 카리나의 친절한 설명.
     code: WhiteV2024_deco_06,WhiteV2024_fountainPigeon
     texture_type: "1,2"
     sorting: "0,0"
@@ -28285,7 +28285,7 @@
     space: "4,1,1,1,1,0"
     deco_rate: 950
     decompose_gift: 100003
-    description: '''"9년의 춘하추동 참으로 길었구나"... 당신은 벽에 주렁주렁 걸린 사진을 보며 추억에 빠졌습니다.'''
+    description: 9년의 춘하추동 참으로 길었구나... 당신은 벽에 주렁주렁 걸린 사진을 보며 추억에 빠졌습니다.
     code: NewYear2025_deco_03
     texture_type: "1"
     offset: "0,-0.104,0"
@@ -28445,7 +28445,7 @@
     space: "1,1,1,1,1,0"
     deco_rate: 900
     decompose_gift: 100003
-    description: '''"갑판의 미끄러짐 방지 성능이 엄청 뛰어나다고 들었어, 어떻게 해도 안 넘어진대...""그래서 지금 갑판에서 브레이크 댄스 추는 거야?"'''
+    description: 갑판의 미끄러짐 방지 성능이 엄청 뛰어나다고 들었어, 어떻게 해도 안 넘어진대..."그래서 지금 갑판에서 브레이크 댄스 추는 거야?
     code: 2025Anniversay_floor
     texture_type: "1"
     sorting: "15"
@@ -28870,6 +28870,250 @@
     rotate: "2"
   }
   {
+    id: 11701
+    name: 엘모 드림랜드-흔적 없는 여정
+    classes: 117
+    type: 101
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 800
+    decompose_gift: 100003
+    description: 놀라울 만큼 마모에 강하게 설계되어, 매일같이 걷는 발자국조차 흔적을 남기지 않습니다. 우리의 여정은 매우 길지만, 이 바닥에게는 마치 한 발자국도 내딛지 않은 듯하죠.
+    code: 2025Afterword_floor
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "1"
+  }
+  {
+    id: 11702
+    name: 엘모 드림랜드-변하지 않는 풍경
+    classes: 117
+    type: 301
+    position: "0,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 800
+    decompose_gift: 100003
+    description: 창밖의 풍경은 끊임없이 변하지만, 오직 이 벽면의 무늬만은 언제나 그대로입니다. 아무리 먼 곳을 떠돌더라도, 이 벽 안에 싸여 있는 한 “집”은 여전히 여기에 있다.
+    code: 2025Afterword_wall
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 11703
+    name: 엘모 드림랜드-고요한 오아시스
+    classes: 117
+    type: 201
+    position: "2,0"
+    space: "3,3,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 끝없는 여정 속에서 한 줄기 푸른빛과 맑은 물은 그 무엇보다 소중합니다. “이건 자원을 생산하지도, 전투에 참여하지도 않고, 오히려 귀중한 정수를 소비하잖아.” “그래도, 살아 있잖아. 그걸로 충분해.”
+    code: 2025Afterword_deco_01
+    texture_type: "1"
+    offset: "-0.125,-0.031,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11704
+    name: 엘모 드림랜드-불필요한 지시대
+    classes: 117
+    type: 201
+    position: "2,12"
+    space: "7,2,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 이제는 전황 보고나 명령 처리에만 쓰이지 않습니다. 지금의 여기서 옛 세계의 자료를 열람하거나, 오래된 영화를 몇 편 다운로드할 수도 있습니다. 결국 정신적인 양식도 하나의 필수품이니까요.
+    code: 2025Afterword_deco_02
+    texture_type: "1"
+    offset: "0.282,-0.042,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11705
+    name: 엘모 드림랜드-비정식 작업대
+    classes: 117
+    type: 201
+    position: "6,3"
+    space: "5,1,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 현장에서 다수의 책과 정체불명의 병 속 액체들이 발견되었습니다. 이곳에서 한 차례 치열한 브레인스톰이 일어난 것이겠죠. 하지만 결국 사상가 본인은 소파의 포로가 된 듯합니다.
+    code: 2025Afterword_deco_03
+    texture_type: "1"
+    offset: "-0.042,-0.010,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11706
+    name: 엘모 드림랜드-시간의 전시판
+    classes: 117
+    type: 201
+    position: "5,0"
+    space: "6,1,1,1,0,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 모든 사람의 마음이 퍼즐 조각처럼 여기에 무심히 붙어 있습니다. 즐거움, 슬픔, 무료함... 그 모든 감정이 모여 ‘우리’라는 이름의 한 장면을 완성합니다.
+    code: 2025Afterword_deco_04
+    texture_type: "1"
+    offset: "0.125,-0.073,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11707
+    name: 엘모 드림랜드-영감의 회전의자
+    classes: 117
+    type: 202
+    position: "6,5"
+    space: "3,3,1,1,1,0"
+    deco_rate: 850
+    decompose_gift: 100003
+    description: 특정 각도로 몸을 젖히면, 순식간에 떠오르는 영감을 붙잡을 수 있다고 합니다. 하지만 안타깝게도 지금까지 붙잡힌 건 대부분 졸음뿐이었죠.
+    code: 2025Afterword_deco_05
+    texture_type: "1"
+    offset: "0.021,-0.167,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11708
+    name: 엘모 드림랜드-포근한 구석
+    classes: 117
+    type: 201
+    position: "14,0"
+    space: "7,4,1,1,0,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 이 소파에 몸을 파묻고 내일의 계획을 고민할 수도 있고, 오늘 밤의 야식을 정할 수도 있습니다. 어느 쪽이든 행복한 고민이 아닐까요?
+    code: 2025Afterword_deco_06
+    texture_type: "1"
+    offset: "0.000,-0.031,0.000"
+    rotate: "2"
+    interact_point: "3"
+    interact_point_offset: *-0.496,2.020,-0.285
+  }
+  {
+    id: 11709
+    name: 엘모 드림랜드-휴식 구역
+    classes: 117
+    type: 201
+    position: "14,6"
+    space: "8,6,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 카펫 안에 들어서는 순간, 모든 논쟁은 잠시 멈춥니다. 다리를 테이블 위에 올려도 괜찮지만, 나쁜 기분만큼은 이곳에 들여올 수 없습니다.
+    code: 2025Afterword_deco_07
+    texture_type: "1"
+    offset: "0.052,-0.031,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11710
+    name: 엘모 드림랜드-기상 리스트
+    classes: 117
+    type: 201
+    position: "21,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 700
+    decompose_gift: 100003
+    description: “기상 보고: 오늘은 맑음, 모험에 적합.” “태그 보고: 오늘은 흐림, 낮잠에 적합.” 우리는 후자를 믿기로 했다.
+    code: 2025Afterword_deco_08
+    texture_type: "1"
+    offset: "-0.103,2.555,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11711
+    name: 엘모 드림랜드-꿈의 교차점
+    classes: 117
+    type: 201
+    position: "24,1"
+    space: "6,1,1,1,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 잠들기 전, 하루의 짐을 이곳에 내려놓습니다. 그리고 아침이 오면, 다시 이곳에서 새로운 하루를 맞이할 용기를 꺼내 듭니다.
+    code: 2025Afterword_deco_09
+    texture_type: "1"
+    offset: "0.010,-0.031,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11712
+    name: 엘모 드림랜드-버킷 리스트
+    classes: 117
+    type: 201
+    position: "29,0"
+    space: "1,1,1,1,1,0"
+    deco_rate: 850
+    decompose_gift: 100003
+    description: “사탕을 잔뜩 먹고 싶어.” “바다를 한 번 보고 싶어.” “지휘관과 함께 휴가를 가고 싶어.”... 소녀들은 그 소망들을 침대 곁에 붙여 두었습니다. 이렇게 하면, 내일 아침 눈을 떴을 때 이루어질 것처럼.
+    code: 2025Afterword_deco_10
+    texture_type: "1"
+    offset: "-0.103,1.512,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11713
+    name: 엘모 드림랜드-피자 슬리퍼
+    classes: 117
+    type: 201
+    position: "25,11"
+    space: "3,3,1,1,1,0"
+    deco_rate: 850
+    decompose_gift: 100003
+    description: 차가운 전투화를 벗고 이 부드러운 슬리퍼로 갈아신는 순간에야 비로소 피로가 풀립니다. “걱정 마, 피자 씨는 안 물어.”
+    code: 2025Afterword_deco_11
+    texture_type: "1"
+    offset: "0.021,-0.073,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11714
+    name: 엘모 드림랜드-희망을 담은 곳
+    classes: 117
+    type: 201
+    position: "30,0"
+    space: "3,3,1,1,1,0"
+    deco_rate: 900
+    decompose_gift: 100003
+    description: 넓은 선반 위에는 오직 꽃병 하나만 놓여 있습니다. 미래에 추가될 장식들을 위해 충분한 여백을 남겨 둔 것이죠.
+    code: 2025Afterword_deco_12
+    texture_type: "1"
+    offset: "0.115,-0.052,0.000"
+    rotate: "2"
+  }
+  {
+    id: 11715
+    name: 엘모 드림랜드-굿나잇 월드
+    classes: 117
+    type: 203
+    position: "24,3"
+    space: "10,7,0,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 몸을 눕히고 눈을 감으면, 포근한 베개가 초연 없는 꿈의 저편으로 인도해 줍니다. 돌아오는 표요? 걱정 마세요. 내일 아침의 향기가 깨워줄 테니까요.
+    code: 2025Afterword_deco_13
+    texture_type: "1"
+    offset: "0.188,-0.334,0.000"
+    rotate: "2"
+    interact_point: "6"
+    interact_point_offset: *-2.508,2.703,-0.148
+  }
+  {
+    id: 11716
+    name: 엘모 드림랜드-드림 포트
+    classes: 117
+    type: 201
+    position: "30,10"
+    space: "3,3,1,1,1,0"
+    deco_rate: 850
+    decompose_gift: 100003
+    description: 손을 뻗으면 닿는 곳마다 가장 소중한 것들이 놓여 있습니다. 하나씩 정리하며 오늘의 자신에게 “수고했어”라고 말하고, 오늘의 세상에 “잘 자”라고 인사하죠.
+    code: 2025Afterword_deco_14
+    texture_type: "1"
+    offset: "0.000,-0.070,0.000"
+    rotate: "2"
+  }
+  {
     id: 20000
     name: 명탕 라오
     classes: 81
@@ -29233,7 +29477,7 @@
     space: "3,2,0,0,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"불도그, 다시 말하는데 난 불도그다! 저기 멍청한 얼굴의 퍼그랑 헷갈리지 말라고!" 선글라스와 목사슬을 벗은 펠레는 오늘로 벌써 7번이나 설명했다.'''
+    description: 불도그, 다시 말하는데 난 불도그다! 저기 멍청한 얼굴의 퍼그랑 헷갈리지 말라고! 선글라스와 목사슬을 벗은 펠레는 오늘로 벌써 7번이나 설명했다.
     code: 2021SummerActivity_Pele
     texture_type: "1"
     offset: "0,0,0"
@@ -29463,7 +29707,7 @@
     space: "8,4,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"오! 이 애니메이션의 주인공은 참 포부 있는 청년이네! 근데 이 스토리가 어디서 본 것 같은데?" - 어느 그리폰 지휘관이 족자와 동봉된 디스크를 본 감상.'''
+    description: 오! 이 애니메이션의 주인공은 참 포부 있는 청년이네! 근데 이 스토리가 어디서 본 것 같은데? - 어느 그리폰 지휘관이 족자와 동봉된 디스크를 본 감상.
     code: Anime2022_deco_A,Anime2022_deco_B
     texture_type: "1,1"
     sorting: "5,5"
@@ -29570,7 +29814,7 @@
     space: "6,4,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"아이네이아스" 작전에 참여한 인형들을 표창하기 위해, IOP가 그녀들을 본뜬 고퀄리티 피규어를 제작하여, 그리폰 기지 안에서 큰 호평을 받았습니다.'''
+    description: 아이네이아스 작전에 참여한 인형들을 표창하기 위해, IOP가 그녀들을 본뜬 고퀄리티 피규어를 제작하여, 그리폰 기지 안에서 큰 호평을 받았습니다.
     code: 2022WinterActivity_ToyCabinet
     texture_type: "1"
     offset: "0,0,0"
@@ -29598,7 +29842,7 @@
     space: "2,5,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"고정점" 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "폭풍이 몰아칠 때 그대가 바로 흔들리지 않는 고정점이다."'''
+    description: 고정점 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "폭풍이 몰아칠 때 그대가 바로 흔들리지 않는 고정점이다."
     code: 2022WinterActivity_Medal
     texture_type: "1"
     offset: "0,0,0"
@@ -29864,7 +30108,7 @@
   }
   {
     id: 20063
-    name: '''"미래호" 기념 차량'''
+    name: 미래호 기념 차량
     classes: 19
     type: 301
     space: "6,4,1,1,1,0"
@@ -30279,7 +30523,7 @@
     space: "2,5,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"새하얀 물결, 꽃같은 얼굴" 이벤트에서 멋진 공연을 선보인 지휘관 및 휘하 악단에게 수여. "길이 아무리 험난하여도, 넘어지고서 마음 깊이 쌓여 있던 소망을 외쳐라!"'''
+    description: 새하얀 물결, 꽃같은 얼굴 이벤트에서 멋진 공연을 선보인 지휘관 및 휘하 악단에게 수여. "길이 아무리 험난하여도, 넘어지고서 마음 깊이 쌓여 있던 소망을 외쳐라!"
     code: 2023SagaActivity_Medal
     texture_type: "1"
     offset: "0,0,0"
@@ -30501,7 +30745,7 @@
   }
   {
     id: 20105
-    name: '''"다내놔" 믹서기'''
+    name: 다내놔 믹서기
     classes: 81
     type: 201
     space: "3,3,0,0,0,0"
@@ -30566,7 +30810,7 @@
     space: "6,4,0,0,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"G&K 군사안전계약사가 창설된 해는 205... 어... 오십몇 년이었지? 아 그치! 2051년!"(책 넘기는 중)..."으아아아! 바보 바보! 2053년이잖아!!"'''
+    description: G&K 군사안전계약사가 창설된 해는 205... 어... 오십몇 년이었지? 아 그치! 2051년!(책 넘기는 중)..."으아아아! 바보 바보! 2053년이잖아!!"
     code: 2023SepActivity_deco_C
     texture_type: "1"
     offset: "0.000,-0.209,-0.052"
@@ -30877,7 +31121,7 @@
     space: "2,5,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"오귀인의 샘물" 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "분계선을 넘어서 이곳, 죽어버린 꿈의 왕국에서 황금빛 환상이 다시 나타나다."'''
+    description: 오귀인의 샘물 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "분계선을 넘어서 이곳, 죽어버린 꿈의 왕국에서 황금빛 환상이 다시 나타나다."
     code: 202404Activity_Meal
     texture_type: "1"
     offset: "0,0,0"
@@ -30914,7 +31158,7 @@
   }
   {
     id: 20133
-    name: '''"함께 지나간" 카펫'''
+    name: 함께 지나간 카펫
     classes: 81
     type: 201
     space: "11,8,5,2,0,4"
@@ -30929,7 +31173,7 @@
   }
   {
     id: 20134
-    name: '''"미래예지" 트로피'''
+    name: 미래예지 트로피
     classes: 81
     type: 201
     space: "14,8,0,6,0,0"
@@ -30997,7 +31241,7 @@
     space: "2,5,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"22중 곤경" 이벤트에서 뛰어난 활약을 보인 지휘관과 휘하 인형에게 수여합니다. "너를 위해 수천만번이고."'''
+    description: 22중 곤경 이벤트에서 뛰어난 활약을 보인 지휘관과 휘하 인형에게 수여합니다. "너를 위해 수천만번이고."
     code: 202406Activity_Medal
     texture_type: "1"
     offset: "0,0,0"
@@ -31026,7 +31270,7 @@
     space: "9,7,0,0,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"그녀들은 함께 움직였어요. 평범한 임무, 평범한 환경, 평범한 대화와 팀워크...""그리고?""그것은 그녀가 더는 바랄 수 없는 꿈 속 환영이 되었죠."'''
+    description: 그녀들은 함께 움직였어요. 평범한 임무, 평범한 환경, 평범한 대화와 팀워크..."그리고?"그것은 그녀가 더는 바랄 수 없는 꿈 속 환영이 되었죠.
     code: 202407Activity_SnowGlobe_deco1,202407Activity_SnowGlobe,202407Activity_SnowGlobe_deco2
     texture_type: "1,2,1"
     sorting: "0,10,20"
@@ -31041,7 +31285,7 @@
     space: "2,5,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"영전하" 한정 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "큰 눈을 내려 존재의 흔적을 감추고, 서로의 눈으로 늑대 무리의 결말을 지켜보라."'''
+    description: 영전하 한정 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "큰 눈을 내려 존재의 흔적을 감추고, 서로의 눈으로 늑대 무리의 결말을 지켜보라."
     code: 202407Activity_Medal
     texture_type: "1"
     offset: "0,0,0"
@@ -31081,13 +31325,13 @@
   }
   {
     id: 20144
-    name: '''"깡총 요원" 블록 세트'''
+    name: 깡총 요원 블록 세트
     classes: 81
     type: 201
     space: "4,4,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"특수요원과 깜찍한 토끼라는 대조적인 조합을 감상하는 동시에, 내 손으로 UMP45를 조립할 수 있는 지상의 즐거움을 느낄 수 있... 앗, 45 언니 머리 위에 앉지 마!" --닉네임 9인 네티즌평.'''
+    description: 특수요원과 깜찍한 토끼라는 대조적인 조합을 감상하는 동시에, 내 손으로 UMP45를 조립할 수 있는 지상의 즐거움을 느낄 수 있... 앗, 45 언니 머리 위에 앉지 마! --닉네임 9인 네티즌평.
     code: UMP45Childhood_deco_doll
     texture_type: "1"
     offset: "0,0,0"
@@ -31117,7 +31361,7 @@
     space: "5,2,0,0,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"그리폰 스포츠 속보: 한 체조 선수가 겨자 폭탄을 삼키고 관중석으로 초고속 덤블링하며 질주하다, 단 0.01m의 거리를 남기고 무사히 착지!"——오오, 엄청 스릴 넘쳐! PA-15가 이 박진감 넘치는 장면에 10점을 매깁니다!'''
+    description: 그리폰 스포츠 속보: 한 체조 선수가 겨자 폭탄을 삼키고 관중석으로 초고속 덤블링하며 질주하다, 단 0.01m의 거리를 남기고 무사히 착지!——오오, 엄청 스릴 넘쳐! PA-15가 이 박진감 넘치는 장면에 10점을 매깁니다!
     code: PA15_7501_deco
     texture_type: "1"
     offset: "0.000,-0.042,0.000"
@@ -31131,7 +31375,7 @@
     space: "9,7,1,1,0,1"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"흰 폰을 바로 퀸으로 프로모션해야 해! 다 해치워 버려!" 초보 디너게이트가 펄쩍 뜁니다. "아니 아니지. 먼저 포위당한 킹을 구해야..." 베테랑 플레이어 디너게이트는 판 전체를 읽고 차분하게 제안합니다.'''
+    description: 흰 폰을 바로 퀸으로 프로모션해야 해! 다 해치워 버려! 초보 디너게이트가 펄쩍 뜁니다. "아니 아니지. 먼저 포위당한 킹을 구해야..." 베테랑 플레이어 디너게이트는 판 전체를 읽고 차분하게 제안합니다.
     code: 202408Activity_Chess_deco,202408Activity_Chess
     texture_type: "1,2"
     sorting: "0,10"
@@ -31146,7 +31390,7 @@
     space: "2,5,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"은염색 현상" 이벤트에서 뛰어난 성적을 보여준 지휘관과 휘하 인형에게 수여합니다. "하늘은 자신을 돕는자를 돕는다. 겹겹의 족쇄를 풀고나면 무한한 미래가 펼쳐지리라."'''
+    description: 은염색 현상 이벤트에서 뛰어난 성적을 보여준 지휘관과 휘하 인형에게 수여합니다. "하늘은 자신을 돕는자를 돕는다. 겹겹의 족쇄를 풀고나면 무한한 미래가 펼쳐지리라."
     code: 202408Activity_Medal
     texture_type: "1"
     offset: "0,0,0"
@@ -31203,7 +31447,7 @@
     space: "2,5,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"고립된 숲" 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "한 무리 나무가 황혼과 저녁으로 향하며, 그들이 말라죽을 때 마침내 도달하였다. 죽은 자는 떠나고, 이를 아는 이는 살아있는 자뿐이다."'''
+    description: 고립된 숲 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "한 무리 나무가 황혼과 저녁으로 향하며, 그들이 말라죽을 때 마침내 도달하였다. 죽은 자는 떠나고, 이를 아는 이는 살아있는 자뿐이다."
     code: 202410Activity_Medal
     texture_type: "1"
     offset: "0,0,0"
@@ -31232,7 +31476,7 @@
     space: "2,5,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"나비 성운" 이벤트에서 눈부신 성과를 올린 지휘관과 휘하 인형들에게 수여한다. "다크존의 안개는 모든 빛을 삼키지 못한다, 빛은 하늘에서 오기에."'''
+    description: 나비 성운 이벤트에서 눈부신 성과를 올린 지휘관과 휘하 인형들에게 수여한다. "다크존의 안개는 모든 빛을 삼키지 못한다, 빛은 하늘에서 오기에."
     code: 2024ArenaBreakout_Medal
     texture_type: "1"
     offset: "0,0,0"
@@ -31391,7 +31635,7 @@
     space: "2,5,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"합성곱 핵" 이벤트에서 눈부신 성과를 거둔 지휘관과 휘하 전술인형에게 수여합니다. "그대는 죽음의 나라로 발을 들여, 잿더미 속에서 불씨를 찾고, 세상의 끝에서 출발선을 찾는다."'''
+    description: 합성곱 핵 이벤트에서 눈부신 성과를 거둔 지휘관과 휘하 전술인형에게 수여합니다. "그대는 죽음의 나라로 발을 들여, 잿더미 속에서 불씨를 찾고, 세상의 끝에서 출발선을 찾는다."
     code: 202412Activity_Medal
     texture_type: "1"
     offset: "0,0,0"
@@ -31469,7 +31713,7 @@
     space: "2,5,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"로슈 한계" 이벤트에서 눈부신 성과를 거둔 지휘관과 휘하 전술인형에게 수여합니다. "초연이 흩어진 그끝에 당신의 모습이 여전히 남아있었군요."'''
+    description: 로슈 한계 이벤트에서 눈부신 성과를 거둔 지휘관과 휘하 전술인형에게 수여합니다. "초연이 흩어진 그끝에 당신의 모습이 여전히 남아있었군요."
     code: 202505Activity_Medal
     texture_type: "1"
     offset: "0,0,0"
@@ -31543,7 +31787,7 @@
     space: "2,5,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"허입자쌍" 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "관측자의 시선이 허입자의 생명. 주시하면 존재하고, 무시하면 사라진다. 이것이 당신이 결정한 진실."'''
+    description: 허입자쌍 이벤트에서 뛰어난 모습을 보여준 지휘관 및 휘하 전술인형에게 수여합니다. "관측자의 시선이 허입자의 생명. 주시하면 존재하고, 무시하면 사라진다. 이것이 당신이 결정한 진실."
     code: 202507Activity_Medal
     texture_type: "1"
     offset: "0,0,0"
@@ -31564,6 +31808,20 @@
     offset: "-0.008,0.083,0.000"
     rotate: "2"
     touch_area: "3,3,3"
+  }
+  {
+    id: 20177
+    name: 해안습광 훈장
+    classes: 19
+    type: 302
+    space: "2,5,1,1,1,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: “양자요동” 이벤트에서 눈부신 활약을 보인 지휘관과 휘하 전술인형에게 수여. "그대는 잃어버린 물건을 찾기 위해 온 것이 아니라, 마음 속의 빛을 이 낙원에 뿌리기 위해서였다. 이 이후로 사랑과 희망이 형상을 가졌다."
+    code: 202509Activity_Medal
+    texture_type: "1"
+    offset: "0,0,0"
+    rotate: "3"
   }
   {
     id: 30001
@@ -43309,7 +43567,7 @@
     space: "3,4,0,0,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"와, 시바 귀여워!""갑자기 왜 욕해?""욕이라니, 시바는 시바지 또 뭐라고 부르는데?"'''
+    description: 와, 시바 귀여워!"갑자기 왜 욕해?"욕이라니, 시바는 시바지 또 뭐라고 부르는데?
     code: SP_DogHouseLabel01,SP_DogHouseBase
     texture_type: "1,1"
     sorting: "2,0"
@@ -45615,7 +45873,7 @@
     space: "6,11,1,1,1,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"언니...? 걱정 마세요, 언니를 지키는 것 말고도 참 많은 일을 할 수 있어요. 예를 들면... 헤헤, 같이 게임 어때요?"'''
+    description: 언니...? 걱정 마세요, 언니를 지키는 것 말고도 참 많은 일을 할 수 있어요. 예를 들면... 헤헤, 같이 게임 어때요?
     code: Hallocoffee2019_poster
     texture_type: "1"
     offset: "-0.104,-0.031,0"
@@ -45712,7 +45970,7 @@
   }
   {
     id: 52001
-    name: '''"마침표"'''
+    name: 마침표
     classes: 500
     type: 302
     space: "4,6,1,1,1,0"
@@ -45726,7 +45984,7 @@
   }
   {
     id: 52002
-    name: '''"개념"'''
+    name: 개념
     classes: 500
     type: 201
     space: "3,3,1,1,1,0"
@@ -46035,7 +46293,7 @@
     space: "7,4,0,0,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"뭐? 우리랑 같이 시험치려고?"'''
+    description: 뭐? 우리랑 같이 시험치려고?
     code: Fetter_Stations_IsolatedTesting
     texture_type: "1"
     offset: "0,0,0"
@@ -46083,7 +46341,7 @@
     space: "7,4,0,0,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"지휘관님... 3마리까지에요, 그 이상은 도저히 돌볼 수가 없어요."'''
+    description: 지휘관님... 3마리까지에요, 그 이상은 도저히 돌볼 수가 없어요.
     code: Fetter_Stations_Dormitory
     texture_type: "1"
     offset: "0,0,0"
@@ -46099,7 +46357,7 @@
     space: "7,4,0,0,0,0"
     deco_rate: 1000
     decompose_gift: 100003
-    description: '''"그런 눈으로 보지 마! 걔네들이 3마리까지 밖에 못 돌본대잖아!"'''
+    description: 그런 눈으로 보지 마! 걔네들이 3마리까지 밖에 못 돌본대잖아!
     code: Fetter_Stations_RepairBay
     texture_type: "1"
     offset: "0,0,0"
@@ -48124,6 +48382,111 @@
     rotate: "3"
   }
   {
+    id: 311601
+    name: SCAR-H - 머무를 때
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SCAR-H의 포스터
+    code: poster_2025Afterword_SCARH
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311602
+    name: NTW-20 - 신기루 속 사냥
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: NTW-20의 포스터
+    code: poster_2025Afterword_NTW20
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311603
+    name: 류 소총 - 병 속의 하늘
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 류 소총의 포스터
+    code: poster_2025Afterword_GeneralLiu
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311604
+    name: 64식 - 방랑의 노래
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: 64식의 포스터
+    code: poster_2025Afterword_64type
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311605
+    name: LWMMG - 지평선 바라보며
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: LWMMG의 포스터
+    code: poster_2025Afterword_LWMMG
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311606
+    name: G28 - 폴짝이는 신호
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: G28의 포스터
+    code: poster_2025Afterword_G28
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 311608
+    name: M2HB - 여명의 행군
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M2HB의 포스터
+    code: poster_2025Afterword_M2HB
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 330001
     name: ST AR-15 - 여름의 솔솔 바람
     classes: 300
@@ -48604,6 +48967,21 @@
     rotate: "3"
   }
   {
+    id: 330034
+    name: SPAS-12 - 다이나믹 마일
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: SPAS-12의 포스터.
+    code: poster_BattlePass_SPAS12
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 350001
     name: 한양조 88식 - 별들에게
     classes: 300
@@ -48673,6 +49051,21 @@
     decompose_gift: 100003
     description: MDR의 포스터
     code: poster_ArenaBreakout_MDR
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
+    id: 350006
+    name: M4A1 - 제로 비콘
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: M4A1의 포스터.
+    code: poster_ArtBook_M4A1
     texture_type: "1"
     sorting: "5"
     offset: "0,0,0"

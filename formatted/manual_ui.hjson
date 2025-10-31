@@ -3967,6 +3967,272 @@
     code_b: Console_Icon
   }
   {
+    id: 780001
+    code_a: WorkBench
+    description_a: 아군 제대
+    description_b: 기초 전투 스킬
+    description_c: 습득
+    code_b: Console_Icon
+  }
+  {
+    id: 780002
+    code_a: Boomer
+    description_a: 아군 제대
+    description_b: 골리앗 사용설명서
+    description_c: 습득
+    code_b: Console_Icon
+  }
+  {
+    id: 780003
+    code_a: Console
+    description_a: 아군 제대
+    description_b: 기초 해킹 스킬
+    description_c: 습득
+    code_b: Console_Icon
+  }
+  {
+    id: 780004
+    code_a: 202404book
+    description_a: 아군 제대
+    description_b: 전투속행의 진수
+    description_c: 습득
+    code_b: Console_Icon
+  }
+  {
+    id: 780005
+    code_a: 202404book
+    description_a: 아군 제대
+    description_b: 기동전투의 진수
+    description_c: 습득
+    code_b: Console_Icon
+  }
+  {
+    id: 780006
+    code_a: 202404book
+    description_a: 아군 제대
+    description_b: 극한 수비의 진수
+    description_c: 습득
+    code_b: Console_Icon
+  }
+  {
+    id: 780007
+    code_a: 202404book
+    description_a: 아군 제대
+    description_b: 극한 기동의 진수
+    description_c: 습득
+    code_b: Console_Icon
+  }
+  {
+    id: 780008
+    code_a: 202404book
+    description_a: 아군 제대
+    description_b: 극한 공격의 진수
+    description_c: 습득
+    code_b: Console_Icon
+  }
+  {
+    id: 780009
+    code_a: 202404book
+    description_a: 아군 제대
+    description_b: 극한 관통의 진수
+    description_c: 습득
+    code_b: Console_Icon
+  }
+  {
+    id: 780011
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 수리
+    description_c: 지령 적용
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780012
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 보급
+    description_c: 지령 적용
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780013
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 감응
+    description_c: 지령 적용
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780014
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 예지
+    description_c: 지령 적용
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780015
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 열혈
+    description_c: 지령 적용
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780016
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 철벽
+    description_c: 지령 적용
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780017
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 불굴
+    description_c: 지령 적용
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780018
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 혼
+    description_c: 지령 적용
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780019
+    code_a: Griffin
+    description_a: 지휘관
+    description_b: 직격
+    description_c: 지령 적용
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780020
+    code_a: Griffin
+    description_a: 아군 제대
+    description_b: 근성
+    description_c: 지령 적용
+    code_b: Console_Icon
+  }
+  {
+    id: 780021
+    code_a: Griffin
+    description_a: 아군 제대
+    description_b: 골리앗 투척
+    description_c: 지령 적용
+    code_b: Console_Icon
+    is_manual_target: 2
+  }
+  {
+    id: 780022
+    code_a: Griffin
+    description_a: 아군 제대
+    description_b: 능동 방어
+    description_c: 지령 적용
+    code_b: Console_Icon
+  }
+  {
+    id: 780023
+    code_a: Griffin
+    description_a: 아군 제대
+    description_b: 필중
+    description_c: 지령 적용
+    code_b: Console_Icon
+  }
+  {
+    id: 780024
+    code_a: Griffin
+    description_a: 아군 제대
+    description_b: 번뜩임
+    description_c: 지령 적용
+    code_b: Console_Icon
+  }
+  {
+    id: 780025
+    code_a: Griffin
+    description_a: 아군 제대
+    description_b: 열혈
+    description_c: 지령 적용
+    code_b: Console_Icon
+  }
+  {
+    id: 780026
+    code_a: Griffin
+    description_a: 아군 제대
+    description_b: 철벽
+    description_c: 지령 적용
+    code_b: Console_Icon
+  }
+  {
+    id: 780027
+    code_a: Griffin
+    description_a: 아군 제대
+    description_b: 불굴
+    description_c: 지령 적용
+    code_b: Console_Icon
+  }
+  {
+    id: 780028
+    code_a: Griffin
+    description_a: 아군 제대
+    description_b: 혼
+    description_c: 지령 적용
+    code_b: Console_Icon
+  }
+  {
+    id: 780029
+    code_a: Griffin
+    description_a: 아군 제대
+    description_b: 직격
+    description_c: 지령 적용
+    code_b: Console_Icon
+  }
+  {
+    id: 780091
+    code_a: Griffin
+    description_a: 아군 제대
+    description_b: 철수 지점
+    description_c: 철수
+    code_b: Console_Icon
+  }
+  {
+    id: 780401
+    code_a: Griffin
+    description_a: 아군 제대
+    description_b: 변전소
+    description_c: 끄기
+    code_b: Console_Icon
+  }
+  {
+    id: 780501
+    code_a: Griffin
+    description_a: 아군 제대
+    description_b: 해킹 작업
+    description_c: 지령 적용
+    code_b: Console_Icon
+  }
+  {
+    id: 780601
+    code_a: Griffin
+    description_a: 댄들라이
+    description_b: 레벨 2 플랫폼
+    description_c: 다이브
+    code_b: Console_Icon
+  }
+  {
     id: 1000101
     code_a: Rock
     description_a: 아군 제대

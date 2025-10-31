@@ -3902,7 +3902,7 @@
     uniform_class: "64"
     color_normal: Commander_6440_N
     bone_name: BodyBinder1
-    scale: 0.2
+    scale: 0.16
     position: "0.020,0.070"
     color_icon_id: "961"
   }
@@ -3919,6 +3919,20 @@
     scale: 0.2
     position: "-0.045,0.272"
     color_icon_id: "962"
+  }
+  {
+    id: 6620
+    name: 오아시스 개척
+    description: 앞길이 어디로 이어지든, 끝에 있는 것이 황무지든 꽃밭이든... 창밖의 풍경 자체가 이번 여정의 의미입니다.
+    code: HeadAcco
+    icon: commander_6620_icon
+    type: 2
+    uniform_class: "66"
+    color_normal: Commander_6620_N
+    bone_name: HairBinder2
+    scale: 0.2
+    position: "-0.1,0.52"
+    color_icon_id: "963"
   }
   {
     id: 9920

@@ -440,6 +440,20 @@
     sort: 2000
   }
   {
+    id: 213
+    name: 카리나 - 봉사 대기중
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: -1
+    skin: 213
+    code: gift_bundle_kalina_213
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 카리나 코스튬 획득
+    description: 해당 NPC에게 선물해 이 코스튬을 해금합니다.
+    sort: 2000
+  }
+  {
     id: 301
     name: 콜트 리볼버 - 별똥별의 소원
     type: 2
@@ -13256,6 +13270,118 @@
     type_sort: 6
   }
   {
+    id: 11601
+    name: SCAR-H - 머무를 때
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 377
+    skin: 11601
+    poster: 311601
+    code: gift_bundle_2025Afterword_SCARH
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11602
+    name: NTW-20 - 신기루 속 사냥
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 53
+    skin: 11602
+    poster: 311602
+    code: gift_bundle_2025Afterword_NTW20
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11603
+    name: 류 소총 - 병 속의 하늘
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 316
+    skin: 11603
+    poster: 311603
+    code: gift_bundle_2025Afterword_GeneralLiu
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11604
+    name: 64식 - 방랑의 노래
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 94
+    skin: 11604
+    poster: 311604
+    code: gift_bundle_2025Afterword_64type
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11605
+    name: LWMMG - 지평선 바라보며
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 81
+    skin: 11605
+    poster: 311605
+    code: gift_bundle_2025Afterword_LWMMG
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11606
+    name: G28 - 폴짝이는 신호
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 146
+    skin: 11606
+    poster: 311606
+    code: gift_bundle_2025Afterword_G28
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 11608
+    name: M2HB - 여명의 행군
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 77
+    skin: 11608
+    poster: 311608
+    code: gift_bundle_2025Afterword_M2HB
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 30001
     name: ST AR-15 - 여름의 솔솔 바람
     type: 2
@@ -13768,6 +13894,22 @@
     type_sort: 6
   }
   {
+    id: 30034
+    name: SPAS-12 - 다이나믹 마일
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 162
+    skin: 30034
+    poster: 330034
+    code: gift_bundle_BattlePass_SPAS12
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
     id: 50001
     name: 한양조 88식 - 별들에게
     type: 2
@@ -13841,6 +13983,22 @@
     skin: 50005
     poster: 350005
     code: gift_bundle_ArenaBreakout_MDR
+    normal_description: 선물 시 호감도 획득
+    bonus_description: 인형 코스튬 획득
+    description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.
+    sort: 2000
+    type_sort: 6
+  }
+  {
+    id: 50006
+    name: M4A1 - 제로 비콘
+    type: 2
+    rank: 6
+    favor: 50000
+    fit_gun: 55
+    skin: 50006
+    poster: 350006
+    code: gift_bundle_ArtBook_M4A1
     normal_description: 선물 시 호감도 획득
     bonus_description: 인형 코스튬 획득
     description: 선물 시, 코스튬을 획득하며 호감도 상승과 함께 포스터를 획득합니다.

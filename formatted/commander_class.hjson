@@ -100,7 +100,7 @@
   {
     id: 18
     name: 눈 속 여행
-    description: '''"왜 산타 할아버지는 선물을 나눠주는 걸까?"라는 질문에 "모두를 이어주고 싶나 보지."라고 순록이 대답했습니다.'''
+    description: 왜 산타 할아버지는 선물을 나눠주는 걸까?라는 질문에 "모두를 이어주고 싶나 보지."라고 순록이 대답했습니다.
     group_id: "59"
     code: commander_1832_icon
     bonus_plastic: "130005"
@@ -322,7 +322,7 @@
   }
   {
     id: 37
-    name: '''"화려한" 새옷'''
+    name: 화려한 새옷
     description: 두 세계급 재단사가 디자인한 초고급 예복입니다. 안목이 높은 분들은 필시 이 옷의 아름다움을 바로 이해할 수 있겠죠?
     group_id: "79"
     code: commander_3700_icon
@@ -659,6 +659,17 @@
     des_year: "2025"
     source: 2
     source_description: 양자요동 이벤트 랭킹 보상
+  }
+  {
+    id: 66
+    name: 원정 협약
+    description: 준비되셨나요? 모든 추억을 짐에 싸고 저 미지의 지평선으로 다시 출발해요.
+    group_id: "104"
+    code: commander_6620_icon
+    path: CLASS66
+    des_year: "2025"
+    source: 2
+    source_description: 양자요동 이벤트 보상
   }
   {
     id: 99

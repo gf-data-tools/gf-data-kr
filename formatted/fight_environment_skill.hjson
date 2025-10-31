@@ -1277,6 +1277,30 @@
     skill_group: "450702"
   }
   {
+    id: 1195501
+    name: Anti Destiny
+    desc: 아군 제대 명중 상승
+    if_display: 1
+    code: NorZhenC
+    skill_group: "450806"
+  }
+  {
+    id: 1195502
+    name: 반역의 기점
+    desc: 아군 제대 회피 상승
+    if_display: 1
+    code: ExtraAp
+    skill_group: "450807"
+  }
+  {
+    id: 1195503
+    name: Fate Not Found
+    desc: 아군 제대 화력 상승
+    if_display: 1
+    code: baozhu
+    skill_group: "450808"
+  }
+  {
     id: 12020101
     name: 화력 강화
     desc: 전체 화력 +15%.

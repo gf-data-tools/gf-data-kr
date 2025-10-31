@@ -50,6 +50,11 @@
     name: 무한동력
   }
   {
+    id: 757276
+    type_id: 1
+    name: 흡인계
+  }
+  {
     id: 900906
     type_id: 1
     name: 모래폭풍

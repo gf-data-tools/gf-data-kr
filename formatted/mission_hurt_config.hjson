@@ -285,6 +285,30 @@
     value: "-50"
   }
   {
+    id: 780011
+    name: 【标记】수리指令负数화력
+    target_type: 2
+    type: 2
+    life_type: 2
+    value: "-30"
+  }
+  {
+    id: 780020
+    name: 【标记】근성负数화력
+    target_type: 2
+    type: 2
+    life_type: 2
+    value: "-50"
+  }
+  {
+    id: 780021
+    name: 【标记】歌利亚화력
+    target_type: 2
+    type: 2
+    life_type: 2
+    value: "100"
+  }
+  {
     id: 900003
     name: 【표식】오염 피해
     target_type: 2

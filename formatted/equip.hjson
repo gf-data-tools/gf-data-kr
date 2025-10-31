@@ -10823,7 +10823,7 @@
     code: 弹匣_特殊_托卡列夫
     develop_duration: 3600
     company: IOP
-    fit_guns: "6"
+    fit_guns: "6,20006"
     equip_introduction: 과거 세계 전장에서 사용한 탄약 중 하나로, 토카레프가 무척 애용하는 규격입니다.
     powerup_mp: 0.48
     powerup_ammo: 0.48
@@ -14972,7 +14972,7 @@
     retire_part: 2
     code: Accessories_SP_AUGPARA
     develop_duration: 3600
-    company: SF
+    company: IOP
     fit_guns: "315"
     equip_introduction: 다람쥐를 유인할 수 있다고 하는 장식품. 그리고 인간이라면 이런 장식 하나쯤은 갖고 싶어하겠죠.
     powerup_mp: 0.45
@@ -15057,5 +15057,107 @@
     group_id: "64"
     is_show: 1
     obtain_ids: "3096"
+  }
+  {
+    id: 471
+    name: M91식 망원조준경
+    description:
+      '''
+      치명률+<critical_percent><%>
+      사속+<rate>$카르카노 M91/38 전용
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    rate: "1,2"
+    critical_percent: "17,24"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: Accessories_SP_Carcano1938
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "198"
+    equip_introduction: 완전히 업그레이드 된 조준경. 선명한 시야로 사용자가 멀리 있는 목표를 식별할 수 있도록 도와줍니다. 원거리 저격 임무에 적합하죠.
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: rate:1000,critical_percent:1000
+    passive_skill: "1009401"
+    max_level: 10
+    auto_select_id: 18129
+    is_show: 1
+    obtain_ids: "522"
+    description_skill: 1009401
+  }
+  {
+    id: 472
+    name: 방폭 호완
+    description:
+      '''
+      화력<pow> 회피+<dodge>
+       장갑+<armor>$토카레프 전용
+      '''
+    rank: 5
+    category: 3
+    type: 20
+    pow: "-10,-10"
+    dodge: "6,10"
+    armor: "3,5"
+    retire_mp: 4
+    retire_ammo: 2
+    retire_part: 4
+    code: TDoll_SP_TT33
+    develop_duration: 3120
+    company: IOP
+    fit_guns: "6,20006"
+    equip_introduction: 새롭게 강화된 토카레프가 특별히 신청해서 제작한 호완. 착용하니 온몸에 힘이 차오르는 것 같습니다.
+    powerup_mp: 0.3
+    powerup_ammo: 0.25
+    powerup_mre: 0.12
+    powerup_part: 0.38
+    exclusive_rate: 3
+    bonus_type: dodge:1000,armor:1000
+    max_level: 10
+    auto_select_id: 20036
+    is_show: 1
+    obtain_ids: "3016"
+  }
+  {
+    id: 473
+    name: PMII 조준경
+    description:
+      '''
+      사속+<rate>
+      치명률+<critical_percent><%>스킬 강화$G28 전용
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    rate: "3,5"
+    critical_percent: "20,25"
+    retire_mp: 3
+    retire_ammo: 2
+    retire_mre: 4
+    retire_part: 1
+    code: Accessories_SP_G28
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "146"
+    equip_introduction: G28 전용 조준경. 단독 시차 조정간이 부착되어 있어, 시차를 크게 높일 수 있고, 광학 성능도 몹시 뛰어납니다.
+    powerup_mp: 0.4
+    powerup_ammo: 0.2
+    powerup_mre: 0.6
+    powerup_part: 0.18
+    exclusive_rate: 3
+    bonus_type: rate:1000,critical_percent:800
+    passive_skill: "1009501"
+    max_level: 10
+    auto_select_id: 18130
+    is_show: 1
+    obtain_ids: "3131"
+    description_skill: 1009501
   }
 ]

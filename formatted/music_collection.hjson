@@ -1,0 +1,816 @@
+[
+  {
+    id: 1
+    type: 닫힌 고리
+    code: 우리는 안개 속을 헤쳐 나아가지만, 결말은 이미 정해져 있는 걸까?
+    name: dfcg_1608summer
+    detail: 1
+  }
+  {
+    id: 2
+    type: 틈새
+    code: 설계된 숙명? 그건 그저 또 다른 변명일 뿐이야.
+    name: dfcg_17summer
+    detail: 2
+  }
+  {
+    id: 3
+    type: 희음
+    code: 심연의 절대적인 침묵 속에서, 모든 외침은 완전히 사라진다.
+    name: dfcg_17011winter
+    detail: 3
+  }
+  {
+    id: 4
+    type: 우리
+    code: 놀라지 마, 앞으로 더……
+    name: dfcg_18mind
+    detail: 4
+  }
+  {
+    id: 5
+    type: 돌풍
+    code: 폭우가 칼날처럼 밤을 갈라놓았다.
+    name: dfcg_1808summer
+    detail: 5
+  }
+  {
+    id: 6
+    type: 함정
+    code: 어쩌면, 너와 나 모두 진실의 제물이 될지도 몰라.
+    name: dfcg_18winter
+    detail: 6
+  }
+  {
+    id: 7
+    type: 종국
+    code: 파멸과 탄생은, 어쩌면 언제나 같은 뜻이었을지도.
+    name: dfcg_1908summer1
+    detail: 7
+  }
+  {
+    id: 8
+    type: 계시
+    code: 누구든 미래를 가질 수 있지, 그렇지 않아?
+    name: dfcg_1908summer2
+    detail: 8
+  }
+  {
+    id: 9
+    type: 출발
+    code: 적의 위치가 표시되었다. 전투 준비!
+    name: dfcg_motobg
+    detail: 9
+  }
+  {
+    id: 10
+    type: 재출발
+    code: 모든 건 언제나처럼 흘러갈 거야, 지휘관. 난 계속 당신 곁에 있을게.
+    name: 2022summer_kar&lee
+    detail: 10
+  }
+  {
+    id: 11
+    type: 실익
+    code: “네 죽음을 가져왔노라.”
+    name: 掐脖子
+    detail: 11
+  }
+  {
+    id: 12
+    type: 마지막 도전
+    code: 현지의 그리폰 소대 지원을 받아, 우리는 허겁지겁 전장을 빠져나왔고, 그 과정에서 흩어졌다. 오늘이 되어서야 다시 만날 수 있었다……
+    name: 打海猫
+    detail: 12
+  }
+  {
+    id: 13
+    type: 제초작전
+    code: 그리폰의 여러 부대가 협공을 펼친 끝에, 【스케어크로우】를 성공적으로 포획했다.
+    name: CG.1-6 有人
+    detail: 13
+  }
+  {
+    id: 14
+    type: 첫 만남
+    code: “지금, 부탁 하나만 드릴게요... 저희를 구해주세요.”
+    name: CG.2-6
+    detail: 14
+  }
+  {
+    id: 15
+    type: 전선돌파
+    code: 【인트루더】가 먼저 도발했지만, 우리가 한발 앞서 그들의 구역으로 돌입했다.
+    name: CG.4-2
+    detail: 15
+  }
+  {
+    id: 16
+    type: 기습저지
+    code: “그럼 지금, 넌 아직 싸울 수 있겠어?”
+    name: CG.5
+    detail: 16
+  }
+  {
+    id: 17
+    type: 추격밀령
+    code: AR-15는 완전히 도주했고, 철혈은 후퇴했다…… 우리는 승리한 걸까, 아니면 실패한 걸까? 하지만 그건 이제 아무런 수수께끼도 아니야……
+    name: CG.5-6
+    detail: 17
+  }
+  {
+    id: 18
+    type: 404 출격
+    code: HK416과 G11은 【우로보로스】의 함정을 빠져나와, UMP45와 UMP9과 합류했다. 그들은 교란기의 위치를 아는 자를 찾아 나섰다.
+    name: "404"
+    detail: 18
+    background_code: "10002,10019"
+  }
+  {
+    id: 19
+    type: 차면붕괴
+    code: 【엑스큐셔너】와의 사투와 【우로보로스】의 포위망을 뚫은 끝에, 404소대는 철혈 S06 구역의 주력을 격파하며 작전을 마무리했다.
+    name: sp2.2.2
+    detail: 19
+    background_code: "10004,10021"
+  }
+  {
+    id: 20
+    type: 감금인
+    code: “M4A1... 넌 대체 뭐야?”
+    name: 6CG-AR15b
+    detail: 20
+    background_code: "58"
+  }
+  {
+    id: 21
+    type: 뒤늦은 이별
+    code: 그건 떠들썩한 장례식이자, 말 없는 이별이었다.
+    name: 6CG-M4
+    detail: 21
+    background_code: "60"
+  }
+  {
+    id: 22
+    type: 재회
+    code: 우리는 구치소 내부의 상황을 알 수 없었다. 다가올 결전을 준비하며, 페르시카가 보낸 협력자가 제 역할을 해주길 바랐다……
+    name: CG7-3
+    detail: 22
+    background_code: "70"
+  }
+  {
+    id: 23
+    type: 등화관제 Ⅳ
+    code: 철혈의 또 다른 간부, 아키텍트가 404소대의 위치를 알아냈다. 하지만 그것은 45의 계획 속 일부였다. 돌파 및 구출 작전이 본격적으로 시작되었다.
+    name: CG-2017Winter1
+    detail: 23
+    background_code: "10012"
+  }
+  {
+    id: 24
+    type: 귀환 작전
+    code: “잘 대해주라, 나 아는 거 엄청 많으니까.”
+    name: CG-2017Winter2
+    detail: 24
+    background_code: "10016"
+  }
+  {
+    id: 25
+    type: 정해진 공식
+    code: M4A1 보고: 아키텍트가 왜 여기에 있는 거지…… 생각할 틈이 없어, 반드시 승리를 얻어야 해…………
+    name: Ouroboros
+    detail: 25
+    background_code: "10024"
+  }
+  {
+    id: 26
+    type: 사명
+    code: M16A1은 대답하지 않았다. 그저 평범한 손짓 하나만 남겼다.
+    name: CG8-1
+    detail: 26
+    background_code: "80"
+  }
+  {
+    id: 27
+    type: 탄생
+    code: “모두가 제 곁에 있어서, 너무 좋아요.”
+    name: 202406_ARTeam_c
+    detail: 27
+    background_code: "11681"
+  }
+  {
+    id: 28
+    type: 고리 운명
+    code: “셀 수 없는 윤회, 반복되는 망각, 그녀에게 남은 것은 마지막 집념뿐.”
+    name: 2022winter_16vs16_b
+    detail: 28
+    background_code: "11687"
+  }
+  {
+    id: 29
+    type: 인간
+    code: “내가 아직 세상에 있는 이유는 너를 죽이기 위해서다.”
+    name: 202407_Embla
+    detail: 29
+    background_code: "11720"
+  }
+  {
+    id: 30
+    type: 시간의 눈
+    code: 자존심 강한 늑대는 자신의 약함을 결코 드러내지 않는다. 피와 눈으로 물든 설원 위에서, 그녀는 고개를 들고 먼 곳을 바라보았다.
+    name: 202407_TaskForceDEFY_a
+    detail: 30
+    background_code: "11722"
+  }
+  {
+    id: 31
+    type: 웅크린 초상화
+    code: “지휘관, 맡길게. 우리는 이길 거야.”
+    name: 202408_HK-416_c
+    detail: 31
+    background_code: "11753"
+  }
+  {
+    id: 32
+    type: 길잃은 혈흔
+    code: 어둠에 잠긴 지하 터널에서, 몰리도는 옛 원수와 재회했다.
+    name: 202410_SCAR-H
+    detail: 32
+    background_code: "11776"
+  }
+  {
+    id: 33
+    type: 막을 내리다
+    code: 그녀는 차가운 배양 캡슐을 쓰다듬었다. 자신을 낳은 자궁이자, 결국 그녀의 무덤이 될 곳이었다.
+    name: 202412_Nemhran
+    detail: 33
+    background_code: "11843"
+  }
+  {
+    id: 34
+    type: 고독한 영혼의 기도
+    code: 코드네임 “안젤리아”란 요원은 어떤 세계, 어떤 선택에서도 당신과 끝까지 전우였어요.
+    name: 202410_Nele_a
+    detail: 34
+    background_code: "11865"
+  }
+  {
+    id: 35
+    code: “나 혼자 남았더라도... 반드시 살아남을 거야...”
+    name: 2018SummerCG2-1
+    detail: 35
+    background_code: "10108"
+  }
+  {
+    id: 36
+    type: 대치
+    code: 안젤리아는 더티밤을 폭파하겠다며 예고르를 위협했고, 두 사람은 대치 상태에 빠졌다.
+    name: 2018SummerCG6-1
+    detail: 36
+    background_code: "10141"
+  }
+  {
+    id: 37
+    type: 작별 인사
+    code: 작별하지 않는 것은 그리워할 필요가 없는 것. 그리워할 필요가 없다는 것은 서로가 평안하다는 것.
+    name: 2018SummerCG4
+    detail: 37
+    background_code: "10148"
+  }
+  {
+    id: 38
+    type: 지금의 평화
+    code: “우리 모두 바보라면... 그게 바로 가족인 거지.”
+    name: 2018SummerCG3
+    detail: 38
+    background_code: "10149"
+  }
+  {
+    id: 39
+    type: 구조
+    code: HK416은 지휘관의 특별 명령을 받고, 오염 지역으로 들어가 안젤리아를 구출했다.
+    name: 2018SummerCG5
+    detail: 39
+    background_code: "10150"
+  }
+  {
+    id: 40
+    type: 심문
+    code: 그리폰의 지휘관, 또 이야기를 지어내려는 건가?
+    name: 2018SummerCG1-1
+    detail: 40
+    background_code: "10156"
+  }
+  {
+    id: 41
+    type: 추방자
+    code: 진실과 마주한 그 순간, 나는 그것을 소유할지, 파괴할지를 선택해야 한다……
+    name: 2018SummerCG8
+    detail: 41
+    background_code: "10157"
+  }
+  {
+    id: 42
+    type: 기념비
+    code: 순국자 기념비 앞에서, 안젤리아와 M4A1은 ‘희생’의 의미를 논했다.
+    name: 19WinterCG1
+    detail: 42
+    background_code: "10194"
+  }
+  {
+    id: 43
+    type: 늑대와 올빼미
+    code: M16A1이 여러 철혈 간부들과 함께 나타나, 극장 안의 하얀 세력을 단숨에 쓸어버렸다.
+    name: 19WinterCG2
+    detail: 43
+    background_code: "10225,10264"
+  }
+  {
+    id: 44
+    type: 반목
+    code: AR-15와 AN-94는 철혈의 조준 아래 무기를 버리고 손을 들었다.
+    name: 19WinterCG3
+    detail: 44
+    background_code: "10226"
+  }
+  {
+    id: 45
+    type: 상어와 바다
+    code: 니모겐의 머리 구속구가 부서지며, 그녀는 광란에 빠졌다.
+    name: 19WinterCG4
+    detail: 45
+    background_code: "10242"
+  }
+  {
+    id: 46
+    type: 추격
+    code: 매의 부리에 매달린 M16A1이 전속력으로 질주하며, 역행 소대의 추격을 따돌리려 했다.
+    name: 19WinterCG6
+    detail: 46
+    background_code: "10247,10275"
+  }
+  {
+    id: 47
+    type: 우담화 잔영
+    code: 백색 단위의 하층에서, M4A1의 희미한 기억 속 장면이 다시 발견되었다.
+    name: CG10-4-1
+    detail: 47
+    background_code: "119"
+  }
+  {
+    id: 48
+    type: 거울상 과다 II
+    code: “휴면 중인 적으로 가득한 에너지 제어실에서, UMP45는 메인 차단기를 내렸다……”
+    name: 19winter_ump45vs
+    detail: 48
+    background_code: "10447"
+  }
+  {
+    id: 49
+    type: 리캐스팅
+    code: UMP45는 또다시 ‘나비 작전’의 시뮬레이션 기억을 겪었다.
+    name: 19winter_4516
+    detail: 49
+    background_code: "10454"
+  }
+  {
+    id: 50
+    type: 진실을 추적하여
+    code: M4A1은 AR소대의 다른 대원들을 지휘관에게로 보냈고, 자신은 홀로 M16A1을 막기로 결심했다.
+    name: 19winter_m4_1
+    detail: 50
+    background_code: "10468"
+  }
+  {
+    id: 51
+    type: 우두머리 늑대
+    code: 리벨리온은 아레스 기갑과 치열한 전투를 벌였고, 마침내 예고르를 쓰러뜨렸다.
+    name: 19winter_ange_2
+    detail: 51
+    background_code: "10469"
+  }
+  {
+    id: 52
+    type: 쌍곡선 함수
+    code: UMP45는 두려움 없이 철혈의 결정을 받아들였다. 그와 동시에 철혈 디스트로이어의 새로운 모습——케르베로스와의 최종 결전이 시작되었다!
+    name: 17xhCG2-2
+    detail: 52
+    background_code: "10037"
+  }
+  {
+    id: 53
+    type: 기만
+    code: “우리 둘 중 하나가 사라지면, 안전 프로그램은 멈춘다.”
+    name: 17xhCG4-0
+    detail: 53
+    background_code: "10042"
+  }
+  {
+    id: 54
+    type: 매와 개 II
+    code: RO 보고: 지휘관이 참석 중인 연회가 거대한 사건의 전조라 했지만, 지금 당장은 우리에게 닥친 작은 사건이 더 급하다……
+    name: CG9-1.3
+    detail: 54
+    background_code: "92"
+  }
+  {
+    id: 55
+    type: 매와 개 IV
+    code: RO 보고: 저지의 모습을 다시 포착했다! 이때, 동료가 조금만 더 있었더라면……
+    name: CG9-2.2
+    detail: 55
+    background_code: "94"
+  }
+  {
+    id: 56
+    type: 배신
+    code: 예고르가 은신처의 문을 폭파하며, 방심하던 RO635를 사살했다.
+    name: CG10-6-2
+    detail: 56
+    background_code: "103"
+  }
+  {
+    id: 57
+    type: 연옥
+    code: M4A1은 오랫동안 자리에 앉은 채 아무 행동도 하지 않았다. 마치 울고 있는 듯했다.
+    name: CG10-5-3
+    detail: 57
+    background_code: "104"
+  }
+  {
+    id: 58
+    type: 분기점
+    code: AR-15는 M4A1을 업고 철혈 부대의 추격을 필사적으로 피했다.
+    name: 2018Winter1-1
+    detail: 58
+    background_code: "10052"
+  }
+  {
+    id: 59
+    type: 행정사점 II
+    code: “그리폰이 S11 구역으로 이전 중이라고? 봤어, 여긴 이미 엉망이야.”
+    name: 17xhCG1-1
+    detail: 59
+    background_code: "10054"
+  }
+  {
+    id: 60
+    type: 체포
+    code: 카터는 여러 죄목을 내세워 군 부대를 파견, 그리폰 계약사무소 본부의 크루거를 체포했다.
+    name: 2018Winter2-3
+    detail: 60
+    background_code: "10064"
+  }
+  {
+    id: 61
+    type: 외통수
+    code: “인간은 언젠가 죽는다. 나는 그걸 기꺼이 돕는 자다.”
+    name: 2018Winter3-2
+    detail: 61
+    background_code: "10081"
+  }
+  {
+    id: 62
+    type: 최종수단
+    code: 불을 끄는 가장 좋은 방법은, 옆에서 더 큰 폭발을 일으키는 것이다.
+    name: 2018Winter7-1
+    detail: 62
+    background_code: "10084"
+  }
+  {
+    id: 63
+    type: 만남
+    code: M4A1은 엘리사와 약속된 장소에서 조우했고, OGAS의 거짓을 알아챈 후 치열한 전투를 벌였다.
+    name: 2018Winter6-1
+    detail: 63
+    background_code: "10085"
+  }
+  {
+    id: 64
+    type: 최종수단 V
+    code: “404소대! 아직 버틸 수 있나요?”
+    name: 2018Winter8-1
+    detail: 64
+    background_code: "10086"
+  }
+  {
+    id: 65
+    type: 엔드게임
+    code: “사람은 나무와 같아서, 하늘을 향해 가지를 뻗을수록 뿌리는 더욱 어두운 땅속으로 향하지”
+    name: 2018Winter5-1
+    detail: 65
+    background_code: "10087"
+  }
+  {
+    id: 66
+    type: 역경탈출
+    code: 몇 달 뒤 이런 상황에 놓일 줄은 상상도 못 했다…… 우리의 마지막 희망은, 전부……
+    name: CG11-1
+    detail: 66
+    background_code: "114"
+  }
+  {
+    id: 67
+    type: 결정
+    code: “너는 앞으로도 무수한 시련을 마주칠 거야. 그리고 올바른 선택은 대개 가장 괴로운 선택이란다…”
+    name: 17xhCG3-1
+    detail: 67
+    background_code: "10296"
+  }
+  {
+    id: 68
+    type: 유령도시
+    code: 폐허 속에서 하나, 또 하나의 그림자가 피어올랐다.
+    name: 2019summer_2
+    detail: 68
+    background_code: "10300"
+  }
+  {
+    id: 69
+    type: 탄식
+    code: UMP45가 교란원을 탐색하던 중, 귀를 스치는 낮은 음성이 들려왔다.
+    name: 2019summer_4_1
+    detail: 69
+    background_code: "10310"
+  }
+  {
+    id: 70
+    type: 끝없는 연결
+    code: “그녀의 마인드맵 깊은 곳으로 들어가자.”
+    name: 2019summer_9
+    detail: 70
+    background_code: "10319"
+  }
+  {
+    id: 71
+    type: 종언의 꽃밭
+    code: 우담화가 흐드러지게 핀 협곡에서, M4A1은 니모겐의 몸을 빼앗은 OGAS와 맞붙었다.
+    name: 2019summer_10
+    detail: 71
+    background_code: "10335"
+  }
+  {
+    id: 72
+    type: 배신 II
+    code: M4A1의 상태가 도대체 어떤 건지 모르겠어. 나랑 지휘관 모두 걱정하고 있어. RO, 그녀를 되돌릴 방법이 있을까……
+    name: CG10-2-3
+    detail: 72
+    background_code: "102"
+  }
+  {
+    id: 73
+    type: 옛 친구
+    code: M16의 순간적인 빈틈을 포착한 댄들라이가 그녀의 마음속 OGAS와 접속했다. 그리고 M4는 잃어버린 기억의 조각들을 되찾았다……
+    name: 13CG3v2
+    detail: 73
+    background_code: "128"
+  }
+  {
+    id: 74
+    type: 반전
+    code: 불타는 철혈 기지 속에서, 【아키텍트】는 【게이저】의 귀환 제안을 단호히 거절했다.
+    name: 2020summerBattle2
+    detail: 74
+    background_code: "10535"
+  }
+  {
+    id: 75
+    type: 사색
+    code: 안젤리아는 옥상에서 소란스러운 거리를 내려다보며 깊은 생각에 잠겼다.
+    name: 2020summerAnge
+    detail: 75
+    background_code: "10546"
+  }
+  {
+    id: 76
+    type: 영원의 다리
+    code: 안젤리아는 몰리도의 위장을 간파했고, 몰리도는 선체 문을 열고 뛰어내렸다.
+    name: 2020summerA&M2
+    detail: 76
+    background_code: "10579"
+  }
+  {
+    id: 77
+    type: 금기의 상자
+    code: “저는요, 인간이 되고 싶어요.”
+    name: 2021white_R&A
+    detail: 77
+    background_code: "10729"
+  }
+  {
+    id: 78
+    type: 판도라
+    code: AK-15는 RPK-16과의 격전을 끝내며, 마침내 그녀를 제압했다.
+    name: 2021white_RPK16&AK15
+    detail: 78
+    background_code: "10732"
+  }
+  {
+    id: 79
+    type: 회한
+    code: “…고마워요, 로빈.”
+    name: 2021white_Machlian01
+    detail: 79
+    background_code: "10740"
+  }
+  {
+    id: 80
+    type: 귀환
+    code: “그 누구의 희생도 무의미하지 않아요... 돌아왔습니다.”
+    name: 2021white_Dandelion
+    detail: 80
+    background_code: "10741"
+  }
+  {
+    id: 81
+    type: ⅤA
+    code: “생각났어…… 넌 AR소대의 마지막 인형이었지……”
+    name: 2021summer_M16_ATTACK_1
+    detail: 81
+    background_code: "10880"
+  }
+  {
+    id: 82
+    type: 역전
+    code: M16A1은 도망치려던 몰리도를 기절시키고, 쓰러진 댄들라이를 되찾았다.
+    name: 2021summer_M16_COMEBACK
+    detail: 82
+    background_code: "10880"
+  }
+  {
+    id: 83
+    type: beta
+    code: “선생님, 당신의 가슴 속엔 자비로운 심장이 뛰고 있었죠.”
+    name: 2021summer_Murderous
+    detail: 83
+    background_code: "10883"
+  }
+  {
+    id: 84
+    type: 아침의 빛
+    code: 지휘관은 창고 안에서 절체절명의 위기에 몰렸고, 이때 그리폰 철혈 부대가 제때 도착해 그를 구했다.
+    name: 2021summer_SANGVISFERRI
+    detail: 84
+    background_code: "10820,10839"
+  }
+  {
+    id: 85
+    type: '''"죽음의 바다"'''
+    code: “그곳은 새조차 지나가지 못하는 죽음의 땅, ‘아베르누스’라네.”
+    name: 2022winter_Family_3
+    detail: 85
+    background_code: "11061"
+  }
+  {
+    id: 86
+    type: 작전 회의
+    code: RO635는 각 소대에 임무를 배정하며, ‘죽음의 바다’에 진입하기 전 마지막 전투 결의를 다졌다.
+    name: 2022winter_squad
+    detail: 86
+    background_code: "11074"
+  }
+  {
+    id: 87
+    type: 배신자
+    code: M16A1은 RPK-16을 벽으로 몰아넣고, 단숨에 그녀의 목을 움켜쥐었다.
+    name: 2022winter_16vs16_a
+    detail: 87
+    background_code: "11080"
+  }
+  {
+    id: 88
+    type: 위기
+    code: 팔라티스의 침공 앞에서, 엘마는 몸을 날려 류드밀라를 보호했다.
+    name: 2022summer_Target_a
+    detail: 88
+    background_code: "11172"
+  }
+  {
+    id: 89
+    type: 활공
+    code: 지금 그녀는 불빛 속에 몸을 담고 있다. 강철의 환수 위에 우뚝 서서.
+    name: 2022summer_LightUpNight_b
+    detail: 89
+    background_code: "11175"
+  }
+  {
+    id: 90
+    type: 5-β7 카발레리아 루스티카나
+    code: “네 전투력을 5라 치자, 그 녀석은 53만이야.”
+    name: 2022summer_robbery_a
+    detail: 90
+    background_code: "11181"
+  }
+  {
+    id: 91
+    type: 나그네의 노래
+    code: 무너져 내리는 콜트 익스프레스 위에서, 엘마는 매기를 꼭 끌어안았다.
+    name: 2022summer_Farewell_a
+    detail: 91
+    background_code: "11194"
+  }
+  {
+    id: 92
+    type: 영별
+    code: “넌 자유란다, 엘마.”
+    name: 2022summer_1stDeath_a
+    detail: 92
+    background_code: "11195"
+  }
+  {
+    id: 93
+    type: 15 열차 창문
+    code: “약점을 가진 건 정말 두려운 일이야.”
+    name: 2022summer_DeadEnd
+    detail: 93
+    background_code: "11203"
+  }
+  {
+    id: 94
+    type: 19 탁상의 단아한 꽃다발
+    code: “너는 인간이야. 인간과 함께해야 해. 네가 있을 곳은 저기야.”
+    name: 2022summer_Doctor_a
+    detail: 94
+    background_code: "11204"
+  }
+  {
+    id: 95
+    type: 35-R4 피아노 협주곡 F단조
+    code: “처음부터 나는... 생명을 구한다는 그 느낌 자체를 좋아했던 거야...”
+    name: 2022summer_Doctor_b
+    detail: 95
+    background_code: "11229"
+  }
+  {
+    id: 96
+    type: 복원
+    code: ……밤이, 다시 조용해졌다.
+    name: 2022saros_FatedReunion
+    detail: 96
+    background_code: "11258"
+  }
+  {
+    id: 97
+    type: WTR 해질녘의 늪지대
+    code: “그건 말이다, 지금 네가 너무 좁은 세상에서 살고 있기 때문이야.”
+    name: 2023slow_Teacher-Student_a
+    detail: 97
+    background_code: "11406"
+  }
+  {
+    id: 98
+    type: SPR 회색 나무
+    code: “그날 이후로 난 물러설 곳이 없어졌다고.”
+    name: 2023slow_DestroyPortrait_b
+    detail: 98
+    background_code: "11342"
+  }
+  {
+    id: 99
+    type: SPR 파랑새의 날개
+    code: “우린 똑같다고 생각했는데... 그런데... 아니었구나.”
+    name: 2023slow_Laplace
+    detail: 99
+    background_code: "11345"
+  }
+  {
+    id: 100
+    type: 거울 앞의 소녀
+    code: “한 사람의 인간으로서, 존엄하게 끝을 맞이하고 싶어요.”
+    name: 2023slow_BecomeHuman_d
+    detail: 100
+    background_code: "11412"
+  }
+  {
+    id: 101
+    type: F17 검은 십자가
+    code: “잠시, 아주 잠시만 자유로워도 괜찮으니까.”
+    name: 2023slow_Photo
+    detail: 101
+    background_code: "11416"
+  }
+  {
+    id: 102
+    type: 해질녘
+    code: 루슬란 2세의 포효 속에서 아베르누스는 영원히 가라앉았다.
+    name: 2023slow_TowerFall_b
+    detail: 102
+    background_code: "11418"
+  }
+  {
+    id: 103
+    type: 붕괴
+    code: 핏자국, 제복... 마지막 방어선이 마침내 무너졌다.
+    name: 202505_Kalina_b
+    detail: 103
+    background_code: "11907"
+  }
+  {
+    id: 104
+    type: 거짓말
+    code: 악의가 담긴 거짓말…
+    name: 202505_Kalina_a
+    detail: 104
+    background_code: "11915"
+  }
+]

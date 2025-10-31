@@ -6031,6 +6031,28 @@
     spine_scale: "70,70,1"
   }
   {
+    sub_id: 255003
+    id: 255
+    name: 윌리엄
+    sub_name: 윌리엄
+    type: 1
+    code: BossWilliam
+    introduce: 신세계로 향하는 계단은 이미 피로 얼룩졌지만, 그는 이미 대가를 따지지 않는다. 지금 저 몸뚱이를 움직이는 것은 미래를 향한 갈망이 아니라, 막아서는 자에 대한... 순수한 증오다.
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 정보 불명, 조심해서 대응하세요!
+    character: "1004"
+    launch_time: 2035-12-31 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
     sub_id: 256001
     id: 256
     name: '''"가짜"'''
@@ -6050,6 +6072,29 @@
     character: "1001,1004"
     launch_time: 2016-5-20 00:00:00
     spine_scale: "100,100,1"
+  }
+  {
+    sub_id: 257001
+    id: 257
+    name: 루니샤?
+    sub_name: 루니샤?
+    type: 1
+    code: BossLunasia
+    introduce: 알맹이를 파내고 뒤틀린 사념으로 가득 채워진 그릇. 오리지널과 감쪽 같은 외모를 가졌다. 그 기대에 부응할 수 있다는 것을 증명하기 위해, 그녀는 흔들리지 않는 결심으로 자신에게 부여받은 역할을 연기한다.
+    forces: 3
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 지휘관님과 지금까지 함께해온 전우들이 마지막 장애물을 뛰어넘을 힘을 줄 거예요!
+    character: "1004"
+    enemy_skill: "269,270,271,272,273,274,275"
+    launch_time: 2016-5-20 00:00:00
+    spine_scale: "70,70,1"
   }
   {
     sub_id: 100001001

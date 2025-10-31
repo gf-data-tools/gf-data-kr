@@ -629,7 +629,6 @@
     medal_color: "#ff0000"
     is_date: "2"
     decorate_code: Logo_Events
-    if_elite_medal: "1"
   }
   {
     id: "53"
@@ -639,6 +638,18 @@
     appearance_id: "296,297,298,299,300,301,302,303,304,305,306,307"
     item_id: "152"
     medal_obtain: 신규 점수 전역 베티수RE의 모든 도전을 달성한 지휘관에게 수여
+    medal_color: "#ff0000"
+    is_date: "2"
+    decorate_code: Logo_Events
+  }
+  {
+    id: "54"
+    name: 해안습광 훈장
+    order: "46"
+    evo_step: "1"
+    appearance_id: "282"
+    item_id: "153"
+    medal_obtain: "[양자요동] 이벤트에서 모든 전역 도전을 마친 지휘관에게 수여."
     medal_color: "#ff0000"
     is_date: "2"
     decorate_code: Logo_Events

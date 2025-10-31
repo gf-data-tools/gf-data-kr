@@ -6089,6 +6089,235 @@
     is_still_alive: 1
   }
   {
+    id: 780000
+    name: 지휘관
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 780000
+    priority: 1
+    carry_mission_skill: "780011,780012,780013,780014,780015,780016"
+    sangvis_chip_id: "4001"
+  }
+  {
+    id: 780001
+    name: 기초 전투 스킬 모듈
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 780001
+    priority: 1
+    carry_mission_skill: "780023,780024,780025,780026"
+  }
+  {
+    id: 780002
+    name: 골리앗 거치대
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 780002
+    priority: 1
+    carry_mission_skill: "780021"
+  }
+  {
+    id: 780003
+    name: 해킹 작업대
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 780003
+    priority: 1
+    carry_mission_skill: "780022"
+  }
+  {
+    id: 780004
+    name: 전투속행의 진수
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 780004
+    priority: 1
+    carry_mission_skill: "780020"
+  }
+  {
+    id: 780005
+    name: 기동전투의 진수
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    special_spot_config_id: 780005
+    conditions_type: "1"
+    conditions_time: 0-1
+    conflict_type: 780005
+    priority: 1
+  }
+  {
+    id: 780006
+    name: 극한 수비의 진수
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 780006
+    priority: 1
+    carry_mission_skill: "780017,780027"
+  }
+  {
+    id: 780007
+    name: 극한 기동의 진수
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    special_spot_config_id: 780007
+    conditions_type: "1"
+    conditions_time: 0-1
+    conflict_type: 780007
+    priority: 1
+  }
+  {
+    id: 780008
+    name: 극한 공격의 진수
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 780008
+    priority: 1
+    carry_mission_skill: "780018,780028"
+  }
+  {
+    id: 780009
+    name: 극한 관통의 진수
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 780009
+    priority: 1
+    carry_mission_skill: "780019,780029"
+  }
+  {
+    id: 780012
+    name: 전자 차폐
+    type: 1
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 780012
+    priority: 1
+  }
+  {
+    id: 780013
+    name: 필중
+    description: 1턴 동안 명중 +999
+    code: Chasing_AIm
+    type: 1
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 450309
+    conflict_type: 780013
+    priority: 1
+  }
+  {
+    id: 780014
+    name: 번뜩임
+    description: 다음 전투에서 회피 +999
+    code: apc556
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 450310
+    conflict_type: 780014
+    priority: 1
+  }
+  {
+    id: 780015
+    name: 열혈
+    description: 다음 전투에서 화력 +100%
+    code: m190
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 450311
+    conflict_type: 780015
+    priority: 1
+  }
+  {
+    id: 780016
+    name: 철벽
+    description: 1턴 동안 장갑 +30
+    code: armorBuffSelf
+    type: 1
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 450312
+    conflict_type: 780016
+    priority: 1
+  }
+  {
+    id: 780017
+    name: 불굴
+    description: 다음 전투에서 받는 피해 -75%
+    code: Invincible
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 450313
+    conflict_type: 780017
+    priority: 1
+  }
+  {
+    id: 780018
+    name: 혼
+    description: 다음 전투에서 화력 +120%
+    code: BossArchitect1
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 450314
+    conflict_type: 780018
+    priority: 1
+  }
+  {
+    id: 780019
+    name: 직격
+    description: 다음 전투에서 적의 역장 제거
+    code: assess202309_14
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 450315
+    conflict_type: 780019
+    priority: 1
+  }
+  {
+    id: 780020
+    name: 레벨 2 플랫폼의 댄들라이
+    description: 강인무적
+    code: 561mod
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 780020
+    priority: 1
+    is_still_alive: 1
+  }
+  {
     id: 910630
     name: 보호막
     description: 보호막 증폭 중
