@@ -569,6 +569,10 @@ patch3081=
 "3081/DeploymentUIController",
 "3081/Probability",
 "3071/ServerInfo",
+"3081/ObtainController",
+"3081/ObtainDetailItemCtrl",
+"3081/CommonObtainMessageBoxController",
+"3081/MissionSelectionCampaignSelectButtonController",
 "3071/MallController",
 "3081/SpecialActivityController",
 }
