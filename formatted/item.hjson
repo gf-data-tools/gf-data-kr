@@ -17017,6 +17017,33 @@
     rank: 1
   }
   {
+    id: 2736
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season22_1
+    item_name: 옭매인 싹 · Code End: 퇴상
+    introduction: 옭매인 싹 · Code End: 퇴상
+    rank: 1
+  }
+  {
+    id: 2737
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season22_2
+    item_name: 유리감옥 · Code End: 퇴상
+    introduction: 유리감옥 · Code End: 퇴상
+    rank: 1
+  }
+  {
+    id: 2738
+    type: 5
+    arg: "1"
+    code: profilePic_ChessFlight_season22_3
+    item_name: 영원한 꽃 · Code End: 퇴상
+    introduction: 영원한 꽃 · Code End: 퇴상
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -22338,6 +22365,15 @@
     id: 110079
     type: 4
     arg: "110079"
+    code: PT
+    item_name: 이벤트 점수
+    introduction: 이벤트 점수
+    rank: 1
+  }
+  {
+    id: 110080
+    type: 4
+    arg: "110080"
     code: PT
     item_name: 이벤트 점수
     introduction: 이벤트 점수
@@ -28248,6 +28284,17 @@
     code: Bumdle_ChristmasCoupons3
     item_name: 로얄 코스튬 쿠폰·성탄절
     introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 원하는 코스튬을 하나 골라 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500293
+    type: 15
+    arg: "1500293"
+    code: package_choose
+    item_name: 16Lab 5성 장비 선택 박스
+    introduction: 창고에서 사용하여 지정 범위 내 16Lab 5성 장비를 하나 골라 얻을 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1

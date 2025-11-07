@@ -10115,6 +10115,7 @@
     fit_gun: 402
     voice: 4
     dialog: 딸기무스 사러 온 거야//C 지휘관? 역시 내 예상대로네, 그래서 미리 사놨단 말씀! 포상은... 지휘관의 미소를 받을게!
+    gift_position: "-109.3,166"
     order: 140
   }
   {
@@ -10279,6 +10280,7 @@
     fit_gun: 55
     voice: 4
     dialog: 이 길을 걷다보면 망연함이 느껴질 때가 있어요... 하지만 당신의 모습을 따라가면 방향을 잃을 일은 결코 없어요.
+    illustrator_cv: --,Tomatsu Haruka,
     order: 161
     class_id: 99
   }

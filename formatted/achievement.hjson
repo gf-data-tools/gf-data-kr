@@ -18193,4 +18193,43 @@
     sort: 342
     icon_code: 更新世界锋芒
   }
+  {
+    identity: 1272
+    type: c_mission
+    count: 1
+    title: 침묵의 고별
+    content: 상시 이벤트 [로슈 한계] 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "11916"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.7
+  }
+  {
+    identity: 1273
+    type: c_mission
+    count: 1
+    title: 신셰계를 향해
+    content: 상시 이벤트 [허입자쌍] 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "11945"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.8
+  }
+  {
+    identity: 1274
+    type: c_mission
+    count: 1
+    title: No Why
+    content: 상시 이벤트 [양자요동] 클리어.
+    type_sort: 100
+    sort: 334
+    condition: "11985"
+    if_steam: 1
+    if_hidden: 1
+    steam_code: c_mission_15.9
+  }
 ]

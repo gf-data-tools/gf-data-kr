@@ -577,4 +577,22 @@
     group_skill: 2:1009303
     fit_gun: "20178"
   }
+  {
+    id: 65
+    name: 정의의 사도
+    des: VSK-94에게 맞춤 제작된 세트. 어떠한 불법 분자도 그녀의 제제를 피할 수 없다.
+    code: EgroupVSK94
+    equip_unit: "474,0,354"
+    group_skill: 2:1009603
+    fit_gun: "312"
+  }
+  {
+    id: 66
+    name: 빛을 향한 마음
+    des: 리베롤에게 맞춤 제작된 세트. 부디 그녀가 그늘에서 벗어나 빛에 있기를.
+    code: EgroupRibeyrolles
+    equip_unit: "261,0,475"
+    group_skill: 2:1009703
+    fit_gun: "20171"
+  }
 ]

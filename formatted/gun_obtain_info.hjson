@@ -581,6 +581,10 @@
     description: 상시 이벤트 【세로변형】에서 구출
   }
   {
+    obtain_id: "431"
+    description: 상시 이벤트 【만성쇼크】에서 구조.
+  }
+  {
     obtain_id: "502"
     description: 상시 이벤트 【난류연속】 랭킹 전역 보상
   }
@@ -1456,5 +1460,29 @@
   {
     obtain_id: "3136"
     description: 기간한정 이벤트 <유유한 가을> 출석 보상
+  }
+  {
+    obtain_id: "3137"
+    description: 2026년 1월 출석 보상
+  }
+  {
+    obtain_id: "3138"
+    description: 2026년 2월 출석 보상
+  }
+  {
+    obtain_id: "3139"
+    description: 2026년 3월 출석 보상
+  }
+  {
+    obtain_id: "3140"
+    description: 2026년 4월 출석 보상
+  }
+  {
+    obtain_id: "3141"
+    description: 2026년 5월 출석 보상
+  }
+  {
+    obtain_id: "3142"
+    description: 2026년 6월 출석 보상
   }
 ]
