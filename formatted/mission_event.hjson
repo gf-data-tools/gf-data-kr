@@ -350,25 +350,17 @@
   }
   {
     id: 55
-    type: 1
+    type: 2
     mission_campaign: "-71"
     event_name: 은염색 현상
-    draw_event_id: "400,401,402,403,404"
-    start_time: 2025-05-09 15:00:00
-    end_time: 2025-05-30 15:00:00
     init_mission_id: "11730"
-    token_item_id: "100267"
   }
   {
     id: 56
-    type: 1
+    type: 2
     mission_campaign: "-72"
     event_name: 고립된 숲
-    draw_event_id: "400,401,402,403,404"
-    start_time: 2025-06-06 15:00:00
-    end_time: 2025-06-27 15:00:00
     init_mission_id: "11762"
-    token_item_id: "100276"
   }
   {
     id: 57
