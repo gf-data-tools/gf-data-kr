@@ -37482,6 +37482,892 @@
     equip_ids: "49,50,81,82,95,96,109,110,120,121"
   }
   {
+    id: 13266
+    name: 십일절 구매토큰 특가 패키지
+    gem: 300
+    item_ids: 41-200
+    gift: 100003-5
+    icon: Bumdle_double112017
+  }
+  {
+    id: 13267
+    name: 십일절 구매토큰 특혜 박스
+    gem: 80
+    item_ids: 41-80
+    gift: 100003-5
+    icon: Bumdle_double112025
+  }
+  {
+    id: 13268
+    name: 십일절 서약 특가 패키지
+    item_ids: 7-4
+    icon: Bumdle_double1120212
+  }
+  {
+    id: 13269
+    name: 십일절 협력의뢰서 특가 패키지
+    item_ids: 605-20,514-500,506-1000
+    gift: 400001-500,100003-10
+    icon: Bumdle_double112021
+  }
+  {
+    id: 13270
+    name: 레어 코스튬 쿠폰·신정
+    item_ids: 1500294-1
+    icon: Bumdle_JPnewyear1
+  }
+  {
+    id: 13271
+    name: 럭셔리 코스튬 쿠폰·신정
+    item_ids: 1500295-1
+    icon: Bumdle_JPnewyear2
+  }
+  {
+    id: 13272
+    name: 로열 코스튬 쿠폰·신정
+    item_ids: 1500296-1
+    icon: Bumdle_JPnewyear3
+  }
+  {
+    id: 13273
+    name: 로열 코스튬 쿠폰·신정
+    gift: 2901-1,4101-1,5402-1,6701-1,7902-1,10004-1
+  }
+  {
+    id: 13274
+    name: APC556 - 푸른 달 보라빛 덩굴
+    gift: 10005-1
+  }
+  {
+    id: 13275
+    name: HK45 - 감귤 향기
+    gift: 10007-1
+  }
+  {
+    id: 13276
+    name: M1 개런드 - 겨울 사슴 소리
+    gift: 10008-1
+  }
+  {
+    id: 13277
+    name: C14 - 세신박사
+    gift: 10006-1
+  }
+  {
+    id: 13278
+    name: Kar98k - 여우신님의 축복
+    gift: 10001-1
+  }
+  {
+    id: 13279
+    name: M110 - 어혼 사방홍
+    gift: 10002-1
+  }
+  {
+    id: 13280
+    name: PTRD - 깊은 밤 촛불
+    gift: 10104-1
+  }
+  {
+    id: 13281
+    name: AS Val - 시냇물에 흩날리는 꽃잎
+    gift: 10106-1
+  }
+  {
+    id: 13282
+    name: PP-19 - 바람에 눈꽃 흩날려
+    gift: 10105-1
+  }
+  {
+    id: 13283
+    name: Bren ten - 잉어로운 한해
+    gift: 10107-1
+  }
+  {
+    id: 13284
+    name: SCR - 서리 바람의 노래
+    gift: 10102-1
+  }
+  {
+    id: 13285
+    name: SPAS-12 - 새해 대박 기원
+    gift: 10103-1
+  }
+  {
+    id: 13286
+    name: QBU-191 - 그 향을 찾아서
+    gift: 10108-1
+  }
+  {
+    id: 13287
+    name: 레어 코스튬 쿠폰·설날
+    item_ids: 1500297-1
+    icon: Bumdle_SpringFestivalCoupons1
+  }
+  {
+    id: 13288
+    name: 럭셔리 코스튬 쿠폰·설날
+    item_ids: 1500298-1
+    icon: Bumdle_SpringFestivalCoupons2
+  }
+  {
+    id: 13289
+    name: 로열 코스튬 쿠폰·설날
+    item_ids: 1500299-1
+    icon: Bumdle_SpringFestivalCoupons3
+  }
+  {
+    id: 13290
+    name: 로열 코스튬 쿠폰·설날
+    gift: 405-1,1801-1,3001-1,4201-1,4202-1,5501-1,6801-1,8003-1,10101-1
+  }
+  {
+    id: 13291
+    name: G3 - 마일드 스칼렛
+    gift: 10209-1
+  }
+  {
+    id: 13292
+    name: G43 - 광영의 춤
+    gift: 10210-1
+  }
+  {
+    id: 13293
+    name: HK433 - 해질녘의 헤메라의 창
+    gift: 10202-1
+  }
+  {
+    id: 13294
+    name: K2 - 꽃 아래에 둘이서
+    gift: 10207-1
+  }
+  {
+    id: 13295
+    name: X95 - 에이레네의 속삭임
+    gift: 10205-1
+  }
+  {
+    id: 13296
+    name: Erma - 달밑 천사의 눈물
+    gift: 10201-1
+  }
+  {
+    id: 13297
+    name: 류 소총 - 맑은 목소리 솔직한 마음
+    gift: 10204-1
+  }
+  {
+    id: 13298
+    name: Saiga-12 - 물속의 여린 그림자
+    gift: 10208-1
+  }
+  {
+    id: 13299
+    name: 레어 코스튬 쿠폰·웨딩
+    item_ids: 1500300-1
+    icon: Bumdle_WhiteValentineCoupons1
+  }
+  {
+    id: 13300
+    name: 럭셔리 코스튬 쿠폰·웨딩
+    item_ids: 1500301-1
+    icon: Bumdle_WhiteValentineCoupons2
+  }
+  {
+    id: 13301
+    name: 로열 코스튬 쿠폰·웨딩
+    item_ids: 1500302-1
+    icon: Bumdle_WhiteValentineCoupons3
+  }
+  {
+    id: 13302
+    name: 로열 코스튬 쿠폰·웨딩
+    gift: 604-1,1901-1,3101-1,4301-1,4302-1,5602-1,5603-1,6901-1,8101-1,10203-1
+  }
+  {
+    id: 13303
+    name: SSG3000 - 천사소녀의 선물
+    gift: 10505-1
+  }
+  {
+    id: 13304
+    name: ZiP.22 - 두근거리는 밤
+    gift: 10506-1
+  }
+  {
+    id: 13305
+    name: 나강 리볼버 - 괴도 사학자
+    gift: 10507-1
+  }
+  {
+    id: 13306
+    name: MP5 - 직감, 그 이름 빨강
+    gift: 10606-1
+  }
+  {
+    id: 13307
+    name: MK23 - 법의사 냥다이크
+    gift: 10607-1
+  }
+  {
+    id: 13308
+    name: 9A-91 - 샴페인 백시트
+    gift: 10605-1
+  }
+  {
+    id: 13309
+    name: APC556 - 약진 나이트
+    gift: 10704-1
+  }
+  {
+    id: 13310
+    name: MP41 - 크래셔 폰
+    gift: 10706-1
+  }
+  {
+    id: 13311
+    name: IDW - 냥이 철퇴
+    gift: 10707-1
+  }
+  {
+    id: 13312
+    name: C14 - 명계의 피안화
+    gift: 10907-1
+  }
+  {
+    id: 13313
+    name: Mk 12 - 보이드 팬텀
+    gift: 11006-1
+  }
+  {
+    id: 13314
+    name: 토카레프 - 레이븐 섀도우
+    gift: 11007-1
+  }
+  {
+    id: 13315
+    name: 드 라일 - 문라이트 매지션
+    gift: 10504-1
+  }
+  {
+    id: 13316
+    name: P2000 - 스위트 하트 캡터
+    gift: 10502-1
+  }
+  {
+    id: 13317
+    name: SIG MCX - 암흑봉인
+    gift: 10503-1
+  }
+  {
+    id: 13318
+    name: LAMG - 페릭 시가
+    gift: 10602-1
+  }
+  {
+    id: 13319
+    name: KH2002 - 야간방문 부엉이
+    gift: 10603-1
+  }
+  {
+    id: 13320
+    name: AUG Para - 클로브 티켓
+    gift: 10604-1
+  }
+  {
+    id: 13321
+    name: AUG - 스칼렛 엠프리스
+    gift: 10701-1
+  }
+  {
+    id: 13322
+    name: P7 - 신탁 수호자
+    gift: 10705-1
+  }
+  {
+    id: 13323
+    name: 라이노 - 캐슬링 룩
+    gift: 10702-1
+  }
+  {
+    id: 13324
+    name: M1887 - 핏빛 가시덩굴
+    gift: 10902-1
+  }
+  {
+    id: 13325
+    name: SPAS-15 - 판의 속삭임
+    gift: 10903-1
+  }
+  {
+    id: 13326
+    name: HS.50 - 심해의 저승사자
+    gift: 10901-1
+  }
+  {
+    id: 13327
+    name: SR-2 - 살무사 키스
+    gift: 10904-1
+  }
+  {
+    id: 13328
+    name: 웰로드 MkⅡ - 꼭두각시 아리아
+    gift: 10905-1
+  }
+  {
+    id: 13329
+    name: ZB-26 - 악몽 만화경
+    gift: 11004-1
+  }
+  {
+    id: 13330
+    name: 콜트 M1851N - 풍양 자장가
+    gift: 11005-1
+  }
+  {
+    id: 13331
+    name: Kar98k - 순백의 제사
+    gift: 11002-1
+  }
+  {
+    id: 13332
+    name: 보이스 - 헬게이트 위치
+    gift: 11001-1
+  }
+  {
+    id: 13333
+    name: 레어 코스튬 쿠폰·원더랜드
+    item_ids: 1500303-1
+    icon: Bumdle_FantasyCoupons1
+  }
+  {
+    id: 13334
+    name: 럭셔리 코스튬 쿠폰·원더랜드
+    item_ids: 1500304-1
+    icon: Bumdle_FantasyCoupons2
+  }
+  {
+    id: 13335
+    name: 로열 코스튬 쿠폰·원더랜드
+    item_ids: 1500305-1
+    icon: Bumdle_FantasyCoupons3
+  }
+  {
+    id: 13336
+    name: 로열 코스튬 쿠폰·원더랜드
+    gift: 1501-1,2301-1,3701-1,4802-1,4904-1,5702-1,6202-1,6503-1,7406-1,7407-1,7706-1,8203-1,8701-1,10501-1,10601-1,10703-1,10906-1,11003-1
+  }
+  {
+    id: 13337
+    name: 6P62 - 세월의 악장
+  }
+  {
+    id: 13338
+    name: M2HB - 파티 숨돌리기
+  }
+  {
+    id: 13339
+    name: HK21 - 빨라지는 두근거림
+  }
+  {
+    id: 13340
+    name: 97식 - 새들의 소리
+  }
+  {
+    id: 13341
+    name: TAC-50 - 메이플 샴페인
+  }
+  {
+    id: 13342
+    name: Vector - 잠깐의 심취
+  }
+  {
+    id: 13343
+    name: ART556 - 여우숲 세레나데
+  }
+  {
+    id: 13344
+    name: FO-12 - 스위트 레스큐
+  }
+  {
+    id: 13345
+    name: 레어 코스튬 쿠폰·주년
+    item_ids: 1500306-1
+    icon: Bumdle_AnniversaryCoupons1
+  }
+  {
+    id: 13346
+    name: 럭셔리 코스튬 쿠폰·주년
+    item_ids: 1500307-1
+    icon: Bumdle_AnniversaryCoupons2
+  }
+  {
+    id: 13347
+    name: 로열 코스튬 쿠폰·주년
+    item_ids: 1500308-1
+    icon: Bumdle_AnniversaryCoupons3
+  }
+  {
+    id: 13348
+    name: 로열 코스튬 쿠폰·주년
+    gift: 805-1,2102-1,2101-1,3301-1,4501-1,4510-1,563-1,551-1,5805-1,5802-1,7101-1,7106-1,8301-1,10407-1
+  }
+  {
+    id: 13349
+    name: 레어 코스튬 쿠폰·어린이
+    item_ids: 1500309-1
+    icon: Bumdle_ChildrenDayCoupons1
+  }
+  {
+    id: 13350
+    name: 럭셔리 코스튬 쿠폰·어린이
+    item_ids: 1500310-1
+    icon: Bumdle_ChildrenDayCoupons2
+  }
+  {
+    id: 13351
+    name: 로열 코스튬 쿠폰·어린이
+    item_ids: 1500311-1
+    icon: Bumdle_ChildrenDayCoupons3
+  }
+  {
+    id: 13352
+    name: 레어 코스튬 쿠폰·써머
+    item_ids: 1500312-1
+    icon: Bumdle_SummerdayCoupons1
+  }
+  {
+    id: 13353
+    name: 럭셔리 코스튬 쿠폰·써머
+    item_ids: 1500313-1
+    icon: Bumdle_SummerdayCoupons2
+  }
+  {
+    id: 13354
+    name: 로열 코스튬 쿠폰·써머
+    item_ids: 1500314-1
+    icon: Bumdle_SummerdayCoupons3
+  }
+  {
+    id: 13355
+    name: 표도로프 - 박하색 입김
+    gift: 10305-1
+  }
+  {
+    id: 13356
+    name: PP-90 - 등불 밑 자장가
+    gift: 10306-1
+  }
+  {
+    id: 13357
+    name: Mk48 - 연애뇌 메이커
+    gift: 10304-1
+  }
+  {
+    id: 13358
+    name: CZ52 - 까마귀 퇴치 마녀
+    gift: 10307-1
+  }
+  {
+    id: 13359
+    name: RMB-93 - 라즈베리에 취한 밤
+    gift: 10807-1
+  }
+  {
+    id: 13360
+    name: MP40 - 스페이드 샴페인
+    gift: 10808-1
+  }
+  {
+    id: 13361
+    name: 56-1식 - 찹쌀향 베일리
+    gift: 10806-1
+  }
+  {
+    id: 13362
+    name: TPS - 심장 멈추기 놀이
+    gift: 10301-1
+  }
+  {
+    id: 13363
+    name: 97식 산탄총 - 자백제 어뷰저
+    gift: 10303-1
+  }
+  {
+    id: 13364
+    name: JS 9 - 파르페 마티니
+    gift: 10802-1
+  }
+  {
+    id: 13365
+    name: FM24 - 황금빛 만남을 위하여
+    gift: 10801-1
+  }
+  {
+    id: 13366
+    name: SR-3MP - 건 앤 로즈 세레모니
+    gift: 10805-1
+  }
+  {
+    id: 13367
+    name: 레어 코스튬 쿠폰·어반 패션
+    item_ids: 1500315-1
+    icon: Bumdle_UrbanBeautyCoupons1
+  }
+  {
+    id: 13368
+    name: 럭셔리 코스튬 쿠폰·어반 패션
+    item_ids: 1500316-1
+    icon: Bumdle_UrbanBeautyCoupons2
+  }
+  {
+    id: 13369
+    name: 로열 코스튬 쿠폰·어반 패션
+    item_ids: 1500317-1
+    icon: Bumdle_UrbanBeautyCoupons3
+  }
+  {
+    id: 13370
+    name: 로열 코스튬 쿠폰·어반 패션
+    gift: 1202-1,3901-1,5201-1,6302-1,7501-1,8601-1,8610-1,10302-1,10803-1
+  }
+  {
+    id: 13371
+    name: 레어 코스튬 쿠폰·핼러윈
+    item_ids: 1500318-1
+    icon: Bumdle_HalloweenCoupons1
+  }
+  {
+    id: 13372
+    name: 럭셔리 코스튬 쿠폰·핼러윈
+    item_ids: 1500319-1
+    icon: Bumdle_HalloweenCoupons2
+  }
+  {
+    id: 13373
+    name: 로열 코스튬 쿠폰·핼러윈
+    item_ids: 1500320-1
+    icon: Bumdle_HalloweenCoupons3
+  }
+  {
+    id: 13374
+    name: EM-2 - 품으로 데운 향기
+    gift: 11105-1
+  }
+  {
+    id: 13375
+    name: 팔콘 - 서리 종소리
+    gift: 11106-1
+  }
+  {
+    id: 13376
+    name: M1911 - 달링 키친 래빗
+    gift: 11107-1
+  }
+  {
+    id: 13377
+    name: P50 - 리본에 흔들리는 별빛
+    gift: 11104-1
+  }
+  {
+    id: 13378
+    name: M99 - 달빛 바라보기
+    gift: 11102-1
+  }
+  {
+    id: 13379
+    name: MP7 - 순록 택배
+    gift: 11103-1
+  }
+  {
+    id: 13380
+    name: 레어 코스튬 쿠폰·성탄절
+    item_ids: 1500321-1
+    icon: Bumdle_ChristmasCoupons1
+  }
+  {
+    id: 13381
+    name: 럭셔리 코스튬 쿠폰·성탄절
+    item_ids: 1500322-1
+    icon: Bumdle_ChristmasCoupons2
+  }
+  {
+    id: 13382
+    name: 로열 코스튬 쿠폰·성탄절
+    item_ids: 1500323-1
+    icon: Bumdle_ChristmasCoupons3
+  }
+  {
+    id: 13383
+    name: 로열 코스튬 쿠폰·성탄절
+    gift: 310-1,1601-1,2801-1,4001-1,5302-1,6601-1,7801-1,9001-1,11101-1
+  }
+  {
+    id: 13384
+    name: ZiP .22 - 어스름 향기
+    gift: 11205-1
+  }
+  {
+    id: 13385
+    name: M37 - 후시미 여우신
+    gift: 11204-1
+  }
+  {
+    id: 13386
+    name: 아스트라 리볼버 - 매화꽃은 내 마음
+    gift: 11206-1
+  }
+  {
+    id: 13387
+    name: Savage 99 - 봄노을 유람기
+    gift: 11203-1
+  }
+  {
+    id: 13388
+    name: 콜트 파이슨 - 참 · 학 날개의 춤
+    gift: 11202-1
+  }
+  {
+    id: 13389
+    name: 레어 코스튬 쿠폰·신정
+    item_ids: 1500324-1
+    icon: Bumdle_JPnewyear1
+  }
+  {
+    id: 13390
+    name: 럭셔리 코스튬 쿠폰·신정
+    item_ids: 1500325-1
+    icon: Bumdle_JPnewyear2
+  }
+  {
+    id: 13391
+    name: 로열 코스튬 쿠폰·신정
+    item_ids: 1500326-1
+    icon: Bumdle_JPnewyear3
+  }
+  {
+    id: 13392
+    name: 로열 코스튬 쿠폰·신정
+    gift: 2901-1,4101-1,5402-1,6701-1,7902-1,10004-1,11201-1
+  }
+  {
+    id: 13393
+    name: A-91 - 술주정 향기
+    gift: 11307-1
+  }
+  {
+    id: 13394
+    name: M500 - 복 상자 도착이요
+    gift: 11308-1
+  }
+  {
+    id: 13395
+    name: Ak 5 - 단묵초
+    gift: 11306-1
+  }
+  {
+    id: 13396
+    name: 79식 - 현을 떠나
+    gift: 11304-1
+  }
+  {
+    id: 13397
+    name: C-MS - 맹장채
+    gift: 11305-1
+  }
+  {
+    id: 13398
+    name: M950A - 푸른 대나무의 노래
+    gift: 11302-1
+  }
+  {
+    id: 13399
+    name: Lusa - 검은 조롱박
+    gift: 11303-1
+  }
+  {
+    id: 13400
+    name: 레어 코스튬 쿠폰·설날
+    item_ids: 1500327-1
+    icon: Bumdle_SpringFestivalCoupons1
+  }
+  {
+    id: 13401
+    name: 럭셔리 코스튬 쿠폰·설날
+    item_ids: 1500328-1
+    icon: Bumdle_SpringFestivalCoupons2
+  }
+  {
+    id: 13402
+    name: 로열 코스튬 쿠폰·설날
+    item_ids: 1500329-1
+    icon: Bumdle_SpringFestivalCoupons3
+  }
+  {
+    id: 13403
+    name: 로열 코스튬 쿠폰·설날
+    gift: 405-1,1801-1,3001-1,4201-1,4202-1,5501-1,6801-1,8003-1,10101-1,11301-1
+  }
+  {
+    id: 13404
+    name: 9A-91 - 마음을 쏟아
+    gift: 11405-1
+  }
+  {
+    id: 13405
+    name: 나강 리볼버 - 영원한 맹세
+    gift: 11407-1
+  }
+  {
+    id: 13406
+    name: DSR-50 - 비밀 서약
+    gift: 11401-1
+  }
+  {
+    id: 13407
+    name: G41 - 성실한 꽃말
+    gift: 11402-1
+  }
+  {
+    id: 13408
+    name: MG5 - 서릿물에 피어난 꽃
+    gift: 11403-1
+  }
+  {
+    id: 13409
+    name: 레어 코스튬 쿠폰·웨딩
+    item_ids: 1500330-1
+    icon: Bumdle_WhiteValentineCoupons1
+  }
+  {
+    id: 13410
+    name: 럭셔리 코스튬 쿠폰·웨딩
+    item_ids: 1500331-1
+    icon: Bumdle_WhiteValentineCoupons2
+  }
+  {
+    id: 13411
+    name: 로열 코스튬 쿠폰·웨딩
+    item_ids: 1500332-1
+    icon: Bumdle_WhiteValentineCoupons3
+  }
+  {
+    id: 13412
+    name: 로열 코스튬 쿠폰·웨딩
+    gift: 604-1,1901-1,3101-1,4301-1,4302-1,5602-1,5603-1,6901-1,8101-1,10203-1,11406-1
+  }
+  {
+    id: 13413
+    name: TAR-21 - 푸른 연과 꽃방울
+    gift: 11505-1
+  }
+  {
+    id: 13414
+    name: Bren Ten - 스위트 드림 론도
+    gift: 11507-1
+  }
+  {
+    id: 13415
+    name: G43 - 모래시계 거울
+    gift: 11506-1
+  }
+  {
+    id: 13416
+    name: QBZ-191 - 검은 옷이 달을 껴안네
+    gift: 11503-1
+  }
+  {
+    id: 13417
+    name: 89식 소총 - 스페셜 브렌딩 타임
+    gift: 11508-1
+  }
+  {
+    id: 13418
+    name: 95식 - 유광소우
+    gift: 11502-1
+  }
+  {
+    id: 13419
+    name: SIG MCX - 핫핑크 펀치
+    gift: 11504-1
+  }
+  {
+    id: 13420
+    name: 레어 코스튬 쿠폰·주년
+    item_ids: 1500333-1
+    icon: Bumdle_AnniversaryCoupons1
+  }
+  {
+    id: 13421
+    name: 럭셔리 코스튬 쿠폰·주년
+    item_ids: 1500334-1
+    icon: Bumdle_AnniversaryCoupons2
+  }
+  {
+    id: 13422
+    name: 로열 코스튬 쿠폰·주년
+    item_ids: 1500335-1
+    icon: Bumdle_AnniversaryCoupons3
+  }
+  {
+    id: 13423
+    name: 로열 코스튬 쿠폰·주년
+    gift: 805-1,2102-1,2101-1,3301-1,4501-1,4510-1,563-1,551-1,5805-1,5802-1,7101-1,7106-1,8301-1,10407-1,11501-1
+  }
+  {
+    id: 13424
+    name: LWMMG - 지평선 바라보며
+    gift: 11605-1
+  }
+  {
+    id: 13425
+    name: 64식 - 방랑의 노래
+    gift: 11604-1
+  }
+  {
+    id: 13426
+    name: M2HB - 여명의 행군
+    gift: 11608-1
+  }
+  {
+    id: 13427
+    name: SCAR-H - 머무를 때
+    gift: 11601-1
+  }
+  {
+    id: 13428
+    name: G28 - 폴짝이는 신호
+    gift: 11606-1
+  }
+  {
+    id: 13429
+    name: NTW-20 - 신기루 속 사냥
+    gift: 11602-1
+  }
+  {
+    id: 13430
+    name: 레어 코스튬 쿠폰·어반 패션
+    item_ids: 1500336-1
+    icon: Bumdle_UrbanBeautyCoupons1
+  }
+  {
+    id: 13431
+    name: 럭셔리 코스튬 쿠폰·어반 패션
+    item_ids: 1500337-1
+    icon: Bumdle_UrbanBeautyCoupons2
+  }
+  {
+    id: 13432
+    name: 로열 코스튬 쿠폰·어반 패션
+    item_ids: 1500338-1
+    icon: Bumdle_UrbanBeautyCoupons3
+  }
+  {
+    id: 13433
+    name: 로열 코스튬 쿠폰·어반 패션
+    gift: 1202-1,3901-1,5201-1,6302-1,7501-1,8601-1,8610-1,10302-1,10803-1,11603-1
+  }
+  {
     id: 14101
     name: 중간 보상 - 장비 청1
     equip_ids: "2"
@@ -49999,6 +50885,38 @@
     part: 500
   }
   {
+    id: 37863
+    name: 23-낙원 붕괴-임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 37868
+    name: 27-수호의 노래-임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 37874
+    name: 23-낙원 붕괴EX-임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
+    id: 37879
+    name: 23-낙원 붕괴UX-임무 보상
+    mp: 500
+    ammo: 500
+    mre: 500
+    part: 500
+  }
+  {
     id: 40001
     name: 전술인형：톰슨
     gun_id: "16"
@@ -57185,6 +58103,100 @@
     part: 3500
     gem: 200
     fairy_ids: 39-757264
+  }
+  {
+    id: 40837
+    name: 단계적 보상I
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    gift: 200001-100
+    coins: 1-100,2-100
+    icon: Bumdle_black
+  }
+  {
+    id: 40838
+    name: 단계적 보상II
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    gem: 50
+    gift: 200001-100
+    coins: 1-200,2-200
+    icon: Bumdle_blue
+    fairy_ids: 26-0-100-5
+  }
+  {
+    id: 40839
+    name: 단계적 보상III
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gift: 200001-200
+    coins: 2-200,3-100
+    icon: Bumdle_brown
+  }
+  {
+    id: 40840
+    name: 단계적 보상IV
+    mp: 2000
+    ammo: 2000
+    mre: 2000
+    part: 2000
+    gem: 50
+    gift: 200001-200,400001-200
+    equip_ids: "437"
+    coins: 3-200
+    icon: Bumdle_purple
+  }
+  {
+    id: 40841
+    name: 단계적 보상V
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    item_ids: 514-150,515-150
+    gift: 400001-200
+    icon: Bumdle_red
+  }
+  {
+    id: 40842
+    name: 단계적 보상VI
+    mp: 3000
+    ammo: 3000
+    mre: 3000
+    part: 3000
+    gem: 100
+    item_ids: 514-250,515-250,516-200
+    icon: Bumdle_ruby
+    commander_uniform: "6133"
+  }
+  {
+    id: 40843
+    name: 단계적 보상VII
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    item_ids: 515-300,516-400
+    icon: Bumdle_white
+  }
+  {
+    id: 40844
+    name: 단계적 보상VIII
+    mp: 5000
+    ammo: 5000
+    mre: 5000
+    part: 5000
+    gem: 100
+    item_ids: 45-500
+    gift: 200001-500
+    icon: Bumdle_yellow
+    fairy_ids: 36-0
   }
   {
     id: 44001
@@ -65116,6 +66128,21 @@
     id: 150169
     name: 日常玩法-第32期-5星人形专属装备自选池子
     equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294,182,371,198,266,304,384,315,391,316,394,319,399,321,406,332,409,339,414,347,419,350,422,354,427,357,433,364,439,370,442,386,445,403,448,413,452,411,455,417,458,421,462,425,465,432,469,436,474"
+  }
+  {
+    id: 150170
+    name: 회색지대-제33기-5성 장비 선택 범위
+    equip_ids: "16,20,32,44,66,72,90"
+  }
+  {
+    id: 150171
+    name: 회색지대-제33기-4성이하 전용장비 선택
+    equip_ids: "211,337,338,342,343,348,248,351,352,355,242,358,359,365,366,368,369,264,372,374,375,216,385,246,390,250,393,218,398,94,407,265,410,276,415,259,420,288,423,108,428,341,434,353,440,367,443,373,446,376,449,392,453,395,456,397,459,408,463,418,466,426,470,438,475,444,484"
+  }
+  {
+    id: 150172
+    name: 회색지대-제33기-5성 전용장비 선택
+    equip_ids: "236,278,247,295,105,349,237,168,282,356,277,270,283,169,292,175,294,182,371,198,266,304,384,315,391,316,394,319,399,321,406,332,409,339,414,347,419,350,422,354,427,357,433,364,439,370,442,386,445,403,448,413,452,411,455,417,458,421,462,425,465,432,469,436,474,441,483"
   }
   {
     id: 200001
