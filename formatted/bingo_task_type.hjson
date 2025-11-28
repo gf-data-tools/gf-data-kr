@@ -45,7 +45,7 @@
     id: 8
     task_type: consume_equip_contract
     title: 장비&요정제조계약 소모
-    content: 장비&요정제조계약 {0}장 소모
+    content: 장비&요정제조계약 누적 {0}장 소모
   }
   {
     id: 9
@@ -57,7 +57,7 @@
     id: 10
     task_type: map_capture
     title: 일상 탐사
-    content: 회색 지대에서 지점을 {0}곳 점령한다.
+    content: 회색지대에서 타일을 {0}개 점령
   }
   {
     id: 11
@@ -170,14 +170,14 @@
   {
     id: 29
     task_type: daily_game_buff
-    title: 탐사 중의 만남
-    content: 회색 지대에서 전장효과를 {0}회 얻는다.
+    title: 탐사 기우
+    content: 회색지대에서 전장효과를 {0}회 획득
   }
   {
     id: 30
     task_type: operation_equip_contract
-    title: 군수보상 - 장비&요정제조계약
-    content: 군수작전으로 장비&요정제조계약 {0}장 획득
+    title: 작전 보상-장비&요정제조계약
+    content: 군수지원 보상으로 장비&요정제조계약 {0}장 획득
   }
   {
     id: 31
@@ -194,20 +194,20 @@
   {
     id: 33
     task_type: win_armorrobot
-    title: 장갑기계 철혈병
-    content: 장갑기계 철혈병 {0}기 처치
+    title: 장갑 기계 처치
+    content: 전투에서 승리하면서 적 장갑 기계 유닛을 {0}개 처치
   }
   {
     id: 34
     task_type: win_robot
-    title: 일반기계 철혈병
-    content: 일반기계 철혈병 {0}기 처치
+    title: 일반 기계 처치
+    content: 전투에서 승리하면서 적 일반 기계 유닛을 {0}개 처치
   }
   {
     id: 35
     task_type: win_person
-    title: 일반인형 철혈병
-    content: 일반인형 철혈병 {0}기 처치
+    title: 일반 인형 처치
+    content: 전투에서 승리하면서 적 일반 인형 유닛을 {0}개 처치
   }
   {
     id: 36
@@ -770,7 +770,7 @@
   {
     id: 129
     task_type: special_develop_fairy
-    title: 요정중형제조
-    content: 요정중형제조 {0}회
+    title: 요정 제조
+    content: 요정 제조 {0}회
   }
 ]

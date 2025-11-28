@@ -17044,6 +17044,150 @@
     rank: 1
   }
   {
+    id: 2739
+    type: 5
+    arg: "1"
+    code: profilePic_202511_88type
+    item_name: 한양조 88식 - 마음의 모양
+    introduction: 한양조 88식 - 마음의 모양
+    rank: 1
+  }
+  {
+    id: 2740
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Brute
+    item_name: 아이콘: 브루트-HD
+    introduction: 아이콘: 브루트-HD
+    rank: 1
+  }
+  {
+    id: 2741
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Dragoon
+    item_name: 아이콘: 드라군-HD
+    introduction: 아이콘: 드라군-HD
+    rank: 1
+  }
+  {
+    id: 2742
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Guard_SWAP
+    item_name: 아이콘: 가드SWAP-HD
+    introduction: 아이콘: 가드SWAP-HD
+    rank: 1
+  }
+  {
+    id: 2743
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Ripper_SWAP
+    item_name: 아이콘: 리퍼SWAP-HD
+    introduction: 아이콘: 리퍼SWAP-HD
+    rank: 1
+  }
+  {
+    id: 2744
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Dragoon_SWAP
+    item_name: 아이콘: 드라군SWAP-HD
+    introduction: 아이콘: 드라군SWAP-HD
+    rank: 1
+  }
+  {
+    id: 2745
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Ripper
+    item_name: 아이콘: 리퍼-HD
+    introduction: 아이콘: 리퍼-HD
+    rank: 1
+  }
+  {
+    id: 2746
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Vespid
+    item_name: 아이콘: 베스피드-HD
+    introduction: 아이콘: 베스피드-HD
+    rank: 1
+  }
+  {
+    id: 2747
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Guard
+    item_name: 아이콘: 가드-HD
+    introduction: 아이콘: 가드-HD
+    rank: 1
+  }
+  {
+    id: 2748
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Jaeger
+    item_name: 아이콘: 예거-HD
+    introduction: 아이콘: 예거-HD
+    rank: 1
+  }
+  {
+    id: 2749
+    type: 5
+    arg: "1"
+    code: profilePic_sangvis_Striker
+    item_name: 아이콘: 스트라이커-HD
+    introduction: 아이콘: 스트라이커-HD
+    rank: 1
+  }
+  {
+    id: 2750
+    type: 5
+    arg: "1"
+    code: profilePic_TacticalAcademy_Type64-AR
+    item_name: 64식 소총 - 견습 특채생
+    introduction: 64식 소총 - 견습 특채생
+    rank: 1
+  }
+  {
+    id: 2751
+    type: 5
+    arg: "1"
+    code: profilePic_TacticalAcademy_UKM2000
+    item_name: UKM-2000 - 오컬트 전도사
+    introduction: UKM-2000 - 오컬트 전도사
+    rank: 1
+  }
+  {
+    id: 2752
+    type: 5
+    arg: "1"
+    code: profilePic_TacticalAcademy_Tabuk
+    item_name: 타부크 - 균형의 감사관
+    introduction: 타부크 - 균형의 감사관
+    rank: 1
+  }
+  {
+    id: 2753
+    type: 5
+    arg: "1"
+    code: profilePic_TacticalAcademy_CETME556
+    item_name: Model L - 올라운드 우등생
+    introduction: Model L - 올라운드 우등생
+    rank: 1
+  }
+  {
+    id: 2754
+    type: 5
+    arg: "1"
+    code: profilePic_TacticalAcademy_Z62
+    item_name: Z-62 - 계율 선도부
+    introduction: Z-62 - 계율 선도부
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -18806,6 +18950,15 @@
     id: 10734
     type: 18
     arg: "10734"
+    code: daily_points
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
+    rank: 1
+  }
+  {
+    id: 10735
+    type: 18
+    arg: "10735"
     code: daily_points
     item_name: 회색지대 점수
     introduction: 회색지대 점수
@@ -28295,6 +28448,594 @@
     code: package_choose
     item_name: 16Lab 5성 장비 선택 박스
     introduction: 창고에서 사용하여 지정 범위 내 16Lab 5성 장비를 하나 골라 얻을 수 있습니다.
+    rank: 5
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500294
+    type: 15
+    arg: "1500294"
+    code: Bumdle_JPnewyear1
+    item_name: 레어 코스튬 쿠폰·신정
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500295
+    type: 15
+    arg: "1500295"
+    code: Bumdle_JPnewyear2
+    item_name: 럭셔리 코스튬 쿠폰·신정
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500296
+    type: 15
+    arg: "1500296"
+    code: Bumdle_JPnewyear3
+    item_name: 로열 코스튬 쿠폰·신정
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 원하는 코스튬을 하나 골라 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500297
+    type: 15
+    arg: "1500297"
+    code: Bumdle_SpringFestivalCoupons1
+    item_name: 레어 코스튬 쿠폰·설날
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500298
+    type: 15
+    arg: "1500298"
+    code: Bumdle_SpringFestivalCoupons2
+    item_name: 럭셔리 코스튬 쿠폰·설날
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500299
+    type: 15
+    arg: "1500299"
+    code: Bumdle_SpringFestivalCoupons3
+    item_name: 로열 코스튬 쿠폰·설날
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 원하는 코스튬을 하나 골라 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500300
+    type: 15
+    arg: "1500300"
+    code: Bumdle_WhiteValentineCoupons1
+    item_name: 레어 코스튬 쿠폰·웨딩
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500301
+    type: 15
+    arg: "1500301"
+    code: Bumdle_WhiteValentineCoupons2
+    item_name: 럭셔리 코스튬 쿠폰·웨딩
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500302
+    type: 15
+    arg: "1500302"
+    code: Bumdle_WhiteValentineCoupons3
+    item_name: 로열 코스튬 쿠폰·웨딩
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 원하는 코스튬을 하나 골라 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500303
+    type: 15
+    arg: "1500303"
+    code: Bumdle_FantasyCoupons1
+    item_name: 레어 코스튬 쿠폰·원더랜드
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500304
+    type: 15
+    arg: "1500304"
+    code: Bumdle_FantasyCoupons2
+    item_name: 럭셔리 코스튬 쿠폰·원더랜드
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500305
+    type: 15
+    arg: "1500305"
+    code: Bumdle_FantasyCoupons3
+    item_name: 로열 코스튬 쿠폰·원더랜드
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 원하는 코스튬을 하나 골라 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500306
+    type: 15
+    arg: "1500306"
+    code: Bumdle_AnniversaryCoupons1
+    item_name: 레어 코스튬 쿠폰·주년
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500307
+    type: 15
+    arg: "1500307"
+    code: Bumdle_AnniversaryCoupons2
+    item_name: 럭셔리 코스튬 쿠폰·주년
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500308
+    type: 15
+    arg: "1500308"
+    code: Bumdle_AnniversaryCoupons3
+    item_name: 로열 코스튬 쿠폰·주년
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 원하는 코스튬을 하나 골라 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500309
+    type: 15
+    arg: "1500309"
+    code: Bumdle_ChildrenDayCoupons1
+    item_name: 레어 코스튬 쿠폰·어린이
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500310
+    type: 15
+    arg: "1500310"
+    code: Bumdle_ChildrenDayCoupons2
+    item_name: 럭셔리 코스튬 쿠폰·어린이
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500311
+    type: 15
+    arg: "1500311"
+    code: Bumdle_ChildrenDayCoupons3
+    item_name: 로열 코스튬 쿠폰·어린이
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 원하는 코스튬을 하나 골라 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500312
+    type: 15
+    arg: "1500312"
+    code: Bumdle_SummerdayCoupons1
+    item_name: 레어 코스튬 쿠폰·써머
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500313
+    type: 15
+    arg: "1500313"
+    code: Bumdle_SummerdayCoupons2
+    item_name: 럭셔리 코스튬 쿠폰·써머
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500314
+    type: 15
+    arg: "1500314"
+    code: Bumdle_SummerdayCoupons3
+    item_name: 로열 코스튬 쿠폰·써머
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 원하는 코스튬을 하나 골라 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500315
+    type: 15
+    arg: "1500315"
+    code: Bumdle_UrbanBeautyCoupons1
+    item_name: 레어 코스튬 쿠폰·어반 패션
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500316
+    type: 15
+    arg: "1500316"
+    code: Bumdle_UrbanBeautyCoupons2
+    item_name: 럭셔리 코스튬 쿠폰·어반 패션
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500317
+    type: 15
+    arg: "1500317"
+    code: Bumdle_UrbanBeautyCoupons3
+    item_name: 로열 코스튬 쿠폰·어반 패션
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 원하는 코스튬을 하나 골라 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500318
+    type: 15
+    arg: "1500318"
+    code: Bumdle_HalloweenCoupons1
+    item_name: 레어 코스튬 쿠폰·핼러윈
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500319
+    type: 15
+    arg: "1500319"
+    code: Bumdle_HalloweenCoupons2
+    item_name: 럭셔리 코스튬 쿠폰·핼러윈
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500320
+    type: 15
+    arg: "1500320"
+    code: Bumdle_HalloweenCoupons3
+    item_name: 로열 코스튬 쿠폰·핼러윈
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 원하는 코스튬을 하나 골라 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500321
+    type: 15
+    arg: "1500321"
+    code: Bumdle_ChristmasCoupons1
+    item_name: 레어 코스튬 쿠폰·성탄절
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500322
+    type: 15
+    arg: "1500322"
+    code: Bumdle_ChristmasCoupons2
+    item_name: 럭셔리 코스튬 쿠폰·성탄절
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500323
+    type: 15
+    arg: "1500323"
+    code: Bumdle_ChristmasCoupons3
+    item_name: 로열 코스튬 쿠폰·성탄절
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 원하는 코스튬을 하나 골라 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500324
+    type: 15
+    arg: "1500324"
+    code: Bumdle_JPnewyear1
+    item_name: 레어 코스튬 쿠폰·신정
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500325
+    type: 15
+    arg: "1500325"
+    code: Bumdle_JPnewyear2
+    item_name: 럭셔리 코스튬 쿠폰·신정
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500326
+    type: 15
+    arg: "1500326"
+    code: Bumdle_JPnewyear3
+    item_name: 로열 코스튬 쿠폰·신정
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 원하는 코스튬을 하나 골라 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500327
+    type: 15
+    arg: "1500327"
+    code: Bumdle_SpringFestivalCoupons1
+    item_name: 레어 코스튬 쿠폰·설날
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500328
+    type: 15
+    arg: "1500328"
+    code: Bumdle_SpringFestivalCoupons2
+    item_name: 럭셔리 코스튬 쿠폰·설날
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500329
+    type: 15
+    arg: "1500329"
+    code: Bumdle_SpringFestivalCoupons3
+    item_name: 로열 코스튬 쿠폰·설날
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 원하는 코스튬을 하나 골라 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500330
+    type: 15
+    arg: "1500330"
+    code: Bumdle_WhiteValentineCoupons1
+    item_name: 레어 코스튬 쿠폰·웨딩
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500331
+    type: 15
+    arg: "1500331"
+    code: Bumdle_WhiteValentineCoupons2
+    item_name: 럭셔리 코스튬 쿠폰·웨딩
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500332
+    type: 15
+    arg: "1500332"
+    code: Bumdle_WhiteValentineCoupons3
+    item_name: 로열 코스튬 쿠폰·웨딩
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 원하는 코스튬을 하나 골라 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500333
+    type: 15
+    arg: "1500333"
+    code: Bumdle_AnniversaryCoupons1
+    item_name: 레어 코스튬 쿠폰·주년
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500334
+    type: 15
+    arg: "1500334"
+    code: Bumdle_AnniversaryCoupons2
+    item_name: 럭셔리 코스튬 쿠폰·주년
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500335
+    type: 15
+    arg: "1500335"
+    code: Bumdle_AnniversaryCoupons3
+    item_name: 로열 코스튬 쿠폰·주년
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 원하는 코스튬을 하나 골라 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500336
+    type: 15
+    arg: "1500336"
+    code: Bumdle_UrbanBeautyCoupons1
+    item_name: 레어 코스튬 쿠폰·어반 패션
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500337
+    type: 15
+    arg: "1500337"
+    code: Bumdle_UrbanBeautyCoupons2
+    item_name: 럭셔리 코스튬 쿠폰·어반 패션
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 보유하지 않은 코스튬을 무작위로 하나 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500338
+    type: 15
+    arg: "1500338"
+    code: Bumdle_UrbanBeautyCoupons3
+    item_name: 로열 코스튬 쿠폰·어반 패션
+    introduction: 창고에서 이 쿠폰을 사용하면 지정 범위 내에서 원하는 코스튬을 하나 골라 획득합니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500339
+    type: 15
+    arg: "1500339"
+    code: Bumdle_sangvischoose_rank3
+    item_name: 3성 혼합세력 선택 코드
+    introduction:
+      '''
+      창고에서 사용 시, 지정 범위에서 태생 3성 혼합세력유닛을 하나 골라 얻을 수 있습니다.
+      *"혼합세력" 시스템을 아직 해금하지 않은 경우 얻은 유닛을 바로 사용할 수 없습니다. 해당 시스템을 해금한 이후 정상 사용 가능합니다.
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500340
+    type: 15
+    arg: "1500340"
+    code: Bumdle_sangvischoose_rank2
+    item_name: 2성 혼합세력 선택 코드
+    introduction:
+      '''
+      창고에서 사용 시, 지정 범위에서 태생 2성 혼합세력유닛을 하나 골라 얻을 수 있습니다.
+      *"혼합세력" 시스템을 아직 해금하지 않은 경우 얻은 유닛을 바로 사용할 수 없습니다. 해당 시스템을 해금한 이후 정상 사용 가능합니다.
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500341
+    type: 15
+    arg: "1500341"
+    code: Bumdle_sangvischoose_rank1
+    item_name: 1성 혼합세력 선택 코드
+    introduction:
+      '''
+      창고에서 사용 시, 지정 범위에서 태생 1성 혼합세력유닛을 하나 골라 얻을 수 있습니다.
+      *"혼합세력" 시스템을 아직 해금하지 않은 경우 얻은 유닛을 바로 사용할 수 없습니다. 해당 시스템을 해금한 이후 정상 사용 가능합니다.
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500342
+    type: 15
+    arg: "1500342"
+    code: Bumdle_sangvischoose_avatar3
+    item_name: 3성 유닛 아이콘 선택 코드
+    introduction: 창고에서 사용 시, 지정 범위에서 태생 3성 혼합세력유닛 아이콘을 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500343
+    type: 15
+    arg: "1500343"
+    code: Bumdle_sangvischoose_avatar2
+    item_name: 2성 유닛 아이콘 선택 코드
+    introduction: 창고에서 사용 시, 지정 범위에서 태생 2성 혼합세력유닛 아이콘을 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500344
+    type: 15
+    arg: "1500344"
+    code: Bumdle_sangvischoose_avatar1
+    item_name: 1성 유닛 아이콘 선택 코드
+    introduction: 창고에서 사용 시, 지정 범위에서 태생 1성 혼합세력유닛 아이콘을 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500345
+    type: 15
+    arg: "1500345"
+    code: Bumdle_sangvischoose_rank3
+    item_name: 3성 혼합세력 선택 코드
+    introduction:
+      '''
+      창고에서 사용 시, 지정 범위에서 태생 3성 혼합세력유닛을 하나 골라 얻을 수 있습니다.
+      *"혼합세력" 시스템을 아직 해금하지 않은 경우 얻은 유닛을 바로 사용할 수 없습니다. 해당 시스템을 해금한 이후 정상 사용 가능합니다.
+      '''
     rank: 1
     sort: -1
     type_sort: 1
@@ -29210,6 +29951,39 @@
     id: 1700081
     type: 15
     arg: "1700081"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700082
+    type: 15
+    arg: "1700082"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700083
+    type: 15
+    arg: "1700083"
+    code: package_choose
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700084
+    type: 15
+    arg: "1700084"
     code: package_choose
     item_name: 고등 전용장비 선택 코드
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.

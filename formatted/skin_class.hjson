@@ -564,4 +564,9 @@
     theme_type: 9
     name: 내일로 보내는 편지
   }
+  {
+    id: 114
+    theme_type: 9
+    name: 특과 클래스 A반
+  }
 ]
