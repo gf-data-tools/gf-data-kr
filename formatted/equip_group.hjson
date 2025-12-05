@@ -168,8 +168,8 @@
     name: 밀림 작전
     des: NTW-20을 위해 특수 제작된 세트. 작전에서든 운전 중에서든 무척 폼 납니다.
     code: EgroupNTW20
-    equip_unit: "170,0,371"
-    group_skill: 2:759295
+    equip_unit: "170,494,371"
+    group_skill: 2:759295,3:759508
     fit_gun: "20053"
   }
   {
@@ -186,8 +186,8 @@
     name: 모두를 위해
     des: G3를 위해 맞춤제작한 세트, 모두를 도우려 하는 G3의 결의가 담겨 있습니다.
     code: EgroupG3
-    equip_unit: "124,0,374"
-    group_skill: 2:759308
+    equip_unit: "124,491,374"
+    group_skill: 2:759308,3:759505
     fit_gun: "20063"
   }
   {
@@ -195,8 +195,8 @@
     name: Darling
     des: M1911을 위해 맞춤제작한 세트, 명명은 본인의 강한 요구가 반영되었습니다.
     code: EgroupM1911
-    equip_unit: "375,101,0"
-    group_skill: 2:759312
+    equip_unit: "375,101,485"
+    group_skill: 2:759312,3:759502
     fit_gun: "20002"
   }
   {
@@ -222,8 +222,8 @@
     name: 메이드 수칙
     des: G36을 위해 맞춤 제작한 세트, 업무를 처리하는 동시에 메이드의 우아함을 잃지 않게 해줍니다.
     code: EgroupG36
-    equip_unit: "130,0,390"
-    group_skill: 2:1000403
+    equip_unit: "130,492,390"
+    group_skill: 2:1000403,3:1000410
     fit_gun: "20064"
   }
   {
@@ -258,8 +258,8 @@
     name: 핀셋 작전
     des: SV-98에게 맞춤 제작한 세트. 보다 정확한 측량과 계산을 도와줍니다.
     code: EgroupSV98
-    equip_unit: "398,0,115"
-    group_skill: 2:1001403
+    equip_unit: "398,489,115"
+    group_skill: 2:1001403,3:1001406
     fit_gun: "20044"
   }
   {
@@ -285,8 +285,8 @@
     name: 오발 여왕
     des: 스텐 MkⅡ에게 맞춤 제작된 세트. 자신의 결함을 직시할 수 있게 되자 마침내 제몫을 할 수 있게 됐습니다.
     code: EgroupStenMK2
-    equip_unit: "407,0,128"
-    group_skill: 2:1001803
+    equip_unit: "407,487,128"
+    group_skill: 2:1001803,3:1001806
     fit_gun: "20029"
   }
   {
@@ -303,8 +303,8 @@
     name: 사명 필달
     des: StG44에게 맞춤 제작된 세트, 부여받은 사명을 완수하기 위해서 장비 업그레이드가 필수적입니다.
     code: EgroupStG44
-    equip_unit: "0,136,410"
-    group_skill: 2:1002103
+    equip_unit: "490,136,410"
+    group_skill: 2:1002103,3:1002106
     fit_gun: "20061"
   }
   {
@@ -321,8 +321,8 @@
     name: 컬렉터
     des: 나강 리볼버를 위해 맞춤 제작된 세트, 전장 청소, 폐품 수거 등 작전에서 중요한 역할을 발휘합니다. 어쩌다 중요한 정보도 수집할 수 있겠죠.
     code: EgroupM1895
-    equip_unit: "113,0,415"
-    group_skill: 2:1002403
+    equip_unit: "113,486,415"
+    group_skill: 2:1002403,3:1002406
     fit_gun: "20005"
   }
   {
@@ -357,8 +357,8 @@
     name: 서부 콜라
     des: 콜트 리볼버를 위해 맞춤 제작된 세트. 콜라를 마셔야 결투할 기운이 나지!
     code: EgroupM1873
-    equip_unit: "122,423,0"
-    group_skill: 2:1003403
+    equip_unit: "122,423,493"
+    group_skill: 2:1003403,3:1003406
     fit_gun: "20001"
   }
   {
@@ -594,5 +594,59 @@
     equip_unit: "261,0,475"
     group_skill: 2:1009703
     fit_gun: "20171"
+  }
+  {
+    id: 67
+    name: Power
+    des: 루이스에게 맞춤 제작된 세트. 딱 봐도 힘으로 가득 찬 디자인.
+    code: EgroupLewis
+    equip_unit: "483,447,0"
+    group_skill: 2:1011003
+    fit_gun: "253"
+  }
+  {
+    id: 68
+    name: 참호 빗자루
+    des: M1897에게 맞춤 제작된 세트. 전장에서 불필요한 쓰레기를 효율적으로 처리합니다.
+    code: EgroupM1897
+    equip_unit: "484,206,0"
+    group_skill: 2:1011103
+    fit_gun: "20152"
+  }
+  {
+    id: 69
+    name: 핵심 위기
+    des: C96에게 맞춤 제작된 세트. 야간에 소대가 강력한 작전 능력을 발휘하도록 도와줍니다.
+    code: EgrouC96
+    equip_unit: "167,488,353"
+    group_skill: 3:1011204
+    fit_gun: "20012"
+  }
+  {
+    id: 70
+    name: Misha
+    des: AS Val에게 맞춤 제작된 세트. 야간 작전에 매우 특화되어 있습니다.
+    code: EgroupASVAL
+    equip_unit: "497,135,360"
+    group_skill: 3:1011504
+    fit_gun: "20060"
+  }
+  {
+    id: 71
+    name: 로열 글로리
+    des: 리엔필드에게 맞춤 제작된 세트. 항시 명예를 가슴에 품고 강적에 굴하지 않도록 일깨워줍니다.
+    code: EgroupMLEMK1
+    equip_unit: "298,160,495"
+    group_skill: 3:1011304
+    fit_gun: "20050"
+  }
+  {
+    id: 72
+    name: 노블리스 판처
+    des: Kar98k에게 맞춤 제작된 세트. 명예를 중시하는 인형이 작전을 수행하는 것에 무척 적합합니다.
+    code: Egroup98K
+    equip_unit: "496,105,297"
+    group_skill: 3:1011404
+    fit_gun: "20046"
   }
 ]

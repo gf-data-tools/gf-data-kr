@@ -1374,6 +1374,21 @@
     sub_rank_name: 점수
   }
   {
+    id: "314"
+    name: 팬로즈 계단에서 뛰어내려 상시화
+    type: "10"
+    sub_type: "11603"
+    refresh: test
+    title: <팬로즈 계단에서 뛰어내려> 상시 순위표
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "80000"
+    every_table_num: "30000"
+    mission_rank_type: "1"
+    sub_rank: "1"
+    sub_rank_name: 점수
+  }
+  {
     id: "1001"
     name: 사가 응원판
     type: "1001"
