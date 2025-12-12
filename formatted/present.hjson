@@ -2826,7 +2826,7 @@
   {
     item_id: 1500293
     type: 1
-    poster: PackageImage_Equip
+    poster: PackageImage_16labEquip
     prize_id: 13265
     present_info:
       '''
@@ -3394,6 +3394,38 @@
       [창고]에서 사용 시 지정 범위에서 태생 3성 혼합세력유닛 중 원하는 것을 선택해 얻을 수 있습니다.
       *"혼합세력" 시스템을 아직 해금하지 않은 경우 얻은 유닛을 바로 사용할 수 없습니다. 해당 시스템을 해금한 이후 정상 사용 가능합니다.
       '''
+  }
+  {
+    item_id: 1500346
+    type: 1
+    prize_id: 140001
+    due_time: 2026/01/25 23:59:59
+    due_prize_id: 140016
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
+  }
+  {
+    item_id: 1500347
+    type: 1
+    prize_id: 140003
+    due_time: 2026/01/25 23:59:59
+    due_prize_id: 140016
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트에서 원하는 아이템을 선택할 수 있습니다.
+  }
+  {
+    item_id: 1500348
+    type: 2
+    drop_package_id: 2729
+    due_time: 2026/01/25 23:59:59
+    due_prize_id: 140016
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트 중 무작위 아이템을 획득합니다.
+  }
+  {
+    item_id: 1500349
+    type: 2
+    drop_package_id: 945
+    due_time: 2026/01/25 23:59:59
+    due_prize_id: 140016
+    present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트 중 무작위 아이템을 획득합니다.
   }
   {
     item_id: 1700001

@@ -17188,6 +17188,24 @@
     rank: 1
   }
   {
+    id: 2755
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_MK18
+    item_name: Mk.18 - 헤엄 따르는 파도
+    introduction: Mk.18 - 헤엄 따르는 파도
+    rank: 1
+  }
+  {
+    id: 2756
+    type: 5
+    arg: "1"
+    code: card_BattlePass_MK18
+    item_name: 카드배경: 영하 급행
+    introduction: 카드배경: 영하 급행
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -19070,6 +19088,15 @@
     code: gift_bundle_BattlePass_SPAS12
     item_name: SPAS-12 - 다이나믹 마일
     introduction: 하나 둘, 하나 둘... 1km만 더 달리면 포상으로 치즈 비프 버거 해금이야!
+    rank: 1
+  }
+  {
+    id: 30035
+    type: 1
+    arg: "30035"
+    code: gift_bundle_BattlePass_MK18
+    item_name: Mk.18 - 헤엄 따르는 파도
+    introduction: 이것이 바로 "스키"라는 것이군요. 양류를 타는 느낌과 무척 비슷합니다... 잘 따라오십시오, 앵무조개. 속력을 올리겠습니다.
     rank: 1
   }
   {
@@ -24567,6 +24594,22 @@
     rank: 1
   }
   {
+    id: 140069
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제35기 전선협약
+    rank: 1
+  }
+  {
+    id: 140070
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제35기 전선협약 강화
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -25107,6 +25150,15 @@
     code: profileFrame_BattlePass_SPAS12
     item_name: 액자: 푸드 챌린지
     introduction: 액자: 푸드 챌린지
+    rank: 1
+  }
+  {
+    id: 200060
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_MK18
+    item_name: 액자: 설원 첨병
+    introduction: 액자: 설원 첨병
     rank: 1
   }
   {
@@ -29036,6 +29088,50 @@
       창고에서 사용 시, 지정 범위에서 태생 3성 혼합세력유닛을 하나 골라 얻을 수 있습니다.
       *"혼합세력" 시스템을 아직 해금하지 않은 경우 얻은 유닛을 바로 사용할 수 없습니다. 해당 시스템을 해금한 이후 정상 사용 가능합니다.
       '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500346
+    type: 15
+    arg: "1500346"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약-극지 행자 보상, 지정 범위에서 원하는 장비를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500347
+    type: 15
+    arg: "1500347"
+    code: package_choose
+    item_name: 부속 장비 선택 코드
+    introduction: 전선협약-극지 행자 보상, 지정 범위에서 원하는 부속 유형 장비를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500348
+    type: 15
+    arg: "1500348"
+    code: package_random
+    item_name: 미획득 인형 확정 코드
+    introduction: 전선협약-극지 행자 보상, 범위 중 도감이 해금되지 않은 인형을 반드시 하나 획득. 전부 해금된 상태일 경우 무작위로 하나 획득.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500349
+    type: 15
+    arg: "1500349"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-극지 행자 보상, 범위 중 한 가지 도구를 무작위로 획득합니다
     rank: 1
     sort: -1
     type_sort: 1
