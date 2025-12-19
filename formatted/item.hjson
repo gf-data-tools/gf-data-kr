@@ -17021,8 +17021,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season22_1
-    item_name: 옭매인 싹 · Code End: 퇴상
-    introduction: 옭매인 싹 · Code End: 퇴상
+    item_name: 옭매인 싹 · Code ∞: 공형
+    introduction: 옭매인 싹 · Code ∞: 공형
     rank: 1
   }
   {
@@ -17030,8 +17030,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season22_2
-    item_name: 유리감옥 · Code End: 퇴상
-    introduction: 유리감옥 · Code End: 퇴상
+    item_name: 유리 꽃술 · Code ∞: 공형
+    introduction: 유리 꽃술 · Code ∞: 공형
     rank: 1
   }
   {
@@ -17039,8 +17039,8 @@
     type: 5
     arg: "1"
     code: profilePic_ChessFlight_season22_3
-    item_name: 영원한 꽃 · Code End: 퇴상
-    introduction: 영원한 꽃 · Code End: 퇴상
+    item_name: 영원한 꽃· Code ∞: 공형
+    introduction: 영원한 꽃· Code ∞: 공형
     rank: 1
   }
   {
@@ -18977,6 +18977,15 @@
     id: 10735
     type: 18
     arg: "10735"
+    code: daily_points
+    item_name: 회색지대 점수
+    introduction: 회색지대 점수
+    rank: 1
+  }
+  {
+    id: 10736
+    type: 18
+    arg: "10736"
     code: daily_points
     item_name: 회색지대 점수
     introduction: 회색지대 점수
@@ -30080,6 +30089,39 @@
     id: 1700084
     type: 15
     arg: "1700084"
+    code: package_choose
+    item_name: 고등 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700085
+    type: 15
+    arg: "1700085"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 회색지대 보상, 지정 리스트에서 원하는 장비를 하나 선택할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700086
+    type: 15
+    arg: "1700086"
+    code: package_choose
+    item_name: 기초 전용장비 선택 코드
+    introduction: 회색지대 보상, 개봉 시, 지정 범위 중 4성 이하 인형 전용장비를 하나 선택해 얻을 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1700087
+    type: 15
+    arg: "1700087"
     code: package_choose
     item_name: 고등 전용장비 선택 코드
     introduction: 회색지대 보상, 개봉 시, 지정 범위 중 5성 인형 전용장비를 하나 선택해 얻을 수 있습니다.
