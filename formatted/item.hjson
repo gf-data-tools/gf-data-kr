@@ -29146,6 +29146,65 @@
     type_sort: 1
   }
   {
+    id: 1500350
+    type: 15
+    arg: "1500350"
+    code: Bumdle_invocation_1
+    item_name: 3성 인형 임용장
+    introduction: 창고에서 이 임용장을 사용하면 지정 범위 중 3성 인형을 하나 선택해 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500351
+    type: 15
+    arg: "1500351"
+    code: Bumdle_invocation_3
+    item_name: 4성 인형 임용장
+    introduction: 창고에서 이 임용장을 사용하면 지정 범위 중 4성 인형을 하나 선택해 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500352
+    type: 15
+    arg: "1500352"
+    code: Bumdle_invocation_2
+    item_name: 5성 인형 임용장
+    introduction: 창고에서 이 임용장을 사용하면 지정 범위 중 5성 인형을 하나 선택해 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500353
+    type: 15
+    arg: "1500353"
+    code: Bumdle_sangvischoose
+    item_name: 혼합세력 지정회수 의뢰서
+    introduction:
+      '''
+      창고에서 이 의뢰서를 사용하면 지정 범위 중 태생 3성 혼합세력유닛을 하나 선택해 획득할 수 있습니다.
+      *"혼합세력" 시스템을 아직 해금하지 않은 경우 얻은 유닛을 바로 사용할 수 없습니다. 해당 시스템을 해금한 이후 정상 사용 가능합니다.
+      '''
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500354
+    type: 15
+    arg: "1500354"
+    code: Bumdle_equipment
+    item_name: 5성 장비 선택 증서
+    introduction: 창고에서 이 증서를 사용하면 지정 범위 중 전용장비 이외 5성 장비를 하나 선택해 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
     id: 1600001
     type: 1
     arg: "1600001"

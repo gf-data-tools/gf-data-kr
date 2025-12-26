@@ -3428,6 +3428,64 @@
     present_info: 좌표 지정 운송 서비스를 개통하는 코드, 사용 시 리스트 중 무작위 아이템을 획득합니다.
   }
   {
+    item_id: 1500350
+    type: 1
+    poster: PackageImage_rank3
+    prize_id: 13437
+    present_info:
+      '''
+      인형 도감 번호 423번 이내의 3성 인형 중 하나를 선택해 얻을 수 있습니다.
+      [창고]에서 전술인형을 선택하길 바랍니다.
+      '''
+  }
+  {
+    item_id: 1500351
+    type: 1
+    poster: PackageImage_rank4
+    prize_id: 13438
+    present_info:
+      '''
+      인형 도감 번호 423번 이내의 4성 인형 중 하나를 선택해 얻을 수 있습니다.
+      [창고]에서 전술인형을 선택하길 바랍니다.
+      선택 가능 범위에서 제외되는 인형: M4A1, M16A1, M4 SOPMOD II, ST AR-15, 97식 산탄총.
+      '''
+  }
+  {
+    item_id: 1500352
+    type: 1
+    poster: PackageImage_rank5
+    prize_id: 13439
+    present_info:
+      '''
+      인형 도감 번호 423번 이내의 5성 인형 중 하나를 선택해 얻을 수 있습니다.
+      [창고]에서 전술인형을 선택하길 바랍니다.
+      선택 가능 범위에서 제외되는 인형: RO635.
+      '''
+  }
+  {
+    item_id: 1500353
+    type: 1
+    poster: PackageImage_Sangvis
+    prize_id: 13440
+    present_info:
+      '''
+      혼합세력 도감 번호 236번 이내의 태생 3성 혼합세력 중 하나를 선택해 얻을 수 있습니다.
+      [창고]에서 혼합세력유닛을 선택하길 바랍니다.
+      *"혼합세력" 시스템을 아직 해금하지 않은 경우 얻은 유닛을 바로 사용할 수 없습니다. 해당 시스템을 해금한 이후 정상 사용 가능합니다.
+      '''
+  }
+  {
+    item_id: 1500354
+    type: 1
+    poster: PackageImage_Equip
+    prize_id: 13441
+    present_info:
+      '''
+      전용장비를 제외하고 2025년 7월 11일 이전까지 추가된 5성 장비 중 하나를 선택해 획득할 수 있습니다.
+      [창고]에서 장비를 선택하길 바랍니다.
+      '''
+  }
+  {
     item_id: 1700001
     type: 1
     prize_id: 150089

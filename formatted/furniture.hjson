@@ -31824,6 +31824,39 @@
     rotate: "3"
   }
   {
+    id: 20178
+    name: 포스터-2025 양자요동
+    classes: 20
+    type: 302
+    space: "11,11,0,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 2025 기간 한정 이벤트 - 양자요동의 특전 포스터
+    code: pv_202509activity
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0.05,0"
+    rotate: "3"
+  }
+  {
+    id: 20179
+    name: 스티븐
+    classes: 81
+    type: 201
+    space: "6,4,2,0,0,0"
+    deco_rate: 1000
+    decompose_gift: 100003
+    description: 쇼윈도에서 반짝이는 성탄절 선물이자, 주인을 기다리는 충성스러운 친구였습니다. 그러나 전쟁이 그의 용도를 바꿨습니다. 하지만 처음 설계될 때 짊어진 온기는 지울 수가 없었죠. 이제 스티븐은 당신 발옆에 엎드려 단잠을 이룰 수 있게 됐습니다.
+    code: Stephen_Dinergate
+    texture_type: "2"
+    sorting: "15"
+    offset: "0.38,0.16,0"
+    rotate: "2"
+    interact_point: "82017901,82017902,82017903"
+    interact_point_offset: *-2.000,0.000,0.000|*-2.000,0.000,0.000|*-2.000,0.000,0.000
+    touch_area: "3,3,3"
+  }
+  {
     id: 30001
     name: 마카로프 - 잭오랜턴
     classes: 300

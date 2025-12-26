@@ -420,22 +420,16 @@
   }
   {
     id: 64
-    type: 1
+    type: 2
     mission_campaign: "-77"
     event_name: 침묵 말판
-    draw_event_id: "400,401,402,403,404"
-    start_time: 2025-10-10 15:00:00
-    end_time: 2025-10-31 15:00:00
     init_mission_id: "11946"
   }
   {
     id: 65
-    type: 1
+    type: 2
     mission_campaign: "-78"
     event_name: 양자요동
-    draw_event_id: "400,401,402,403,404"
-    start_time: 2025-10-31 15:00:00
-    end_time: 2025-11-21 15:00:00
     init_mission_id: "11947"
     token_item_id: "100291"
   }
