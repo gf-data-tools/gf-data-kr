@@ -10297,6 +10297,15 @@
     order: 164
   }
   {
+    id: 30036
+    name: JS 9 - 허물어진 벽 위에서
+    fit_gun: 234
+    voice: 4
+    dialog: 오늘 순찰 지점은 여기인가요? ...알겠습니다. 환경이 아무리 열악해도 저의 행동은 언제나처럼 깔끔할 거예요.
+    illustrator_cv: --,Ohzeki Eri,
+    order: 165
+  }
+  {
     id: 50001
     name: 한양조 88식 - 별들에게
     fit_gun: 95

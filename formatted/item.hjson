@@ -17206,6 +17206,24 @@
     rank: 1
   }
   {
+    id: 2757
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_JS9mm
+    item_name: JS 9 - 허물어진 벽 위에서
+    introduction: JS 9 - 허물어진 벽 위에서
+    rank: 1
+  }
+  {
+    id: 2758
+    type: 5
+    arg: "1"
+    code: card_BattlePass_JS9mm
+    item_name: 카드배경: 여명이 찾아온다
+    introduction: 카드배경: 여명이 찾아온다
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -19106,6 +19124,15 @@
     code: gift_bundle_BattlePass_MK18
     item_name: Mk.18 - 헤엄 따르는 파도
     introduction: 이것이 바로 "스키"라는 것이군요. 양류를 타는 느낌과 무척 비슷합니다... 잘 따라오십시오, 앵무조개. 속력을 올리겠습니다.
+    rank: 1
+  }
+  {
+    id: 30036
+    type: 1
+    arg: "30036"
+    code: gift_bundle_BattlePass_JS9mm
+    item_name: JS 9 - 허물어진 벽 위에서
+    introduction: 오늘 순찰 지점은 여기인가요? ...알겠습니다. 환경이 아무리 열악해도 저의 행동은 언제나처럼 깔끔할 거예요.
     rank: 1
   }
   {
@@ -24619,6 +24646,22 @@
     rank: 1
   }
   {
+    id: 140071
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제36기 전선협약
+    rank: 1
+  }
+  {
+    id: 140072
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제36기 전선협약 강화
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -25166,8 +25209,17 @@
     type: 1
     arg: "1"
     code: profileFrame_BattlePass_MK18
-    item_name: 액자: 설원 첨병
-    introduction: 액자: 설원 첨병
+    item_name: 액자·강설 전선의 첨병
+    introduction: 액자·강설 전선의 첨병
+    rank: 1
+  }
+  {
+    id: 200061
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_JS9mm
+    item_name: 액자·폐허 끝의 서광
+    introduction: 액자·폐허 끝의 서광
     rank: 1
   }
   {
@@ -29200,6 +29252,50 @@
     code: Bumdle_equipment
     item_name: 5성 장비 선택 증서
     introduction: 창고에서 이 증서를 사용하면 지정 범위 중 전용장비 이외 5성 장비를 하나 선택해 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500355
+    type: 15
+    arg: "1500355"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약-여명의 규율 보상, 지정 범위에서 원하는 장비를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500356
+    type: 15
+    arg: "1500356"
+    code: package_choose
+    item_name: 인형 장비 선택 코드
+    introduction: 전선협약-여명의 규율 보상, 지정 범위에서 원하는 인형 유형 장비를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500357
+    type: 15
+    arg: "1500357"
+    code: package_random
+    item_name: 미획득 인형 확정 코드
+    introduction: 전선협약-여명의 규율 보상, 범위 중 도감이 해금되지 않은 인형을 반드시 하나 획득. 전부 해금된 상태일 경우 무작위로 하나 획득.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500358
+    type: 15
+    arg: "1500358"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-여명의 규율 보상, 범위 중 한 가지 도구를 무작위로 획득합니다
     rank: 1
     sort: -1
     type_sort: 1

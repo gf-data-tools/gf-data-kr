@@ -49120,6 +49120,21 @@
     rotate: "3"
   }
   {
+    id: 330036
+    name: JS 9 - 허물어진 벽 위에서
+    classes: 300
+    type: 303
+    space: "3,6,1,1,1,0"
+    deco_rate: 750
+    decompose_gift: 100003
+    description: JS 9의 포스터
+    code: poster_BattlePass_JS9mm
+    texture_type: "1"
+    sorting: "5"
+    offset: "0,0,0"
+    rotate: "3"
+  }
+  {
     id: 350001
     name: 한양조 88식 - 별들에게
     classes: 300
