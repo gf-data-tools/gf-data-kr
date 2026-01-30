@@ -36265,6 +36265,66 @@
     fairy_ids: 40-757276
   }
   {
+    id: 12646
+    name: 해적요정
+    fairy_ids: 38-757262
+  }
+  {
+    id: 12647
+    name: 시간과 별
+    furniture: "20023"
+  }
+  {
+    id: 12648
+    name: 황야의 바람 추격
+    furniture: "20110"
+  }
+  {
+    id: 12649
+    name: 개막의 댄스홀
+    furniture: "20102"
+  }
+  {
+    id: 12650
+    name: 8년은 꿈처럼
+    furniture: "20132"
+  }
+  {
+    id: 12651
+    name: 홍옥 난초 석상(좌)
+    furniture: "20150"
+  }
+  {
+    id: 12652
+    name: 홍옥 난초 석상(우)
+    furniture: "20151"
+  }
+  {
+    id: 12653
+    name: 열렬한 환영
+    furniture: "20172"
+  }
+  {
+    id: 12654
+    name: 친화형 디너게이트
+    furniture: "20176"
+  }
+  {
+    id: 12655
+    name: 뱀그림자 지팡이
+    commander_uniform: "6240"
+  }
+  {
+    id: 12656
+    name: 피자 씨
+    commander_uniform: "6440"
+  }
+  {
+    id: 12657
+    name: 6P62 만능 인형
+    furniture: "11602"
+  }
+  {
     id: 13001
     name: 2025년 7월 출석
     gem: 90
@@ -38587,6 +38647,26 @@
     id: 13442
     name: 소녀전선 스마트 디너게이트 특전 가구
     furniture: "20179"
+  }
+  {
+    id: 13443
+    name: 카리나가 창고를 정리하다 물자를 발견했습니다.
+    mp: 1000
+    ammo: 1000
+    mre: 1000
+    part: 1000
+    item_ids: 41-10
+    gift: 200001-200
+  }
+  {
+    id: 13444
+    name: 전술인형: 93R
+    gun_id: "419"
+  }
+  {
+    id: 13445
+    name: 전술인형: LR-300
+    gun_id: "423"
   }
   {
     id: 14101
