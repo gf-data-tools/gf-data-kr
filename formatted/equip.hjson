@@ -16007,4 +16007,38 @@
     is_show: 1
     obtain_ids: "3"
   }
+  {
+    id: 498
+    name: PC 통신 헤드폰
+    description:
+      '''
+      화력<pow> 사속+<rate>
+      치명률+<critical_percent><%>스킬 강화$M200 전용
+      '''
+    rank: 5
+    category: 1
+    type: 18
+    pow: "-4,-2"
+    rate: "2,4"
+    critical_percent: "21,25"
+    retire_mp: 4
+    retire_mre: 3
+    retire_part: 2
+    code: Accessories_SP_M200
+    develop_duration: 3600
+    company: IOP
+    fit_guns: "257"
+    equip_introduction: 세계적으로 인기 있는 최신 디자인을 채용하였고, 자동으로 주변 소리를 확대할 수 있고, 오디오 선명도를 더욱 개선했습니다.
+    powerup_mp: 0.45
+    powerup_ammo: 0.15
+    powerup_mre: 0.3
+    powerup_part: 0.15
+    exclusive_rate: 3
+    bonus_type: rate:1000,critical_percent:1000
+    passive_skill: "1011801"
+    max_level: 10
+    auto_select_id: 18034
+    is_show: 1
+    description_skill: 1011801
+  }
 ]

@@ -92047,7 +92047,7 @@
     description:
       '''
       액티브: 9초간 저격 모드가 되어 2.5초마다 가장 멀리있는 적에게 화력 1.5배의 피해를 주고, 표적의 화력을 3초간 5% 감소시킨다.(적 장갑 계산, 치명타 가능)
-      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시, "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
       '''
     lvup_description: 쿨타임:20초,조준시간:2.5초,피해 배율:1.5배,화력 감소치:5%
     data_pool_1: "271,75"
@@ -92076,7 +92076,7 @@
     description:
       '''
       액티브: 9초간 저격 모드가 되어 2.4초마다 가장 멀리있는 적에게 화력 1.56배의 피해를 주고, 표적의 화력을 3초간 6% 감소시킨다.(적 장갑 계산, 치명타 가능)
-      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시, "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
       '''
     lvup_description: 쿨타임:19.6초,조준시간:2.4초,피해 배율:1.56배,화력 감소치:6%
     data_pool_1: "271,72"
@@ -92106,7 +92106,7 @@
     description:
       '''
       액티브: 9초간 저격 모드가 되어 2.3초마다 가장 멀리있는 적에게 화력 1.61배의 피해를 주고, 표적의 화력을 3초간 6% 감소시킨다.(적 장갑 계산, 치명타 가능)
-      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시, "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
       '''
     lvup_description: 쿨타임:19.1초,조준시간:2.3초,피해 배율:1.61배,화력 감소치:6%
     data_pool_1: "271,69"
@@ -92136,7 +92136,7 @@
     description:
       '''
       액티브: 9초간 저격 모드가 되어 2.2초마다 가장 멀리있는 적에게 화력 1.67배의 피해를 주고, 표적의 화력을 3초간 7% 감소시킨다.(적 장갑 계산, 치명타 가능)
-      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시, "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
       '''
     lvup_description: 쿨타임:18.7초,조준시간:2.2초,피해 배율:1.67배,화력 감소치:7%
     data_pool_1: "271,66"
@@ -92166,7 +92166,7 @@
     description:
       '''
       액티브: 9초간 저격 모드가 되어 2.1초마다 가장 멀리있는 적에게 화력 1.72배의 피해를 주고, 표적의 화력을 3초간 7% 감소시킨다.(적 장갑 계산, 치명타 가능)
-      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시, "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
       '''
     lvup_description: 쿨타임:18.2초,조준시간:2.1초,피해 배율:1.72배,화력 감소치:7%
     data_pool_1: "271,63"
@@ -92196,7 +92196,7 @@
     description:
       '''
       액티브: 9초간 저격 모드가 되어 1.9초마다 가장 멀리있는 적에게 화력 1.78배의 피해를 주고, 표적의 화력을 3초간 8% 감소시킨다.(적 장갑 계산, 치명타 가능)
-      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시, "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
       '''
     lvup_description: 쿨타임:17.8초,조준시간:1.9초,피해 배율:1.78배,화력 감소치:8%
     data_pool_1: "271,57"
@@ -92227,7 +92227,7 @@
     description:
       '''
       액티브: 9초간 저격 모드가 되어 1.8초마다 가장 멀리있는 적에게 화력 1.83배의 피해를 주고, 표적의 화력을 3초간 8% 감소시킨다.(적 장갑 계산, 치명타 가능)
-      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시, "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
       '''
     lvup_description: 쿨타임:17.3초,조준시간:1.8초,피해 배율:1.83배,화력 감소치:8%
     data_pool_1: "271,54"
@@ -92258,7 +92258,7 @@
     description:
       '''
       액티브: 9초간 저격 모드가 되어 1.7초마다 가장 멀리있는 적에게 화력 1.89배의 피해를 주고, 표적의 화력을 3초간 9% 감소시킨다.(적 장갑 계산, 치명타 가능)
-      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시, "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
       '''
     lvup_description: 쿨타임:16.9초,조준시간:1.7초,피해 배율:1.89배,화력 감소치:9%
     data_pool_1: "271,51"
@@ -92289,7 +92289,7 @@
     description:
       '''
       액티브: 9초간 저격 모드가 되어 1.6초마다 가장 멀리있는 적에게 화력 1.94배의 피해를 주고, 표적의 화력을 3초간 9% 감소시킨다.(적 장갑 계산, 치명타 가능)
-      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시, "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
       '''
     lvup_description: 쿨타임:16.4초,조준시간:1.6초,피해 배율:1.94배,화력 감소치:9%
     data_pool_1: "271,48"
@@ -92320,7 +92320,7 @@
     description:
       '''
       액티브: 9초간 저격 모드가 되어 1.5초마다 가장 멀리있는 적에게 화력 2배의 피해를 주고, 표적의 화력을 3초간 10% 감소시킨다.(적 장갑 계산, 치명타 가능)
-      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+      패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시, "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
       '''
     lvup_description: 쿨타임:16초,조준시간:1.5초,피해 배율:2배,화력 감소치:10%
     data_pool_1: "271,45"
@@ -92351,8 +92351,11 @@
     buff_id_self: 1365:-1,1364:1
     data_pool_1: "90"
     data_pool_2: "150,95"
+    night_data_pool_1: "90"
+    night_data_pool_2: *10102,95
     code: AimAttackCurrentTarge
     train_coin_type: 1
+    daynight_only: 2
     is_switch: 1
     skill_lv_call: 1
   }
@@ -92374,9 +92377,12 @@
     buff_id_self: 1365:-1,1364:1
     data_pool_1: "90"
     data_pool_2: "156,94"
+    night_data_pool_1: "90"
+    night_data_pool_2: *10103,94
     code: AimAttackCurrentTarge
     train_coin_type: 1
     train_coin_number: 100
+    daynight_only: 2
     is_switch: 1
     skill_lv_call: 1
   }
@@ -92398,9 +92404,12 @@
     buff_id_self: 1365:-1,1364:1
     data_pool_1: "90"
     data_pool_2: "161,94"
+    night_data_pool_1: "90"
+    night_data_pool_2: *10104,94
     code: AimAttackCurrentTarge
     train_coin_type: 1
     train_coin_number: 200
+    daynight_only: 2
     is_switch: 1
     skill_lv_call: 1
   }
@@ -92423,9 +92432,12 @@
     buff_id_self: 1365:-1,1364:1
     data_pool_1: "90"
     data_pool_2: "167,93"
+    night_data_pool_1: "90"
+    night_data_pool_2: *10105,93
     code: AimAttackCurrentTarge
     train_coin_type: 1
     train_coin_number: 300
+    daynight_only: 2
     is_switch: 1
     skill_lv_call: 1
   }
@@ -92447,9 +92459,12 @@
     buff_id_self: 1365:-1,1364:1
     data_pool_1: "90"
     data_pool_2: "172,93"
+    night_data_pool_1: "90"
+    night_data_pool_2: *10106,93
     code: AimAttackCurrentTarge
     train_coin_type: 2
     train_coin_number: 120
+    daynight_only: 2
     is_switch: 1
     skill_lv_call: 1
   }
@@ -92471,9 +92486,12 @@
     buff_id_self: 1365:-1,1364:1
     data_pool_1: "90"
     data_pool_2: "178,92"
+    night_data_pool_1: "90"
+    night_data_pool_2: *10107,92
     code: AimAttackCurrentTarge
     train_coin_type: 2
     train_coin_number: 200
+    daynight_only: 2
     is_switch: 1
     skill_up_time: 36000
     skill_lv_call: 1
@@ -92496,9 +92514,12 @@
     buff_id_self: 1365:-1,1364:1
     data_pool_1: "90"
     data_pool_2: "183,92"
+    night_data_pool_1: "90"
+    night_data_pool_2: *10108,92
     code: AimAttackCurrentTarge
     train_coin_type: 2
     train_coin_number: 300
+    daynight_only: 2
     is_switch: 1
     skill_up_time: 36000
     skill_lv_call: 1
@@ -92521,9 +92542,12 @@
     buff_id_self: 1365:-1,1364:1
     data_pool_1: "90"
     data_pool_2: "189,91"
+    night_data_pool_1: "90"
+    night_data_pool_2: *10109,91
     code: AimAttackCurrentTarge
     train_coin_type: 2
     train_coin_number: 400
+    daynight_only: 2
     is_switch: 1
     skill_up_time: 36000
     skill_lv_call: 1
@@ -92546,9 +92570,12 @@
     buff_id_self: 1365:-1,1364:1
     data_pool_1: "90"
     data_pool_2: "194,91"
+    night_data_pool_1: "90"
+    night_data_pool_2: *10110,91
     code: AimAttackCurrentTarge
     train_coin_type: 3
     train_coin_number: 200
+    daynight_only: 2
     is_switch: 1
     skill_up_time: 36000
     skill_lv_call: 1
@@ -92571,9 +92598,12 @@
     buff_id_self: 1365:-1,1364:1
     data_pool_1: "90"
     data_pool_2: "200,90"
+    night_data_pool_1: "90"
+    night_data_pool_2: *10111,90
     code: AimAttackCurrentTarge
     train_coin_type: 3
     train_coin_number: 300
+    daynight_only: 2
     is_switch: 1
     skill_up_time: 36000
     skill_lv_call: 1
@@ -193860,6 +193890,653 @@
     target_select_ai: 3
     buff_id_target: 2755:1,2678:99,2693:-1
     buff_id_self: 2755:1
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45100101
+    name: 梦想家假普攻[*]
+    skill_group_id: 451001
+    level: 1
+    type: 3
+    skill_priority: 1
+    cd_type: 3
+    trigger_id: "451001"
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 6
+    action_id: 12220
+    is_form_action: 1
+    description: 梦想家普攻
+    train_coin_type: 1
+    target_lost: 2
+    interrupt_type: 1
+    is_switch: 1
+    special_buff_trigger: "1"
+  }
+  {
+    id: 45100201
+    name: 梦想家后跳[*]
+    skill_group_id: 451002
+    level: 1
+    type: 2
+    skill_priority: 10
+    cd_type: 1
+    cd_time: 99999
+    start_cd_time: 15
+    target_select_ai: 2
+    action_id: 12201
+    skill_duration: "30"
+    buff_id_self: 2765:1
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45100301
+    name: 梦想家狙击지원
+    skill_group_id: 451003
+    level: 1
+    type: 2
+    skill_priority: 10
+    cd_type: 1
+    cd_time: 180
+    start_cd_time: 180
+    trigger_id: "451003"
+    target_select_ai: 931
+    action_id: 12202
+    skill_duration: "30"
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45100401
+    name: 梦想家狂暴
+    skill_group_id: 451004
+    level: 1
+    type: 2
+    skill_priority: 20
+    cd_type: 1
+    cd_time: 30
+    start_cd_time: 3600
+    target_select_ai: 931
+    action_id: 12203
+    skill_duration: "30"
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45100501
+    name: 破坏者攻击[*]
+    skill_group_id: 451005
+    level: 1
+    type: 3
+    skill_priority: 1
+    cd_type: 3
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 932
+    action_id: 12204
+    skill_duration: "90"
+    is_form_action: 1
+    train_coin_type: 1
+    target_lost: 2
+    is_switch: 1
+  }
+  {
+    id: 45100601
+    name: 破坏者狂暴
+    skill_group_id: 451006
+    level: 1
+    type: 2
+    skill_priority: 20
+    cd_type: 1
+    cd_time: 99999
+    trigger_id: "451006"
+    target_select_ai: 3
+    action_id: 12205
+    skill_duration: "210"
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45100701
+    name: 破坏者离场
+    skill_group_id: 451007
+    level: 1
+    type: 7
+    skill_priority: 20
+    cd_type: 1
+    target_select_ai: 2
+    buff_id_target: 2760:1
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45100801
+    name: 梦想家召唤末日魔犬
+    skill_group_id: 451008
+    level: 1
+    type: 4
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 99999
+    trigger_id: "451008"
+    target_select_ai: 1
+    action_id: 12206
+    skill_duration: "30"
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45100901
+    name: 末日魔犬开场增益
+    skill_group_id: 451009
+    level: 1
+    type: 4
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 99999
+    target_select_ai: 1
+    buff_id_self: 2761:1
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45101001
+    name: 末日魔犬普攻[*]
+    skill_group_id: 451010
+    level: 1
+    type: 3
+    skill_priority: 1
+    cd_type: 3
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 6
+    action_id: 12207
+    skill_duration: "10"
+    is_form_action: 1
+    buff_delay: 9
+    train_coin_type: 1
+    target_lost: 2
+    is_switch: 1
+  }
+  {
+    id: 45101101
+    name: 末日魔犬离场
+    skill_group_id: 451011
+    level: 1
+    type: 7
+    skill_priority: 20
+    cd_type: 1
+    target_select_ai: 2
+    buff_id_target: 2762:1
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45101201
+    name: 梦想家近身检测
+    skill_group_id: 451012
+    level: 1
+    type: 4
+    skill_priority: 20
+    cd_type: 1
+    cd_time: 99999
+    start_cd_time: 60
+    target_select_ai: 1
+    action_id: 12208
+    is_form_action: 1
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45101301
+    name: 梦想家检测反馈
+    skill_group_id: 451013
+    level: 1
+    type: 4
+    skill_priority: 20
+    cd_type: 1
+    cd_time: 99999
+    target_select_ai: 3
+    is_form_action: 1
+    buff_id_target: 2764:1
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45101401
+    name: 梦想家消除无敌
+    skill_group_id: 451014
+    level: 1
+    type: 4
+    skill_priority: 20
+    cd_type: 1
+    cd_time: 99999
+    trigger_id: "451014"
+    target_select_ai: 1
+    is_form_action: 1
+    buff_id_self: 2765:-1
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45101501
+    name: 梦想家蓄力
+    skill_group_id: 451015
+    level: 1
+    type: 2
+    skill_priority: 20
+    cd_type: 1
+    cd_time: 300
+    trigger_id: "451014"
+    target_select_ai: 931
+    is_re_target: 30
+    action_id: 12209
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45101601
+    name: 梦想家普攻[*]
+    skill_group_id: 451016
+    level: 1
+    type: 3
+    skill_priority: 1
+    cd_type: 3
+    trigger_id: "451016"
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 6
+    action_id: 121
+    is_form_action: 1
+    description: 梦想家普攻
+    data_pool_1: "0,0,0"
+    train_coin_type: 1
+    target_lost: 2
+    interrupt_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45110101
+    name: 建筑师普攻[*]
+    skill_group_id: 451101
+    level: 1
+    type: 3
+    skill_priority: 1
+    cd_type: 3
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 3
+    action_id: 12211
+    description: 建筑家普攻
+    data_pool_1: "0,0,0"
+    sp_data_pool_1: "0,0,9999"
+    train_coin_type: 1
+    target_lost: 2
+    is_switch: 1
+  }
+  {
+    id: 45110201
+    name: 计量官普攻[*]
+    skill_group_id: 451102
+    level: 1
+    type: 3
+    skill_priority: 1
+    cd_type: 3
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 6
+    action_id: 12210
+    description: 计量官普攻
+    data_pool_1: "0,0,0"
+    sp_data_pool_1: "0,0,9999"
+    train_coin_type: 1
+    target_lost: 2
+    is_switch: 1
+  }
+  {
+    id: 45110301
+    name: 建筑师实时反应生命值
+    skill_group_id: 451103
+    level: 1
+    type: 4
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 10
+    target_select_ai: 2
+    buff_id_target: 2767:1000010115
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45110401
+    name: 计量官实时反应生命值
+    skill_group_id: 451104
+    level: 1
+    type: 4
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 10
+    target_select_ai: 2
+    buff_id_target: 2768:1000010115
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45110501
+    name: 建筑师检测增益
+    skill_group_id: 451105
+    level: 1
+    type: 4
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 99999
+    trigger_id: "451105"
+    target_select_ai: 2
+    buff_id_self: 2769:1
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45110601
+    name: 计量官检测增益
+    skill_group_id: 451106
+    level: 1
+    type: 4
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 99999
+    trigger_id: "451106"
+    target_select_ai: 2
+    buff_id_self: 2770:1
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45110701
+    name: Boss离场
+    skill_group_id: 451107
+    level: 1
+    type: 7
+    skill_priority: 20
+    cd_type: 1
+    target_select_ai: 2
+    buff_id_target: 2771:1,2772:1
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45120101
+    name: 代理人普攻[*]
+    skill_group_id: 451201
+    level: 1
+    type: 3
+    skill_priority: 1
+    cd_type: 3
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 6
+    action_id: 12212
+    data_pool_1: "0,0,0"
+    sp_data_pool_1: "0,0,9999"
+    train_coin_type: 1
+    target_lost: 2
+    is_switch: 1
+  }
+  {
+    id: 45120201
+    name: 行裁者普攻[*]
+    skill_group_id: 451202
+    level: 1
+    type: 3
+    skill_priority: 1
+    cd_type: 3
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 6
+    action_id: 12213
+    data_pool_1: "0,0,0"
+    train_coin_type: 1
+    target_lost: 2
+    is_switch: 1
+  }
+  {
+    id: 45120301
+    name: 猎手普攻[*]
+    skill_group_id: 451203
+    level: 1
+    type: 3
+    skill_priority: 1
+    cd_type: 3
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 6
+    action_id: 12214
+    data_pool_1: "0,0,0"
+    train_coin_type: 1
+    target_lost: 2
+    is_switch: 1
+  }
+  {
+    id: 45120401
+    name: 干扰者技能[*]
+    skill_group_id: 451204
+    level: 1
+    type: 4
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 300
+    start_cd_time: 300
+    target_select_ai: 2
+    buff_id_target: 2777:1,2778:1
+    train_coin_type: 1
+    is_switch: 1
+    is_cdr: 1
+  }
+  {
+    id: 45120501
+    name: 衔尾蛇技能[*]
+    skill_group_id: 451205
+    level: 1
+    type: 4
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 300
+    start_cd_time: 300
+    target_select_ai: 3
+    buff_id_target: 2779:1
+    train_coin_type: 1
+    is_switch: 1
+    is_cdr: 1
+  }
+  {
+    id: 45120601
+    name: 炼金术士无敌斩[*]
+    skill_group_id: 451206
+    level: 1
+    type: 2
+    skill_priority: 20
+    cd_type: 1
+    cd_time: 240
+    start_cd_time: 240
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 6
+    action_id: 12215
+    skill_duration: "120"
+    buff_id_self: 2780:9,2781:1
+    buff_delay: 30
+    data_pool_1: "0,0,0"
+    train_coin_type: 1
+    target_lost: 2
+    is_switch: 1
+    is_cdr: 1
+  }
+  {
+    id: 45120701
+    name: 炼金术士技能[*]
+    skill_group_id: 451207
+    level: 1
+    type: 4
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 10
+    trigger_id: "451207"
+    target_select_ai: 933
+    action_id: 12216
+    buff_id_self: 2780:-1
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45120801
+    name: 法官技能[*]
+    skill_group_id: 451208
+    level: 1
+    type: 4
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 300
+    start_cd_time: 300
+    target_select_ai: 1
+    action_id: 12217
+    buff_id_self: 2782:1,2783:1
+    train_coin_type: 1
+    is_switch: 1
+    is_cdr: 1
+  }
+  {
+    id: 45120901
+    name: 铁血下属离场
+    skill_group_id: 451209
+    level: 1
+    type: 7
+    skill_priority: 20
+    cd_type: 1
+    target_select_ai: 2
+    buff_id_target: 2784:-1
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45121001
+    name: 代理人开场增益
+    skill_group_id: 451210
+    level: 1
+    type: 4
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 99999
+    target_select_ai: 1
+    buff_id_self: 2784:6
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45130101
+    name: 新春稻草人普攻[*]
+    skill_group_id: 451301
+    level: 1
+    type: 3
+    skill_priority: 1
+    cd_type: 3
+    target_select_ai: 7
+    action_id: 12218
+    skill_duration: "10"
+    is_form_action: 1
+    train_coin_type: 1
+    target_lost: 2
+    is_switch: 1
+  }
+  {
+    id: 45130201
+    name: 新春稻草人净化
+    skill_group_id: 451302
+    level: 1
+    type: 4
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 90
+    start_cd_time: 90
+    target_select_ai: 2
+    buff_type_target: 201:-99,202:-99,203:-99,204:-99,205:-99,206:-99,208:-99,110:-99,402:-99,801:-99,802:-99,803:-99,804:-99,805:-99,806:-99,808:-99
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45130301
+    name: 新春稻草人驱散
+    skill_group_id: 451303
+    level: 1
+    type: 4
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 90
+    start_cd_time: 90
+    target_select_ai: 3
+    buff_type_target: 101:-99,102:-99,103:-99,104:-99,105:-99,106:-99,108:-99,109:-99,111:-99,112:-99,110:-99,801:-99,802:-99,803:-99,804:-99,805:-99,806:-99,808:-99,109:-99,811:-99,812:-99
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45130401
+    name: 新春稻草人血量特动触发
+    skill_group_id: 451304
+    level: 1
+    type: 2
+    skill_priority: 10
+    cd_type: 1
+    cd_time: 99999
+    trigger_id: "451304"
+    target_select_ai: 3
+    buff_id_self: 2786:1
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45130501
+    name: 新春稻草人dot触发
+    skill_group_id: 451305
+    level: 1
+    type: 4
+    skill_priority: 10
+    cd_type: 1
+    cd_time: 150
+    trigger_id: "451305"
+    target_select_ai: 7
+    buff_id_target: 2785:1,2787:1
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45140101
+    name: 全队烟花提升
+    skill_group_id: 451401
+    level: 1
+    type: 4
+    skill_priority: 20
+    cd_type: 1
+    cd_time: 99999
+    target_select_ai: 2
+    action_id: 550
+    is_form_action: 1
+    buff_id_target: 20035:1,20036:1,20037:1
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 45140201
+    name: 叶戈尔开场限伤
+    skill_group_id: 451402
+    level: 1
+    type: 4
+    skill_priority: 20
+    cd_type: 1
+    cd_time: 99999
+    target_select_ai: 1
+    is_form_action: 1
+    buff_id_self: 2788:1
     train_coin_type: 1
     is_switch: 1
   }
@@ -346161,6 +346838,384 @@
     skill_duration: "60"
     train_coin_type: 1
     is_switch: 1
+  }
+  {
+    id: 75728101
+    name: 반중력 필드
+    skill_group_id: 757281
+    level: 1
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    start_cd_time: 30
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 2
+    buff_id_target: 6392:1,6393:1
+    description: 다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 10점, 이동속도를 3점 상승시킨다. 지속시간 60초.
+    lvup_description: 회피 상승치:10점,이동속도 상승치:3점
+    data_pool_1: "1800"
+    data_pool_2: "10,3"
+    code: space
+    train_coin_type: 1
+    target_lost: 2
+    daynight_only: 1
+    interrupt_type: 1
+    is_switch: 1
+    consumption: 1
+  }
+  {
+    id: 75728102
+    name: 반중력 필드
+    skill_group_id: 757281
+    level: 2
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    start_cd_time: 30
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 2
+    buff_id_target: 6392:1,6393:1
+    description: 다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 12점, 이동속도를 3점 상승시킨다. 지속시간 60초.
+    lvup_description: 회피 상승치:12점,이동속도 상승치:3점
+    data_pool_1: "1800"
+    data_pool_2: "12,3"
+    code: space
+    train_coin_type: 1
+    train_coin_number: 200
+    target_lost: 2
+    daynight_only: 1
+    interrupt_type: 1
+    is_switch: 1
+    consumption: 1
+  }
+  {
+    id: 75728103
+    name: 반중력 필드
+    skill_group_id: 757281
+    level: 3
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    start_cd_time: 30
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 2
+    buff_id_target: 6392:1,6393:1
+    description: 다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 14점, 이동속도를 3점 상승시킨다. 지속시간 60초.
+    lvup_description: 회피 상승치:14점,이동속도 상승치:3점
+    data_pool_1: "1800"
+    data_pool_2: "14,3"
+    code: space
+    train_coin_type: 1
+    train_coin_number: 400
+    target_lost: 2
+    daynight_only: 1
+    interrupt_type: 1
+    is_switch: 1
+    consumption: 1
+  }
+  {
+    id: 75728104
+    name: 반중력 필드
+    skill_group_id: 757281
+    level: 4
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    start_cd_time: 30
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 2
+    buff_id_target: 6392:1,6393:1
+    description: 다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 17점, 이동속도를 4점 상승시킨다. 지속시간 60초.
+    lvup_description: 회피 상승치:17점,이동속도 상승치:4점
+    data_pool_1: "1800"
+    data_pool_2: "17,4"
+    code: space
+    train_coin_type: 1
+    train_coin_number: 600
+    target_lost: 2
+    daynight_only: 1
+    interrupt_type: 1
+    is_switch: 1
+    consumption: 1
+  }
+  {
+    id: 75728105
+    name: 반중력 필드
+    skill_group_id: 757281
+    level: 5
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    start_cd_time: 30
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 2
+    buff_id_target: 6392:1,6393:1
+    description: 다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 19점, 이동속도를 4점 상승시킨다. 지속시간 60초.
+    lvup_description: 회피 상승치:19점,이동속도 상승치:4점
+    data_pool_1: "1800"
+    data_pool_2: "19,4"
+    code: space
+    train_coin_type: 2
+    train_coin_number: 200
+    target_lost: 2
+    daynight_only: 1
+    interrupt_type: 1
+    is_switch: 1
+    consumption: 1
+  }
+  {
+    id: 75728106
+    name: 반중력 필드
+    skill_group_id: 757281
+    level: 6
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    start_cd_time: 30
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 2
+    buff_id_target: 6392:1,6393:1
+    description: 다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 21점, 이동속도를 4점 상승시킨다. 지속시간 60초.
+    lvup_description: 회피 상승치:21점,이동속도 상승치:4점
+    data_pool_1: "1800"
+    data_pool_2: "21,4"
+    code: space
+    train_coin_type: 2
+    train_coin_number: 400
+    target_lost: 2
+    daynight_only: 1
+    interrupt_type: 1
+    is_switch: 1
+    consumption: 1
+    skill_up_time: 36000
+  }
+  {
+    id: 75728107
+    name: 반중력 필드
+    skill_group_id: 757281
+    level: 7
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    start_cd_time: 30
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 2
+    buff_id_target: 6392:1,6393:1
+    description: 다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 23점, 이동속도를 4점 상승시킨다. 지속시간 60초.
+    lvup_description: 회피 상승치:23점,이동속도 상승치:4점
+    data_pool_1: "1800"
+    data_pool_2: "23,4"
+    code: space
+    train_coin_type: 2
+    train_coin_number: 600
+    target_lost: 2
+    daynight_only: 1
+    interrupt_type: 1
+    is_switch: 1
+    consumption: 1
+    skill_up_time: 36000
+  }
+  {
+    id: 75728108
+    name: 반중력 필드
+    skill_group_id: 757281
+    level: 8
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    start_cd_time: 30
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 2
+    buff_id_target: 6392:1,6393:1
+    description: 다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 26점, 이동속도를 5점 상승시킨다. 지속시간 60초.
+    lvup_description: 회피 상승치:26점,이동속도 상승치:5점
+    data_pool_1: "1800"
+    data_pool_2: "26,5"
+    code: space
+    train_coin_type: 3
+    train_coin_number: 200
+    target_lost: 2
+    daynight_only: 1
+    interrupt_type: 1
+    is_switch: 1
+    consumption: 1
+    skill_up_time: 36000
+  }
+  {
+    id: 75728109
+    name: 반중력 필드
+    skill_group_id: 757281
+    level: 9
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    start_cd_time: 30
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 2
+    buff_id_target: 6392:1,6393:1
+    description: 다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 28점, 이동속도를 5점 상승시킨다. 지속시간 60초.
+    lvup_description: 회피 상승치:28점,이동속도 상승치:5점
+    data_pool_1: "1800"
+    data_pool_2: "28,5"
+    code: space
+    train_coin_type: 3
+    train_coin_number: 400
+    target_lost: 2
+    daynight_only: 1
+    interrupt_type: 1
+    is_switch: 1
+    consumption: 1
+    skill_up_time: 36000
+  }
+  {
+    id: 75728110
+    name: 반중력 필드
+    skill_group_id: 757281
+    level: 10
+    type: 1
+    skill_priority: 2
+    cd_type: 1
+    start_cd_time: 30
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 2
+    buff_id_target: 6392:1,6393:1
+    description: 다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 30점, 이동속도를 5점 상승시킨다. 지속시간 60초.
+    lvup_description: 회피 상승치:30점,이동속도 상승치:5점
+    data_pool_1: "1800"
+    data_pool_2: "30,5"
+    code: space
+    train_coin_type: 3
+    train_coin_number: 600
+    target_lost: 2
+    daynight_only: 1
+    interrupt_type: 1
+    is_switch: 1
+    consumption: 1
+    skill_up_time: 36000
+  }
+  {
+    id: 75728201
+    name: 무중력
+    skill_group_id: 757282
+    level: 1
+    type: 9
+    skill_priority: 2
+    cd_type: 1
+    cd_time: 99999
+    trigger_id: "75519205"
+    trigger_type: 12
+    trigger_target: 1
+    trigger_parameter: "100"
+    target_select_ai: 2
+    description: 맨날 물구나무 서는 것도 아니고, 멋대로 날아가 버리거나 하진 않으니까 안심하세요.
+    lvup_description: 무한 저편
+    train_coin_type: 2
+    daynight_only: 1
+    is_switch: 1
+    passive_name: 무중력
+    is_rare: 1
+  }
+  {
+    id: 75728202
+    name: 무중력
+    skill_group_id: 757282
+    level: 2
+    type: 9
+    skill_priority: 2
+    cd_type: 1
+    cd_time: 99999
+    trigger_id: "75519205"
+    trigger_type: 12
+    trigger_target: 1
+    trigger_parameter: "100"
+    target_select_ai: 2
+    description: 맨날 물구나무 서는 것도 아니고, 멋대로 날아가 버리거나 하진 않으니까 안심하세요.
+    lvup_description: 무한 저편
+    train_coin_type: 2
+    train_coin_number: 100
+    daynight_only: 1
+    is_switch: 1
+    passive_name: 무중력
+    is_rare: 1
+  }
+  {
+    id: 75728203
+    name: 무중력
+    skill_group_id: 757282
+    level: 3
+    type: 9
+    skill_priority: 2
+    cd_type: 1
+    cd_time: 99999
+    trigger_id: "75519205"
+    trigger_type: 12
+    trigger_target: 1
+    trigger_parameter: "100"
+    target_select_ai: 2
+    description: 맨날 물구나무 서는 것도 아니고, 멋대로 날아가 버리거나 하진 않으니까 안심하세요.
+    lvup_description: 무한 저편
+    train_coin_type: 2
+    train_coin_number: 200
+    daynight_only: 1
+    is_switch: 1
+    passive_name: 무중력
+    is_rare: 1
+  }
+  {
+    id: 75728204
+    name: 무중력
+    skill_group_id: 757282
+    level: 4
+    type: 9
+    skill_priority: 2
+    cd_type: 1
+    cd_time: 99999
+    trigger_id: "75519205"
+    trigger_type: 12
+    trigger_target: 1
+    trigger_parameter: "100"
+    target_select_ai: 2
+    description: 맨날 물구나무 서는 것도 아니고, 멋대로 날아가 버리거나 하진 않으니까 안심하세요.
+    lvup_description: 무한 저편
+    train_coin_type: 3
+    train_coin_number: 300
+    daynight_only: 1
+    is_switch: 1
+    passive_name: 무중력
+    is_rare: 1
+  }
+  {
+    id: 75728205
+    name: 무중력
+    skill_group_id: 757282
+    level: 5
+    type: 9
+    skill_priority: 2
+    cd_type: 1
+    cd_time: 99999
+    trigger_id: "75519205"
+    trigger_type: 12
+    trigger_target: 1
+    trigger_parameter: "100"
+    target_select_ai: 2
+    description: 맨날 물구나무 서는 것도 아니고, 멋대로 날아가 버리거나 하진 않으니까 안심하세요.
+    lvup_description: 무한 저편
+    train_coin_type: 3
+    train_coin_number: 120
+    daynight_only: 1
+    is_switch: 1
+    passive_name: 무중력
+    is_rare: 1
   }
   {
     id: 75900101
@@ -558676,6 +559731,978 @@
     cd_type: 1
     target_select_ai: 1
     buff_id_self: 6556:1000006592
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 101160101
+    name: 절대 반격
+    skill_group_id: 1011601
+    level: 1
+    type: 1
+    skill_priority: 3
+    cd_type: 1
+    cd_time: 600
+    start_cd_time: 120
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    action_id: 400
+    buff_id_self: 11075:1,11076:1,11079:1,11080:1,11095:1
+    description:
+      '''
+      패시브: 공격받을 때 10% 확률로 장갑 +1점, 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 10배만큼의 피해를 준다.
+      액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -10점, 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 5초.
+      '''
+    lvup_description: 쿨타임:20초,장갑 배율:10배,받는 피해 감소:10점,지속시간:5초
+    data_pool_1: "150"
+    code: M887Skill
+    train_coin_type: 1
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160102
+    name: 절대 반격
+    skill_group_id: 1011601
+    level: 2
+    type: 1
+    skill_priority: 3
+    cd_type: 1
+    cd_time: 588
+    start_cd_time: 120
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    action_id: 400
+    buff_id_self: 11075:1,11076:1,11079:1,11081:1,11095:1
+    description:
+      '''
+      패시브: 공격받을 때 10% 확률로 장갑 +1점, 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 14배만큼의 피해를 준다.
+      액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -12점, 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 6초.
+      '''
+    lvup_description: 쿨타임:19.6초,장갑 배율:14배,받는 피해 감소:12점,지속시간:6초
+    data_pool_1: "180"
+    code: M887Skill
+    train_coin_type: 1
+    train_coin_number: 100
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160103
+    name: 절대 반격
+    skill_group_id: 1011601
+    level: 3
+    type: 1
+    skill_priority: 3
+    cd_type: 1
+    cd_time: 573
+    start_cd_time: 120
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    action_id: 400
+    buff_id_self: 11075:1,11076:1,11079:1,11082:1,11095:1
+    description:
+      '''
+      패시브: 공격받을 때 10% 확률로 장갑 +1점, 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 19배만큼의 피해를 준다.
+      액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -14점, 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 6초.
+      '''
+    lvup_description: 쿨타임:19.1초,장갑 배율:19배,받는 피해 감소:14점,지속시간:6초
+    data_pool_1: "180"
+    code: M887Skill
+    train_coin_type: 1
+    train_coin_number: 200
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160104
+    name: 절대 반격
+    skill_group_id: 1011601
+    level: 4
+    type: 1
+    skill_priority: 3
+    cd_type: 1
+    cd_time: 561
+    start_cd_time: 120
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    action_id: 400
+    buff_id_self: 11075:1,11076:1,11079:1,11083:1,11095:1
+    description:
+      '''
+      패시브: 공격받을 때 10% 확률로 장갑 +1점, 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 23배만큼의 피해를 준다.
+      액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -17점, 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 7초.
+      '''
+    lvup_description: 쿨타임:18.7초,장갑 배율:23배,받는 피해 감소:17점,지속시간:7초
+    data_pool_1: "210"
+    code: M887Skill
+    train_coin_type: 1
+    train_coin_number: 300
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160105
+    name: 절대 반격
+    skill_group_id: 1011601
+    level: 5
+    type: 1
+    skill_priority: 3
+    cd_type: 1
+    cd_time: 546
+    start_cd_time: 120
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    action_id: 400
+    buff_id_self: 11075:1,11076:1,11079:1,11084:1,11095:1
+    description:
+      '''
+      패시브: 공격받을 때 10% 확률로 장갑 +1점, 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 28배만큼의 피해를 준다.
+      액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -19점, 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 7초.
+      '''
+    lvup_description: 쿨타임:18.2초,장갑 배율:28배,받는 피해 감소:19점,지속시간:7초
+    data_pool_1: "210"
+    code: M887Skill
+    train_coin_type: 2
+    train_coin_number: 120
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160106
+    name: 절대 반격
+    skill_group_id: 1011601
+    level: 6
+    type: 1
+    skill_priority: 3
+    cd_type: 1
+    cd_time: 534
+    start_cd_time: 120
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    action_id: 400
+    buff_id_self: 11075:1,11076:1,11079:1,11085:1,11095:1
+    description:
+      '''
+      패시브: 공격받을 때 10% 확률로 장갑 +1점, 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 32배만큼의 피해를 준다.
+      액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -21점, 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 8초.
+      '''
+    lvup_description: 쿨타임:17.8초,장갑 배율:32배,받는 피해 감소:21점,지속시간:8초
+    data_pool_1: "240"
+    code: M887Skill
+    train_coin_type: 2
+    train_coin_number: 200
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160107
+    name: 절대 반격
+    skill_group_id: 1011601
+    level: 7
+    type: 1
+    skill_priority: 3
+    cd_type: 1
+    cd_time: 519
+    start_cd_time: 120
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    action_id: 400
+    buff_id_self: 11075:1,11076:1,11079:1,11086:1,11095:1
+    description:
+      '''
+      패시브: 공격받을 때 10% 확률로 장갑 +1점, 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 37배만큼의 피해를 준다.
+      액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -23점, 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 8초.
+      '''
+    lvup_description: 쿨타임:17.3초,장갑 배율:37배,받는 피해 감소:23점,지속시간:8초
+    data_pool_1: "240"
+    code: M887Skill
+    train_coin_type: 2
+    train_coin_number: 300
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160108
+    name: 절대 반격
+    skill_group_id: 1011601
+    level: 8
+    type: 1
+    skill_priority: 3
+    cd_type: 1
+    cd_time: 507
+    start_cd_time: 120
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    action_id: 400
+    buff_id_self: 11075:1,11076:1,11079:1,11087:1,11095:1
+    description:
+      '''
+      패시브: 공격받을 때 10% 확률로 장갑 +1점, 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 41배만큼의 피해를 준다.
+      액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -26점, 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 9초.
+      '''
+    lvup_description: 쿨타임:16.9초,장갑 배율:41배,받는 피해 감소:26점,지속시간:9초
+    data_pool_1: "270"
+    code: M887Skill
+    train_coin_type: 2
+    train_coin_number: 400
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160109
+    name: 절대 반격
+    skill_group_id: 1011601
+    level: 9
+    type: 1
+    skill_priority: 3
+    cd_type: 1
+    cd_time: 492
+    start_cd_time: 120
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    action_id: 400
+    buff_id_self: 11075:1,11076:1,11079:1,11088:1,11095:1
+    description:
+      '''
+      패시브: 공격받을 때 10% 확률로 장갑 +1점, 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 46배만큼의 피해를 준다.
+      액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -28점, 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 9초.
+      '''
+    lvup_description: 쿨타임:16.4초,장갑 배율:46배,받는 피해 감소:28점,지속시간:9초
+    data_pool_1: "270"
+    code: M887Skill
+    train_coin_type: 3
+    train_coin_number: 200
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160110
+    name: 절대 반격
+    skill_group_id: 1011601
+    level: 10
+    type: 1
+    skill_priority: 3
+    cd_type: 1
+    cd_time: 480
+    start_cd_time: 120
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    action_id: 400
+    buff_id_self: 11075:1,11076:1,11079:1,11089:1,11095:1
+    description:
+      '''
+      패시브: 공격받을 때 10% 확률로 장갑 +1점, 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 50배만큼의 피해를 준다.
+      액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -30점, 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 10초.
+      '''
+    lvup_description: 쿨타임:16초,장갑 배율:50배,받는 피해 감소:30점,지속시간:10초
+    data_pool_1: "300"
+    code: M887Skill
+    train_coin_type: 3
+    train_coin_number: 300
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160201
+    name: M887监视受击
+    skill_group_id: 1011602
+    level: 1
+    type: 4
+    skill_priority: 20
+    cd_type: 1
+    cd_time: 99999
+    target_select_ai: 1
+    buff_id_self: 11090:1
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 101160301
+    name: M887监视受击触发
+    skill_group_id: 1011603
+    level: 1
+    type: 8
+    skill_priority: 20
+    cd_type: 1
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    buff_id_self: 11092:1000010045,11094:1
+    train_coin_type: 1
+    is_switch: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160401
+    name: M887监视受击增益触发
+    skill_group_id: 1011604
+    level: 1
+    type: 4
+    skill_priority: 20
+    cd_type: 1
+    trigger_id: "1011604"
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    buff_id_self: 11091:1,11093:1,11092:-1
+    train_coin_type: 1
+    is_switch: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160501
+    name: M887受击触发反击
+    skill_group_id: 1011605
+    level: 1
+    type: 4
+    skill_priority: 10
+    cd_type: 1
+    cd_time: 10
+    trigger_id: "1011605"
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 3
+    action_id: 9308
+    buff_id_self: 11094:-100
+    data_pool_2: *10046
+    train_coin_type: 1
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160502
+    name: M887受击触发反击
+    skill_group_id: 1011605
+    level: 2
+    type: 4
+    skill_priority: 10
+    cd_type: 1
+    cd_time: 10
+    trigger_id: "1011605"
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 3
+    action_id: 9308
+    buff_id_self: 11094:-100
+    data_pool_2: *10047
+    train_coin_type: 1
+    train_coin_number: 100
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160503
+    name: M887受击触发反击
+    skill_group_id: 1011605
+    level: 3
+    type: 4
+    skill_priority: 10
+    cd_type: 1
+    cd_time: 10
+    trigger_id: "1011605"
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 3
+    action_id: 9308
+    buff_id_self: 11094:-100
+    data_pool_2: *10048
+    train_coin_type: 1
+    train_coin_number: 200
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160504
+    name: M887受击触发反击
+    skill_group_id: 1011605
+    level: 4
+    type: 4
+    skill_priority: 10
+    cd_type: 1
+    cd_time: 10
+    trigger_id: "1011605"
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 3
+    action_id: 9308
+    buff_id_self: 11094:-100
+    data_pool_2: *10049
+    train_coin_type: 1
+    train_coin_number: 300
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160505
+    name: M887受击触发反击
+    skill_group_id: 1011605
+    level: 5
+    type: 4
+    skill_priority: 10
+    cd_type: 1
+    cd_time: 10
+    trigger_id: "1011605"
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 3
+    action_id: 9308
+    buff_id_self: 11094:-100
+    data_pool_2: *10050
+    train_coin_type: 2
+    train_coin_number: 120
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160506
+    name: M887受击触发反击
+    skill_group_id: 1011605
+    level: 6
+    type: 4
+    skill_priority: 10
+    cd_type: 1
+    cd_time: 10
+    trigger_id: "1011605"
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 3
+    action_id: 9308
+    buff_id_self: 11094:-100
+    data_pool_2: *10051
+    train_coin_type: 2
+    train_coin_number: 200
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160507
+    name: M887受击触发反击
+    skill_group_id: 1011605
+    level: 7
+    type: 4
+    skill_priority: 10
+    cd_type: 1
+    cd_time: 10
+    trigger_id: "1011605"
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 3
+    action_id: 9308
+    buff_id_self: 11094:-100
+    data_pool_2: *10052
+    train_coin_type: 2
+    train_coin_number: 300
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160508
+    name: M887受击触发反击
+    skill_group_id: 1011605
+    level: 8
+    type: 4
+    skill_priority: 10
+    cd_type: 1
+    cd_time: 10
+    trigger_id: "1011605"
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 3
+    action_id: 9308
+    buff_id_self: 11094:-100
+    data_pool_2: *10053
+    train_coin_type: 2
+    train_coin_number: 400
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160509
+    name: M887受击触发反击
+    skill_group_id: 1011605
+    level: 9
+    type: 4
+    skill_priority: 10
+    cd_type: 1
+    cd_time: 10
+    trigger_id: "1011605"
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 3
+    action_id: 9308
+    buff_id_self: 11094:-100
+    data_pool_2: *10054
+    train_coin_type: 3
+    train_coin_number: 200
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101160510
+    name: M887受击触发反击
+    skill_group_id: 1011605
+    level: 10
+    type: 4
+    skill_priority: 10
+    cd_type: 1
+    cd_time: 10
+    trigger_id: "1011605"
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 3
+    action_id: 9308
+    buff_id_self: 11094:-100
+    data_pool_2: *10055
+    train_coin_type: 3
+    train_coin_number: 300
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101170101
+    name: 신호 투사
+    skill_group_id: 1011701
+    level: 1
+    type: 2
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 99999
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    buff_id_self: 11096:50,11097:100,11098:50
+    description:
+      '''
+      공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 50점, 화력 100점, 사속 50점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.
+      증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며, 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+      '''
+    lvup_description: 체력 스탯:50점,화력 스탯:100점,사속 스탯50점
+    code: Type53Skill
+    train_coin_type: 1
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101170102
+    name: 신호 투사
+    skill_group_id: 1011701
+    level: 2
+    type: 2
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 99999
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    buff_id_self: 11096:56,11097:140,11098:56
+    description:
+      '''
+      공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 56점, 화력 111점, 사속 56점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.
+      증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며, 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+      '''
+    lvup_description: 체력 스탯:56점,화력 스탯:111점,사속 스탯56점
+    code: Type53Skill
+    train_coin_type: 1
+    train_coin_number: 100
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101170103
+    name: 신호 투사
+    skill_group_id: 1011701
+    level: 3
+    type: 2
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 99999
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    buff_id_self: 11096:61,11097:190,11098:61
+    description:
+      '''
+      공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 61점, 화력 122점, 사속 61점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.
+      증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며, 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+      '''
+    lvup_description: 체력 스탯:61점,화력 스탯:122점,사속 스탯61점
+    code: Type53Skill
+    train_coin_type: 1
+    train_coin_number: 200
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101170104
+    name: 신호 투사
+    skill_group_id: 1011701
+    level: 4
+    type: 2
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 99999
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    buff_id_self: 11096:67,11097:230,11098:67
+    description:
+      '''
+      공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 67점, 화력 133점, 사속 67점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.
+      증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며, 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+      '''
+    lvup_description: 체력 스탯:67점,화력 스탯:133점,사속 스탯67점
+    code: Type53Skill
+    train_coin_type: 1
+    train_coin_number: 300
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101170105
+    name: 신호 투사
+    skill_group_id: 1011701
+    level: 5
+    type: 2
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 99999
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    buff_id_self: 11096:72,11097:280,11098:72
+    description:
+      '''
+      공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 72점, 화력 144점, 사속 72점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.
+      증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며, 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+      '''
+    lvup_description: 체력 스탯:72점,화력 스탯:144점,사속 스탯72점
+    code: Type53Skill
+    train_coin_type: 2
+    train_coin_number: 120
+    is_switch: 1
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101170106
+    name: 신호 투사
+    skill_group_id: 1011701
+    level: 6
+    type: 2
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 99999
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    buff_id_self: 11096:78,11097:320,11098:78
+    description:
+      '''
+      공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 78점, 화력 156점, 사속 78점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.
+      증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며, 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+      '''
+    lvup_description: 체력 스탯:78점,화력 스탯:156점,사속 스탯78점
+    code: Type53Skill
+    train_coin_type: 2
+    train_coin_number: 200
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101170107
+    name: 신호 투사
+    skill_group_id: 1011701
+    level: 7
+    type: 2
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 99999
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    buff_id_self: 11096:83,11097:370,11098:83
+    description:
+      '''
+      공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 83점, 화력 167점, 사속 83점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.
+      증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며, 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+      '''
+    lvup_description: 체력 스탯:83점,화력 스탯:167점,사속 스탯83점
+    code: Type53Skill
+    train_coin_type: 2
+    train_coin_number: 300
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101170108
+    name: 신호 투사
+    skill_group_id: 1011701
+    level: 8
+    type: 2
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 99999
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    buff_id_self: 11096:89,11097:410,11098:89
+    description:
+      '''
+      공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 89점, 화력 178점, 사속 89점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.
+      증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며, 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+      '''
+    lvup_description: 체력 스탯:89점,화력 스탯:178점,사속 스탯89점
+    code: Type53Skill
+    train_coin_type: 2
+    train_coin_number: 400
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101170109
+    name: 신호 투사
+    skill_group_id: 1011701
+    level: 9
+    type: 2
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 99999
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    buff_id_self: 11096:94,11097:460,11098:94
+    description:
+      '''
+      공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 94점, 화력 189점, 사속 94점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.
+      증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며, 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+      '''
+    lvup_description: 체력 스탯:94점,화력 스탯:189점,사속 스탯94점
+    code: Type53Skill
+    train_coin_type: 3
+    train_coin_number: 200
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101170110
+    name: 신호 투사
+    skill_group_id: 1011701
+    level: 10
+    type: 2
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 99999
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    buff_id_self: 11096:100,11097:500,11098:100
+    description:
+      '''
+      공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 100점, 화력 200점, 사속 100점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.
+      증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며, 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+      '''
+    lvup_description: 체력 스탯:100점,화력 스탯:200점,사속 스탯100점
+    code: Type53Skill
+    train_coin_type: 3
+    train_coin_number: 300
+    is_switch: 1
+    skill_up_time: 36000
+    is_cdr: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101170201
+    name: 53式普攻[*]
+    skill_group_id: 1011702
+    level: 1
+    type: 3
+    skill_priority: 1
+    cd_type: 3
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 7
+    is_re_target: 1
+    action_id: 9309
+    skill_duration: "10"
+    is_form_action: 1
+    description: 步枪的일반攻击
+    data_pool_1: "90"
+    data_pool_2: "150"
+    train_coin_type: 1
+    target_lost: 2
+    is_switch: 1
+  }
+  {
+    id: 101170301
+    name: 53式召唤物普攻[*]
+    skill_group_id: 1011703
+    level: 1
+    type: 3
+    skill_priority: 1
+    cd_type: 3
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 6
+    is_re_target: 1
+    action_id: 9309
+    skill_duration: "10"
+    is_form_action: 1
+    description: 步枪的일반攻击
+    data_pool_1: "90"
+    data_pool_2: "150"
+    train_coin_type: 1
+    target_lost: 2
+    is_switch: 1
+  }
+  {
+    id: 101170401
+    name: 53式지원触发
+    skill_group_id: 1011704
+    level: 1
+    type: 4
+    skill_priority: 20
+    cd_type: 1
+    trigger_id: "1011704"
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    action_id: 9310
+    buff_id_self: 11099:-1
+    train_coin_type: 1
+    is_switch: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101170501
+    name: 53式지원自爆
+    skill_group_id: 1011705
+    level: 1
+    type: 2
+    skill_priority: 25
+    cd_type: 1
+    cd_time: 99999
+    start_cd_time: 150
+    target_select_ai: 1
+    action_id: 223
+    train_coin_type: 1
+    is_switch: 1
+  }
+  {
+    id: 101170601
+    name: 53式지원记录
+    skill_group_id: 1011706
+    level: 1
+    type: 4
+    skill_priority: 20
+    cd_type: 1
+    cd_time: 99999
+    trigger_type: 1
+    trigger_target: 1
+    target_select_ai: 1
+    buff_id_self: 11096:1000010065,11097:1000010066,11098:1000010067
+    train_coin_type: 1
+    is_switch: 1
+    skill_lv_call: 1
+    special_buff_trigger: "2"
+  }
+  {
+    id: 101180101
+    name: 버프 상세
+    skill_group_id: 1011801
+    level: 1
+    type: 4
+    skill_priority: 20
+    cd_type: 1
+    cd_time: 99999
+    target_select_ai: 1
+    buff_id_self: 12001:1
+    description: '''"PC 통신 헤드셋"을 착용 시, "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.'''
     train_coin_type: 1
     is_switch: 1
   }

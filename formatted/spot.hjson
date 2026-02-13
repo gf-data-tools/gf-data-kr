@@ -492885,6 +492885,1788 @@
     map_code: network
   }
   {
+    id: 97372
+    mission_id: 11987
+    type: 3
+    route: "97386,97387,97373,97376"
+    coordinator_x: -1324
+    coordinator_y: 1236
+    ally_team_id: 800101
+    belong: 1
+    map_type: 2
+    curve_control: "-1195,1011|-1050,1197|-1428,1433|-1272,1419"
+    active_cycle: "99,1"
+    map_route: "97373,97376,97386,97387"
+    map_code: snowland
+    building_id: 800002
+  }
+  {
+    id: 97373
+    mission_id: 11987
+    type: 2
+    route: "97372,97374,97379"
+    coordinator_x: -1251
+    coordinator_y: 533
+    belong: 3
+    map_type: 2
+    curve_control: "-1206,793|-1299,243|-1019,488"
+    map_route: "97372,97374,97379"
+    map_code: snowland
+  }
+  {
+    id: 97374
+    mission_id: 11987
+    type: 2
+    route: "97373,97375"
+    coordinator_x: -1371
+    coordinator_y: -191
+    enemy_team_id: 800101
+    belong: 3
+    map_type: 2
+    curve_control: "-1323,98|-1454,-516"
+    map_route: "97373,97375"
+    map_code: snowland
+  }
+  {
+    id: 97375
+    mission_id: 11987
+    type: 3
+    route: "97374,97380"
+    coordinator_x: -1177
+    coordinator_y: -778
+    enemy_team_id: 800102
+    belong: 2
+    map_type: 2
+    curve_control: "-1421,-738|-1006,-884"
+    map_route: "97374,97380"
+    map_code: snowland
+    building_id: 800002
+  }
+  {
+    id: 97376
+    mission_id: 11987
+    type: 2
+    route: "97372,97384,97379,97377"
+    coordinator_x: -611
+    coordinator_y: 1087
+    belong: 3
+    map_type: 2
+    curve_control: "-901,1179|-359,985|-635,821|-358,1080"
+    map_route: "97372,97377,97379,97384"
+    map_code: snowland
+    building_id: 800001
+  }
+  {
+    id: 97377
+    mission_id: 11987
+    type: 2
+    route: "97376,97378"
+    coordinator_x: 19
+    coordinator_y: 831
+    belong: 3
+    map_type: 2
+    curve_control: "-233,933|269,700"
+    map_route: "97376,97378"
+    map_code: snowland
+  }
+  {
+    id: 97378
+    mission_id: 11987
+    type: 2
+    route: "97377,97382"
+    coordinator_x: 533
+    coordinator_y: 505
+    belong: 3
+    map_type: 2
+    curve_control: "387,655|715,262"
+    map_route: "97377,97382"
+    map_code: snowland
+  }
+  {
+    id: 97379
+    mission_id: 11987
+    type: 2
+    route: "97380,97376,97373"
+    coordinator_x: -671
+    coordinator_y: 422
+    belong: 3
+    map_type: 2
+    curve_control: "-904,509|-647,688|-688,118"
+    map_route: "97373,97376,97380"
+    map_code: snowland
+  }
+  {
+    id: 97380
+    mission_id: 11987
+    type: 2
+    route: "97375,97379,97381"
+    coordinator_x: -714
+    coordinator_y: -336
+    belong: 3
+    map_type: 2
+    curve_control: "-799,-655|-566,7|-453,-345"
+    map_route: "97375,97379,97381"
+    map_code: snowland
+  }
+  {
+    id: 97381
+    mission_id: 11987
+    type: 2
+    route: "97380,97383"
+    coordinator_x: -113
+    coordinator_y: -601
+    enemy_team_id: 800101
+    belong: 3
+    map_type: 2
+    curve_control: "-406,-604|147,-652"
+    map_route: "97380,97383"
+    map_code: snowland
+  }
+  {
+    id: 97382
+    mission_id: 11987
+    type: 2
+    route: "97378,97383"
+    coordinator_x: 722
+    coordinator_y: -132
+    enemy_team_id: 800101
+    belong: 3
+    map_type: 2
+    curve_control: "722,116|696,-382"
+    map_route: "97378,97383"
+    map_code: snowland
+  }
+  {
+    id: 97383
+    mission_id: 11987
+    type: 1
+    route: "97382,97388,97381"
+    coordinator_x: 539
+    coordinator_y: -729
+    enemy_team_id: 800104
+    belong: 2
+    map_type: 2
+    curve_control: "238,-549|641,-498|781,-800"
+    map_route: "97381,97382,97388"
+    map_code: snowland
+  }
+  {
+    id: 97384
+    mission_id: 11987
+    type: 2
+    route: "97376,97385"
+    coordinator_x: -96
+    coordinator_y: 1346
+    belong: 3
+    map_type: 2
+    curve_control: "-235,1164|5,1586"
+    map_route: "97376,97385"
+    map_code: snowland
+  }
+  {
+    id: 97385
+    mission_id: 11987
+    type: 3
+    route: "97384"
+    coordinator_x: -36
+    coordinator_y: 1953
+    enemy_team_id: 800102
+    belong: 2
+    map_type: 2
+    curve_control: "-9,1724"
+    map_route: "97384"
+    map_code: snowland
+    building_id: 800002
+  }
+  {
+    id: 97386
+    mission_id: 11987
+    type: 3
+    route: "97372"
+    coordinator_x: -1729
+    coordinator_y: 1688
+    ally_team_id: 800102
+    belong: 1
+    map_type: 2
+    curve_control: "-1567,1507"
+    active_cycle: "99,1"
+    map_route: "97372"
+    map_code: snowland
+    building_id: 800002
+  }
+  {
+    id: 97387
+    mission_id: 11987
+    type: 3
+    route: "97372"
+    coordinator_x: -1034
+    coordinator_y: 1774
+    ally_team_id: 800103
+    belong: 1
+    map_type: 2
+    curve_control: "-1150,1558"
+    active_cycle: "99,1"
+    map_route: "97372"
+    map_code: snowland
+    building_id: 800002
+  }
+  {
+    id: 97388
+    mission_id: 11987
+    type: 2
+    route: "97383"
+    coordinator_x: 1145
+    coordinator_y: -908
+    belong: 2
+    map_type: 2
+    curve_control: "902,-836"
+    map_route: "97383"
+    map_code: snowland
+  }
+  {
+    id: 97389
+    mission_id: 11988
+    type: 3
+    route: "97394,97390,97400,97438"
+    coordinator_x: -292
+    coordinator_y: 1853
+    belong: 1
+    map_type: 2
+    curve_control: "-327,1700|-100,1881|-485,1794|-275,2112"
+    map_route: "97390,97394,97400,97438"
+    map_code: village2
+    building_id: 800002
+  }
+  {
+    id: 97390
+    mission_id: 11988
+    type: 1
+    route: "97391,97389,97397,97400,97394"
+    coordinator_x: -221
+    coordinator_y: 1350
+    belong: 1
+    map_type: 2
+    curve_control: "-308,1547|-146,1225|-147,1362|-398,1197|-481,1397"
+    map_route: "97389,97391,97394,97397,97400"
+    map_code: village2
+    building_id: 800002
+  }
+  {
+    id: 97391
+    mission_id: 11988
+    type: 3
+    route: "97392,97390,97399"
+    coordinator_x: 37
+    coordinator_y: 997
+    belong: 1
+    map_type: 2
+    curve_control: "-85,1149|118,827|-94,928"
+    map_route: "97390,97392,97399"
+    map_code: village2
+    building_id: 800002
+  }
+  {
+    id: 97392
+    mission_id: 11988
+    type: 3
+    route: "97401,97393,97391,97398"
+    coordinator_x: 213
+    coordinator_y: 624
+    belong: 1
+    map_type: 2
+    curve_control: "159,742|307,451|-37,506|382,702"
+    active_cycle: "99,1"
+    map_route: "97391,97393,97398,97401"
+    map_code: village2
+    building_id: 800001
+  }
+  {
+    id: 97393
+    mission_id: 11988
+    type: 2
+    route: "97392,97432"
+    coordinator_x: 389
+    coordinator_y: 161
+    belong: 1
+    map_type: 2
+    curve_control: "307,327|468,-40"
+    map_route: "97392,97432"
+    map_code: village2
+  }
+  {
+    id: 97394
+    mission_id: 11988
+    type: 3
+    route: "97389,97395,97390,97439"
+    coordinator_x: 245
+    coordinator_y: 1798
+    belong: 1
+    map_type: 2
+    curve_control: "29,1877|96,1405|402,1712|287,1999"
+    map_route: "97389,97390,97395,97439"
+    map_code: village2
+    building_id: 800002
+  }
+  {
+    id: 97395
+    mission_id: 11988
+    type: 3
+    route: "97394,97396"
+    coordinator_x: 645
+    coordinator_y: 1433
+    belong: 1
+    map_type: 2
+    curve_control: "520,1590|806,1280"
+    active_cycle: "99,1"
+    map_route: "97394,97396"
+    map_code: village2
+  }
+  {
+    id: 97396
+    mission_id: 11988
+    type: 3
+    route: "97395,97401,97441,97492"
+    coordinator_x: 1019
+    coordinator_y: 962
+    belong: 1
+    map_type: 2
+    curve_control: "895,1102|909,926|1056,1199|1240,742"
+    active_cycle: "99,1"
+    map_route: "97395,97401,97441,97492"
+    map_code: village2
+  }
+  {
+    id: 97397
+    mission_id: 11988
+    type: 3
+    route: "97390,97400,97398,97462"
+    coordinator_x: -763
+    coordinator_y: 1052
+    belong: 1
+    map_type: 2
+    curve_control: "-646,1040|-639,761|-869,1252|-986,1005"
+    map_route: "97390,97398,97400,97462"
+    map_code: village2
+    building_id: 800002
+  }
+  {
+    id: 97398
+    mission_id: 11988
+    type: 3
+    route: "97397,97392,97463"
+    coordinator_x: -453
+    coordinator_y: 325
+    belong: 1
+    map_type: 2
+    curve_control: "-175,424|-577,616|-610,221"
+    active_cycle: "99,1"
+    map_route: "97392,97397,97463"
+    map_code: village2
+  }
+  {
+    id: 97399
+    mission_id: 11988
+    type: 3
+    route: "97391"
+    coordinator_x: -292
+    coordinator_y: 824
+    belong: 1
+    map_type: 2
+    curve_control: "-160,893"
+    map_route: "97391"
+    map_code: village2
+    building_id: 800002
+  }
+  {
+    id: 97400
+    mission_id: 11988
+    type: 3
+    route: "97389,97390,97397,97460"
+    coordinator_x: -767
+    coordinator_y: 1641
+    belong: 1
+    map_type: 2
+    curve_control: "-579,1743|-587,1523|-917,1429|-965,1758"
+    map_route: "97389,97390,97397,97460"
+    map_code: village2
+    building_id: 800002
+  }
+  {
+    id: 97401
+    mission_id: 11988
+    type: 3
+    route: "97396,97392"
+    coordinator_x: 645
+    coordinator_y: 808
+    belong: 1
+    map_type: 2
+    curve_control: "473,746|810,883"
+    active_cycle: "99,1"
+    map_route: "97392,97396"
+    map_code: village2
+  }
+  {
+    id: 97402
+    mission_id: 11988
+    type: 3
+    route: "97403,97408"
+    coordinator_x: -1400
+    coordinator_y: -3740
+    belong: 2
+    map_type: 2
+    curve_control: "-1080,-3740|-1240,-3468"
+    map_route: "97403,97408"
+    map_code: wasteland
+    building_id: 800002
+  }
+  {
+    id: 97403
+    mission_id: 11988
+    type: 2
+    route: "97404,97402,97409"
+    coordinator_x: -600
+    coordinator_y: -3740
+    belong: 3
+    map_type: 2
+    curve_control: "-920,-3740|-280,-3740|-440,-3468"
+    map_route: "97402,97404,97409"
+    map_code: wasteland
+  }
+  {
+    id: 97404
+    mission_id: 11988
+    type: 2
+    route: "97405,97403,97410"
+    coordinator_x: 200
+    coordinator_y: -3740
+    enemy_team_id: 800209
+    belong: 2
+    map_type: 2
+    curve_control: "-120,-3740|520,-3740|360,-3468"
+    map_route: "97403,97405,97410"
+    map_code: wasteland
+  }
+  {
+    id: 97405
+    mission_id: 11988
+    type: 2
+    route: "97406,97404"
+    coordinator_x: 1000
+    coordinator_y: -3740
+    belong: 3
+    map_type: 2
+    curve_control: "680,-3740|1320,-3740"
+    map_route: "97404,97406"
+    map_code: wasteland
+  }
+  {
+    id: 97406
+    mission_id: 11988
+    type: 2
+    route: "97407,97405,97412,97411"
+    coordinator_x: 1800
+    coordinator_y: -3740
+    belong: 3
+    map_type: 2
+    curve_control: "1480,-3740|2120,-3740|1640,-3468|1960,-3468"
+    map_route: "97405,97407,97411,97412"
+    map_code: wasteland
+  }
+  {
+    id: 97407
+    mission_id: 11988
+    type: 3
+    route: "97413,97406,97412"
+    coordinator_x: 2600
+    coordinator_y: -3740
+    belong: 2
+    map_type: 2
+    curve_control: "2280,-3740|2440,-3468|2760,-3468"
+    map_route: "97406,97412,97413"
+    map_code: wasteland
+    building_id: 800002
+  }
+  {
+    id: 97408
+    mission_id: 11988
+    type: 2
+    route: "97402,97414,97409"
+    coordinator_x: -1000
+    coordinator_y: -3060
+    belong: 3
+    map_type: 2
+    curve_control: "-1160,-3332|-680,-3060|-840,-2788"
+    map_route: "97402,97409,97414"
+    map_code: wasteland
+  }
+  {
+    id: 97409
+    mission_id: 11988
+    type: 5
+    route: "97415,97403,97408,97410"
+    coordinator_x: -200
+    coordinator_y: -3060
+    belong: 3
+    map_type: 2
+    curve_control: "-360,-3332|-520,-3060|120,-3060|-39,-2788"
+    durability: "1"
+    map_route: "97403,97408,97410,97415"
+    map_code: wasteland
+    building_id: 800003
+  }
+  {
+    id: 97410
+    mission_id: 11988
+    type: 3
+    route: "97409,97411,97415,97404"
+    coordinator_x: 600
+    coordinator_y: -3060
+    belong: 2
+    map_type: 2
+    curve_control: "440,-3332|280,-3060|920,-3060|440,-2788"
+    map_route: "97404,97409,97411,97415"
+    map_code: wasteland
+    building_id: 800002
+  }
+  {
+    id: 97411
+    mission_id: 11988
+    type: 2
+    route: "97410,97412,97406"
+    coordinator_x: 1400
+    coordinator_y: -3060
+    enemy_team_id: 800209
+    belong: 2
+    map_type: 2
+    curve_control: "1560,-3332|1080,-3060|1720,-3060"
+    map_route: "97406,97410,97412"
+    map_code: wasteland
+  }
+  {
+    id: 97412
+    mission_id: 11988
+    type: 8
+    route: "97411,97413,97418,97406,97417,97407"
+    coordinator_x: 2200
+    coordinator_y: -3060
+    belong: 3
+    map_type: 2
+    curve_control: "2040,-3332|2360,-3332|1880,-3060|2520,-3060|2040,-2788|2360,-2788"
+    durability: "0,5"
+    map_route: "97406,97407,97411,97413,97417,97418"
+    map_code: wasteland
+  }
+  {
+    id: 97413
+    mission_id: 11988
+    type: 2
+    route: "97419,97407,97412,97418"
+    coordinator_x: 3000
+    coordinator_y: -3060
+    belong: 3
+    map_type: 2
+    curve_control: "2840,-3332|2680,-3060|2840,-2788|3160,-2788"
+    map_route: "97407,97412,97418,97419"
+    map_code: wasteland
+  }
+  {
+    id: 97414
+    mission_id: 11988
+    type: 2
+    route: "97408,97420,97500"
+    coordinator_x: -600
+    coordinator_y: -2380
+    belong: 3
+    map_type: 2
+    curve_control: "-760,-2652|-440,-2108|-920,-2364"
+    map_route: "97408,97420,97500"
+    map_code: wasteland
+  }
+  {
+    id: 97415
+    mission_id: 11988
+    type: 2
+    route: "97421,97409,97410"
+    coordinator_x: 200
+    coordinator_y: -2380
+    belong: 3
+    map_type: 2
+    curve_control: "39,-2652|360,-2652|360,-2108"
+    map_route: "97409,97410,97421"
+    map_code: wasteland
+  }
+  {
+    id: 97416
+    mission_id: 11988
+    type: 2
+    route: "97422,97417"
+    coordinator_x: 1000
+    coordinator_y: -2380
+    enemy_team_id: 800210
+    belong: 2
+    map_type: 2
+    curve_control: "1320,-2380|1160,-2108"
+    map_route: "97417,97422"
+    map_code: wasteland
+  }
+  {
+    id: 97417
+    mission_id: 11988
+    type: 6
+    route: "97422,97412,97416,97423"
+    coordinator_x: 1800
+    coordinator_y: -2380
+    belong: 3
+    map_type: 2
+    curve_control: "1960,-2652|1480,-2380|1640,-2108|1960,-2108"
+    map_route: "97412,97416,97422,97423"
+    map_code: wasteland
+  }
+  {
+    id: 97418
+    mission_id: 11988
+    type: 2
+    route: "97424,97412,97413"
+    coordinator_x: 2600
+    coordinator_y: -2380
+    enemy_team_id: 800209
+    belong: 2
+    map_type: 2
+    curve_control: "2440,-2652|2760,-2652|2760,-2108"
+    map_route: "97412,97413,97424"
+    map_code: wasteland
+  }
+  {
+    id: 97419
+    mission_id: 11988
+    type: 2
+    route: "97425,97413"
+    coordinator_x: 3400
+    coordinator_y: -2380
+    belong: 3
+    map_type: 2
+    curve_control: "3240,-2652|3560,-2108"
+    map_route: "97413,97425"
+    map_code: wasteland
+  }
+  {
+    id: 97420
+    mission_id: 11988
+    type: 2
+    route: "97414,97426,97499"
+    coordinator_x: -200
+    coordinator_y: -1700
+    enemy_team_id: 800208
+    belong: 2
+    map_type: 2
+    curve_control: "-360,-1972|-39,-1428|-416,-1480"
+    map_route: "97414,97426,97499"
+    map_code: wasteland
+  }
+  {
+    id: 97421
+    mission_id: 11988
+    type: 2
+    route: "97427,97415,97426"
+    coordinator_x: 600
+    coordinator_y: -1700
+    enemy_team_id: 800208
+    belong: 2
+    map_type: 2
+    curve_control: "440,-1972|440,-1428|760,-1428"
+    map_route: "97415,97426,97427"
+    map_code: wasteland
+  }
+  {
+    id: 97422
+    mission_id: 11988
+    type: 2
+    route: "97427,97417,97416,97423"
+    coordinator_x: 1400
+    coordinator_y: -1700
+    belong: 1
+    map_type: 2
+    curve_control: "1240,-1972|1560,-1972|1720,-1700|1240,-1428"
+    map_route: "97416,97417,97423,97427"
+    map_code: wasteland
+  }
+  {
+    id: 97423
+    mission_id: 11988
+    type: 2
+    route: "97422,97417"
+    coordinator_x: 2200
+    coordinator_y: -1700
+    enemy_team_id: 800210
+    belong: 2
+    map_type: 2
+    curve_control: "2040,-1972|1880,-1700"
+    map_route: "97417,97422"
+    map_code: wasteland
+  }
+  {
+    id: 97424
+    mission_id: 11988
+    type: 3
+    route: "97430,97418,97429"
+    coordinator_x: 3000
+    coordinator_y: -1700
+    belong: 2
+    map_type: 2
+    curve_control: "2840,-1972|2840,-1428|3160,-1428"
+    map_route: "97418,97429,97430"
+    map_code: wasteland
+    building_id: 800002
+  }
+  {
+    id: 97425
+    mission_id: 11988
+    type: 2
+    route: "97431,97419"
+    coordinator_x: 3800
+    coordinator_y: -1700
+    enemy_team_id: 800209
+    belong: 2
+    map_type: 2
+    curve_control: "3640,-1972|3960,-1428"
+    map_route: "97419,97431"
+    map_code: wasteland
+  }
+  {
+    id: 97426
+    mission_id: 11988
+    type: 2
+    route: "97420,97432,97427,97421"
+    coordinator_x: 200
+    coordinator_y: -1020
+    belong: 3
+    map_type: 2
+    curve_control: "39,-1292|360,-1292|520,-1020|360,-748"
+    map_route: "97420,97421,97427,97432"
+    map_code: wasteland
+  }
+  {
+    id: 97427
+    mission_id: 11988
+    type: 2
+    route: "97426,97428,97433,97421,97432,97422"
+    coordinator_x: 1000
+    coordinator_y: -1020
+    belong: 1
+    map_type: 2
+    curve_control: "840,-1292|1160,-1292|680,-1020|1320,-1020|840,-748|1160,-748"
+    map_route: "97421,97422,97426,97428,97432,97433"
+    map_code: wasteland
+  }
+  {
+    id: 97428
+    mission_id: 11988
+    type: 2
+    route: "97427,97429,97433"
+    coordinator_x: 1800
+    coordinator_y: -1020
+    enemy_team_id: 800208
+    belong: 2
+    map_type: 2
+    curve_control: "1480,-1020|2120,-1020|1640,-748"
+    map_route: "97427,97429,97433"
+    map_code: wasteland
+  }
+  {
+    id: 97429
+    mission_id: 11988
+    type: 2
+    route: "97428,97430,97424,97435"
+    coordinator_x: 2600
+    coordinator_y: -1020
+    belong: 3
+    map_type: 2
+    curve_control: "2760,-1292|2280,-1020|2920,-1020|2760,-748"
+    map_route: "97424,97428,97430,97435"
+    map_code: wasteland
+  }
+  {
+    id: 97430
+    mission_id: 11988
+    type: 5
+    route: "97429,97431,97436,97424"
+    coordinator_x: 3400
+    coordinator_y: -1020
+    belong: 3
+    map_type: 2
+    curve_control: "3240,-1292|3080,-1020|3720,-1020|3560,-748"
+    durability: "1"
+    map_route: "97424,97429,97431,97436"
+    map_code: wasteland
+    building_id: 800003
+  }
+  {
+    id: 97431
+    mission_id: 11988
+    type: 2
+    route: "97437,97425,97430"
+    coordinator_x: 4200
+    coordinator_y: -1020
+    belong: 3
+    map_type: 2
+    curve_control: "4040,-1292|3880,-1020|4360,-748"
+    map_route: "97425,97430,97437"
+    map_code: wasteland
+  }
+  {
+    id: 97432
+    mission_id: 11988
+    type: 2
+    route: "97433,97426,97393,97427"
+    coordinator_x: 600
+    coordinator_y: -340
+    belong: 1
+    map_type: 2
+    curve_control: "496,-142|440,-612|760,-612|920,-340"
+    map_route: "97393,97426,97427,97433"
+    map_code: wasteland
+  }
+  {
+    id: 97433
+    mission_id: 11988
+    type: 2
+    route: "97432,97434,97427,97428,97496"
+    coordinator_x: 1400
+    coordinator_y: -340
+    belong: 3
+    map_type: 2
+    curve_control: "1240,-612|1560,-612|1080,-340|1720,-340|1509,-220"
+    map_route: "97427,97428,97432,97434,97496"
+    map_code: wasteland
+  }
+  {
+    id: 97434
+    mission_id: 11988
+    type: 2
+    route: "97433,97435,97497"
+    coordinator_x: 2200
+    coordinator_y: -340
+    enemy_team_id: 800208
+    belong: 2
+    map_type: 2
+    curve_control: "1880,-340|2520,-340|2310,-129"
+    map_route: "97433,97435,97497"
+    map_code: wasteland
+  }
+  {
+    id: 97435
+    mission_id: 11988
+    type: 2
+    route: "97434,97436,97429,97498"
+    coordinator_x: 3000
+    coordinator_y: -340
+    belong: 3
+    map_type: 2
+    curve_control: "2840,-612|2680,-340|3320,-340|3133,-96"
+    map_route: "97429,97434,97436,97498"
+    map_code: wasteland
+  }
+  {
+    id: 97436
+    mission_id: 11988
+    type: 2
+    route: "97435,97437,97430"
+    coordinator_x: 3800
+    coordinator_y: -340
+    belong: 3
+    map_type: 2
+    curve_control: "3640,-612|3480,-340|4120,-340"
+    map_route: "97430,97435,97437"
+    map_code: wasteland
+  }
+  {
+    id: 97437
+    mission_id: 11988
+    type: 3
+    route: "97436,97431"
+    coordinator_x: 4600
+    coordinator_y: -340
+    belong: 2
+    map_type: 2
+    curve_control: "4440,-612|4280,-340"
+    map_route: "97431,97436"
+    map_code: wasteland
+    building_id: 800002
+  }
+  {
+    id: 97438
+    mission_id: 11988
+    type: 2
+    route: "97448,97389,97439"
+    coordinator_x: -250
+    coordinator_y: 2500
+    belong: 3
+    map_type: 2
+    curve_control: "-267,2241|-9,2500|-250,2780"
+    map_route: "97389,97439,97448"
+    map_code: village2
+  }
+  {
+    id: 97439
+    mission_id: 11988
+    type: 2
+    route: "97438,97440,97394,97449"
+    coordinator_x: 350
+    coordinator_y: 2300
+    belong: 3
+    map_type: 2
+    curve_control: "308,2099|110,2500|570,2100|430,2620"
+    map_route: "97394,97438,97440,97449"
+    map_code: village2
+  }
+  {
+    id: 97440
+    mission_id: 11988
+    type: 2
+    route: "97443,97439,97441,97445"
+    coordinator_x: 900
+    coordinator_y: 2100
+    enemy_team_id: 800206
+    belong: 2
+    map_type: 2
+    curve_control: "680,2100|1020,1860|1180,2100|1070,2340"
+    map_route: "97439,97441,97443,97445"
+    map_code: village2
+  }
+  {
+    id: 97441
+    mission_id: 11988
+    type: 2
+    route: "97442,97440,97396,97443"
+    coordinator_x: 1200
+    coordinator_y: 1500
+    belong: 3
+    map_type: 2
+    curve_control: "1105,1296|1080,1740|1520,1500|1360,1740"
+    map_route: "97396,97440,97442,97443"
+    map_code: village2
+  }
+  {
+    id: 97442
+    mission_id: 11988
+    type: 3
+    route: "97441,97444,97443,97493"
+    coordinator_x: 2000
+    coordinator_y: 1500
+    belong: 2
+    map_type: 2
+    curve_control: "1680,1500|1840,1740|2200,1740|2146,1326"
+    map_route: "97441,97443,97444,97493"
+    map_code: village2
+    building_id: 800002
+  }
+  {
+    id: 97443
+    mission_id: 11988
+    type: 2
+    route: "97440,97444,97446,97441,97445,97442"
+    coordinator_x: 1600
+    coordinator_y: 2100
+    belong: 3
+    map_type: 2
+    curve_control: "1320,2100|1440,1860|1760,1860|1960,2100|1460,2340|1780,2340"
+    map_route: "97440,97441,97442,97444,97445,97446"
+    map_code: village2
+  }
+  {
+    id: 97444
+    mission_id: 11988
+    type: 2
+    route: "97442,97447,97443,97446,97494"
+    coordinator_x: 2500
+    coordinator_y: 2100
+    belong: 3
+    map_type: 2
+    curve_control: "2300,1860|2140,2100|2320,2340|2720,2340|2633,1909"
+    map_route: "97442,97443,97446,97447,97494"
+    map_code: village2
+  }
+  {
+    id: 97445
+    mission_id: 11988
+    type: 5
+    route: "97446,97449,97450,97440,97443"
+    coordinator_x: 1250
+    coordinator_y: 2700
+    belong: 3
+    map_type: 2
+    curve_control: "1130,2460|1390,2460|1570,2700|970,2700|1370,2940"
+    durability: "1"
+    map_route: "97440,97443,97446,97449,97450"
+    map_code: village2
+    building_id: 800003
+  }
+  {
+    id: 97446
+    mission_id: 11988
+    type: 2
+    route: "97445,97447,97451,97443,97450,97444"
+    coordinator_x: 2050
+    coordinator_y: 2700
+    enemy_team_id: 800207
+    belong: 2
+    map_type: 2
+    curve_control: "1870,2460|2230,2460|1730,2700|2450,2700|1850,2940|2250,2940"
+    map_route: "97443,97444,97445,97447,97450,97451"
+    map_code: village2
+  }
+  {
+    id: 97447
+    mission_id: 11988
+    type: 2
+    route: "97444,97446,97451,97495,97452"
+    coordinator_x: 3050
+    coordinator_y: 2700
+    belong: 3
+    map_type: 2
+    curve_control: "2830,2460|2650,2700|2850,2940|3290,2940|3219,2446"
+    map_route: "97444,97446,97451,97452,97495"
+    map_code: village2
+  }
+  {
+    id: 97448
+    mission_id: 11988
+    type: 2
+    route: "97438,97453,97449,97502"
+    coordinator_x: -225
+    coordinator_y: 3200
+    belong: 3
+    map_type: 2
+    curve_control: "-250,2920|85,3200|-180,3480|-621,3151"
+    map_route: "97438,97449,97453,97502"
+    map_code: village2
+  }
+  {
+    id: 97449
+    mission_id: 11988
+    type: 2
+    route: "97450,97445,97448,97454,97439"
+    coordinator_x: 550
+    coordinator_y: 3100
+    enemy_team_id: 800207
+    belong: 2
+    map_type: 2
+    curve_control: "470,2780|830,2700|240,3200|950,3300|637,3388"
+    map_route: "97439,97445,97448,97450,97454"
+    map_code: village2
+  }
+  {
+    id: 97450
+    mission_id: 11988
+    type: 2
+    route: "97451,97449,97454,97445,97455,97446"
+    coordinator_x: 1550
+    coordinator_y: 3300
+    belong: 3
+    map_type: 2
+    curve_control: "1430,3060|1750,3060|1150,3300|1950,3300|1330,3540|1670,3540"
+    map_route: "97445,97446,97449,97451,97454,97455"
+    map_code: village2
+  }
+  {
+    id: 97451
+    mission_id: 11988
+    type: 3
+    route: "97450,97452,97446,97455,97447,97456"
+    coordinator_x: 2550
+    coordinator_y: 3300
+    belong: 2
+    map_type: 2
+    curve_control: "2350,3060|2750,3060|2150,3300|2990,3300|2330,3540|2750,3540"
+    map_route: "97446,97447,97450,97452,97455,97456"
+    map_code: village2
+    building_id: 800002
+  }
+  {
+    id: 97452
+    mission_id: 11988
+    type: 2
+    route: "97457,97451,97456,97459,97447"
+    coordinator_x: 3650
+    coordinator_y: 3300
+    belong: 3
+    map_type: 2
+    curve_control: "3410,3060|3210,3300|3430,3540|3870,3540|3917,3350"
+    map_route: "97447,97451,97456,97457,97459"
+    map_code: village2
+  }
+  {
+    id: 97453
+    mission_id: 11988
+    type: 3
+    route: "97454,97448"
+    coordinator_x: 100
+    coordinator_y: 3900
+    belong: 2
+    map_type: 2
+    curve_control: "-170,3620|460,3900"
+    map_route: "97448,97454"
+    map_code: village2
+    building_id: 800002
+  }
+  {
+    id: 97454
+    mission_id: 11988
+    type: 2
+    route: "97455,97453,97449,97450"
+    coordinator_x: 1000
+    coordinator_y: 3900
+    belong: 3
+    map_type: 2
+    curve_control: "670,3580|1220,3660|640,3900|1400,3900"
+    map_route: "97449,97450,97453,97455"
+    map_code: village2
+  }
+  {
+    id: 97455
+    mission_id: 11988
+    type: 2
+    route: "97454,97450,97451,97456"
+    coordinator_x: 2000
+    coordinator_y: 3900
+    belong: 3
+    map_type: 2
+    curve_control: "1730,3660|2220,3660|1600,3900|2440,3900"
+    map_route: "97450,97451,97454,97456"
+    map_code: village2
+  }
+  {
+    id: 97456
+    mission_id: 11988
+    type: 2
+    route: "97451,97455,97457,97452"
+    coordinator_x: 3100
+    coordinator_y: 3900
+    enemy_team_id: 800206
+    belong: 2
+    map_type: 2
+    curve_control: "2850,3660|3320,3660|2660,3900|3540,3900"
+    map_route: "97451,97452,97455,97457"
+    map_code: village2
+  }
+  {
+    id: 97457
+    mission_id: 11988
+    type: 2
+    route: "97452,97456,97458"
+    coordinator_x: 4200
+    coordinator_y: 3900
+    belong: 3
+    map_type: 2
+    curve_control: "3980,3660|3760,3900|4640,3900"
+    map_route: "97452,97456,97458"
+    map_code: village2
+  }
+  {
+    id: 97458
+    mission_id: 11988
+    type: 3
+    route: "97457,97459"
+    coordinator_x: 5300
+    coordinator_y: 3900
+    belong: 2
+    map_type: 2
+    curve_control: "4860,3900|5140,3720"
+    map_route: "97457,97459"
+    map_code: village2
+    building_id: 800002
+  }
+  {
+    id: 97459
+    mission_id: 11988
+    type: 2
+    route: "97458,97452"
+    coordinator_x: 4500
+    coordinator_y: 3450
+    belong: 3
+    map_type: 2
+    curve_control: "4009,3328|5060,3630"
+    map_route: "97452,97458"
+    map_code: village2
+  }
+  {
+    id: 97460
+    mission_id: 11988
+    type: 2
+    route: "97461,97465,97400"
+    coordinator_x: -1262
+    coordinator_y: 1934
+    belong: 3
+    map_type: 2
+    curve_control: "-997,1909|-1273,1673|-1567,1909"
+    map_route: "97400,97461,97465"
+    map_code: flower
+  }
+  {
+    id: 97461
+    mission_id: 11988
+    type: 2
+    route: "97460,97462"
+    coordinator_x: -1290
+    coordinator_y: 1282
+    belong: 3
+    map_type: 2
+    curve_control: "-1278,1542|-1233,1026"
+    map_route: "97460,97462"
+    map_code: flower
+  }
+  {
+    id: 97462
+    mission_id: 11988
+    type: 2
+    route: "97461,97463,97466,97397"
+    coordinator_x: -1149
+    coordinator_y: 644
+    belong: 3
+    map_type: 2
+    curve_control: "-1126,881|-1205,899|-1028,412|-1481,699"
+    map_route: "97397,97461,97463,97466"
+    map_code: flower
+  }
+  {
+    id: 97463
+    mission_id: 11988
+    type: 2
+    route: "97462,97468,97398"
+    coordinator_x: -847
+    coordinator_y: 66
+    belong: 3
+    map_type: 2
+    curve_control: "-689,169|-967,297|-1023,-196"
+    map_route: "97398,97462,97468"
+    map_code: flower
+  }
+  {
+    id: 97464
+    mission_id: 11988
+    type: 3
+    route: "97469,97465,97502"
+    coordinator_x: -1854
+    coordinator_y: 2611
+    belong: 2
+    map_type: 2
+    curve_control: "-1927,2279|-2177,2580|-1492,2613"
+    map_route: "97465,97469,97502"
+    map_code: flower
+    building_id: 800002
+  }
+  {
+    id: 97465
+    mission_id: 11988
+    type: 2
+    route: "97464,97466,97460,97470"
+    coordinator_x: -2037
+    coordinator_y: 1783
+    belong: 3
+    map_type: 2
+    curve_control: "-1750,1882|-1963,2114|-2022,1443|-2354,1708"
+    map_route: "97460,97464,97466,97470"
+    map_code: flower
+  }
+  {
+    id: 97466
+    mission_id: 11988
+    type: 2
+    route: "97465,97467,97462,97470"
+    coordinator_x: -2000
+    coordinator_y: 935
+    belong: 3
+    map_type: 2
+    curve_control: "-1755,801|-2014,1274|-1898,611|-2347,1113"
+    map_route: "97462,97465,97467,97470"
+    map_code: flower
+  }
+  {
+    id: 97467
+    mission_id: 11988
+    type: 2
+    route: "97466,97468,97471"
+    coordinator_x: -1745
+    coordinator_y: 126
+    enemy_team_id: 800211
+    belong: 2
+    map_type: 2
+    curve_control: "-1847,449|-1562,-160|-2137,172"
+    map_route: "97466,97468,97471"
+    map_code: flower
+  }
+  {
+    id: 97468
+    mission_id: 11988
+    type: 2
+    route: "97467,97473,97463,97499"
+    coordinator_x: -1289
+    coordinator_y: -589
+    belong: 3
+    map_type: 2
+    curve_control: "-1112,-327|-1471,-303|-1424,-884|-1069,-813"
+    map_route: "97463,97467,97473,97499"
+    map_code: flower
+  }
+  {
+    id: 97469
+    mission_id: 11988
+    type: 2
+    route: "97464,97474,97470"
+    coordinator_x: -2663
+    coordinator_y: 2535
+    belong: 3
+    map_type: 2
+    curve_control: "-2339,2565|-2717,2121|-2988,2450"
+    map_route: "97464,97470,97474"
+    map_code: flower
+  }
+  {
+    id: 97470
+    mission_id: 11988
+    type: 5
+    route: "97469,97471,97465,97466"
+    coordinator_x: -2800
+    coordinator_y: 1500
+    enemy_team_id: 800212
+    belong: 2
+    map_type: 2
+    curve_control: "-2550,1625|-2519,1236|-2745,1914|-2745,1085"
+    durability: "1"
+    map_route: "97465,97466,97469,97471"
+    map_code: flower
+    building_id: 800003
+  }
+  {
+    id: 97471
+    mission_id: 11988
+    type: 2
+    route: "97470,97472,97467,97475"
+    coordinator_x: -2663
+    coordinator_y: 464
+    belong: 3
+    map_type: 2
+    curve_control: "-2347,285|-2717,878|-2503,78|-3041,747"
+    map_route: "97467,97470,97472,97475"
+    map_code: flower
+  }
+  {
+    id: 97472
+    mission_id: 11988
+    type: 2
+    route: "97471,97473,97477,97478"
+    coordinator_x: -2264
+    coordinator_y: -500
+    belong: 3
+    map_type: 2
+    curve_control: "-2423,-114|-2009,-831|-2535,-607|-2250,-779"
+    map_route: "97471,97473,97477,97478"
+    map_code: flower
+  }
+  {
+    id: 97473
+    mission_id: 11988
+    type: 2
+    route: "97472,97468"
+    coordinator_x: -1628
+    coordinator_y: -1328
+    belong: 3
+    map_type: 2
+    curve_control: "-1492,-1032|-1882,-996"
+    map_route: "97468,97472"
+    map_code: flower
+  }
+  {
+    id: 97474
+    mission_id: 11988
+    type: 3
+    route: "97469,97479,97475"
+    coordinator_x: -3477
+    coordinator_y: 2324
+    belong: 2
+    map_type: 2
+    curve_control: "-3151,2408|-3505,1928|-3797,2186"
+    map_route: "97469,97475,97479"
+    map_code: flower
+    building_id: 800002
+  }
+  {
+    id: 97475
+    mission_id: 11988
+    type: 2
+    route: "97474,97476,97471"
+    coordinator_x: -3547
+    coordinator_y: 1334
+    belong: 3
+    map_type: 2
+    curve_control: "-3261,941|-3519,1730|-3491,940"
+    map_route: "97471,97474,97476"
+    map_code: flower
+  }
+  {
+    id: 97476
+    mission_id: 11988
+    type: 8
+    route: "97475,97477,97480"
+    coordinator_x: -3408
+    coordinator_y: 350
+    enemy_team_id: 800211
+    belong: 2
+    map_type: 2
+    curve_control: "-3463,743|-3272,-22|-3702,548"
+    durability: "0,5"
+    map_route: "97475,97477,97480"
+    map_code: flower
+  }
+  {
+    id: 97477
+    mission_id: 11988
+    type: 2
+    route: "97476,97478,97481,97472"
+    coordinator_x: -3069
+    coordinator_y: -582
+    belong: 3
+    map_type: 2
+    curve_control: "-2766,-650|-3204,-209|-2858,-918|-3471,-505"
+    map_route: "97472,97476,97478,97481"
+    map_code: flower
+  }
+  {
+    id: 97478
+    mission_id: 11988
+    type: 3
+    route: "97477,97483,97482,97472"
+    coordinator_x: -2543
+    coordinator_y: -1424
+    belong: 2
+    map_type: 2
+    curve_control: "-2431,-1054|-2753,-1087|-2931,-1387|-2654,-1754"
+    map_route: "97472,97477,97482,97483"
+    map_code: flower
+    building_id: 800002
+  }
+  {
+    id: 97479
+    mission_id: 11988
+    type: 2
+    route: "97474,97484,97480"
+    coordinator_x: -4279
+    coordinator_y: 1979
+    belong: 3
+    map_type: 2
+    curve_control: "-3958,2117|-4271,1519|-4587,1787"
+    map_route: "97474,97480,97484"
+    map_code: flower
+  }
+  {
+    id: 97480
+    mission_id: 11988
+    type: 2
+    route: "97479,97481,97476,97484"
+    coordinator_x: -4259
+    coordinator_y: 829
+    belong: 3
+    map_type: 2
+    curve_control: "-3944,634|-4267,1289|-4155,381|-4606,1032"
+    map_route: "97476,97479,97481,97484"
+    map_code: flower
+  }
+  {
+    id: 97481
+    mission_id: 11988
+    type: 5
+    route: "97480,97482,97477"
+    coordinator_x: -4000
+    coordinator_y: -290
+    enemy_team_id: 800212
+    belong: 2
+    map_type: 2
+    curve_control: "-3654,-440|-4103,157|-3805,-706"
+    durability: "1"
+    map_route: "97477,97480,97482"
+    map_code: flower
+    building_id: 800003
+  }
+  {
+    id: 97482
+    mission_id: 11988
+    type: 2
+    route: "97481,97483,97486,97478"
+    coordinator_x: -3514
+    coordinator_y: -1332
+    belong: 3
+    map_type: 2
+    curve_control: "-3127,-1408|-3708,-915|-3237,-1699|-3955,-1247"
+    map_route: "97478,97481,97483,97486"
+    map_code: flower
+  }
+  {
+    id: 97483
+    mission_id: 11988
+    type: 2
+    route: "97482,97488,97478,97501"
+    coordinator_x: -2822
+    coordinator_y: -2250
+    belong: 3
+    map_type: 2
+    curve_control: "-2710,-1919|-3098,-1882|-2922,-2506|-2502,-2266"
+    map_route: "97478,97482,97488,97501"
+    map_code: flower
+  }
+  {
+    id: 97484
+    mission_id: 11988
+    type: 3
+    route: "97479,97485,97480"
+    coordinator_x: -5050
+    coordinator_y: 1500
+    belong: 2
+    map_type: 2
+    curve_control: "-4741,1691|-4794,1199|-4995,980"
+    map_route: "97479,97480,97485"
+    map_code: flower
+    building_id: 800002
+  }
+  {
+    id: 97485
+    mission_id: 11988
+    type: 2
+    route: "97484,97486,97489"
+    coordinator_x: -4913
+    coordinator_y: 200
+    belong: 3
+    map_type: 2
+    curve_control: "-4967,720|-4751,-296|-5098,-237"
+    map_route: "97484,97486,97489"
+    map_code: flower
+  }
+  {
+    id: 97486
+    mission_id: 11988
+    type: 2
+    route: "97485,97487,97482,97489"
+    coordinator_x: -4509
+    coordinator_y: -1042
+    belong: 3
+    map_type: 2
+    curve_control: "-4143,-1123|-4670,-545|-4247,-1494|-4805,-957"
+    map_route: "97482,97485,97487,97489"
+    map_code: flower
+  }
+  {
+    id: 97487
+    mission_id: 11988
+    type: 8
+    route: "97486,97488,97490"
+    coordinator_x: -3856
+    coordinator_y: -2173
+    enemy_team_id: 800213
+    belong: 2
+    map_type: 2
+    curve_control: "-4117,-1720|-3506,-2561|-4208,-2129"
+    durability: "0,5"
+    map_route: "97486,97488,97490"
+    map_code: flower
+  }
+  {
+    id: 97488
+    mission_id: 11988
+    type: 2
+    route: "97487,97491,97483"
+    coordinator_x: -2982
+    coordinator_y: -3144
+    belong: 3
+    map_type: 2
+    curve_control: "-3008,-2871|-3331,-2755|-3207,-3366"
+    map_route: "97483,97487,97491"
+    map_code: flower
+  }
+  {
+    id: 97489
+    mission_id: 11988
+    type: 3
+    route: "97490,97485,97486"
+    coordinator_x: -5377
+    coordinator_y: -894
+    belong: 2
+    map_type: 2
+    curve_control: "-5191,-456|-5079,-849|-5120,-1420"
+    map_route: "97485,97486,97490"
+    map_code: flower
+    building_id: 800002
+  }
+  {
+    id: 97490
+    mission_id: 11988
+    type: 2
+    route: "97489,97491,97487"
+    coordinator_x: -4736
+    coordinator_y: -2209
+    belong: 3
+    map_type: 2
+    curve_control: "-4417,-2129|-4992,-1683|-4375,-2670"
+    map_route: "97487,97489,97491"
+    map_code: flower
+  }
+  {
+    id: 97491
+    mission_id: 11988
+    type: 3
+    route: "97490,97488"
+    coordinator_x: -3835
+    coordinator_y: -3362
+    belong: 2
+    map_type: 2
+    curve_control: "-3541,-3404|-4195,-2900"
+    map_route: "97488,97490"
+    map_code: flower
+    building_id: 800002
+  }
+  {
+    id: 97492
+    mission_id: 11988
+    type: 2
+    route: "97396,97493,97496"
+    coordinator_x: 1735
+    coordinator_y: 733
+    belong: 3
+    map_type: 2
+    curve_control: "1423,709|2004,785|1600,564"
+    map_route: "97396,97493,97496"
+    map_code: village2
+  }
+  {
+    id: 97493
+    mission_id: 11988
+    type: 2
+    route: "97492,97494,97442,97497,97498"
+    coordinator_x: 2366
+    coordinator_y: 1066
+    belong: 3
+    map_type: 2
+    curve_control: "2220,1239|2176,828|2542,1301|2230,790|2643,878"
+    map_route: "97442,97492,97494,97497,97498"
+    map_code: village2
+  }
+  {
+    id: 97494
+    mission_id: 11988
+    type: 2
+    route: "97493,97495,97444"
+    coordinator_x: 2832
+    coordinator_y: 1624
+    belong: 3
+    map_type: 2
+    curve_control: "2699,1814|2644,1441|3026,1769"
+    map_route: "97444,97493,97495"
+    map_code: village2
+  }
+  {
+    id: 97495
+    mission_id: 11988
+    type: 2
+    route: "97494,97447"
+    coordinator_x: 3440
+    coordinator_y: 1973
+    enemy_team_id: 800206
+    belong: 2
+    map_type: 2
+    curve_control: "3343,2264|3155,1871"
+    map_route: "97447,97494"
+    map_code: village2
+  }
+  {
+    id: 97496
+    mission_id: 11988
+    type: 2
+    route: "97492,97433"
+    coordinator_x: 1563
+    coordinator_y: 225
+    belong: 100
+    map_type: 2
+    curve_control: "1531,-69|1579,424"
+    map_route: "97433,97492"
+    map_code: village2
+  }
+  {
+    id: 97497
+    mission_id: 11988
+    type: 2
+    route: "97493,97434"
+    coordinator_x: 2278
+    coordinator_y: 338
+    belong: 100
+    map_type: 2
+    curve_control: "2316,16|2251,629"
+    map_route: "97434,97493"
+    map_code: village2
+  }
+  {
+    id: 97498
+    mission_id: 11988
+    type: 2
+    route: "97493,97435"
+    coordinator_x: 3026
+    coordinator_y: 414
+    belong: 100
+    map_type: 2
+    curve_control: "3101,145|2781,784"
+    map_route: "97435,97493"
+    map_code: village2
+  }
+  {
+    id: 97499
+    mission_id: 11988
+    type: 2
+    route: "97468,97420"
+    coordinator_x: -740
+    coordinator_y: -1150
+    belong: 100
+    map_type: 2
+    curve_control: "-524,-1370|-959,-925"
+    map_route: "97420,97468"
+    map_code: village2
+  }
+  {
+    id: 97500
+    mission_id: 11988
+    type: 2
+    route: "97501,97414"
+    coordinator_x: -1400
+    coordinator_y: -2340
+    belong: 100
+    map_type: 2
+    curve_control: "-1080,-2356|-1648,-2320"
+    map_route: "97414,97501"
+    map_code: village2
+  }
+  {
+    id: 97501
+    mission_id: 11988
+    type: 2
+    route: "97483,97500"
+    coordinator_x: -2022
+    coordinator_y: -2290
+    belong: 100
+    map_type: 2
+    curve_control: "-2342,-2274|-1773,-2310"
+    map_route: "97483,97500"
+    map_code: village2
+  }
+  {
+    id: 97502
+    mission_id: 11988
+    type: 2
+    route: "97448,97464"
+    coordinator_x: -1051
+    coordinator_y: 2941
+    belong: 100
+    map_type: 2
+    curve_control: "-847,3124|-1293,2753"
+    map_route: "97448,97464"
+    map_code: village2
+  }
+  {
     id: 600000
     mission_id: 11435
     type: 3

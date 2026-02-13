@@ -672,6 +672,30 @@
     source_description: 양자요동 이벤트 보상
   }
   {
+    id: 67
+    name: 길한 봄 짐승
+    description: 제일 뜨거운 웃음과 선명한 색으로 지난 해의 액운과 부정을 쫓아냅시다!
+    group_id: "105"
+    code: commander_6720_icon
+    path: CLASS67
+    des_year: "2026"
+    source: 2
+    source_description: 강철비 예찬 이벤트 순위 보상
+  }
+  {
+    id: 68
+    name: 극비 작전
+    description: 도시든 황무지든, 설원이든 사막이든... 이건 당신만이 완수할 수 있는 임무입니다.
+    group_id: "106"
+    code: commander_6831_icon
+    skill_id: 109
+    path: CLASS68
+    is_class: 1
+    des_year: "2026"
+    source: 2
+    source_description: 2026 주년 이벤트 보상
+  }
+  {
     id: 99
     name: 거짓말 마스크
     description: 내 생각을 감추고, 내 바람을 드러낸다.

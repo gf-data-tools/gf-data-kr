@@ -55,6 +55,11 @@
     name: 흡인계
   }
   {
+    id: 757282
+    type_id: 1
+    name: 무중력
+  }
+  {
     id: 900906
     type_id: 1
     name: 모래폭풍

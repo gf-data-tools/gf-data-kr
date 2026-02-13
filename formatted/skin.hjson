@@ -10104,6 +10104,7 @@
     fit_gun: 390
     voice: 4
     dialog: 고양이야 주방의 음식을 훔쳐먹으면 안 되지! 어라? 얌전히 엎드렸네... 내가 요리하는 걸 구경하고 싶니? 그럼 방해하면 안 돼.
+    gift_position: "-151,287"
     order: 120
   }
   {
@@ -10304,6 +10305,15 @@
     dialog: 오늘 순찰 지점은 여기인가요? ...알겠습니다. 환경이 아무리 열악해도 저의 행동은 언제나처럼 깔끔할 거예요.
     illustrator_cv: --,Ohzeki Eri,
     order: 165
+  }
+  {
+    id: 30037
+    name: 6P62 - 심쿵 아레나
+    fit_gun: 138
+    voice: 4
+    dialog: 이 게임실은 내 비밀기지야. 오직 특별한 사람만 들여보내지. 지휘관, 한판 할래? 진 사람은 벌칙 게임이야!
+    illustrator_cv: YoYo,Inoue Marina,
+    order: 166
   }
   {
     id: 50001

@@ -6318,6 +6318,39 @@
     is_still_alive: 1
   }
   {
+    id: 800001
+    name: 그리폰
+    type: 1
+    duration_type: "1"
+    duration_time: "999"
+    exp_buff: "1"
+    conflict_type: 800001
+    priority: 1
+    carry_mission_skill: "800004"
+  }
+  {
+    id: 800002
+    name: 폭죽 조명
+    code: 561mod
+    type: 1
+    duration_type: "4"
+    duration_time: "1"
+    exp_buff: "1"
+    battle_skill_config_id: 451401
+    conflict_type: 800002
+    priority: 1
+  }
+  {
+    id: 800010
+    name: 그리폰
+    type: 1
+    duration_type: "1"
+    duration_time: "1"
+    exp_buff: "1"
+    conflict_type: 800010
+    priority: 1
+  }
+  {
     id: 910630
     name: 보호막
     description: 보호막 증폭 중

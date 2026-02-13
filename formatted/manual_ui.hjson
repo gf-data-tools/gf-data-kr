@@ -4233,6 +4233,30 @@
     code_b: Console_Icon
   }
   {
+    id: 800002
+    code_a: Detonator
+    description_a: 아군 제대
+    description_b: 기폭 장치
+    description_c: 작동
+    code_b: Console_Icon
+  }
+  {
+    id: 800004
+    code_a: 2022_Bikini_Fireworks
+    description_a: 아군 제대
+    description_b: 폭죽???
+    description_c: 설치
+    code_b: Console_Icon
+  }
+  {
+    id: 800010
+    code_a: datapatch
+    description_a: 아군 제대
+    description_b: 보급소+
+    description_c: 전장 정비
+    code_b: Console_Icon
+  }
+  {
     id: 1000101
     code_a: Rock
     description_a: 아군 제대

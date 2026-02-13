@@ -202,6 +202,30 @@
     related_story_id: 200008
   }
   {
+    sub_id: 8002
+    id: 8
+    name: 엑스큐셔너
+    sub_name: 엑스큐셔너-환상형
+    type: 1
+    code: Excutioner
+    introduce: 엘리트 척후에 해당하며, 스케어크로우보다 지위가 약간 높고, 자주 둘이서 함께 행동한다. 저돌적이고 괄괄한 여장부 성격을 가진 인형. 정정당당하게 싸우길 좋아하며, 약자를 괴롭히는 건 싫어한다.
+    forces: 1
+    pow_rank: 5
+    life_rank: 4
+    hit_rank: 4
+    dodge_rank: 5
+    rate_rank: 3
+    armor_rank: 3
+    speed_rank: 3
+    range_rank: 2
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "1001,202,309,1007"
+    enemy_skill: "286"
+    launch_time: 2035-5-20 00:00:00
+    extra: ",Ito Shizuka,"
+    spine_scale: "80,80,1"
+  }
+  {
     sub_id: 9001
     id: 9
     name: 예거
@@ -271,6 +295,30 @@
     spine_scale: "75,75,1"
     org_id: 10602
     related_story_id: 200011
+  }
+  {
+    sub_id: 11002
+    id: 11
+    name: 헌터
+    sub_name: 헌터-환상형
+    type: 1
+    code: Hunter
+    introduce: 기동력과 지능이 높으며, 교란과 추격 작전에 특화되어 있다. 스케어크로우와 엑스큐셔너와 함께할 때 최고의 실력을 발휘할 수 있다. 침착하고 냉정하며, 온갖 수단으로 적을 궁지에 몰아넣어 붙잡는 것을 선호한다. 그리폰을 매우 오만하게 대하지만, 너무 비겁한 수단을 쓰는 건 좋아하지 않는다.
+    forces: 1
+    pow_rank: 4
+    life_rank: 4
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    armor_rank: 4
+    speed_rank: 5
+    range_rank: 4
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "1001,203,309,1007"
+    enemy_skill: "287"
+    launch_time: 2035-5-20 00:00:00
+    extra: ",Hagihara Ami,"
+    spine_scale: "75,75,1"
   }
   {
     sub_id: 12001
@@ -384,6 +432,28 @@
     spine_scale: "80,80,1"
   }
   {
+    sub_id: 16002
+    id: 16
+    name: 맨티코어
+    sub_name: 맨티코어-특화형
+    type: 4
+    code: Manticore
+    introduce: 군용 표준 규격 기갑 유닛이지만, 출고되기 전에 철혈에게 탈취당했다. 현대 군용 돌격 무기와 장갑을 탑재하여, 화력과 방어력 모두 뛰어나다.
+    forces: 1
+    if_capture: 1
+    pow_rank: 6
+    life_rank: 5
+    hit_rank: 4
+    rate_rank: 4
+    armor_rank: 3
+    speed_rank: 2
+    range_rank: 3
+    counter: 장갑 유닛. 화력도 뛰어난 이 유닛과 장기전을 하는 것은 불리합니다. 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "1003,302,309,301"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "80,80,1"
+  }
+  {
     sub_id: 17001
     id: 17
     name: 인트루더
@@ -436,6 +506,29 @@
     related_story_id: 200017
   }
   {
+    sub_id: 17003
+    id: 17
+    name: 인트루더
+    sub_name: 인트루더-환상형
+    type: 1
+    code: Intruder
+    introduce: 책략 제공을 담당하며, 해킹 및 신호 간섭에도 특화되어 있다. 게이저의 직속 부하지만 자신도 작전 인형을 지휘할 수 있는 지위가 다소 높은 인형이다. 언행은 우아하고 상냥하지만, 소름 끼치는 공허가 느껴진다. 인간의 희극을 좋아하는데, 이는 어쩌면 자신의 개성을 찾아내기 위함일 수도 있다.
+    forces: 1
+    pow_rank: 4
+    life_rank: 4
+    hit_rank: 3
+    dodge_rank: 4
+    rate_rank: 5
+    speed_rank: 3
+    range_rank: 3
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "1001,204,1007"
+    enemy_skill: "288"
+    launch_time: 2035-5-20 00:00:00
+    extra: ",Ohtsubo Yuka,"
+    spine_scale: "85,85,1"
+  }
+  {
     sub_id: 18001
     id: 18
     name: 디스트로이어
@@ -459,6 +552,29 @@
     spine_scale: "85,85,1"
     org_id: 10603
     related_story_id: 200018
+  }
+  {
+    sub_id: 18002
+    id: 18
+    name: 디스트로이어
+    sub_name: 디스트로이어-환상형
+    type: 1
+    code: Destroyer
+    introduce: 폭파 임무에 특화되어 있으며, 폭탄 해체도 전문가 수준이다. 개인 전투 능력도 괜찮아, 가끔 원더링 프리스트와 조를 짤 때가 있다. 평소 건방지고 입이 험하지만, 츤데레 끼가 있다. 어린애처럼 투정을 부리며, 다급해지면 울음을 터뜨린다. 자신의 키를 매우 신경 쓰고 있다.
+    forces: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 3
+    rate_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 이 유닛의 공격은 위력이 매우 높지만, 공격 속도가 느리고 명중률이 다소 낮습니다. 회피가 높은 인형을 전열에 세우는 것을 추천합니다.
+    character: "1001,206,1007"
+    enemy_skill: "278,279"
+    launch_time: 2035-5-20 00:00:00
+    extra: ",Takada Yuuki,"
+    spine_scale: "85,85,1"
   }
   {
     sub_id: 19001
@@ -561,6 +677,30 @@
     related_story_id: 200021
   }
   {
+    sub_id: 21003
+    id: 21
+    name: 우로보로스
+    sub_name: 우로보로스-환상형
+    type: 1
+    code: Weaver
+    introduce: 단거리 돌파 또는 수비 작전에 특화되어, 지능과 전투 능력 모두 높은, 나비 사건 이후 제작된 인형. 하지만 실험작이기 때문에 AI가 불안정하고 통제하기 어렵다. 겉으로는 진중해 보여도 속으론 매우 거만하다. 비록 강한 무력과 지능을 가졌지만, 실전 경험이 적고 행동 스타일도 불안정하므로, 적과 아군 모두 그녀에 대해 방심할 수가 없다.
+    forces: 1
+    pow_rank: 4
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 3
+    speed_rank: 4
+    range_rank: 3
+    counter: 이 유닛은 사전 경고 후 해당 위치에 높은 피해를 줍니다. 인형을 이동하여 공격을 피하세요.
+    character: "1001,210,309,1007"
+    enemy_skill: "289"
+    launch_time: 2035-5-20 00:00:00
+    extra: ",Ohkubo Rumi,"
+    spine_scale: "80,80,1"
+  }
+  {
     sub_id: 22001
     id: 22
     name: 우로보로스 Elite
@@ -608,6 +748,29 @@
     spine_scale: "85,85,1"
     org_id: 10602
     related_story_id: 200023
+  }
+  {
+    sub_id: 23002
+    id: 23
+    name: 알케미스트
+    sub_name: 알케미스트-환상형
+    type: 1
+    code: Alchemist
+    introduce: 다양한 상황에 대응할 수 있고, 심문에도 능한 엘리트 인형, 가끔 디스트로이어와 조를 짤 때가 있다. 오만하고 잔인한 성격으로, 목적을 위해서라면 수단을 가리지 않는다. 그리폰을 자신의 욕구를 채우기 위한 장난감 취급하는 등 사디즘 성향이 있지만, 그래도 심리적으로 성숙하여, 철혈 동료를 위해 나서 싸운다.
+    forces: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 5
+    rate_rank: 4
+    speed_rank: 3
+    range_rank: 3
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "1001,205,1007"
+    enemy_skill: "290"
+    launch_time: 2035-5-20 00:00:00
+    extra: ",Sato Arise,"
+    spine_scale: "85,85,1"
   }
   {
     sub_id: 24001
@@ -660,6 +823,29 @@
     spine_scale: "75,75,1"
     org_id: 10604
     related_story_id: 200024
+  }
+  {
+    sub_id: 24003
+    id: 24
+    name: 드리머
+    sub_name: 드리머-환상형
+    type: 1
+    code: Dreamer
+    introduce: 전투 능력에 편중되어, 초원거리 지정 타격 능력을 가졌다. 나비 사건 이후 제작되어 엘리사의 직속 명령을 따른다. 저격 능력 덕분에 정면에 나설 일이 드물어 평소 철혈 본부에서 저지를 놀리면서 지낸다. 우아한 미소에서 오만함과 예측할 수 없고 매우 불안정한 정신상태가 드러난다. 항상 자아중심적으로 작전 중에 통제에서 벗어나는 모습을 보여준다, 그 엄청난 파괴력에 아군까지 휘말릴 수 있어 모두가 그녀가 전장에 나타나지 않기를 바라고 있다.
+    forces: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 5
+    rate_rank: 5
+    speed_rank: 5
+    range_rank: 5
+    counter: 이 유닛은 상당히 긴 사거리를 지니고 있으니 접근 중 피해가 지나치게 누적되지 않도록 주의하세요.
+    character: "1001,209"
+    enemy_skill: "276,277"
+    launch_time: 2035-5-20 00:00:00
+    extra: ",Okuno Kaya,"
+    spine_scale: "75,75,1"
   }
   {
     sub_id: 25001
@@ -735,6 +921,29 @@
     related_story_id: 200026
   }
   {
+    sub_id: 26003
+    id: 26
+    name: 게이저
+    sub_name: 게이저-환상형
+    type: 1
+    code: BossGager
+    introduce: 작전 지휘 및 인원 조달을 담당하며, 작전 인형을 지휘할 수 있고, 자체 전투 실력도 상당한, 에이전트 직속 부하인 고위 인형이다. 진지하고 엄격한 성격으로 언행에서 똑 부러지는 기품이 넘쳐난다. 적을 상대할 때도 원칙과 예절을 중시한다.
+    forces: 1
+    pow_rank: 5
+    life_rank: 4
+    hit_rank: 5
+    dodge_rank: 4
+    rate_rank: 3
+    speed_rank: 4
+    range_rank: 3
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "1001,207,1007"
+    enemy_skill: "281,282,283"
+    launch_time: 2035-5-20 00:00:00
+    extra: ",Ishikawa Yui,"
+    spine_scale: "85,85,1"
+  }
+  {
     sub_id: 27001
     id: 27
     name: 아키텍트
@@ -786,6 +995,29 @@
     spine_scale: "85,85,1"
     org_id: 10603
     related_story_id: 200027
+  }
+  {
+    sub_id: 27003
+    id: 27
+    name: 아키텍트
+    sub_name: 아키텍트-환상형
+    type: 1
+    code: BossArchitect
+    introduce: 원거리 파괴 및 화력 지원이 특기인 강력한 인형, 평소 혼자서 행동한다. 활발하고 해맑은 성격에 생각이 없는 소녀. 언제나 즐거워 보이며, 그리폰에 대해서도 적대심이 없고, 철혈에는 최소한의 명령 복종만 하는 수준이다. 하지만 폭격과 파괴에 열중하기 때문에 여전히 골치 아픈 상대다.
+    forces: 1
+    pow_rank: 6
+    life_rank: 5
+    hit_rank: 4
+    dodge_rank: 3
+    rate_rank: 3
+    speed_rank: 3
+    range_rank: 5
+    counter: 이 유닛은 사전 경고 후 해당 위치에 높은 피해를 줍니다. 그리고 공격이 범위 피해를 줍니다. 인형을 이동하여 공격을 피하세요.
+    character: "1001,319"
+    enemy_skill: "280,282,283"
+    launch_time: 2035-5-20 00:00:00
+    extra: ",Ohtsubo Yuka,"
+    spine_scale: "85,85,1"
   }
   {
     sub_id: 28001
@@ -1064,6 +1296,30 @@
     spine_scale: "70,70,1"
     org_id: 10604
     related_story_id: 200035
+  }
+  {
+    sub_id: 35004
+    id: 35
+    name: 저지
+    sub_name: 저지-환상형
+    type: 1
+    code: Justice
+    introduce: 지휘 능력에 편중되어, 철혈 본부의 방어 및 보안 시스템을 담당한다. 나비 사건 이후 제작되어 오직 엘리사의 명령만 따르는 호위 무사 같은 인형이다. 엄숙하고 융통성이 없는 성격으로, 군인 같은 위엄과 패기를 보여준다. 하지만 몸집이 작아 얕보이기 쉬워, 이걸 가지고 놀리는 건 적이든 아군이든 상관없이 철저하게 응징한다. 엘리사에겐 절대복종하며, 성격이 다른 드리머를 상대론 골머리가 아프다.
+    forces: 1
+    pow_rank: 5
+    life_rank: 6
+    hit_rank: 4
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 3
+    speed_rank: 4
+    range_rank: 5
+    counter: 이 유닛은 공격 속도가 빠르지만, 화력이 평범하니, 장갑이 충분한 산탄총 인형으로 공격을 받아내는 것을 추천합니다. 그리고 동시에 다수 목표를 공격하는 점도 주의하십시오. 또한 후열에 보라색 구역 안의 아군 유닛은 지속 피해와 약화 효과를 받으니 주의 바랍니다.
+    character: "1001,211,309,1007"
+    enemy_skill: "291"
+    launch_time: 2035-5-20 00:00:00
+    extra: ",Toyosaki Aki,"
+    spine_scale: "70,70,1"
   }
   {
     sub_id: 36001
@@ -1416,6 +1672,29 @@
     related_story_id: 200045
   }
   {
+    sub_id: 45003
+    id: 45
+    name: 에이전트
+    sub_name: 에이전트-환상형
+    type: 1
+    code: Agent
+    introduce: 엘리사와 부하 철혈 사이의 소통 및 후방 관리를 맡고 있다. 전투와 지휘 모두 만능으로, 모든 철혈 병력을 통제하는 높은 지위에 있는 인형이다. 침착하고 냉정하며, 일 처리가 착실하다. 누구에게나 공손한 말투를 취하지만, 존중심은 오직 자신의 주인을 향하며, 다른 이들에게는 매우 악랄하게 대한다, 특히 그리폰을 매우 업신여긴다.
+    forces: 1
+    pow_rank: 5
+    life_rank: 5
+    hit_rank: 5
+    dodge_rank: 2
+    rate_rank: 4
+    speed_rank: 2
+    range_rank: 4
+    counter: 이 유닛이 보호막을 생성할 때 화력을 집중하여 보호막을 깨뜨리면 스킬 준비를 중단시킬 수 있습니다.
+    character: "1001,212"
+    enemy_skill: "284,285"
+    launch_time: 2035-5-20 00:00:00
+    extra: ",Nabatame Hitomi,"
+    spine_scale: "80,80,1"
+  }
+  {
     sub_id: 46001
     id: 46
     name: 스트렐치
@@ -1705,6 +1984,28 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 55002
+    id: 55
+    name: 프롤러SWAP
+    sub_name: 프롤러SWAP-특화형
+    type: 2
+    code: Prowler_SWAP
+    introduce: 강화된 프롤러, 부족했던 화력과 기동력을 보완하여 드디어 최전선에서 싸울 정도의 능력을 얻었다.
+    forces: 1
+    if_capture: 1
+    pow_rank: 1
+    life_rank: 1
+    hit_rank: 1
+    dodge_rank: 1
+    rate_rank: 3
+    speed_rank: 2
+    range_rank: 2
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "300"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "100,100,1"
+  }
+  {
     sub_id: 56001
     id: 56
     name: 예거SWAP
@@ -1725,6 +2026,29 @@
     character: "1003,307"
     enemy_skill: "5"
     launch_time: 2016-5-20 00:00:00
+    spine_scale: "100,100,1"
+  }
+  {
+    sub_id: 56002
+    id: 56
+    name: 예거SWAP
+    sub_name: 예거SWAP-특화형
+    type: 3
+    code: Jaeger_SWAP
+    introduce: 강화된 예거, 저격 무기의 위력과 정밀성이 더욱 상승했으며, 부실했던 본체도 생존력을 보충했기에 매우 위협적이다.
+    forces: 1
+    if_capture: 1
+    pow_rank: 4
+    life_rank: 1
+    hit_rank: 5
+    dodge_rank: 3
+    rate_rank: 2
+    speed_rank: 3
+    range_rank: 4
+    counter: 이 유닛은 높은 화력과 명중으로 아군 전열 인형에게 큰 피해를 줍니다. 후열을 우선 공격하는 인형으로 먼저 처리하는 것이 좋습니다.
+    character: "1003,307"
+    enemy_skill: "5"
+    launch_time: 2035-5-20 00:00:00
     spine_scale: "100,100,1"
   }
   {
@@ -1751,6 +2075,29 @@
     spine_scale: "90,90,1"
   }
   {
+    sub_id: 57002
+    id: 57
+    name: 가드SWAP
+    sub_name: 가드SWAP-특화형
+    type: 3
+    code: Guard_SWAP
+    introduce: 강화된 가드. 방패와 근거리 화기 모두 강화되어, 수비가 더욱 견고해졌다.
+    forces: 1
+    if_capture: 1
+    pow_rank: 1
+    life_rank: 5
+    hit_rank: 3
+    dodge_rank: 1
+    rate_rank: 4
+    speed_rank: 2
+    range_rank: 2
+    counter: 이 유닛은 근접 수비 유닛으로 자체의 공격은 보잘것없습니다. 가드보다는 가드를 상대하는 동안 후열에서 강력한 공격을 가하는 유닛이 더 위협적이니, 후열을 우선 공격하는 인형으로 다른 유닛을 먼저 처리하는 것을 추천합니다.
+    character: "303,310"
+    enemy_skill: "4"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "90,90,1"
+  }
+  {
     sub_id: 58001
     id: 58
     name: 드라군SWAP
@@ -1771,6 +2118,29 @@
     character: "1003,304"
     enemy_skill: "7"
     launch_time: 2016-5-20 00:00:00
+    spine_scale: "75,75,1"
+  }
+  {
+    sub_id: 58002
+    id: 58
+    name: 드라군SWAP
+    sub_name: 드라군SWAP-특화형
+    type: 3
+    code: Dragoon_SWAP
+    introduce: 강화된 드라군, 보행기와 돌격 무기뿐만이 아니라 모든 면이 업그레이드되었다. 신중하게 상대해야 한다.
+    forces: 1
+    if_capture: 1
+    pow_rank: 3
+    life_rank: 3
+    hit_rank: 5
+    dodge_rank: 3
+    rate_rank: 3
+    speed_rank: 5
+    range_rank: 5
+    counter: 이 유닛은 균형 잡힌 능력치를 지니고 있습니다. 우리도 전체적인 작전 능력을 높여 상대하길 바랍니다.
+    character: "1003,304"
+    enemy_skill: "7"
+    launch_time: 2035-5-20 00:00:00
     spine_scale: "75,75,1"
   }
   {
@@ -1796,6 +2166,28 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 59002
+    id: 59
+    name: 스트라이커SWAP
+    sub_name: 스트라이커SWAP-특화형
+    type: 3
+    code: Striker_SWAP
+    introduce: 강화된 스트라이커, 기관총이 개량된 동시에 본체도 장갑을 덧씌웠다. 화력과 제압력 모두 상승했다.
+    forces: 1
+    if_capture: 1
+    pow_rank: 5
+    life_rank: 3
+    hit_rank: 2
+    dodge_rank: 3
+    rate_rank: 5
+    speed_rank: 3
+    range_rank: 4
+    counter: 이 유닛은 사속이 높지만 화력이 평범하니, 산탄총 인형의 두꺼운 장갑으로 방어하는 걸 권장합니다.
+    character: "308"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "100,100,1"
+  }
+  {
     sub_id: 60001
     id: 60
     name: 이지스SWAP
@@ -1816,6 +2208,29 @@
     character: "303,309,310"
     enemy_skill: "9"
     launch_time: 2016-5-20 00:00:00
+    spine_scale: "100,100,1"
+  }
+  {
+    sub_id: 60002
+    id: 60
+    name: 이지스SWAP
+    sub_name: 이지스SWAP-특화형
+    type: 5
+    code: Aegis_SWAP
+    introduce: 이지스의 철혈 강화판, 방패와 본체 장갑이 더욱 두꺼워졌으며, 근접전 능력도 대폭 상승했다.
+    forces: 1
+    if_capture: 1
+    pow_rank: 2
+    life_rank: 5
+    hit_rank: 2
+    rate_rank: 3
+    armor_rank: 5
+    speed_rank: 2
+    range_rank: 2
+    counter: 방어 능력이 매우 뛰어난 장갑 유닛으로, 이 유닛의 보호를 받는 후열 유닛을 우선 처치하는 것을 추천합니다.
+    character: "303,309,310"
+    enemy_skill: "9"
+    launch_time: 2035-5-20 00:00:00
     spine_scale: "100,100,1"
   }
   {
@@ -2320,6 +2735,29 @@
     spine_scale: "40,40,1"
   }
   {
+    sub_id: 80003
+    id: 80
+    name: AA-02 아레스
+    sub_name: AA-02 아레스-환상형
+    type: 1
+    code: Ares
+    introduce: 군에서 생산한 정예 기갑으로, 자격을 획득한 일부 군인만이 탑승할 수 있다. 거대한 주포와 미사일 등 강력한 화력을 가졌고, 보호막 발생 기능 등 방어력도 매우 뛰어난 만능 전술 기갑이라고 할 수 있다.
+    forces: 2
+    pow_rank: 6
+    life_rank: 6
+    hit_rank: 6
+    dodge_rank: 4
+    rate_rank: 4
+    armor_rank: 6
+    speed_rank: 6
+    range_rank: 7
+    counter: 높은 장갑을 가지고 있고, 사전 경고 후 해당 범위에 높은 피해를 줍니다. 보호막을 가진 상태에서 관통 피해를 받으면 일정 시간 경직합니다. 공격을 피할 수 있도록 인형을 이동하세요.
+    character: "1001,302,309,326,316"
+    enemy_skill: "93,94,95,295"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "40,40,1"
+  }
+  {
     sub_id: 81001
     id: 81
     name: 엘리사
@@ -2469,6 +2907,29 @@
     character: "1001,303"
     enemy_skill: "88,90,92"
     launch_time: 2016-5-20 00:00:00
+    spine_scale: "100,100,1"
+  }
+  {
+    sub_id: 86002
+    id: 86
+    name: 리퍼SWAP
+    sub_name: 리퍼SWAP-특화형
+    type: 3
+    code: Ripper_SWAP
+    introduce: 성능을 대폭 강화한 리퍼. 화력과 기동력 모두 크게 상승했다. 과거의 자신과 이별하기 위해 머리색과 제복을 교체했다.
+    forces: 1
+    if_capture: 1
+    pow_rank: 3
+    life_rank: 3
+    hit_rank: 3
+    dodge_rank: 6
+    rate_rank: 3
+    speed_rank: 3
+    range_rank: 3
+    counter: 해당 유닛은 치명적인 피해를 받으면 일정 수준 보호를 받습니다, 장기전을 각오하세요.
+    character: "1001,303"
+    enemy_skill: "88,90,92"
+    launch_time: 2035-5-20 00:00:00
     spine_scale: "100,100,1"
   }
   {
@@ -2632,10 +3093,33 @@
     spine_scale: "100,100,1"
   }
   {
+    sub_id: 94002
+    id: 94
+    name: 베스피드SWAP
+    sub_name: 베스피드SWAP-특화형
+    type: 3
+    code: Vespid_SWAP
+    introduce: 성능을 대폭 강화한 베스피드, 적의 능력치를 감소시키는 능력을 얻었다. 시각적인 기선제압을 위해서 특별히 새로운 헬멧과 방어구를 장만했다.
+    forces: 1
+    if_capture: 1
+    pow_rank: 3
+    life_rank: 2
+    hit_rank: 4
+    dodge_rank: 4
+    rate_rank: 2
+    speed_rank: 3
+    range_rank: 4
+    counter: 이 유닛은 우리 유닛에게 디버프를 부여하니 신중하게 대응하세요.
+    character: "1001,300"
+    enemy_skill: "89,91"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "100,100,1"
+  }
+  {
     sub_id: 95001
     id: 95
-    name: 브루트 SWAP
-    sub_name: 브루트 SWAP
+    name: 브루트SWAP
+    sub_name: 브루트SWAP
     type: 3
     code: Brute_SWAP
     introduce: 성능을 대폭 강화한 브루트, 적 장갑 유닛에게 큰 위협이 된다.
@@ -2651,6 +3135,28 @@
     character: "1003,303,315"
     enemy_skill: "54,55"
     launch_time: 2016-5-20 00:00:00
+    spine_scale: "85,85,1"
+  }
+  {
+    sub_id: 95002
+    id: 95
+    name: 브루트SWAP
+    sub_name: 브루트SWAP-특화형
+    type: 3
+    code: Brute_SWAP
+    introduce: 성능을 대폭 강화한 브루트, 적 장갑 유닛에게 큰 위협이 된다.
+    forces: 1
+    pow_rank: 5
+    life_rank: 3
+    hit_rank: 4
+    dodge_rank: 3
+    rate_rank: 3
+    speed_rank: 4
+    range_rank: 2
+    counter: 이 유닛은 높은 관통력을 지니고 있습니다. 산탄총 인형으로 상대하는 것은 매우 위험하니, 기관단총 또는 권총같이 회피가 높은 인형으로 공격을 견디는 것이 좋습니다. 하지만 종종 다른 위협적인 후열 유닛과 조합해서 등장하니 최대한 빨리 처리하는 것이 좋습니다.
+    character: "1003,303,315"
+    enemy_skill: "54,55"
+    launch_time: 2035-5-20 00:00:00
     spine_scale: "85,85,1"
   }
   {
@@ -2673,6 +3179,28 @@
     character: "1003,309,307"
     enemy_skill: "56"
     launch_time: 2016-5-20 00:00:00
+    spine_scale: "100,100,1"
+  }
+  {
+    sub_id: 96002
+    id: 96
+    name: 네메움SWAP
+    sub_name: 네메움SWAP-특화형
+    type: 4
+    code: Nemeum_SWAP2
+    introduce: 성능을 대폭 강화한 네메움, 조준력이 높아 공격을 피하기 어렵다.
+    forces: 1
+    pow_rank: 4
+    life_rank: 4
+    hit_rank: 5
+    rate_rank: 2
+    armor_rank: 3
+    speed_rank: 3
+    range_rank: 4
+    counter: 장갑 유닛. 높은 화력과 명중으로 아군 전열 인형에게 큰 피해를 줍니다. 후열을 우선 공격하는 인형으로 먼저 처리하는 것이 좋습니다.
+    character: "1003,309,307"
+    enemy_skill: "56"
+    launch_time: 2035-5-20 00:00:00
     spine_scale: "100,100,1"
   }
   {
@@ -4833,6 +5361,28 @@
     counter: 정보 불명, 조심해서 대응하세요!
     character: "1001"
     enemy_skill: "179,116,180,181,182,183"
+    launch_time: 2035-5-20 00:00:00
+    spine_scale: "70,70,1"
+  }
+  {
+    sub_id: 194002
+    id: 194
+    name: 찾아온 악몽
+    sub_name: 찾아온 악몽-환상형
+    type: 1
+    code: Scarecrow_SpringFes
+    introduce: 스케어크로우-찾아온 악몽, 화력 강화 개조를 받은 신형 모델. 최신형 소형 드론은 스케어크로우의 화력 투사 능력을 더욱 상승시켰으며, 스케어크로우 손가락 끝에 장착된 지휘 포트도 신호가 강화되어 드론과의 연결이 더욱 긴밀해졌다. 정보통에 따르면 복장 디자인의 모티브는 신화 속 연말이면 마을을 습격하는 괴수로, 밤의 어둠마저 꿰뚫는 안광을 번뜩이며, 날카로운 발톱으로 모든 장애물을 찢어발긴다고 한다... 마치 지금의 스케어크로우처럼.
+    forces: 1
+    pow_rank: 5
+    life_rank: 4
+    hit_rank: 4
+    dodge_rank: 4
+    rate_rank: 4
+    speed_rank: 4
+    range_rank: 3
+    counter: 정보 불명, 조심해서 대응하세요!
+    character: "1001"
+    enemy_skill: "292,293,294"
     launch_time: 2035-5-20 00:00:00
     spine_scale: "70,70,1"
   }

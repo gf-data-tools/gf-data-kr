@@ -658,4 +658,9 @@
     name: EMP 내성
     character_des: EMP의 효과를 대폭 차감해서 받는다.
   }
+  {
+    id: 1007
+    name: 연합작전
+    character_des: 이 유닛은 현재 상황에서 Boss 유닛이 아닙니다.
+  }
 ]

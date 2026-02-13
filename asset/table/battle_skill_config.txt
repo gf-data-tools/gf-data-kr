@@ -27750,52 +27750,52 @@ battle_skill_config-311160301,
 battle_skill_config-411160301,
 battle_skill_config-111140101,무언의 살의
 battle_skill_config-511140101,
-battle_skill_config-211140101,액티브: 9초간 저격 모드가 되어 2.5초마다 가장 멀리있는 적에게 화력 1.5배의 피해를 주고//c 표적의 화력을 3초간 5% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+battle_skill_config-211140101,액티브: 9초간 저격 모드가 되어 2.5초마다 가장 멀리있는 적에게 화력 1.5배의 피해를 주고//c 표적의 화력을 3초간 5% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시//c "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
 battle_skill_config-311140101,쿨타임:20초//c조준시간:2.5초//c피해 배율:1.5배//c화력 감소치:5%
 battle_skill_config-411140101,
 battle_skill_config-111140102,무언의 살의
 battle_skill_config-511140102,
-battle_skill_config-211140102,액티브: 9초간 저격 모드가 되어 2.4초마다 가장 멀리있는 적에게 화력 1.56배의 피해를 주고//c 표적의 화력을 3초간 6% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+battle_skill_config-211140102,액티브: 9초간 저격 모드가 되어 2.4초마다 가장 멀리있는 적에게 화력 1.56배의 피해를 주고//c 표적의 화력을 3초간 6% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시//c "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
 battle_skill_config-311140102,쿨타임:19.6초//c조준시간:2.4초//c피해 배율:1.56배//c화력 감소치:6%
 battle_skill_config-411140102,
 battle_skill_config-111140103,무언의 살의
 battle_skill_config-511140103,
-battle_skill_config-211140103,액티브: 9초간 저격 모드가 되어 2.3초마다 가장 멀리있는 적에게 화력 1.61배의 피해를 주고//c 표적의 화력을 3초간 6% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+battle_skill_config-211140103,액티브: 9초간 저격 모드가 되어 2.3초마다 가장 멀리있는 적에게 화력 1.61배의 피해를 주고//c 표적의 화력을 3초간 6% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시//c "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
 battle_skill_config-311140103,쿨타임:19.1초//c조준시간:2.3초//c피해 배율:1.61배//c화력 감소치:6%
 battle_skill_config-411140103,
 battle_skill_config-111140104,무언의 살의
 battle_skill_config-511140104,
-battle_skill_config-211140104,액티브: 9초간 저격 모드가 되어 2.2초마다 가장 멀리있는 적에게 화력 1.67배의 피해를 주고//c 표적의 화력을 3초간 7% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+battle_skill_config-211140104,액티브: 9초간 저격 모드가 되어 2.2초마다 가장 멀리있는 적에게 화력 1.67배의 피해를 주고//c 표적의 화력을 3초간 7% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시//c "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
 battle_skill_config-311140104,쿨타임:18.7초//c조준시간:2.2초//c피해 배율:1.67배//c화력 감소치:7%
 battle_skill_config-411140104,
 battle_skill_config-111140105,무언의 살의
 battle_skill_config-511140105,
-battle_skill_config-211140105,액티브: 9초간 저격 모드가 되어 2.1초마다 가장 멀리있는 적에게 화력 1.72배의 피해를 주고//c 표적의 화력을 3초간 7% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+battle_skill_config-211140105,액티브: 9초간 저격 모드가 되어 2.1초마다 가장 멀리있는 적에게 화력 1.72배의 피해를 주고//c 표적의 화력을 3초간 7% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시//c "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
 battle_skill_config-311140105,쿨타임:18.2초//c조준시간:2.1초//c피해 배율:1.72배//c화력 감소치:7%
 battle_skill_config-411140105,
 battle_skill_config-111140106,무언의 살의
 battle_skill_config-511140106,
-battle_skill_config-211140106,액티브: 9초간 저격 모드가 되어 1.9초마다 가장 멀리있는 적에게 화력 1.78배의 피해를 주고//c 표적의 화력을 3초간 8% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+battle_skill_config-211140106,액티브: 9초간 저격 모드가 되어 1.9초마다 가장 멀리있는 적에게 화력 1.78배의 피해를 주고//c 표적의 화력을 3초간 8% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시//c "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
 battle_skill_config-311140106,쿨타임:17.8초//c조준시간:1.9초//c피해 배율:1.78배//c화력 감소치:8%
 battle_skill_config-411140106,
 battle_skill_config-111140107,무언의 살의
 battle_skill_config-511140107,
-battle_skill_config-211140107,액티브: 9초간 저격 모드가 되어 1.8초마다 가장 멀리있는 적에게 화력 1.83배의 피해를 주고//c 표적의 화력을 3초간 8% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+battle_skill_config-211140107,액티브: 9초간 저격 모드가 되어 1.8초마다 가장 멀리있는 적에게 화력 1.83배의 피해를 주고//c 표적의 화력을 3초간 8% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시//c "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
 battle_skill_config-311140107,쿨타임:17.3초//c조준시간:1.8초//c피해 배율:1.83배//c화력 감소치:8%
 battle_skill_config-411140107,
 battle_skill_config-111140108,무언의 살의
 battle_skill_config-511140108,
-battle_skill_config-211140108,액티브: 9초간 저격 모드가 되어 1.7초마다 가장 멀리있는 적에게 화력 1.89배의 피해를 주고//c 표적의 화력을 3초간 9% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+battle_skill_config-211140108,액티브: 9초간 저격 모드가 되어 1.7초마다 가장 멀리있는 적에게 화력 1.89배의 피해를 주고//c 표적의 화력을 3초간 9% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시//c "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
 battle_skill_config-311140108,쿨타임:16.9초//c조준시간:1.7초//c피해 배율:1.89배//c화력 감소치:9%
 battle_skill_config-411140108,
 battle_skill_config-111140109,무언의 살의
 battle_skill_config-511140109,
-battle_skill_config-211140109,액티브: 9초간 저격 모드가 되어 1.6초마다 가장 멀리있는 적에게 화력 1.94배의 피해를 주고//c 표적의 화력을 3초간 9% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+battle_skill_config-211140109,액티브: 9초간 저격 모드가 되어 1.6초마다 가장 멀리있는 적에게 화력 1.94배의 피해를 주고//c 표적의 화력을 3초간 9% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시//c "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
 battle_skill_config-311140109,쿨타임:16.4초//c조준시간:1.6초//c피해 배율:1.94배//c화력 감소치:9%
 battle_skill_config-411140109,
 battle_skill_config-111140110,무언의 살의
 battle_skill_config-511140110,
-battle_skill_config-211140110,액티브: 9초간 저격 모드가 되어 1.5초마다 가장 멀리있는 적에게 화력 2배의 피해를 주고//c 표적의 화력을 3초간 10% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.
+battle_skill_config-211140110,액티브: 9초간 저격 모드가 되어 1.5초마다 가장 멀리있는 적에게 화력 2배의 피해를 주고//c 표적의 화력을 3초간 10% 감소시킨다.(적 장갑 계산//c 치명타 가능)//n패시브: 일반공격이 장갑이 없는 적에게 1.05배의 피해를 준다.("PC 통신 헤드셋"을 착용 시//c "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.)
 battle_skill_config-311140110,쿨타임:16초//c조준시간:1.5초//c피해 배율:2배//c화력 감소치:10%
 battle_skill_config-411140110,
 battle_skill_config-111140201,M200射击
@@ -110976,3 +110976,473 @@ battle_skill_config-601150701,
 battle_skill_config-301150701,
 battle_skill_config-401150701,
 battle_skill_config-501150701,
+battle_skill_config-201180101,버프 상세
+battle_skill_config-601180101,
+battle_skill_config-301180101,"PC 통신 헤드셋"을 착용 시//c "무언의 살의" 공격이 장갑을 무시하고 야간 작전에서 피해가 50% 상승한다.
+battle_skill_config-401180101,
+battle_skill_config-501180101,
+battle_skill_config-145100101,梦想家假普攻[*]
+battle_skill_config-545100101,
+battle_skill_config-245100101,梦想家普攻
+battle_skill_config-345100101,
+battle_skill_config-445100101,
+battle_skill_config-145100201,梦想家后跳[*]
+battle_skill_config-545100201,
+battle_skill_config-245100201,
+battle_skill_config-345100201,
+battle_skill_config-445100201,
+battle_skill_config-145100301,梦想家狙击지원
+battle_skill_config-545100301,
+battle_skill_config-245100301,
+battle_skill_config-345100301,
+battle_skill_config-445100301,
+battle_skill_config-145100401,梦想家狂暴
+battle_skill_config-545100401,
+battle_skill_config-245100401,
+battle_skill_config-345100401,
+battle_skill_config-445100401,
+battle_skill_config-145100501,破坏者攻击[*]
+battle_skill_config-545100501,
+battle_skill_config-245100501,
+battle_skill_config-345100501,
+battle_skill_config-445100501,
+battle_skill_config-145100601,破坏者狂暴
+battle_skill_config-545100601,
+battle_skill_config-245100601,
+battle_skill_config-345100601,
+battle_skill_config-445100601,
+battle_skill_config-145100701,破坏者离场
+battle_skill_config-545100701,
+battle_skill_config-245100701,
+battle_skill_config-345100701,
+battle_skill_config-445100701,
+battle_skill_config-145100801,梦想家召唤末日魔犬
+battle_skill_config-545100801,
+battle_skill_config-245100801,
+battle_skill_config-345100801,
+battle_skill_config-445100801,
+battle_skill_config-145100901,末日魔犬开场增益
+battle_skill_config-545100901,
+battle_skill_config-245100901,
+battle_skill_config-345100901,
+battle_skill_config-445100901,
+battle_skill_config-145101001,末日魔犬普攻[*]
+battle_skill_config-545101001,
+battle_skill_config-245101001,
+battle_skill_config-345101001,
+battle_skill_config-445101001,
+battle_skill_config-145101101,末日魔犬离场
+battle_skill_config-545101101,
+battle_skill_config-245101101,
+battle_skill_config-345101101,
+battle_skill_config-445101101,
+battle_skill_config-145101201,梦想家近身检测
+battle_skill_config-545101201,
+battle_skill_config-245101201,
+battle_skill_config-345101201,
+battle_skill_config-445101201,
+battle_skill_config-145101301,梦想家检测反馈
+battle_skill_config-545101301,
+battle_skill_config-245101301,
+battle_skill_config-345101301,
+battle_skill_config-445101301,
+battle_skill_config-145101401,梦想家消除无敌
+battle_skill_config-545101401,
+battle_skill_config-245101401,
+battle_skill_config-345101401,
+battle_skill_config-445101401,
+battle_skill_config-145101501,梦想家蓄力
+battle_skill_config-545101501,
+battle_skill_config-245101501,
+battle_skill_config-345101501,
+battle_skill_config-445101501,
+battle_skill_config-145101601,梦想家普攻[*]
+battle_skill_config-545101601,
+battle_skill_config-245101601,梦想家普攻
+battle_skill_config-345101601,
+battle_skill_config-445101601,
+battle_skill_config-145110101,建筑师普攻[*]
+battle_skill_config-545110101,
+battle_skill_config-245110101,建筑家普攻
+battle_skill_config-345110101,
+battle_skill_config-445110101,
+battle_skill_config-145110201,计量官普攻[*]
+battle_skill_config-545110201,
+battle_skill_config-245110201,计量官普攻
+battle_skill_config-345110201,
+battle_skill_config-445110201,
+battle_skill_config-145110301,建筑师实时反应生命值
+battle_skill_config-545110301,
+battle_skill_config-245110301,
+battle_skill_config-345110301,
+battle_skill_config-445110301,
+battle_skill_config-145110401,计量官实时反应生命值
+battle_skill_config-545110401,
+battle_skill_config-245110401,
+battle_skill_config-345110401,
+battle_skill_config-445110401,
+battle_skill_config-145110501,建筑师检测增益
+battle_skill_config-545110501,
+battle_skill_config-245110501,
+battle_skill_config-345110501,
+battle_skill_config-445110501,
+battle_skill_config-145110601,计量官检测增益
+battle_skill_config-545110601,
+battle_skill_config-245110601,
+battle_skill_config-345110601,
+battle_skill_config-445110601,
+battle_skill_config-145110701,Boss离场
+battle_skill_config-545110701,
+battle_skill_config-245110701,
+battle_skill_config-345110701,
+battle_skill_config-445110701,
+battle_skill_config-145120101,代理人普攻[*]
+battle_skill_config-545120101,
+battle_skill_config-245120101,
+battle_skill_config-345120101,
+battle_skill_config-445120101,
+battle_skill_config-145120201,行裁者普攻[*]
+battle_skill_config-545120201,
+battle_skill_config-245120201,
+battle_skill_config-345120201,
+battle_skill_config-445120201,
+battle_skill_config-145120301,猎手普攻[*]
+battle_skill_config-545120301,
+battle_skill_config-245120301,
+battle_skill_config-345120301,
+battle_skill_config-445120301,
+battle_skill_config-145120401,干扰者技能[*]
+battle_skill_config-545120401,
+battle_skill_config-245120401,
+battle_skill_config-345120401,
+battle_skill_config-445120401,
+battle_skill_config-145120501,衔尾蛇技能[*]
+battle_skill_config-545120501,
+battle_skill_config-245120501,
+battle_skill_config-345120501,
+battle_skill_config-445120501,
+battle_skill_config-145120601,炼金术士无敌斩[*]
+battle_skill_config-545120601,
+battle_skill_config-245120601,
+battle_skill_config-345120601,
+battle_skill_config-445120601,
+battle_skill_config-145120701,炼金术士技能[*]
+battle_skill_config-545120701,
+battle_skill_config-245120701,
+battle_skill_config-345120701,
+battle_skill_config-445120701,
+battle_skill_config-145120801,法官技能[*]
+battle_skill_config-545120801,
+battle_skill_config-245120801,
+battle_skill_config-345120801,
+battle_skill_config-445120801,
+battle_skill_config-145120901,铁血下属离场
+battle_skill_config-545120901,
+battle_skill_config-245120901,
+battle_skill_config-345120901,
+battle_skill_config-445120901,
+battle_skill_config-145121001,代理人开场增益
+battle_skill_config-545121001,
+battle_skill_config-245121001,
+battle_skill_config-345121001,
+battle_skill_config-445121001,
+battle_skill_config-145130101,新春稻草人普攻[*]
+battle_skill_config-545130101,
+battle_skill_config-245130101,
+battle_skill_config-345130101,
+battle_skill_config-445130101,
+battle_skill_config-145130201,新春稻草人净化
+battle_skill_config-545130201,
+battle_skill_config-245130201,
+battle_skill_config-345130201,
+battle_skill_config-445130201,
+battle_skill_config-145130301,新春稻草人驱散
+battle_skill_config-545130301,
+battle_skill_config-245130301,
+battle_skill_config-345130301,
+battle_skill_config-445130301,
+battle_skill_config-145130401,新春稻草人血量特动触发
+battle_skill_config-545130401,
+battle_skill_config-245130401,
+battle_skill_config-345130401,
+battle_skill_config-445130401,
+battle_skill_config-145130501,新春稻草人dot触发
+battle_skill_config-545130501,
+battle_skill_config-245130501,
+battle_skill_config-345130501,
+battle_skill_config-445130501,
+battle_skill_config-145140101,全队烟花提升
+battle_skill_config-545140101,
+battle_skill_config-245140101,
+battle_skill_config-345140101,
+battle_skill_config-445140101,
+battle_skill_config-145140201,叶戈尔开场限伤
+battle_skill_config-545140201,
+battle_skill_config-245140201,
+battle_skill_config-345140201,
+battle_skill_config-445140201,
+battle_skill_config-175728101,반중력 필드
+battle_skill_config-575728101,
+battle_skill_config-275728101,다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 10점//c 이동속도를 3점 상승시킨다. 지속시간 60초.
+battle_skill_config-375728101,회피 상승치:10점//c이동속도 상승치:3점
+battle_skill_config-475728101,
+battle_skill_config-175728102,반중력 필드
+battle_skill_config-575728102,
+battle_skill_config-275728102,다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 12점//c 이동속도를 3점 상승시킨다. 지속시간 60초.
+battle_skill_config-375728102,회피 상승치:12점//c이동속도 상승치:3점
+battle_skill_config-475728102,
+battle_skill_config-175728103,반중력 필드
+battle_skill_config-575728103,
+battle_skill_config-275728103,다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 14점//c 이동속도를 3점 상승시킨다. 지속시간 60초.
+battle_skill_config-375728103,회피 상승치:14점//c이동속도 상승치:3점
+battle_skill_config-475728103,
+battle_skill_config-175728104,반중력 필드
+battle_skill_config-575728104,
+battle_skill_config-275728104,다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 17점//c 이동속도를 4점 상승시킨다. 지속시간 60초.
+battle_skill_config-375728104,회피 상승치:17점//c이동속도 상승치:4점
+battle_skill_config-475728104,
+battle_skill_config-175728105,반중력 필드
+battle_skill_config-575728105,
+battle_skill_config-275728105,다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 19점//c 이동속도를 4점 상승시킨다. 지속시간 60초.
+battle_skill_config-375728105,회피 상승치:19점//c이동속도 상승치:4점
+battle_skill_config-475728105,
+battle_skill_config-175728106,반중력 필드
+battle_skill_config-575728106,
+battle_skill_config-275728106,다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 21점//c 이동속도를 4점 상승시킨다. 지속시간 60초.
+battle_skill_config-375728106,회피 상승치:21점//c이동속도 상승치:4점
+battle_skill_config-475728106,
+battle_skill_config-175728107,반중력 필드
+battle_skill_config-575728107,
+battle_skill_config-275728107,다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 23점//c 이동속도를 4점 상승시킨다. 지속시간 60초.
+battle_skill_config-375728107,회피 상승치:23점//c이동속도 상승치:4점
+battle_skill_config-475728107,
+battle_skill_config-175728108,반중력 필드
+battle_skill_config-575728108,
+battle_skill_config-275728108,다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 26점//c 이동속도를 5점 상승시킨다. 지속시간 60초.
+battle_skill_config-375728108,회피 상승치:26점//c이동속도 상승치:5점
+battle_skill_config-475728108,
+battle_skill_config-175728109,반중력 필드
+battle_skill_config-575728109,
+battle_skill_config-275728109,다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 28점//c 이동속도를 5점 상승시킨다. 지속시간 60초.
+battle_skill_config-375728109,회피 상승치:28점//c이동속도 상승치:5점
+battle_skill_config-475728109,
+battle_skill_config-175728110,반중력 필드
+battle_skill_config-575728110,
+battle_skill_config-275728110,다음 전투에서 해당 제대 중 기관총과 산탄총 인형의 회피를 30점//c 이동속도를 5점 상승시킨다. 지속시간 60초.
+battle_skill_config-375728110,회피 상승치:30점//c이동속도 상승치:5점
+battle_skill_config-475728110,
+battle_skill_config-175728201,무중력
+battle_skill_config-575728201,
+battle_skill_config-275728201,맨날 물구나무 서는 것도 아니고//c 멋대로 날아가 버리거나 하진 않으니까 안심하세요.
+battle_skill_config-375728201,무한 저편
+battle_skill_config-475728201,무중력
+battle_skill_config-175728202,무중력
+battle_skill_config-575728202,
+battle_skill_config-275728202,맨날 물구나무 서는 것도 아니고//c 멋대로 날아가 버리거나 하진 않으니까 안심하세요.
+battle_skill_config-375728202,무한 저편
+battle_skill_config-475728202,무중력
+battle_skill_config-175728203,무중력
+battle_skill_config-575728203,
+battle_skill_config-275728203,맨날 물구나무 서는 것도 아니고//c 멋대로 날아가 버리거나 하진 않으니까 안심하세요.
+battle_skill_config-375728203,무한 저편
+battle_skill_config-475728203,무중력
+battle_skill_config-175728204,무중력
+battle_skill_config-575728204,
+battle_skill_config-275728204,맨날 물구나무 서는 것도 아니고//c 멋대로 날아가 버리거나 하진 않으니까 안심하세요.
+battle_skill_config-375728204,무한 저편
+battle_skill_config-475728204,무중력
+battle_skill_config-175728205,무중력
+battle_skill_config-575728205,
+battle_skill_config-275728205,맨날 물구나무 서는 것도 아니고//c 멋대로 날아가 버리거나 하진 않으니까 안심하세요.
+battle_skill_config-375728205,무한 저편
+battle_skill_config-475728205,무중력
+battle_skill_config-201160101,절대 반격
+battle_skill_config-601160101,
+battle_skill_config-301160101,패시브: 공격받을 때 10% 확률로 장갑 +1점//c 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 10배만큼의 피해를 준다.//n액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -10점//c 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 5초.
+battle_skill_config-401160101,쿨타임:20초//c장갑 배율:10배//c받는 피해 감소:10점//c지속시간:5초
+battle_skill_config-501160101,
+battle_skill_config-201160102,절대 반격
+battle_skill_config-601160102,
+battle_skill_config-301160102,패시브: 공격받을 때 10% 확률로 장갑 +1점//c 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 14배만큼의 피해를 준다.//n액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -12점//c 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 6초.
+battle_skill_config-401160102,쿨타임:19.6초//c장갑 배율:14배//c받는 피해 감소:12점//c지속시간:6초
+battle_skill_config-501160102,
+battle_skill_config-201160103,절대 반격
+battle_skill_config-601160103,
+battle_skill_config-301160103,패시브: 공격받을 때 10% 확률로 장갑 +1점//c 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 19배만큼의 피해를 준다.//n액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -14점//c 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 6초.
+battle_skill_config-401160103,쿨타임:19.1초//c장갑 배율:19배//c받는 피해 감소:14점//c지속시간:6초
+battle_skill_config-501160103,
+battle_skill_config-201160104,절대 반격
+battle_skill_config-601160104,
+battle_skill_config-301160104,패시브: 공격받을 때 10% 확률로 장갑 +1점//c 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 23배만큼의 피해를 준다.//n액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -17점//c 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 7초.
+battle_skill_config-401160104,쿨타임:18.7초//c장갑 배율:23배//c받는 피해 감소:17점//c지속시간:7초
+battle_skill_config-501160104,
+battle_skill_config-201160105,절대 반격
+battle_skill_config-601160105,
+battle_skill_config-301160105,패시브: 공격받을 때 10% 확률로 장갑 +1점//c 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 28배만큼의 피해를 준다.//n액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -19점//c 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 7초.
+battle_skill_config-401160105,쿨타임:18.2초//c장갑 배율:28배//c받는 피해 감소:19점//c지속시간:7초
+battle_skill_config-501160105,
+battle_skill_config-201160106,절대 반격
+battle_skill_config-601160106,
+battle_skill_config-301160106,패시브: 공격받을 때 10% 확률로 장갑 +1점//c 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 32배만큼의 피해를 준다.//n액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -21점//c 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 8초.
+battle_skill_config-401160106,쿨타임:17.8초//c장갑 배율:32배//c받는 피해 감소:21점//c지속시간:8초
+battle_skill_config-501160106,
+battle_skill_config-201160107,절대 반격
+battle_skill_config-601160107,
+battle_skill_config-301160107,패시브: 공격받을 때 10% 확률로 장갑 +1점//c 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 37배만큼의 피해를 준다.//n액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -23점//c 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 8초.
+battle_skill_config-401160107,쿨타임:17.3초//c장갑 배율:37배//c받는 피해 감소:23점//c지속시간:8초
+battle_skill_config-501160107,
+battle_skill_config-201160108,절대 반격
+battle_skill_config-601160108,
+battle_skill_config-301160108,패시브: 공격받을 때 10% 확률로 장갑 +1점//c 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 41배만큼의 피해를 준다.//n액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -26점//c 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 9초.
+battle_skill_config-401160108,쿨타임:16.9초//c장갑 배율:41배//c받는 피해 감소:26점//c지속시간:9초
+battle_skill_config-501160108,
+battle_skill_config-201160109,절대 반격
+battle_skill_config-601160109,
+battle_skill_config-301160109,패시브: 공격받을 때 10% 확률로 장갑 +1점//c 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 46배만큼의 피해를 준다.//n액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -28점//c 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 9초.
+battle_skill_config-401160109,쿨타임:16.4초//c장갑 배율:46배//c받는 피해 감소:28점//c지속시간:9초
+battle_skill_config-501160109,
+battle_skill_config-201160110,절대 반격
+battle_skill_config-601160110,
+battle_skill_config-301160110,패시브: 공격받을 때 10% 확률로 장갑 +1점//c 최대 +300점. 공격을 100회 받을 때마다 모든 적에게 현재 자신의 장갑 50배만큼의 피해를 준다.//n액티브: 자신의 이동속도가 0이 되고 적을 도발한다. 동시에 자신이 받는 피해 -30점//c 피격 시 장갑 상승 확률이 30%로 상승한다. 지속시간 10초.
+battle_skill_config-401160110,쿨타임:16초//c장갑 배율:50배//c받는 피해 감소:30점//c지속시간:10초
+battle_skill_config-501160110,
+battle_skill_config-201160201,M887监视受击
+battle_skill_config-601160201,
+battle_skill_config-301160201,
+battle_skill_config-401160201,
+battle_skill_config-501160201,
+battle_skill_config-201160301,M887监视受击触发
+battle_skill_config-601160301,
+battle_skill_config-301160301,
+battle_skill_config-401160301,
+battle_skill_config-501160301,
+battle_skill_config-201160401,M887监视受击增益触发
+battle_skill_config-601160401,
+battle_skill_config-301160401,
+battle_skill_config-401160401,
+battle_skill_config-501160401,
+battle_skill_config-201160501,M887受击触发反击
+battle_skill_config-601160501,
+battle_skill_config-301160501,
+battle_skill_config-401160501,
+battle_skill_config-501160501,
+battle_skill_config-201160502,M887受击触发反击
+battle_skill_config-601160502,
+battle_skill_config-301160502,
+battle_skill_config-401160502,
+battle_skill_config-501160502,
+battle_skill_config-201160503,M887受击触发反击
+battle_skill_config-601160503,
+battle_skill_config-301160503,
+battle_skill_config-401160503,
+battle_skill_config-501160503,
+battle_skill_config-201160504,M887受击触发反击
+battle_skill_config-601160504,
+battle_skill_config-301160504,
+battle_skill_config-401160504,
+battle_skill_config-501160504,
+battle_skill_config-201160505,M887受击触发反击
+battle_skill_config-601160505,
+battle_skill_config-301160505,
+battle_skill_config-401160505,
+battle_skill_config-501160505,
+battle_skill_config-201160506,M887受击触发反击
+battle_skill_config-601160506,
+battle_skill_config-301160506,
+battle_skill_config-401160506,
+battle_skill_config-501160506,
+battle_skill_config-201160507,M887受击触发反击
+battle_skill_config-601160507,
+battle_skill_config-301160507,
+battle_skill_config-401160507,
+battle_skill_config-501160507,
+battle_skill_config-201160508,M887受击触发反击
+battle_skill_config-601160508,
+battle_skill_config-301160508,
+battle_skill_config-401160508,
+battle_skill_config-501160508,
+battle_skill_config-201160509,M887受击触发反击
+battle_skill_config-601160509,
+battle_skill_config-301160509,
+battle_skill_config-401160509,
+battle_skill_config-501160509,
+battle_skill_config-201160510,M887受击触发反击
+battle_skill_config-601160510,
+battle_skill_config-301160510,
+battle_skill_config-401160510,
+battle_skill_config-501160510,
+battle_skill_config-201170101,신호 투사
+battle_skill_config-601170101,
+battle_skill_config-301170101,공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 50점//c 화력 100점//c 사속 50점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.//n증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며//c 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+battle_skill_config-401170101,체력 스탯:50점//c화력 스탯:100점//c사속 스탯50점
+battle_skill_config-501170101,
+battle_skill_config-201170102,신호 투사
+battle_skill_config-601170102,
+battle_skill_config-301170102,공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 56점//c 화력 111점//c 사속 56점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.//n증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며//c 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+battle_skill_config-401170102,체력 스탯:56점//c화력 스탯:111점//c사속 스탯56점
+battle_skill_config-501170102,
+battle_skill_config-201170103,신호 투사
+battle_skill_config-601170103,
+battle_skill_config-301170103,공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 61점//c 화력 122점//c 사속 61점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.//n증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며//c 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+battle_skill_config-401170103,체력 스탯:61점//c화력 스탯:122점//c사속 스탯61점
+battle_skill_config-501170103,
+battle_skill_config-201170104,신호 투사
+battle_skill_config-601170104,
+battle_skill_config-301170104,공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 67점//c 화력 133점//c 사속 67점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.//n증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며//c 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+battle_skill_config-401170104,체력 스탯:67점//c화력 스탯:133점//c사속 스탯67점
+battle_skill_config-501170104,
+battle_skill_config-201170105,신호 투사
+battle_skill_config-601170105,
+battle_skill_config-301170105,공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 72점//c 화력 144점//c 사속 72점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.//n증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며//c 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+battle_skill_config-401170105,체력 스탯:72점//c화력 스탯:144점//c사속 스탯72점
+battle_skill_config-501170105,
+battle_skill_config-201170106,신호 투사
+battle_skill_config-601170106,
+battle_skill_config-301170106,공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 78점//c 화력 156점//c 사속 78점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.//n증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며//c 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+battle_skill_config-401170106,체력 스탯:78점//c화력 스탯:156점//c사속 스탯78점
+battle_skill_config-501170106,
+battle_skill_config-201170107,신호 투사
+battle_skill_config-601170107,
+battle_skill_config-301170107,공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 83점//c 화력 167점//c 사속 83점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.//n증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며//c 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+battle_skill_config-401170107,체력 스탯:83점//c화력 스탯:167점//c사속 스탯83점
+battle_skill_config-501170107,
+battle_skill_config-201170108,신호 투사
+battle_skill_config-601170108,
+battle_skill_config-301170108,공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 89점//c 화력 178점//c 사속 89점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.//n증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며//c 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+battle_skill_config-401170108,체력 스탯:89점//c화력 스탯:178점//c사속 스탯89점
+battle_skill_config-501170108,
+battle_skill_config-201170109,신호 투사
+battle_skill_config-601170109,
+battle_skill_config-301170109,공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 94점//c 화력 189점//c 사속 94점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.//n증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며//c 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+battle_skill_config-401170109,체력 스탯:94점//c화력 스탯:189점//c사속 스탯94점
+battle_skill_config-501170109,
+battle_skill_config-201170110,신호 투사
+battle_skill_config-601170110,
+battle_skill_config-301170110,공격 시마다 5% 확률로 필드에 53식 더미인형을 증원시킨다. 해당 유닛은 독립된 능력치를 가진다: 체력 100점//c 화력 200점//c 사속 100점. 가장 가까운 적을 우선 공격한다. 나머지 능력치는 53식 본체와 동일하다.//n증원으로 입장한 유닛의 공격에도 신호 투사 스킬이 적용되며//c 필드에 5초 이상 존재하면 화력과 사속 버프를 얻는다.
+battle_skill_config-401170110,체력 스탯:100점//c화력 스탯:200점//c사속 스탯100점
+battle_skill_config-501170110,
+battle_skill_config-201170201,53式普攻[*]
+battle_skill_config-601170201,
+battle_skill_config-301170201,步枪的일반攻击
+battle_skill_config-401170201,
+battle_skill_config-501170201,
+battle_skill_config-201170301,53式召唤物普攻[*]
+battle_skill_config-601170301,
+battle_skill_config-301170301,步枪的일반攻击
+battle_skill_config-401170301,
+battle_skill_config-501170301,
+battle_skill_config-201170401,53式지원触发
+battle_skill_config-601170401,
+battle_skill_config-301170401,
+battle_skill_config-401170401,
+battle_skill_config-501170401,
+battle_skill_config-201170501,53式지원自爆
+battle_skill_config-601170501,
+battle_skill_config-301170501,
+battle_skill_config-401170501,
+battle_skill_config-501170501,
+battle_skill_config-201170601,53式지원记录
+battle_skill_config-601170601,
+battle_skill_config-301170601,
+battle_skill_config-401170601,
+battle_skill_config-501170601,

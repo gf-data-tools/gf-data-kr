@@ -931,6 +931,15 @@
     rank: 1
   }
   {
+    id: 154
+    type: 3
+    arg: "55"
+    code: Medal_202602Activity_rank
+    item_name: 비막이 훈장
+    introduction: “강철비 예찬” 이벤트에서 눈부신 활약을 보인 지휘관과 휘하 전술인형에게 수여.“그 몸을 우산처럼 펼쳐 이 불탄 대지에 맑은 하늘이 나올 때까지 감싸주다.”
+    rank: 1
+  }
+  {
     id: 301
     type: 1
     arg: "1"
@@ -17224,6 +17233,33 @@
     rank: 1
   }
   {
+    id: 2759
+    type: 5
+    arg: "1"
+    code: profilePic_2026SpringJP_coremask
+    item_name: 아이콘: 최첨단 마스크·봄의 선물
+    introduction: 아이콘: 최첨단 마스크·봄의 선물
+    rank: 1
+  }
+  {
+    id: 2760
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_6P62
+    item_name: 6P62 - 심쿵 아레나
+    introduction: 6P62 - 심쿵 아레나
+    rank: 1
+  }
+  {
+    id: 2761
+    type: 5
+    arg: "1"
+    code: card_BattlePass_6P62
+    item_name: 카드배경: 6P62의 클리어 오더
+    introduction: 카드배경: 6P62의 클리어 오더
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -18482,6 +18518,16 @@
     is_hide_info: 1
   }
   {
+    id: 9053
+    type: 1
+    arg: "9053"
+    code: Griffin
+    item_name: 폭죽
+    introduction: 폭죽
+    rank: 1
+    is_hide_info: 1
+  }
+  {
     id: 9301
     type: 1
     arg: "9301"
@@ -19133,6 +19179,15 @@
     code: gift_bundle_BattlePass_JS9mm
     item_name: JS 9 - 허물어진 벽 위에서
     introduction: 오늘 순찰 지점은 여기인가요? ...알겠습니다. 환경이 아무리 열악해도 저의 행동은 언제나처럼 깔끔할 거예요.
+    rank: 1
+  }
+  {
+    id: 30037
+    type: 1
+    arg: "30037"
+    code: gift_bundle_BattlePass_6P62
+    item_name: 6P62 - 심쿵 아레나
+    introduction: 이 게임실은 내 비밀기지야. 오직 특별한 사람만 들여보내지. 지휘관, 한판 할래? 진 사람은 벌칙 게임이야!
     rank: 1
   }
   {
@@ -22596,6 +22651,42 @@
     rank: 1
   }
   {
+    id: 110081
+    type: 4
+    arg: "110081"
+    code: EventPT5
+    item_name: 이벤트 점수
+    introduction: 이벤트 점수
+    rank: 1
+  }
+  {
+    id: 110082
+    type: 4
+    arg: "110082"
+    code: PT
+    item_name: 이벤트 점수
+    introduction: 이벤트 점수
+    rank: 1
+  }
+  {
+    id: 110083
+    type: 4
+    arg: "110083"
+    code: PT
+    item_name: 이벤트 점수
+    introduction: 이벤트 점수
+    rank: 1
+  }
+  {
+    id: 110084
+    type: 4
+    arg: "110084"
+    code: PT
+    item_name: 이벤트 점수
+    introduction: 이벤트 점수
+    rank: 1
+  }
+  {
     id: 120001
     type: 10
     arg: "1"
@@ -24662,6 +24753,22 @@
     rank: 1
   }
   {
+    id: 140073
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제37기 전선협약
+    rank: 1
+  }
+  {
+    id: 140074
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제37기 전선협약 강화
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -25220,6 +25327,15 @@
     code: profileFrame_BattlePass_JS9mm
     item_name: 액자·폐허 끝의 서광
     introduction: 액자·폐허 끝의 서광
+    rank: 1
+  }
+  {
+    id: 200062
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_6P62
+    item_name: 액자·스퀘어 판타지
+    introduction: 액자·스퀘어 판타지
     rank: 1
   }
   {
@@ -29296,6 +29412,50 @@
     code: package_random
     item_name: 전선협약-추가보상
     introduction: 전선협약-여명의 규율 보상, 범위 중 한 가지 도구를 무작위로 획득합니다
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500359
+    type: 15
+    arg: "1500359"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약-심쿵 아레나 보상, 지정 범위에서 원하는 장비를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500360
+    type: 15
+    arg: "1500360"
+    code: package_choose
+    item_name: 부속 장비 선택 코드
+    introduction: 전선협약-심쿵 아레나 보상, 지정 범위에서 원하는 부속 유형 장비를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500361
+    type: 15
+    arg: "1500361"
+    code: package_random
+    item_name: 미획득 인형 확정 코드
+    introduction: 전선협약-심쿵 아레나 보상, 범위 중 도감이 해금되지 않은 인형을 반드시 하나 획득. 전부 해금된 상태일 경우 무작위로 하나 획득.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500362
+    type: 15
+    arg: "1500362"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-심쿵 아레나 보상, 범위 중 한 가지 도구를 무작위로 획득합니다
     rank: 1
     sort: -1
     type_sort: 1
