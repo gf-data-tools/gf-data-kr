@@ -215,7 +215,7 @@
     type: 2
     tag: EP.
     order: 22
-    campaign_sub_name: CH.01 비편광원;CH.02 이중 프리즘;CH.03 극화 종점;CH.04 리캐스팅;CH.05 시야극한;CH.00 비경수위
+    campaign_sub_name: CH.01 비편광원;CH.02 이중 프리즘;CH.03 극화 종점;CH.04 리캐스팅;CH.05 시야극한
   }
   {
     id: 23

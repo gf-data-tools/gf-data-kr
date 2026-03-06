@@ -1491,10 +1491,10 @@
   }
   {
     obtain_id: 3143
-    description: 2026년 설날 출석 이벤트 보상
+    description: 기간한정 이벤트 <해맞이 등불> 보상
   }
   {
     obtain_id: 3144
-    description: 2026년 가을 출석 이벤트 보상
+    description: 기간한정 이벤트 <황금빛 태양> 보상
   }
 ]
