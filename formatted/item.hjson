@@ -17260,6 +17260,24 @@
     rank: 1
   }
   {
+    id: 2762
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_AUGPARA
+    item_name: AUG SMG - 꽃과 백일몽
+    introduction: AUG SMG - 꽃과 백일몽
+    rank: 1
+  }
+  {
+    id: 2763
+    type: 5
+    arg: "1"
+    code: card_BattlePass_AUGPARA
+    item_name: 카드배경: 머리맡 꽃향기
+    introduction: 카드배경: 머리맡 꽃향기
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -19188,6 +19206,15 @@
     code: gift_bundle_BattlePass_6P62
     item_name: 6P62 - 심쿵 아레나
     introduction: 이 게임실은 내 비밀기지야. 오직 특별한 사람만 들여보내지. 지휘관, 한판 할래? 진 사람은 벌칙 게임이야!
+    rank: 1
+  }
+  {
+    id: 30038
+    type: 1
+    arg: "30038"
+    code: gift_bundle_BattlePass_AUGPARA
+    item_name: AUG SMG - 꽃과 백일몽
+    introduction: 이건 SOP2 씨에게 드릴 해바라기, 이건 AUG 씨에게... 네? 왜 그렇게 잘 아냐고요? 귀여운 직장 동료를 관찰하는 것도 업무의 일부니까요~
     rank: 1
   }
   {
@@ -24769,6 +24796,22 @@
     rank: 1
   }
   {
+    id: 140075
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제38기 전선협약
+    rank: 1
+  }
+  {
+    id: 140076
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제38기 전선협약 강화
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -25336,6 +25379,15 @@
     code: profileFrame_BattlePass_6P62
     item_name: 액자·스퀘어 판타지
     introduction: 액자·스퀘어 판타지
+    rank: 1
+  }
+  {
+    id: 200063
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_AUGPARA
+    item_name: 액자: 봄 그림자 흔들흔들
+    introduction: 액자: 봄 그림자 흔들흔들
     rank: 1
   }
   {
@@ -29456,6 +29508,50 @@
     code: package_random
     item_name: 전선협약-추가보상
     introduction: 전선협약-심쿵 아레나 보상, 범위 중 한 가지 도구를 무작위로 획득합니다
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500363
+    type: 15
+    arg: "1500363"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약-꽃다발 선물 보상, 지정 범위에서 원하는 장비를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500364
+    type: 15
+    arg: "1500364"
+    code: package_choose
+    item_name: 탄창 장비 선택 코드
+    introduction: 전선협약-꽃다발 선물 보상, 지정 범위에서 원하는 탄창 유형 장비를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500365
+    type: 15
+    arg: "1500365"
+    code: package_random
+    item_name: 미획득 인형 확정 코드
+    introduction: 전선협약-꽃다발 선물 보상, 범위 중 도감이 해금되지 않은 인형을 반드시 하나 획득. 전부 해금된 상태일 경우 무작위로 하나 획득.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500366
+    type: 15
+    arg: "1500366"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-꽃다발 선물 보상, 범위 중 한 가지 도구를 무작위로 획득합니다
     rank: 1
     sort: -1
     type_sort: 1

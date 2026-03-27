@@ -10113,6 +10113,7 @@
     fit_gun: 97
     voice: 4
     dialog: 안녕, 지휘관, 이제야 왔구나. 물건은 다 챙겨왔지? 좋아, 정식 연주하기 전에 주스 하나 사줄게. 마침 동전 딱 두 개 남았거든.
+    gift_position: "38.9,248.4"
     illustrator_cv: 八号地球,Koga Aoi,
     order: 122
   }
@@ -10122,6 +10123,7 @@
     fit_gun: 129
     voice: 4
     dialog: 님은 언제 돌아오시나... 이건 슬픈 노래가 아니랍니다. 저는 제가 기다리는 그분께서 분명 약속대로 오실 거라 믿기 때문이죠. 그렇죠, 지휘관님?
+    gift_position: "-191.5,272.5"
     illustrator_cv: --,Koga Aoi,
     order: 122
   }
@@ -10314,6 +10316,14 @@
     dialog: 이 게임실은 내 비밀기지야. 오직 특별한 사람만 들여보내지. 지휘관, 한판 할래? 진 사람은 벌칙 게임이야!
     illustrator_cv: YoYo,Inoue Marina,
     order: 166
+  }
+  {
+    id: 30038
+    name: AUG SMG - 꽃과 백일몽
+    fit_gun: 315
+    voice: 4
+    dialog: 이건 SOP2 씨에게 드릴 해바라기, 이건 AUG 씨에게... 네? 왜 그렇게 잘 아냐고요? 귀여운 직장 동료를 관찰하는 것도 업무의 일부니까요~
+    order: 167
   }
   {
     id: 50001
