@@ -3198,54 +3198,104 @@ battle_skill_config-510170110,
 battle_skill_config-210170110,자신의 화력을 35%//c 사속을 15% 상승시킨다. 지속시간 5초
 battle_skill_config-310170110,쿨타임 : 8초//c화력 상승치 : 35%//c사속 상승치 : 15%//c지속시간 : 5초
 battle_skill_config-410170110,
+battle_skill_config-110170201,강행돌파
+battle_skill_config-510170201,
+battle_skill_config-210170201,자신의 화력을 45%//c 사속을 15% 상승시킨다. 지속시간 3초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-310170201,쿨타임 : 20초//c화력 상승치 : 45%//c사속 상승치 : 15%//c지속시간 : 3초
+battle_skill_config-410170201,
+battle_skill_config-110170202,강행돌파
+battle_skill_config-510170202,
+battle_skill_config-210170202,자신의 화력을 48%//c 사속을 16% 상승시킨다. 지속시간 3.2초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-310170202,쿨타임 : 19.6초//c화력 상승치 : 48%//c사속 상승치 : 16%//c지속시간 : 3.2초
+battle_skill_config-410170202,
+battle_skill_config-110170203,강행돌파
+battle_skill_config-510170203,
+battle_skill_config-210170203,자신의 화력을 52%//c 사속을 17% 상승시킨다. 지속시간 3.4초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-310170203,쿨타임 : 19.1초//c화력 상승치 : 52%//c사속 상승치 : 17%//c지속시간 : 3.4초
+battle_skill_config-410170203,
+battle_skill_config-110170204,강행돌파
+battle_skill_config-510170204,
+battle_skill_config-210170204,자신의 화력을 55%//c 사속을 18% 상승시킨다. 지속시간 3.7초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-310170204,쿨타임 : 18.7초//c화력 상승치 : 55%//c사속 상승치 : 18%//c지속시간 : 3.7초
+battle_skill_config-410170204,
+battle_skill_config-110170205,강행돌파
+battle_skill_config-510170205,
+battle_skill_config-210170205,자신의 화력을 58%//c 사속을 19% 상승시킨다. 지속시간 3.9초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-310170205,쿨타임 : 18.2초//c화력 상승치 : 58%//c사속 상승치 : 19%//c지속시간 : 3.9초
+battle_skill_config-410170205,
+battle_skill_config-110170206,강행돌파
+battle_skill_config-510170206,
+battle_skill_config-210170206,자신의 화력을 62%//c 사속을 21% 상승시킨다. 지속시간 4.1초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-310170206,쿨타임 : 17.8초//c화력 상승치 : 62%//c사속 상승치 : 21%//c지속시간 : 4.1초
+battle_skill_config-410170206,
+battle_skill_config-110170207,강행돌파
+battle_skill_config-510170207,
+battle_skill_config-210170207,자신의 화력을 65%//c 사속을 22% 상승시킨다. 지속시간 4.3초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-310170207,쿨타임 : 17.3초//c화력 상승치 : 65%//c사속 상승치 : 22%//c지속시간 : 4.3초
+battle_skill_config-410170207,
+battle_skill_config-110170208,강행돌파
+battle_skill_config-510170208,
+battle_skill_config-210170208,자신의 화력을 68%//c 사속을 23% 상승시킨다. 지속시간 4.6초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-310170208,쿨타임 : 16.9초//c화력 상승치 : 68%//c사속 상승치 : 23%//c지속시간 : 4.6초
+battle_skill_config-410170208,
+battle_skill_config-110170209,강행돌파
+battle_skill_config-510170209,
+battle_skill_config-210170209,자신의 화력을 72%//c 사속을 24% 상승시킨다. 지속시간 4.8초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-310170209,쿨타임 : 16.4초//c화력 상승치 : 72%//c사속 상승치 : 24%//c지속시간 : 4.8초
+battle_skill_config-410170209,
+battle_skill_config-110170210,강행돌파
+battle_skill_config-510170210,
+battle_skill_config-210170210,자신의 화력을 75%//c 사속을 25% 상승시킨다. 지속시간 5초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-310170210,쿨타임 : 16초//c화력 상승치 : 75%//c사속 상승치 : 25%//c지속시간 : 5초
+battle_skill_config-410170210,
 battle_skill_config-110170301,강행돌파
 battle_skill_config-510170301,
-battle_skill_config-210170301,자신의 화력을 45%//c 사속을 15% 상승시킨다. 지속시간 3초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-210170301,자신의 화력을 45%//c 사속을 15% 상승시킨다. 지속시간 3초
 battle_skill_config-310170301,쿨타임 : 20초//c화력 상승치 : 45%//c사속 상승치 : 15%//c지속시간 : 3초
 battle_skill_config-410170301,
 battle_skill_config-110170302,강행돌파
 battle_skill_config-510170302,
-battle_skill_config-210170302,자신의 화력을 48%//c 사속을 16% 상승시킨다. 지속시간 3.2초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-210170302,자신의 화력을 48%//c 사속을 16% 상승시킨다. 지속시간 3.2초
 battle_skill_config-310170302,쿨타임 : 19.6초//c화력 상승치 : 48%//c사속 상승치 : 16%//c지속시간 : 3.2초
 battle_skill_config-410170302,
 battle_skill_config-110170303,강행돌파
 battle_skill_config-510170303,
-battle_skill_config-210170303,자신의 화력을 52%//c 사속을 17% 상승시킨다. 지속시간 3.4초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-210170303,자신의 화력을 52%//c 사속을 17% 상승시킨다. 지속시간 3.4초
 battle_skill_config-310170303,쿨타임 : 19.1초//c화력 상승치 : 52%//c사속 상승치 : 17%//c지속시간 : 3.4초
 battle_skill_config-410170303,
 battle_skill_config-110170304,강행돌파
 battle_skill_config-510170304,
-battle_skill_config-210170304,자신의 화력을 55%//c 사속을 18% 상승시킨다. 지속시간 3.7초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-210170304,자신의 화력을 55%//c 사속을 18% 상승시킨다. 지속시간 3.7초
 battle_skill_config-310170304,쿨타임 : 18.7초//c화력 상승치 : 55%//c사속 상승치 : 18%//c지속시간 : 3.7초
 battle_skill_config-410170304,
 battle_skill_config-110170305,강행돌파
 battle_skill_config-510170305,
-battle_skill_config-210170305,자신의 화력을 58%//c 사속을 19% 상승시킨다. 지속시간 3.9초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-210170305,자신의 화력을 58%//c 사속을 19% 상승시킨다. 지속시간 3.9초
 battle_skill_config-310170305,쿨타임 : 18.2초//c화력 상승치 : 58%//c사속 상승치 : 19%//c지속시간 : 3.9초
 battle_skill_config-410170305,
 battle_skill_config-110170306,강행돌파
 battle_skill_config-510170306,
-battle_skill_config-210170306,자신의 화력을 62%//c 사속을 21% 상승시킨다. 지속시간 4.1초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-210170306,자신의 화력을 62%//c 사속을 21% 상승시킨다. 지속시간 4.1초
 battle_skill_config-310170306,쿨타임 : 17.8초//c화력 상승치 : 62%//c사속 상승치 : 21%//c지속시간 : 4.1초
 battle_skill_config-410170306,
 battle_skill_config-110170307,강행돌파
 battle_skill_config-510170307,
-battle_skill_config-210170307,자신의 화력을 65%//c 사속을 22% 상승시킨다. 지속시간 4.3초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-210170307,자신의 화력을 65%//c 사속을 22% 상승시킨다. 지속시간 4.3초
 battle_skill_config-310170307,쿨타임 : 17.3초//c화력 상승치 : 65%//c사속 상승치 : 22%//c지속시간 : 4.3초
 battle_skill_config-410170307,
 battle_skill_config-110170308,강행돌파
 battle_skill_config-510170308,
-battle_skill_config-210170308,자신의 화력을 68%//c 사속을 23% 상승시킨다. 지속시간 4.6초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-210170308,자신의 화력을 68%//c 사속을 23% 상승시킨다. 지속시간 4.6초
 battle_skill_config-310170308,쿨타임 : 16.9초//c화력 상승치 : 68%//c사속 상승치 : 23%//c지속시간 : 4.6초
 battle_skill_config-410170308,
 battle_skill_config-110170309,강행돌파
 battle_skill_config-510170309,
-battle_skill_config-210170309,자신의 화력을 72%//c 사속을 24% 상승시킨다. 지속시간 4.8초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-210170309,자신의 화력을 72%//c 사속을 24% 상승시킨다. 지속시간 4.8초
 battle_skill_config-310170309,쿨타임 : 16.4초//c화력 상승치 : 72%//c사속 상승치 : 24%//c지속시간 : 4.8초
 battle_skill_config-410170309,
 battle_skill_config-110170310,강행돌파
 battle_skill_config-510170310,
-battle_skill_config-210170310,자신의 화력을 75%//c 사속을 25% 상승시킨다. 지속시간 5초("VM 고글"을 착용한 경우//c 스킬 지속 중 추가로 모든 아군의 모든 능력치 5% 상승.)
+battle_skill_config-210170310,자신의 화력을 75%//c 사속을 25% 상승시킨다. 지속시간 5초
 battle_skill_config-310170310,쿨타임 : 16초//c화력 상승치 : 75%//c사속 상승치 : 25%//c지속시간 : 5초
 battle_skill_config-410170310,
 battle_skill_config-110170401,강행돌파

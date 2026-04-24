@@ -10133,6 +10133,7 @@
     fit_gun: 54
     voice: 4
     dialog: 역시 방금 그 코트가 너한테 어울리네, 교환하도록 해, 지휘관. 마침 놈들도 왔으니 움직일 준비하고. 휴일? 그게 우리랑 무슨 상관이야?
+    gift_position: "-329.5,449.7"
     illustrator_cv: 小枪,Yamane Nozomi,
     order: 125
   }
@@ -10245,6 +10246,7 @@
     fit_gun: 323
     voice: 4
     dialog: 숲의 기운은 정말 마음이 편해지는구나... 앗, 지휘관이 왜 여기에 있어? 나는 모두와 소풍하러 온 거야. 딱히 지휘관하곤... 아니야, 이왕 온 거 여기에 앉아.
+    gift_position: "-242.5,179.7"
     illustrator_cv: YoYo,Tanaka Rie,
     order: 153
   }
@@ -10254,6 +10256,7 @@
     fit_gun: 350
     voice: 4
     dialog: 일하던 중에 잭이 도넛 하나 훔쳐먹은 거 인정할 게... 그, 그렇게 화내지 말구, 이것도 품질 검사의 일환이니까! 그치, 지휘관?
+    gift_position: "-214.5,376.8"
     order: 155
   }
   {
@@ -10262,6 +10265,7 @@
     fit_gun: 61
     voice: 4
     dialog: 출발할까요, 지휘관님? 산길이 조금 더러울 수 있지만 걱정 마세요... 제가 가장 깨끗한 경로를 찾아드릴 테니까요.
+    gift_position: "-210.9,243.7"
     illustrator_cv: Alize,Sirasu Saho,
     order: 156
   }
@@ -10271,6 +10275,7 @@
     fit_gun: 278
     voice: 4
     dialog: 높은 곳에서 이 도시를 내려다볼 때면 이곳을 지키고 싶은 마음이 더 강해져요... 바다도 미래에는 이토록 아름답겠죠?
+    gift_position: "-167,144.6"
     illustrator_cv: --,Oomori Nichika,
     order: 157
   }
@@ -10280,6 +10285,7 @@
     fit_gun: 65
     voice: 4
     dialog: 벚꽃잎은 몇 초 사이에 땅에 떨어지죠... 이 홀연히 지나가는 순간에 저의 모습과 이 경치를 당신의 기억에 새기겠어요.
+    gift_position: "-181.2,233"
     illustrator_cv: --,Nonaka Ai,
     order: 158
   }
@@ -10289,6 +10295,7 @@
     fit_gun: 162
     voice: 4
     dialog: 하나 둘, 하나 둘... 1km만 더 달리면 포상으로 치즈 비프 버거 해금이야!
+    gift_position: "-201,291.7"
     order: 160
   }
   {
@@ -10297,6 +10304,7 @@
     fit_gun: 404
     voice: 4
     dialog: 이것이 바로 "스키"라는 것이군요. 양류를 타는 느낌과 무척 비슷합니다... 잘 따라오십시오, 앵무조개. 속력을 올리겠습니다.
+    gift_position: "-202.9,111"
     order: 164
   }
   {
@@ -10305,6 +10313,7 @@
     fit_gun: 234
     voice: 4
     dialog: 오늘 순찰 지점은 여기인가요? ...알겠습니다. 환경이 아무리 열악해도 저의 행동은 언제나처럼 깔끔할 거예요.
+    gift_position: "-142.5,114"
     illustrator_cv: --,Ohzeki Eri,
     order: 165
   }
@@ -10314,6 +10323,7 @@
     fit_gun: 138
     voice: 4
     dialog: 이 게임실은 내 비밀기지야. 오직 특별한 사람만 들여보내지. 지휘관, 한판 할래? 진 사람은 벌칙 게임이야!
+    gift_position: "-110,300.6"
     illustrator_cv: YoYo,Inoue Marina,
     order: 166
   }
@@ -10324,6 +10334,15 @@
     voice: 4
     dialog: 이건 SOP2 씨에게 드릴 해바라기, 이건 AUG 씨에게... 네? 왜 그렇게 잘 아냐고요? 귀여운 직장 동료를 관찰하는 것도 업무의 일부니까요~
     order: 167
+  }
+  {
+    id: 30039
+    name: 모신나강 - 설국여객
+    fit_gun: 39
+    voice: 4
+    dialog: 홍차의 맛은 항상 많은 추억을 불러일으키죠... 하지만 가장 중요한 부분은 역시 지휘관님을 만난 날부터고요.
+    illustrator_cv: YeoNwa,Uesaka Sumire/c
+    order: 168
   }
   {
     id: 50001

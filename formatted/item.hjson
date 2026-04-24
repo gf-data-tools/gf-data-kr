@@ -17278,6 +17278,24 @@
     rank: 1
   }
   {
+    id: 2764
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M1891
+    item_name: 모신나강 - 설국여객
+    introduction: 모신나강 - 설국여객
+    rank: 1
+  }
+  {
+    id: 2765
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M1891
+    item_name: 카드배경: 안개속 눈밭
+    introduction: 카드배경: 안개속 눈밭
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -19215,6 +19233,15 @@
     code: gift_bundle_BattlePass_AUGPARA
     item_name: AUG SMG - 꽃과 백일몽
     introduction: 이건 SOP2 씨에게 드릴 해바라기, 이건 AUG 씨에게... 네? 왜 그렇게 잘 아냐고요? 귀여운 직장 동료를 관찰하는 것도 업무의 일부니까요~
+    rank: 1
+  }
+  {
+    id: 30039
+    type: 1
+    arg: "30039"
+    code: gift_bundle_BattlePass_M1891
+    item_name: 모신나강 - 설국여객
+    introduction: 홍차의 맛은 항상 많은 추억을 불러일으키죠... 하지만 가장 중요한 부분은 역시 지휘관님을 만난 날부터고요.
     rank: 1
   }
   {
@@ -24812,6 +24839,22 @@
     rank: 1
   }
   {
+    id: 140077
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제39기 전선협약
+    rank: 1
+  }
+  {
+    id: 140078
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제39기 전선협약 강화
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -25386,8 +25429,17 @@
     type: 1
     arg: "1"
     code: profileFrame_BattlePass_AUGPARA
-    item_name: 액자: 봄 그림자 흔들흔들
-    introduction: 액자: 봄 그림자 흔들흔들
+    item_name: 액자·살랑거리는 봄
+    introduction: 액자·살랑거리는 봄
+    rank: 1
+  }
+  {
+    id: 200064
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M1891
+    item_name: 액자·반짝이는 티타임
+    introduction: 액자·반짝이는 티타임
     rank: 1
   }
   {
@@ -29552,6 +29604,50 @@
     code: package_random
     item_name: 전선협약-추가보상
     introduction: 전선협약-꽃다발 선물 보상, 범위 중 한 가지 도구를 무작위로 획득합니다
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500367
+    type: 15
+    arg: "1500367"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약-백야호 열차 보상, 지정 범위에서 원하는 장비를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500368
+    type: 15
+    arg: "1500368"
+    code: package_choose
+    item_name: 인형 장비 선택 코드
+    introduction: 전선협약-백야호 열차 보상, 지정 범위에서 원하는 인형 유형 장비를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500369
+    type: 15
+    arg: "1500369"
+    code: package_random
+    item_name: 미획득 인형 확정 코드
+    introduction: 전선협약-백야호 열차 보상, 범위 중 도감이 해금되지 않은 인형을 반드시 하나 획득. 전부 해금된 상태일 경우 무작위로 하나 획득.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500370
+    type: 15
+    arg: "1500370"
+    code: package_random
+    item_name: 전선협약-추가보상
+    introduction: 전선협약-백야호 열차 보상, 범위 중 한 가지 도구를 무작위로 획득합니다
     rank: 1
     sort: -1
     type_sort: 1
