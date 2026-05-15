@@ -93,7 +93,7 @@
     type: "6"
     sub_type: "11988"
     refresh: end:2026-03-20 15:00:00
-    title: <강철비 예찬> 순위표(3월 13일 보상 지급)
+    title: <강철비 예찬> 순위표(3월 21일 보상 지급)
     top_rewards: 1:40865,2:40866,3:40867,4:40868,5:40869,6:40870,7:40871,8:40872,9:40873,10:40874,100:40875
     visable_rank: "100"
     visable_count: "100"
@@ -1394,6 +1394,21 @@
     sub_type: "11946"
     refresh: test
     title: <침묵 말판> 상시화 순위표
+    visable_rank: "100"
+    visable_count: "100"
+    ranking_onlist_number: "80000"
+    every_table_num: "30000"
+    mission_rank_type: "1"
+    sub_rank: "1"
+    sub_rank_name: 점수
+  }
+  {
+    id: "316"
+    name: 강철비 예찬 상시화
+    type: "10"
+    sub_type: "11988"
+    refresh: test
+    title: <강철비 예찬> 상시 순위표
     visable_rank: "100"
     visable_count: "100"
     ranking_onlist_number: "80000"
