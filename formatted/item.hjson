@@ -17296,6 +17296,24 @@
     rank: 1
   }
   {
+    id: 2766
+    type: 5
+    arg: "1"
+    code: profilePic_BattlePass_M1919A4
+    item_name: M1919A4 - 오리 특공대
+    introduction: M1919A4 - 오리 특공대
+    rank: 1
+  }
+  {
+    id: 2767
+    type: 5
+    arg: "1"
+    code: card_BattlePass_M1919A4
+    item_name: 명함：'압'도적 승리
+    introduction: 명함：'압'도적 승리
+    rank: 1
+  }
+  {
     id: 3501
     type: 5
     arg: "1"
@@ -19242,6 +19260,15 @@
     code: gift_bundle_BattlePass_M1891
     item_name: 모신나강 - 설국여객
     introduction: 홍차의 맛은 항상 많은 추억을 불러일으키죠... 하지만 가장 중요한 부분은 역시 지휘관님을 만난 날부터고요.
+    rank: 1
+  }
+  {
+    id: 30040
+    type: 1
+    arg: "30040"
+    code: gift_bundle_BattlePass_M1919A4
+    item_name: M1919A4 - 오리 특공대
+    introduction: 빨리 와, 지휘관! 여기 가판대에 있는 간식이랑 이 오리들 전부 갖고 갈 거야!
     rank: 1
   }
   {
@@ -24855,6 +24882,118 @@
     rank: 1
   }
   {
+    id: 140079
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제40기 전선협약
+    rank: 1
+  }
+  {
+    id: 140080
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제40기 전선협약 유료
+    rank: 1
+  }
+  {
+    id: 140081
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제41기 전선협약
+    rank: 1
+  }
+  {
+    id: 140082
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제41기 전선협약 유료
+    rank: 1
+  }
+  {
+    id: 140083
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제42기 전선협약
+    rank: 1
+  }
+  {
+    id: 140084
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제42기 전선협약 유료
+    rank: 1
+  }
+  {
+    id: 140085
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제43기 전선협약
+    rank: 1
+  }
+  {
+    id: 140086
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제43기 전선협약 유료
+    rank: 1
+  }
+  {
+    id: 140087
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제44기 전선협약
+    rank: 1
+  }
+  {
+    id: 140088
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제44기 전선협약 유료
+    rank: 1
+  }
+  {
+    id: 140089
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제45기 전선협약
+    rank: 1
+  }
+  {
+    id: 140090
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *제45기 전선협약 유료
+    rank: 1
+  }
+  {
+    id: 140091
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *상시전선협약
+    rank: 1
+  }
+  {
+    id: 140092
+    type: 14
+    arg: "1"
+    code: Y_Z_zhihuiguan_Chessman
+    item_name: *상시전선협약 유료
+    rank: 1
+  }
+  {
     id: 160001
     type: 1
     arg: "1"
@@ -25440,6 +25579,15 @@
     code: profileFrame_BattlePass_M1891
     item_name: 액자·반짝이는 티타임
     introduction: 액자·반짝이는 티타임
+    rank: 1
+  }
+  {
+    id: 200065
+    type: 1
+    arg: "1"
+    code: profileFrame_BattlePass_M1919A4
+    item_name: 액자·오리들 돌격
+    introduction: 액자·오리들 돌격
     rank: 1
   }
   {
@@ -29648,6 +29796,292 @@
     code: package_random
     item_name: 전선협약-추가보상
     introduction: 전선협약-백야호 열차 보상, 범위 중 한 가지 도구를 무작위로 획득합니다
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500371
+    type: 15
+    arg: "1500371"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약-깜짝 쇼핑 데이 보상, 지정 범위에서 원하는 장비를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500372
+    type: 15
+    arg: "1500372"
+    code: package_choose
+    item_name: 부속 장비 선택 코드
+    introduction: 전선협약-깜짝 쇼핑 데이 보상, 지정 범위에서 원하는 부속 유형 장비를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500373
+    type: 15
+    arg: "1500373"
+    code: package_random
+    item_name: 미획득 인형 확정 코드
+    introduction: 전선협약-깜짝 쇼핑 데이 보상, 범위 중 도감이 해금되지 않은 인형을 반드시 하나 획득. 전부 해금된 상태일 경우 무작위로 하나 획득.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500374
+    type: 15
+    arg: "1500374"
+    code: package_random
+    item_name: 전선협약 -추가보상
+    introduction: 전선협약-깜짝 쇼핑 데이 보상, 범위 중 한 가지 도구를 무작위로 획득합니다
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500375
+    type: 15
+    arg: "1500375"
+    code: package_choose
+    item_name: 기초 장비 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 장비를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500376
+    type: 15
+    arg: "1500376"
+    code: package_choose
+    item_name: 강화 장비 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 장비를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500377
+    type: 15
+    arg: "1500377"
+    code: package_random
+    item_name: 미획득 인형 확정 코드
+    introduction: 전선협약 보상, 범위 중 도감이 해금되지 않은 인형을 반드시 하나 획득. 전부 해금된 상태일 경우 무작위로 하나 획득.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500378
+    type: 15
+    arg: "1500378"
+    code: package_random
+    item_name: 전선협약 -추가보상
+    introduction: 전선협약 보상, 범위 중 한 가지 도구를 무작위로 획득합니다
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500379
+    type: 15
+    arg: "1500379"
+    code: package_choose
+    item_name: 전선협약 코스튬 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 코스튬을 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500380
+    type: 15
+    arg: "1500380"
+    code: package_choose
+    item_name: 전선협약 액자 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 액자를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500381
+    type: 15
+    arg: "1500381"
+    code: package_choose
+    item_name: 전선협약 명함 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 명함을 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500382
+    type: 15
+    arg: "1500382"
+    code: package_choose
+    item_name: 전선협약 코스튬 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 코스튬을 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500383
+    type: 15
+    arg: "1500383"
+    code: package_choose
+    item_name: 전선협약 액자 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 액자를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500384
+    type: 15
+    arg: "1500384"
+    code: package_choose
+    item_name: 전선협약 명함 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 명함을 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500385
+    type: 15
+    arg: "1500385"
+    code: package_choose
+    item_name: 전선협약 코스튬 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 코스튬을 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500386
+    type: 15
+    arg: "1500386"
+    code: package_choose
+    item_name: 전선협약 액자 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 액자를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500387
+    type: 15
+    arg: "1500387"
+    code: package_choose
+    item_name: 전선협약 명함 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 명함을 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500388
+    type: 15
+    arg: "1500388"
+    code: package_choose
+    item_name: 전선협약 코스튬 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 코스튬을 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500389
+    type: 15
+    arg: "1500389"
+    code: package_choose
+    item_name: 전선협약 액자 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 액자를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500390
+    type: 15
+    arg: "1500390"
+    code: package_choose
+    item_name: 전선협약 명함 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 명함을 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500391
+    type: 15
+    arg: "1500391"
+    code: package_choose
+    item_name: 전선협약 코스튬 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 코스튬을 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500392
+    type: 15
+    arg: "1500392"
+    code: package_choose
+    item_name: 전선협약 액자 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 액자를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500393
+    type: 15
+    arg: "1500393"
+    code: package_choose
+    item_name: 전선협약 명함 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 명함을 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500394
+    type: 15
+    arg: "1500394"
+    code: package_choose
+    item_name: 전선협약 코스튬 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 코스튬을 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500395
+    type: 15
+    arg: "1500395"
+    code: package_choose
+    item_name: 전선협약 액자 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 액자를 하나 골라 획득할 수 있습니다.
+    rank: 1
+    sort: -1
+    type_sort: 1
+  }
+  {
+    id: 1500396
+    type: 15
+    arg: "1500396"
+    code: package_choose
+    item_name: 전선협약 명함 선택 코드
+    introduction: 전선협약 보상, 지정 범위에서 원하는 명함을 하나 골라 획득할 수 있습니다.
     rank: 1
     sort: -1
     type_sort: 1

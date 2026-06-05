@@ -10345,6 +10345,15 @@
     order: 168
   }
   {
+    id: 30040
+    name: M1919A4 - 오리 특공대
+    fit_gun: 80
+    voice: 4
+    dialog: 빨리 와, 지휘관! 여기 가판대에 있는 간식이랑 이 오리들 전부 갖고 갈 거야!
+    illustrator_cv: 豆芽,Yoshida Sachiyo,
+    order: 169
+  }
+  {
     id: 50001
     name: 한양조 88식 - 별들에게
     fit_gun: 95
