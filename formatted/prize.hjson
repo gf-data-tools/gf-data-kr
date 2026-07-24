@@ -36208,6 +36208,12 @@
     icon: NPC_Kalina_213
   }
   {
+    id: 12514
+    name: 코스튬: 카리나 - 보석과 불꽃놀이
+    gift: 205-1
+    icon: NPC_Kalina_205
+  }
+  {
     id: 12601
     name: 노래하는 엠마
     furniture: "2072"
